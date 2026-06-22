@@ -29,7 +29,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `scripts/split_games.py` | 一度きり用: 集約 `games.json` を `data/games/` に分解 | 通常は使わない（履歴的に保持） |
 | `scripts/build_aggregate.py` | `data/games/*.json` から `games.json` と `index.json` を再生成 | データ変更後に必ず実行 |
 | `scripts/patch_games.py` | 複数ゲームに同じフィールド（concept/target等）を一括で書き込むユーティリティ。中の `PATCHES` 辞書を編集して実行 | 一括追記後は `build_aggregate.py` を必ず実行 |
-| `mocks/` | ブラウザで動くUIモック（A:matrix / B:facet / C:scatter / D:dashboard / detail）。`python3 -m http.server` で配信 | 採用案が決まったら `docs/` または `site/` に移してGitHub Pages公開 |
+| `mocks/facet.html`, `mocks/detail.html` | 公開サイトのUI実装（B案 ファセット検索 + カード + 詳細）。フォルダ名は履歴的に `mocks/` だが、これが本番UI | `python3 -m http.server` でローカル配信、push で GitHub Pages 自動再デプロイ |
+| `index.html` (root) | `mocks/facet.html` への meta-refresh リダイレクト。Pages トップの入口 | — |
+| `.github/workflows/deploy-pages.yml` | GitHub Pages デプロイの Actions ワークフロー | push 時に自動実行、Actions タブから手動 Run も可 |
 
 **ID #56 は欠番（プロセカ重複を排除した結果）**。本数を 100 に揃えたい場合は、未掲載のタイトル（例：ウマ娘、デレステ、シャニマス、グラブル等 — 出典の openQuestions 参照）を追加して #56 を埋めるのが自然です。
 

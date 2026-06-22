@@ -16,5 +16,7 @@
   ],
   "social_axis": "ソロ",
   "slug": "ring-fit-adventure",
-  "file": "data/games/050-ring-fit-adventure.json"
+  "file": "data/games/050-ring-fit-adventure.json",
+  "concept": "専用リングコントローラで「筋トレをRPGの戦闘に翻訳」、運動を継続させるためにゲームの報酬構造を使ったフィットネス。",
+  "target": "20-40代、運動不足層、コロナ禍に在宅トレーニング需要で爆発的に伸びた。"
 }

@@ -15,5 +15,7 @@
     "EXP"
   ],
   "slug": "pokemon-legends-arceus",
-  "file": "data/games/016-pokemon-legends-arceus.json"
+  "file": "data/games/016-pokemon-legends-arceus.json",
+  "concept": "「捕獲をアクションで行う」初の能動探索ポケモン。シンオウ地方の過去を舞台に、シリーズの慣習を解体した実験作。",
+  "target": "既存ポケモンファンに加え、本編に飽きた／別の角度から触れたい層。"
 }

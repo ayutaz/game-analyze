@@ -12,5 +12,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "beatmania-iidx",
-  "file": "data/games/053-beatmania-iidx.json"
+  "file": "data/games/053-beatmania-iidx.json",
+  "concept": "1999年からのDJ風アーケードリズムゲーム、7鍵+ターンテーブルで「機材を操る」体験を売りにする上級向け代表作。",
+  "target": "20-40代のリズムゲーム上級者、特にコナミアミューズメント層、競技性志向。"
 }

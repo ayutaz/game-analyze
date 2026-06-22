@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>モック選択 — 日本のゲーム99本分析カタログ</title>
+  <link rel="stylesheet" href="shared.css">
+  <style>
+    .mock-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 16px;
+      margin-top: 16px;
+    }
+    .mock-link {
+      display: block;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px;
+      text-decoration: none;
+      color: inherit;
+      transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+    }
+    .mock-link:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+      border-color: var(--text);
+    }
+    .mock-link .tag {
+      font-size: 11px;
+      color: var(--text-dim);
+      background: var(--bg);
+      padding: 2px 8px;
+      border-radius: 4px;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+    .mock-link h2 {
+      margin: 0 0 8px 0;
+      font-size: 18px;
+    }
+    .mock-link p {
+      margin: 0;
+      color: var(--text-dim);
+      font-size: 13px;
+    }
+    .preview {
+      background: var(--bg);
+      border-radius: 6px;
+      padding: 14px;
+      margin-top: 14px;
+      font-family: ui-monospace, Menlo, monospace;
+      font-size: 10px;
+      color: var(--text-dim);
+      white-space: pre;
+      overflow: hidden;
+      line-height: 1.4;
+    }
+    .intro {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-bottom: 8px;
+    }
+    .intro p { margin: 6px 0; color: var(--text-dim); font-size: 13px; }
+    .intro strong { color: var(--text); }
+  </style>
+</head>
+<body>
+  <header class="topbar" id="topbar"></header>
+  <main class="container">
+    <div class="intro">
+      <p><strong>主用途:</strong> 発想のための眺め — カテゴリ／他者軸でゲームを並べて「こうした面白さの軸がある」と気付くための参考資料</p>
+      <p><strong>データ:</strong> 99本（EXP 55 / NAR 23 / REW 21）、出典は <code>data/games/*.json</code> から読み込み</p>
+      <p>下の4つはレイアウト骨格の候補です。比較して、しっくり来る方向を教えてください。複数組み合わせもアリ。</p>
+    </div>
+
+    <div class="mock-grid">
+      <a class="mock-link" href="matrix.html">
+        <div class="tag">A</div>
+        <h2>マトリクス・グリッド</h2>
+        <p>カテゴリ × 他者軸の交差表。データの偏り（薄い象限）が一目瞭然で、新企画の余白を発見しやすい。</p>
+        <div class="preview">         | 対戦 | 協力 | 非対称 | 非同期 | 観戦 | ソロ |
+--------+------+------+--------+--------+------+------+
+EXP     | [26] | [10] | [1]    | [4]    |  -   | [5]  |
+NAR     |  -   |  -   |   -    |   -    |  -   |  -   |
+REW     |  -   |  -   |   -    |   -    |  -   |  -   |</div>
+      </a>
+
+      <a class="mock-link" href="facet.html">
+        <div class="tag">B</div>
+        <h2>ファセット検索＋カードグリッド</h2>
+        <p>左に絞り込みフィルタ、右にカードの瀑布。検索しながら眺める使い方。EC/ストア風で操作習熟ゼロ。</p>
+        <div class="preview">┌─────────┬──────────────────────┐
+│ Filters │ [card][card][card]   │
+│ □EXP    │ [card][card][card]   │
+│ □NAR    │ [card][card][card]   │
+│ □REW    │ [card][card][card]   │
+│ ─────   │                      │
+│ 対戦    │ 99 of 99 件          │
+└─────────┴──────────────────────┘</div>
+      </a>
+
+      <a class="mock-link" href="scatter.html">
+        <div class="tag">C</div>
+        <h2>散布図＋ホバー詳細</h2>
+        <p>X=リリース年, Y=売上, 色=カテゴリ で 99 点を一望。歴史的な眺め、世代×規模感の探索に強い。</p>
+        <div class="preview">売上↑
+100M│           ●(EXP)
+    │     ●●  ●     ◆(NAR)
+ 10M│   ◆ ●●●●● ▲▲(REW)
+    │  ◆ ●◆ ●●●●●▲▲
+  1M│ ▲▲● ◆●▲● ●●●●●▲
+    └────────────────→ 年</div>
+      </a>
+
+      <a class="mock-link" href="dashboard.html">
+        <div class="tag">D</div>
+        <h2>ハイブリッド・ダッシュボード</h2>
+        <p>上半分=KPI（円グラフ・年代ヒスト）、下半分=カードグリッド+フィルタ。眺めと深掘りを1画面で両立。</p>
+        <div class="preview">┌─────────┬─────────┬─────────┐
+│カテゴリ │ 他者軸  │ 年代分布│
+│  円    │  棒    │  ヒスト │
+├─────────┴─────────┴─────────┤
+│ □EXP □NAR □REW  [search]    │
+├──────────────────────────────┤
+│ [card][card][card][card]    │
+└──────────────────────────────┘</div>
+      </a>
+    </div>
+  </main>
+
+  <script src="shared.js"></script>
+  <script>document.getElementById('topbar').innerHTML = topbarNav('index');</script>
+</body>
+</html>

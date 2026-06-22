@@ -15,5 +15,7 @@
     "EXP"
   ],
   "slug": "cyberpunk-2077",
-  "file": "data/games/074-cyberpunk-2077.json"
+  "file": "data/games/074-cyberpunk-2077.json",
+  "concept": "巨大都市ナイトシティを舞台に、サイバーパンク世界のキャラクターロールプレイを徹底追求した、リリース直後の炎上と長期改善のサーガを持つRPG。",
+  "target": "20-40代、ウィッチャー3経験者、サイバーパンク文化（80年代SF）親和層。"
 }

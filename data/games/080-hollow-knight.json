@@ -15,5 +15,7 @@
     "NAR"
   ],
   "slug": "hollow-knight",
-  "file": "data/games/080-hollow-knight.json"
+  "file": "data/games/080-hollow-knight.json",
+  "concept": "2D メトロイドヴァニアの傑作、虫の世界を舞台に死亡時の「シェイド回収」と探索の自由度を高度に組み合わせたインディー。",
+  "target": "20-30代、メトロイドヴァニア・ダークソウルファン、インディーカルチャー層。"
 }

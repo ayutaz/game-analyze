@@ -16,5 +16,7 @@
   ],
   "popularity": "育成サイクル×競走",
   "slug": "umamusume-pretty-derby",
-  "file": "data/games/023-umamusume-pretty-derby.json"
+  "file": "data/games/023-umamusume-pretty-derby.json",
+  "concept": "競走馬を擬人化し、育成シミュレーション×アイドルプロデュースを融合させたメディアミックス・ガチャ。",
+  "target": "20-40代男性中心、競馬ファンとアニメファン両方に訴求。育成リプレイ性が高い。"
 }

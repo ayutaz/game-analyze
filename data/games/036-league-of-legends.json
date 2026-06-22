@@ -12,5 +12,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "league-of-legends",
-  "file": "data/games/036-league-of-legends.json"
+  "file": "data/games/036-league-of-legends.json",
+  "concept": "5v5のMOBA（マルチプレイヤーオンラインバトルアリーナ）の世界基準。10年以上世界eスポーツの中核を担う。",
+  "target": "大学生〜30代のグローバル競技層、特にPC文化のあるエリア（韓国・北米・欧州・中国）。"
 }

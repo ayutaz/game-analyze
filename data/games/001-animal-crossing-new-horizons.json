@@ -18,5 +18,7 @@
   "social_axis": "非同期",
   "popularity": "コロナ禍社会現象、島訪問SNSバズ",
   "slug": "animal-crossing-new-horizons",
-  "file": "data/games/001-animal-crossing-new-horizons.json"
+  "file": "data/games/001-animal-crossing-new-horizons.json",
+  "concept": "「自分の島を作り、誰かに見せる」をテーマにした非同期ソーシャル・クラフト。家具・服・地形まで作り変えられ、SNS で「見せる/見られる」が成立する。",
+  "target": "10-40代の男女、特に女性層と非ゲーマー層に強い。プレッシャーなく長期間遊びたい層、SNS で自己表現したい層。"
 }

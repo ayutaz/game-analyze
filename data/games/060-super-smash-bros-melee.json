@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "super-smash-bros-melee",
-  "file": "data/games/060-super-smash-bros-melee.json"
+  "file": "data/games/060-super-smash-bros-melee.json",
+  "concept": "2001年GC発売、現在も世界格闘大会で現役のスマブラ最高峰、「移動キャンセル（ウェイブダッシュ）」発見で深い競技性を持つようになった。",
+  "target": "30-40代の格闘ゲーム/スマブラ熟練層、特に「上限の高さ」を求める競技者。"
 }

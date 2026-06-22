@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "協力",
   "slug": "minecraft",
-  "file": "data/games/048-minecraft.json"
+  "file": "data/games/048-minecraft.json",
+  "concept": "「ブロックを採掘して何でも作る」サンドボックスの代名詞、教育・MOD・SNS拡散の総合プラットフォーム化した世界一売れたゲーム。",
+  "target": "全年齢（小学生〜大人）、特に創造性を発揮したい層、教育用途にも採用。"
 }

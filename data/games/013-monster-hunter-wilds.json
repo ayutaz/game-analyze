@@ -18,5 +18,7 @@
   ],
   "social_axis": "協力",
   "slug": "monster-hunter-wilds",
-  "file": "data/games/013-monster-hunter-wilds.json"
+  "file": "data/games/013-monster-hunter-wilds.json",
+  "concept": "単一の生態系で群れる怪物・天候の連鎖変化を見せ、「世界が呼吸している」狩猟体験に進化した最新作。",
+  "target": "既存モンハンファン + 高性能機(PS5/Xbox/PC)を持つコアゲーマー。グラフィック重視層。"
 }

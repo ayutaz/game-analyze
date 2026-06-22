@@ -15,5 +15,7 @@
   "secondary": [],
   "popularity": "軽量カード収集",
   "slug": "pokemon-tcg-pocket",
-  "file": "data/games/019-pokemon-tcg-pocket.json"
+  "file": "data/games/019-pokemon-tcg-pocket.json",
+  "concept": "物理カードゲームを「1日2パック開封」の軽量アプリに翻訳、TCG経験ゼロでも遊べる入口を設計。",
+  "target": "既存ポケモンファン + TCG非経験者の幅広い層、特にカード収集の喜びを求める非ゲーマー層。"
 }

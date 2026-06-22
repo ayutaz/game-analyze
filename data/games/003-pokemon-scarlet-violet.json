@@ -17,5 +17,7 @@
   ],
   "popularity": "初のOW本編",
   "slug": "pokemon-scarlet-violet",
-  "file": "data/games/003-pokemon-scarlet-violet.json"
+  "file": "data/games/003-pokemon-scarlet-violet.json",
+  "concept": "「集める・育てる・対戦する」を初の真オープンワールドで一気通貫させた本編シリーズ。ストーリーを並行進行できる三線シナリオで、自由な順序プレイを可能にした。",
+  "target": "小中学生〜30代のポケモン世代、特にシリーズファンと「久しぶりに本編に戻る大人」層。"
 }

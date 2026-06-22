@@ -11,5 +11,7 @@
   "genre": "グラフィックノベル",
   "primary": "NAR",
   "slug": "life-is-strange",
-  "file": "data/games/071-life-is-strange.json"
+  "file": "data/games/071-life-is-strange.json",
+  "concept": "「時間を巻き戻せる女子高生」というギミックで、青春・トラウマ・選択の重さを描くナラティブ・アドベンチャー。",
+  "target": "10-30代、特に女性層比率が高い、海外インディー・ナラティブ文化親和層。"
 }

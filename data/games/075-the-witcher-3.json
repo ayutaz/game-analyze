@@ -15,5 +15,7 @@
     "EXP"
   ],
   "slug": "the-witcher-3",
-  "file": "data/games/075-the-witcher-3.json"
+  "file": "data/games/075-the-witcher-3.json",
+  "concept": "スラブ神話とダークファンタジーを融合し、「主人公が中年男性」というRPGの常識を覆した、サブクエストの質で世界を驚かせたオープンワールドRPG。",
+  "target": "20-40代、ファンタジー文学読者、コアRPGファン、Netflix版から流入した新規層。"
 }

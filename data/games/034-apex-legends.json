@@ -16,5 +16,7 @@
   ],
   "social_axis": "対戦",
   "slug": "apex-legends",
-  "file": "data/games/034-apex-legends.json"
+  "file": "data/games/034-apex-legends.json",
+  "concept": "BR（バトルロワイヤル）にキャラ固有スキル（レジェンド）と「リスポーン可能な3人チーム」を持ち込み、競技性の高いチームFPS。",
+  "target": "20-30代のFPSコア層、競技シーン・配信視聴文化との親和性が高い。"
 }

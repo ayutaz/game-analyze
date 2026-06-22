@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>A: マトリクス — 日本のゲーム99本</title>
+  <link rel="stylesheet" href="shared.css">
+  <style>
+    .matrix {
+      display: grid;
+      grid-template-columns: 90px repeat(6, 1fr);
+      gap: 8px;
+      margin-top: 8px;
+    }
+    .matrix .header-cell {
+      font-size: 11px;
+      text-align: center;
+      color: var(--text-dim);
+      padding: 8px 4px;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+    }
+    .matrix .row-label {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 600;
+      font-size: 13px;
+    }
+    .matrix .cell {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px;
+      min-height: 120px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      cursor: pointer;
+      transition: border-color .12s ease;
+    }
+    .matrix .cell:hover { border-color: var(--text); }
+    .matrix .cell.exp { border-top: 3px solid var(--exp); }
+    .matrix .cell.nar { border-top: 3px solid var(--nar); }
+    .matrix .cell.rew { border-top: 3px solid var(--rew); }
+    .matrix .cell.empty {
+      background: transparent;
+      border-style: dashed;
+      color: var(--text-faint);
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      cursor: default;
+    }
+    .matrix .cell .count {
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .matrix .cell .games {
+      font-size: 11px;
+      color: var(--text-dim);
+      line-height: 1.4;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+    }
+
+    #drawer {
+      position: fixed;
+      top: 0; right: 0; bottom: 0;
+      width: 480px;
+      background: var(--surface);
+      border-left: 1px solid var(--border);
+      transform: translateX(100%);
+      transition: transform .2s ease;
+      overflow-y: auto;
+      padding: 20px;
+      z-index: 20;
+      box-shadow: var(--shadow);
+    }
+    #drawer.open { transform: translateX(0); }
+    #drawer .drawer-head {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 16px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+    }
+    #drawer .close {
+      margin-left: auto;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 4px 10px;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    #drawer .drawer-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar" id="topbar"></header>
+  <main class="container">
+    <p style="color: var(--text-dim); font-size: 13px;">
+      <strong>カテゴリ × 他者軸</strong> の交差マトリクス。セルをクリックで該当ゲームを表示。空欄は「この軸の組み合わせを満たすタイトルが未収録」の余白。
+    </p>
+    <div class="matrix" id="matrix"></div>
+  </main>
+  <aside id="drawer">
+    <div class="drawer-head">
+      <h2 id="drawer-title" style="margin:0;font-size:16px;"></h2>
+      <button class="close" onclick="document.getElementById('drawer').classList.remove('open')">閉じる</button>
+    </div>
+    <div class="drawer-list" id="drawer-list"></div>
+  </aside>
+
+  <script src="shared.js"></script>
+  <script>
+    document.getElementById('topbar').innerHTML = topbarNav('matrix');
+    const PRIMARIES = ['EXP', 'NAR', 'REW'];
+
+    (async () => {
+      const idx = await loadIndex();
+      const games = idx.games;
+      const matrix = document.getElementById('matrix');
+
+      // ヘッダ行
+      matrix.innerHTML = '<div class="header-cell"></div>' +
+        SOCIAL_AXES.map(a => `<div class="header-cell">${a}</div>`).join('');
+
+      for (const p of PRIMARIES) {
+        matrix.innerHTML += `<div class="row-label"><span class="badge ${p.toLowerCase()}">${PRIMARY_LABEL[p]}</span></div>`;
+        for (const axis of SOCIAL_AXES) {
+          // NAR/REW は他者軸が無いので、副分類に EXP が含まれているケースのみ計上
+          // EXP は primary===EXP かつ social_axis===axis
+          let cellGames;
+          if (p === 'EXP') {
+            cellGames = games.filter(g => g.primary === 'EXP' && g.social_axis === axis);
+          } else {
+            cellGames = games.filter(g => g.primary === p && (g.secondary || []).includes('EXP') && g.social_axis === axis);
+          }
+          if (cellGames.length === 0) {
+            matrix.innerHTML += `<div class="cell empty">—</div>`;
+          } else {
+            const names = cellGames.slice(0, 5).map(g => g.title_jp).join('、');
+            const more = cellGames.length > 5 ? `<br>…他 ${cellGames.length - 5}件` : '';
+            matrix.innerHTML += `
+              <div class="cell ${p.toLowerCase()}" data-primary="${p}" data-axis="${axis}">
+                <div class="count">${cellGames.length}</div>
+                <div class="games">${names}${more}</div>
+              </div>
+            `;
+          }
+        }
+      }
+
+      matrix.addEventListener('click', (e) => {
+        const cell = e.target.closest('.cell:not(.empty)');
+        if (!cell) return;
+        const p = cell.dataset.primary;
+        const a = cell.dataset.axis;
+        let list;
+        if (p === 'EXP') {
+          list = games.filter(g => g.primary === 'EXP' && g.social_axis === a);
+        } else {
+          list = games.filter(g => g.primary === p && (g.secondary || []).includes('EXP') && g.social_axis === a);
+        }
+        document.getElementById('drawer-title').innerHTML =
+          `<span class="badge ${p.toLowerCase()}">${PRIMARY_LABEL[p]}</span> × <span class="axis-tag">${a}</span> ${list.length}件`;
+        document.getElementById('drawer-list').innerHTML = list.map(cardHTML).join('');
+        document.getElementById('drawer').classList.add('open');
+      });
+    })();
+  </script>
+</body>
+</html>

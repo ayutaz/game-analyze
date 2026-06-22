@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "非対称",
   "slug": "dead-by-daylight",
-  "file": "data/games/047-dead-by-daylight.json"
+  "file": "data/games/047-dead-by-daylight.json",
+  "concept": "1人の殺人鬼 vs 4人の生存者の「非対称対戦サバイバル」。ホラーIPコラボ（貞子、エルム街等）で世界IPを統合する装置にもなった。",
+  "target": "20-30代、ホラーファン、配信視聴文化、IPコラボに反応する層。"
 }

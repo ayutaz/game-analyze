@@ -15,5 +15,7 @@
   "social_axis": "ソロ",
   "popularity": "キャプチャーで再発明",
   "slug": "super-mario-odyssey",
-  "file": "data/games/008-super-mario-odyssey.json"
+  "file": "data/games/008-super-mario-odyssey.json",
+  "concept": "帽子「キャッピー」を投げて敵やオブジェクトに憑依（キャプチャー）するという発明で、3Dマリオを再発明した自由探索アクション。",
+  "target": "全年齢、特に3Dマリオの伝統を愛する20-40代と、新しい操作体験を求めるアクションファン。"
 }

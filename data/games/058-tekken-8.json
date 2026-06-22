@@ -12,5 +12,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "tekken-8",
-  "file": "data/games/058-tekken-8.json"
+  "file": "data/games/058-tekken-8.json",
+  "concept": "3D格闘の代表作、リアルな身体表現と豊富な技セットで、世界格闘大会の中核を担うシリーズ最新作。",
+  "target": "20-40代の3D格闘ファン、世界eスポーツ層、シリーズ伝統ファン。"
 }

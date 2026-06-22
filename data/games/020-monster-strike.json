@@ -17,5 +17,7 @@
   "social_axis": "協力",
   "popularity": "ひっぱりハンティング、超・獣神祭",
   "slug": "monster-strike",
-  "file": "data/games/020-monster-strike.json"
+  "file": "data/games/020-monster-strike.json",
+  "concept": "「ガチャ × 4人マルチ × 引っ張りアクション」の3点セットで、ガチャ報酬を友達との時間に翻訳するモバイルゲーム。同卓共闘（オフライン4人）が中核。",
+  "target": "中高生〜30代、特に「友達と同卓で遊ぶ」文脈を持つ層（学校・職場・家族）。IPコラボに反応する非ゲーマー層も含む。"
 }

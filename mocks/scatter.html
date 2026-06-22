@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>C: 散布図 — 日本のゲーム99本</title>
+  <link rel="stylesheet" href="shared.css">
+  <style>
+    .chart-wrap {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      position: relative;
+    }
+    canvas { width: 100%; height: 540px; }
+    .legend {
+      display: flex;
+      gap: 16px;
+      font-size: 12px;
+      color: var(--text-dim);
+      margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+    .legend .swatch {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      vertical-align: middle;
+      margin-right: 5px;
+    }
+    #tooltip {
+      position: absolute;
+      background: var(--text);
+      color: var(--surface);
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-size: 12px;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity .12s ease;
+      max-width: 240px;
+      box-shadow: var(--shadow);
+    }
+    #tooltip .ttl { font-weight: 700; margin-bottom: 4px; }
+    .controls {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .controls label {
+      font-size: 12px;
+      color: var(--text-dim);
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      cursor: pointer;
+    }
+    .controls input { margin: 0; }
+    .hint {
+      font-size: 12px;
+      color: var(--text-faint);
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar" id="topbar"></header>
+  <main class="container">
+    <p style="color: var(--text-dim); font-size: 13px;">
+      <strong>X = リリース年 / Y = 世界累計売上(M) / 色 = カテゴリ</strong>。
+      売上未公表のタイトルは下部に並べる（規模感不明）。点にホバーすると詳細表示。
+    </p>
+    <div class="controls">
+      <label><input type="checkbox" checked data-cat="EXP"> <span class="badge exp">体験型</span></label>
+      <label><input type="checkbox" checked data-cat="NAR"> <span class="badge nar">物語型</span></label>
+      <label><input type="checkbox" checked data-cat="REW"> <span class="badge rew">報酬型</span></label>
+    </div>
+    <div class="chart-wrap">
+      <div class="legend">
+        <span><span class="swatch" style="background:#2563eb"></span>体験型 (EXP)</span>
+        <span><span class="swatch" style="background:#db2777"></span>物語型 (NAR)</span>
+        <span><span class="swatch" style="background:#f59e0b"></span>報酬型 (REW)</span>
+      </div>
+      <canvas id="chart"></canvas>
+      <div id="tooltip"></div>
+    </div>
+    <p class="hint">※ 売上は M (Million) 単位。"5B+ DL" のような DL 数も M に換算（DL/販売の混在に注意）。未公表は除外。</p>
+  </main>
+
+  <script src="shared.js"></script>
+  <script>
+    document.getElementById('topbar').innerHTML = topbarNav('scatter');
+    const COLORS = { EXP: '#2563eb', NAR: '#db2777', REW: '#f59e0b' };
+    const enabled = new Set(['EXP','NAR','REW']);
+
+    const canvas = document.getElementById('chart');
+    const ctx = canvas.getContext('2d');
+    const tooltip = document.getElementById('tooltip');
+
+    let points = [];
+    let allGames = [];
+
+    function resize() {
+      const dpr = window.devicePixelRatio || 1;
+      const rect = canvas.getBoundingClientRect();
+      canvas.width = rect.width * dpr;
+      canvas.height = rect.height * dpr;
+      ctx.setTransform(dpr,0,0,dpr,0,0);
+    }
+
+    function draw(games) {
+      resize();
+      const rect = canvas.getBoundingClientRect();
+      const W = rect.width, H = rect.height;
+      const padL = 60, padR = 20, padT = 16, padB = 36;
+
+      const data = games
+        .map(g => ({ g, x: g.year, y: bestSales(g) }))
+        .filter(d => d.x && d.y && enabled.has(d.g.primary));
+
+      const xs = data.map(d => d.x);
+      const xMin = Math.min(1985, ...xs), xMax = Math.max(2026, ...xs);
+      const yMax = Math.max(50, ...data.map(d => d.y));
+
+      // 軸
+      ctx.strokeStyle = '#e5e5e5';
+      ctx.lineWidth = 1;
+      ctx.fillStyle = '#71717a';
+      ctx.font = '11px system-ui';
+
+      // Y軸 (対数)
+      const yScale = (v) => H - padB - (Math.log10(v + 1) / Math.log10(yMax + 1)) * (H - padT - padB);
+      [1, 5, 10, 50, 100, 500].forEach(v => {
+        if (v > yMax) return;
+        const y = yScale(v);
+        ctx.beginPath();
+        ctx.moveTo(padL, y); ctx.lineTo(W - padR, y); ctx.stroke();
+        ctx.fillText(v + 'M', 6, y + 3);
+      });
+
+      // X軸
+      const xScale = (v) => padL + ((v - xMin) / (xMax - xMin)) * (W - padL - padR);
+      for (let yr = 1990; yr <= 2025; yr += 5) {
+        const x = xScale(yr);
+        ctx.beginPath();
+        ctx.moveTo(x, padT); ctx.lineTo(x, H - padB); ctx.stroke();
+        ctx.fillText(yr, x - 10, H - padB + 16);
+      }
+
+      // 点
+      points = [];
+      data.forEach(d => {
+        const x = xScale(d.x);
+        const y = yScale(d.y);
+        const r = Math.max(4, Math.min(14, Math.sqrt(d.y) * 1.2));
+        ctx.fillStyle = COLORS[d.g.primary] + 'cc';
+        ctx.strokeStyle = COLORS[d.g.primary];
+        ctx.lineWidth = 1.2;
+        ctx.beginPath();
+        ctx.arc(x, y, r, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.stroke();
+        points.push({ x, y, r, g: d.g, sales: d.y });
+      });
+    }
+
+    canvas.addEventListener('mousemove', (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const mx = e.clientX - rect.left, my = e.clientY - rect.top;
+      let hit = null;
+      for (const p of points) {
+        const dx = mx - p.x, dy = my - p.y;
+        if (dx*dx + dy*dy <= (p.r+2)*(p.r+2)) { hit = p; break; }
+      }
+      if (hit) {
+        tooltip.innerHTML = `
+          <div class="ttl">${hit.g.title_jp}</div>
+          <div>${hit.g.year} • ${hit.sales}M • ${PRIMARY_LABEL[hit.g.primary]}${hit.g.social_axis ? ' / ' + hit.g.social_axis : ''}</div>
+        `;
+        tooltip.style.left = (e.clientX - rect.left + 12) + 'px';
+        tooltip.style.top = (e.clientY - rect.top + 12) + 'px';
+        tooltip.style.opacity = '1';
+      } else {
+        tooltip.style.opacity = '0';
+      }
+    });
+    canvas.addEventListener('mouseleave', () => tooltip.style.opacity = '0');
+
+    document.querySelectorAll('.controls input').forEach(cb => {
+      cb.addEventListener('change', () => {
+        if (cb.checked) enabled.add(cb.dataset.cat);
+        else enabled.delete(cb.dataset.cat);
+        draw(allGames);
+      });
+    });
+
+    window.addEventListener('resize', () => draw(allGames));
+
+    (async () => {
+      // 散布図は売上を使うので個別ファイルから sales をマージ
+      const idx = await loadIndex();
+      const merged = await Promise.all(idx.games.map(async g => {
+        const detail = await loadGame(g.file);
+        return { ...g, sales_jp: detail.sales_jp, sales_world: detail.sales_world };
+      }));
+      allGames = merged;
+      draw(allGames);
+    })();
+  </script>
+</body>
+</html>

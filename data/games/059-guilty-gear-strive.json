@@ -16,5 +16,7 @@
   ],
   "social_axis": "対戦",
   "slug": "guilty-gear-strive",
-  "file": "data/games/059-guilty-gear-strive.json"
+  "file": "data/games/059-guilty-gear-strive.json",
+  "concept": "アーク・サウンドのロック楽曲とアニメ調キャラビジュアルで、格闘ゲームの「カッコよさ」を再定義したアークシステムワークス代表作。",
+  "target": "20-30代、アニメ・ロック文化親和層、格闘ゲーム上級者。"
 }

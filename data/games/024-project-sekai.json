@@ -16,5 +16,7 @@
   ],
   "social_axis": "協力",
   "slug": "project-sekai",
-  "file": "data/games/024-project-sekai.json"
+  "file": "data/games/024-project-sekai.json",
+  "concept": "初音ミクを軸に、5つのバンドユニットの物語を読みながらリズムゲームを楽しむ。VOCALOIDシーンとリズムゲームの結節点。",
+  "target": "中高生〜20代、特にVOCALOID文化育ち層、リズムゲーム経験者。"
 }

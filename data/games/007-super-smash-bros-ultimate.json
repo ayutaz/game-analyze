@@ -18,5 +18,7 @@
   "social_axis": "対戦",
   "popularity": "キャラクロスオーバー集大成",
   "slug": "super-smash-bros-ultimate",
-  "file": "data/games/007-super-smash-bros-ultimate.json"
+  "file": "data/games/007-super-smash-bros-ultimate.json",
+  "concept": "任天堂・他社の名作キャラを横スクロール格闘の文法で戦わせるオールスター IP 集約装置。蓄積ダメージで吹っ飛ぶ独自ルールで初心者でも逆転可能。",
+  "target": "20-40代のゲーム文化育ち層、ローカル対戦パーティ需要、競技プレイヤー、IPファン全般。"
 }

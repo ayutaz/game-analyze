@@ -15,5 +15,7 @@
   ],
   "social_axis": "対戦",
   "slug": "overwatch-2",
-  "file": "data/games/037-overwatch-2.json"
+  "file": "data/games/037-overwatch-2.json",
+  "concept": "「ヒーローシューター」というジャンル名を浸透させた、キャラクター固有能力で役割分担するチーム対戦FPS。",
+  "target": "20-30代、FPS経験者、キャラクターIPファン両方に訴求。"
 }

@@ -16,5 +16,7 @@
   "social_axis": "ソロ",
   "popularity": "家庭用ゲーム機普及の原点",
   "slug": "super-mario-bros",
-  "file": "data/games/005-super-mario-bros.json"
+  "file": "data/games/005-super-mario-bros.json",
+  "concept": "ジャンプとダッシュという2つの操作だけで構成された「アクションゲームの文法」を確立した、家庭用ゲーム機普及の起点。",
+  "target": "1985年当時の小学生から大人まで、ゲームに初めて触れる層。以降40年にわたり「最初のゲーム体験」として継承される。"
 }

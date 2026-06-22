@@ -17,5 +17,7 @@
   ],
   "popularity": "シリーズ原点、通信交換",
   "slug": "pokemon-red-green",
-  "file": "data/games/004-pokemon-red-green.json"
+  "file": "data/games/004-pokemon-red-green.json",
+  "concept": "「通信ケーブルで友達のソフトとモンスターを交換する」という当時前代未聞の遊びで、ゲームを社交装置に変えた本編原点。",
+  "target": "1996年当時の小中学生（現在の30-40代）が主軸。後にリメイク・配信を通じて全世代に再到達。"
 }

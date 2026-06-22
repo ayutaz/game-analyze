@@ -15,5 +15,7 @@
     "NAR"
   ],
   "slug": "pokemon-x-y",
-  "file": "data/games/015-pokemon-x-y.json"
+  "file": "data/games/015-pokemon-x-y.json",
+  "concept": "シリーズ初の本格3Dグラフィック化、メガシンカで既存ポケモンに新形態を与え「過去作キャラのアップデート」を発明した3DS本編。",
+  "target": "3DSを持つ小中学生〜大人、特に過去シリーズの愛着が強い層。"
 }

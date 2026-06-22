@@ -16,5 +16,7 @@
   "social_axis": "対戦",
   "popularity": "パーティ対戦の定番",
   "slug": "mario-kart-8-deluxe",
-  "file": "data/games/002-mario-kart-8-deluxe.json"
+  "file": "data/games/002-mario-kart-8-deluxe.json",
+  "concept": "自動車レースの皮を被ったアイテム合戦パーティゲーム。コインバトル・甲羅アタックなど偶然性で実力差を吸収し、家族・友達同士で笑い合えるローカル対戦の決定版。",
+  "target": "全世代（5-50代）の幅広い層、特に家族や友達と集まって遊ぶ「リビング・パーティ」文脈。任天堂機を持つ世帯の標準装備。"
 }

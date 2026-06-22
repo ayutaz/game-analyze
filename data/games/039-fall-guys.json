@@ -12,5 +12,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "fall-guys",
-  "file": "data/games/039-fall-guys.json"
+  "file": "data/games/039-fall-guys.json",
+  "concept": "ジェリービーン型キャラで「巨大障害物コース×バトルロワイヤル」、TVゲームショー的演出のパーティ対戦。",
+  "target": "全年齢、特に家族・友達と気軽に遊ぶライト層。配信視聴も楽しい。"
 }

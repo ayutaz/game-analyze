@@ -51,7 +51,9 @@
       ],
       "social_axis": "非同期",
       "popularity": "コロナ禍社会現象、島訪問SNSバズ",
-      "slug": "animal-crossing-new-horizons"
+      "slug": "animal-crossing-new-horizons",
+      "concept": "「自分の島を作り、誰かに見せる」をテーマにした非同期ソーシャル・クラフト。家具・服・地形まで作り変えられ、SNS で「見せる/見られる」が成立する。",
+      "target": "10-40代の男女、特に女性層と非ゲーマー層に強い。プレッシャーなく長期間遊びたい層、SNS で自己表現したい層。"
     },
     {
       "id": 2,
@@ -70,7 +72,9 @@
       "secondary": [],
       "social_axis": "対戦",
       "popularity": "パーティ対戦の定番",
-      "slug": "mario-kart-8-deluxe"
+      "slug": "mario-kart-8-deluxe",
+      "concept": "自動車レースの皮を被ったアイテム合戦パーティゲーム。コインバトル・甲羅アタックなど偶然性で実力差を吸収し、家族・友達同士で笑い合えるローカル対戦の決定版。",
+      "target": "全世代（5-50代）の幅広い層、特に家族や友達と集まって遊ぶ「リビング・パーティ」文脈。任天堂機を持つ世帯の標準装備。"
     },
     {
       "id": 3,
@@ -90,7 +94,9 @@
         "NAR"
       ],
       "popularity": "初のOW本編",
-      "slug": "pokemon-scarlet-violet"
+      "slug": "pokemon-scarlet-violet",
+      "concept": "「集める・育てる・対戦する」を初の真オープンワールドで一気通貫させた本編シリーズ。ストーリーを並行進行できる三線シナリオで、自由な順序プレイを可能にした。",
+      "target": "小中学生〜30代のポケモン世代、特にシリーズファンと「久しぶりに本編に戻る大人」層。"
     },
     {
       "id": 4,
@@ -110,7 +116,9 @@
         "NAR"
       ],
       "popularity": "シリーズ原点、通信交換",
-      "slug": "pokemon-red-green"
+      "slug": "pokemon-red-green",
+      "concept": "「通信ケーブルで友達のソフトとモンスターを交換する」という当時前代未聞の遊びで、ゲームを社交装置に変えた本編原点。",
+      "target": "1996年当時の小中学生（現在の30-40代）が主軸。後にリメイク・配信を通じて全世代に再到達。"
     },
     {
       "id": 5,
@@ -129,7 +137,9 @@
       "secondary": [],
       "social_axis": "ソロ",
       "popularity": "家庭用ゲーム機普及の原点",
-      "slug": "super-mario-bros"
+      "slug": "super-mario-bros",
+      "concept": "ジャンプとダッシュという2つの操作だけで構成された「アクションゲームの文法」を確立した、家庭用ゲーム機普及の起点。",
+      "target": "1985年当時の小学生から大人まで、ゲームに初めて触れる層。以降40年にわたり「最初のゲーム体験」として継承される。"
     },
     {
       "id": 6,
@@ -149,7 +159,9 @@
       ],
       "social_axis": "対戦",
       "popularity": "国内最強対戦TPS",
-      "slug": "splatoon-3"
+      "slug": "splatoon-3",
+      "concept": "「敵を倒す」を勝利条件から外し「床を塗る」に置換することで、エイム能力に依存せず初心者と上級者を同じマッチに共存させた対戦TPS。",
+      "target": "中高生〜20代の若年層を中心に、FPS/TPSが苦手でも対戦を楽しみたい層。ローカル/オンライン両方で友達と遊ぶ文化を持つ層。"
     },
     {
       "id": 7,
@@ -170,7 +182,9 @@
       ],
       "social_axis": "対戦",
       "popularity": "キャラクロスオーバー集大成",
-      "slug": "super-smash-bros-ultimate"
+      "slug": "super-smash-bros-ultimate",
+      "concept": "任天堂・他社の名作キャラを横スクロール格闘の文法で戦わせるオールスター IP 集約装置。蓄積ダメージで吹っ飛ぶ独自ルールで初心者でも逆転可能。",
+      "target": "20-40代のゲーム文化育ち層、ローカル対戦パーティ需要、競技プレイヤー、IPファン全般。"
     },
     {
       "id": 8,
@@ -188,7 +202,9 @@
       "secondary": [],
       "social_axis": "ソロ",
       "popularity": "キャプチャーで再発明",
-      "slug": "super-mario-odyssey"
+      "slug": "super-mario-odyssey",
+      "concept": "帽子「キャッピー」を投げて敵やオブジェクトに憑依（キャプチャー）するという発明で、3Dマリオを再発明した自由探索アクション。",
+      "target": "全年齢、特に3Dマリオの伝統を愛する20-40代と、新しい操作体験を求めるアクションファン。"
     },
     {
       "id": 9,
@@ -209,7 +225,9 @@
       ],
       "social_axis": "ソロ",
       "popularity": "OW新基準、GOTY",
-      "slug": "the-legend-of-zelda-botw"
+      "slug": "the-legend-of-zelda-botw",
+      "concept": "「物理エンジンが面白さの源」というオープンワールドの新基準。地形・天候・素材・電気・火が相互作用し、攻略法が無限に分岐する。",
+      "target": "20-40代のコアゲーマー、海外含む。「順序づけられた攻略」より「自分で発見する」体験を求める層。"
     },
     {
       "id": 10,
@@ -229,7 +247,9 @@
       ],
       "social_axis": "ソロ",
       "popularity": "ウルトラハンドで創造性",
-      "slug": "tears-of-the-kingdom"
+      "slug": "tears-of-the-kingdom",
+      "concept": "BotWの上に「ウルトラハンド（物体の接合）」と「スクラビルド（武器と素材の融合）」を載せ、創造性そのものをゲームプレイにした続編。",
+      "target": "BotWファンに加え、SNSで創造物を共有したい層。クリエイティブ系プレイヤーへの訴求が強い。"
     },
     {
       "id": 11,
@@ -251,7 +271,9 @@
       ],
       "social_axis": "協力",
       "popularity": "シリーズ世界進出",
-      "slug": "monster-hunter-world"
+      "slug": "monster-hunter-world",
+      "concept": "シリーズ初の世界同時マルチプラットフォーム展開で「狩猟」を世界基準のARPGに押し上げた、4人協力中心のアクション。",
+      "target": "20-40代のアクションRPGファン、特に「友達と長時間狩りに行く」文脈を持つ層。海外展開で初めて世界商品化。"
     },
     {
       "id": 12,
@@ -271,7 +293,9 @@
         "REW"
       ],
       "social_axis": "協力",
-      "slug": "monster-hunter-rise"
+      "slug": "monster-hunter-rise",
+      "concept": "翔蟲（けりむし）による空中アクションでシリーズの機動性を大幅刷新、和風（神楽風）世界観でSwitchで日本市場に再フォーカス。",
+      "target": "国内Switch層、特に学生・若い社会人。携帯モードと協力プレイの両立を求める層。"
     },
     {
       "id": 13,
@@ -292,7 +316,9 @@
         "REW"
       ],
       "social_axis": "協力",
-      "slug": "monster-hunter-wilds"
+      "slug": "monster-hunter-wilds",
+      "concept": "単一の生態系で群れる怪物・天候の連鎖変化を見せ、「世界が呼吸している」狩猟体験に進化した最新作。",
+      "target": "既存モンハンファン + 高性能機(PS5/Xbox/PC)を持つコアゲーマー。グラフィック重視層。"
     },
     {
       "id": 14,
@@ -310,7 +336,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "pokemon-sword-shield"
+      "slug": "pokemon-sword-shield",
+      "concept": "英国モチーフの「ガラル地方」でジム戦をスタジアム化、ダイマックスで巨大化バトルを演出した本編Switch第1作。",
+      "target": "小中学生〜大人世代のポケモンファン、特に「TVスタジアム的演出」に馴染む層。"
     },
     {
       "id": 15,
@@ -328,7 +356,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "pokemon-x-y"
+      "slug": "pokemon-x-y",
+      "concept": "シリーズ初の本格3Dグラフィック化、メガシンカで既存ポケモンに新形態を与え「過去作キャラのアップデート」を発明した3DS本編。",
+      "target": "3DSを持つ小中学生〜大人、特に過去シリーズの愛着が強い層。"
     },
     {
       "id": 16,
@@ -346,7 +376,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "pokemon-legends-arceus"
+      "slug": "pokemon-legends-arceus",
+      "concept": "「捕獲をアクションで行う」初の能動探索ポケモン。シンオウ地方の過去を舞台に、シリーズの慣習を解体した実験作。",
+      "target": "既存ポケモンファンに加え、本編に飽きた／別の角度から触れたい層。"
     },
     {
       "id": 17,
@@ -365,7 +397,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "pokemon-legends-z-a"
+      "slug": "pokemon-legends-z-a",
+      "concept": "シリーズ初の都市型オープンワールド、ミアレシティを舞台にアクションバトルを進化させた最新形。",
+      "target": "既存ポケモンファン、特にLEGENDSアルセウスの方向性を支持した層。Switch2世代の最初の本編。"
     },
     {
       "id": 18,
@@ -384,7 +418,9 @@
         "EXP"
       ],
       "social_axis": "非同期",
-      "slug": "pokemon-go"
+      "slug": "pokemon-go",
+      "concept": "位置情報×AR×ポケモンで、現実の街歩きをゲームに変えた社会現象。世界中の公園・観光地に「ポケストップ」と「レイド集会」が生まれた。",
+      "target": "全年齢、特に「家から出る理由が欲しい」「散歩・運動と娯楽を兼ねたい」層。コミュニティ・デイ参加者は中高年も多い。"
     },
     {
       "id": 19,
@@ -402,7 +438,9 @@
       "primary": "REW",
       "secondary": [],
       "popularity": "軽量カード収集",
-      "slug": "pokemon-tcg-pocket"
+      "slug": "pokemon-tcg-pocket",
+      "concept": "物理カードゲームを「1日2パック開封」の軽量アプリに翻訳、TCG経験ゼロでも遊べる入口を設計。",
+      "target": "既存ポケモンファン + TCG非経験者の幅広い層、特にカード収集の喜びを求める非ゲーマー層。"
     },
     {
       "id": 20,
@@ -422,7 +460,9 @@
       ],
       "social_axis": "協力",
       "popularity": "ひっぱりハンティング、超・獣神祭",
-      "slug": "monster-strike"
+      "slug": "monster-strike",
+      "concept": "「ガチャ × 4人マルチ × 引っ張りアクション」の3点セットで、ガチャ報酬を友達との時間に翻訳するモバイルゲーム。同卓共闘（オフライン4人）が中核。",
+      "target": "中高生〜30代、特に「友達と同卓で遊ぶ」文脈を持つ層（学校・職場・家族）。IPコラボに反応する非ゲーマー層も含む。"
     },
     {
       "id": 21,
@@ -440,7 +480,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "puzzle-dragons"
+      "slug": "puzzle-dragons",
+      "concept": "「同じ色の玉を3つ揃える」パズルと「モンスター収集・育成」を組み合わせ、モバイルガチャ収集型RPGの原型を作った2012年の発明。",
+      "target": "中高生〜30-40代、特にモンスター収集とパズル両方が好きな層。日本のモバイルゲーム文化の起点。"
     },
     {
       "id": 22,
@@ -458,7 +500,9 @@
       "secondary": [
         "REW"
       ],
-      "slug": "fate-grand-order"
+      "slug": "fate-grand-order",
+      "concept": "TYPE-MOON原作の「Fate」IPに、史実の英雄を「サーヴァント」として召喚するシナリオを毎章重ねる、物語×ガチャの主流型。",
+      "target": "20-40代、特にFateシリーズファン、歴史好き、長文シナリオを読む層。"
     },
     {
       "id": 23,
@@ -477,7 +521,9 @@
         "NAR"
       ],
       "popularity": "育成サイクル×競走",
-      "slug": "umamusume-pretty-derby"
+      "slug": "umamusume-pretty-derby",
+      "concept": "競走馬を擬人化し、育成シミュレーション×アイドルプロデュースを融合させたメディアミックス・ガチャ。",
+      "target": "20-40代男性中心、競馬ファンとアニメファン両方に訴求。育成リプレイ性が高い。"
     },
     {
       "id": 24,
@@ -496,7 +542,9 @@
         "EXP"
       ],
       "social_axis": "協力",
-      "slug": "project-sekai"
+      "slug": "project-sekai",
+      "concept": "初音ミクを軸に、5つのバンドユニットの物語を読みながらリズムゲームを楽しむ。VOCALOIDシーンとリズムゲームの結節点。",
+      "target": "中高生〜20代、特にVOCALOID文化育ち層、リズムゲーム経験者。"
     },
     {
       "id": 25,
@@ -515,7 +563,9 @@
         "NAR"
       ],
       "social_axis": "協力",
-      "slug": "genshin-impact"
+      "slug": "genshin-impact",
+      "concept": "中国HoYoverseが作った「ゼルダBotW的オープンワールド」×「ガチャ収集」の融合。元素システムとビジュアルでガチャを世界商品化した転換点。",
+      "target": "10-30代のグローバル層、特にアニメ調JRPGとオープンワールド両方を好む層。"
     },
     {
       "id": 26,
@@ -532,7 +582,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "honkai-star-rail"
+      "slug": "honkai-star-rail",
+      "concept": "原神の世界観・キャラクター IP を継承しつつ、ターン制バトルとSF設定で異なる遊び口を提供したガチャRPG。",
+      "target": "原神プレイヤー + ターン制RPGファン、HoYoverse IPコレクター。"
     },
     {
       "id": 27,
@@ -549,7 +601,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "zenless-zone-zero"
+      "slug": "zenless-zone-zero",
+      "concept": "HoYoverseの3作目、都会的サブカル世界観で「ローグライク的なダンジョン探索 + アクションコンボ」を組み合わせた最新作。",
+      "target": "10-20代、ストリートカルチャー・アニメ調を好む層、HoYoverseファン。"
     },
     {
       "id": 28,
@@ -568,7 +622,9 @@
         "EXP"
       ],
       "social_axis": "対戦",
-      "slug": "last-war-survival"
+      "slug": "last-war-survival",
+      "concept": "序盤の軽量パズル（ゾンビを撃ち倒す）から「同盟戦」「都市開発」へ階段状に誘導する、超大規模課金導線型シミュレーション。",
+      "target": "20-50代男性、IDLE系・SLG系のヘビーユーザー層、SNS・YouTube広告に反応する層。"
     },
     {
       "id": 29,
@@ -582,7 +638,9 @@
       ],
       "genre": "SLG",
       "primary": "REW",
-      "slug": "whiteout-survival"
+      "slug": "whiteout-survival",
+      "concept": "氷河期世界で都市を運営、同盟で領土を奪い合う4Xストラテジー。広告とゲームメカニクスのギャップで話題化した収益モデル。",
+      "target": "20-50代、ストラテジー・基地建設系ファン、IDLE課金構造に親和性のある層。"
     },
     {
       "id": 30,
@@ -600,7 +658,9 @@
         "EXP"
       ],
       "social_axis": "対戦",
-      "slug": "clash-of-clans"
+      "slug": "clash-of-clans",
+      "concept": "自分の村を建設しながら他プレイヤーの村を襲撃する、「攻撃が遅延で予約される」非同期PvPストラテジー。",
+      "target": "10-40代の世界中の幅広い層、特に断続的に遊びたいモバイルユーザー。クラン（部族）所属が中核モチベ。"
     },
     {
       "id": 31,
@@ -618,7 +678,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "clash-royale"
+      "slug": "clash-royale",
+      "concept": "Clash of ClansのIPを「3分1試合のリアルタイム対戦カードゲーム」に再構築、テンポと公平性で対戦モバイル市場を切り開いた。",
+      "target": "10-30代、特に短時間対戦を好む層、競技性のあるモバイル対戦ファン。"
     },
     {
       "id": 32,
@@ -636,7 +698,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "brawl-stars"
+      "slug": "brawl-stars",
+      "concept": "3v3の超短時間（3分以内）対戦シューター、操作が片手親指1本で完結する「モバイル特化」アクション。",
+      "target": "10-20代、モバイル対戦を主軸に遊ぶ若年層、世界規模のe-sportsコミュニティ。"
     },
     {
       "id": 33,
@@ -655,7 +719,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "fortnite"
+      "slug": "fortnite",
+      "concept": "100人バトルロワイヤルに「建築」を組み合わせた、世代を象徴するクロスプラットフォーム対戦ゲーム。",
+      "target": "10-20代を中心とするグローバル層、特に北米。SNS・YouTube文化との結合が極めて強い。"
     },
     {
       "id": 34,
@@ -674,7 +740,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "apex-legends"
+      "slug": "apex-legends",
+      "concept": "BR（バトルロワイヤル）にキャラ固有スキル（レジェンド）と「リスポーン可能な3人チーム」を持ち込み、競技性の高いチームFPS。",
+      "target": "20-30代のFPSコア層、競技シーン・配信視聴文化との親和性が高い。"
     },
     {
       "id": 35,
@@ -690,7 +758,9 @@
       "genre": "タクティカルFPS",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "valorant"
+      "slug": "valorant",
+      "concept": "CS（Counter-Strike）系のタクティカル撃ち合いに、キャラ固有スキルを組み合わせた競技FPS。Riot Games の競技基盤と高い親和性。",
+      "target": "20-30代の競技志向プレイヤー、FPS経験者、e-sports視聴者層。"
     },
     {
       "id": 36,
@@ -705,7 +775,9 @@
       "genre": "MOBA",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "league-of-legends"
+      "slug": "league-of-legends",
+      "concept": "5v5のMOBA（マルチプレイヤーオンラインバトルアリーナ）の世界基準。10年以上世界eスポーツの中核を担う。",
+      "target": "大学生〜30代のグローバル競技層、特にPC文化のあるエリア（韓国・北米・欧州・中国）。"
     },
     {
       "id": 37,
@@ -723,7 +795,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "overwatch-2"
+      "slug": "overwatch-2",
+      "concept": "「ヒーローシューター」というジャンル名を浸透させた、キャラクター固有能力で役割分担するチーム対戦FPS。",
+      "target": "20-30代、FPS経験者、キャラクターIPファン両方に訴求。"
     },
     {
       "id": 38,
@@ -739,7 +813,9 @@
       "sales_world": "5億+ DL",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "among-us"
+      "slug": "among-us",
+      "concept": "宇宙船で行う「人狼ゲーム」をオンライン4-10人で。インポスター（裏切り者）を見つける議論パートが中核。",
+      "target": "10-20代を中心とする幅広い層。コロナ禍に配信文化と結びついて世界的にバズった。"
     },
     {
       "id": 39,
@@ -754,7 +830,9 @@
       "genre": "パーティバトロワ",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "fall-guys"
+      "slug": "fall-guys",
+      "concept": "ジェリービーン型キャラで「巨大障害物コース×バトルロワイヤル」、TVゲームショー的演出のパーティ対戦。",
+      "target": "全年齢、特に家族・友達と気軽に遊ぶライト層。配信視聴も楽しい。"
     },
     {
       "id": 40,
@@ -770,7 +848,9 @@
       "sales_world": "5M+",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "splatoon"
+      "slug": "splatoon",
+      "concept": "「敵を撃つ」のではなく「インクで床を塗る」を勝利条件にして、対戦TPSを再定義したオリジナル作品。",
+      "target": "中高生〜20代、対戦シューター未経験者を含む若年層、任天堂IPファン。"
     },
     {
       "id": 41,
@@ -790,7 +870,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "splatoon-2"
+      "slug": "splatoon-2",
+      "concept": "初代の路線を継承しつつ、サーモンランで協力PvE、ナワバトラーで非同期競争を追加した拡張作。",
+      "target": "初代プレイヤーの継続層 + 新規Switch世代。"
     },
     {
       "id": 42,
@@ -806,7 +888,9 @@
       "sales_world": "14M+",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "mario-party-superstars"
+      "slug": "mario-party-superstars",
+      "concept": "シリーズ歴代の名作ミニゲームと盤面を集めた「ベスト盤」型パーティゲーム。",
+      "target": "全世代、家族・友達でローカル4人プレイする「集まり」需要。"
     },
     {
       "id": 43,
@@ -821,7 +905,9 @@
       "genre": "パーティ",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "super-mario-party-jamboree"
+      "slug": "super-mario-party-jamboree",
+      "concept": "110種以上のミニゲーム、Switch2世代対応、20人マルチ対応で「最大級」を訴求するパーティ。",
+      "target": "ファミリー層、子供から大人まで、Switch家庭の標準装備候補。"
     },
     {
       "id": 44,
@@ -836,7 +922,9 @@
       "genre": "パーティ協力",
       "primary": "EXP",
       "social_axis": "協力",
-      "slug": "overcooked-all-you-can-eat"
+      "slug": "overcooked-all-you-can-eat",
+      "concept": "キッチンを舞台に「混乱の中でも協力して料理を出す」ことを強いる、人間関係を試す協力料理ゲーム。",
+      "target": "カップル・友達・家族の2-4人協力プレイ、「うまくいかない時間」を笑い合える層。"
     },
     {
       "id": 45,
@@ -855,7 +943,9 @@
         "NAR"
       ],
       "social_axis": "協力",
-      "slug": "it-takes-two"
+      "slug": "it-takes-two",
+      "concept": "「離婚を考える夫婦が小さくなって冒険する」物語の中で、2人協力プレイ専用というジャンル限定を逆手に取ったアクション。",
+      "target": "カップル・親子・友達同士の二人プレイ層。映画的な物語を共有したい層。"
     },
     {
       "id": 46,
@@ -873,7 +963,9 @@
         "NAR"
       ],
       "social_axis": "協力",
-      "slug": "a-way-out"
+      "slug": "a-way-out",
+      "concept": "2人協力専用、刑務所からの脱獄＋人生再起の物語をスプリットスクリーンで進める犯罪ドラマ。",
+      "target": "物語ファン、2人で映画体験を共有したい層、It Takes Twoの先駆作。"
     },
     {
       "id": 47,
@@ -889,7 +981,9 @@
       "sales_world": "6000万+",
       "primary": "EXP",
       "social_axis": "非対称",
-      "slug": "dead-by-daylight"
+      "slug": "dead-by-daylight",
+      "concept": "1人の殺人鬼 vs 4人の生存者の「非対称対戦サバイバル」。ホラーIPコラボ（貞子、エルム街等）で世界IPを統合する装置にもなった。",
+      "target": "20-30代、ホラーファン、配信視聴文化、IPコラボに反応する層。"
     },
     {
       "id": 48,
@@ -905,7 +999,9 @@
       "sales_world": "3億+",
       "primary": "EXP",
       "social_axis": "協力",
-      "slug": "minecraft"
+      "slug": "minecraft",
+      "concept": "「ブロックを採掘して何でも作る」サンドボックスの代名詞、教育・MOD・SNS拡散の総合プラットフォーム化した世界一売れたゲーム。",
+      "target": "全年齢（小学生〜大人）、特に創造性を発揮したい層、教育用途にも採用。"
     },
     {
       "id": 49,
@@ -921,7 +1017,9 @@
       "sales_world": "5800万+",
       "primary": "EXP",
       "social_axis": "協力",
-      "slug": "terraria"
+      "slug": "terraria",
+      "concept": "2Dマインクラフトと呼ばれるが、本質は「ボス戦と冒険」を中心に置いたサンドボックスARPG。",
+      "target": "マインクラフト経験者、特に「もっと戦闘・冒険要素が欲しい」層。10代〜20代中心。"
     },
     {
       "id": 50,
@@ -940,7 +1038,9 @@
         "REW"
       ],
       "social_axis": "ソロ",
-      "slug": "ring-fit-adventure"
+      "slug": "ring-fit-adventure",
+      "concept": "専用リングコントローラで「筋トレをRPGの戦闘に翻訳」、運動を継続させるためにゲームの報酬構造を使ったフィットネス。",
+      "target": "20-40代、運動不足層、コロナ禍に在宅トレーニング需要で爆発的に伸びた。"
     },
     {
       "id": 51,
@@ -956,7 +1056,9 @@
       "sales_world": "8200万+",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "wii-sports"
+      "slug": "wii-sports",
+      "concept": "モーションコントローラーで「テニスのスイング」「ボーリングの投球」を直感操作。家庭用ゲーム機を「動かしながら遊ぶ装置」に再定義。",
+      "target": "全世代、特にゲーム未経験者・高齢者層、ファミリー需要。"
     },
     {
       "id": 52,
@@ -975,7 +1077,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "taiko-no-tatsujin"
+      "slug": "taiko-no-tatsujin",
+      "concept": "太鼓型コントローラーを叩いて音楽に合わせる、アーケード発で世代を超えて続く国民的リズムゲーム。",
+      "target": "全世代、特に小中学生と親世代の親子需要、アーケード文化好きの大人層。"
     },
     {
       "id": 53,
@@ -990,7 +1094,9 @@
       "genre": "音ゲー",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "beatmania-iidx"
+      "slug": "beatmania-iidx",
+      "concept": "1999年からのDJ風アーケードリズムゲーム、7鍵+ターンテーブルで「機材を操る」体験を売りにする上級向け代表作。",
+      "target": "20-40代のリズムゲーム上級者、特にコナミアミューズメント層、競技性志向。"
     },
     {
       "id": 54,
@@ -1008,7 +1114,9 @@
         "REW"
       ],
       "social_axis": "対戦",
-      "slug": "maimai-dx"
+      "slug": "maimai-dx",
+      "concept": "タッチパネル＋ボタンの円形アーケード筐体で、ダンス的な腕の動きを含む全身プレイ感が特徴。",
+      "target": "10-30代、女性層比率が高いリズムゲーム文化、SNS文化との親和性。"
     },
     {
       "id": 55,
@@ -1023,7 +1131,9 @@
       "genre": "音ゲー",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "chunithm"
+      "slug": "chunithm",
+      "concept": "「タッチ＋空中エアーアクション」という独自インタフェースで、リズムゲームに身体表現を持ち込んだセガのアーケード代表作。",
+      "target": "10-30代、東方・VOCALOID・アニソンファン、リズムゲーム愛好層。"
     },
     {
       "id": 57,
@@ -1039,7 +1149,9 @@
       "sales_world": "400万+",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "street-fighter-6"
+      "slug": "street-fighter-6",
+      "concept": "「モダン操作」で初心者が技を出しやすくしつつ、上級者の「クラシック操作」と同時にマッチング可能にした、格闘ゲーム入門の再設計。",
+      "target": "格闘ゲーム経験者 + 新規初心者、特にe-sports視聴者層。"
     },
     {
       "id": 58,
@@ -1054,7 +1166,9 @@
       "genre": "対戦格闘",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "tekken-8"
+      "slug": "tekken-8",
+      "concept": "3D格闘の代表作、リアルな身体表現と豊富な技セットで、世界格闘大会の中核を担うシリーズ最新作。",
+      "target": "20-40代の3D格闘ファン、世界eスポーツ層、シリーズ伝統ファン。"
     },
     {
       "id": 59,
@@ -1073,7 +1187,9 @@
         "NAR"
       ],
       "social_axis": "対戦",
-      "slug": "guilty-gear-strive"
+      "slug": "guilty-gear-strive",
+      "concept": "アーク・サウンドのロック楽曲とアニメ調キャラビジュアルで、格闘ゲームの「カッコよさ」を再定義したアークシステムワークス代表作。",
+      "target": "20-30代、アニメ・ロック文化親和層、格闘ゲーム上級者。"
     },
     {
       "id": 60,
@@ -1089,7 +1205,9 @@
       "sales_world": "7M+",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "super-smash-bros-melee"
+      "slug": "super-smash-bros-melee",
+      "concept": "2001年GC発売、現在も世界格闘大会で現役のスマブラ最高峰、「移動キャンセル（ウェイブダッシュ）」発見で深い競技性を持つようになった。",
+      "target": "30-40代の格闘ゲーム/スマブラ熟練層、特に「上限の高さ」を求める競技者。"
     },
     {
       "id": 61,
@@ -1106,7 +1224,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "final-fantasy-vii-rebirth"
+      "slug": "final-fantasy-vii-rebirth",
+      "concept": "1997年の名作FF7のリメイク3部作の第2部、原作の冒険パートを開放型マップで再構築したアクションJRPG。",
+      "target": "30-50代のFF7オリジナル世代 + 若年層JRPGファン、PS5世代のグラフィック志向層。"
     },
     {
       "id": 62,
@@ -1125,7 +1245,9 @@
         "NAR"
       ],
       "social_axis": "協力",
-      "slug": "final-fantasy-xiv"
+      "slug": "final-fantasy-xiv",
+      "concept": "「物語のためにMMOがある」という再生成された設計、長文シナリオが拡張ごとに高評価を獲得し続けるMMORPG。",
+      "target": "20-40代、MMORPGファン + 物語消費を求める層、特に「漆黒のヴィランズ」以降の新規参入者。"
     },
     {
       "id": 63,
@@ -1142,7 +1264,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "final-fantasy-xvi"
+      "slug": "final-fantasy-xvi",
+      "concept": "ナンバリングタイトルでありながら、ダーク・ファンタジー × アクション特化で「召喚獣同士の対戦」を映画的に描いた、シリーズの実験作。",
+      "target": "30-40代のFFファン + 海外コアアクション層、ゲーム・オブ・スローンズ的ファンタジー好き。"
     },
     {
       "id": 64,
@@ -1161,7 +1285,9 @@
       "secondary": [
         "REW"
       ],
-      "slug": "dragon-quest-xi"
+      "slug": "dragon-quest-xi",
+      "concept": "シリーズの王道を貫きつつ、3D描写と「過ぎ去りし時を求めて」というタイムリープ要素で集大成を作った、堀井雄二の代表作。",
+      "target": "30-50代のDQ世代 + 若年層、特に伝統的JRPGを求める層。"
     },
     {
       "id": 65,
@@ -1179,7 +1305,9 @@
         "EXP"
       ],
       "social_axis": "非同期",
-      "slug": "dq-walk"
+      "slug": "dq-walk",
+      "concept": "ポケモンGOの位置情報フォーマットを、ドラクエの「町から町へ歩く」物語に当てはめた歩行RPG。",
+      "target": "30-50代の通勤・散歩ユーザー、特にDQファンの社会人層。"
     },
     {
       "id": 66,
@@ -1197,7 +1325,9 @@
       "secondary": [
         "REW"
       ],
-      "slug": "persona-5-royal"
+      "slug": "persona-5-royal",
+      "concept": "「怪盗団としての反逆」という物語と「現代日本の高校生活シミュレーション」の二重構造で、物語消費を別軸（コミュLv・カレンダー）から駆動するJRPG。",
+      "target": "20-40代のJRPGファン、スタイリッシュなUI/音楽カルチャーに惹かれる層。海外含むコアRPGコミュニティ。"
     },
     {
       "id": 67,
@@ -1214,7 +1344,9 @@
       "secondary": [
         "REW"
       ],
-      "slug": "persona-3-reload"
+      "slug": "persona-3-reload",
+      "concept": "2006年原作のフルリメイク、「タルタロス」を毎日登るシステムと学園生活を組み合わせた、ペルソナシリーズの構造の起点。",
+      "target": "ペルソナ5以降の新規層 + 原作プレイヤー、20-40代JRPGファン。"
     },
     {
       "id": 68,
@@ -1231,7 +1363,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "like-a-dragon-infinite-wealth"
+      "slug": "like-a-dragon-infinite-wealth",
+      "concept": "神室町・ハワイを舞台に春日一番と桐生一馬の「2人の主人公」をターン制バトルで描く、シリーズ最新作。",
+      "target": "30-50代、龍が如くシリーズファン、特に「日本のストリート文化」と「物語の重さ」を好む層。"
     },
     {
       "id": 69,
@@ -1249,7 +1383,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "yakuza-series"
+      "slug": "yakuza-series",
+      "concept": "神室町を舞台にしたヤクザ・ノワール・コメディの総合エンターテインメント、サブストーリーと小ネタで世界観を厚くするセガ看板IP。",
+      "target": "30-50代男性中心、日本のサブカル・歓楽街・任侠映画文化育ち層。"
     },
     {
       "id": 70,
@@ -1264,7 +1400,9 @@
       "genre": "インタラクティブムービー",
       "sales_world": "950万+",
       "primary": "NAR",
-      "slug": "detroit-become-human"
+      "slug": "detroit-become-human",
+      "concept": "「分岐するシナリオ」を主軸に、アンドロイドの自由意志を問うインタラクティブ・ドラマ。",
+      "target": "20-40代、映画的物語を体験したい層、ゲームに哲学・倫理を求める層。"
     },
     {
       "id": 71,
@@ -1278,7 +1416,9 @@
       ],
       "genre": "グラフィックノベル",
       "primary": "NAR",
-      "slug": "life-is-strange"
+      "slug": "life-is-strange",
+      "concept": "「時間を巻き戻せる女子高生」というギミックで、青春・トラウマ・選択の重さを描くナラティブ・アドベンチャー。",
+      "target": "10-30代、特に女性層比率が高い、海外インディー・ナラティブ文化親和層。"
     },
     {
       "id": 72,
@@ -1296,7 +1436,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "the-last-of-us-part-ii"
+      "slug": "the-last-of-us-part-ii",
+      "concept": "復讐とその代償を「敵側の視点」も含めて描く、PlayStationのナラティブ表現の頂点とされる物語型作品。",
+      "target": "30-40代、映画的体験を求めるコアゲーマー、賛否が割れることを覚悟する層。"
     },
     {
       "id": 73,
@@ -1314,7 +1456,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "ghost-of-tsushima"
+      "slug": "ghost-of-tsushima",
+      "concept": "元寇期の対馬を舞台に、武士の誇りと「鬼に堕ちる」葛藤を、黒澤明的な映像言語と剣戟アクションで描いたオープンワールド。",
+      "target": "30-50代、武士・歴史劇ファン、海外でも日本文化への関心層に強く訴求。"
     },
     {
       "id": 74,
@@ -1332,7 +1476,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "cyberpunk-2077"
+      "slug": "cyberpunk-2077",
+      "concept": "巨大都市ナイトシティを舞台に、サイバーパンク世界のキャラクターロールプレイを徹底追求した、リリース直後の炎上と長期改善のサーガを持つRPG。",
+      "target": "20-40代、ウィッチャー3経験者、サイバーパンク文化（80年代SF）親和層。"
     },
     {
       "id": 75,
@@ -1350,7 +1496,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "the-witcher-3"
+      "slug": "the-witcher-3",
+      "concept": "スラブ神話とダークファンタジーを融合し、「主人公が中年男性」というRPGの常識を覆した、サブクエストの質で世界を驚かせたオープンワールドRPG。",
+      "target": "20-40代、ファンタジー文学読者、コアRPGファン、Netflix版から流入した新規層。"
     },
     {
       "id": 76,
@@ -1369,7 +1517,9 @@
         "NAR"
       ],
       "social_axis": "非同期",
-      "slug": "elden-ring"
+      "slug": "elden-ring",
+      "concept": "「死を学習に翻訳する高難度探索」を、オープンワールドと非同期マルチ（メッセージ・血だまり・召喚）で再発明したアクションRPG。",
+      "target": "20-40代のコアゲーマー、ソウル系の継承者として国内外のハードコア層。考察・配信文化との親和性が高い層。"
     },
     {
       "id": 77,
@@ -1387,7 +1537,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "elden-ring-sote"
+      "slug": "elden-ring-sote",
+      "concept": "2024年GOTYを受賞した本編DLC、SHADOW OF THE ERDTREEで本編から派生する別世界を提供。",
+      "target": "エルデンリング本編クリア層、フロムの濃密なボス戦を求めるハードコア層。"
     },
     {
       "id": 78,
@@ -1406,7 +1558,9 @@
         "NAR"
       ],
       "social_axis": "非同期",
-      "slug": "dark-souls-iii"
+      "slug": "dark-souls-iii",
+      "concept": "ソウルシリーズの完結編、火継ぎの神話と「敵を倒すたびに自分が強くなる」報酬構造で、高難度アクションRPGの代名詞を完成させた。",
+      "target": "20-40代のソウル経験者、特に「死にゲー」を主軸に楽しむハードコア層。"
     },
     {
       "id": 79,
@@ -1424,7 +1578,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "sekiro-shadows-die-twice"
+      "slug": "sekiro-shadows-die-twice",
+      "concept": "フロムが「ジャストガード」を中核に置き直した、忍者×和風×死亡即再挑戦の高難度アクション。剣戟の手応えに特化。",
+      "target": "ソウル経験者だけでなく、和風アクション・忍者映画ファン、剣戟の手応えを求める層。"
     },
     {
       "id": 80,
@@ -1442,7 +1598,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "hollow-knight"
+      "slug": "hollow-knight",
+      "concept": "2D メトロイドヴァニアの傑作、虫の世界を舞台に死亡時の「シェイド回収」と探索の自由度を高度に組み合わせたインディー。",
+      "target": "20-30代、メトロイドヴァニア・ダークソウルファン、インディーカルチャー層。"
     },
     {
       "id": 81,
@@ -1459,7 +1617,9 @@
       "secondary": [
         "REW"
       ],
-      "slug": "vampire-survivors"
+      "slug": "vampire-survivors",
+      "concept": "「攻撃ボタンを押さない」自動戦闘ローグライクで、シンプル極まる中毒性を生んだ2022年のSteamインディー大ヒット。",
+      "target": "10-30代、Steam低価格インディー文化、隙間時間で「ボーナス報酬」を浴びたい層。"
     },
     {
       "id": 82,
@@ -1474,7 +1634,9 @@
       "genre": "ホラーパーティ",
       "primary": "EXP",
       "social_axis": "対戦",
-      "slug": "buckshot-roulette"
+      "slug": "buckshot-roulette",
+      "concept": "装填されたショットガンを相手と自分で交互に撃ち合うロシアン・ルーレット型対戦、緊張と判断の心理戦に絞ったミニマル作品。",
+      "target": "10-30代、配信視聴文化、短時間で緊張を味わいたい層。"
     },
     {
       "id": 83,
@@ -1492,7 +1654,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "the-exit-8"
+      "slug": "the-exit-8",
+      "concept": "同じ地下通路をループしながら「異変」を見分けて出口を目指す、KOTAKE CREATE の一人作家インディー。観察と判断のみで構成された散歩型ホラー。",
+      "target": "10-30代、ホラー・配信視聴・短編体験を好む層、TikTok等で拡散した非ゲーマー層。"
     },
     {
       "id": 84,
@@ -1507,7 +1671,9 @@
       "genre": "協力ホラー",
       "primary": "EXP",
       "social_axis": "協力",
-      "slug": "phasmophobia"
+      "slug": "phasmophobia",
+      "concept": "4人協力で幽霊の正体を調査する一人称ホラー、ボイスチャットでの会話自体がゲーム機構に組み込まれている。",
+      "target": "20-30代、友達同士でホラーを共有したい配信視聴層。"
     },
     {
       "id": 85,
@@ -1525,7 +1691,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "resident-evil-4"
+      "slug": "resident-evil-4",
+      "concept": "2005年の名作を現代的サバイバルホラーに再構築、肩越し視点の「動きながら撃つ」操作を更新した代表的リメイク。",
+      "target": "30-40代の原作プレイヤー + 新規ホラーファン、シリーズ伝統層。"
     },
     {
       "id": 86,
@@ -1543,7 +1711,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "resident-evil-village"
+      "slug": "resident-evil-village",
+      "concept": "第7作の進化系、Dimitrescu夫人など「SNSミーム化したキャラ」とゴシック・ホラー世界観で世界的に話題化。",
+      "target": "20-40代、バイオハザードシリーズファン + SNS文化親和層。"
     },
     {
       "id": 87,
@@ -1561,7 +1731,9 @@
       "secondary": [
         "NAR"
       ],
-      "slug": "devil-may-cry-5"
+      "slug": "devil-may-cry-5",
+      "concept": "スタイリッシュ・アクションの代名詞、3人の主人公でそれぞれ異なる戦闘リズムを提示するカプコンのアクション最高峰。",
+      "target": "20-40代のアクションコア層、特に技を磨き上げる楽しみを求める層。"
     },
     {
       "id": 88,
@@ -1579,7 +1751,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "nier-automata"
+      "slug": "nier-automata",
+      "concept": "横スクロール・俯瞰・3Dを切り替える独特の演出と、複数エンディングで「物語の本質」を見せるヨコオタロウ作品。",
+      "target": "20-30代、物語型ゲームを哲学的に楽しみたい層、特にアニメ・サブカル文化親和層。"
     },
     {
       "id": 89,
@@ -1598,7 +1772,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "13-sentinels-aegis-rim"
+      "slug": "13-sentinels-aegis-rim",
+      "concept": "13人の高校生視点を断片的に切り替えながら、SF時代物語を解き明かしていく群像劇アドベンチャー。",
+      "target": "30-40代、SF・群像劇ファン、ATLUS物語型ゲームファン。"
     },
     {
       "id": 90,
@@ -1614,7 +1790,9 @@
       "genre": "法廷AVG",
       "sales_world": "1100万+",
       "primary": "NAR",
-      "slug": "ace-attorney"
+      "slug": "ace-attorney",
+      "concept": "法廷で証拠を提示して「異議あり！」と矛盾を突く裁判アドベンチャー、論理パズルと演出を融合させたカプコンの代表作。",
+      "target": "10-30代、テキスト読解とパズルが好きな層、シリーズの長期ファン。"
     },
     {
       "id": 91,
@@ -1629,7 +1807,9 @@
       "genre": "サウンドノベル",
       "primary": "NAR",
       "popularity": "サウンドノベル起点",
-      "slug": "otogiriso"
+      "slug": "otogiriso",
+      "concept": "1992年、ゲームを「選択肢付きの小説」として成立させたサウンドノベルの原点、現代AVGの起源。",
+      "target": "30-50代のレトロゲーム文化育ち層、テキスト読み中心のゲームファン。"
     },
     {
       "id": 92,
@@ -1644,7 +1824,9 @@
       "genre": "サウンドノベル",
       "sales_jp": "1.2M+",
       "primary": "NAR",
-      "slug": "kamaitachi-no-yoru"
+      "slug": "kamaitachi-no-yoru",
+      "concept": "弟切草の方法論を「ペンション殺人事件」に応用し、ミステリAVGの基準を作った1994年の名作。",
+      "target": "30-50代、ミステリ小説ファン、テキスト読みアドベンチャー層。"
     },
     {
       "id": 93,
@@ -1659,7 +1841,9 @@
       "genre": "恋愛AVG",
       "primary": "NAR",
       "popularity": "ノベル型市場転換",
-      "slug": "kanon"
+      "slug": "kanon",
+      "concept": "1999年Key作、雪の街での再会を描く「泣きゲー」の決定版、後年のアダルトゲーム界のノベル型主流化の起点。",
+      "target": "30-40代男性の物語AVGファン、Key作品ファン。"
     },
     {
       "id": 94,
@@ -1673,7 +1857,9 @@
       ],
       "genre": "恋愛AVG",
       "primary": "NAR",
-      "slug": "air"
+      "slug": "air",
+      "concept": "2000年Key作、Kanonと同じく「泣きゲー」、夏の海辺と「翼」の物語、ノベル型ADVの市場転換に決定的な役割を果たした。",
+      "target": "30-40代、Key・物語AVGファン、アニメ化作品から入った層。"
     },
     {
       "id": 95,
@@ -1687,7 +1873,9 @@
       ],
       "genre": "恋愛AVG",
       "primary": "NAR",
-      "slug": "clannad"
+      "slug": "clannad",
+      "concept": "2004年Key作、「家族」と「町」を主題にした巨大シナリオで、後のADV作品の物語規模を引き上げた代表作。",
+      "target": "30-40代の物語AVGファン、Key作品全般のファン、アニメ版から入った層。"
     },
     {
       "id": 96,
@@ -1701,7 +1889,9 @@
       ],
       "genre": "SF AVG",
       "primary": "NAR",
-      "slug": "steins-gate"
+      "slug": "steins-gate",
+      "concept": "タイムリープと「電話レンジ（仮）」で世界線を分岐させる、サイエンスフィクションADVの金字塔。",
+      "target": "20-40代、SF文学・タイムリープ作品好き、5pb./MAGES作品ファン。"
     },
     {
       "id": 97,
@@ -1718,7 +1908,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "undertale"
+      "slug": "undertale",
+      "concept": "戦闘で「敵を倒さない」選択肢を中核に据えた、価値観そのものを問うインディーRPG。一人制作の象徴。",
+      "target": "10-30代、インディー文化、ナラティブ重視層、SNSミーム経由で入る層も多い。"
     },
     {
       "id": 98,
@@ -1736,7 +1928,9 @@
         "NAR"
       ],
       "social_axis": "非同期",
-      "slug": "death-stranding"
+      "slug": "death-stranding",
+      "concept": "「荷物を担いで歩く」というジャンル不在の遊びを、世界の分断と非同期マルチで意味づけた小島秀夫作品。",
+      "target": "30-40代、コジマプロダクションファン、独特な体験を求めるコア層、映画的演出愛好家。"
     },
     {
       "id": 99,
@@ -1755,7 +1949,9 @@
         "EXP"
       ],
       "social_axis": "非同期",
-      "slug": "powerful-pro-baseball-series"
+      "slug": "powerful-pro-baseball-series",
+      "concept": "1994年から続く野球シミュレーション、デフォルメ二頭身キャラと「サクセスモード」で野球を物語化した。",
+      "target": "30-50代男性、野球ファン、特に「サクセス」のような選手育成RPG好き。"
     },
     {
       "id": 100,
@@ -1772,7 +1968,9 @@
       "secondary": [
         "EXP"
       ],
-      "slug": "pro-yakyu-spirits-a"
+      "slug": "pro-yakyu-spirits-a",
+      "concept": "モバイル版プロ野球の代表、ガチャで選手を獲得し自軍を編成・育成する野球収集ゲーム。",
+      "target": "20-40代男性、プロ野球ファン、特に「自分の理想チーム」を作りたい層。"
     }
   ]
 }

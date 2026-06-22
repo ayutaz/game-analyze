@@ -16,7 +16,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | ファイル / 場所 | 役割 | 編集時の注意 |
 |---|---|---|
-| **`data/games/{id:03d}-{slug}.json`** | **一次データソース（一ゲーム一ファイル）**。各ファイルは `id, title_jp, title_en, developer, publisher, year, platform[], genre, sales_jp, sales_world, primary, secondary[], social_axis, popularity, slug, file` を持つ | ここを編集／追加／削除したら **必ず** `python3 scripts/build_aggregate.py` を実行して `data/games.json` と `data/index.json` を再生成 |
+| **`data/games/{id:03d}-{slug}.json`** | **一次データソース（一ゲーム一ファイル）**。各ファイルは `id, title_jp, title_en, developer, publisher, year, platform[], genre, sales_jp, sales_world, primary, secondary[], social_axis, popularity, concept?, target?, slug, file` を持つ。`concept`（ゲームの positioning 1-2文）と `target`（想定プレイヤー層 1-2文）は任意フィールド、書かれていれば詳細ページに表示される | ここを編集／追加／削除したら **必ず** `python3 scripts/build_aggregate.py` を実行して `data/games.json` と `data/index.json` を再生成 |
+| `data/analyses/{id:03d}-{slug}.md` | 深い分析（マークダウン）。詳細ページの本文として表示される。任意（未作成なら「未分析」表示） | 自由に書ける。サンプル: 001/006/020/066/076 |
 | `data/meta.json` | カテゴリ定義・出典 URL・社会軸の定義（不変メタ） | カテゴリ定義や出典を増やしたときだけ編集 |
 | `data/index.json` | **派生物**: 軽量インデックス（id/タイトル/年/分類/ファイルパス） | 手で編集しない。`build_aggregate.py` が生成 |
 | `data/games.json` | **派生物**: 集約形式（`{meta, games[]}`）。後方互換と Markdown 編集の参照用 | 手で編集しない。`build_aggregate.py` が生成 |
@@ -27,6 +28,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `category-reward.md` | REW 一覧 + 解説（モバイル収益、ガチャ系、IP×軽量ループ等） | — |
 | `scripts/split_games.py` | 一度きり用: 集約 `games.json` を `data/games/` に分解 | 通常は使わない（履歴的に保持） |
 | `scripts/build_aggregate.py` | `data/games/*.json` から `games.json` と `index.json` を再生成 | データ変更後に必ず実行 |
+| `scripts/patch_games.py` | 複数ゲームに同じフィールド（concept/target等）を一括で書き込むユーティリティ。中の `PATCHES` 辞書を編集して実行 | 一括追記後は `build_aggregate.py` を必ず実行 |
+| `mocks/` | ブラウザで動くUIモック（A:matrix / B:facet / C:scatter / D:dashboard / detail）。`python3 -m http.server` で配信 | 採用案が決まったら `docs/` または `site/` に移してGitHub Pages公開 |
 
 **ID #56 は欠番（プロセカ重複を排除した結果）**。本数を 100 に揃えたい場合は、未掲載のタイトル（例：ウマ娘、デレステ、シャニマス、グラブル等 — 出典の openQuestions 参照）を追加して #56 を埋めるのが自然です。
 

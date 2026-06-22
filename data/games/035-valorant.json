@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "valorant",
-  "file": "data/games/035-valorant.json"
+  "file": "data/games/035-valorant.json",
+  "concept": "CS（Counter-Strike）系のタクティカル撃ち合いに、キャラ固有スキルを組み合わせた競技FPS。Riot Games の競技基盤と高い親和性。",
+  "target": "20-30代の競技志向プレイヤー、FPS経験者、e-sports視聴者層。"
 }

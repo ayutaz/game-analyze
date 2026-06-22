@@ -16,5 +16,7 @@
   ],
   "social_axis": "対戦",
   "slug": "last-war-survival",
-  "file": "data/games/028-last-war-survival.json"
+  "file": "data/games/028-last-war-survival.json",
+  "concept": "序盤の軽量パズル（ゾンビを撃ち倒す）から「同盟戦」「都市開発」へ階段状に誘導する、超大規模課金導線型シミュレーション。",
+  "target": "20-50代男性、IDLE系・SLG系のヘビーユーザー層、SNS・YouTube広告に反応する層。"
 }

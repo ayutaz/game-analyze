@@ -17,5 +17,7 @@
   ],
   "social_axis": "対戦",
   "slug": "splatoon-2",
-  "file": "data/games/041-splatoon-2.json"
+  "file": "data/games/041-splatoon-2.json",
+  "concept": "初代の路線を継承しつつ、サーモンランで協力PvE、ナワバトラーで非同期競争を追加した拡張作。",
+  "target": "初代プレイヤーの継続層 + 新規Switch世代。"
 }

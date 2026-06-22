@@ -15,5 +15,7 @@
   ],
   "social_axis": "対戦",
   "slug": "clash-of-clans",
-  "file": "data/games/030-clash-of-clans.json"
+  "file": "data/games/030-clash-of-clans.json",
+  "concept": "自分の村を建設しながら他プレイヤーの村を襲撃する、「攻撃が遅延で予約される」非同期PvPストラテジー。",
+  "target": "10-40代の世界中の幅広い層、特に断続的に遊びたいモバイルユーザー。クラン（部族）所属が中核モチベ。"
 }

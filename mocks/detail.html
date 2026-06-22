@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>詳細 — 日本のゲーム99本</title>
+  <link rel="stylesheet" href="shared.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+    .back {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--text-dim);
+      text-decoration: none;
+      font-size: 13px;
+      margin-bottom: 18px;
+    }
+    .back:hover { color: var(--text); }
+    .detail-head {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 18px;
+    }
+    .detail-head .title-jp {
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 1.2;
+      margin: 0 0 4px 0;
+    }
+    .detail-head .title-en {
+      font-size: 14px;
+      color: var(--text-faint);
+      margin: 0 0 16px 0;
+    }
+    .detail-head .meta-row {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .layout {
+      display: grid;
+      grid-template-columns: 1fr 280px;
+      gap: 20px;
+    }
+    @media (max-width: 900px) { .layout { grid-template-columns: 1fr; } }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px 22px;
+      margin-bottom: 16px;
+    }
+    .panel h2 {
+      margin: 0 0 12px 0;
+      font-size: 16px;
+      font-weight: 700;
+    }
+    .panel h3 {
+      font-size: 14px;
+      font-weight: 700;
+      margin: 16px 0 8px 0;
+    }
+    .panel h2:first-child, .panel h3:first-child { margin-top: 0; }
+    .panel ul, .panel ol { padding-left: 20px; line-height: 1.7; }
+    .panel li { margin: 4px 0; }
+    .panel p { line-height: 1.7; margin: 8px 0; }
+    .panel table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+      margin: 8px 0;
+    }
+    .panel th, .panel td {
+      text-align: left;
+      padding: 6px 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .panel th { background: var(--bg); font-weight: 600; }
+
+    .kv {
+      display: grid;
+      grid-template-columns: 100px 1fr;
+      gap: 6px 12px;
+      font-size: 13px;
+    }
+    .kv dt { color: var(--text-dim); }
+    .kv dd { margin: 0; }
+
+    .related {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 8px;
+    }
+    .related .mini {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 8px 10px;
+      background: var(--bg);
+      border-radius: 6px;
+      text-decoration: none;
+      color: inherit;
+      font-size: 12px;
+    }
+    .related .mini:hover { background: var(--border); }
+    .related .mini .t { font-weight: 600; }
+
+    .empty-analysis {
+      color: var(--text-dim);
+      font-style: italic;
+      padding: 30px;
+      text-align: center;
+      background: var(--bg);
+      border-radius: 8px;
+    }
+    .empty-analysis code {
+      background: var(--surface);
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-size: 11px;
+    }
+
+    #concept-target-panel { padding: 0; }
+    .ct-block {
+      padding: 18px 22px;
+    }
+    .ct-block + .ct-block {
+      border-top: 1px solid var(--border);
+    }
+    .ct-block h3 {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-faint);
+      margin: 0 0 8px 0;
+      font-weight: 700;
+    }
+    .ct-block p {
+      margin: 0;
+      font-size: 15px;
+      line-height: 1.65;
+    }
+    .ct-block p.empty {
+      color: var(--text-faint);
+      font-style: italic;
+      font-size: 13px;
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar" id="topbar"></header>
+  <main class="container">
+    <a class="back" href="facet.html">← 一覧に戻る</a>
+
+    <div class="detail-head" id="head"></div>
+
+    <div class="layout">
+      <div>
+        <section class="panel" id="concept-target-panel">
+          <div class="ct-block">
+            <h3>コンセプト</h3>
+            <p id="concept"></p>
+          </div>
+          <div class="ct-block">
+            <h3>ターゲット</h3>
+            <p id="target"></p>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>深い分析</h2>
+          <div id="analysis"></div>
+        </section>
+      </div>
+
+      <aside>
+        <section class="panel">
+          <h2>基本データ</h2>
+          <dl class="kv" id="kv"></dl>
+        </section>
+
+        <section class="panel">
+          <h2>同カテゴリ × 同他者軸</h2>
+          <div class="related" id="rel-axis"></div>
+        </section>
+
+        <section class="panel">
+          <h2>同年代 (±3年)</h2>
+          <div class="related" id="rel-year"></div>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <script src="shared.js"></script>
+  <script>
+    document.getElementById('topbar').innerHTML = topbarNav('');
+
+    const params = new URLSearchParams(location.search);
+    const id = parseInt(params.get('id'), 10);
+
+    function escapeHtml(s) {
+      return (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    (async () => {
+      const idx = await loadIndex();
+      const game = idx.games.find(g => g.id === id);
+      if (!game) {
+        document.querySelector('main').innerHTML = '<p>ゲームが見つかりません。</p>';
+        return;
+      }
+      const full = await loadGame(game.file);
+
+      // ヘッダ
+      const subs = (full.secondary || []).map(s => `<span class="axis-tag">副: ${s}</span>`).join('');
+      const axis = full.social_axis ? `<span class="axis-tag">他者軸: ${full.social_axis}</span>` : '';
+      const platforms = (full.platform || []).map(p => `<span class="axis-tag">${p}</span>`).join('');
+      document.getElementById('head').innerHTML = `
+        <h1 class="title-jp">${escapeHtml(full.title_jp)}</h1>
+        <p class="title-en">${escapeHtml(full.title_en || '')}</p>
+        <div class="meta-row">
+          <span class="badge ${full.primary.toLowerCase()}">${PRIMARY_LABEL[full.primary]}</span>
+          ${axis}
+          ${subs}
+          ${platforms}
+          <span class="axis-tag">${full.year || ''}</span>
+        </div>
+      `;
+
+      // コンセプト / ターゲット
+      const conceptEl = document.getElementById('concept');
+      const targetEl = document.getElementById('target');
+      if (full.concept) {
+        conceptEl.textContent = full.concept;
+      } else {
+        conceptEl.className = 'empty';
+        conceptEl.textContent = `未記載（JSON に concept フィールドを追加してください）`;
+      }
+      if (full.target) {
+        targetEl.textContent = full.target;
+      } else {
+        targetEl.className = 'empty';
+        targetEl.textContent = `未記載（JSON に target フィールドを追加してください）`;
+      }
+
+      // 基本データ
+      document.getElementById('kv').innerHTML = `
+        <dt>開発元</dt><dd>${escapeHtml(full.developer || '—')}</dd>
+        <dt>販売元</dt><dd>${escapeHtml(full.publisher || '—')}</dd>
+        <dt>初リリース</dt><dd>${full.year || '—'}</dd>
+        <dt>ジャンル</dt><dd>${escapeHtml(full.genre || '—')}</dd>
+        <dt>国内売上</dt><dd>${escapeHtml(full.sales_jp || '—')}</dd>
+        <dt>世界売上</dt><dd>${escapeHtml(full.sales_world || '—')}</dd>
+        <dt>バズ要因</dt><dd>${escapeHtml(full.popularity || '—')}</dd>
+        <dt>JSON</dt><dd><code style="font-size:11px">${escapeHtml(full.file)}</code></dd>
+      `;
+
+      // 深い分析の markdown を試行ロード
+      const slug = full.slug || '';
+      const padded = String(full.id).padStart(3, '0');
+      const mdPath = `../data/analyses/${padded}-${slug}.md`;
+      const mdRes = await fetch(mdPath);
+      if (mdRes.ok) {
+        const md = await mdRes.text();
+        document.getElementById('analysis').innerHTML = marked.parse(md);
+      } else {
+        document.getElementById('analysis').innerHTML = `
+          <div class="empty-analysis">
+            このゲームの深い分析はまだ書かれていません。<br>
+            <code>data/analyses/${padded}-${slug}.md</code> を作成すると、ここに表示されます。
+          </div>
+        `;
+      }
+
+      // 関連: 同カテゴリ × 同他者軸
+      const sameAxis = idx.games
+        .filter(g => g.id !== full.id && g.primary === full.primary && g.social_axis === full.social_axis)
+        .slice(0, 8);
+      document.getElementById('rel-axis').innerHTML = sameAxis.length ?
+        sameAxis.map(g => `
+          <a class="mini" href="detail.html?id=${g.id}">
+            <span class="t">${escapeHtml(g.title_jp)}</span>
+            <span style="color:var(--text-faint)">${g.year || ''}</span>
+          </a>
+        `).join('') :
+        '<div style="color:var(--text-faint);font-size:12px">該当なし</div>';
+
+      // 関連: 同年代
+      const sameYear = idx.games
+        .filter(g => g.id !== full.id && g.year && full.year && Math.abs(g.year - full.year) <= 3)
+        .slice(0, 8);
+      document.getElementById('rel-year').innerHTML = sameYear.length ?
+        sameYear.map(g => `
+          <a class="mini" href="detail.html?id=${g.id}">
+            <span class="t">${escapeHtml(g.title_jp)}</span>
+            <span style="color:var(--text-faint)">${g.year}</span>
+          </a>
+        `).join('') :
+        '<div style="color:var(--text-faint);font-size:12px">該当なし</div>';
+    })();
+  </script>
+</body>
+</html>

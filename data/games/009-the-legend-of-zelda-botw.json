@@ -18,5 +18,7 @@
   "social_axis": "ソロ",
   "popularity": "OW新基準、GOTY",
   "slug": "the-legend-of-zelda-botw",
-  "file": "data/games/009-the-legend-of-zelda-botw.json"
+  "file": "data/games/009-the-legend-of-zelda-botw.json",
+  "concept": "「物理エンジンが面白さの源」というオープンワールドの新基準。地形・天候・素材・電気・火が相互作用し、攻略法が無限に分岐する。",
+  "target": "20-40代のコアゲーマー、海外含む。「順序づけられた攻略」より「自分で発見する」体験を求める層。"
 }

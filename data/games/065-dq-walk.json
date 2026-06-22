@@ -15,5 +15,7 @@
   ],
   "social_axis": "非同期",
   "slug": "dq-walk",
-  "file": "data/games/065-dq-walk.json"
+  "file": "data/games/065-dq-walk.json",
+  "concept": "ポケモンGOの位置情報フォーマットを、ドラクエの「町から町へ歩く」物語に当てはめた歩行RPG。",
+  "target": "30-50代の通勤・散歩ユーザー、特にDQファンの社会人層。"
 }

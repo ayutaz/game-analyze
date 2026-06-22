@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>B: ファセット — 日本のゲーム99本</title>
+  <link rel="stylesheet" href="shared.css">
+  <style>
+    .layout {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 24px;
+    }
+    .sidebar {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+      position: sticky;
+      top: 80px;
+      align-self: start;
+      max-height: calc(100vh - 100px);
+      overflow-y: auto;
+    }
+    .sidebar h3 {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--text-faint);
+      margin: 14px 0 8px 0;
+      font-weight: 600;
+    }
+    .sidebar h3:first-child { margin-top: 0; }
+    .filter-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 4px 0;
+      cursor: pointer;
+      font-size: 13px;
+      user-select: none;
+    }
+    .filter-row:hover { color: var(--text); }
+    .filter-row.active { font-weight: 600; }
+    .filter-row .count {
+      font-size: 11px;
+      color: var(--text-faint);
+      background: var(--bg);
+      padding: 2px 8px;
+      border-radius: 999px;
+    }
+    .filter-row input { margin-right: 8px; }
+    .search-input {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font: inherit;
+      background: var(--bg);
+    }
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 14px;
+    }
+    .result-count {
+      font-size: 13px;
+      color: var(--text-dim);
+    }
+    .reset {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: 12px;
+      cursor: pointer;
+      color: var(--text-dim);
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar" id="topbar"></header>
+  <main class="container">
+    <div class="layout">
+      <aside class="sidebar">
+        <h3>検索</h3>
+        <input type="text" class="search-input" id="search" placeholder="タイトル / ジャンル…">
+
+        <h3>主分類</h3>
+        <div id="filter-primary"></div>
+
+        <h3>体験型の他者軸</h3>
+        <div id="filter-axis"></div>
+
+        <h3>年代</h3>
+        <div id="filter-decade"></div>
+
+        <h3>プラットフォーム</h3>
+        <div id="filter-platform"></div>
+      </aside>
+
+      <section>
+        <div class="toolbar">
+          <span class="result-count" id="result-count"></span>
+          <button class="reset" id="reset">フィルタ解除</button>
+        </div>
+        <div class="grid" id="grid"></div>
+      </section>
+    </div>
+  </main>
+
+  <script src="shared.js"></script>
+  <script>
+    document.getElementById('topbar').innerHTML = topbarNav('facet');
+
+    const state = {
+      search: '',
+      primary: new Set(),
+      axis: new Set(),
+      decade: new Set(),
+      platform: new Set(),
+    };
+
+    function decade(y) {
+      if (!y) return null;
+      return Math.floor(y / 10) * 10 + 's';
+    }
+
+    function platforms(games) {
+      const c = new Map();
+      games.forEach(g => (g.platform || []).forEach(p => c.set(p, (c.get(p)||0)+1)));
+      return [...c.entries()].sort((a,b) => b[1]-a[1]);
+    }
+
+    function renderFilters(games) {
+      const counts = (key, getter) => {
+        const c = new Map();
+        games.forEach(g => {
+          const v = getter(g);
+          if (Array.isArray(v)) v.forEach(x => x && c.set(x, (c.get(x)||0)+1));
+          else if (v) c.set(v, (c.get(v)||0)+1);
+        });
+        return c;
+      };
+      const primCounts = counts('primary', g => g.primary);
+      const axisCounts = counts('axis', g => g.social_axis);
+      const decCounts = counts('decade', g => decade(g.year));
+      const platCounts = counts('platform', g => g.platform);
+
+      document.getElementById('filter-primary').innerHTML = ['EXP','NAR','REW'].map(p => `
+        <label class="filter-row" data-key="primary" data-val="${p}">
+          <span><input type="checkbox"> <span class="badge ${p.toLowerCase()}">${PRIMARY_LABEL[p]}</span></span>
+          <span class="count">${primCounts.get(p)||0}</span>
+        </label>
+      `).join('');
+
+      document.getElementById('filter-axis').innerHTML = SOCIAL_AXES.map(a => `
+        <label class="filter-row" data-key="axis" data-val="${a}">
+          <span><input type="checkbox"> ${a}</span>
+          <span class="count">${axisCounts.get(a)||0}</span>
+        </label>
+      `).join('');
+
+      document.getElementById('filter-decade').innerHTML = [...decCounts.entries()]
+        .sort((a,b) => a[0].localeCompare(b[0]))
+        .map(([d,n]) => `
+          <label class="filter-row" data-key="decade" data-val="${d}">
+            <span><input type="checkbox"> ${d}</span>
+            <span class="count">${n}</span>
+          </label>
+        `).join('');
+
+      document.getElementById('filter-platform').innerHTML = [...platCounts.entries()].slice(0, 12).map(([p,n]) => `
+        <label class="filter-row" data-key="platform" data-val="${p}">
+          <span><input type="checkbox"> ${p}</span>
+          <span class="count">${n}</span>
+        </label>
+      `).join('');
+    }
+
+    function applyFilters(games) {
+      return games.filter(g => {
+        if (state.search) {
+          const s = state.search.toLowerCase();
+          const hay = [g.title_jp, g.title_en, g.genre].filter(Boolean).join(' ').toLowerCase();
+          if (!hay.includes(s)) return false;
+        }
+        if (state.primary.size && !state.primary.has(g.primary)) return false;
+        if (state.axis.size && !state.axis.has(g.social_axis)) return false;
+        if (state.decade.size && !state.decade.has(decade(g.year))) return false;
+        if (state.platform.size) {
+          const ok = (g.platform || []).some(p => state.platform.has(p));
+          if (!ok) return false;
+        }
+        return true;
+      });
+    }
+
+    function render(games) {
+      const filtered = applyFilters(games);
+      document.getElementById('result-count').textContent = `${filtered.length} / ${games.length} 件`;
+      document.getElementById('grid').innerHTML = filtered.map(cardHTML).join('');
+    }
+
+    (async () => {
+      const idx = await loadIndex();
+      const games = idx.games;
+      renderFilters(games);
+      render(games);
+
+      document.querySelectorAll('.filter-row').forEach(row => {
+        row.addEventListener('click', (e) => {
+          if (e.target.tagName === 'INPUT') return; // checkbox自体のクリックは継承
+          const cb = row.querySelector('input');
+          cb.checked = !cb.checked;
+          row.classList.toggle('active', cb.checked);
+          const set = state[row.dataset.key];
+          if (cb.checked) set.add(row.dataset.val);
+          else set.delete(row.dataset.val);
+          render(games);
+        });
+      });
+
+      document.getElementById('search').addEventListener('input', (e) => {
+        state.search = e.target.value;
+        render(games);
+      });
+
+      document.getElementById('reset').addEventListener('click', () => {
+        state.search = '';
+        state.primary.clear();
+        state.axis.clear();
+        state.decade.clear();
+        state.platform.clear();
+        document.querySelectorAll('.filter-row input').forEach(cb => cb.checked = false);
+        document.querySelectorAll('.filter-row.active').forEach(r => r.classList.remove('active'));
+        document.getElementById('search').value = '';
+        render(games);
+      });
+    })();
+  </script>
+</body>
+</html>

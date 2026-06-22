@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "mario-party-superstars",
-  "file": "data/games/042-mario-party-superstars.json"
+  "file": "data/games/042-mario-party-superstars.json",
+  "concept": "シリーズ歴代の名作ミニゲームと盤面を集めた「ベスト盤」型パーティゲーム。",
+  "target": "全世代、家族・友達でローカル4人プレイする「集まり」需要。"
 }

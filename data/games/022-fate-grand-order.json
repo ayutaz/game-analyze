@@ -15,5 +15,7 @@
     "REW"
   ],
   "slug": "fate-grand-order",
-  "file": "data/games/022-fate-grand-order.json"
+  "file": "data/games/022-fate-grand-order.json",
+  "concept": "TYPE-MOON原作の「Fate」IPに、史実の英雄を「サーヴァント」として召喚するシナリオを毎章重ねる、物語×ガチャの主流型。",
+  "target": "20-40代、特にFateシリーズファン、歴史好き、長文シナリオを読む層。"
 }

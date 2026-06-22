@@ -15,5 +15,7 @@
     "NAR"
   ],
   "slug": "sekiro-shadows-die-twice",
-  "file": "data/games/079-sekiro-shadows-die-twice.json"
+  "file": "data/games/079-sekiro-shadows-die-twice.json",
+  "concept": "フロムが「ジャストガード」を中核に置き直した、忍者×和風×死亡即再挑戦の高難度アクション。剣戟の手応えに特化。",
+  "target": "ソウル経験者だけでなく、和風アクション・忍者映画ファン、剣戟の手応えを求める層。"
 }

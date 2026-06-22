@@ -19,5 +19,7 @@
   "social_axis": "協力",
   "popularity": "シリーズ世界進出",
   "slug": "monster-hunter-world",
-  "file": "data/games/011-monster-hunter-world.json"
+  "file": "data/games/011-monster-hunter-world.json",
+  "concept": "シリーズ初の世界同時マルチプラットフォーム展開で「狩猟」を世界基準のARPGに押し上げた、4人協力中心のアクション。",
+  "target": "20-40代のアクションRPGファン、特に「友達と長時間狩りに行く」文脈を持つ層。海外展開で初めて世界商品化。"
 }

@@ -12,5 +12,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "chunithm",
-  "file": "data/games/055-chunithm.json"
+  "file": "data/games/055-chunithm.json",
+  "concept": "「タッチ＋空中エアーアクション」という独自インタフェースで、リズムゲームに身体表現を持ち込んだセガのアーケード代表作。",
+  "target": "10-30代、東方・VOCALOID・アニソンファン、リズムゲーム愛好層。"
 }

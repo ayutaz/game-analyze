@@ -16,5 +16,7 @@
   ],
   "social_axis": "対戦",
   "slug": "fortnite",
-  "file": "data/games/033-fortnite.json"
+  "file": "data/games/033-fortnite.json",
+  "concept": "100人バトルロワイヤルに「建築」を組み合わせた、世代を象徴するクロスプラットフォーム対戦ゲーム。",
+  "target": "10-20代を中心とするグローバル層、特に北米。SNS・YouTube文化との結合が極めて強い。"
 }

@@ -16,5 +16,7 @@
   ],
   "social_axis": "非同期",
   "slug": "pokemon-go",
-  "file": "data/games/018-pokemon-go.json"
+  "file": "data/games/018-pokemon-go.json",
+  "concept": "位置情報×AR×ポケモンで、現実の街歩きをゲームに変えた社会現象。世界中の公園・観光地に「ポケストップ」と「レイド集会」が生まれた。",
+  "target": "全年齢、特に「家から出る理由が欲しい」「散歩・運動と娯楽を兼ねたい」層。コミュニティ・デイ参加者は中高年も多い。"
 }

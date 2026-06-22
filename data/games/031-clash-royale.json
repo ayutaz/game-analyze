@@ -15,5 +15,7 @@
   ],
   "social_axis": "対戦",
   "slug": "clash-royale",
-  "file": "data/games/031-clash-royale.json"
+  "file": "data/games/031-clash-royale.json",
+  "concept": "Clash of ClansのIPを「3分1試合のリアルタイム対戦カードゲーム」に再構築、テンポと公平性で対戦モバイル市場を切り開いた。",
+  "target": "10-30代、特に短時間対戦を好む層、競技性のあるモバイル対戦ファン。"
 }

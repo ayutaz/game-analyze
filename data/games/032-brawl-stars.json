@@ -15,5 +15,7 @@
   ],
   "social_axis": "対戦",
   "slug": "brawl-stars",
-  "file": "data/games/032-brawl-stars.json"
+  "file": "data/games/032-brawl-stars.json",
+  "concept": "3v3の超短時間（3分以内）対戦シューター、操作が片手親指1本で完結する「モバイル特化」アクション。",
+  "target": "10-20代、モバイル対戦を主軸に遊ぶ若年層、世界規模のe-sportsコミュニティ。"
 }

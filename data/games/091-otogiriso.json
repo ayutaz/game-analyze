@@ -12,5 +12,7 @@
   "primary": "NAR",
   "popularity": "サウンドノベル起点",
   "slug": "otogiriso",
-  "file": "data/games/091-otogiriso.json"
+  "file": "data/games/091-otogiriso.json",
+  "concept": "1992年、ゲームを「選択肢付きの小説」として成立させたサウンドノベルの原点、現代AVGの起源。",
+  "target": "30-50代のレトロゲーム文化育ち層、テキスト読み中心のゲームファン。"
 }

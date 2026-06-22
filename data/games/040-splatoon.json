@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "splatoon",
-  "file": "data/games/040-splatoon.json"
+  "file": "data/games/040-splatoon.json",
+  "concept": "「敵を撃つ」のではなく「インクで床を塗る」を勝利条件にして、対戦TPSを再定義したオリジナル作品。",
+  "target": "中高生〜20代、対戦シューター未経験者を含む若年層、任天堂IPファン。"
 }

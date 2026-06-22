@@ -15,5 +15,7 @@
     "NAR"
   ],
   "slug": "resident-evil-4",
-  "file": "data/games/085-resident-evil-4.json"
+  "file": "data/games/085-resident-evil-4.json",
+  "concept": "2005年の名作を現代的サバイバルホラーに再構築、肩越し視点の「動きながら撃つ」操作を更新した代表的リメイク。",
+  "target": "30-40代の原作プレイヤー + 新規ホラーファン、シリーズ伝統層。"
 }

@@ -13,5 +13,7 @@
   "sales_world": "1100万+",
   "primary": "NAR",
   "slug": "ace-attorney",
-  "file": "data/games/090-ace-attorney.json"
+  "file": "data/games/090-ace-attorney.json",
+  "concept": "法廷で証拠を提示して「異議あり！」と矛盾を突く裁判アドベンチャー、論理パズルと演出を融合させたカプコンの代表作。",
+  "target": "10-30代、テキスト読解とパズルが好きな層、シリーズの長期ファン。"
 }

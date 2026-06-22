@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "wii-sports",
-  "file": "data/games/051-wii-sports.json"
+  "file": "data/games/051-wii-sports.json",
+  "concept": "モーションコントローラーで「テニスのスイング」「ボーリングの投球」を直感操作。家庭用ゲーム機を「動かしながら遊ぶ装置」に再定義。",
+  "target": "全世代、特にゲーム未経験者・高齢者層、ファミリー需要。"
 }

@@ -13,5 +13,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "street-fighter-6",
-  "file": "data/games/057-street-fighter-6.json"
+  "file": "data/games/057-street-fighter-6.json",
+  "concept": "「モダン操作」で初心者が技を出しやすくしつつ、上級者の「クラシック操作」と同時にマッチング可能にした、格闘ゲーム入門の再設計。",
+  "target": "格闘ゲーム経験者 + 新規初心者、特にe-sports視聴者層。"
 }

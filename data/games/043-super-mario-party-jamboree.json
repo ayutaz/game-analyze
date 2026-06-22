@@ -12,5 +12,7 @@
   "primary": "EXP",
   "social_axis": "対戦",
   "slug": "super-mario-party-jamboree",
-  "file": "data/games/043-super-mario-party-jamboree.json"
+  "file": "data/games/043-super-mario-party-jamboree.json",
+  "concept": "110種以上のミニゲーム、Switch2世代対応、20人マルチ対応で「最大級」を訴求するパーティ。",
+  "target": "ファミリー層、子供から大人まで、Switch家庭の標準装備候補。"
 }

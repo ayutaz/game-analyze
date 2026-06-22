@@ -16,5 +16,7 @@
   ],
   "social_axis": "対戦",
   "slug": "taiko-no-tatsujin",
-  "file": "data/games/052-taiko-no-tatsujin.json"
+  "file": "data/games/052-taiko-no-tatsujin.json",
+  "concept": "太鼓型コントローラーを叩いて音楽に合わせる、アーケード発で世代を超えて続く国民的リズムゲーム。",
+  "target": "全世代、特に小中学生と親世代の親子需要、アーケード文化好きの大人層。"
 }

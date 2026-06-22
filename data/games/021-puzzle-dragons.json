@@ -15,5 +15,7 @@
     "EXP"
   ],
   "slug": "puzzle-dragons",
-  "file": "data/games/021-puzzle-dragons.json"
+  "file": "data/games/021-puzzle-dragons.json",
+  "concept": "「同じ色の玉を3つ揃える」パズルと「モンスター収集・育成」を組み合わせ、モバイルガチャ収集型RPGの原型を作った2012年の発明。",
+  "target": "中高生〜30-40代、特にモンスター収集とパズル両方が好きな層。日本のモバイルゲーム文化の起点。"
 }

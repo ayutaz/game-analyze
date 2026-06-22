@@ -17,5 +17,7 @@
   "social_axis": "対戦",
   "popularity": "国内最強対戦TPS",
   "slug": "splatoon-3",
-  "file": "data/games/006-splatoon-3.json"
+  "file": "data/games/006-splatoon-3.json",
+  "concept": "「敵を倒す」を勝利条件から外し「床を塗る」に置換することで、エイム能力に依存せず初心者と上級者を同じマッチに共存させた対戦TPS。",
+  "target": "中高生〜20代の若年層を中心に、FPS/TPSが苦手でも対戦を楽しみたい層。ローカル/オンライン両方で友達と遊ぶ文化を持つ層。"
 }

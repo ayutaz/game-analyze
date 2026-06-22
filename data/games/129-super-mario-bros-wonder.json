@@ -1,0 +1,22 @@
+{
+  "id": 129,
+  "title_jp": "スーパーマリオブラザーズ ワンダー",
+  "title_en": "Super Mario Bros. Wonder",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2023,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "2D横スクロールアクション",
+  "sales_jp": "2.5M+",
+  "sales_world": "15M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "11年ぶり完全新作2Dマリオ、ワンダーフラワーの意外性",
+  "slug": "super-mario-bros-wonder",
+  "file": "data/games/129-super-mario-bros-wonder.json",
+  "concept": "「ワンダーフラワー」を取るとステージのルールそのものが豹変する仕掛けを軸に、2Dマリオを驚き主導で再設計。最大4人ローカル協力に加え、オンラインで他プレイヤーの影と緩く同居する非同期要素も導入。",
+  "target": "家族・友人と気軽に遊びたい全年齢層と、New スーパーマリオ系のマンネリに飽きた往年の2Dマリオファン。"
+}

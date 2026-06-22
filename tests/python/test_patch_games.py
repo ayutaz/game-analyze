@@ -62,8 +62,11 @@ class PatchesDictShapeTests(unittest.TestCase):
         keys = list(patch_games.PATCHES.keys())
         self.assertEqual(len(keys), len(set(keys)), "duplicate ids in PATCHES")
 
-    def test_patches_dict_covers_ids_1_to_100_except_56(self) -> None:
-        # ID 56 is the documented gap (Project Sekai dedup).
+    def test_patches_dict_covers_historical_99(self) -> None:
+        # PATCHES is the historical concept/target patch for the original
+        # 99-game catalog (IDs 1..100 minus the then-missing #56). New
+        # entries added in 2026-06 already ship concept/target in their JSON
+        # so they do not need PATCHES coverage.
         expected = set(range(1, 101)) - {56}
         self.assertEqual(
             set(patch_games.PATCHES),
@@ -107,13 +110,10 @@ class PatchesAgainstRealTreeTests(unittest.TestCase):
                 cls.real_ids.add(json.load(f)["id"])
 
     def test_patches_referenced_ids_exist_in_data(self) -> None:
-        # Every PATCHES id should correspond to an existing game file,
-        # except for ID 56 which is the documented gap. PATCHES intentionally
-        # includes 56 to be future-proof, but it should not error.
-        documented_gaps = {56}
+        # Every PATCHES id should now correspond to an existing game file
+        # (slot #56 was filled in 2026-06 by 桃太郎電鉄, so the historical
+        # PATCHES range maps 1:1 to real data files).
         for pid in patch_games.PATCHES:
-            if pid in documented_gaps:
-                continue
             self.assertIn(
                 pid,
                 self.real_ids,
@@ -122,7 +122,10 @@ class PatchesAgainstRealTreeTests(unittest.TestCase):
 
     def test_data_ids_have_patches_or_documented_missing(self) -> None:
         # Allowlist of ids that are intentionally NOT in PATCHES.
-        allowlist: set[int] = set()
+        # The 2026-06 expansion (#56 + #101..#200) added 101 games whose
+        # concept/target are written directly into their JSON; they do not
+        # need PATCHES coverage.
+        allowlist: set[int] = {56} | set(range(101, 201))
         for rid in self.real_ids:
             if rid in allowlist:
                 continue
@@ -201,20 +204,24 @@ class PatchMainBehaviorTests(unittest.TestCase):
                     f"non concept/target fields changed in {p.name}",
                 )
 
-    def test_main_skips_id_56_gracefully(self) -> None:
-        # ID 56 has no file in the real tree; main() must not raise.
+    def test_main_runs_on_full_real_tree_copy(self) -> None:
+        # As of 2026-06 the data tree no longer has any gaps in 1..200, so
+        # main() should run cleanly over a copy with no "missing" warnings
+        # for in-range PATCHES ids.
         with tempfile.TemporaryDirectory() as td:
             tmp = Path(td)
             _make_repo_copy(tmp)
             out = _silent_main(tmp)
             self.assertIn("patched", out)
-            # No file in the tree should have id 56 (sanity check).
+            # Sanity: every PATCHES id resolves to a real file in the copy.
             games_dir = tmp / "data" / "games"
-            ids = []
+            ids = set()
             for p in games_dir.glob("*.json"):
                 with p.open(encoding="utf-8") as f:
-                    ids.append(json.load(f)["id"])
-            self.assertNotIn(56, ids)
+                    ids.add(json.load(f)["id"])
+            for pid in patch_games.PATCHES:
+                self.assertIn(pid, ids,
+                              f"PATCHES references id={pid} not present in copied tree")
 
     def test_main_reports_missing_ids(self) -> None:
         # Build a fixture that has TWO games: one with an id that exists in

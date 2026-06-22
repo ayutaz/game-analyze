@@ -1,0 +1,26 @@
+{
+  "id": 160,
+  "title_jp": "アサシン クリード シャドウズ",
+  "title_en": "Assassin's Creed Shadows",
+  "developer": "Ubisoft Quebec",
+  "publisher": "Ubisoft",
+  "year": 2025,
+  "platform": [
+    "PS5",
+    "XSX",
+    "PC"
+  ],
+  "genre": "オープンワールドアクション",
+  "sales_jp": "未公開",
+  "sales_world": "3M+(発売1ヶ月)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "初の日本舞台AC、弥助・奈緒江の二主人公議論で話題化。",
+  "slug": "assassins-creed-shadows",
+  "file": "data/games/160-assassins-creed-shadows.json",
+  "concept": "シリーズ初の戦国日本（安土桃山期）を舞台にしたオープンワールドAC。武士・弥助のパワー型と忍・奈緒江のステルス型を切替えるデュアル主人公制と、隠密・破壊が反映される拠点システムを採用。",
+  "target": "洋ゲーARPG層と戦国・忍題材ファン。ACシリーズ既存ファンに加え、ゴーストオブツシマで日本舞台アクションに開眼した層を取り込む狙い。"
+}

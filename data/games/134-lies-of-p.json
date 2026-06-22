@@ -1,0 +1,28 @@
+{
+  "id": 134,
+  "title_jp": "Lies of P",
+  "title_en": "Lies of P",
+  "developer": "NEOWIZ / Round8 Studio",
+  "publisher": "NEOWIZ",
+  "year": 2023,
+  "platform": [
+    "PS5",
+    "PS4",
+    "XSX",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "ソウルライクアクション",
+  "sales_jp": "未公開",
+  "sales_world": "7M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "フロム以外で初めて成功した本格派ソウルライクとして話題",
+  "slug": "lies-of-p",
+  "file": "data/games/134-lies-of-p.json",
+  "concept": "ピノキオを題材にしたベルエポック風ダークファンタジーのソウルライク。FromSoftware式の死にゲー文法を韓国デベロッパーが完成度高く再現し、武器組み立てと嘘の選択肢で個性を出した。",
+  "target": "フロム・ソウルシリーズ経験者で、新作の合間に同質の歯応えを求める20-40代男性中心のコアアクションファン。"
+}

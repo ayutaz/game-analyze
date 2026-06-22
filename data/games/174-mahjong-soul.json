@@ -1,0 +1,26 @@
+{
+  "id": 174,
+  "title_jp": "雀魂 -じゃんたま-",
+  "title_en": "Mahjong Soul",
+  "developer": "Catfood Studio",
+  "publisher": "Yostar",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "オンライン麻雀",
+  "sales_jp": "登録1000万超(全世界、JP主要市場)",
+  "sales_world": "未公開",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Vtuber・配信者の対局配信、Mリーグとの連動で拡散",
+  "slug": "mahjong-soul",
+  "file": "data/games/174-mahjong-soul.json",
+  "concept": "Yostarが運営する基本無料オンライン麻雀。萌え系キャラクター・ボイス・スキンと本格的なルール・段位戦を融合させ、従来の麻雀ゲームと美少女ガチャ要素を接続した。",
+  "target": "麻雀経験者と、Vtuber・アニメ経由で麻雀に触れた20-30代男女。段位戦で腕を競う層とキャラ・スキン収集層の両方が共存。"
+}

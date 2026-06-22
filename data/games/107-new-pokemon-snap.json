@@ -1,0 +1,24 @@
+{
+  "id": 107,
+  "title_jp": "新ポケモンスナップ",
+  "title_en": "New Pokemon Snap",
+  "developer": "Bandai Namco Studios",
+  "publisher": "The Pokemon Company / Nintendo",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "撮影アドベンチャー",
+  "sales_jp": "未公開",
+  "sales_world": "2.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "N64名作の24年ぶり復活、SNS映え写真共有",
+  "slug": "new-pokemon-snap",
+  "file": "data/games/107-new-pokemon-snap.json",
+  "concept": "N64『ポケモンスナップ』(1999)の正統続編。オンレール式のサファリで野生ポケモンを撮影し、構図・行動・希少度でスコアを競う観察ゲーム。戦闘も収集もない異色のポケモン外伝。",
+  "target": "原作N64版を遊んだ30-40代の懐古層と、戦闘抜きでポケモンの生態を眺めたい子供・ライト層・カメラ趣味層。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 199,
+  "title_jp": "ディアブロIV",
+  "title_en": "Diablo IV",
+  "developer": "Blizzard",
+  "publisher": "Blizzard / Activision",
+  "year": 2023,
+  "platform": [
+    "PS5",
+    "PS4",
+    "XSX",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "ハクスラARPG",
+  "sales_jp": "未公開",
+  "sales_world": "$1B+(初月), 12M+(推定)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ復活、シーズン制で長期運営化",
+  "slug": "diablo-iv",
+  "file": "data/games/199-diablo-iv.json",
+  "concept": "ハクスラARPGの原典シリーズ最新作。オープンワールド化とシーズン制を導入し、買い切りからライブサービス型へ移行。装備ドロップとビルド構築の反復が中核。",
+  "target": "30-40代の旧シリーズファンと欧米PCゲーマー中心。日本ではコアARPG層に限定的、JRPGガチャ文化とは別系統。"
+}

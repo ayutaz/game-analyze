@@ -1,0 +1,27 @@
+{
+  "id": 148,
+  "title_jp": "ドラゴンズドグマ2",
+  "title_en": "Dragon's Dogma 2",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "Xbox",
+    "XSX",
+    "PC"
+  ],
+  "genre": "オープンワールドRPG",
+  "sales_jp": "未公開",
+  "sales_world": "300万+(初週250万)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "12年ぶりの正統続編、ポーン共有の独自性が話題化",
+  "slug": "dragons-dogma-2",
+  "file": "data/games/148-dragons-dogma-2.json",
+  "concept": "AI仲間「ポーン」を他プレイヤーと貸借するソロ前提オープンワールドARPG。徒歩中心・ファストトラベル制限で「移動そのものを冒険化」する設計。",
+  "target": "前作経験者を核に、洋風ファンタジー・高難度探索を好む20-40代コアゲーマー。物語より道中の事件性を楽しむ層。"
+}

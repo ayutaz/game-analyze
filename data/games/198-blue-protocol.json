@@ -1,0 +1,24 @@
+{
+  "id": 198,
+  "title_jp": "ブループロトコル",
+  "title_en": "Blue Protocol",
+  "developer": "Bandai Namco Online",
+  "publisher": "Bandai Namco",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アクションMMORPG",
+  "sales_jp": "事前登録100万+(2023)、2025/1サ終",
+  "sales_world": "未公開（海外版はAmazon Gamesが運営）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "アニメ調MMO期待、サ終で象徴的事例化",
+  "slug": "blue-protocol",
+  "file": "data/games/198-blue-protocol.json",
+  "concept": "「アニメ調ハイクオリティ・ビジュアル × 基本無料アクションMMO」を国産で目指した期待作。スキン・ガチャ課金とコンテンツ更新で運営する設計だったが、コンテンツ供給と収益化の難しさが露呈し約1.5年でサービス終了。",
+  "target": "20-30代の国内アニメ調MMORPGファン、PSO2や原神からの流入を想定。キャラメイクとスクリーンショット文化を好む層。"
+}

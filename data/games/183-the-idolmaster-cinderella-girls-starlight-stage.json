@@ -1,0 +1,25 @@
+{
+  "id": 183,
+  "title_jp": "アイドルマスター シンデレラガールズ スターライトステージ",
+  "title_en": "The Idolmaster Cinderella Girls Starlight Stage",
+  "developer": "BNE",
+  "publisher": "Bandai Namco",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドル育成リズム",
+  "sales_jp": "DL 2,500万(累計)",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "3Dライブ表現とアイドル190人超のガチャ収集",
+  "slug": "the-idolmaster-cinderella-girls-starlight-stage",
+  "file": "data/games/183-the-idolmaster-cinderella-girls-starlight-stage.json",
+  "concept": "モバマス(2D育成)の後継として3DフルモーションMVとリズムゲームを融合。SSR担当アイドル獲得と特訓・親愛度上げのガチャ収集ループが中核で、楽曲解禁とMV鑑賞が報酬。",
+  "target": "モバマス由来の20-30代男性Pが中核。担当アイドル固定型のキャラ愛駆動層と、譜面難度SSS+を求める音ゲー上級者の二層構造。"
+}

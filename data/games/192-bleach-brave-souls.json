@@ -1,0 +1,27 @@
+{
+  "id": 192,
+  "title_jp": "BLEACH Brave Souls",
+  "title_en": "BLEACH Brave Souls",
+  "developer": "KLab",
+  "publisher": "KLab",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Switch"
+  ],
+  "genre": "3DアクションRPG",
+  "sales_jp": "未公開",
+  "sales_world": "90M DL+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "BLEACH原作の長期IP活用、千年血戦篇アニメ復活で再加熱",
+  "slug": "bleach-brave-souls",
+  "file": "data/games/192-bleach-brave-souls.json",
+  "concept": "BLEACH IPを3Dアクション+ガチャで運用する長寿スマホRPG。原作各篇のキャラを衣装違いで継続実装し、爽快なコンボアクションと収集を両立させる設計。",
+  "target": "原作BLEACHのファン層（30代男性中心）と、軽快な片手アクションを求めるスマホRPGユーザー。海外比率が高い。"
+}

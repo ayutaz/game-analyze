@@ -1,0 +1,27 @@
+{
+  "id": 140,
+  "title_jp": "メタファー：リファンタジオ",
+  "title_en": "Metaphor: ReFantazio",
+  "developer": "アトラス（スタジオ・ゼロ）",
+  "publisher": "アトラス／セガ",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "PS4",
+    "XSX",
+    "PC"
+  ],
+  "genre": "ファンタジーRPG",
+  "sales_jp": "未公開",
+  "sales_world": "2M+（発売後1週間で100万本突破）",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "ペルソナチームの新作、TGA最多ノミネートで話題化",
+  "slug": "metaphor-refantazio",
+  "file": "data/games/140-metaphor-refantazio.json",
+  "concept": "ペルソナシリーズの「カレンダー＋コミュ＋ダンジョン」構造を中世ファンタジー世界に移植したJRPG。選挙戦という政治テーマと「アーキタイプ（ジョブ）」育成で物語と成長を二軸駆動する。",
+  "target": "20-40代のペルソナ／JRPGファン、アトラス作品の世界観・音楽・UI演出に惹かれる海外含むコア層。"
+}

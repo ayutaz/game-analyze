@@ -1,0 +1,26 @@
+{
+  "id": 200,
+  "title_jp": "Kingdom Come: Deliverance II",
+  "title_en": "Kingdom Come: Deliverance II",
+  "developer": "Warhorse Studios",
+  "publisher": "Deep Silver",
+  "year": 2025,
+  "platform": [
+    "PS5",
+    "XSX",
+    "PC"
+  ],
+  "genre": "オープンワールドRPG",
+  "sales_jp": "未公開",
+  "sales_world": "5M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "中世リアル路線の前作評価を継ぐ続編、発売24時間で100万本",
+  "slug": "kingdom-come-deliverance-ii",
+  "file": "data/games/200-kingdom-come-deliverance-ii.json",
+  "concept": "15世紀ボヘミアを舞台にした考証重視のリアル系オープンワールドRPG。魔法・ドラゴンを排し、鍛冶・剣術・社会階層シミュレーションで没入感を作る硬派路線を続編で大幅拡張。",
+  "target": "前作および『ウィッチャー3』を遊んだ洋RPG好きの30〜40代男性が中心。歴史考証や重厚なロールプレイを好む層に支持される。"
+}

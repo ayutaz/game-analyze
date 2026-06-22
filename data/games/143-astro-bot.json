@@ -1,0 +1,22 @@
+{
+  "id": 143,
+  "title_jp": "ASTRO BOT",
+  "title_en": "Astro Bot",
+  "developer": "Team Asobi",
+  "publisher": "SIE",
+  "year": 2024,
+  "platform": [
+    "PS5"
+  ],
+  "genre": "3Dアクション",
+  "sales_jp": "未公開",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "TGA2024 GOTY、DualSense体感の決定版",
+  "slug": "astro-bot",
+  "file": "data/games/143-astro-bot.json",
+  "concept": "DualSenseの触覚・アダプティブトリガーを最大活用した3Dアクション。PlayStation 30年の歴史キャラをカメオ収集要素として配し、「ハード性能を遊びで体感させる」任天堂的設計をSIEが達成した一作。",
+  "target": "全年齢、特にPS5を所有する20-40代のコアゲーマーと、3Dマリオ系プラットフォーマーを求める層。PlayStation長年のファンほどカメオで刺さる。"
+}

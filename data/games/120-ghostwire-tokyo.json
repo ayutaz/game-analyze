@@ -1,0 +1,25 @@
+{
+  "id": 120,
+  "title_jp": "Ghostwire: Tokyo",
+  "title_en": "Ghostwire: Tokyo",
+  "developer": "Tango Gameworks",
+  "publisher": "Bethesda",
+  "year": 2022,
+  "platform": [
+    "PS5",
+    "PC"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "10,144本(初週PS5)",
+  "sales_world": "600万人プレイ(2023)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "無人の渋谷を印で祓うビジュアルが話題、三上真司の新規IP",
+  "slug": "ghostwire-tokyo",
+  "file": "data/games/120-ghostwire-tokyo.json",
+  "concept": "無人化した現代東京・渋谷を舞台に、印を結んで怪異を祓う一人称アクションアドベンチャー。和製ホラー＋オープンワールド探索という三上真司流の新規IPで、心霊スポット観光的な散策体験を主軸に置く。",
+  "target": "日本の都市風景や和製ホラーに惹かれる海外勢と、三上真司・Tango Gameworks 作品のファン。ストーリードリブンな一人称ソロ探索を好む 20-40 代向け。"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 124,
+  "title_jp": "OMORI",
+  "title_en": "OMORI",
+  "developer": "OMOCAT",
+  "publisher": "PLAYISM",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "サイコホラーRPG",
+  "sales_jp": "未公開",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "考察・トラウマ系SNSバズとファンアート文化",
+  "slug": "omori",
+  "file": "data/games/124-omori.json",
+  "concept": "RPGツクール製のサイコホラーRPG。可愛いドット絵世界と現実パートが交錯し、徐々に主人公の抑圧された記憶が露呈する構造で、SNS時代の口コミ拡散と二次創作を誘発した。",
+  "target": "Undertale / Mother系を好む10〜20代のインディーRPGファン。考察・二次創作好きでホラー耐性のある層。"
+}

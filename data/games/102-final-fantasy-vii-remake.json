@@ -1,0 +1,26 @@
+{
+  "id": 102,
+  "title_jp": "ファイナルファンタジーVII リメイク",
+  "title_en": "Final Fantasy VII Remake",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "year": 2020,
+  "platform": [
+    "PS4",
+    "PS5",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "0.7M(初週0.34M)",
+  "sales_world": "7M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "原作FF7の世界的IP力と分作リメイクの話題性",
+  "slug": "final-fantasy-vii-remake",
+  "file": "data/games/102-final-fantasy-vii-remake.json",
+  "concept": "原作1作目「ミッドガル脱出編」を1本のフルプライス作品として再構築。リアルタイム+ATBのハイブリッド戦闘とフォトリアル描写で、JRPG名作を現代化。",
+  "target": "原作FF7プレイ経験のある30〜40代と、現代的アクションRPGを求める新規層。物語重視のJRPGファン。"
+}

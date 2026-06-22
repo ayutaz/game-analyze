@@ -1,0 +1,23 @@
+{
+  "id": 132,
+  "title_jp": "Hi-Fi RUSH",
+  "title_en": "Hi-Fi Rush",
+  "developer": "Tango Gameworks",
+  "publisher": "Bethesda / Microsoft",
+  "year": 2023,
+  "platform": [
+    "XSX",
+    "PC"
+  ],
+  "genre": "リズムアクション",
+  "sales_jp": "未公開",
+  "sales_world": "未公開（Game Pass配信、後にPS5/Switch2展開）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "突然配信のサプライズと拍同期アクションが絶賛",
+  "slug": "hi-fi-rush",
+  "file": "data/games/132-hi-fi-rush.json",
+  "concept": "タンゴ・ゲームワークスがホラー路線から転換し開発したリズム×3Dアクション。攻撃・回避・移動が全てBGMの拍に同期し、ライセンス洋楽と相まって独自のグルーヴ体験を作る。シャドウドロップ配信＋Game Pass即日対応という公開戦略でも話題化。",
+  "target": "DMC・ベヨネッタ系スタイリッシュアクション愛好層と、洋楽ロック／リズムゲーム好きの20-40代コアゲーマー。"
+}

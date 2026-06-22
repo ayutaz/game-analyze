@@ -1,0 +1,25 @@
+{
+  "id": 113,
+  "title_jp": "PICO PARK",
+  "title_en": "PICO PARK",
+  "developer": "TECOPARK",
+  "publisher": "TECOPARK",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "協力パズル",
+  "sales_jp": "数%(全体1M中)",
+  "sales_world": "5M+(シリーズ累計)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "海外配信者バズ、わちゃわちゃ協力で逆輸入ヒット",
+  "slug": "pico-park",
+  "file": "data/games/113-pico-park.json",
+  "concept": "最大8人で1画面協力する超シンプルなアクションパズル。個人開発の小品が、配信映え・声出しコミュニケーション需要に乗り全世界100万本超のインディー成功例となった。",
+  "target": "友人・配信者・ファミリーで集まって遊ぶライト層。Discord通話やパーティーゲーム需要のある10〜30代が中心。"
+}

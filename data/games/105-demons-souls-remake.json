@@ -1,0 +1,24 @@
+{
+  "id": 105,
+  "title_jp": "Demon's Souls",
+  "title_en": "Demon's Souls (Remake)",
+  "developer": "Bluepoint Games",
+  "publisher": "SIE",
+  "year": 2020,
+  "platform": [
+    "PS5"
+  ],
+  "genre": "アクションRPG/ソウルライク",
+  "sales_jp": "未公開",
+  "sales_world": "140万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS5ローンチタイトル、ソウル原点のフル4Kリメイク。",
+  "slug": "demons-souls-remake",
+  "file": "data/games/105-demons-souls-remake.json",
+  "concept": "フロム2009年作のソウル原点を、Bluepointが4K/60fpsでフルリメイク。次世代機の高速ロードと質感表現で「死に覚え」体験を再提示したPS5ローンチの看板作。",
+  "target": "PS5アーリーアダプターのコアゲーマー、ソウル経験者および当時PS3を逃した30-40代層。グラフィックと触感の刷新を求める層。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 168,
+  "title_jp": "鳴潮",
+  "title_en": "Wuthering Waves",
+  "developer": "Kuro Games",
+  "publisher": "Kuro Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android",
+    "PS5"
+  ],
+  "genre": "オープンワールドARPG",
+  "sales_jp": "未公開",
+  "sales_world": "$200M+(初年度推定)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "原神型OW+高速アクション、ポスト原神の対抗馬",
+  "slug": "wuthering-waves",
+  "file": "data/games/168-wuthering-waves.json",
+  "concept": "原神フォロワーのオープンワールド×ガチャARPG。回避・パリィ重視の高速戦闘とポストアポカリプス世界観で、原神より硬派なアクション層を取りに行く差別化を行う。",
+  "target": "原神・崩壊スターレイル経験者で、よりアクション性の高い戦闘を求める20-30代男性中心。キャラガチャ＋やり込み戦闘の両立を望む層。"
+}

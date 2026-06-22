@@ -1,0 +1,24 @@
+{
+  "id": 130,
+  "title_jp": "Marvel's Spider-Man 2",
+  "title_en": "Marvel's Spider-Man 2",
+  "developer": "Insomniac Games",
+  "publisher": "SIE",
+  "year": 2023,
+  "platform": [
+    "PS5"
+  ],
+  "genre": "オープンワールドアクション",
+  "sales_jp": "24万本+",
+  "sales_world": "11M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS5最速ミリオン、ピーター＆マイルズ二人主人公の話題性",
+  "slug": "marvels-spider-man-2",
+  "file": "data/games/130-marvels-spider-man-2.json",
+  "concept": "マンハッタンを高速スイングで疾走するオープンワールドアクション。ピーターとマイルズの二人主人公切替＋ヴェノム化シンビオート要素で、映画的演出と高密度な戦闘体験を両立。",
+  "target": "PS5を持つアクション・洋ゲー好きの20-40代男性中心。MCU／マーベル映画ファンや前作・マイルズ編プレイヤーが本命層。"
+}

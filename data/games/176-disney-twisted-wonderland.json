@@ -1,0 +1,24 @@
+{
+  "id": 176,
+  "title_jp": "ディズニー ツイステッドワンダーランド",
+  "title_en": "Disney Twisted-Wonderland",
+  "developer": "f4samurai",
+  "publisher": "アニプレックス",
+  "year": 2020,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "リズム/育成RPG",
+  "sales_jp": "1000万DL+（国内主軸）",
+  "sales_world": "月商$3M+（Sensor Tower推定）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "ディズニーヴィランズ×女性向けキャラ運営、SNS二次創作で拡大",
+  "slug": "disney-twisted-wonderland",
+  "file": "data/games/176-disney-twisted-wonderland.json",
+  "concept": "ディズニーヴィランズをモチーフにした魔法学校の男性キャラ群を、リズムバトルと章立てシナリオで育成するキャラガチャ運営型。枢やな（原案・キャラ）×ディズニー×アニプレ運営の女性向けハイブリッド。",
+  "target": "10-30代女性中心、ディズニー／乙女ゲーム／推し活SNS文化に親しむ層。男性キャラのビジュアルとシナリオを継続消費するファン。"
+}

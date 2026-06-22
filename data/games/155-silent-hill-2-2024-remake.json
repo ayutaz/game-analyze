@@ -1,0 +1,25 @@
+{
+  "id": 155,
+  "title_jp": "SILENT HILL 2 リメイク",
+  "title_en": "Silent Hill 2 (2024 Remake)",
+  "developer": "Bloober Team",
+  "publisher": "Konami",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "PC"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "未公開",
+  "sales_world": "2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "名作リメイクの高評価、心理ホラー再評価",
+  "slug": "silent-hill-2-2024-remake",
+  "file": "data/games/155-silent-hill-2-2024-remake.json",
+  "concept": "PS2時代の名作心理ホラーを現代的TPS視点で再構築。霧の街と内面の罪悪感を辿る物語体験を軸に、戦闘・探索を補強した王道リメイク。",
+  "target": "原作世代の30-40代男性ホラーファン、暗く重い物語と心理描写を好む層。実況視聴経由の若年層流入もあり。"
+}

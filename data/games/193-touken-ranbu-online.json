@@ -1,0 +1,26 @@
+{
+  "id": 193,
+  "title_jp": "刀剣乱舞 ONLINE",
+  "title_en": "Touken Ranbu Online",
+  "developer": "DMM / Nitroplus",
+  "publisher": "DMM",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "ブラウザ"
+  ],
+  "genre": "刀剣擬人化育成",
+  "sales_jp": "登録2,500万人+(累計)",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "刀剣擬人化×女性向け、聖地巡礼ブーム",
+  "slug": "touken-ranbu-online",
+  "file": "data/games/193-touken-ranbu-online.json",
+  "concept": "日本刀を「刀剣男士」として擬人化し、本丸で育成・出陣させる女性向けブラウザ／モバイルゲーム。舞台・アニメ・実写映画へ展開し、刀剣展や博物館に来場者を呼び込む「刀剣ブーム」を生んだ。",
+  "target": "10-30代女性中心、歴史・刀剣ファン、舞台/2.5次元コンテンツ愛好層。キャラ収集と二次創作活動が主動機。"
+}

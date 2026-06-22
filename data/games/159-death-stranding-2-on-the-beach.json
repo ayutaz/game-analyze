@@ -1,0 +1,24 @@
+{
+  "id": 159,
+  "title_jp": "デス・ストランディング 2: オン・ザ・ビーチ",
+  "title_en": "Death Stranding 2: On the Beach",
+  "developer": "Kojima Productions",
+  "publisher": "SIE",
+  "year": 2025,
+  "platform": [
+    "PS5"
+  ],
+  "genre": "アクション/ストランド",
+  "sales_jp": "190,719(初週)",
+  "sales_world": "2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "小島秀夫の続編、メキシコ・豪州を舞台に大型化",
+  "slug": "death-stranding-2-on-the-beach",
+  "file": "data/games/159-death-stranding-2-on-the-beach.json",
+  "concept": "前作の「歩いて荷物を運ぶ」コア体験に戦闘と乗り物を厚く積み、映画的カットシーン比重を増やして物語消費型に寄せた続編。非同期マルチは継承しつつ、主軸は小島演出のドラマ追体験。",
+  "target": "前作プレイヤー、小島秀夫の作家性を追う30-40代、PS5独占の映画的体験を求めるシネフィル系コア層。"
+}

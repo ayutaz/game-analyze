@@ -1,0 +1,22 @@
+{
+  "id": 111,
+  "title_jp": "メトロイド ドレッド",
+  "title_en": "Metroid Dread",
+  "developer": "MercurySteam / 任天堂",
+  "publisher": "任天堂",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "メトロイドヴァニア",
+  "sales_jp": "0.3M",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "19年ぶり2D本編、シリーズ最大ヒット",
+  "slug": "metroid-dread",
+  "file": "data/games/111-metroid-dread.json",
+  "concept": "2Dメトロイドの19年ぶり完全新作。EMMIに追跡される緊張感とパリィ・スライディング等のアクション拡張で、探索と即死級スリルを両立させたジャンル定義作。",
+  "target": "20-40代のコアゲーマー、特に旧来メトロイド/メトロイドヴァニアファン。高難度2Dアクションと迷宮探索を好む層。"
+}

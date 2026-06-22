@@ -1,0 +1,26 @@
+{
+  "id": 104,
+  "title_jp": "ペルソナ5 スクランブル ザ ファントム ストライカーズ",
+  "title_en": "Persona 5 Strikers",
+  "developer": "アトラス / コーエーテクモ（オメガフォース）",
+  "publisher": "アトラス",
+  "year": 2020,
+  "platform": [
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "アクションRPG/無双",
+  "sales_jp": "240K",
+  "sales_world": "2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "P5本編の正統続編として怪盗団の後日譚を提供",
+  "slug": "persona-5-strikers",
+  "file": "data/games/104-persona-5-strikers.json",
+  "concept": "『ペルソナ5』本編の半年後を描く正統ストーリー続編を、無双系アクションに載せ替えた外伝。物語消費を主動機としつつ、戦闘テンポをコマンドから一新した。",
+  "target": "P5本編クリア済みのファン、怪盗団キャラの後日譚を求める20-30代。無双系アクションに抵抗のないJRPGファン層。"
+}

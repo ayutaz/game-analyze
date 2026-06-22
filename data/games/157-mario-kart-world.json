@@ -1,0 +1,22 @@
+{
+  "id": 157,
+  "title_jp": "マリオカート ワールド",
+  "title_en": "Mario Kart World",
+  "developer": "任天堂EPD",
+  "publisher": "任天堂",
+  "year": 2025,
+  "platform": [
+    "Switch 2"
+  ],
+  "genre": "レースアクション",
+  "sales_jp": "2.79M",
+  "sales_world": "14.7M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Switch 2同梱の事実上のローンチ作",
+  "slug": "mario-kart-world",
+  "file": "data/games/157-mario-kart-world.json",
+  "concept": "シリーズ初のオープンワールド構造を導入し、コース間を連続走行する24人グランプリ「ナックアウトツアー」を実装したマリオカート。Switch 2の本体性能を見せる旗艦タイトルとして同梱販売され、新規層にハード普及と同時に届けた。",
+  "target": "全世代のパーティ層と、Switch 2を購入したシリーズファン。家族・友人での持ち寄り対戦に加え、24人マッチでオンライン対戦に踏み出す層も取り込む。"
+}

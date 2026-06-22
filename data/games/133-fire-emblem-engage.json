@@ -1,0 +1,24 @@
+{
+  "id": 133,
+  "title_jp": "ファイアーエムブレム エンゲージ",
+  "title_en": "Fire Emblem Engage",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "year": 2023,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "43万(初週)",
+  "sales_world": "160万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ歴代キャラ召喚「エンゲージ」、風花雪月後の本流復帰",
+  "slug": "fire-emblem-engage",
+  "file": "data/games/133-fire-emblem-engage.json",
+  "concept": "『風花雪月』の学園シミュ路線から原点回帰し、歴代主人公を「紋章士」として召喚・合体させるSRPG。物語より戦術と「お祭り感」を前面に出した実験的ナンバリング。",
+  "target": "30-40代のFEシリーズ古参 + 風花雪月で入った若年層、SRPGを腰を据えて遊びたいコア層。"
+}

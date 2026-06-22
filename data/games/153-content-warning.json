@@ -1,0 +1,22 @@
+{
+  "id": 153,
+  "title_jp": "Content Warning",
+  "title_en": "Content Warning",
+  "developer": "Landfall",
+  "publisher": "Landfall",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "協力ホラー",
+  "sales_jp": "未公開",
+  "sales_world": "2.2M本/8.8M所有(2024)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "配信者向け設計、実況動画でバズ拡散",
+  "slug": "content-warning",
+  "file": "data/games/153-content-warning.json",
+  "concept": "最大4人で地下世界の怪物を撮影し動画投稿サイトでバズらせる協力ホラー。ボイチャ必須・撮影映像を見返して笑う構造で、プレイ自体が配信コンテンツとして成立する設計。",
+  "target": "PCゲーマー、ホラー配信視聴層、Lethal Company系の協力ホラーを楽しむ20-30代フレンドグループ。"
+}

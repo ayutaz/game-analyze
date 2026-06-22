@@ -1,0 +1,22 @@
+{
+  "id": 128,
+  "title_jp": "ピクミン4",
+  "title_en": "Pikmin 4",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2023,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "ストラテジー/アクション",
+  "sales_jp": "2.5M+",
+  "sales_world": "4M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "10年ぶりナンバリング、シリーズ最高売上",
+  "slug": "pikmin-4",
+  "file": "data/games/128-pikmin-4.json",
+  "concept": "小さなピクミンを率いて惑星を探索・回収するリアルタイムストラテジー。本作は犬型相棒オッチンと夜の防衛戦を追加し、シリーズ最も間口を広げた入門設計に転換した。",
+  "target": "全年齢、特に過去作経験のない新規層と、可愛さと戦略性を両立した手触りを求める20-40代。"
+}

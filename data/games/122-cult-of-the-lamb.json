@@ -1,0 +1,29 @@
+{
+  "id": 122,
+  "title_jp": "Cult of the Lamb",
+  "title_en": "Cult of the Lamb",
+  "developer": "Massive Monster",
+  "publisher": "Devolver Digital",
+  "year": 2022,
+  "platform": [
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "ローグライク/シミュレーション",
+  "sales_jp": "未公開",
+  "sales_world": "7M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "可愛い動物×邪教団のギャップ、配信映え",
+  "slug": "cult-of-the-lamb",
+  "file": "data/games/122-cult-of-the-lamb.json",
+  "concept": "ローグライト・アクションと教団運営シムを融合したハイブリッド。可愛らしいアートで邪教・生贄・洗脳を描くダーク・ファブル路線で、Devolver最大ヒットIPに成長。",
+  "target": "インディー／配信文化に親しむ20-30代。Stardew系の運営と Hades系の周回戦闘を一本で味わいたい層、ダーク可愛い世界観を好む層。"
+}

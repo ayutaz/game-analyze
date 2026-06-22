@@ -1,0 +1,26 @@
+{
+  "id": 195,
+  "title_jp": "荒野行動",
+  "title_en": "Knives Out",
+  "developer": "NetEase",
+  "publisher": "NetEase",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "バトロワFPS",
+  "sales_jp": "DL 4000万+(JP)",
+  "sales_world": "DL 3億+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PUBG日本展開前の空白を突いたモバイルBR先行、若年層・配信文化で定着",
+  "slug": "knives-out",
+  "file": "data/games/195-knives-out.json",
+  "concept": "PUBG型100人バトロワをスマホ向けに移植し、日本では本家先行で市場を獲得。アニメ・VTuber等とのコラボを多用し、IP横断のキャラ収集要素で長期運用するモバイルBR。",
+  "target": "10-20代のスマホFPS層、特に学生・若年男女。ボイチャ・通話アプリ併用の友人内マルチが中心で、配信視聴層とも重なる。"
+}

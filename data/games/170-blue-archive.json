@@ -1,0 +1,26 @@
+{
+  "id": 170,
+  "title_jp": "ブルーアーカイブ",
+  "title_en": "Blue Archive",
+  "developer": "Nexon Games (MX Studio)",
+  "publisher": "Yostar",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "学園RPG/キャラクター収集",
+  "sales_jp": "¥30B+(累計推定)",
+  "sales_world": "$600M+(累計推定)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "学園×銃のキャラ性とミーム化、日本市場が世界最大級",
+  "slug": "blue-archive",
+  "file": "data/games/170-blue-archive.json",
+  "concept": "韓国Nexon制作・Yostar運営の学園×銃モチーフ二次元ガチャRPG。キャラクター愛着とライトな戦闘＋濃密な学園シナリオで、日本が売上の過半を占める「逆輸入ヒット」型。",
+  "target": "20-30代男性中心、二次元ガチャ・アズールレーン経由のYostarファン、キャラクター消費・二次創作を楽しむ層。"
+}

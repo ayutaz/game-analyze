@@ -1,0 +1,26 @@
+{
+  "id": 121,
+  "title_jp": "PowerWash Simulator",
+  "title_en": "PowerWash Simulator",
+  "developer": "FuturLab",
+  "publisher": "Square Enix Collective",
+  "year": 2022,
+  "platform": [
+    "PS5",
+    "PS4",
+    "Switch",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "シミュレーション",
+  "sales_jp": "未公開",
+  "sales_world": "7M+(2024)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "配信映え・ASMR系で実況人気、寝落ちゲーとして話題",
+  "slug": "powerwash-simulator",
+  "file": "data/games/121-powerwash-simulator.json",
+  "concept": "高圧洗浄機で汚れを落とすことだけに特化した一点突破の作業シミュレーター。ASMR的な没入感と達成感、ソロでも協力でも遊べる緩い設計が特徴。",
+  "target": "作業系・無心系ゲーム好きの全年齢層。配信視聴者、忙しい大人のリラックス用途、Co-opで雑談しながら遊ぶフレンドプレイヤー層。"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 114,
+  "title_jp": "ゼノブレイド3",
+  "title_en": "Xenoblade Chronicles 3",
+  "developer": "Monolith Soft",
+  "publisher": "Nintendo",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "RPG",
+  "sales_jp": "0.4M+",
+  "sales_world": "1.85M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "JRPG好評、シリーズ集大成として高評価。",
+  "slug": "xenoblade-chronicles-3",
+  "file": "data/games/114-xenoblade-chronicles-3.json",
+  "concept": "前作までの2世界が交差する完結編。10名のパーティと「インタリンク（ユニオン合体）」、リアルタイム+ロールのアクションRPG戦闘で、寿命10年の若者たちの生死をテーマにした重厚なJRPG。",
+  "target": "JRPG・モノリスソフト作品ファン、20-40代男性中心。長編シナリオと骨太な戦闘システムを腰を据えて遊びたい層。"
+}

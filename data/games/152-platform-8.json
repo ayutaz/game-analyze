@@ -1,0 +1,24 @@
+{
+  "id": 152,
+  "title_jp": "8番のりば",
+  "title_en": "Platform 8",
+  "developer": "KOTAKE CREATE",
+  "publisher": "KOTAKE CREATE",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5"
+  ],
+  "genre": "ウォーキングシム/異変探し",
+  "sales_jp": "未公開",
+  "sales_world": "未公開",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "前作『8番出口』のヒットを受けた続編、配信者プレイで拡散",
+  "slug": "platform-8",
+  "file": "data/games/152-platform-8.json",
+  "concept": "『8番出口』の続編。地下鉄ホームを舞台にした異変探しウォーキングシム。電車内・ホーム・トンネルへと舞台を拡張し、ループ構造と異変発見のゲーム性を継承。",
+  "target": "前作『8番出口』のプレイヤー、配信視聴者層、短時間で完結する異変探しを好む層。"
+}

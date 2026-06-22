@@ -1,0 +1,26 @@
+{
+  "id": 161,
+  "title_jp": "メタルギア ソリッド Δ: スネークイーター",
+  "title_en": "Metal Gear Solid Delta: Snake Eater",
+  "developer": "Konami / Virtuos",
+  "publisher": "Konami",
+  "year": 2025,
+  "platform": [
+    "PS5",
+    "XSX",
+    "PC"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "未公開",
+  "sales_world": "300万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "小島作品の名作再演、原音声・原演出を保持したリメイクで旧来ファンが復帰",
+  "slug": "metal-gear-solid-delta-snake-eater",
+  "file": "data/games/161-metal-gear-solid-delta-snake-eater.json",
+  "concept": "2004年『MGS3』を原作の脚本・声優・演出を保持したまま現代グラフィックで再構築したリメイク。ジャングル・サバイバル＋冷戦スパイ劇という原典の物語を、肩越し操作と最新描画で追体験させる「保存型リメイク」。",
+  "target": "30-50代の旧シリーズ経験層が中心、小島監督期のMGSに思い入れのあるコア層 + 新規ステルス／映画的物語愛好層。"
+}

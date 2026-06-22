@@ -1,0 +1,25 @@
+{
+  "id": 131,
+  "title_jp": "Baldur's Gate 3",
+  "title_en": "Baldur's Gate 3",
+  "developer": "Larian Studios",
+  "publisher": "Larian Studios",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "CRPG",
+  "sales_jp": "未公開",
+  "sales_world": "15M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "GOTY多冠、洋RPG史上稀の高評価で話題化。",
+  "slug": "baldurs-gate-3",
+  "file": "data/games/131-baldurs-gate-3.json",
+  "concept": "D&D5版ルールを忠実に再現したターン制CRPG。膨大な分岐選択肢とフルボイス演出、緻密なリアクション体系でAAA級CRPG市場を再活性化した記念碑的作品。",
+  "target": "洋RPG・TRPG愛好層、ウィッチャー／ディヴィニティ経験者、重厚な選択分岐と会話劇を求める20-40代コア層。"
+}

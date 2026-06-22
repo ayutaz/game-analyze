@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated": "2026-06-22",
-    "total_titles": 99,
+    "total_titles": 200,
     "categories": {
       "EXP": "体験型 — gameplay-driven, especially with social interaction",
       "NAR": "物語型 — narrative-driven",
@@ -26,9 +26,9 @@
       "https://kamigame.jp/gaming/35459.html"
     ],
     "primary_breakdown": {
-      "EXP": 55,
-      "REW": 21,
-      "NAR": 23
+      "EXP": 105,
+      "REW": 47,
+      "NAR": 48
     }
   },
   "games": [
@@ -1136,6 +1136,29 @@
       "target": "10-30代、東方・VOCALOID・アニソンファン、リズムゲーム愛好層。"
     },
     {
+      "id": 56,
+      "title_jp": "桃太郎電鉄 〜昭和 平成 令和も定番！〜",
+      "title_en": "Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban!",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "year": 2020,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "ボードゲーム/パーティ",
+      "sales_jp": "4M+",
+      "sales_world": "4M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "コロナ禍の巣ごもり需要、家族で遊ぶ定番に。",
+      "slug": "momotaro-dentetsu-showa-heisei-reiwa",
+      "concept": "日本全国の駅で物件を買い集めて資産日本一を競う鉄道すごろく。昭和・平成・令和の地理ネタを織り込んだ国産パーティの定番。",
+      "target": "小学生〜大人まで家族・友人で囲む層、シリーズの旧作経験者が世代を跨いで再合流。"
+    },
+    {
       "id": 57,
       "title_jp": "ストリートファイター6",
       "title_en": "Street Fighter 6",
@@ -1971,6 +1994,2459 @@
       "slug": "pro-yakyu-spirits-a",
       "concept": "モバイル版プロ野球の代表、ガチャで選手を獲得し自軍を編成・育成する野球収集ゲーム。",
       "target": "20-40代男性、プロ野球ファン、特に「自分の理想チーム」を作りたい層。"
+    },
+    {
+      "id": 101,
+      "title_jp": "桃太郎電鉄ワールド 〜地球は希望でまわってる！〜",
+      "title_en": "Momotaro Dentetsu World",
+      "developer": "Konami",
+      "publisher": "Konami",
+      "year": 2023,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "ボードゲーム/パーティ",
+      "sales_jp": "2.5M+",
+      "sales_world": "2.5M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "国民的すごろくの世界版、年末年始の家族需要",
+      "slug": "momotaro-dentetsu-world",
+      "concept": "日本縛りだった「桃鉄」の舞台を全世界へ拡張したすごろく型ボードゲーム。物件購入と資産競争に貧乏神の足引っ張り合いを混ぜ、長時間の卓上戦争を笑いに変える定番フォーマット。",
+      "target": "家族・友人で集まって遊ぶ全世代層、特に年末年始のリビング需要。前作『令和』からの継続層と、地理学習教材として親が買い与える小中学生層。"
+    },
+    {
+      "id": 102,
+      "title_jp": "ファイナルファンタジーVII リメイク",
+      "title_en": "Final Fantasy VII Remake",
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "year": 2020,
+      "platform": [
+        "PS4",
+        "PS5",
+        "PC"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "0.7M(初週0.34M)",
+      "sales_world": "7M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "原作FF7の世界的IP力と分作リメイクの話題性",
+      "slug": "final-fantasy-vii-remake",
+      "concept": "原作1作目「ミッドガル脱出編」を1本のフルプライス作品として再構築。リアルタイム+ATBのハイブリッド戦闘とフォトリアル描写で、JRPG名作を現代化。",
+      "target": "原作FF7プレイ経験のある30〜40代と、現代的アクションRPGを求める新規層。物語重視のJRPGファン。"
+    },
+    {
+      "id": 103,
+      "title_jp": "天穂のサクナヒメ",
+      "title_en": "Sakuna: Of Rice and Ruin",
+      "developer": "えーでるわいす",
+      "publisher": "マーベラス",
+      "year": 2020,
+      "platform": [
+        "PS4",
+        "Switch",
+        "PC"
+      ],
+      "genre": "アクションRPG/稲作シミュレーション",
+      "sales_jp": "50万本+",
+      "sales_world": "100万本+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "緻密な稲作描写が話題、農水省サイト参照ブーム",
+      "slug": "sakuna-of-rice-and-ruin",
+      "concept": "和風横スクACTと本格稲作シムを融合したハイブリッド作。米作りで主人公が強くなる独自ループと、農水省サイトを参照する考証の深さで二人同人サークル発の異例ヒットとなった。",
+      "target": "和風世界観や育成系シムを好む20-40代のコア層。横ACTとじっくり農作業の双方を楽しめるソロ志向プレイヤー。"
+    },
+    {
+      "id": 104,
+      "title_jp": "ペルソナ5 スクランブル ザ ファントム ストライカーズ",
+      "title_en": "Persona 5 Strikers",
+      "developer": "アトラス / コーエーテクモ（オメガフォース）",
+      "publisher": "アトラス",
+      "year": 2020,
+      "platform": [
+        "PS4",
+        "Switch",
+        "PC"
+      ],
+      "genre": "アクションRPG/無双",
+      "sales_jp": "240K",
+      "sales_world": "2M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "P5本編の正統続編として怪盗団の後日譚を提供",
+      "slug": "persona-5-strikers",
+      "concept": "『ペルソナ5』本編の半年後を描く正統ストーリー続編を、無双系アクションに載せ替えた外伝。物語消費を主動機としつつ、戦闘テンポをコマンドから一新した。",
+      "target": "P5本編クリア済みのファン、怪盗団キャラの後日譚を求める20-30代。無双系アクションに抵抗のないJRPGファン層。"
+    },
+    {
+      "id": 105,
+      "title_jp": "Demon's Souls",
+      "title_en": "Demon's Souls (Remake)",
+      "developer": "Bluepoint Games",
+      "publisher": "SIE",
+      "year": 2020,
+      "platform": [
+        "PS5"
+      ],
+      "genre": "アクションRPG/ソウルライク",
+      "sales_jp": "未公開",
+      "sales_world": "140万+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "PS5ローンチタイトル、ソウル原点のフル4Kリメイク。",
+      "slug": "demons-souls-remake",
+      "concept": "フロム2009年作のソウル原点を、Bluepointが4K/60fpsでフルリメイク。次世代機の高速ロードと質感表現で「死に覚え」体験を再提示したPS5ローンチの看板作。",
+      "target": "PS5アーリーアダプターのコアゲーマー、ソウル経験者および当時PS3を逃した30-40代層。グラフィックと触感の刷新を求める層。"
+    },
+    {
+      "id": 106,
+      "title_jp": "Hades",
+      "title_en": "Hades",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "year": 2021,
+      "platform": [
+        "Switch",
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox"
+      ],
+      "genre": "ローグライクアクション",
+      "sales_jp": "未公開",
+      "sales_world": "5M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "高評価インディー、Switch版で国内認知拡大",
+      "slug": "hades",
+      "concept": "ギリシャ神話を題材にしたローグライクアクション。死ぬたびに物語が進行する独自構造で、ローグライクと物語進行を融合させた設計が高評価。",
+      "target": "ローグライク好きの中核ゲーマー、アクションと物語の両方を求める20-40代。インディー高評価作を追うコア層。"
+    },
+    {
+      "id": 107,
+      "title_jp": "新ポケモンスナップ",
+      "title_en": "New Pokemon Snap",
+      "developer": "Bandai Namco Studios",
+      "publisher": "The Pokemon Company / Nintendo",
+      "year": 2021,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "撮影アドベンチャー",
+      "sales_jp": "未公開",
+      "sales_world": "2.5M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "N64名作の24年ぶり復活、SNS映え写真共有",
+      "slug": "new-pokemon-snap",
+      "concept": "N64『ポケモンスナップ』(1999)の正統続編。オンレール式のサファリで野生ポケモンを撮影し、構図・行動・希少度でスコアを競う観察ゲーム。戦闘も収集もない異色のポケモン外伝。",
+      "target": "原作N64版を遊んだ30-40代の懐古層と、戦闘抜きでポケモンの生態を眺めたい子供・ライト層・カメラ趣味層。"
+    },
+    {
+      "id": 108,
+      "title_jp": "ニーア レプリカント ver.1.22474487139...",
+      "title_en": "NieR Replicant ver.1.22474487139...",
+      "developer": "Toylogic",
+      "publisher": "スクエニ",
+      "year": 2021,
+      "platform": [
+        "PS4",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "100万+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "オートマタ人気を背景に原点が再評価。",
+      "slug": "nier-replicant-ver-1-22",
+      "concept": "2010年『NieR Replicant』のフルリメイク版、戦闘システムと演出を現代水準に刷新しつつ複数エンディングで「物語の本質」を見せるヨコオタロウ作品の原点。",
+      "target": "20-40代、オートマタから入ったヨコオ作品ファン、原作未プレイの新規層と原作プレイ済の再体験層。"
+    },
+    {
+      "id": 109,
+      "title_jp": "モンスターハンターストーリーズ2 〜破滅の翼〜",
+      "title_en": "Monster Hunter Stories 2: Wings of Ruin",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "year": 2021,
+      "platform": [
+        "Switch",
+        "PC"
+      ],
+      "genre": "モンスター育成RPG",
+      "sales_jp": "未公開",
+      "sales_world": "2.0M+",
+      "primary": "NAR",
+      "secondary": [
+        "REW",
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "モンハンIPのRPG派生、子供・初心者層へ訴求",
+      "slug": "monster-hunter-stories-2-wings-of-ruin",
+      "concept": "モンハン世界観をターン制コマンドRPGに翻案。ライダーとして卵を孵化させオトモンを育成、絆遺伝子で個性を継承。本編アクションが苦手な層に物語と収集で訴求する派生軸。",
+      "target": "モンハン本編のアクションが苦手な層、ポケモン的な収集育成RPGを好む小中学生〜ライト層、IPファン。"
+    },
+    {
+      "id": 110,
+      "title_jp": "テイルズ オブ アライズ",
+      "title_en": "Tales of Arise",
+      "developer": "Bandai Namco Studios",
+      "publisher": "Bandai Namco",
+      "year": 2021,
+      "platform": [
+        "PS4",
+        "PS5",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "3M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "シリーズ最高売上、海外評価で再注目",
+      "slug": "tales-of-arise",
+      "concept": "シリーズ最新作として欧米市場も意識したフォトリアル寄りビジュアルへ刷新。仲間との絆を描く王道JRPG構造を維持しつつ、リニアアクション戦闘とオープンフィールド探索を強化した。",
+      "target": "テイルズシリーズの既存ファン層（20-40代）と、王道JRPGの物語と仲間描写を求めるアクションRPGプレイヤー。"
+    },
+    {
+      "id": 111,
+      "title_jp": "メトロイド ドレッド",
+      "title_en": "Metroid Dread",
+      "developer": "MercurySteam / 任天堂",
+      "publisher": "任天堂",
+      "year": 2021,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "メトロイドヴァニア",
+      "sales_jp": "0.3M",
+      "sales_world": "3M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "19年ぶり2D本編、シリーズ最大ヒット",
+      "slug": "metroid-dread",
+      "concept": "2Dメトロイドの19年ぶり完全新作。EMMIに追跡される緊張感とパリィ・スライディング等のアクション拡張で、探索と即死級スリルを両立させたジャンル定義作。",
+      "target": "20-40代のコアゲーマー、特に旧来メトロイド/メトロイドヴァニアファン。高難度2Dアクションと迷宮探索を好む層。"
+    },
+    {
+      "id": 112,
+      "title_jp": "ポケットモンスター ブリリアントダイヤモンド・シャイニングパール",
+      "title_en": "Pokemon Brilliant Diamond / Shining Pearl",
+      "developer": "ILCA",
+      "publisher": "The Pokemon Company / Nintendo",
+      "year": 2021,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "RPG",
+      "sales_jp": "2.7M+",
+      "sales_world": "15M+",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "DS版DPの忠実リメイク、原作世代の懐古需要",
+      "slug": "pokemon-brilliant-diamond-shining-pearl",
+      "concept": "2006年DS版『ダイヤモンド・パール』のフルリメイク。等身を抑えたミニチュア風3Dで原作マップとシナリオを再現し、収集と対戦の体験を現行機に移植する保守的リメイク路線。",
+      "target": "DS版を遊んだ20-30代の原作世代と、その子ども世代。シリーズ未経験者よりも「もう一度シンオウを旅したい」既存ファン向け。"
+    },
+    {
+      "id": 113,
+      "title_jp": "PICO PARK",
+      "title_en": "PICO PARK",
+      "developer": "TECOPARK",
+      "publisher": "TECOPARK",
+      "year": 2021,
+      "platform": [
+        "Switch",
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "genre": "協力パズル",
+      "sales_jp": "数%(全体1M中)",
+      "sales_world": "5M+(シリーズ累計)",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "海外配信者バズ、わちゃわちゃ協力で逆輸入ヒット",
+      "slug": "pico-park",
+      "concept": "最大8人で1画面協力する超シンプルなアクションパズル。個人開発の小品が、配信映え・声出しコミュニケーション需要に乗り全世界100万本超のインディー成功例となった。",
+      "target": "友人・配信者・ファミリーで集まって遊ぶライト層。Discord通話やパーティーゲーム需要のある10〜30代が中心。"
+    },
+    {
+      "id": 114,
+      "title_jp": "ゼノブレイド3",
+      "title_en": "Xenoblade Chronicles 3",
+      "developer": "Monolith Soft",
+      "publisher": "Nintendo",
+      "year": 2022,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "RPG",
+      "sales_jp": "0.4M+",
+      "sales_world": "1.85M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "JRPG好評、シリーズ集大成として高評価。",
+      "slug": "xenoblade-chronicles-3",
+      "concept": "前作までの2世界が交差する完結編。10名のパーティと「インタリンク（ユニオン合体）」、リアルタイム+ロールのアクションRPG戦闘で、寿命10年の若者たちの生死をテーマにした重厚なJRPG。",
+      "target": "JRPG・モノリスソフト作品ファン、20-40代男性中心。長編シナリオと骨太な戦闘システムを腰を据えて遊びたい層。"
+    },
+    {
+      "id": 115,
+      "title_jp": "星のカービィ ディスカバリー",
+      "title_en": "Kirby and the Forgotten Land",
+      "developer": "HAL研究所",
+      "publisher": "任天堂",
+      "year": 2022,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "3Dアクション",
+      "sales_jp": "2.5M+",
+      "sales_world": "7.95M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "シリーズ初の3D化と二人協力",
+      "slug": "kirby-and-the-forgotten-land",
+      "concept": "シリーズ初の本格3Dアクション化に踏み切り、コピー能力に「ほおばりヘンケイ」を加えて世界そのものを呑み込む発明で再構築。難度を抑えつつ2人協力に対応し、家族・低年齢層を取り込んだ間口の広いアクション。",
+      "target": "小学生から親世代までの家族層、シリーズの旧来ファン、易しめの3Dアクションを協力で遊びたいライト層。"
+    },
+    {
+      "id": 116,
+      "title_jp": "ライブアライブ HD-2D版",
+      "title_en": "Live A Live HD-2D Remaster",
+      "developer": "Square Enix",
+      "publisher": "Square Enix",
+      "year": 2022,
+      "platform": [
+        "Switch",
+        "PS5",
+        "PS4",
+        "PC"
+      ],
+      "genre": "RPG",
+      "sales_jp": "未公開",
+      "sales_world": "50万+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "1994年SFC版カルト名作のHD-2Dリメイク、再評価機運。",
+      "slug": "live-a-live-hd-2d-remaster",
+      "concept": "原始・幕末・西部・современ・近未来・SFなど7つの時代を別主人公・別ジャンルで描き、最終章で収束する短編オムニバスJRPG。HD-2D表現で原作のシナリオ構造を現代に再提示。",
+      "target": "SFC原作世代の30-40代、HD-2D（オクトパス等）ファン、群像短編・実験的JRPGを好む層。"
+    },
+    {
+      "id": 117,
+      "title_jp": "Stray",
+      "title_en": "Stray",
+      "developer": "BlueTwelve Studio",
+      "publisher": "Annapurna Interactive",
+      "year": 2022,
+      "platform": [
+        "PS5",
+        "PS4",
+        "PC",
+        "Switch"
+      ],
+      "genre": "アドベンチャー",
+      "sales_jp": "未公開",
+      "sales_world": "7M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "猫主人公の珍しさとSNS映え、配信向きの短尺で話題化",
+      "slug": "stray",
+      "concept": "プレイヤーが野良猫となりサイバーパンクな廃墟都市を探索する三人称視点アドベンチャー。猫の挙動を忠実に再現した操作感と、ディストピアな世界観のビジュアル表現で差別化。",
+      "target": "猫好き層、インディー・アートゲーム志向のプレイヤー、配信視聴者。短時間でクリアできる物語体験を求めるカジュアル層。"
+    },
+    {
+      "id": 118,
+      "title_jp": "グランブルーファンタジー：リリンク",
+      "title_en": "Granblue Fantasy: Relink",
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "PS4",
+        "PC"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "2M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "popularity": "モバイル原作10年越しの家庭用本格ARPG化",
+      "slug": "granblue-fantasy-relink",
+      "concept": "モバイルRPG「グランブルーファンタジー」のキャラ・世界観を家庭用ハイエンドARPGに移植。4人協力のクエスト周回と装備掘りを核に、PSO的な「狩り×報酬ループ」をCygames IPで再構築した一作。",
+      "target": "原作グラブルのプレイヤー層（30代前後男性中心）と、PSO2／モンハン系の協力周回ARPGファン。キャラ愛とハクスラ報酬ループの両方を求める層。"
+    },
+    {
+      "id": 119,
+      "title_jp": "GOD OF WAR Ragnarök",
+      "title_en": "God of War Ragnarok",
+      "developer": "Santa Monica Studio",
+      "publisher": "SIE",
+      "year": 2022,
+      "platform": [
+        "PS5",
+        "PS4"
+      ],
+      "genre": "アクションアドベンチャー",
+      "sales_jp": "35万+",
+      "sales_world": "1500万+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "北欧神話×父子の物語、PS5世代の代表作として評価",
+      "slug": "god-of-war-ragnarok",
+      "concept": "北欧神話のラグナロクを背景に、クレイトスとアトレウスの父子関係を映画的に描いた一本道アクションアドベンチャー。重厚な物語演出と斧・槍・剣の手触りで「映画とアクションの融合」を体現する。",
+      "target": "30-40代の海外AAA・シネマティック大作好き、前作(2018)からの継続ファン、PS独占大作を追うコア層。"
+    },
+    {
+      "id": 120,
+      "title_jp": "Ghostwire: Tokyo",
+      "title_en": "Ghostwire: Tokyo",
+      "developer": "Tango Gameworks",
+      "publisher": "Bethesda",
+      "year": 2022,
+      "platform": [
+        "PS5",
+        "PC"
+      ],
+      "genre": "アクションアドベンチャー",
+      "sales_jp": "10,144本(初週PS5)",
+      "sales_world": "600万人プレイ(2023)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "無人の渋谷を印で祓うビジュアルが話題、三上真司の新規IP",
+      "slug": "ghostwire-tokyo",
+      "concept": "無人化した現代東京・渋谷を舞台に、印を結んで怪異を祓う一人称アクションアドベンチャー。和製ホラー＋オープンワールド探索という三上真司流の新規IPで、心霊スポット観光的な散策体験を主軸に置く。",
+      "target": "日本の都市風景や和製ホラーに惹かれる海外勢と、三上真司・Tango Gameworks 作品のファン。ストーリードリブンな一人称ソロ探索を好む 20-40 代向け。"
+    },
+    {
+      "id": 121,
+      "title_jp": "PowerWash Simulator",
+      "title_en": "PowerWash Simulator",
+      "developer": "FuturLab",
+      "publisher": "Square Enix Collective",
+      "year": 2022,
+      "platform": [
+        "PS5",
+        "PS4",
+        "Switch",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "シミュレーション",
+      "sales_jp": "未公開",
+      "sales_world": "7M+(2024)",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "配信映え・ASMR系で実況人気、寝落ちゲーとして話題",
+      "slug": "powerwash-simulator",
+      "concept": "高圧洗浄機で汚れを落とすことだけに特化した一点突破の作業シミュレーター。ASMR的な没入感と達成感、ソロでも協力でも遊べる緩い設計が特徴。",
+      "target": "作業系・無心系ゲーム好きの全年齢層。配信視聴者、忙しい大人のリラックス用途、Co-opで雑談しながら遊ぶフレンドプレイヤー層。"
+    },
+    {
+      "id": 122,
+      "title_jp": "Cult of the Lamb",
+      "title_en": "Cult of the Lamb",
+      "developer": "Massive Monster",
+      "publisher": "Devolver Digital",
+      "year": 2022,
+      "platform": [
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "ローグライク/シミュレーション",
+      "sales_jp": "未公開",
+      "sales_world": "7M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW",
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "可愛い動物×邪教団のギャップ、配信映え",
+      "slug": "cult-of-the-lamb",
+      "concept": "ローグライト・アクションと教団運営シムを融合したハイブリッド。可愛らしいアートで邪教・生贄・洗脳を描くダーク・ファブル路線で、Devolver最大ヒットIPに成長。",
+      "target": "インディー／配信文化に親しむ20-30代。Stardew系の運営と Hades系の周回戦闘を一本で味わいたい層、ダーク可愛い世界観を好む層。"
+    },
+    {
+      "id": 123,
+      "title_jp": "NEEDY GIRL OVERDOSE",
+      "title_en": "NEEDY STREAMER OVERLOAD",
+      "developer": "WSS playground",
+      "publisher": "WSS playground",
+      "year": 2022,
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ADV/メンヘラシミュレーター",
+      "sales_jp": "未公開",
+      "sales_world": "1M+(全世界DL)",
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "popularity": "配信者・SNS文化と地下系ビジュアルが刺さり拡散",
+      "slug": "needy-streamer-overload",
+      "concept": "配信者「あめちゃん」をプロデュースし、メンタルを管理しながらフォロワー100万人を目指すADV。SNS依存・承認欲求・病み文化を題材にした分岐型ノベルで、マルチエンディングと過激な演出で話題化した。",
+      "target": "SNS・配信文化に親和性の高い10〜20代、地下系／メンヘラ表現を好む層、Vtuber・実況視聴者に重なる若年層。"
+    },
+    {
+      "id": 124,
+      "title_jp": "OMORI",
+      "title_en": "OMORI",
+      "developer": "OMOCAT",
+      "publisher": "PLAYISM",
+      "year": 2022,
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "genre": "サイコホラーRPG",
+      "sales_jp": "未公開",
+      "sales_world": "1M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "考察・トラウマ系SNSバズとファンアート文化",
+      "slug": "omori",
+      "concept": "RPGツクール製のサイコホラーRPG。可愛いドット絵世界と現実パートが交錯し、徐々に主人公の抑圧された記憶が露呈する構造で、SNS時代の口コミ拡散と二次創作を誘発した。",
+      "target": "Undertale / Mother系を好む10〜20代のインディーRPGファン。考察・二次創作好きでホラー耐性のある層。"
+    },
+    {
+      "id": 125,
+      "title_jp": "ファミレスを享受せよ",
+      "title_en": "Enjoy the Diner",
+      "developer": "なんも",
+      "publisher": "Whatasoft",
+      "year": 2023,
+      "platform": [
+        "PC",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "アドベンチャー",
+      "sales_jp": "未公開",
+      "sales_world": "100万本+(PC/Switch累計)",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "フリゲ発の口コミ拡散、Steam 97%好評の雰囲気ADV",
+      "slug": "enjoy-the-diner",
+      "concept": "永遠のファミレス「ムーンパレス」に閉じ込められた主人公が客と雑談し脱出を探るコマンド選択型ADV。2022年フリゲ原作を商業リメイクし、深夜のファミレス的気怠さと不条理ホラーを2時間で味わわせる小規模高密度設計。",
+      "target": "深夜の雰囲気ADVや不条理系フリゲ文化に親和性の高い10-30代。短時間で読み切れる物語と独特の空気感を求める層、SNSで考察・感想を共有したいプレイヤー。"
+    },
+    {
+      "id": 126,
+      "title_jp": "ARMORED CORE VI FIRES OF RUBICON",
+      "title_en": "Armored Core VI: Fires of Rubicon",
+      "developer": "FromSoftware",
+      "publisher": "Bandai Namco / FromSoftware",
+      "year": 2023,
+      "platform": [
+        "PS5",
+        "PS4",
+        "XSX",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "メカアクション",
+      "sales_jp": "未公開",
+      "sales_world": "2.8M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "フロム待望の新作AC、配信映え高難度ボス戦",
+      "slug": "armored-core-vi-fires-of-rubicon",
+      "concept": "10年ぶりのACシリーズ新作。フロム流の高難度アクションとメカ組み立てのカスタマイズ性を融合し、ソウル系で得た新規層にもメカアクションを再提示した位置付け。",
+      "target": "旧来のACファンに加え、ソウル系経由でフロム作品に入った20-40代男性中心のコアアクション層。機体カスタマイズと反復攻略を好む層。"
+    },
+    {
+      "id": 127,
+      "title_jp": "ホグワーツ・レガシー",
+      "title_en": "Hogwarts Legacy",
+      "developer": "Avalanche Software",
+      "publisher": "Warner Bros. Games",
+      "year": 2023,
+      "platform": [
+        "PS5",
+        "PS4",
+        "XSX",
+        "Switch",
+        "PC"
+      ],
+      "genre": "オープンワールドアクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "30M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ハリポタ世界を歩ける夢、配信実況で大バズり",
+      "slug": "hogwarts-legacy",
+      "concept": "原作映画/小説の魔法学校世界を1:1で再現したオープンワールドARPG。プレイヤーが自分のキャラクターとして入学し、呪文・魔法生物・ダンジョン探索を体験。IP×AAA級オープンワールドの王道設計。",
+      "target": "原作ハリポタファンの20-40代、洋ゲーオープンワールド愛好層。シングルプレイでじっくり世界観に浸りたい層。"
+    },
+    {
+      "id": 128,
+      "title_jp": "ピクミン4",
+      "title_en": "Pikmin 4",
+      "developer": "任天堂",
+      "publisher": "任天堂",
+      "year": 2023,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "ストラテジー/アクション",
+      "sales_jp": "2.5M+",
+      "sales_world": "4M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "10年ぶりナンバリング、シリーズ最高売上",
+      "slug": "pikmin-4",
+      "concept": "小さなピクミンを率いて惑星を探索・回収するリアルタイムストラテジー。本作は犬型相棒オッチンと夜の防衛戦を追加し、シリーズ最も間口を広げた入門設計に転換した。",
+      "target": "全年齢、特に過去作経験のない新規層と、可愛さと戦略性を両立した手触りを求める20-40代。"
+    },
+    {
+      "id": 129,
+      "title_jp": "スーパーマリオブラザーズ ワンダー",
+      "title_en": "Super Mario Bros. Wonder",
+      "developer": "任天堂",
+      "publisher": "任天堂",
+      "year": 2023,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "2D横スクロールアクション",
+      "sales_jp": "2.5M+",
+      "sales_world": "15M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "11年ぶり完全新作2Dマリオ、ワンダーフラワーの意外性",
+      "slug": "super-mario-bros-wonder",
+      "concept": "「ワンダーフラワー」を取るとステージのルールそのものが豹変する仕掛けを軸に、2Dマリオを驚き主導で再設計。最大4人ローカル協力に加え、オンラインで他プレイヤーの影と緩く同居する非同期要素も導入。",
+      "target": "家族・友人と気軽に遊びたい全年齢層と、New スーパーマリオ系のマンネリに飽きた往年の2Dマリオファン。"
+    },
+    {
+      "id": 130,
+      "title_jp": "Marvel's Spider-Man 2",
+      "title_en": "Marvel's Spider-Man 2",
+      "developer": "Insomniac Games",
+      "publisher": "SIE",
+      "year": 2023,
+      "platform": [
+        "PS5"
+      ],
+      "genre": "オープンワールドアクション",
+      "sales_jp": "24万本+",
+      "sales_world": "11M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "PS5最速ミリオン、ピーター＆マイルズ二人主人公の話題性",
+      "slug": "marvels-spider-man-2",
+      "concept": "マンハッタンを高速スイングで疾走するオープンワールドアクション。ピーターとマイルズの二人主人公切替＋ヴェノム化シンビオート要素で、映画的演出と高密度な戦闘体験を両立。",
+      "target": "PS5を持つアクション・洋ゲー好きの20-40代男性中心。MCU／マーベル映画ファンや前作・マイルズ編プレイヤーが本命層。"
+    },
+    {
+      "id": 131,
+      "title_jp": "Baldur's Gate 3",
+      "title_en": "Baldur's Gate 3",
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "year": 2023,
+      "platform": [
+        "PC",
+        "PS5"
+      ],
+      "genre": "CRPG",
+      "sales_jp": "未公開",
+      "sales_world": "15M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "GOTY多冠、洋RPG史上稀の高評価で話題化。",
+      "slug": "baldurs-gate-3",
+      "concept": "D&D5版ルールを忠実に再現したターン制CRPG。膨大な分岐選択肢とフルボイス演出、緻密なリアクション体系でAAA級CRPG市場を再活性化した記念碑的作品。",
+      "target": "洋RPG・TRPG愛好層、ウィッチャー／ディヴィニティ経験者、重厚な選択分岐と会話劇を求める20-40代コア層。"
+    },
+    {
+      "id": 132,
+      "title_jp": "Hi-Fi RUSH",
+      "title_en": "Hi-Fi Rush",
+      "developer": "Tango Gameworks",
+      "publisher": "Bethesda / Microsoft",
+      "year": 2023,
+      "platform": [
+        "XSX",
+        "PC"
+      ],
+      "genre": "リズムアクション",
+      "sales_jp": "未公開",
+      "sales_world": "未公開（Game Pass配信、後にPS5/Switch2展開）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "突然配信のサプライズと拍同期アクションが絶賛",
+      "slug": "hi-fi-rush",
+      "concept": "タンゴ・ゲームワークスがホラー路線から転換し開発したリズム×3Dアクション。攻撃・回避・移動が全てBGMの拍に同期し、ライセンス洋楽と相まって独自のグルーヴ体験を作る。シャドウドロップ配信＋Game Pass即日対応という公開戦略でも話題化。",
+      "target": "DMC・ベヨネッタ系スタイリッシュアクション愛好層と、洋楽ロック／リズムゲーム好きの20-40代コアゲーマー。"
+    },
+    {
+      "id": 133,
+      "title_jp": "ファイアーエムブレム エンゲージ",
+      "title_en": "Fire Emblem Engage",
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "year": 2023,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "シミュレーションRPG",
+      "sales_jp": "43万(初週)",
+      "sales_world": "160万+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "シリーズ歴代キャラ召喚「エンゲージ」、風花雪月後の本流復帰",
+      "slug": "fire-emblem-engage",
+      "concept": "『風花雪月』の学園シミュ路線から原点回帰し、歴代主人公を「紋章士」として召喚・合体させるSRPG。物語より戦術と「お祭り感」を前面に出した実験的ナンバリング。",
+      "target": "30-40代のFEシリーズ古参 + 風花雪月で入った若年層、SRPGを腰を据えて遊びたいコア層。"
+    },
+    {
+      "id": 134,
+      "title_jp": "Lies of P",
+      "title_en": "Lies of P",
+      "developer": "NEOWIZ / Round8 Studio",
+      "publisher": "NEOWIZ",
+      "year": 2023,
+      "platform": [
+        "PS5",
+        "PS4",
+        "XSX",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "ソウルライクアクション",
+      "sales_jp": "未公開",
+      "sales_world": "7M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "フロム以外で初めて成功した本格派ソウルライクとして話題",
+      "slug": "lies-of-p",
+      "concept": "ピノキオを題材にしたベルエポック風ダークファンタジーのソウルライク。FromSoftware式の死にゲー文法を韓国デベロッパーが完成度高く再現し、武器組み立てと嘘の選択肢で個性を出した。",
+      "target": "フロム・ソウルシリーズ経験者で、新作の合間に同質の歯応えを求める20-40代男性中心のコアアクションファン。"
+    },
+    {
+      "id": 135,
+      "title_jp": "デイヴ・ザ・ダイバー",
+      "title_en": "Dave the Diver",
+      "developer": "MINTROCKET",
+      "publisher": "MINTROCKET",
+      "year": 2023,
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "PS4"
+      ],
+      "genre": "潜水+寿司屋経営",
+      "sales_jp": "未公開",
+      "sales_world": "8M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "昼ダイブ夜寿司屋のループ、日本文化リスペクトでSNS拡散",
+      "slug": "dave-the-diver",
+      "concept": "昼は海中ダイブで魚を捕り、夜は寿司屋を経営する二層ループ型インディー。アクション・経営・ローグライト要素を短時間サイクルに圧縮し、ジャパニーズカルチャーを誇張表現で再構成した韓国産ハイブリッド。",
+      "target": "20-40代のインディー好き、寿司・日本食文化に親しむ国内外プレイヤー。短時間で区切れる携帯機プレイを好むSwitchユーザー層と相性が良い。"
+    },
+    {
+      "id": 136,
+      "title_jp": "Lethal Company",
+      "title_en": "Lethal Company",
+      "developer": "Zeekerss",
+      "publisher": "Zeekerss",
+      "year": 2023,
+      "platform": [
+        "PC"
+      ],
+      "genre": "協力ホラー",
+      "sales_jp": "未公開",
+      "sales_world": "11M+ (Steam推定)",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "VTuber・配信者の同時実況が爆発、同接24万人到達",
+      "slug": "lethal-company",
+      "concept": "最大4人で廃墟の月にスクラップ回収に向かう一人称協力ホラー、近接ボイスチャットの距離減衰で叫び声と無線連絡が体験の中心になる。個人開発のアーリーアクセス作品が口コミだけで急成長した代表例。",
+      "target": "10-30代、友人とのボイス通話プレイ層、VTuber・実況視聴文化に親しむ層。"
+    },
+    {
+      "id": 137,
+      "title_jp": "スイカゲーム",
+      "title_en": "Suika Game",
+      "developer": "Aladdin X",
+      "publisher": "Aladdin X",
+      "year": 2021,
+      "platform": [
+        "Switch",
+        "PC",
+        "iOS",
+        "Android",
+        "PS4",
+        "PS5"
+      ],
+      "genre": "パズル",
+      "sales_jp": "5M+(DL)",
+      "sales_world": "未公開",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "2023年VTuber配信で爆発、Switch eShop 240円の手軽さ",
+      "slug": "suika-game",
+      "concept": "果物を落として同種を合体させ最終的にスイカを作る物理落ち物パズル。元はプロジェクタAladdin X付属ミニゲームで、240円のSwitch版が2023年にVTuber配信で再ブレイクし「スイカゲーム系」フォロワーを大量に生んだ。",
+      "target": "全年齢、配信視聴層、低価格カジュアルパズルを隙間時間で遊ぶ非ゲーマー層。"
+    },
+    {
+      "id": 138,
+      "title_jp": "ロックマンエグゼ アドバンスドコレクション",
+      "title_en": "Mega Man Battle Network Legacy Collection",
+      "developer": "Capcom",
+      "publisher": "Capcom",
+      "year": 2023,
+      "platform": [
+        "Switch",
+        "PS4",
+        "PC"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "1M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "エグゼ世代のノスタルジア需要、全10作一括収録",
+      "slug": "mega-man-battle-network-legacy-collection",
+      "concept": "GBA時代のロックマンエグゼ全10作品を収録した復刻コレクション。オンライン対戦・通信機能を現代環境で再現し、当時の通信プレイ体験を保存・再評価する。",
+      "target": "2000年代前半にGBAでエグゼをプレイした30代前後のファン層。当時の通信対戦やチップ収集を再体験したい層。"
+    },
+    {
+      "id": 139,
+      "title_jp": "オクトパストラベラーII",
+      "title_en": "Octopath Traveler II",
+      "developer": "Acquire / Square Enix",
+      "publisher": "Square Enix",
+      "year": 2023,
+      "platform": [
+        "Switch",
+        "PS5",
+        "PS4",
+        "PC"
+      ],
+      "genre": "HD-2D JRPG",
+      "sales_jp": "未公開",
+      "sales_world": "1M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "HD-2Dの完成度と続編評価、王道JRPG回帰",
+      "slug": "octopath-traveler-ii",
+      "concept": "8人の主人公それぞれが独立した物語を持つHD-2D JRPG。前作の評価を受けた続編で、昼夜システムや旅人同士のクロスストーリーで群像劇を強化した、王道JRPGの現代的再構築。",
+      "target": "王道JRPGとドット絵表現を好む30〜40代男性層が中心。前作プレイヤーやFF・ロマサガ系の懐古層に届く。"
+    },
+    {
+      "id": 140,
+      "title_jp": "メタファー：リファンタジオ",
+      "title_en": "Metaphor: ReFantazio",
+      "developer": "アトラス（スタジオ・ゼロ）",
+      "publisher": "アトラス／セガ",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "PS4",
+        "XSX",
+        "PC"
+      ],
+      "genre": "ファンタジーRPG",
+      "sales_jp": "未公開",
+      "sales_world": "2M+（発売後1週間で100万本突破）",
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "popularity": "ペルソナチームの新作、TGA最多ノミネートで話題化",
+      "slug": "metaphor-refantazio",
+      "concept": "ペルソナシリーズの「カレンダー＋コミュ＋ダンジョン」構造を中世ファンタジー世界に移植したJRPG。選挙戦という政治テーマと「アーキタイプ（ジョブ）」育成で物語と成長を二軸駆動する。",
+      "target": "20-40代のペルソナ／JRPGファン、アトラス作品の世界観・音楽・UI演出に惹かれる海外含むコア層。"
+    },
+    {
+      "id": 141,
+      "title_jp": "ドラゴンクエストIII そして伝説へ… HD-2D版",
+      "title_en": "Dragon Quest III HD-2D Remake",
+      "developer": "Square Enix / Artepiazza",
+      "publisher": "Square Enix",
+      "year": 2024,
+      "platform": [
+        "Switch",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "PC"
+      ],
+      "genre": "RPG",
+      "sales_jp": "未公開",
+      "sales_world": "2M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP",
+        "REW"
+      ],
+      "social_axis": null,
+      "popularity": "国民的RPGの原典をHD-2Dで再演、世代間で話題化。",
+      "slug": "dragon-quest-iii-hd-2d-remake",
+      "concept": "1988年の名作RPGをHD-2D技術で再構築。ドット絵の温かみと現代的なライティング・エフェクトを融合し、シナリオ・職業システムを微調整した正統リメイク。",
+      "target": "FC・SFC版で遊んだ30-50代の懐古層と、HD-2D『オクトパストラベラー』系列のファン。シリーズ未経験の若年層への入口にも。"
+    },
+    {
+      "id": 142,
+      "title_jp": "ユニコーンオーバーロード",
+      "title_en": "Unicorn Overlord",
+      "developer": "Vanillaware",
+      "publisher": "Atlus / Sega",
+      "year": 2024,
+      "platform": [
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox One",
+        "Xbox Series X/S"
+      ],
+      "genre": "シミュレーションRPG",
+      "sales_jp": "74K(初週)",
+      "sales_world": "1M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ヴァニラウェアの美麗2D、編成自動戦闘の新鮮さ",
+      "slug": "unicorn-overlord",
+      "concept": "ヴァニラウェア流の手描き2Dで描く中世風シミュレーションRPG。事前に編成・作戦を組んだ部隊が自動で戦う「準備の妙」を主軸に据え、オウガバトル系の系譜をモダンに再構築した。",
+      "target": "FE・タクティクスオウガ等のSRPG愛好家、ヴァニラウェア作品の既存ファン、編成最適化を楽しむ30代以上のソロプレイヤー。"
+    },
+    {
+      "id": 143,
+      "title_jp": "ASTRO BOT",
+      "title_en": "Astro Bot",
+      "developer": "Team Asobi",
+      "publisher": "SIE",
+      "year": 2024,
+      "platform": [
+        "PS5"
+      ],
+      "genre": "3Dアクション",
+      "sales_jp": "未公開",
+      "sales_world": "2M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "TGA2024 GOTY、DualSense体感の決定版",
+      "slug": "astro-bot",
+      "concept": "DualSenseの触覚・アダプティブトリガーを最大活用した3Dアクション。PlayStation 30年の歴史キャラをカメオ収集要素として配し、「ハード性能を遊びで体感させる」任天堂的設計をSIEが達成した一作。",
+      "target": "全年齢、特にPS5を所有する20-40代のコアゲーマーと、3Dマリオ系プラットフォーマーを求める層。PlayStation長年のファンほどカメオで刺さる。"
+    },
+    {
+      "id": 144,
+      "title_jp": "Helldivers 2",
+      "title_en": "Helldivers 2",
+      "developer": "Arrowhead",
+      "publisher": "SIE",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "PC"
+      ],
+      "genre": "協力TPS",
+      "sales_jp": "未公開",
+      "sales_world": "12M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "フレ協力プレイの動画拡散とSIE製の高完成度",
+      "slug": "helldivers-2",
+      "concept": "4人協力で銀河を「民主主義」の名の下に侵略するTPS。風刺的世界観と高難度の戦場、戦果が全プレイヤー共通の銀河戦争マップに反映されるメタ進行が特徴。",
+      "target": "FPS/TPS経験者の20-40代男性中心。ボイチャや配信で友人と笑える協力プレイを求める層。"
+    },
+    {
+      "id": 145,
+      "title_jp": "黒神話：悟空",
+      "title_en": "Black Myth: Wukong",
+      "developer": "Game Science",
+      "publisher": "Game Science",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "PC"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "25M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "中国産AAAの社会現象、Steam同接250万",
+      "slug": "black-myth-wukong",
+      "concept": "中国神話「西遊記」を原典としたシングルプレイ・ソウルライク系アクション。中国産初の本格AAAタイトルとして、フォトリアル映像と東洋意匠の融合で世界市場に参入した。",
+      "target": "20-40代のコアアクションファン、特にソウルライクや中国・東洋ファンタジー文脈を好む層。海外比率が高く国内はPC勢中心。"
+    },
+    {
+      "id": 146,
+      "title_jp": "ステラーブレイド",
+      "title_en": "Stellar Blade",
+      "developer": "Shift Up",
+      "publisher": "SIE",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "PC"
+      ],
+      "genre": "アクション",
+      "sales_jp": "未公開",
+      "sales_world": "2M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "主人公イヴの造形とPS5独占で話題化、SNS拡散",
+      "slug": "stellar-blade",
+      "concept": "韓国Shift Up開発の3Dアクション。グラフィック・キャラクター造形と歯応えのある近接戦闘を両立した、ソウルライク要素を含むスタイリッシュアクション。",
+      "target": "PS5所有のアクション好きコア層、20-40代男性中心。ニーアやベヨネッタ系のスタイリッシュ系を好む層。"
+    },
+    {
+      "id": 147,
+      "title_jp": "ペーパーマリオRPG",
+      "title_en": "Paper Mario: The Thousand-Year Door",
+      "developer": "Intelligent Systems",
+      "publisher": "Nintendo",
+      "year": 2024,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "RPG",
+      "sales_jp": "0.5M+",
+      "sales_world": "2M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "GC名作リメイク、ファン再評価",
+      "slug": "paper-mario-the-thousand-year-door",
+      "concept": "2004年GC版の高解像度リメイク。紙の世界観とアクションコマンド戦闘を軸に、章立てで個性的な仲間と港町を巡る王道RPG。",
+      "target": "原作世代の30〜40代と、近年シリーズ未経験の若年層。物語と仲間との掛け合いを楽しむRPGファン。"
+    },
+    {
+      "id": 148,
+      "title_jp": "ドラゴンズドグマ2",
+      "title_en": "Dragon's Dogma 2",
+      "developer": "カプコン",
+      "publisher": "カプコン",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "Xbox",
+        "XSX",
+        "PC"
+      ],
+      "genre": "オープンワールドRPG",
+      "sales_jp": "未公開",
+      "sales_world": "300万+(初週250万)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "12年ぶりの正統続編、ポーン共有の独自性が話題化",
+      "slug": "dragons-dogma-2",
+      "concept": "AI仲間「ポーン」を他プレイヤーと貸借するソロ前提オープンワールドARPG。徒歩中心・ファストトラベル制限で「移動そのものを冒険化」する設計。",
+      "target": "前作経験者を核に、洋風ファンタジー・高難度探索を好む20-40代コアゲーマー。物語より道中の事件性を楽しむ層。"
+    },
+    {
+      "id": 149,
+      "title_jp": "DRAGON BALL: Sparking! ZERO",
+      "title_en": "Dragon Ball: Sparking! ZERO",
+      "developer": "Spike Chunsoft",
+      "publisher": "Bandai Namco",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "Xbox Series X|S",
+        "PC"
+      ],
+      "genre": "対戦アクション",
+      "sales_jp": "約6.4万(初週PS5)",
+      "sales_world": "5.4M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "対戦",
+      "popularity": "原作再現と全世代ファンの根強い需要、欧米先導のヒット",
+      "slug": "dragon-ball-sparking-zero",
+      "concept": "『スパーキング!』シリーズ17年ぶりの新作。182体超のキャラと原作場面の3D空中戦を高忠実に再現する、IPファン向け対戦アクション。発売24時間で300万本、累計540万本超とDB史上最速。",
+      "target": "DBアニメ／原作世代の30〜40代男性が中核。海外比率約9割で、国内よりも欧米のキャラゲー層・格ゲー副次層に深く刺さる。"
+    },
+    {
+      "id": 150,
+      "title_jp": "ゼルダの伝説 知恵のかりもの",
+      "title_en": "The Legend of Zelda: Echoes of Wisdom",
+      "developer": "GREZZO / 任天堂",
+      "publisher": "任天堂",
+      "year": 2024,
+      "platform": [
+        "Switch"
+      ],
+      "genre": "アクションアドベンチャー",
+      "sales_jp": "未公開",
+      "sales_world": "3.91M(2025/3)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "初の主役ゼルダ姫、見下ろし型回帰",
+      "slug": "the-legend-of-zelda-echoes-of-wisdom",
+      "concept": "敵やオブジェクトを「カリモノ（エコー）」として複製・配置し攻略するパズルアクション。剣を持たないゼルダ姫が主役の初作品で、見下ろし型2D系譜のリブート。",
+      "target": "夢をみる島リメイクや神トラ世代の任天堂ファン、見下ろし型ゼルダ志向層。BotW以降の物理パズル系プレイヤーにも訴求。"
+    },
+    {
+      "id": 151,
+      "title_jp": "パルワールド",
+      "title_en": "Palworld",
+      "developer": "Pocketpair",
+      "publisher": "Pocketpair",
+      "year": 2024,
+      "platform": [
+        "PC",
+        "Xbox",
+        "XSX",
+        "PS5"
+      ],
+      "genre": "オープンワールドサバイバル",
+      "sales_jp": "未公開",
+      "sales_world": "25M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "「ポケモン+銃+サバイバル」配信爆発",
+      "slug": "palworld",
+      "concept": "モンスター収集（パル）、銃撃サバイバル、クラフト、自動化労働を一つの世界に統合し、既存IPの安全圏を踏み越える「禁忌の組合せ」で話題化したオープンワールド。最大4人協力でパルを使役して建築・戦闘・生産を回す。",
+      "target": "10-30代のPC/Xboxユーザー、ARK・Rust等サバイバル経験者、Pokémonに既視感を持ちつつ「踏み越えた」遊びを求める層。配信視聴・友達誘致の入り口として機能。"
+    },
+    {
+      "id": 152,
+      "title_jp": "8番のりば",
+      "title_en": "Platform 8",
+      "developer": "KOTAKE CREATE",
+      "publisher": "KOTAKE CREATE",
+      "year": 2024,
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5"
+      ],
+      "genre": "ウォーキングシム/異変探し",
+      "sales_jp": "未公開",
+      "sales_world": "未公開",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "前作『8番出口』のヒットを受けた続編、配信者プレイで拡散",
+      "slug": "platform-8",
+      "concept": "『8番出口』の続編。地下鉄ホームを舞台にした異変探しウォーキングシム。電車内・ホーム・トンネルへと舞台を拡張し、ループ構造と異変発見のゲーム性を継承。",
+      "target": "前作『8番出口』のプレイヤー、配信視聴者層、短時間で完結する異変探しを好む層。"
+    },
+    {
+      "id": 153,
+      "title_jp": "Content Warning",
+      "title_en": "Content Warning",
+      "developer": "Landfall",
+      "publisher": "Landfall",
+      "year": 2024,
+      "platform": [
+        "PC"
+      ],
+      "genre": "協力ホラー",
+      "sales_jp": "未公開",
+      "sales_world": "2.2M本/8.8M所有(2024)",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "配信者向け設計、実況動画でバズ拡散",
+      "slug": "content-warning",
+      "concept": "最大4人で地下世界の怪物を撮影し動画投稿サイトでバズらせる協力ホラー。ボイチャ必須・撮影映像を見返して笑う構造で、プレイ自体が配信コンテンツとして成立する設計。",
+      "target": "PCゲーマー、ホラー配信視聴層、Lethal Company系の協力ホラーを楽しむ20-30代フレンドグループ。"
+    },
+    {
+      "id": 154,
+      "title_jp": "Balatro",
+      "title_en": "Balatro",
+      "developer": "LocalThunk",
+      "publisher": "Playstack",
+      "year": 2024,
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ローグライト・デッキ構築",
+      "sales_jp": "未公開",
+      "sales_world": "5M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "配信者ハマり報告とSwitch/モバイル展開で口コミ拡大",
+      "slug": "balatro",
+      "concept": "ポーカー役を組みながらジョーカーで効果を積み増すローグライト・デッキ構築。短いランと膨大なシナジー組合せで「もう1回」を誘発する高中毒設計、個人開発の傑作として2024年GOTY候補。",
+      "target": "ローグライト／デッキ構築好きのコア層、ポーカー知識者、短時間で遊べるソロゲーを求めるPC・携帯機ユーザー。"
+    },
+    {
+      "id": 155,
+      "title_jp": "SILENT HILL 2 リメイク",
+      "title_en": "Silent Hill 2 (2024 Remake)",
+      "developer": "Bloober Team",
+      "publisher": "Konami",
+      "year": 2024,
+      "platform": [
+        "PS5",
+        "PC"
+      ],
+      "genre": "サバイバルホラー",
+      "sales_jp": "未公開",
+      "sales_world": "2M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "名作リメイクの高評価、心理ホラー再評価",
+      "slug": "silent-hill-2-2024-remake",
+      "concept": "PS2時代の名作心理ホラーを現代的TPS視点で再構築。霧の街と内面の罪悪感を辿る物語体験を軸に、戦闘・探索を補強した王道リメイク。",
+      "target": "原作世代の30-40代男性ホラーファン、暗く重い物語と心理描写を好む層。実況視聴経由の若年層流入もあり。"
+    },
+    {
+      "id": 156,
+      "title_jp": "マーベル・ライバルズ",
+      "title_en": "Marvel Rivals",
+      "developer": "NetEase",
+      "publisher": "NetEase",
+      "year": 2024,
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "XSX"
+      ],
+      "genre": "ヒーローシューター",
+      "sales_jp": "未公開",
+      "sales_world": "40M+ players / 初月$136M",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "マーベルIP×6v6基本無料、OW2離脱層を吸収",
+      "slug": "marvel-rivals",
+      "concept": "マーベルヒーロー36体超を操作する6v6基本無料ヒーローシューター。破壊可能地形とチームアップ技で差別化、オーバーウォッチ系の停滞市場をIP力で奪取した。",
+      "target": "MOBA／ヒーローシューター経験者と、マーベル映画ファンの男性中心20-30代。スパイダーマンやアイアンマンを動かす体験目当ての軽度層も含む。"
+    },
+    {
+      "id": 157,
+      "title_jp": "マリオカート ワールド",
+      "title_en": "Mario Kart World",
+      "developer": "任天堂EPD",
+      "publisher": "任天堂",
+      "year": 2025,
+      "platform": [
+        "Switch 2"
+      ],
+      "genre": "レースアクション",
+      "sales_jp": "2.79M",
+      "sales_world": "14.7M",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "popularity": "Switch 2同梱の事実上のローンチ作",
+      "slug": "mario-kart-world",
+      "concept": "シリーズ初のオープンワールド構造を導入し、コース間を連続走行する24人グランプリ「ナックアウトツアー」を実装したマリオカート。Switch 2の本体性能を見せる旗艦タイトルとして同梱販売され、新規層にハード普及と同時に届けた。",
+      "target": "全世代のパーティ層と、Switch 2を購入したシリーズファン。家族・友人での持ち寄り対戦に加え、24人マッチでオンライン対戦に踏み出す層も取り込む。"
+    },
+    {
+      "id": 158,
+      "title_jp": "ドンキーコング バナンザ",
+      "title_en": "Donkey Kong Bananza",
+      "developer": "Nintendo EPD",
+      "publisher": "任天堂",
+      "year": 2025,
+      "platform": [
+        "Switch 2"
+      ],
+      "genre": "3Dアクション",
+      "sales_jp": "12.8万(初週)",
+      "sales_world": "4.52M",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "Switch2のキラータイトル、破壊で再発明",
+      "slug": "donkey-kong-bananza",
+      "concept": "地形をすべて破壊して掘り進む3Dアクション。マリオオデッセイ班による3Dマリオの文法を継承しつつ、「壊す」を中核動詞に据えて地下世界を縦に探索する新基準を提示。",
+      "target": "Switch2ローンチ期の全年齢層、特に3Dマリオ／ドンキー伝統ファンと、破壊系サンドボックスの自由度を好む10-30代。"
+    },
+    {
+      "id": 159,
+      "title_jp": "デス・ストランディング 2: オン・ザ・ビーチ",
+      "title_en": "Death Stranding 2: On the Beach",
+      "developer": "Kojima Productions",
+      "publisher": "SIE",
+      "year": 2025,
+      "platform": [
+        "PS5"
+      ],
+      "genre": "アクション/ストランド",
+      "sales_jp": "190,719(初週)",
+      "sales_world": "2M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "小島秀夫の続編、メキシコ・豪州を舞台に大型化",
+      "slug": "death-stranding-2-on-the-beach",
+      "concept": "前作の「歩いて荷物を運ぶ」コア体験に戦闘と乗り物を厚く積み、映画的カットシーン比重を増やして物語消費型に寄せた続編。非同期マルチは継承しつつ、主軸は小島演出のドラマ追体験。",
+      "target": "前作プレイヤー、小島秀夫の作家性を追う30-40代、PS5独占の映画的体験を求めるシネフィル系コア層。"
+    },
+    {
+      "id": 160,
+      "title_jp": "アサシン クリード シャドウズ",
+      "title_en": "Assassin's Creed Shadows",
+      "developer": "Ubisoft Quebec",
+      "publisher": "Ubisoft",
+      "year": 2025,
+      "platform": [
+        "PS5",
+        "XSX",
+        "PC"
+      ],
+      "genre": "オープンワールドアクション",
+      "sales_jp": "未公開",
+      "sales_world": "3M+(発売1ヶ月)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "初の日本舞台AC、弥助・奈緒江の二主人公議論で話題化。",
+      "slug": "assassins-creed-shadows",
+      "concept": "シリーズ初の戦国日本（安土桃山期）を舞台にしたオープンワールドAC。武士・弥助のパワー型と忍・奈緒江のステルス型を切替えるデュアル主人公制と、隠密・破壊が反映される拠点システムを採用。",
+      "target": "洋ゲーARPG層と戦国・忍題材ファン。ACシリーズ既存ファンに加え、ゴーストオブツシマで日本舞台アクションに開眼した層を取り込む狙い。"
+    },
+    {
+      "id": 161,
+      "title_jp": "メタルギア ソリッド Δ: スネークイーター",
+      "title_en": "Metal Gear Solid Delta: Snake Eater",
+      "developer": "Konami / Virtuos",
+      "publisher": "Konami",
+      "year": 2025,
+      "platform": [
+        "PS5",
+        "XSX",
+        "PC"
+      ],
+      "genre": "ステルスアクション",
+      "sales_jp": "未公開",
+      "sales_world": "300万+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "小島作品の名作再演、原音声・原演出を保持したリメイクで旧来ファンが復帰",
+      "slug": "metal-gear-solid-delta-snake-eater",
+      "concept": "2004年『MGS3』を原作の脚本・声優・演出を保持したまま現代グラフィックで再構築したリメイク。ジャングル・サバイバル＋冷戦スパイ劇という原典の物語を、肩越し操作と最新描画で追体験させる「保存型リメイク」。",
+      "target": "30-50代の旧シリーズ経験層が中心、小島監督期のMGSに思い入れのあるコア層 + 新規ステルス／映画的物語愛好層。"
+    },
+    {
+      "id": 162,
+      "title_jp": "サイレントヒル f",
+      "title_en": "Silent Hill f",
+      "developer": "Neobards Entertainment",
+      "publisher": "Konami",
+      "year": 2025,
+      "platform": [
+        "PS5",
+        "XSX",
+        "PC"
+      ],
+      "genre": "ホラー",
+      "sales_jp": "57,475(初週PS5)",
+      "sales_world": "2M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "竜騎士07脚本×1960年代日本舞台、シリーズ最速100万本ペース",
+      "slug": "silent-hill-f",
+      "concept": "日本の山間集落「戎ヶ丘」を舞台にした和風サイコロジカルホラー。竜騎士07が脚本を担当し、「美の中の恐怖」をテーマに据えた日本産ホラー回帰作で、シリーズ最速で100万本を達成。",
+      "target": "サイレントヒル既存ファンに加え、ひぐらしうみねこ等の竜騎士07作品読者、和風ホラー志向のソロプレイヤー層。"
+    },
+    {
+      "id": 163,
+      "title_jp": "Split Fiction",
+      "title_en": "Split Fiction",
+      "developer": "Hazelight Studios",
+      "publisher": "EA",
+      "year": 2025,
+      "platform": [
+        "PS5",
+        "XSX",
+        "PC"
+      ],
+      "genre": "協力アクションアドベンチャー",
+      "sales_jp": "未公開",
+      "sales_world": "4M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "popularity": "It Takes Two続編、フレンドパス無料招待で2人プレイ拡散",
+      "slug": "split-fiction",
+      "concept": "It Takes Twoのスタジオによる二人専用協力アドベンチャー。SFとファンタジーの二作家世界を行き来し、ジャンルが章ごとに激変するギミック密度で「分割画面協力」を再定義。",
+      "target": "配信視聴やフレンドとの2人プレイ目的の20-30代コアゲーマー。It Takes Twoで体験した協力ゲーム愛好層の再訪需要。"
+    },
+    {
+      "id": 164,
+      "title_jp": "Hollow Knight: Silksong",
+      "title_en": "Hollow Knight: Silksong",
+      "developer": "Team Cherry",
+      "publisher": "Team Cherry",
+      "year": 2025,
+      "platform": [
+        "Switch",
+        "Switch 2",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "XSX",
+        "PC"
+      ],
+      "genre": "メトロイドヴァニア",
+      "sales_jp": "未公開（Steam JP首位）",
+      "sales_world": "7M+(3か月)",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "7年越し待望の続編、発売日にストア群がダウン",
+      "slug": "hollow-knight-silksong",
+      "concept": "前作1500万本の続編。2300円という低価格で高難度メトロイドヴァニアを徹底し、難易度を下げず鋭さを増す方向で設計。サブスクではなくパッケージ販売中心でも3か月700万本超を記録。",
+      "target": "前作経験者と硬派2Dアクション愛好層。死にゲー耐性のあるコア層、ボス戦と探索の達成感を求めるプレイヤー。"
+    },
+    {
+      "id": 165,
+      "title_jp": "ドラゴンクエストI＆II HD-2D版",
+      "title_en": "Dragon Quest I & II HD-2D Remake",
+      "developer": "スクエニ / Team Asano",
+      "publisher": "スクエニ",
+      "year": 2025,
+      "platform": [
+        "Switch",
+        "Switch 2",
+        "PS5",
+        "Xbox",
+        "XSX",
+        "PC"
+      ],
+      "genre": "RPG",
+      "sales_jp": "未公開",
+      "sales_world": "未公開",
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "popularity": "DQ原点のHD-2D化、III版に続く三部作完結",
+      "slug": "dragon-quest-i-and-ii-hd-2d-remake",
+      "concept": "DQIII HD-2D版に続くロト三部作完結編。1986/87年の原典を HD-2D で再構築し、ボリュームを大幅増した「現代基準のリメイク」。IとIIを一本に統合し、ロト伝説の通史として遊ばせる構成。",
+      "target": "40-60代のDQ原典世代の追体験需要と、III HD-2D で入門した若年・新規層。堀井節の王道JRPGを短時間で味わいたい層。"
+    },
+    {
+      "id": 166,
+      "title_jp": "R.E.P.O.",
+      "title_en": "R.E.P.O.",
+      "developer": "semiwork",
+      "publisher": "semiwork",
+      "year": 2025,
+      "platform": [
+        "PC"
+      ],
+      "genre": "協力ホラー",
+      "sales_jp": "未公開",
+      "sales_world": "3M+(推定) / 同接27万",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "配信者ワチャワチャ協力ホラーの流行、Lethal Company後継として拡散",
+      "slug": "repo",
+      "concept": "最大6人で遺跡からオブジェクトを物理演算で慎重に回収する協力ホラー。Lethal Companyの系譜にある「笑える系Co-opホラー」を、繊細な物理運搬という独自軸で再構築した低価格インディー。",
+      "target": "配信・VC前提でワイワイ遊ぶPCゲーマー、Lethal Companyやファズン等の協力ホラー経験者。20-30代の配信視聴層と重なる。"
+    },
+    {
+      "id": 167,
+      "title_jp": "Schedule I",
+      "title_en": "Schedule I",
+      "developer": "TVGS",
+      "publisher": "TVGS",
+      "year": 2025,
+      "platform": [
+        "PC"
+      ],
+      "genre": "経営シム",
+      "sales_jp": "未公開",
+      "sales_world": "8M+ (2025/5)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "配信者連鎖と最大同接40万、ブラックユーモア題材が話題化",
+      "slug": "schedule-i",
+      "concept": "麻薬密造・密売を題材にした犯罪シム。栽培・製造・販路拡大の経営ループに、4人協力マルチとミニゲーム（ブラックジャック等）を組み合わせた個人開発インディー。",
+      "target": "海外配信文化に親しむPCインディー層と、ダークコメディ題材を許容する20-30代男性中心。仲間とワイワイ違法ビジネスを回す協力プレイ志向。"
+    },
+    {
+      "id": 168,
+      "title_jp": "鳴潮",
+      "title_en": "Wuthering Waves",
+      "developer": "Kuro Games",
+      "publisher": "Kuro Games",
+      "year": 2024,
+      "platform": [
+        "PC",
+        "iOS",
+        "Android",
+        "PS5"
+      ],
+      "genre": "オープンワールドARPG",
+      "sales_jp": "未公開",
+      "sales_world": "$200M+(初年度推定)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "原神型OW+高速アクション、ポスト原神の対抗馬",
+      "slug": "wuthering-waves",
+      "concept": "原神フォロワーのオープンワールド×ガチャARPG。回避・パリィ重視の高速戦闘とポストアポカリプス世界観で、原神より硬派なアクション層を取りに行く差別化を行う。",
+      "target": "原神・崩壊スターレイル経験者で、よりアクション性の高い戦闘を求める20-30代男性中心。キャラガチャ＋やり込み戦闘の両立を望む層。"
+    },
+    {
+      "id": 169,
+      "title_jp": "学園アイドルマスター",
+      "title_en": "Gakuen Idolmaster",
+      "developer": "QualiArts",
+      "publisher": "Bandai Namco",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アイドル育成",
+      "sales_jp": "初年度売上200億円超",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "高品質3D演出、デッキ構築型育成",
+      "slug": "gakuen-idolmaster",
+      "concept": "アイマス新シリーズで、デッキ構築式のローグライク育成をガチャに組み込んだ設計。1回のプロデュースが約1時間で完結し、編成・スキル選択のリプレイ性で従来のアイマスのスタミナ消費型と差別化。",
+      "target": "20-30代男性中心のアイマスファン層に加え、デッキ構築・育成ゲーム経験者を取り込む。ライト層向けにプレイ時間が区切られている。"
+    },
+    {
+      "id": 170,
+      "title_jp": "ブルーアーカイブ",
+      "title_en": "Blue Archive",
+      "developer": "Nexon Games (MX Studio)",
+      "publisher": "Yostar",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "学園RPG/キャラクター収集",
+      "sales_jp": "¥30B+(累計推定)",
+      "sales_world": "$600M+(累計推定)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "学園×銃のキャラ性とミーム化、日本市場が世界最大級",
+      "slug": "blue-archive",
+      "concept": "韓国Nexon制作・Yostar運営の学園×銃モチーフ二次元ガチャRPG。キャラクター愛着とライトな戦闘＋濃密な学園シナリオで、日本が売上の過半を占める「逆輸入ヒット」型。",
+      "target": "20-30代男性中心、二次元ガチャ・アズールレーン経由のYostarファン、キャラクター消費・二次創作を楽しむ層。"
+    },
+    {
+      "id": 171,
+      "title_jp": "ヘブンバーンズレッド",
+      "title_en": "Heaven Burns Red",
+      "developer": "WFS / Key",
+      "publisher": "Yostar",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ドラマチックRPG",
+      "sales_jp": "累計500万DL超",
+      "sales_world": "未公開",
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "popularity": "麻枝准復帰作、Key泣きゲー文脈の現代ソシャゲ化",
+      "slug": "heaven-burns-red",
+      "concept": "麻枝准シナリオ×WFS開発のスマホ向けドラマチックRPG。Key伝統の泣きゲー文脈を現代のソシャゲ運営に接続し、章単位の物語消費を主軸に据えた長期運営型ノベルRPG。",
+      "target": "Key作品・麻枝准ファンの20-30代、泣ける物語と長期キャラ運営を両立したい層。"
+    },
+    {
+      "id": 172,
+      "title_jp": "勝利の女神：NIKKE",
+      "title_en": "Goddess of Victory: NIKKE",
+      "developer": "Shift Up",
+      "publisher": "Level Infinite",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ガンガールRPG/TPS",
+      "sales_jp": "$700M+(累計推定)",
+      "sales_world": "$1B+(累計収益)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "美少女キャラ造形とSNS拡散、日本がトップ売上市場",
+      "slug": "goddess-of-victory-nikke",
+      "concept": "縦持ちカバーシューティングと美少女キャラガチャを融合したサードパーソンシューター。Shift Upの作画力でビジュアル訴求を最大化し、重厚なポストアポカリプス物語を併走させる設計。",
+      "target": "20-30代男性中心、美少女ガチャゲー経験者と韓国系ハイクオリティ作画を好む層。物語とキャラ収集の両方を求めるソロプレイヤー。"
+    },
+    {
+      "id": 173,
+      "title_jp": "アークナイツ",
+      "title_en": "Arknights",
+      "developer": "Hypergryph",
+      "publisher": "Yostar",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "タワーディフェンスRPG",
+      "sales_jp": "未公開",
+      "sales_world": "$2B+ revenue",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "硬派なTD設計と高品質キャラ造形、Yostar運営の安定感",
+      "slug": "arknights",
+      "concept": "タワーディフェンスにキャラ収集ガチャを融合させたディストピアSF。配置とスキル運用の戦術性を主軸に、低レアでも編成で攻略可能な設計でガチャゲーの中でも硬派路線を確立。",
+      "target": "中国・日本のオタク層、特にダークな世界観とキャラデザインを好む20-30代。タワーディフェンスや戦術考察を楽しめる層に支持される。"
+    },
+    {
+      "id": 174,
+      "title_jp": "雀魂 -じゃんたま-",
+      "title_en": "Mahjong Soul",
+      "developer": "Catfood Studio",
+      "publisher": "Yostar",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "オンライン麻雀",
+      "sales_jp": "登録1000万超(全世界、JP主要市場)",
+      "sales_world": "未公開",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "Vtuber・配信者の対局配信、Mリーグとの連動で拡散",
+      "slug": "mahjong-soul",
+      "concept": "Yostarが運営する基本無料オンライン麻雀。萌え系キャラクター・ボイス・スキンと本格的なルール・段位戦を融合させ、従来の麻雀ゲームと美少女ガチャ要素を接続した。",
+      "target": "麻雀経験者と、Vtuber・アニメ経由で麻雀に触れた20-30代男女。段位戦で腕を競う層とキャラ・スキン収集層の両方が共存。"
+    },
+    {
+      "id": 175,
+      "title_jp": "Identity V 第五人格",
+      "title_en": "Identity V",
+      "developer": "NetEase",
+      "publisher": "NetEase",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "非対称対戦サバイバルホラー",
+      "sales_jp": "DL 1000万超(JP累計)",
+      "sales_world": "DL 1.5億+(世界累計)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "非対称",
+      "popularity": "非対称対戦のモバイル定番化、女性層のキャラ・二次創作人気",
+      "slug": "identity-v",
+      "concept": "1対4の非対称対戦サバイバル。ハンター1人がサバイバー4人を捕獲する『Dead by Daylight』型ループをモバイル最適化し、ゴシック・人形劇調の世界観とキャラ性で差別化。",
+      "target": "10-20代を中心に女性比率が高い。キャラ造形・衣装スキン・実況/二次創作カルチャーに親和性のあるモバイル対戦層。"
+    },
+    {
+      "id": 176,
+      "title_jp": "ディズニー ツイステッドワンダーランド",
+      "title_en": "Disney Twisted-Wonderland",
+      "developer": "f4samurai",
+      "publisher": "アニプレックス",
+      "year": 2020,
+      "platform": [
+        "Mobile"
+      ],
+      "genre": "リズム/育成RPG",
+      "sales_jp": "1000万DL+（国内主軸）",
+      "sales_world": "月商$3M+（Sensor Tower推定）",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "ディズニーヴィランズ×女性向けキャラ運営、SNS二次創作で拡大",
+      "slug": "disney-twisted-wonderland",
+      "concept": "ディズニーヴィランズをモチーフにした魔法学校の男性キャラ群を、リズムバトルと章立てシナリオで育成するキャラガチャ運営型。枢やな（原案・キャラ）×ディズニー×アニプレ運営の女性向けハイブリッド。",
+      "target": "10-30代女性中心、ディズニー／乙女ゲーム／推し活SNS文化に親しむ層。男性キャラのビジュアルとシナリオを継続消費するファン。"
+    },
+    {
+      "id": 177,
+      "title_jp": "あんさんぶるスターズ!! Music",
+      "title_en": "Ensemble Stars!! Music",
+      "developer": "Happy Elements",
+      "publisher": "Happy Elements",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アイドル育成リズム",
+      "sales_jp": "DL 1000万+",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "男性声優アイドルIPの代表格、3D MVと楽曲量で女性層を獲得",
+      "slug": "ensemble-stars-music",
+      "concept": "あんさんぶるスターズ!のIPを継承したリズムゲーム派生作。男性アイドル40+人のカード収集・育成と3D MV鑑賞、楽曲リズムプレイを軸に、Basicから派生したリッチ版として並走運営。",
+      "target": "10〜30代女性、男性アイドル／声優ファン。原作あんスタからの継続層と、3D MV・楽曲目当ての新規層。"
+    },
+    {
+      "id": 178,
+      "title_jp": "ヒプノシスマイク-Alternative Rap Battle-",
+      "title_en": "Hypnosis Mic: Alternative Rap Battle",
+      "developer": "イデア・レコード",
+      "publisher": "アイディアファクトリー",
+      "year": 2020,
+      "platform": [
+        "Mobile"
+      ],
+      "genre": "リズム/育成",
+      "sales_jp": "500万DL+",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "ラップ×イケメン男性キャラのIPブーム",
+      "slug": "hypnosis-mic-alternative-rap-battle",
+      "concept": "男性声優ユニットによるラップバトル・メディアミックスのスマホ向けリズムゲーム。原作CD/ライブ/アニメと連動し、楽曲消費とキャラ育成ガチャを橋渡しする位置づけ。",
+      "target": "10-30代女性中心、原作CD・声優ライブのファン層。キャラクター推し活と楽曲視聴を起点に流入。"
+    },
+    {
+      "id": 179,
+      "title_jp": "Pokemon Sleep",
+      "title_en": "Pokemon Sleep",
+      "developer": "Select Button",
+      "publisher": "The Pokemon Company",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "睡眠計測/収集",
+      "sales_jp": "DL 1000万+(国内)",
+      "sales_world": "DL 2500万+(世界)",
+      "primary": "REW",
+      "secondary": [],
+      "social_axis": null,
+      "popularity": "ポケモンIPの異色作、睡眠記録のSNS共有が話題",
+      "slug": "pokemon-sleep",
+      "concept": "睡眠を計測してポケモンを集める「寝ることがゲームプレイ」の異色作。健康トラッキングとIP収集ループを融合し、生活リズム改善とコレクション欲求を同時に満たす。",
+      "target": "健康志向の20-40代、ポケモンファンの社会人層。睡眠改善を口実に毎日触れる習慣型ゲーマー。"
+    },
+    {
+      "id": 180,
+      "title_jp": "プリンセスコネクト!Re:Dive",
+      "title_en": "Princess Connect Re:Dive",
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "育成RPG",
+      "sales_jp": "累計DL 1,500万(国内・公式)",
+      "sales_world": "推定累計収益 $1B+(国内+中国版)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "声優陣とアニメ演出、クラバトの協力ループで定着。",
+      "slug": "princess-connect-redive",
+      "concept": "アニメ調キャラ育成RPG。フルボイス・豪華キャストとアニメ品質のイベント演出を武器に、緩いオート戦闘＋ギルド「クラン」協力ボス戦で日課ループを設計。物語と収集を両立した王道ガチャ運営型。",
+      "target": "アニメ・声優コンテンツ好きの男性中心、20-30代。クラン参加で日課を回せる中重度プレイヤー層。"
+    },
+    {
+      "id": 181,
+      "title_jp": "グランブルーファンタジー",
+      "title_en": "Granblue Fantasy",
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "year": 2014,
+      "platform": [
+        "iOS",
+        "Android",
+        "ブラウザ"
+      ],
+      "genre": "RPG",
+      "sales_jp": "3,000万DL(国内中心)",
+      "sales_world": "累計売上 数千億円規模",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "王道ファンタジー世界観と豪華スタッフ、長期運営による定着",
+      "slug": "granblue-fantasy",
+      "concept": "王道ファンタジーRPGをブラウザ／スマホで展開する長期運営型ガチャゲーム。植松伸夫の音楽と皆葉英夫のキャラデザで「JRPGの正統」を志向し、古戦場・サイドストーリー等で多層的なやり込みを提供。",
+      "target": "JRPG経験のある20-40代男性中心。長時間プレイ前提のガチャ収集・装備育成を厭わないコアユーザー層。"
+    },
+    {
+      "id": 182,
+      "title_jp": "BanG Dream! ガールズバンドパーティ!",
+      "title_en": "BanG Dream! Girls Band Party!",
+      "developer": "Craft Egg",
+      "publisher": "Bushiroad",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズム/育成",
+      "sales_jp": "DL 1900万(国内)",
+      "sales_world": "累計売上 $500M+",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "声優実演バンドの相乗効果、カバー楽曲の豊富さ",
+      "slug": "bang-dream-girls-band-party",
+      "concept": "バンドリ!IPのリズムゲーム化。実在声優バンドとの連動でアニメ・ライブ・ゲームのメディアミックスを循環させ、楽曲カバー（アニメ・ボカロ・J-POP）の幅広さで間口を確保。",
+      "target": "10-30代の女性中心、アニメ・声優ファンとリズムゲーム愛好層。カバー曲目当ての一般音楽ファンも取り込む。"
+    },
+    {
+      "id": 183,
+      "title_jp": "アイドルマスター シンデレラガールズ スターライトステージ",
+      "title_en": "The Idolmaster Cinderella Girls Starlight Stage",
+      "developer": "BNE",
+      "publisher": "Bandai Namco",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アイドル育成リズム",
+      "sales_jp": "DL 2,500万(累計)",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "3Dライブ表現とアイドル190人超のガチャ収集",
+      "slug": "the-idolmaster-cinderella-girls-starlight-stage",
+      "concept": "モバマス(2D育成)の後継として3DフルモーションMVとリズムゲームを融合。SSR担当アイドル獲得と特訓・親愛度上げのガチャ収集ループが中核で、楽曲解禁とMV鑑賞が報酬。",
+      "target": "モバマス由来の20-30代男性Pが中核。担当アイドル固定型のキャラ愛駆動層と、譜面難度SSS+を求める音ゲー上級者の二層構造。"
+    },
+    {
+      "id": 184,
+      "title_jp": "アイドルマスター シャイニーカラーズ",
+      "title_en": "The Idolmaster Shiny Colors",
+      "developer": "BNE",
+      "publisher": "Bandai Namco",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android",
+        "ブラウザ"
+      ],
+      "genre": "アイドル育成",
+      "sales_jp": "未公開",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "ブラウザ展開とシナリオ評価でアイマス新世代支持",
+      "slug": "the-idolmaster-shiny-colors",
+      "concept": "アイマス系列の新ブランドで、enza基盤のブラウザゲームとして展開。プロデュース（育成）ループとアイドル個別シナリオの読み物性を重視し、ガチャ収益とテキスト消費を両立させた設計。",
+      "target": "アイマスシリーズの既存ファン層に加え、20-30代の男性プロデューサー層が中心。シナリオ読解とキャラ育成をじっくり楽しむ重課金/中課金プレイヤー。"
+    },
+    {
+      "id": 185,
+      "title_jp": "リバース：1999",
+      "title_en": "Reverse: 1999",
+      "developer": "Bluepoch",
+      "publisher": "Bluepoch",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "時代設定RPG/カードバトル",
+      "sales_jp": "未公開",
+      "sales_world": "$300M+(推定累計収益)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "20世紀レトロ美術と英語音声、女性向け雰囲気ガチャの新潮流",
+      "slug": "reverse-1999",
+      "concept": "中国Bluepochによる「20世紀各年代を旅する神秘主義RPG」。アール・デコ調ビジュアルと英語ボイスを軸に、HoYoverse以外の中国ガチャに地歩を築いた雰囲気特化型。",
+      "target": "20-30代、特に女性層とアート・洋画・オカルト趣味を好むサブカル層。HoYoverse以外のガチャを探す層。"
+    },
+    {
+      "id": 186,
+      "title_jp": "メメントモリ",
+      "title_en": "Memento Mori",
+      "developer": "Bank of Innovation",
+      "publisher": "Bank of Innovation",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "放置系RPG/楽曲ガチャ",
+      "sales_jp": "DL 300万+(国内)",
+      "sales_world": "$180M+(1周年累計)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "著名アーティスト起用の楽曲とイラストで話題化",
+      "slug": "memento-mori",
+      "concept": "放置系RPGに著名ボカロP・アーティストのキャラ別楽曲とイラストを組み合わせた「楽曲ガチャ」型タイトル。低操作負荷のオートバトルと収集要素で、世界観・キャラ消費を主軸に据える。",
+      "target": "放置系・キャラ収集系モバイルゲーム経験のある18-34歳が中心（全体の70%超）。ボカロ・サブカル系音楽ファンや、低拘束で美少女キャラを集めたい層。"
+    },
+    {
+      "id": 187,
+      "title_jp": "呪術廻戦 ファントムパレード",
+      "title_en": "Jujutsu Kaisen Phantom Parade",
+      "developer": "Sumzap",
+      "publisher": "Bandai Namco",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "RPG",
+      "sales_jp": "1000万DL突破(2024)",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "アニメ2期と同時期、原作補完シナリオで話題化",
+      "slug": "jujutsu-kaisen-phantom-parade",
+      "concept": "人気漫画『呪術廻戦』のIPコマンドRPG。原作を補完するアニメ調オリジナルストーリーとキャラガチャを軸に、コロプラ系Sumzapが手掛ける王道スマホRPGの設計。",
+      "target": "呪術廻戦の原作・アニメファン層が中心。10〜30代、男女比はやや女性寄り。キャラ収集とストーリー追体験を両立したいライトRPG層。"
+    },
+    {
+      "id": 188,
+      "title_jp": "ポケモンユナイト",
+      "title_en": "Pokemon UNITE",
+      "developer": "TiMi Studios",
+      "publisher": "The Pokemon Company",
+      "year": 2021,
+      "platform": [
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "MOBA",
+      "sales_jp": "未公開",
+      "sales_world": "100M+ DL",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "ポケモンIPで参入障壁を下げたモバイル対応MOBA",
+      "slug": "pokemon-unite",
+      "concept": "複雑で参入障壁の高いMOBAジャンルを、ポケモンIPと10分制の短縮ルール、ゴール式得点制でカジュアル化。Switch/スマホのクロスプレイで競技MOBA文化が薄い日本市場に橋を架けた。",
+      "target": "小中学生〜20代のポケモンファン層、およびLoL/Dota未経験のMOBA初心者。モバイル中心のライト対戦層。"
+    },
+    {
+      "id": 189,
+      "title_jp": "魔法使いの約束",
+      "title_en": "Promise of Wizard / Mahoyaku",
+      "developer": "coly",
+      "publisher": "coly",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "女性向け魔法使い育成",
+      "sales_jp": "700万DL+ (2023年)、年商¥2.06B (2023年)",
+      "sales_world": "未公開（国内中心）",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "恋愛要素なしの21人魔法使い×重厚ストーリー、舞台・アニメ化",
+      "slug": "promise-of-wizard",
+      "concept": "恋愛要素を排した女性向けファンタジーSRPGで、21人の魔法使いの個別ストーリーとフルボイスLive2Dを軸にカード収集とガチャで運営。賢者として召喚された主人公が「大いなる厄災」に挑む世界観で物語を重ねる長期運営型。",
+      "target": "10-30代女性、骨太なファンタジー世界観とキャラ個別ストーリーを読み込む層。乙女ゲームの恋愛文脈を求めない女性ユーザー、舞台・アニメ展開のIPファン。"
+    },
+    {
+      "id": 190,
+      "title_jp": "アナザーエデン",
+      "title_en": "Another Eden",
+      "developer": "Wright Flyer Studios",
+      "publisher": "WFS",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC",
+        "Switch"
+      ],
+      "genre": "シングルRPG",
+      "sales_jp": "10M DL(2021)",
+      "sales_world": "未公開",
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "popularity": "加藤正人脚本×光田康典音楽、クロノ系譜の物語",
+      "slug": "another-eden",
+      "concept": "クロノ・トリガー系譜の加藤正人がシナリオ、光田康典が音楽を担当するソロRPG。スタミナ・PvPを排し、ガチャは存在するが物語消費を主軸に据えた「シングルプレイ前提のスマホRPG」というポジション。",
+      "target": "スーパーファミコン期JRPG（クロノ・トリガー、ゼノギアス）原体験のある30〜40代男性が中心。ソーシャル要素を嫌い物語と世界観を味わいたい層。"
+    },
+    {
+      "id": 191,
+      "title_jp": "ピクミン ブルーム",
+      "title_en": "Pikmin Bloom",
+      "developer": "Niantic",
+      "publisher": "Nintendo / Niantic",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "位置情報歩数計",
+      "sales_jp": "DL 86.4万(初2週)",
+      "sales_world": "$100M+ 累計収益",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "ピクミン愛と歩数記録、戦わない位置ゲー",
+      "slug": "pikmin-bloom",
+      "concept": "Pokemon GO の Niantic がピクミンIPで作る「戦わない位置情報ゲーム」。歩数で苗を育て花を咲かせる、健康アプリと収集ゲームを融合した穏やかな日常型ループ。",
+      "target": "健康・ウォーキング習慣に関心のある成人層と既存ピクミンファン。対戦が苦手な女性層やライト層も取り込む。"
+    },
+    {
+      "id": 192,
+      "title_jp": "BLEACH Brave Souls",
+      "title_en": "BLEACH Brave Souls",
+      "developer": "KLab",
+      "publisher": "KLab",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC",
+        "Switch"
+      ],
+      "genre": "3DアクションRPG",
+      "sales_jp": "未公開",
+      "sales_world": "90M DL+",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "BLEACH原作の長期IP活用、千年血戦篇アニメ復活で再加熱",
+      "slug": "bleach-brave-souls",
+      "concept": "BLEACH IPを3Dアクション+ガチャで運用する長寿スマホRPG。原作各篇のキャラを衣装違いで継続実装し、爽快なコンボアクションと収集を両立させる設計。",
+      "target": "原作BLEACHのファン層（30代男性中心）と、軽快な片手アクションを求めるスマホRPGユーザー。海外比率が高い。"
+    },
+    {
+      "id": 193,
+      "title_jp": "刀剣乱舞 ONLINE",
+      "title_en": "Touken Ranbu Online",
+      "developer": "DMM / Nitroplus",
+      "publisher": "DMM",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android",
+        "ブラウザ"
+      ],
+      "genre": "刀剣擬人化育成",
+      "sales_jp": "登録2,500万人+(累計)",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "刀剣擬人化×女性向け、聖地巡礼ブーム",
+      "slug": "touken-ranbu-online",
+      "concept": "日本刀を「刀剣男士」として擬人化し、本丸で育成・出陣させる女性向けブラウザ／モバイルゲーム。舞台・アニメ・実写映画へ展開し、刀剣展や博物館に来場者を呼び込む「刀剣ブーム」を生んだ。",
+      "target": "10-30代女性中心、歴史・刀剣ファン、舞台/2.5次元コンテンツ愛好層。キャラ収集と二次創作活動が主動機。"
+    },
+    {
+      "id": 194,
+      "title_jp": "ハリーポッター 魔法の覚醒",
+      "title_en": "Harry Potter Magic Awakened",
+      "developer": "NetEase",
+      "publisher": "NetEase / Warner",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "カードバトルRPG",
+      "sales_jp": "未公開",
+      "sales_world": "$500M+ (初年度推定)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "原作ファン層の取り込みと学園生活演出の評価",
+      "slug": "harry-potter-magic-awakened",
+      "concept": "ハリポタIPを使ったカードバトルRPG。学園生活シミュレーションと対戦要素を組み合わせ、ガチャと収集による報酬ループを軸に据える。中国NetEase制作のグローバル展開タイトル。",
+      "target": "ハリーポッター原作読者層、20-40代男女。IP愛着で課金可能なライト〜ミドル層、カードゲーム愛好者を含む。"
+    },
+    {
+      "id": 195,
+      "title_jp": "荒野行動",
+      "title_en": "Knives Out",
+      "developer": "NetEase",
+      "publisher": "NetEase",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "バトロワFPS",
+      "sales_jp": "DL 4000万+(JP)",
+      "sales_world": "DL 3億+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "PUBG日本展開前の空白を突いたモバイルBR先行、若年層・配信文化で定着",
+      "slug": "knives-out",
+      "concept": "PUBG型100人バトロワをスマホ向けに移植し、日本では本家先行で市場を獲得。アニメ・VTuber等とのコラボを多用し、IP横断のキャラ収集要素で長期運用するモバイルBR。",
+      "target": "10-20代のスマホFPS層、特に学生・若年男女。ボイチャ・通話アプリ併用の友人内マルチが中心で、配信視聴層とも重なる。"
+    },
+    {
+      "id": 196,
+      "title_jp": "#コンパス",
+      "title_en": "#Compass: Combat Providence Analysis",
+      "developer": "NHN PlayArt / Dwango",
+      "publisher": "NHN PlayArt",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "3on3リアルタイムバトル",
+      "sales_jp": "25M+ DL",
+      "sales_world": "未公開（国内中心）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "ニコニコ系IPコラボと3分対戦の手軽さ",
+      "slug": "compass-combat-providence-analysis",
+      "concept": "ニコニコ動画／ボカロ／アニメ系IPの「ヒーロー」をプレイアブル化し、片手で遊べる3on3陣取り対戦に落とし込んだモバイルMOBA。短時間マッチとガチャ収集を両輪に、リアルイベント／TVアニメ／楽曲展開でファン文化に接続。",
+      "target": "10〜20代、ニコニコ動画・ボカロ・深夜アニメ文化に親しんだ層。手軽な対戦を求めつつ、推しヒーロー／コラボ楽曲の収集にも反応するモバイル中心ユーザー。"
+    },
+    {
+      "id": 197,
+      "title_jp": "オクトパストラベラー 大陸の覇者",
+      "title_en": "Octopath Traveler: Champions of the Continent",
+      "developer": "Acquire",
+      "publisher": "Square Enix",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "RPG/ガチャ",
+      "sales_jp": "配信1週で500万DL（国内中心）",
+      "sales_world": "未公開",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "popularity": "HD-2Dの携帯化、章ごとシナリオ",
+      "slug": "octopath-traveler-champions-of-the-continent",
+      "concept": "本編「オクトパストラベラー」のHD-2D表現と章立てシナリオ構造を、モバイルのガチャ×コマンドRPGへ移植した前日譚。8人の旅人に代えてキャラ召喚で物語を集める。",
+      "target": "20-40代、原作ファンとSFC〜PS世代のJRPG経験者。コマンド戦闘とテキスト主体の章クエストを通勤・空き時間に消費する層。"
+    },
+    {
+      "id": 198,
+      "title_jp": "ブループロトコル",
+      "title_en": "Blue Protocol",
+      "developer": "Bandai Namco Online",
+      "publisher": "Bandai Namco",
+      "year": 2023,
+      "platform": [
+        "PC"
+      ],
+      "genre": "アクションMMORPG",
+      "sales_jp": "事前登録100万+(2023)、2025/1サ終",
+      "sales_world": "未公開（海外版はAmazon Gamesが運営）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "アニメ調MMO期待、サ終で象徴的事例化",
+      "slug": "blue-protocol",
+      "concept": "「アニメ調ハイクオリティ・ビジュアル × 基本無料アクションMMO」を国産で目指した期待作。スキン・ガチャ課金とコンテンツ更新で運営する設計だったが、コンテンツ供給と収益化の難しさが露呈し約1.5年でサービス終了。",
+      "target": "20-30代の国内アニメ調MMORPGファン、PSO2や原神からの流入を想定。キャラメイクとスクリーンショット文化を好む層。"
+    },
+    {
+      "id": 199,
+      "title_jp": "ディアブロIV",
+      "title_en": "Diablo IV",
+      "developer": "Blizzard",
+      "publisher": "Blizzard / Activision",
+      "year": 2023,
+      "platform": [
+        "PS5",
+        "PS4",
+        "XSX",
+        "Xbox",
+        "PC"
+      ],
+      "genre": "ハクスラARPG",
+      "sales_jp": "未公開",
+      "sales_world": "$1B+(初月), 12M+(推定)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "シリーズ復活、シーズン制で長期運営化",
+      "slug": "diablo-iv",
+      "concept": "ハクスラARPGの原典シリーズ最新作。オープンワールド化とシーズン制を導入し、買い切りからライブサービス型へ移行。装備ドロップとビルド構築の反復が中核。",
+      "target": "30-40代の旧シリーズファンと欧米PCゲーマー中心。日本ではコアARPG層に限定的、JRPGガチャ文化とは別系統。"
+    },
+    {
+      "id": 200,
+      "title_jp": "Kingdom Come: Deliverance II",
+      "title_en": "Kingdom Come: Deliverance II",
+      "developer": "Warhorse Studios",
+      "publisher": "Deep Silver",
+      "year": 2025,
+      "platform": [
+        "PS5",
+        "XSX",
+        "PC"
+      ],
+      "genre": "オープンワールドRPG",
+      "sales_jp": "未公開",
+      "sales_world": "5M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "popularity": "中世リアル路線の前作評価を継ぐ続編、発売24時間で100万本",
+      "slug": "kingdom-come-deliverance-ii",
+      "concept": "15世紀ボヘミアを舞台にした考証重視のリアル系オープンワールドRPG。魔法・ドラゴンを排し、鍛冶・剣術・社会階層シミュレーションで没入感を作る硬派路線を続編で大幅拡張。",
+      "target": "前作および『ウィッチャー3』を遊んだ洋RPG好きの30〜40代男性が中心。歴史考証や重厚なロールプレイを好む層に支持される。"
     }
   ]
 }

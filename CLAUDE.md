@@ -33,7 +33,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `index.html` (root) | `site/facet.html` への meta-refresh リダイレクト。Pages トップの入口 | — |
 | `.github/workflows/deploy-pages.yml` | GitHub Pages デプロイの Actions ワークフロー | push 時に自動実行、Actions タブから手動 Run も可 |
 
-**ID #56 は欠番（プロセカ重複を排除した結果）**。本数を 100 に揃えたい場合は、未掲載のタイトル（例：ウマ娘、デレステ、シャニマス、グラブル等 — 出典の openQuestions 参照）を追加して #56 を埋めるのが自然です。
+**ID #56 は 2026-06 に「桃太郎電鉄 〜昭和 平成 令和も定番！〜」で埋め、欠番を解消した**（当初プロセカ重複で欠番だった枠）。同時に **2020 年以降に日本国内で人気・話題になったゲーム 101 本を一括追加** し、ID 1–200 が全て稼働している。
 
 ## データ編集ワークフロー
 
@@ -59,7 +59,7 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 "
 ```
 
-期待値（2026-06 時点）: total=99 / EXP 55, NAR 23, REW 21 / ids missing=[56] / collisions=0
+期待値（2026-06-23 時点）: total=200 / EXP 105, NAR 48, REW 47 / ids missing=[] / collisions=0
 
 ## 分類ルール（複数該当タイトルの主分類判定）
 
@@ -82,8 +82,8 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 ## 既知のデータ品質メモ
 
 - 体験型の `social_axis` は本来 1 タイトルが複数軸を持つ（例：スプラ3 = 対戦+収集+観戦）が、主動軸 1 つだけ記載している
-- EXP の 9 タイトルで `social_axis` が未設定。EXP に追加・移動するタイトルがあれば必ず埋める
-- ガールフレンド(仮)、デレステ、シャニマス、グラブル、ラブライブ SIF2 等アイドル／Cygames 系の旧モバイル群は未掲載（追加余地あり）
+- 既存99本側の EXP 9 タイトル（#073/#077/#079-#081/#083/#085-#087）で `social_axis` が未設定。2020+ で追加した EXP 50 件は全て埋まっている
+- 2020+ 拡張で **デレステ・シャニマス・グラブル・グラブル Relink・あんスタ・ヒプマイ・刀剣乱舞・まほやく・アナデン・プリコネ・BLEACH Brave Souls・ブルアカ・ヘブバン・NIKKE** などアイドル／長期運営モバイル系は概ね追加済み。`ガールフレンド(仮)`・`ラブライブ SIF2`・`Sky 星を紡ぐ子どもたち` 等は未掲載のまま（小規模 IP・サ終済みなど）
 
 ## 作業時の心構え
 

@@ -1,0 +1,25 @@
+{
+  "id": 189,
+  "title_jp": "魔法使いの約束",
+  "title_en": "Promise of Wizard / Mahoyaku",
+  "developer": "coly",
+  "publisher": "coly",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向け魔法使い育成",
+  "sales_jp": "700万DL+ (2023年)、年商¥2.06B (2023年)",
+  "sales_world": "未公開（国内中心）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "恋愛要素なしの21人魔法使い×重厚ストーリー、舞台・アニメ化",
+  "slug": "promise-of-wizard",
+  "file": "data/games/189-promise-of-wizard.json",
+  "concept": "恋愛要素を排した女性向けファンタジーSRPGで、21人の魔法使いの個別ストーリーとフルボイスLive2Dを軸にカード収集とガチャで運営。賢者として召喚された主人公が「大いなる厄災」に挑む世界観で物語を重ねる長期運営型。",
+  "target": "10-30代女性、骨太なファンタジー世界観とキャラ個別ストーリーを読み込む層。乙女ゲームの恋愛文脈を求めない女性ユーザー、舞台・アニメ展開のIPファン。"
+}

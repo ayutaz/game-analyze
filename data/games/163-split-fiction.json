@@ -1,0 +1,26 @@
+{
+  "id": 163,
+  "title_jp": "Split Fiction",
+  "title_en": "Split Fiction",
+  "developer": "Hazelight Studios",
+  "publisher": "EA",
+  "year": 2025,
+  "platform": [
+    "PS5",
+    "XSX",
+    "PC"
+  ],
+  "genre": "協力アクションアドベンチャー",
+  "sales_jp": "未公開",
+  "sales_world": "4M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "It Takes Two続編、フレンドパス無料招待で2人プレイ拡散",
+  "slug": "split-fiction",
+  "file": "data/games/163-split-fiction.json",
+  "concept": "It Takes Twoのスタジオによる二人専用協力アドベンチャー。SFとファンタジーの二作家世界を行き来し、ジャンルが章ごとに激変するギミック密度で「分割画面協力」を再定義。",
+  "target": "配信視聴やフレンドとの2人プレイ目的の20-30代コアゲーマー。It Takes Twoで体験した協力ゲーム愛好層の再訪需要。"
+}

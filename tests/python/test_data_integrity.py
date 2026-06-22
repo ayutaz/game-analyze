@@ -42,11 +42,15 @@ SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # Filename grammar: "{id:03d}-{slug}.json"
 FILENAME_RE = re.compile(r"^(?P<id>\d{3})-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.json$")
 
-# Expected hard-invariants from CLAUDE.md.
-EXPECTED_TOTAL = 99
-EXPECTED_PRIMARY_COUNTS = {"EXP": 55, "NAR": 23, "REW": 21}
-EXPECTED_MISSING_IDS = {56}
-EXPECTED_ID_RANGE = set(range(1, 101))  # 1..100 inclusive
+# Expected hard-invariants. The catalog was expanded on 2026-06-23 from 99 to
+# 200 titles by adding 101 Japan-popular 2020+ games. Slot #56 (previously
+# intentionally missing because of a Project Sekai duplicate) was filled by
+# 桃太郎電鉄 〜昭和 平成 令和も定番！〜 as part of the same expansion, so the
+# full ID range 1..200 is now contiguous.
+EXPECTED_TOTAL = 200
+EXPECTED_PRIMARY_COUNTS = {"EXP": 105, "NAR": 48, "REW": 47}
+EXPECTED_MISSING_IDS: set = set()
+EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..200 inclusive
 
 REQUIRED_KEYS = ("id", "title_jp", "primary", "slug", "file")
 
@@ -105,21 +109,21 @@ class PerFileGameTests(unittest.TestCase):
         cls.games = [g for _, g in cls.entries]
 
     # --- counts -----------------------------------------------------------
-    def test_total_games_is_99(self):
+    def test_total_games(self):
         self.assertEqual(len(self.entries), EXPECTED_TOTAL,
                          f"Expected {EXPECTED_TOTAL} game JSONs, found {len(self.entries)}")
 
-    def test_primary_breakdown_exp_55(self):
+    def test_primary_breakdown_exp(self):
         counts = Counter(g["primary"] for g in self.games)
         self.assertEqual(counts.get("EXP", 0), EXPECTED_PRIMARY_COUNTS["EXP"],
                          f"EXP count drift: {counts}")
 
-    def test_primary_breakdown_nar_23(self):
+    def test_primary_breakdown_nar(self):
         counts = Counter(g["primary"] for g in self.games)
         self.assertEqual(counts.get("NAR", 0), EXPECTED_PRIMARY_COUNTS["NAR"],
                          f"NAR count drift: {counts}")
 
-    def test_primary_breakdown_rew_21(self):
+    def test_primary_breakdown_rew(self):
         counts = Counter(g["primary"] for g in self.games)
         self.assertEqual(counts.get("REW", 0), EXPECTED_PRIMARY_COUNTS["REW"],
                          f"REW count drift: {counts}")
@@ -130,15 +134,12 @@ class PerFileGameTests(unittest.TestCase):
                         f"Unknown primary values: {primaries - VALID_PRIMARY}")
 
     # --- id space ---------------------------------------------------------
-    def test_id_56_missing(self):
-        ids = {g["id"] for g in self.games}
-        self.assertNotIn(56, ids, "ID #56 was intentionally removed (duplicate)")
-
-    def test_no_other_ids_missing_in_1_to_100(self):
+    def test_id_space_is_contiguous(self):
+        """As of 2026-06-23 the ID range 1..EXPECTED_TOTAL is fully populated."""
         ids = {g["id"] for g in self.games}
         missing = EXPECTED_ID_RANGE - ids
         self.assertEqual(missing, EXPECTED_MISSING_IDS,
-                         f"Missing IDs in 1..100: {sorted(missing)}; expected {{56}}")
+                         f"Missing IDs in 1..{EXPECTED_TOTAL}: {sorted(missing)}; expected {sorted(EXPECTED_MISSING_IDS)}")
 
     def test_no_id_collisions(self):
         ids = [g["id"] for g in self.games]
@@ -432,28 +433,30 @@ class MarkdownConsistencyTests(unittest.TestCase):
         cls.readme_md = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
 
     def test_games_catalog_md_count_consistent(self):
-        """The catalog table includes one row per ID 1..100, but #56 is a
-        documented placeholder ("重複なのでスキップ"). Real entries should
-        therefore be 99 once that placeholder is excluded.
+        """The catalog has two sections: the basic 100-row table and the
+        2020+ extension table. ID #56 appears in both because the 2020+
+        extension explicitly lists every new entry (including the one that
+        filled #56). Test by distinct ID count instead of by row count.
         """
         ids: list[int] = []
         for line in self.catalog_md.splitlines():
             m = re.match(r"^\|\s*(\d+)\s*\|", line)
             if m:
                 ids.append(int(m.group(1)))
-        # Drop the documented skip row.
-        real_ids = [i for i in ids if i != 56]
-        self.assertEqual(len(real_ids), EXPECTED_TOTAL,
-                         f"games-catalog.md has {len(real_ids)} real rows "
-                         f"(excluding #56 placeholder); expected {EXPECTED_TOTAL}")
-        # Catch ID drift in the markdown itself.
-        self.assertEqual(len(set(ids)), len(ids),
-                         "games-catalog.md has duplicate row IDs")
+        distinct_ids = set(ids)
+        self.assertEqual(len(distinct_ids), EXPECTED_TOTAL,
+                         f"games-catalog.md mentions {len(distinct_ids)} distinct IDs; "
+                         f"expected {EXPECTED_TOTAL}")
+        # IDs should cover the contiguous 1..EXPECTED_TOTAL range.
+        self.assertEqual(distinct_ids, EXPECTED_ID_RANGE,
+                         f"games-catalog.md ID range drift: missing "
+                         f"{sorted(EXPECTED_ID_RANGE - distinct_ids)}, "
+                         f"extra {sorted(distinct_ids - EXPECTED_ID_RANGE)}")
 
     def test_readme_count_consistent(self):
-        # Expect README §2 to mention the canonical 99-title figure.
-        self.assertRegex(self.readme_md, r"99\s*本",
-                         "README.md should reference '99本' somewhere (集計サマリ)")
+        # Expect README §2 to mention the canonical 200-title figure.
+        self.assertRegex(self.readme_md, r"200\s*本",
+                         "README.md should reference '200本' somewhere (集計サマリ)")
 
 
 if __name__ == "__main__":  # pragma: no cover - manual runner

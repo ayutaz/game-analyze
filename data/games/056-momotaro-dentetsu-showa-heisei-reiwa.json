@@ -1,0 +1,24 @@
+{
+  "id": 56,
+  "title_jp": "桃太郎電鉄 〜昭和 平成 令和も定番！〜",
+  "title_en": "Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban!",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 2020,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "ボードゲーム/パーティ",
+  "sales_jp": "4M+",
+  "sales_world": "4M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "コロナ禍の巣ごもり需要、家族で遊ぶ定番に。",
+  "slug": "momotaro-dentetsu-showa-heisei-reiwa",
+  "file": "data/games/056-momotaro-dentetsu-showa-heisei-reiwa.json",
+  "concept": "日本全国の駅で物件を買い集めて資産日本一を競う鉄道すごろく。昭和・平成・令和の地理ネタを織り込んだ国産パーティの定番。",
+  "target": "小学生〜大人まで家族・友人で囲む層、シリーズの旧作経験者が世代を跨いで再合流。"
+}

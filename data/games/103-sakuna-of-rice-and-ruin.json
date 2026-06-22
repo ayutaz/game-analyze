@@ -1,0 +1,26 @@
+{
+  "id": 103,
+  "title_jp": "天穂のサクナヒメ",
+  "title_en": "Sakuna: Of Rice and Ruin",
+  "developer": "えーでるわいす",
+  "publisher": "マーベラス",
+  "year": 2020,
+  "platform": [
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "アクションRPG/稲作シミュレーション",
+  "sales_jp": "50万本+",
+  "sales_world": "100万本+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "緻密な稲作描写が話題、農水省サイト参照ブーム",
+  "slug": "sakuna-of-rice-and-ruin",
+  "file": "data/games/103-sakuna-of-rice-and-ruin.json",
+  "concept": "和風横スクACTと本格稲作シムを融合したハイブリッド作。米作りで主人公が強くなる独自ループと、農水省サイトを参照する考証の深さで二人同人サークル発の異例ヒットとなった。",
+  "target": "和風世界観や育成系シムを好む20-40代のコア層。横ACTとじっくり農作業の双方を楽しめるソロ志向プレイヤー。"
+}

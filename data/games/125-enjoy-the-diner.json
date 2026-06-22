@@ -1,0 +1,27 @@
+{
+  "id": 125,
+  "title_jp": "ファミレスを享受せよ",
+  "title_en": "Enjoy the Diner",
+  "developer": "なんも",
+  "publisher": "Whatasoft",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アドベンチャー",
+  "sales_jp": "未公開",
+  "sales_world": "100万本+(PC/Switch累計)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "フリゲ発の口コミ拡散、Steam 97%好評の雰囲気ADV",
+  "slug": "enjoy-the-diner",
+  "file": "data/games/125-enjoy-the-diner.json",
+  "concept": "永遠のファミレス「ムーンパレス」に閉じ込められた主人公が客と雑談し脱出を探るコマンド選択型ADV。2022年フリゲ原作を商業リメイクし、深夜のファミレス的気怠さと不条理ホラーを2時間で味わわせる小規模高密度設計。",
+  "target": "深夜の雰囲気ADVや不条理系フリゲ文化に親和性の高い10-30代。短時間で読み切れる物語と独特の空気感を求める層、SNSで考察・感想を共有したいプレイヤー。"
+}

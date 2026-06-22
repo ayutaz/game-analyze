@@ -1,0 +1,27 @@
+{
+  "id": 138,
+  "title_jp": "ロックマンエグゼ アドバンスドコレクション",
+  "title_en": "Mega Man Battle Network Legacy Collection",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2023,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "未公開",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "エグゼ世代のノスタルジア需要、全10作一括収録",
+  "slug": "mega-man-battle-network-legacy-collection",
+  "file": "data/games/138-mega-man-battle-network-legacy-collection.json",
+  "concept": "GBA時代のロックマンエグゼ全10作品を収録した復刻コレクション。オンライン対戦・通信機能を現代環境で再現し、当時の通信プレイ体験を保存・再評価する。",
+  "target": "2000年代前半にGBAでエグゼをプレイした30代前後のファン層。当時の通信対戦やチップ収集を再体験したい層。"
+}

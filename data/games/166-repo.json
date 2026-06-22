@@ -1,0 +1,22 @@
+{
+  "id": 166,
+  "title_jp": "R.E.P.O.",
+  "title_en": "R.E.P.O.",
+  "developer": "semiwork",
+  "publisher": "semiwork",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "協力ホラー",
+  "sales_jp": "未公開",
+  "sales_world": "3M+(推定) / 同接27万",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "配信者ワチャワチャ協力ホラーの流行、Lethal Company後継として拡散",
+  "slug": "repo",
+  "file": "data/games/166-repo.json",
+  "concept": "最大6人で遺跡からオブジェクトを物理演算で慎重に回収する協力ホラー。Lethal Companyの系譜にある「笑える系Co-opホラー」を、繊細な物理運搬という独自軸で再構築した低価格インディー。",
+  "target": "配信・VC前提でワイワイ遊ぶPCゲーマー、Lethal Companyやファズン等の協力ホラー経験者。20-30代の配信視聴層と重なる。"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 185,
+  "title_jp": "リバース：1999",
+  "title_en": "Reverse: 1999",
+  "developer": "Bluepoch",
+  "publisher": "Bluepoch",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "時代設定RPG/カードバトル",
+  "sales_jp": "未公開",
+  "sales_world": "$300M+(推定累計収益)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "20世紀レトロ美術と英語音声、女性向け雰囲気ガチャの新潮流",
+  "slug": "reverse-1999",
+  "file": "data/games/185-reverse-1999.json",
+  "concept": "中国Bluepochによる「20世紀各年代を旅する神秘主義RPG」。アール・デコ調ビジュアルと英語ボイスを軸に、HoYoverse以外の中国ガチャに地歩を築いた雰囲気特化型。",
+  "target": "20-30代、特に女性層とアート・洋画・オカルト趣味を好むサブカル層。HoYoverse以外のガチャを探す層。"
+}

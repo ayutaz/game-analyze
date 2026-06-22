@@ -1,0 +1,26 @@
+{
+  "id": 162,
+  "title_jp": "サイレントヒル f",
+  "title_en": "Silent Hill f",
+  "developer": "Neobards Entertainment",
+  "publisher": "Konami",
+  "year": 2025,
+  "platform": [
+    "PS5",
+    "XSX",
+    "PC"
+  ],
+  "genre": "ホラー",
+  "sales_jp": "57,475(初週PS5)",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "竜騎士07脚本×1960年代日本舞台、シリーズ最速100万本ペース",
+  "slug": "silent-hill-f",
+  "file": "data/games/162-silent-hill-f.json",
+  "concept": "日本の山間集落「戎ヶ丘」を舞台にした和風サイコロジカルホラー。竜騎士07が脚本を担当し、「美の中の恐怖」をテーマに据えた日本産ホラー回帰作で、シリーズ最速で100万本を達成。",
+  "target": "サイレントヒル既存ファンに加え、ひぐらしうみねこ等の竜騎士07作品読者、和風ホラー志向のソロプレイヤー層。"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 147,
+  "title_jp": "ペーパーマリオRPG",
+  "title_en": "Paper Mario: The Thousand-Year Door",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "year": 2024,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "RPG",
+  "sales_jp": "0.5M+",
+  "sales_world": "2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "GC名作リメイク、ファン再評価",
+  "slug": "paper-mario-the-thousand-year-door",
+  "file": "data/games/147-paper-mario-the-thousand-year-door.json",
+  "concept": "2004年GC版の高解像度リメイク。紙の世界観とアクションコマンド戦闘を軸に、章立てで個性的な仲間と港町を巡る王道RPG。",
+  "target": "原作世代の30〜40代と、近年シリーズ未経験の若年層。物語と仲間との掛け合いを楽しむRPGファン。"
+}

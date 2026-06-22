@@ -1,0 +1,27 @@
+{
+  "id": 156,
+  "title_jp": "マーベル・ライバルズ",
+  "title_en": "Marvel Rivals",
+  "developer": "NetEase",
+  "publisher": "NetEase",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "XSX"
+  ],
+  "genre": "ヒーローシューター",
+  "sales_jp": "未公開",
+  "sales_world": "40M+ players / 初月$136M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "マーベルIP×6v6基本無料、OW2離脱層を吸収",
+  "slug": "marvel-rivals",
+  "file": "data/games/156-marvel-rivals.json",
+  "concept": "マーベルヒーロー36体超を操作する6v6基本無料ヒーローシューター。破壊可能地形とチームアップ技で差別化、オーバーウォッチ系の停滞市場をIP力で奪取した。",
+  "target": "MOBA／ヒーローシューター経験者と、マーベル映画ファンの男性中心20-30代。スパイダーマンやアイアンマンを動かす体験目当ての軽度層も含む。"
+}

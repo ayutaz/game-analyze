@@ -1,0 +1,27 @@
+{
+  "id": 139,
+  "title_jp": "オクトパストラベラーII",
+  "title_en": "Octopath Traveler II",
+  "developer": "Acquire / Square Enix",
+  "publisher": "Square Enix",
+  "year": 2023,
+  "platform": [
+    "Switch",
+    "PS5",
+    "PS4",
+    "PC"
+  ],
+  "genre": "HD-2D JRPG",
+  "sales_jp": "未公開",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "HD-2Dの完成度と続編評価、王道JRPG回帰",
+  "slug": "octopath-traveler-ii",
+  "file": "data/games/139-octopath-traveler-ii.json",
+  "concept": "8人の主人公それぞれが独立した物語を持つHD-2D JRPG。前作の評価を受けた続編で、昼夜システムや旅人同士のクロスストーリーで群像劇を強化した、王道JRPGの現代的再構築。",
+  "target": "王道JRPGとドット絵表現を好む30〜40代男性層が中心。前作プレイヤーやFF・ロマサガ系の懐古層に届く。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 117,
+  "title_jp": "Stray",
+  "title_en": "Stray",
+  "developer": "BlueTwelve Studio",
+  "publisher": "Annapurna Interactive",
+  "year": 2022,
+  "platform": [
+    "PS5",
+    "PS4",
+    "PC",
+    "Switch"
+  ],
+  "genre": "アドベンチャー",
+  "sales_jp": "未公開",
+  "sales_world": "7M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "猫主人公の珍しさとSNS映え、配信向きの短尺で話題化",
+  "slug": "stray",
+  "file": "data/games/117-stray.json",
+  "concept": "プレイヤーが野良猫となりサイバーパンクな廃墟都市を探索する三人称視点アドベンチャー。猫の挙動を忠実に再現した操作感と、ディストピアな世界観のビジュアル表現で差別化。",
+  "target": "猫好き層、インディー・アートゲーム志向のプレイヤー、配信視聴者。短時間でクリアできる物語体験を求めるカジュアル層。"
+}

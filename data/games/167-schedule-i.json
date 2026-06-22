@@ -1,0 +1,24 @@
+{
+  "id": 167,
+  "title_jp": "Schedule I",
+  "title_en": "Schedule I",
+  "developer": "TVGS",
+  "publisher": "TVGS",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "経営シム",
+  "sales_jp": "未公開",
+  "sales_world": "8M+ (2025/5)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "配信者連鎖と最大同接40万、ブラックユーモア題材が話題化",
+  "slug": "schedule-i",
+  "file": "data/games/167-schedule-i.json",
+  "concept": "麻薬密造・密売を題材にした犯罪シム。栽培・製造・販路拡大の経営ループに、4人協力マルチとミニゲーム（ブラックジャック等）を組み合わせた個人開発インディー。",
+  "target": "海外配信文化に親しむPCインディー層と、ダークコメディ題材を許容する20-30代男性中心。仲間とワイワイ違法ビジネスを回す協力プレイ志向。"
+}

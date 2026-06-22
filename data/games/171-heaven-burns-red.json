@@ -1,0 +1,26 @@
+{
+  "id": 171,
+  "title_jp": "ヘブンバーンズレッド",
+  "title_en": "Heaven Burns Red",
+  "developer": "WFS / Key",
+  "publisher": "Yostar",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ドラマチックRPG",
+  "sales_jp": "累計500万DL超",
+  "sales_world": "未公開",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "麻枝准復帰作、Key泣きゲー文脈の現代ソシャゲ化",
+  "slug": "heaven-burns-red",
+  "file": "data/games/171-heaven-burns-red.json",
+  "concept": "麻枝准シナリオ×WFS開発のスマホ向けドラマチックRPG。Key伝統の泣きゲー文脈を現代のソシャゲ運営に接続し、章単位の物語消費を主軸に据えた長期運営型ノベルRPG。",
+  "target": "Key作品・麻枝准ファンの20-30代、泣ける物語と長期キャラ運営を両立したい層。"
+}

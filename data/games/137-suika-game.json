@@ -1,0 +1,27 @@
+{
+  "id": 137,
+  "title_jp": "スイカゲーム",
+  "title_en": "Suika Game",
+  "developer": "Aladdin X",
+  "publisher": "Aladdin X",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PC",
+    "iOS",
+    "Android",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "パズル",
+  "sales_jp": "5M+(DL)",
+  "sales_world": "未公開",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "2023年VTuber配信で爆発、Switch eShop 240円の手軽さ",
+  "slug": "suika-game",
+  "file": "data/games/137-suika-game.json",
+  "concept": "果物を落として同種を合体させ最終的にスイカを作る物理落ち物パズル。元はプロジェクタAladdin X付属ミニゲームで、240円のSwitch版が2023年にVTuber配信で再ブレイクし「スイカゲーム系」フォロワーを大量に生んだ。",
+  "target": "全年齢、配信視聴層、低価格カジュアルパズルを隙間時間で遊ぶ非ゲーマー層。"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 149,
+  "title_jp": "DRAGON BALL: Sparking! ZERO",
+  "title_en": "Dragon Ball: Sparking! ZERO",
+  "developer": "Spike Chunsoft",
+  "publisher": "Bandai Namco",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "genre": "対戦アクション",
+  "sales_jp": "約6.4万(初週PS5)",
+  "sales_world": "5.4M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "原作再現と全世代ファンの根強い需要、欧米先導のヒット",
+  "slug": "dragon-ball-sparking-zero",
+  "file": "data/games/149-dragon-ball-sparking-zero.json",
+  "concept": "『スパーキング!』シリーズ17年ぶりの新作。182体超のキャラと原作場面の3D空中戦を高忠実に再現する、IPファン向け対戦アクション。発売24時間で300万本、累計540万本超とDB史上最速。",
+  "target": "DBアニメ／原作世代の30〜40代男性が中核。海外比率約9割で、国内よりも欧米のキャラゲー層・格ゲー副次層に深く刺さる。"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 165,
+  "title_jp": "ドラゴンクエストI＆II HD-2D版",
+  "title_en": "Dragon Quest I & II HD-2D Remake",
+  "developer": "スクエニ / Team Asano",
+  "publisher": "スクエニ",
+  "year": 2025,
+  "platform": [
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox",
+    "XSX",
+    "PC"
+  ],
+  "genre": "RPG",
+  "sales_jp": "未公開",
+  "sales_world": "未公開",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "DQ原点のHD-2D化、III版に続く三部作完結",
+  "slug": "dragon-quest-i-and-ii-hd-2d-remake",
+  "file": "data/games/165-dragon-quest-i-and-ii-hd-2d-remake.json",
+  "concept": "DQIII HD-2D版に続くロト三部作完結編。1986/87年の原典を HD-2D で再構築し、ボリュームを大幅増した「現代基準のリメイク」。IとIIを一本に統合し、ロト伝説の通史として遊ばせる構成。",
+  "target": "40-60代のDQ原典世代の追体験需要と、III HD-2D で入門した若年・新規層。堀井節の王道JRPGを短時間で味わいたい層。"
+}

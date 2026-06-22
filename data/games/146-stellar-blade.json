@@ -1,0 +1,25 @@
+{
+  "id": 146,
+  "title_jp": "ステラーブレイド",
+  "title_en": "Stellar Blade",
+  "developer": "Shift Up",
+  "publisher": "SIE",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "PC"
+  ],
+  "genre": "アクション",
+  "sales_jp": "未公開",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "主人公イヴの造形とPS5独占で話題化、SNS拡散",
+  "slug": "stellar-blade",
+  "file": "data/games/146-stellar-blade.json",
+  "concept": "韓国Shift Up開発の3Dアクション。グラフィック・キャラクター造形と歯応えのある近接戦闘を両立した、ソウルライク要素を含むスタイリッシュアクション。",
+  "target": "PS5所有のアクション好きコア層、20-40代男性中心。ニーアやベヨネッタ系のスタイリッシュ系を好む層。"
+}

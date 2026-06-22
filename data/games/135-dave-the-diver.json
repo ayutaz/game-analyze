@@ -1,0 +1,27 @@
+{
+  "id": 135,
+  "title_jp": "デイヴ・ザ・ダイバー",
+  "title_en": "Dave the Diver",
+  "developer": "MINTROCKET",
+  "publisher": "MINTROCKET",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "潜水+寿司屋経営",
+  "sales_jp": "未公開",
+  "sales_world": "8M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "昼ダイブ夜寿司屋のループ、日本文化リスペクトでSNS拡散",
+  "slug": "dave-the-diver",
+  "file": "data/games/135-dave-the-diver.json",
+  "concept": "昼は海中ダイブで魚を捕り、夜は寿司屋を経営する二層ループ型インディー。アクション・経営・ローグライト要素を短時間サイクルに圧縮し、ジャパニーズカルチャーを誇張表現で再構成した韓国産ハイブリッド。",
+  "target": "20-40代のインディー好き、寿司・日本食文化に親しむ国内外プレイヤー。短時間で区切れる携帯機プレイを好むSwitchユーザー層と相性が良い。"
+}

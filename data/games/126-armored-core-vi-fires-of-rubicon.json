@@ -1,0 +1,26 @@
+{
+  "id": 126,
+  "title_jp": "ARMORED CORE VI FIRES OF RUBICON",
+  "title_en": "Armored Core VI: Fires of Rubicon",
+  "developer": "FromSoftware",
+  "publisher": "Bandai Namco / FromSoftware",
+  "year": 2023,
+  "platform": [
+    "PS5",
+    "PS4",
+    "XSX",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "メカアクション",
+  "sales_jp": "未公開",
+  "sales_world": "2.8M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "フロム待望の新作AC、配信映え高難度ボス戦",
+  "slug": "armored-core-vi-fires-of-rubicon",
+  "file": "data/games/126-armored-core-vi-fires-of-rubicon.json",
+  "concept": "10年ぶりのACシリーズ新作。フロム流の高難度アクションとメカ組み立てのカスタマイズ性を融合し、ソウル系で得た新規層にもメカアクションを再提示した位置付け。",
+  "target": "旧来のACファンに加え、ソウル系経由でフロム作品に入った20-40代男性中心のコアアクション層。機体カスタマイズと反復攻略を好む層。"
+}

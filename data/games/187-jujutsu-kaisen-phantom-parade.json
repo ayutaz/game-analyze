@@ -1,0 +1,25 @@
+{
+  "id": 187,
+  "title_jp": "呪術廻戦 ファントムパレード",
+  "title_en": "Jujutsu Kaisen Phantom Parade",
+  "developer": "Sumzap",
+  "publisher": "Bandai Namco",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG",
+  "sales_jp": "1000万DL突破(2024)",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "アニメ2期と同時期、原作補完シナリオで話題化",
+  "slug": "jujutsu-kaisen-phantom-parade",
+  "file": "data/games/187-jujutsu-kaisen-phantom-parade.json",
+  "concept": "人気漫画『呪術廻戦』のIPコマンドRPG。原作を補完するアニメ調オリジナルストーリーとキャラガチャを軸に、コロプラ系Sumzapが手掛ける王道スマホRPGの設計。",
+  "target": "呪術廻戦の原作・アニメファン層が中心。10〜30代、男女比はやや女性寄り。キャラ収集とストーリー追体験を両立したいライトRPG層。"
+}

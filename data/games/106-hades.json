@@ -1,0 +1,28 @@
+{
+  "id": 106,
+  "title_jp": "Hades",
+  "title_en": "Hades",
+  "developer": "Supergiant Games",
+  "publisher": "Supergiant Games",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "ローグライクアクション",
+  "sales_jp": "未公開",
+  "sales_world": "5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "高評価インディー、Switch版で国内認知拡大",
+  "slug": "hades",
+  "file": "data/games/106-hades.json",
+  "concept": "ギリシャ神話を題材にしたローグライクアクション。死ぬたびに物語が進行する独自構造で、ローグライクと物語進行を融合させた設計が高評価。",
+  "target": "ローグライク好きの中核ゲーマー、アクションと物語の両方を求める20-40代。インディー高評価作を追うコア層。"
+}

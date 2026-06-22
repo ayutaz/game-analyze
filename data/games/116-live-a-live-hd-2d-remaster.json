@@ -1,0 +1,27 @@
+{
+  "id": 116,
+  "title_jp": "ライブアライブ HD-2D版",
+  "title_en": "Live A Live HD-2D Remaster",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "year": 2022,
+  "platform": [
+    "Switch",
+    "PS5",
+    "PS4",
+    "PC"
+  ],
+  "genre": "RPG",
+  "sales_jp": "未公開",
+  "sales_world": "50万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "1994年SFC版カルト名作のHD-2Dリメイク、再評価機運。",
+  "slug": "live-a-live-hd-2d-remaster",
+  "file": "data/games/116-live-a-live-hd-2d-remaster.json",
+  "concept": "原始・幕末・西部・современ・近未来・SFなど7つの時代を別主人公・別ジャンルで描き、最終章で収束する短編オムニバスJRPG。HD-2D表現で原作のシナリオ構造を現代に再提示。",
+  "target": "SFC原作世代の30-40代、HD-2D（オクトパス等）ファン、群像短編・実験的JRPGを好む層。"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 112,
+  "title_jp": "ポケットモンスター ブリリアントダイヤモンド・シャイニングパール",
+  "title_en": "Pokemon Brilliant Diamond / Shining Pearl",
+  "developer": "ILCA",
+  "publisher": "The Pokemon Company / Nintendo",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "RPG",
+  "sales_jp": "2.7M+",
+  "sales_world": "15M+",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "DS版DPの忠実リメイク、原作世代の懐古需要",
+  "slug": "pokemon-brilliant-diamond-shining-pearl",
+  "file": "data/games/112-pokemon-brilliant-diamond-shining-pearl.json",
+  "concept": "2006年DS版『ダイヤモンド・パール』のフルリメイク。等身を抑えたミニチュア風3Dで原作マップとシナリオを再現し、収集と対戦の体験を現行機に移植する保守的リメイク路線。",
+  "target": "DS版を遊んだ20-30代の原作世代と、その子ども世代。シリーズ未経験者よりも「もう一度シンオウを旅したい」既存ファン向け。"
+}

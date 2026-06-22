@@ -1,0 +1,28 @@
+{
+  "id": 164,
+  "title_jp": "Hollow Knight: Silksong",
+  "title_en": "Hollow Knight: Silksong",
+  "developer": "Team Cherry",
+  "publisher": "Team Cherry",
+  "year": 2025,
+  "platform": [
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "XSX",
+    "PC"
+  ],
+  "genre": "メトロイドヴァニア",
+  "sales_jp": "未公開（Steam JP首位）",
+  "sales_world": "7M+(3か月)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "7年越し待望の続編、発売日にストア群がダウン",
+  "slug": "hollow-knight-silksong",
+  "file": "data/games/164-hollow-knight-silksong.json",
+  "concept": "前作1500万本の続編。2300円という低価格で高難度メトロイドヴァニアを徹底し、難易度を下げず鋭さを増す方向で設計。サブスクではなくパッケージ販売中心でも3か月700万本超を記録。",
+  "target": "前作経験者と硬派2Dアクション愛好層。死にゲー耐性のあるコア層、ボス戦と探索の達成感を求めるプレイヤー。"
+}

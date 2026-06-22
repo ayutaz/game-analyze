@@ -1,0 +1,26 @@
+{
+  "id": 188,
+  "title_jp": "ポケモンユナイト",
+  "title_en": "Pokemon UNITE",
+  "developer": "TiMi Studios",
+  "publisher": "The Pokemon Company",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "MOBA",
+  "sales_jp": "未公開",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ポケモンIPで参入障壁を下げたモバイル対応MOBA",
+  "slug": "pokemon-unite",
+  "file": "data/games/188-pokemon-unite.json",
+  "concept": "複雑で参入障壁の高いMOBAジャンルを、ポケモンIPと10分制の短縮ルール、ゴール式得点制でカジュアル化。Switch/スマホのクロスプレイで競技MOBA文化が薄い日本市場に橋を架けた。",
+  "target": "小中学生〜20代のポケモンファン層、およびLoL/Dota未経験のMOBA初心者。モバイル中心のライト対戦層。"
+}

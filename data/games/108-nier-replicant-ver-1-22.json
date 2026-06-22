@@ -1,0 +1,26 @@
+{
+  "id": 108,
+  "title_jp": "ニーア レプリカント ver.1.22474487139...",
+  "title_en": "NieR Replicant ver.1.22474487139...",
+  "developer": "Toylogic",
+  "publisher": "スクエニ",
+  "year": 2021,
+  "platform": [
+    "PS4",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "未公開",
+  "sales_world": "100万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "オートマタ人気を背景に原点が再評価。",
+  "slug": "nier-replicant-ver-1-22",
+  "file": "data/games/108-nier-replicant-ver-1-22.json",
+  "concept": "2010年『NieR Replicant』のフルリメイク版、戦闘システムと演出を現代水準に刷新しつつ複数エンディングで「物語の本質」を見せるヨコオタロウ作品の原点。",
+  "target": "20-40代、オートマタから入ったヨコオ作品ファン、原作未プレイの新規層と原作プレイ済の再体験層。"
+}

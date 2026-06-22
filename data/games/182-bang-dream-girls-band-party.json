@@ -1,0 +1,25 @@
+{
+  "id": 182,
+  "title_jp": "BanG Dream! ガールズバンドパーティ!",
+  "title_en": "BanG Dream! Girls Band Party!",
+  "developer": "Craft Egg",
+  "publisher": "Bushiroad",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズム/育成",
+  "sales_jp": "DL 1900万(国内)",
+  "sales_world": "累計売上 $500M+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "声優実演バンドの相乗効果、カバー楽曲の豊富さ",
+  "slug": "bang-dream-girls-band-party",
+  "file": "data/games/182-bang-dream-girls-band-party.json",
+  "concept": "バンドリ!IPのリズムゲーム化。実在声優バンドとの連動でアニメ・ライブ・ゲームのメディアミックスを循環させ、楽曲カバー（アニメ・ボカロ・J-POP）の幅広さで間口を確保。",
+  "target": "10-30代の女性中心、アニメ・声優ファンとリズムゲーム愛好層。カバー曲目当ての一般音楽ファンも取り込む。"
+}

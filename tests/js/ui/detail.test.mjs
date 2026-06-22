@@ -258,8 +258,10 @@ describe('detail.html — analysis placeholder', () => {
 // --- not-found branches ------------------------------------------------
 
 describe('detail.html — not-found branches', () => {
+  // ID #56 used to be a hole (Project Sekai duplicate) and was tested as
+  // not-found; the 2026-06 expansion filled it with 桃太郎電鉄. The remaining
+  // cases exercise IDs that legitimately have no corresponding game.
   const cases = [
-    ['?id=56', 'id_56_shows_friendly_not_found_state'],
     ['?id=99999', 'id_99999_also_shows_not_found'],
     ['?id=0', 'id_zero_shows_not_found'],
     ['?id=-1', 'id_negative_shows_not_found'],

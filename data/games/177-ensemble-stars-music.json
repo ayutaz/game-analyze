@@ -1,0 +1,25 @@
+{
+  "id": 177,
+  "title_jp": "あんさんぶるスターズ!! Music",
+  "title_en": "Ensemble Stars!! Music",
+  "developer": "Happy Elements",
+  "publisher": "Happy Elements",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドル育成リズム",
+  "sales_jp": "DL 1000万+",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "男性声優アイドルIPの代表格、3D MVと楽曲量で女性層を獲得",
+  "slug": "ensemble-stars-music",
+  "file": "data/games/177-ensemble-stars-music.json",
+  "concept": "あんさんぶるスターズ!のIPを継承したリズムゲーム派生作。男性アイドル40+人のカード収集・育成と3D MV鑑賞、楽曲リズムプレイを軸に、Basicから派生したリッチ版として並走運営。",
+  "target": "10〜30代女性、男性アイドル／声優ファン。原作あんスタからの継続層と、3D MV・楽曲目当ての新規層。"
+}

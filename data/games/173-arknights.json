@@ -1,0 +1,26 @@
+{
+  "id": 173,
+  "title_jp": "アークナイツ",
+  "title_en": "Arknights",
+  "developer": "Hypergryph",
+  "publisher": "Yostar",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "タワーディフェンスRPG",
+  "sales_jp": "未公開",
+  "sales_world": "$2B+ revenue",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "硬派なTD設計と高品質キャラ造形、Yostar運営の安定感",
+  "slug": "arknights",
+  "file": "data/games/173-arknights.json",
+  "concept": "タワーディフェンスにキャラ収集ガチャを融合させたディストピアSF。配置とスキル運用の戦術性を主軸に、低レアでも編成で攻略可能な設計でガチャゲーの中でも硬派路線を確立。",
+  "target": "中国・日本のオタク層、特にダークな世界観とキャラデザインを好む20-30代。タワーディフェンスや戦術考察を楽しめる層に支持される。"
+}

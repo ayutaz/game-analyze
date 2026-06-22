@@ -1,0 +1,24 @@
+{
+  "id": 101,
+  "title_jp": "桃太郎電鉄ワールド 〜地球は希望でまわってる！〜",
+  "title_en": "Momotaro Dentetsu World",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 2023,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "ボードゲーム/パーティ",
+  "sales_jp": "2.5M+",
+  "sales_world": "2.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "国民的すごろくの世界版、年末年始の家族需要",
+  "slug": "momotaro-dentetsu-world",
+  "file": "data/games/101-momotaro-dentetsu-world.json",
+  "concept": "日本縛りだった「桃鉄」の舞台を全世界へ拡張したすごろく型ボードゲーム。物件購入と資産競争に貧乏神の足引っ張り合いを混ぜ、長時間の卓上戦争を笑いに変える定番フォーマット。",
+  "target": "家族・友人で集まって遊ぶ全世代層、特に年末年始のリビング需要。前作『令和』からの継続層と、地理学習教材として親が買い与える小中学生層。"
+}

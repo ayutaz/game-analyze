@@ -1,0 +1,26 @@
+{
+  "id": 184,
+  "title_jp": "アイドルマスター シャイニーカラーズ",
+  "title_en": "The Idolmaster Shiny Colors",
+  "developer": "BNE",
+  "publisher": "Bandai Namco",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "ブラウザ"
+  ],
+  "genre": "アイドル育成",
+  "sales_jp": "未公開",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "ブラウザ展開とシナリオ評価でアイマス新世代支持",
+  "slug": "the-idolmaster-shiny-colors",
+  "file": "data/games/184-the-idolmaster-shiny-colors.json",
+  "concept": "アイマス系列の新ブランドで、enza基盤のブラウザゲームとして展開。プロデュース（育成）ループとアイドル個別シナリオの読み物性を重視し、ガチャ収益とテキスト消費を両立させた設計。",
+  "target": "アイマスシリーズの既存ファン層に加え、20-30代の男性プロデューサー層が中心。シナリオ読解とキャラ育成をじっくり楽しむ重課金/中課金プレイヤー。"
+}

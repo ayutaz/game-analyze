@@ -1,0 +1,26 @@
+{
+  "id": 175,
+  "title_jp": "Identity V 第五人格",
+  "title_en": "Identity V",
+  "developer": "NetEase",
+  "publisher": "NetEase",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "非対称対戦サバイバルホラー",
+  "sales_jp": "DL 1000万超(JP累計)",
+  "sales_world": "DL 1.5億+(世界累計)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非対称",
+  "popularity": "非対称対戦のモバイル定番化、女性層のキャラ・二次創作人気",
+  "slug": "identity-v",
+  "file": "data/games/175-identity-v.json",
+  "concept": "1対4の非対称対戦サバイバル。ハンター1人がサバイバー4人を捕獲する『Dead by Daylight』型ループをモバイル最適化し、ゴシック・人形劇調の世界観とキャラ性で差別化。",
+  "target": "10-20代を中心に女性比率が高い。キャラ造形・衣装スキン・実況/二次創作カルチャーに親和性のあるモバイル対戦層。"
+}

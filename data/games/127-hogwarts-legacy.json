@@ -1,0 +1,29 @@
+{
+  "id": 127,
+  "title_jp": "ホグワーツ・レガシー",
+  "title_en": "Hogwarts Legacy",
+  "developer": "Avalanche Software",
+  "publisher": "Warner Bros. Games",
+  "year": 2023,
+  "platform": [
+    "PS5",
+    "PS4",
+    "XSX",
+    "Switch",
+    "PC"
+  ],
+  "genre": "オープンワールドアクションRPG",
+  "sales_jp": "未公開",
+  "sales_world": "30M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ハリポタ世界を歩ける夢、配信実況で大バズり",
+  "slug": "hogwarts-legacy",
+  "file": "data/games/127-hogwarts-legacy.json",
+  "concept": "原作映画/小説の魔法学校世界を1:1で再現したオープンワールドARPG。プレイヤーが自分のキャラクターとして入学し、呪文・魔法生物・ダンジョン探索を体験。IP×AAA級オープンワールドの王道設計。",
+  "target": "原作ハリポタファンの20-40代、洋ゲーオープンワールド愛好層。シングルプレイでじっくり世界観に浸りたい層。"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 172,
+  "title_jp": "勝利の女神：NIKKE",
+  "title_en": "Goddess of Victory: NIKKE",
+  "developer": "Shift Up",
+  "publisher": "Level Infinite",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ガンガールRPG/TPS",
+  "sales_jp": "$700M+(累計推定)",
+  "sales_world": "$1B+(累計収益)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "美少女キャラ造形とSNS拡散、日本がトップ売上市場",
+  "slug": "goddess-of-victory-nikke",
+  "file": "data/games/172-goddess-of-victory-nikke.json",
+  "concept": "縦持ちカバーシューティングと美少女キャラガチャを融合したサードパーソンシューター。Shift Upの作画力でビジュアル訴求を最大化し、重厚なポストアポカリプス物語を併走させる設計。",
+  "target": "20-30代男性中心、美少女ガチャゲー経験者と韓国系ハイクオリティ作画を好む層。物語とキャラ収集の両方を求めるソロプレイヤー。"
+}

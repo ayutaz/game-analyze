@@ -1,0 +1,25 @@
+{
+  "id": 197,
+  "title_jp": "オクトパストラベラー 大陸の覇者",
+  "title_en": "Octopath Traveler: Champions of the Continent",
+  "developer": "Acquire",
+  "publisher": "Square Enix",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG/ガチャ",
+  "sales_jp": "配信1週で500万DL（国内中心）",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "HD-2Dの携帯化、章ごとシナリオ",
+  "slug": "octopath-traveler-champions-of-the-continent",
+  "file": "data/games/197-octopath-traveler-champions-of-the-continent.json",
+  "concept": "本編「オクトパストラベラー」のHD-2D表現と章立てシナリオ構造を、モバイルのガチャ×コマンドRPGへ移植した前日譚。8人の旅人に代えてキャラ召喚で物語を集める。",
+  "target": "20-40代、原作ファンとSFC〜PS世代のJRPG経験者。コマンド戦闘とテキスト主体の章クエストを通勤・空き時間に消費する層。"
+}

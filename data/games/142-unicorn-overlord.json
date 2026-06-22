@@ -1,0 +1,28 @@
+{
+  "id": 142,
+  "title_jp": "ユニコーンオーバーロード",
+  "title_en": "Unicorn Overlord",
+  "developer": "Vanillaware",
+  "publisher": "Atlus / Sega",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "74K(初週)",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ヴァニラウェアの美麗2D、編成自動戦闘の新鮮さ",
+  "slug": "unicorn-overlord",
+  "file": "data/games/142-unicorn-overlord.json",
+  "concept": "ヴァニラウェア流の手描き2Dで描く中世風シミュレーションRPG。事前に編成・作戦を組んだ部隊が自動で戦う「準備の妙」を主軸に据え、オウガバトル系の系譜をモダンに再構築した。",
+  "target": "FE・タクティクスオウガ等のSRPG愛好家、ヴァニラウェア作品の既存ファン、編成最適化を楽しむ30代以上のソロプレイヤー。"
+}

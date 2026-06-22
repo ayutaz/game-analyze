@@ -1,0 +1,22 @@
+{
+  "id": 136,
+  "title_jp": "Lethal Company",
+  "title_en": "Lethal Company",
+  "developer": "Zeekerss",
+  "publisher": "Zeekerss",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "協力ホラー",
+  "sales_jp": "未公開",
+  "sales_world": "11M+ (Steam推定)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "VTuber・配信者の同時実況が爆発、同接24万人到達",
+  "slug": "lethal-company",
+  "file": "data/games/136-lethal-company.json",
+  "concept": "最大4人で廃墟の月にスクラップ回収に向かう一人称協力ホラー、近接ボイスチャットの距離減衰で叫び声と無線連絡が体験の中心になる。個人開発のアーリーアクセス作品が口コミだけで急成長した代表例。",
+  "target": "10-30代、友人とのボイス通話プレイ層、VTuber・実況視聴文化に親しむ層。"
+}

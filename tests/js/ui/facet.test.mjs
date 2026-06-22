@@ -8,9 +8,9 @@
 //     search input, reset, active-class toggling)
 //   * the recently-fixed "label-click double-toggle" regression — clicking on
 //     the .filter-row (the <label>) must NOT flip the checkbox twice and must
-//     reduce the visible card count to 55 when EXP is toggled.
+//     reduce the visible card count to 105 when EXP is toggled.
 //
-// All expected counts (99 total, EXP 55 / NAR 23 / REW 21, etc.) are derived
+// All expected counts (200 total, EXP 105 / NAR 48 / REW 47, etc.) are derived
 // from data/index.json at test time so the tests stay correct if the catalog
 // grows or shrinks.
 
@@ -86,17 +86,17 @@ describe('facet.html — initial render', () => {
   it('topbar_rendered', () => {
     const link = win.document.querySelector('#topbar h1 a');
     assert.ok(link, '#topbar should contain a heading link');
-    assert.equal(link.textContent.trim(), '日本のゲーム99本 分析カタログ');
+    assert.equal(link.textContent.trim(), '日本のゲーム200本 分析カタログ');
   });
 
-  it('renders_99_cards_initially', () => {
-    assert.equal(cards(win).length, 99);
+  it('renders_200_cards_initially', () => {
+    assert.equal(cards(win).length, 200);
   });
 
-  it('result_count_text_matches_99_over_99', () => {
+  it('result_count_text_matches_200_over_200', () => {
     assert.equal(
       win.document.getElementById('result-count').textContent,
-      '99 / 99 件',
+      '200 / 200 件',
     );
   });
 
@@ -105,12 +105,12 @@ describe('facet.html — initial render', () => {
     assert.equal(rows.length, 3);
   });
 
-  it('primary_filter_counts_show_55_23_21', () => {
+  it('primary_filter_counts_show_105_48_47', () => {
     // Render order is EXP / NAR / REW per facet.html
     const counts = Array.from(
       win.document.querySelectorAll('#filter-primary .count'),
     ).map((n) => Number(n.textContent));
-    assert.deepEqual(counts, [55, 23, 21]);
+    assert.deepEqual(counts, [105, 48, 47]);
   });
 
   it('axis_filter_section_has_six_rows', () => {
@@ -181,20 +181,22 @@ describe('facet.html — initial render', () => {
 
   it('every_card_has_link_to_detail', () => {
     const links = win.document.querySelectorAll('#grid .card-link');
-    assert.equal(links.length, 99);
+    assert.equal(links.length, 200);
     for (const a of links) {
       const href = a.getAttribute('href');
       assert.match(href, /detail\.html\?id=\d+/);
     }
   });
 
-  it('missing_id_56_not_present_in_grid', () => {
+  it('id_56_is_present_after_2020_expansion', () => {
+    // Slot #56 was previously skipped (Project Sekai duplicate) but the
+    // 2026-06 expansion filled it with 桃太郎電鉄. Confirm a link exists.
     const hrefs = Array.from(
       win.document.querySelectorAll('#grid .card-link'),
     ).map((a) => a.getAttribute('href'));
     assert.ok(
-      hrefs.every((h) => !/[?&]id=56(\b|$)/.test(h)),
-      'no card should link to id=56',
+      hrefs.some((h) => /[?&]id=56(\b|$)/.test(h)),
+      'a card should link to id=56',
     );
   });
 });
@@ -204,11 +206,11 @@ describe('facet.html — initial render', () => {
 describe('facet.html — filter interactions', () => {
   // Each test boots a fresh page so state is isolated.
 
-  it('exp_label_click_filters_to_55_cards_REGRESSION', async () => {
+  it('exp_label_click_filters_to_105_cards_REGRESSION', async () => {
     // REGRESSION for the label-click double-toggle bug. Clicking on the
     // .filter-row (which IS the <label>) must flip the checkbox exactly once,
     // dispatching a single change event, leaving EXP checked and #grid
-    // showing 55 cards. The previous buggy state had the click propagating
+    // showing 105 cards. The previous buggy state had the click propagating
     // through label->input click twice, leaving the box unchecked and the
     // filter inactive.
     const dom = await bootFacet();
@@ -222,16 +224,16 @@ describe('facet.html — filter interactions', () => {
       await tick(win, 30);
 
       assert.equal(cb.checked, true, 'after label click, checkbox must be checked');
-      assert.equal(cards(win).length, 55, 'EXP filter should reveal 55 cards');
+      assert.equal(cards(win).length, 105, 'EXP filter should reveal 105 cards');
       assert.ok(row.classList.contains('active'), 'filter-row should be .active');
     } finally {
       dom.window.close();
     }
   });
 
-  it('exp_label_click_unchecks_and_restores_99', async () => {
+  it('exp_label_click_unchecks_and_restores_200', async () => {
     // Second half of the regression: a second label click must un-check the
-    // checkbox and restore all 99 cards.
+    // checkbox and restore all 200 cards.
     const dom = await bootFacet();
     const win = dom.window;
     try {
@@ -240,19 +242,19 @@ describe('facet.html — filter interactions', () => {
 
       row.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 55);
+      assert.equal(cards(win).length, 105);
 
       row.click();
       await tick(win, 20);
       assert.equal(cb.checked, false);
-      assert.equal(cards(win).length, 99);
+      assert.equal(cards(win).length, 200);
       assert.ok(!row.classList.contains('active'));
     } finally {
       dom.window.close();
     }
   });
 
-  it('exp_checkbox_via_input_change_filters_to_55', async () => {
+  it('exp_checkbox_via_input_change_filters_to_105', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
@@ -261,49 +263,49 @@ describe('facet.html — filter interactions', () => {
       cb.checked = true;
       cb.dispatchEvent(new win.Event('change', { bubbles: true }));
       await tick(win, 20);
-      assert.equal(cards(win).length, 55);
+      assert.equal(cards(win).length, 105);
     } finally {
       dom.window.close();
     }
   });
 
-  it('nar_checkbox_filters_to_23_cards', async () => {
+  it('nar_checkbox_filters_to_48_cards', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
       const cb = filterRow(win, 'primary', 'NAR').querySelector('input');
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 23);
+      assert.equal(cards(win).length, 48);
     } finally {
       dom.window.close();
     }
   });
 
-  it('rew_checkbox_filters_to_21_cards', async () => {
+  it('rew_checkbox_filters_to_47_cards', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
       const cb = filterRow(win, 'primary', 'REW').querySelector('input');
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 21);
+      assert.equal(cards(win).length, 47);
     } finally {
       dom.window.close();
     }
   });
 
-  it('unchecking_restores_99', async () => {
+  it('unchecking_restores_200', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
       const cb = filterRow(win, 'primary', 'EXP').querySelector('input');
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 55);
+      assert.equal(cards(win).length, 105);
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 99);
+      assert.equal(cards(win).length, 200);
     } finally {
       dom.window.close();
     }
@@ -316,8 +318,8 @@ describe('facet.html — filter interactions', () => {
       filterRow(win, 'primary', 'EXP').querySelector('input').click();
       filterRow(win, 'primary', 'REW').querySelector('input').click();
       await tick(win, 20);
-      // Set.has across primary acts as OR within the facet -> 55 + 21 = 76
-      assert.equal(cards(win).length, 76);
+      // Set.has across primary acts as OR within the facet -> 105 + 47 = 152
+      assert.equal(cards(win).length, 152);
     } finally {
       dom.window.close();
     }
@@ -431,7 +433,7 @@ describe('facet.html — filter interactions', () => {
       assert.equal(cards(win).length, 0);
       assert.equal(
         win.document.getElementById('result-count').textContent,
-        '0 / 99 件',
+        '0 / 200 件',
       );
     } finally {
       dom.window.close();
@@ -470,7 +472,7 @@ describe('facet.html — filter interactions', () => {
       await tick(win, 20);
       assert.equal(
         win.document.getElementById('result-count').textContent,
-        '23 / 99 件',
+        '48 / 200 件',
       );
       const s = win.document.getElementById('search');
       s.value = 'zzzznevermatching';
@@ -478,7 +480,7 @@ describe('facet.html — filter interactions', () => {
       await tick(win, 20);
       assert.equal(
         win.document.getElementById('result-count').textContent,
-        '0 / 99 件',
+        '0 / 200 件',
       );
     } finally {
       dom.window.close();
@@ -538,7 +540,7 @@ describe('facet.html — filter interactions', () => {
       assert.equal(checked.length, 0);
       const active = win.document.querySelectorAll('.filter-row.active');
       assert.equal(active.length, 0);
-      assert.equal(cards(win).length, 99);
+      assert.equal(cards(win).length, 200);
     } finally {
       dom.window.close();
     }
@@ -553,13 +555,13 @@ describe('facet.html — filter interactions', () => {
       filterRow(win, 'primary', 'EXP').querySelector('input').click();
       filterRow(win, 'primary', 'REW').querySelector('input').click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 76);
+      assert.equal(cards(win).length, 152);
       win.document.getElementById('reset').click();
       await tick(win, 20);
-      // Now check only NAR — must show exactly 23, not 23 + leftover.
+      // Now check only NAR — must show exactly 48, not 48 + leftover.
       filterRow(win, 'primary', 'NAR').querySelector('input').click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 23);
+      assert.equal(cards(win).length, 48);
     } finally {
       dom.window.close();
     }

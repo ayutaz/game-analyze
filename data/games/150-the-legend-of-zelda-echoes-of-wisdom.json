@@ -1,0 +1,24 @@
+{
+  "id": 150,
+  "title_jp": "ゼルダの伝説 知恵のかりもの",
+  "title_en": "The Legend of Zelda: Echoes of Wisdom",
+  "developer": "GREZZO / 任天堂",
+  "publisher": "任天堂",
+  "year": 2024,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "未公開",
+  "sales_world": "3.91M(2025/3)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "初の主役ゼルダ姫、見下ろし型回帰",
+  "slug": "the-legend-of-zelda-echoes-of-wisdom",
+  "file": "data/games/150-the-legend-of-zelda-echoes-of-wisdom.json",
+  "concept": "敵やオブジェクトを「カリモノ（エコー）」として複製・配置し攻略するパズルアクション。剣を持たないゼルダ姫が主役の初作品で、見下ろし型2D系譜のリブート。",
+  "target": "夢をみる島リメイクや神トラ世代の任天堂ファン、見下ろし型ゼルダ志向層。BotW以降の物理パズル系プレイヤーにも訴求。"
+}

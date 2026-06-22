@@ -1,0 +1,25 @@
+{
+  "id": 196,
+  "title_jp": "#コンパス",
+  "title_en": "#Compass: Combat Providence Analysis",
+  "developer": "NHN PlayArt / Dwango",
+  "publisher": "NHN PlayArt",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "3on3リアルタイムバトル",
+  "sales_jp": "25M+ DL",
+  "sales_world": "未公開（国内中心）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ニコニコ系IPコラボと3分対戦の手軽さ",
+  "slug": "compass-combat-providence-analysis",
+  "file": "data/games/196-compass-combat-providence-analysis.json",
+  "concept": "ニコニコ動画／ボカロ／アニメ系IPの「ヒーロー」をプレイアブル化し、片手で遊べる3on3陣取り対戦に落とし込んだモバイルMOBA。短時間マッチとガチャ収集を両輪に、リアルイベント／TVアニメ／楽曲展開でファン文化に接続。",
+  "target": "10〜20代、ニコニコ動画・ボカロ・深夜アニメ文化に親しんだ層。手軽な対戦を求めつつ、推しヒーロー／コラボ楽曲の収集にも反応するモバイル中心ユーザー。"
+}

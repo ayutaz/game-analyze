@@ -1,0 +1,22 @@
+{
+  "id": 158,
+  "title_jp": "ドンキーコング バナンザ",
+  "title_en": "Donkey Kong Bananza",
+  "developer": "Nintendo EPD",
+  "publisher": "任天堂",
+  "year": 2025,
+  "platform": [
+    "Switch 2"
+  ],
+  "genre": "3Dアクション",
+  "sales_jp": "12.8万(初週)",
+  "sales_world": "4.52M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Switch2のキラータイトル、破壊で再発明",
+  "slug": "donkey-kong-bananza",
+  "file": "data/games/158-donkey-kong-bananza.json",
+  "concept": "地形をすべて破壊して掘り進む3Dアクション。マリオオデッセイ班による3Dマリオの文法を継承しつつ、「壊す」を中核動詞に据えて地下世界を縦に探索する新基準を提示。",
+  "target": "Switch2ローンチ期の全年齢層、特に3Dマリオ／ドンキー伝統ファンと、破壊系サンドボックスの自由度を好む10-30代。"
+}

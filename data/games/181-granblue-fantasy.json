@@ -1,0 +1,26 @@
+{
+  "id": 181,
+  "title_jp": "グランブルーファンタジー",
+  "title_en": "Granblue Fantasy",
+  "developer": "Cygames",
+  "publisher": "Cygames",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "ブラウザ"
+  ],
+  "genre": "RPG",
+  "sales_jp": "3,000万DL(国内中心)",
+  "sales_world": "累計売上 数千億円規模",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "王道ファンタジー世界観と豪華スタッフ、長期運営による定着",
+  "slug": "granblue-fantasy",
+  "file": "data/games/181-granblue-fantasy.json",
+  "concept": "王道ファンタジーRPGをブラウザ／スマホで展開する長期運営型ガチャゲーム。植松伸夫の音楽と皆葉英夫のキャラデザで「JRPGの正統」を志向し、古戦場・サイドストーリー等で多層的なやり込みを提供。",
+  "target": "JRPG経験のある20-40代男性中心。長時間プレイ前提のガチャ収集・装備育成を厭わないコアユーザー層。"
+}

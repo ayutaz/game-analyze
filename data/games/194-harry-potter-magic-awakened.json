@@ -1,0 +1,26 @@
+{
+  "id": 194,
+  "title_jp": "ハリーポッター 魔法の覚醒",
+  "title_en": "Harry Potter Magic Awakened",
+  "developer": "NetEase",
+  "publisher": "NetEase / Warner",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "カードバトルRPG",
+  "sales_jp": "未公開",
+  "sales_world": "$500M+ (初年度推定)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "原作ファン層の取り込みと学園生活演出の評価",
+  "slug": "harry-potter-magic-awakened",
+  "file": "data/games/194-harry-potter-magic-awakened.json",
+  "concept": "ハリポタIPを使ったカードバトルRPG。学園生活シミュレーションと対戦要素を組み合わせ、ガチャと収集による報酬ループを軸に据える。中国NetEase制作のグローバル展開タイトル。",
+  "target": "ハリーポッター原作読者層、20-40代男女。IP愛着で課金可能なライト〜ミドル層、カードゲーム愛好者を含む。"
+}

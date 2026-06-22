@@ -1,0 +1,26 @@
+{
+  "id": 180,
+  "title_jp": "プリンセスコネクト!Re:Dive",
+  "title_en": "Princess Connect Re:Dive",
+  "developer": "Cygames",
+  "publisher": "Cygames",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "育成RPG",
+  "sales_jp": "累計DL 1,500万(国内・公式)",
+  "sales_world": "推定累計収益 $1B+(国内+中国版)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "声優陣とアニメ演出、クラバトの協力ループで定着。",
+  "slug": "princess-connect-redive",
+  "file": "data/games/180-princess-connect-redive.json",
+  "concept": "アニメ調キャラ育成RPG。フルボイス・豪華キャストとアニメ品質のイベント演出を武器に、緩いオート戦闘＋ギルド「クラン」協力ボス戦で日課ループを設計。物語と収集を両立した王道ガチャ運営型。",
+  "target": "アニメ・声優コンテンツ好きの男性中心、20-30代。クラン参加で日課を回せる中重度プレイヤー層。"
+}

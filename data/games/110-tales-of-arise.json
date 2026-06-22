@@ -1,0 +1,27 @@
+{
+  "id": 110,
+  "title_jp": "テイルズ オブ アライズ",
+  "title_en": "Tales of Arise",
+  "developer": "Bandai Namco Studios",
+  "publisher": "Bandai Namco",
+  "year": 2021,
+  "platform": [
+    "PS4",
+    "PS5",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "未公開",
+  "sales_world": "3M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ最高売上、海外評価で再注目",
+  "slug": "tales-of-arise",
+  "file": "data/games/110-tales-of-arise.json",
+  "concept": "シリーズ最新作として欧米市場も意識したフォトリアル寄りビジュアルへ刷新。仲間との絆を描く王道JRPG構造を維持しつつ、リニアアクション戦闘とオープンフィールド探索を強化した。",
+  "target": "テイルズシリーズの既存ファン層（20-40代）と、王道JRPGの物語と仲間描写を求めるアクションRPGプレイヤー。"
+}

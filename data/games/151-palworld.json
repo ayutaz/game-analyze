@@ -1,0 +1,27 @@
+{
+  "id": 151,
+  "title_jp": "パルワールド",
+  "title_en": "Palworld",
+  "developer": "Pocketpair",
+  "publisher": "Pocketpair",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Xbox",
+    "XSX",
+    "PS5"
+  ],
+  "genre": "オープンワールドサバイバル",
+  "sales_jp": "未公開",
+  "sales_world": "25M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "「ポケモン+銃+サバイバル」配信爆発",
+  "slug": "palworld",
+  "file": "data/games/151-palworld.json",
+  "concept": "モンスター収集（パル）、銃撃サバイバル、クラフト、自動化労働を一つの世界に統合し、既存IPの安全圏を踏み越える「禁忌の組合せ」で話題化したオープンワールド。最大4人協力でパルを使役して建築・戦闘・生産を回す。",
+  "target": "10-30代のPC/Xboxユーザー、ARK・Rust等サバイバル経験者、Pokémonに既視感を持ちつつ「踏み越えた」遊びを求める層。配信視聴・友達誘致の入り口として機能。"
+}

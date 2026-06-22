@@ -1,0 +1,24 @@
+{
+  "id": 178,
+  "title_jp": "ヒプノシスマイク-Alternative Rap Battle-",
+  "title_en": "Hypnosis Mic: Alternative Rap Battle",
+  "developer": "イデア・レコード",
+  "publisher": "アイディアファクトリー",
+  "year": 2020,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "リズム/育成",
+  "sales_jp": "500万DL+",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "ラップ×イケメン男性キャラのIPブーム",
+  "slug": "hypnosis-mic-alternative-rap-battle",
+  "file": "data/games/178-hypnosis-mic-alternative-rap-battle.json",
+  "concept": "男性声優ユニットによるラップバトル・メディアミックスのスマホ向けリズムゲーム。原作CD/ライブ/アニメと連動し、楽曲消費とキャラ育成ガチャを橋渡しする位置づけ。",
+  "target": "10-30代女性中心、原作CD・声優ライブのファン層。キャラクター推し活と楽曲視聴を起点に流入。"
+}

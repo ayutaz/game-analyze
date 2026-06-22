@@ -1,0 +1,26 @@
+{
+  "id": 109,
+  "title_jp": "モンスターハンターストーリーズ2 〜破滅の翼〜",
+  "title_en": "Monster Hunter Stories 2: Wings of Ruin",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "モンスター育成RPG",
+  "sales_jp": "未公開",
+  "sales_world": "2.0M+",
+  "primary": "NAR",
+  "secondary": [
+    "REW",
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "モンハンIPのRPG派生、子供・初心者層へ訴求",
+  "slug": "monster-hunter-stories-2-wings-of-ruin",
+  "file": "data/games/109-monster-hunter-stories-2-wings-of-ruin.json",
+  "concept": "モンハン世界観をターン制コマンドRPGに翻案。ライダーとして卵を孵化させオトモンを育成、絆遺伝子で個性を継承。本編アクションが苦手な層に物語と収集で訴求する派生軸。",
+  "target": "モンハン本編のアクションが苦手な層、ポケモン的な収集育成RPGを好む小中学生〜ライト層、IPファン。"
+}

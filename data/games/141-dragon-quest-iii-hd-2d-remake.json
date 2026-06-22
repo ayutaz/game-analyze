@@ -1,0 +1,29 @@
+{
+  "id": 141,
+  "title_jp": "ドラゴンクエストIII そして伝説へ… HD-2D版",
+  "title_en": "Dragon Quest III HD-2D Remake",
+  "developer": "Square Enix / Artepiazza",
+  "publisher": "Square Enix",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "PC"
+  ],
+  "genre": "RPG",
+  "sales_jp": "未公開",
+  "sales_world": "2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "国民的RPGの原典をHD-2Dで再演、世代間で話題化。",
+  "slug": "dragon-quest-iii-hd-2d-remake",
+  "file": "data/games/141-dragon-quest-iii-hd-2d-remake.json",
+  "concept": "1988年の名作RPGをHD-2D技術で再構築。ドット絵の温かみと現代的なライティング・エフェクトを融合し、シナリオ・職業システムを微調整した正統リメイク。",
+  "target": "FC・SFC版で遊んだ30-50代の懐古層と、HD-2D『オクトパストラベラー』系列のファン。シリーズ未経験の若年層への入口にも。"
+}

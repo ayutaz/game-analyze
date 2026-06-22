@@ -1,0 +1,27 @@
+{
+  "id": 190,
+  "title_jp": "アナザーエデン",
+  "title_en": "Another Eden",
+  "developer": "Wright Flyer Studios",
+  "publisher": "WFS",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Switch"
+  ],
+  "genre": "シングルRPG",
+  "sales_jp": "10M DL(2021)",
+  "sales_world": "未公開",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "加藤正人脚本×光田康典音楽、クロノ系譜の物語",
+  "slug": "another-eden",
+  "file": "data/games/190-another-eden.json",
+  "concept": "クロノ・トリガー系譜の加藤正人がシナリオ、光田康典が音楽を担当するソロRPG。スタミナ・PvPを排し、ガチャは存在するが物語消費を主軸に据えた「シングルプレイ前提のスマホRPG」というポジション。",
+  "target": "スーパーファミコン期JRPG（クロノ・トリガー、ゼノギアス）原体験のある30〜40代男性が中心。ソーシャル要素を嫌い物語と世界観を味わいたい層。"
+}

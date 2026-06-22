@@ -1,0 +1,25 @@
+{
+  "id": 169,
+  "title_jp": "学園アイドルマスター",
+  "title_en": "Gakuen Idolmaster",
+  "developer": "QualiArts",
+  "publisher": "Bandai Namco",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドル育成",
+  "sales_jp": "初年度売上200億円超",
+  "sales_world": "未公開",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "高品質3D演出、デッキ構築型育成",
+  "slug": "gakuen-idolmaster",
+  "file": "data/games/169-gakuen-idolmaster.json",
+  "concept": "アイマス新シリーズで、デッキ構築式のローグライク育成をガチャに組み込んだ設計。1回のプロデュースが約1時間で完結し、編成・スキル選択のリプレイ性で従来のアイマスのスタミナ消費型と差別化。",
+  "target": "20-30代男性中心のアイマスファン層に加え、デッキ構築・育成ゲーム経験者を取り込む。ライト層向けにプレイ時間が区切られている。"
+}

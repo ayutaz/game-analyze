@@ -1,0 +1,26 @@
+{
+  "id": 186,
+  "title_jp": "メメントモリ",
+  "title_en": "Memento Mori",
+  "developer": "Bank of Innovation",
+  "publisher": "Bank of Innovation",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "放置系RPG/楽曲ガチャ",
+  "sales_jp": "DL 300万+(国内)",
+  "sales_world": "$180M+(1周年累計)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "著名アーティスト起用の楽曲とイラストで話題化",
+  "slug": "memento-mori",
+  "file": "data/games/186-memento-mori.json",
+  "concept": "放置系RPGに著名ボカロP・アーティストのキャラ別楽曲とイラストを組み合わせた「楽曲ガチャ」型タイトル。低操作負荷のオートバトルと収集要素で、世界観・キャラ消費を主軸に据える。",
+  "target": "放置系・キャラ収集系モバイルゲーム経験のある18-34歳が中心（全体の70%超）。ボカロ・サブカル系音楽ファンや、低拘束で美少女キャラを集めたい層。"
+}

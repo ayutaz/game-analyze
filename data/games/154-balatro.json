@@ -1,0 +1,30 @@
+{
+  "id": 154,
+  "title_jp": "Balatro",
+  "title_en": "Balatro",
+  "developer": "LocalThunk",
+  "publisher": "Playstack",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ローグライト・デッキ構築",
+  "sales_jp": "未公開",
+  "sales_world": "5M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "配信者ハマり報告とSwitch/モバイル展開で口コミ拡大",
+  "slug": "balatro",
+  "file": "data/games/154-balatro.json",
+  "concept": "ポーカー役を組みながらジョーカーで効果を積み増すローグライト・デッキ構築。短いランと膨大なシナジー組合せで「もう1回」を誘発する高中毒設計、個人開発の傑作として2024年GOTY候補。",
+  "target": "ローグライト／デッキ構築好きのコア層、ポーカー知識者、短時間で遊べるソロゲーを求めるPC・携帯機ユーザー。"
+}

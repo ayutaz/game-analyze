@@ -1,0 +1,25 @@
+{
+  "id": 119,
+  "title_jp": "GOD OF WAR Ragnarök",
+  "title_en": "God of War Ragnarok",
+  "developer": "Santa Monica Studio",
+  "publisher": "SIE",
+  "year": 2022,
+  "platform": [
+    "PS5",
+    "PS4"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "35万+",
+  "sales_world": "1500万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "北欧神話×父子の物語、PS5世代の代表作として評価",
+  "slug": "god-of-war-ragnarok",
+  "file": "data/games/119-god-of-war-ragnarok.json",
+  "concept": "北欧神話のラグナロクを背景に、クレイトスとアトレウスの父子関係を映画的に描いた一本道アクションアドベンチャー。重厚な物語演出と斧・槍・剣の手触りで「映画とアクションの融合」を体現する。",
+  "target": "30-40代の海外AAA・シネマティック大作好き、前作(2018)からの継続ファン、PS独占大作を追うコア層。"
+}

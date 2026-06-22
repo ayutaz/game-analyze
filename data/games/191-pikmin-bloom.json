@@ -1,0 +1,25 @@
+{
+  "id": 191,
+  "title_jp": "ピクミン ブルーム",
+  "title_en": "Pikmin Bloom",
+  "developer": "Niantic",
+  "publisher": "Nintendo / Niantic",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "位置情報歩数計",
+  "sales_jp": "DL 86.4万(初2週)",
+  "sales_world": "$100M+ 累計収益",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ピクミン愛と歩数記録、戦わない位置ゲー",
+  "slug": "pikmin-bloom",
+  "file": "data/games/191-pikmin-bloom.json",
+  "concept": "Pokemon GO の Niantic がピクミンIPで作る「戦わない位置情報ゲーム」。歩数で苗を育て花を咲かせる、健康アプリと収集ゲームを融合した穏やかな日常型ループ。",
+  "target": "健康・ウォーキング習慣に関心のある成人層と既存ピクミンファン。対戦が苦手な女性層やライト層も取り込む。"
+}

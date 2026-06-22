@@ -1,0 +1,23 @@
+{
+  "id": 144,
+  "title_jp": "Helldivers 2",
+  "title_en": "Helldivers 2",
+  "developer": "Arrowhead",
+  "publisher": "SIE",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "PC"
+  ],
+  "genre": "協力TPS",
+  "sales_jp": "未公開",
+  "sales_world": "12M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "フレ協力プレイの動画拡散とSIE製の高完成度",
+  "slug": "helldivers-2",
+  "file": "data/games/144-helldivers-2.json",
+  "concept": "4人協力で銀河を「民主主義」の名の下に侵略するTPS。風刺的世界観と高難度の戦場、戦果が全プレイヤー共通の銀河戦争マップに反映されるメタ進行が特徴。",
+  "target": "FPS/TPS経験者の20-40代男性中心。ボイチャや配信で友人と笑える協力プレイを求める層。"
+}

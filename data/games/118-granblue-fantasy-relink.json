@@ -1,0 +1,27 @@
+{
+  "id": 118,
+  "title_jp": "グランブルーファンタジー：リリンク",
+  "title_en": "Granblue Fantasy: Relink",
+  "developer": "Cygames",
+  "publisher": "Cygames",
+  "year": 2024,
+  "platform": [
+    "PS5",
+    "PS4",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "未公開",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "モバイル原作10年越しの家庭用本格ARPG化",
+  "slug": "granblue-fantasy-relink",
+  "file": "data/games/118-granblue-fantasy-relink.json",
+  "concept": "モバイルRPG「グランブルーファンタジー」のキャラ・世界観を家庭用ハイエンドARPGに移植。4人協力のクエスト周回と装備掘りを核に、PSO的な「狩り×報酬ループ」をCygames IPで再構築した一作。",
+  "target": "原作グラブルのプレイヤー層（30代前後男性中心）と、PSO2／モンハン系の協力周回ARPGファン。キャラ愛とハクスラ報酬ループの両方を求める層。"
+}

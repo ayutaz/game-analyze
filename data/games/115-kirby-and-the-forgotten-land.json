@@ -1,0 +1,22 @@
+{
+  "id": 115,
+  "title_jp": "星のカービィ ディスカバリー",
+  "title_en": "Kirby and the Forgotten Land",
+  "developer": "HAL研究所",
+  "publisher": "任天堂",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "3Dアクション",
+  "sales_jp": "2.5M+",
+  "sales_world": "7.95M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "シリーズ初の3D化と二人協力",
+  "slug": "kirby-and-the-forgotten-land",
+  "file": "data/games/115-kirby-and-the-forgotten-land.json",
+  "concept": "シリーズ初の本格3Dアクション化に踏み切り、コピー能力に「ほおばりヘンケイ」を加えて世界そのものを呑み込む発明で再構築。難度を抑えつつ2人協力に対応し、家族・低年齢層を取り込んだ間口の広いアクション。",
+  "target": "小学生から親世代までの家族層、シリーズの旧来ファン、易しめの3Dアクションを協力で遊びたいライト層。"
+}

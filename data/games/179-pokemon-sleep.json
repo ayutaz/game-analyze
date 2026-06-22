@@ -1,0 +1,23 @@
+{
+  "id": 179,
+  "title_jp": "Pokemon Sleep",
+  "title_en": "Pokemon Sleep",
+  "developer": "Select Button",
+  "publisher": "The Pokemon Company",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "睡眠計測/収集",
+  "sales_jp": "DL 1000万+(国内)",
+  "sales_world": "DL 2500万+(世界)",
+  "primary": "REW",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ポケモンIPの異色作、睡眠記録のSNS共有が話題",
+  "slug": "pokemon-sleep",
+  "file": "data/games/179-pokemon-sleep.json",
+  "concept": "睡眠を計測してポケモンを集める「寝ることがゲームプレイ」の異色作。健康トラッキングとIP収集ループを融合し、生活リズム改善とコレクション欲求を同時に満たす。",
+  "target": "健康志向の20-40代、ポケモンファンの社会人層。睡眠改善を口実に毎日触れる習慣型ゲーマー。"
+}

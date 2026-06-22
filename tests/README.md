@@ -1,0 +1,3 @@
+# Tests
+
+This directory holds the test suite for the game-analyze workspace. Python tests (under `tests/python/`) cover the `scripts/` aggregation utilities and data integrity of `data/games/*.json`; JS unit tests (`tests/js/unit/`) exercise pure helpers from `site/shared.js`; JS UI tests (`tests/js/ui/`) load `site/facet.html` and `site/detail.html` under JSDOM via `tests/js/helpers/dom.mjs` (which polyfills `fetch` against the local filesystem). Run everything with `npm test`, or pick a slice: `npm run test:py`, `npm run test:js`, `npm run test:js:unit`, `npm run test:js:ui`. The JS tests require `npm install` to be run once (installs `jsdom`); Python tests use only the standard library and assume `python3` is on PATH.

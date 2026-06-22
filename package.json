@@ -1,0 +1,14 @@
+{
+  "name": "game-analyze-tests",
+  "private": true,
+  "scripts": {
+    "test:js": "node --test 'tests/js/unit/**/*.test.mjs' 'tests/js/ui/**/*.test.mjs'",
+    "test:js:unit": "node --test 'tests/js/unit/**/*.test.mjs'",
+    "test:js:ui": "node --test 'tests/js/ui/**/*.test.mjs'",
+    "test:py": "python3 -m unittest discover -s tests/python -p 'test_*.py' -v",
+    "test": "npm run test:py && npm run test:js"
+  },
+  "devDependencies": {
+    "jsdom": "^25.0.0"
+  }
+}

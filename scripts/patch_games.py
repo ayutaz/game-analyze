@@ -412,10 +412,25 @@ PATCHES = {
 }
 
 
-def main() -> None:
+def main(repo_root=None) -> None:
+    """Apply PATCHES to each data/games/*.json file.
+
+    Parameters
+    ----------
+    repo_root:
+        Optional repository root. When provided, the games directory is
+        resolved as ``<repo_root>/data/games``. Defaults to the module-level
+        ``GAMES_DIR``. This makes the function testable against a temporary
+        copy of the data tree without mutating the real ``data/`` files.
+    """
+    if repo_root is not None:
+        games_dir = Path(repo_root).resolve() / "data" / "games"
+    else:
+        games_dir = GAMES_DIR
+
     n_patched = 0
     missing = []
-    for path in sorted(GAMES_DIR.glob("*.json")):
+    for path in sorted(games_dir.glob("*.json")):
         with path.open(encoding="utf-8") as f:
             game = json.load(f)
         patch = PATCHES.get(game["id"])

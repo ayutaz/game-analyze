@@ -175,7 +175,9 @@
           </label>
         `).join('');
 
-      document.getElementById('filter-platform').innerHTML = [...platCounts.entries()].slice(0, 12).map(([p,n]) => `
+      document.getElementById('filter-platform').innerHTML = [...platCounts.entries()]
+        .sort((a,b) => b[1]-a[1])
+        .slice(0, 12).map(([p,n]) => `
         <label class="filter-row" data-key="platform" data-val="${p}">
           <span><input type="checkbox"> ${p}</span>
           <span class="count">${n}</span>
@@ -204,7 +206,7 @@
     function render(games) {
       const filtered = applyFilters(games);
       document.getElementById('result-count').textContent = `${filtered.length} / ${games.length} 件`;
-      document.getElementById('grid').innerHTML = filtered.map(cardHTML).join('');
+      document.getElementById('grid').innerHTML = filtered.map(g => cardHTML(g)).join('');
     }
 
     (async () => {

@@ -97,3 +97,16 @@
 - 売上・収益データは **2025年末〜2026年6月時点** のスナップショット。Famitsu・Sensor Tower・achikochi-data.com・teitengame.com・frontlinejp.net・mediag.bunka.go.jp・note.com/game_i・4Gamer等を参照。
 - 数値は「パッケージのみ」「DL含む累計」「App Store内のみ」など計測スコープが異なる場合があるため、各セルの注記を参照。
 - 分類は主観的判断を含む。複数該当タイトルは設計意図・プレイヤーの主動機を勘案して主分類を決定した。
+
+---
+
+## テスト
+
+Python と JS の両テストスイートを揃えて実行できます。初回のみ依存をインストールしてください。
+
+```bash
+npm install   # 初回のみ（jsdom などをインストール）
+npm test      # Python + JS のテストを全部実行
+```
+
+push と main への PR では GitHub Actions (`.github/workflows/tests.yml`) が `npm test` を自動実行します。

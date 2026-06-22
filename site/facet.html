@@ -214,10 +214,8 @@
       render(games);
 
       document.querySelectorAll('.filter-row').forEach(row => {
-        row.addEventListener('click', (e) => {
-          if (e.target.tagName === 'INPUT') return; // checkbox自体のクリックは継承
-          const cb = row.querySelector('input');
-          cb.checked = !cb.checked;
+        const cb = row.querySelector('input');
+        cb.addEventListener('change', () => {
           row.classList.toggle('active', cb.checked);
           const set = state[row.dataset.key];
           if (cb.checked) set.add(row.dataset.val);

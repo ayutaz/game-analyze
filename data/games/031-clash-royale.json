@@ -1,0 +1,19 @@
+{
+  "id": 31,
+  "title_jp": "Clash Royale",
+  "title_en": "Clash Royale",
+  "developer": "Supercell",
+  "publisher": "Supercell",
+  "year": 2016,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "RTカード対戦",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "slug": "clash-royale",
+  "file": "data/games/031-clash-royale.json"
+}

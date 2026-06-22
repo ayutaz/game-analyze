@@ -1,0 +1,20 @@
+{
+  "id": 50,
+  "title_jp": "リングフィット アドベンチャー",
+  "title_en": "Ring Fit Adventure",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2019,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "フィットネスRPG",
+  "sales_world": "17M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "slug": "ring-fit-adventure",
+  "file": "data/games/050-ring-fit-adventure.json"
+}

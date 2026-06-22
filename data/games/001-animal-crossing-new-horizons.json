@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "title_jp": "あつまれ どうぶつの森",
+  "title_en": "Animal Crossing: New Horizons",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2020,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "コミュニケーション/サンドボックス",
+  "sales_jp": "11.91M",
+  "sales_world": "47M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "コロナ禍社会現象、島訪問SNSバズ",
+  "slug": "animal-crossing-new-horizons",
+  "file": "data/games/001-animal-crossing-new-horizons.json"
+}

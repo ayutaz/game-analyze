@@ -1,0 +1,19 @@
+{
+  "id": 74,
+  "title_jp": "サイバーパンク2077",
+  "title_en": "Cyberpunk 2077",
+  "developer": "CD Projekt Red",
+  "publisher": "CDPR",
+  "year": 2020,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "OW RPG",
+  "sales_world": "3000万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "cyberpunk-2077",
+  "file": "data/games/074-cyberpunk-2077.json"
+}

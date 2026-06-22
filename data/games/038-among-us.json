@@ -1,0 +1,17 @@
+{
+  "id": 38,
+  "title_jp": "Among Us",
+  "title_en": "Among Us",
+  "developer": "Innersloth",
+  "publisher": "Innersloth",
+  "year": 2018,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "推理パーティ",
+  "sales_world": "5億+ DL",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "among-us",
+  "file": "data/games/038-among-us.json"
+}

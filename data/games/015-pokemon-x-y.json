@@ -1,0 +1,19 @@
+{
+  "id": 15,
+  "title_jp": "ポケットモンスター X・Y",
+  "title_en": "Pokémon X/Y",
+  "developer": "ゲームフリーク",
+  "publisher": "ポケモン",
+  "year": 2013,
+  "platform": [
+    "3DS"
+  ],
+  "genre": "RPG/収集",
+  "sales_jp": "4,504,626 (3DS国内1位)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "pokemon-x-y",
+  "file": "data/games/015-pokemon-x-y.json"
+}

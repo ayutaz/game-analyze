@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "title_jp": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+  "title_en": "The Legend of Zelda: BotW",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2017,
+  "platform": [
+    "Switch",
+    "Wii U"
+  ],
+  "genre": "OW Adv",
+  "sales_world": "33M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "OW新基準、GOTY",
+  "slug": "the-legend-of-zelda-botw",
+  "file": "data/games/009-the-legend-of-zelda-botw.json"
+}

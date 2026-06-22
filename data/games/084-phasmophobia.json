@@ -1,0 +1,16 @@
+{
+  "id": 84,
+  "title_jp": "Phasmophobia",
+  "title_en": "Phasmophobia",
+  "developer": "Kinetic Games",
+  "publisher": "Kinetic Games",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "協力ホラー",
+  "primary": "EXP",
+  "social_axis": "協力",
+  "slug": "phasmophobia",
+  "file": "data/games/084-phasmophobia.json"
+}

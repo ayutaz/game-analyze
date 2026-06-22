@@ -1,0 +1,17 @@
+{
+  "id": 90,
+  "title_jp": "逆転裁判",
+  "title_en": "Ace Attorney",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2001,
+  "platform": [
+    "GBA",
+    "Multi"
+  ],
+  "genre": "法廷AVG",
+  "sales_world": "1100万+",
+  "primary": "NAR",
+  "slug": "ace-attorney",
+  "file": "data/games/090-ace-attorney.json"
+}

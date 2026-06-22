@@ -1,0 +1,16 @@
+{
+  "id": 70,
+  "title_jp": "デトロイト ビカム ヒューマン",
+  "title_en": "Detroit: Become Human",
+  "developer": "Quantic Dream",
+  "publisher": "SIE",
+  "year": 2018,
+  "platform": [
+    "PS4"
+  ],
+  "genre": "インタラクティブムービー",
+  "sales_world": "950万+",
+  "primary": "NAR",
+  "slug": "detroit-become-human",
+  "file": "data/games/070-detroit-become-human.json"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 95,
+  "title_jp": "CLANNAD",
+  "title_en": "CLANNAD",
+  "developer": "Key",
+  "publisher": "VisualArts",
+  "year": 2004,
+  "platform": [
+    "PC"
+  ],
+  "genre": "恋愛AVG",
+  "primary": "NAR",
+  "slug": "clannad",
+  "file": "data/games/095-clannad.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "title_jp": "スーパーマリオオデッセイ",
+  "title_en": "Super Mario Odyssey",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2017,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "3Dアクション",
+  "sales_world": "28M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "キャプチャーで再発明",
+  "slug": "super-mario-odyssey",
+  "file": "data/games/008-super-mario-odyssey.json"
+}

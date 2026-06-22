@@ -1,0 +1,19 @@
+{
+  "id": 77,
+  "title_jp": "エルデンリング SHADOW OF THE ERDTREE",
+  "title_en": "Elden Ring: SotE",
+  "developer": "フロム",
+  "publisher": "バンナム",
+  "year": 2024,
+  "platform": [
+    "DLC"
+  ],
+  "genre": "DLC",
+  "sales_world": "500万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "elden-ring-sote",
+  "file": "data/games/077-elden-ring-sote.json"
+}

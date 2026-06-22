@@ -1,0 +1,19 @@
+{
+  "id": 85,
+  "title_jp": "Resident Evil 4 (Remake)",
+  "title_en": "Resident Evil 4",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2023,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_world": "1000万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "resident-evil-4",
+  "file": "data/games/085-resident-evil-4.json"
+}

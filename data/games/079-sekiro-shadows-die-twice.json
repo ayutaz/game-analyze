@@ -1,0 +1,19 @@
+{
+  "id": 79,
+  "title_jp": "SEKIRO",
+  "title_en": "Sekiro: Shadows Die Twice",
+  "developer": "フロム",
+  "publisher": "アクティビジョン",
+  "year": 2019,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "アクション",
+  "sales_world": "1000万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "sekiro-shadows-die-twice",
+  "file": "data/games/079-sekiro-shadows-die-twice.json"
+}

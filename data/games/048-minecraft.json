@@ -1,0 +1,17 @@
+{
+  "id": 48,
+  "title_jp": "マインクラフト",
+  "title_en": "Minecraft",
+  "developer": "Mojang",
+  "publisher": "Microsoft",
+  "year": 2011,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "サンドボックス",
+  "sales_world": "3億+",
+  "primary": "EXP",
+  "social_axis": "協力",
+  "slug": "minecraft",
+  "file": "data/games/048-minecraft.json"
+}

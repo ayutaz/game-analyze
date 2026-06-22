@@ -1,0 +1,18 @@
+{
+  "id": 26,
+  "title_jp": "崩壊：スターレイル",
+  "title_en": "Honkai: Star Rail",
+  "developer": "HoYoverse",
+  "publisher": "HoYoverse",
+  "year": 2023,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "ターン制RPG/ガチャ",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "honkai-star-rail",
+  "file": "data/games/026-honkai-star-rail.json"
+}

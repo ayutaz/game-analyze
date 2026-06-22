@@ -1,0 +1,19 @@
+{
+  "id": 86,
+  "title_jp": "バイオハザード ヴィレッジ",
+  "title_en": "Resident Evil Village",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2021,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_world": "1100万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "resident-evil-village",
+  "file": "data/games/086-resident-evil-village.json"
+}

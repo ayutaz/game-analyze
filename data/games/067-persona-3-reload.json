@@ -1,0 +1,18 @@
+{
+  "id": 67,
+  "title_jp": "ペルソナ3 リロード",
+  "title_en": "Persona 3 Reload",
+  "developer": "アトラス",
+  "publisher": "アトラス",
+  "year": 2024,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "RPG",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "slug": "persona-3-reload",
+  "file": "data/games/067-persona-3-reload.json"
+}

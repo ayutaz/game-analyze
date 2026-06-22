@@ -1,0 +1,17 @@
+{
+  "id": 51,
+  "title_jp": "Wii Sports",
+  "title_en": "Wii Sports",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2006,
+  "platform": [
+    "Wii"
+  ],
+  "genre": "スポーツ",
+  "sales_world": "8200万+",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "wii-sports",
+  "file": "data/games/051-wii-sports.json"
+}

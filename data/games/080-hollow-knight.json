@@ -1,0 +1,19 @@
+{
+  "id": 80,
+  "title_jp": "ホロウナイト",
+  "title_en": "Hollow Knight",
+  "developer": "Team Cherry",
+  "publisher": "Team Cherry",
+  "year": 2017,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "メトロイドヴァニア",
+  "sales_world": "1500万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "hollow-knight",
+  "file": "data/games/080-hollow-knight.json"
+}

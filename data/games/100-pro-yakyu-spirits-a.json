@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "title_jp": "プロ野球スピリッツA",
+  "title_en": "Pro Yakyu Spirits A",
+  "developer": "KONAMI",
+  "publisher": "KONAMI",
+  "year": 2015,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "野球SLG/ガチャ",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "pro-yakyu-spirits-a",
+  "file": "data/games/100-pro-yakyu-spirits-a.json"
+}

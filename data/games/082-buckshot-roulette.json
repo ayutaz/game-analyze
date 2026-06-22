@@ -1,0 +1,16 @@
+{
+  "id": 82,
+  "title_jp": "Buckshot Roulette",
+  "title_en": "Buckshot Roulette",
+  "developer": "Mike Klubnika",
+  "publisher": "Mike Klubnika",
+  "year": 2024,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "ホラーパーティ",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "buckshot-roulette",
+  "file": "data/games/082-buckshot-roulette.json"
+}

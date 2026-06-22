@@ -1,0 +1,1445 @@
+{
+  "generated_from": "data/games/*.json",
+  "total": 99,
+  "primary_breakdown": {
+    "EXP": 55,
+    "REW": 21,
+    "NAR": 23
+  },
+  "games": [
+    {
+      "id": 1,
+      "title_jp": "あつまれ どうぶつの森",
+      "title_en": "Animal Crossing: New Horizons",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/001-animal-crossing-new-horizons.json"
+    },
+    {
+      "id": 2,
+      "title_jp": "マリオカート8 デラックス",
+      "title_en": "Mario Kart 8 Deluxe",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/002-mario-kart-8-deluxe.json"
+    },
+    {
+      "id": 3,
+      "title_jp": "ポケットモンスター スカーレット・バイオレット",
+      "title_en": "Pokémon Scarlet/Violet",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/003-pokemon-scarlet-violet.json"
+    },
+    {
+      "id": 4,
+      "title_jp": "ポケットモンスター 赤・緑",
+      "title_en": "Pokémon Red/Green",
+      "year": 1996,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "GB"
+      ],
+      "file": "data/games/004-pokemon-red-green.json"
+    },
+    {
+      "id": 5,
+      "title_jp": "スーパーマリオブラザーズ",
+      "title_en": "Super Mario Bros.",
+      "year": 1985,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "FC"
+      ],
+      "file": "data/games/005-super-mario-bros.json"
+    },
+    {
+      "id": 6,
+      "title_jp": "スプラトゥーン3",
+      "title_en": "Splatoon 3",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/006-splatoon-3.json"
+    },
+    {
+      "id": 7,
+      "title_jp": "大乱闘スマッシュブラザーズ SPECIAL",
+      "title_en": "Super Smash Bros. Ultimate",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/007-super-smash-bros-ultimate.json"
+    },
+    {
+      "id": 8,
+      "title_jp": "スーパーマリオオデッセイ",
+      "title_en": "Super Mario Odyssey",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/008-super-mario-odyssey.json"
+    },
+    {
+      "id": 9,
+      "title_jp": "ゼルダの伝説 ブレス オブ ザ ワイルド",
+      "title_en": "The Legend of Zelda: BotW",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Switch",
+        "Wii U"
+      ],
+      "file": "data/games/009-the-legend-of-zelda-botw.json"
+    },
+    {
+      "id": 10,
+      "title_jp": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+      "title_en": "Tears of the Kingdom",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/010-tears-of-the-kingdom.json"
+    },
+    {
+      "id": 11,
+      "title_jp": "モンスターハンター：ワールド",
+      "title_en": "Monster Hunter: World",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PS4",
+        "PC"
+      ],
+      "file": "data/games/011-monster-hunter-world.json"
+    },
+    {
+      "id": 12,
+      "title_jp": "モンスターハンターライズ",
+      "title_en": "Monster Hunter Rise",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Switch",
+        "PC"
+      ],
+      "file": "data/games/012-monster-hunter-rise.json"
+    },
+    {
+      "id": 13,
+      "title_jp": "モンスターハンターワイルズ",
+      "title_en": "Monster Hunter Wilds",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PS5",
+        "Xbox",
+        "PC"
+      ],
+      "file": "data/games/013-monster-hunter-wilds.json"
+    },
+    {
+      "id": 14,
+      "title_jp": "ポケットモンスター ソード・シールド",
+      "title_en": "Pokémon Sword/Shield",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/014-pokemon-sword-shield.json"
+    },
+    {
+      "id": 15,
+      "title_jp": "ポケットモンスター X・Y",
+      "title_en": "Pokémon X/Y",
+      "year": 2013,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "3DS"
+      ],
+      "file": "data/games/015-pokemon-x-y.json"
+    },
+    {
+      "id": 16,
+      "title_jp": "ポケモン LEGENDS アルセウス",
+      "title_en": "Pokémon Legends: Arceus",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/016-pokemon-legends-arceus.json"
+    },
+    {
+      "id": 17,
+      "title_jp": "ポケモン LEGENDS Z-A",
+      "title_en": "Pokémon Legends: Z-A",
+      "year": 2025,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Switch",
+        "Switch 2"
+      ],
+      "file": "data/games/017-pokemon-legends-z-a.json"
+    },
+    {
+      "id": 18,
+      "title_jp": "ポケモンGO",
+      "title_en": "Pokémon GO",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/018-pokemon-go.json"
+    },
+    {
+      "id": 19,
+      "title_jp": "ポケモンTCGポケット",
+      "title_en": "Pokémon TCG Pocket",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/019-pokemon-tcg-pocket.json"
+    },
+    {
+      "id": 20,
+      "title_jp": "モンスターストライク",
+      "title_en": "Monster Strike",
+      "year": 2013,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/020-monster-strike.json"
+    },
+    {
+      "id": 21,
+      "title_jp": "パズル&ドラゴンズ",
+      "title_en": "Puzzle & Dragons",
+      "year": 2012,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/021-puzzle-dragons.json"
+    },
+    {
+      "id": 22,
+      "title_jp": "Fate/Grand Order",
+      "title_en": "Fate/Grand Order",
+      "year": 2015,
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/022-fate-grand-order.json"
+    },
+    {
+      "id": 23,
+      "title_jp": "ウマ娘 プリティーダービー",
+      "title_en": "Umamusume: Pretty Derby",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Mobile",
+        "PC"
+      ],
+      "file": "data/games/023-umamusume-pretty-derby.json"
+    },
+    {
+      "id": 24,
+      "title_jp": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+      "title_en": "Project Sekai",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/024-project-sekai.json"
+    },
+    {
+      "id": 25,
+      "title_jp": "原神",
+      "title_en": "Genshin Impact",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/025-genshin-impact.json"
+    },
+    {
+      "id": 26,
+      "title_jp": "崩壊：スターレイル",
+      "title_en": "Honkai: Star Rail",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/026-honkai-star-rail.json"
+    },
+    {
+      "id": 27,
+      "title_jp": "ゼンレスゾーンゼロ",
+      "title_en": "Zenless Zone Zero",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/027-zenless-zone-zero.json"
+    },
+    {
+      "id": 28,
+      "title_jp": "ラストウォー：サバイバル",
+      "title_en": "Last War: Survival",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/028-last-war-survival.json"
+    },
+    {
+      "id": 29,
+      "title_jp": "ホワイトアウト・サバイバル",
+      "title_en": "Whiteout Survival",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/029-whiteout-survival.json"
+    },
+    {
+      "id": 30,
+      "title_jp": "Clash of Clans",
+      "title_en": "Clash of Clans",
+      "year": 2012,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/030-clash-of-clans.json"
+    },
+    {
+      "id": 31,
+      "title_jp": "Clash Royale",
+      "title_en": "Clash Royale",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/031-clash-royale.json"
+    },
+    {
+      "id": 32,
+      "title_jp": "Brawl Stars",
+      "title_en": "Brawl Stars",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/032-brawl-stars.json"
+    },
+    {
+      "id": 33,
+      "title_jp": "フォートナイト",
+      "title_en": "Fortnite",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/033-fortnite.json"
+    },
+    {
+      "id": 34,
+      "title_jp": "APEX LEGENDS",
+      "title_en": "Apex Legends",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/034-apex-legends.json"
+    },
+    {
+      "id": 35,
+      "title_jp": "VALORANT",
+      "title_en": "VALORANT",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mobile"
+      ],
+      "file": "data/games/035-valorant.json"
+    },
+    {
+      "id": 36,
+      "title_jp": "League of Legends",
+      "title_en": "League of Legends",
+      "year": 2009,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/036-league-of-legends.json"
+    },
+    {
+      "id": 37,
+      "title_jp": "オーバーウォッチ 2",
+      "title_en": "Overwatch 2",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/037-overwatch-2.json"
+    },
+    {
+      "id": 38,
+      "title_jp": "Among Us",
+      "title_en": "Among Us",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/038-among-us.json"
+    },
+    {
+      "id": 39,
+      "title_jp": "フォールガイズ",
+      "title_en": "Fall Guys",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/039-fall-guys.json"
+    },
+    {
+      "id": 40,
+      "title_jp": "Splatoon",
+      "title_en": "Splatoon",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Wii U"
+      ],
+      "file": "data/games/040-splatoon.json"
+    },
+    {
+      "id": 41,
+      "title_jp": "スプラトゥーン2",
+      "title_en": "Splatoon 2",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/041-splatoon-2.json"
+    },
+    {
+      "id": 42,
+      "title_jp": "マリオパーティ スーパースターズ",
+      "title_en": "Mario Party Superstars",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/042-mario-party-superstars.json"
+    },
+    {
+      "id": 43,
+      "title_jp": "スーパーマリオパーティ ジャンボリー",
+      "title_en": "Super Mario Party Jamboree",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/043-super-mario-party-jamboree.json"
+    },
+    {
+      "id": 44,
+      "title_jp": "Overcooked! 王国のフルコース",
+      "title_en": "Overcooked! All You Can Eat",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/044-overcooked-all-you-can-eat.json"
+    },
+    {
+      "id": 45,
+      "title_jp": "It Takes Two",
+      "title_en": "It Takes Two",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/045-it-takes-two.json"
+    },
+    {
+      "id": 46,
+      "title_jp": "A Way Out",
+      "title_en": "A Way Out",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/046-a-way-out.json"
+    },
+    {
+      "id": 47,
+      "title_jp": "Dead by Daylight",
+      "title_en": "Dead by Daylight",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "非対称",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/047-dead-by-daylight.json"
+    },
+    {
+      "id": 48,
+      "title_jp": "マインクラフト",
+      "title_en": "Minecraft",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/048-minecraft.json"
+    },
+    {
+      "id": 49,
+      "title_jp": "テラリア",
+      "title_en": "Terraria",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/049-terraria.json"
+    },
+    {
+      "id": 50,
+      "title_jp": "リングフィット アドベンチャー",
+      "title_en": "Ring Fit Adventure",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Switch"
+      ],
+      "file": "data/games/050-ring-fit-adventure.json"
+    },
+    {
+      "id": 51,
+      "title_jp": "Wii Sports",
+      "title_en": "Wii Sports",
+      "year": 2006,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Wii"
+      ],
+      "file": "data/games/051-wii-sports.json"
+    },
+    {
+      "id": 52,
+      "title_jp": "太鼓の達人",
+      "title_en": "Taiko no Tatsujin",
+      "year": 2001,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "AC",
+        "Multi"
+      ],
+      "file": "data/games/052-taiko-no-tatsujin.json"
+    },
+    {
+      "id": 53,
+      "title_jp": "beatmania IIDX",
+      "title_en": "beatmania IIDX",
+      "year": 1999,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "AC"
+      ],
+      "file": "data/games/053-beatmania-iidx.json"
+    },
+    {
+      "id": 54,
+      "title_jp": "maimai でらっくす",
+      "title_en": "maimai DX",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "AC"
+      ],
+      "file": "data/games/054-maimai-dx.json"
+    },
+    {
+      "id": 55,
+      "title_jp": "CHUNITHM",
+      "title_en": "CHUNITHM",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "AC"
+      ],
+      "file": "data/games/055-chunithm.json"
+    },
+    {
+      "id": 57,
+      "title_jp": "ストリートファイター6",
+      "title_en": "Street Fighter 6",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/057-street-fighter-6.json"
+    },
+    {
+      "id": 58,
+      "title_jp": "鉄拳8",
+      "title_en": "Tekken 8",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/058-tekken-8.json"
+    },
+    {
+      "id": 59,
+      "title_jp": "GUILTY GEAR -STRIVE-",
+      "title_en": "Guilty Gear Strive",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/059-guilty-gear-strive.json"
+    },
+    {
+      "id": 60,
+      "title_jp": "スマブラ DX",
+      "title_en": "Super Smash Bros. Melee",
+      "year": 2001,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "GC"
+      ],
+      "file": "data/games/060-super-smash-bros-melee.json"
+    },
+    {
+      "id": 61,
+      "title_jp": "ファイナルファンタジーVII リバース",
+      "title_en": "Final Fantasy VII Rebirth",
+      "year": 2024,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS5"
+      ],
+      "file": "data/games/061-final-fantasy-vii-rebirth.json"
+    },
+    {
+      "id": 62,
+      "title_jp": "ファイナルファンタジーXIV",
+      "title_en": "Final Fantasy XIV",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/062-final-fantasy-xiv.json"
+    },
+    {
+      "id": 63,
+      "title_jp": "ファイナルファンタジーXVI",
+      "title_en": "Final Fantasy XVI",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS5"
+      ],
+      "file": "data/games/063-final-fantasy-xvi.json"
+    },
+    {
+      "id": 64,
+      "title_jp": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+      "title_en": "Dragon Quest XI",
+      "year": 2017,
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS4",
+        "3DS"
+      ],
+      "file": "data/games/064-dragon-quest-xi.json"
+    },
+    {
+      "id": 65,
+      "title_jp": "ドラゴンクエストウォーク",
+      "title_en": "DQ Walk",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/065-dq-walk.json"
+    },
+    {
+      "id": 66,
+      "title_jp": "ペルソナ5 ロイヤル",
+      "title_en": "Persona 5 Royal",
+      "year": 2019,
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS4",
+        "Multi"
+      ],
+      "file": "data/games/066-persona-5-royal.json"
+    },
+    {
+      "id": 67,
+      "title_jp": "ペルソナ3 リロード",
+      "title_en": "Persona 3 Reload",
+      "year": 2024,
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/067-persona-3-reload.json"
+    },
+    {
+      "id": 68,
+      "title_jp": "龍が如く8",
+      "title_en": "Like a Dragon: Infinite Wealth",
+      "year": 2024,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/068-like-a-dragon-infinite-wealth.json"
+    },
+    {
+      "id": 69,
+      "title_jp": "龍が如く シリーズ",
+      "title_en": "Yakuza series",
+      "year": 2005,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/069-yakuza-series.json"
+    },
+    {
+      "id": 70,
+      "title_jp": "デトロイト ビカム ヒューマン",
+      "title_en": "Detroit: Become Human",
+      "year": 2018,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "PS4"
+      ],
+      "file": "data/games/070-detroit-become-human.json"
+    },
+    {
+      "id": 71,
+      "title_jp": "ライフ イズ ストレンジ",
+      "title_en": "Life is Strange",
+      "year": 2015,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/071-life-is-strange.json"
+    },
+    {
+      "id": 72,
+      "title_jp": "The Last of Us Part II",
+      "title_en": "The Last of Us Part II",
+      "year": 2020,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS4"
+      ],
+      "file": "data/games/072-the-last-of-us-part-ii.json"
+    },
+    {
+      "id": 73,
+      "title_jp": "Ghost of Tsushima",
+      "title_en": "Ghost of Tsushima",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS4"
+      ],
+      "file": "data/games/073-ghost-of-tsushima.json"
+    },
+    {
+      "id": 74,
+      "title_jp": "サイバーパンク2077",
+      "title_en": "Cyberpunk 2077",
+      "year": 2020,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/074-cyberpunk-2077.json"
+    },
+    {
+      "id": 75,
+      "title_jp": "ウィッチャー3 ワイルドハント",
+      "title_en": "The Witcher 3",
+      "year": 2015,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/075-the-witcher-3.json"
+    },
+    {
+      "id": 76,
+      "title_jp": "エルデンリング",
+      "title_en": "Elden Ring",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/076-elden-ring.json"
+    },
+    {
+      "id": 77,
+      "title_jp": "エルデンリング SHADOW OF THE ERDTREE",
+      "title_en": "Elden Ring: SotE",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "DLC"
+      ],
+      "file": "data/games/077-elden-ring-sote.json"
+    },
+    {
+      "id": 78,
+      "title_jp": "DARK SOULS III",
+      "title_en": "Dark Souls III",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/078-dark-souls-iii.json"
+    },
+    {
+      "id": 79,
+      "title_jp": "SEKIRO",
+      "title_en": "Sekiro: Shadows Die Twice",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/079-sekiro-shadows-die-twice.json"
+    },
+    {
+      "id": 80,
+      "title_jp": "ホロウナイト",
+      "title_en": "Hollow Knight",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/080-hollow-knight.json"
+    },
+    {
+      "id": 81,
+      "title_jp": "Vampire Survivors",
+      "title_en": "Vampire Survivors",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/081-vampire-survivors.json"
+    },
+    {
+      "id": 82,
+      "title_jp": "Buckshot Roulette",
+      "title_en": "Buckshot Roulette",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/082-buckshot-roulette.json"
+    },
+    {
+      "id": 83,
+      "title_jp": "8番出口",
+      "title_en": "The Exit 8",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PC",
+        "Multi"
+      ],
+      "file": "data/games/083-the-exit-8.json"
+    },
+    {
+      "id": 84,
+      "title_jp": "Phasmophobia",
+      "title_en": "Phasmophobia",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/084-phasmophobia.json"
+    },
+    {
+      "id": 85,
+      "title_jp": "Resident Evil 4 (Remake)",
+      "title_en": "Resident Evil 4",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/085-resident-evil-4.json"
+    },
+    {
+      "id": 86,
+      "title_jp": "バイオハザード ヴィレッジ",
+      "title_en": "Resident Evil Village",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/086-resident-evil-village.json"
+    },
+    {
+      "id": 87,
+      "title_jp": "デビル メイ クライ 5",
+      "title_en": "Devil May Cry 5",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/087-devil-may-cry-5.json"
+    },
+    {
+      "id": 88,
+      "title_jp": "NieR:Automata",
+      "title_en": "NieR: Automata",
+      "year": 2017,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/088-nier-automata.json"
+    },
+    {
+      "id": 89,
+      "title_jp": "十三機兵防衛圏",
+      "title_en": "13 Sentinels: Aegis Rim",
+      "year": 2019,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "PS4",
+        "Switch"
+      ],
+      "file": "data/games/089-13-sentinels-aegis-rim.json"
+    },
+    {
+      "id": 90,
+      "title_jp": "逆転裁判",
+      "title_en": "Ace Attorney",
+      "year": 2001,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "GBA",
+        "Multi"
+      ],
+      "file": "data/games/090-ace-attorney.json"
+    },
+    {
+      "id": 91,
+      "title_jp": "弟切草",
+      "title_en": "Otogirisō",
+      "year": 1992,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "SFC"
+      ],
+      "file": "data/games/091-otogiriso.json"
+    },
+    {
+      "id": 92,
+      "title_jp": "かまいたちの夜",
+      "title_en": "Kamaitachi no Yoru",
+      "year": 1994,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "SFC"
+      ],
+      "file": "data/games/092-kamaitachi-no-yoru.json"
+    },
+    {
+      "id": 93,
+      "title_jp": "Kanon",
+      "title_en": "Kanon",
+      "year": 1999,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/093-kanon.json"
+    },
+    {
+      "id": 94,
+      "title_jp": "AIR",
+      "title_en": "AIR",
+      "year": 2000,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/094-air.json"
+    },
+    {
+      "id": 95,
+      "title_jp": "CLANNAD",
+      "title_en": "CLANNAD",
+      "year": 2004,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/095-clannad.json"
+    },
+    {
+      "id": 96,
+      "title_jp": "シュタインズ・ゲート",
+      "title_en": "Steins;Gate",
+      "year": 2009,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": null,
+      "platform": [
+        "Xbox 360"
+      ],
+      "file": "data/games/096-steins-gate.json"
+    },
+    {
+      "id": 97,
+      "title_jp": "UNDERTALE",
+      "title_en": "Undertale",
+      "year": 2015,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Multi"
+      ],
+      "file": "data/games/097-undertale.json"
+    },
+    {
+      "id": 98,
+      "title_jp": "DEATH STRANDING",
+      "title_en": "Death Stranding",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "PS4"
+      ],
+      "file": "data/games/098-death-stranding.json"
+    },
+    {
+      "id": 99,
+      "title_jp": "実況パワフルプロ野球 シリーズ",
+      "title_en": "Powerful Pro Baseball series",
+      "year": 1994,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "FC",
+        "Multi"
+      ],
+      "file": "data/games/099-powerful-pro-baseball-series.json"
+    },
+    {
+      "id": 100,
+      "title_jp": "プロ野球スピリッツA",
+      "title_en": "Pro Yakyu Spirits A",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": null,
+      "platform": [
+        "Mobile"
+      ],
+      "file": "data/games/100-pro-yakyu-spirits-a.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 45,
+  "title_jp": "It Takes Two",
+  "title_en": "It Takes Two",
+  "developer": "Hazelight",
+  "publisher": "EA",
+  "year": 2021,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "協力Adv",
+  "sales_world": "23M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "slug": "it-takes-two",
+  "file": "data/games/045-it-takes-two.json"
+}

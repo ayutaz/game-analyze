@@ -1,0 +1,16 @@
+{
+  "id": 91,
+  "title_jp": "弟切草",
+  "title_en": "Otogirisō",
+  "developer": "チュンソフト",
+  "publisher": "チュンソフト",
+  "year": 1992,
+  "platform": [
+    "SFC"
+  ],
+  "genre": "サウンドノベル",
+  "primary": "NAR",
+  "popularity": "サウンドノベル起点",
+  "slug": "otogiriso",
+  "file": "data/games/091-otogiriso.json"
+}

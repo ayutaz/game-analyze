@@ -1,0 +1,21 @@
+{
+  "id": 12,
+  "title_jp": "モンスターハンターライズ",
+  "title_en": "Monster Hunter Rise",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "協力ARPG",
+  "sales_world": "16M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "slug": "monster-hunter-rise",
+  "file": "data/games/012-monster-hunter-rise.json"
+}

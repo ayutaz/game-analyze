@@ -1,0 +1,18 @@
+{
+  "id": 27,
+  "title_jp": "ゼンレスゾーンゼロ",
+  "title_en": "Zenless Zone Zero",
+  "developer": "HoYoverse",
+  "publisher": "HoYoverse",
+  "year": 2024,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "ARPG/ガチャ",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "zenless-zone-zero",
+  "file": "data/games/027-zenless-zone-zero.json"
+}

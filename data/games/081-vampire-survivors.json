@@ -1,0 +1,18 @@
+{
+  "id": 81,
+  "title_jp": "Vampire Survivors",
+  "title_en": "Vampire Survivors",
+  "developer": "poncle",
+  "publisher": "poncle",
+  "year": 2022,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "ローグライト",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "slug": "vampire-survivors",
+  "file": "data/games/081-vampire-survivors.json"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 55,
+  "title_jp": "CHUNITHM",
+  "title_en": "CHUNITHM",
+  "developer": "SEGA",
+  "publisher": "SEGA",
+  "year": 2015,
+  "platform": [
+    "AC"
+  ],
+  "genre": "音ゲー",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "chunithm",
+  "file": "data/games/055-chunithm.json"
+}

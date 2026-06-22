@@ -1,0 +1,19 @@
+{
+  "id": 46,
+  "title_jp": "A Way Out",
+  "title_en": "A Way Out",
+  "developer": "Hazelight",
+  "publisher": "EA",
+  "year": 2018,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "協力Adv",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "slug": "a-way-out",
+  "file": "data/games/046-a-way-out.json"
+}

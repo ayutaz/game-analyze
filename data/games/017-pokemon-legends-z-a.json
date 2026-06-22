@@ -1,0 +1,20 @@
+{
+  "id": 17,
+  "title_jp": "ポケモン LEGENDS Z-A",
+  "title_en": "Pokémon Legends: Z-A",
+  "developer": "ゲームフリーク",
+  "publisher": "ポケモン",
+  "year": 2025,
+  "platform": [
+    "Switch",
+    "Switch 2"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "1,529,893 (Switch) + 1,004,154 (Switch 2)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "pokemon-legends-z-a",
+  "file": "data/games/017-pokemon-legends-z-a.json"
+}

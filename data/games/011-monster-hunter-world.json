@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "title_jp": "モンスターハンター：ワールド",
+  "title_en": "Monster Hunter: World",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2018,
+  "platform": [
+    "PS4",
+    "PC"
+  ],
+  "genre": "協力ARPG",
+  "sales_jp": "1.97M (PS4)",
+  "sales_world": "28M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "シリーズ世界進出",
+  "slug": "monster-hunter-world",
+  "file": "data/games/011-monster-hunter-world.json"
+}

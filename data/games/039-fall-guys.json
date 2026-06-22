@@ -1,0 +1,16 @@
+{
+  "id": 39,
+  "title_jp": "フォールガイズ",
+  "title_en": "Fall Guys",
+  "developer": "Mediatonic",
+  "publisher": "Epic",
+  "year": 2020,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "パーティバトロワ",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "fall-guys",
+  "file": "data/games/039-fall-guys.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 30,
+  "title_jp": "Clash of Clans",
+  "title_en": "Clash of Clans",
+  "developer": "Supercell",
+  "publisher": "Supercell",
+  "year": 2012,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "SLG",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "対戦",
+  "slug": "clash-of-clans",
+  "file": "data/games/030-clash-of-clans.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 19,
+  "title_jp": "ポケモンTCGポケット",
+  "title_en": "Pokémon TCG Pocket",
+  "developer": "Creatures/DeNA",
+  "publisher": "ポケモン",
+  "year": 2024,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "デジタルTCG/収集",
+  "sales_jp": "¥65.0B (2025年・国内3位)",
+  "sales_world": "$1.49B+",
+  "primary": "REW",
+  "secondary": [],
+  "popularity": "軽量カード収集",
+  "slug": "pokemon-tcg-pocket",
+  "file": "data/games/019-pokemon-tcg-pocket.json"
+}

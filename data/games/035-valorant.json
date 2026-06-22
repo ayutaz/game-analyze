@@ -1,0 +1,17 @@
+{
+  "id": 35,
+  "title_jp": "VALORANT",
+  "title_en": "VALORANT",
+  "developer": "Riot Games",
+  "publisher": "Riot Games",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Mobile"
+  ],
+  "genre": "タクティカルFPS",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "valorant",
+  "file": "data/games/035-valorant.json"
+}

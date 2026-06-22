@@ -1,0 +1,21 @@
+{
+  "id": 4,
+  "title_jp": "ポケットモンスター 赤・緑",
+  "title_en": "Pokémon Red/Green",
+  "developer": "ゲームフリーク",
+  "publisher": "任天堂",
+  "year": 1996,
+  "platform": [
+    "GB"
+  ],
+  "genre": "RPG/収集",
+  "sales_jp": "8.22M",
+  "sales_world": "31M+",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "popularity": "シリーズ原点、通信交換",
+  "slug": "pokemon-red-green",
+  "file": "data/games/004-pokemon-red-green.json"
+}

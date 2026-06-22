@@ -1,0 +1,20 @@
+{
+  "id": 78,
+  "title_jp": "DARK SOULS III",
+  "title_en": "Dark Souls III",
+  "developer": "フロム",
+  "publisher": "バンナム",
+  "year": 2016,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "アクションRPG",
+  "sales_world": "1000万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "slug": "dark-souls-iii",
+  "file": "data/games/078-dark-souls-iii.json"
+}

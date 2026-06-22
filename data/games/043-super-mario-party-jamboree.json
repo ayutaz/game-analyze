@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "title_jp": "スーパーマリオパーティ ジャンボリー",
+  "title_en": "Super Mario Party Jamboree",
+  "developer": "NDキューブ",
+  "publisher": "任天堂",
+  "year": 2024,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "パーティ",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "super-mario-party-jamboree",
+  "file": "data/games/043-super-mario-party-jamboree.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 87,
+  "title_jp": "デビル メイ クライ 5",
+  "title_en": "Devil May Cry 5",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2019,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "アクション",
+  "sales_world": "800万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "devil-may-cry-5",
+  "file": "data/games/087-devil-may-cry-5.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 32,
+  "title_jp": "Brawl Stars",
+  "title_en": "Brawl Stars",
+  "developer": "Supercell",
+  "publisher": "Supercell",
+  "year": 2018,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "MOBA/シューター",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "slug": "brawl-stars",
+  "file": "data/games/032-brawl-stars.json"
+}

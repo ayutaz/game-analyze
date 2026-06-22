@@ -1,0 +1,17 @@
+{
+  "id": 47,
+  "title_jp": "Dead by Daylight",
+  "title_en": "Dead by Daylight",
+  "developer": "Behaviour",
+  "publisher": "Behaviour/3GOO",
+  "year": 2016,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "非対称サバイバル",
+  "sales_world": "6000万+",
+  "primary": "EXP",
+  "social_axis": "非対称",
+  "slug": "dead-by-daylight",
+  "file": "data/games/047-dead-by-daylight.json"
+}

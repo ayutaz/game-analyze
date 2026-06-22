@@ -1,0 +1,17 @@
+{
+  "id": 40,
+  "title_jp": "Splatoon",
+  "title_en": "Splatoon",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2015,
+  "platform": [
+    "Wii U"
+  ],
+  "genre": "TPS対戦",
+  "sales_world": "5M+",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "splatoon",
+  "file": "data/games/040-splatoon.json"
+}

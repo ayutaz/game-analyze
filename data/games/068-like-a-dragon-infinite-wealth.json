@@ -1,0 +1,18 @@
+{
+  "id": 68,
+  "title_jp": "龍が如く8",
+  "title_en": "Like a Dragon: Infinite Wealth",
+  "developer": "RGGスタジオ",
+  "publisher": "セガ",
+  "year": 2024,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "RPG/アクション",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "like-a-dragon-infinite-wealth",
+  "file": "data/games/068-like-a-dragon-infinite-wealth.json"
+}

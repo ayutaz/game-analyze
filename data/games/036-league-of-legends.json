@@ -1,0 +1,16 @@
+{
+  "id": 36,
+  "title_jp": "League of Legends",
+  "title_en": "League of Legends",
+  "developer": "Riot Games",
+  "publisher": "Riot Games",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "MOBA",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "league-of-legends",
+  "file": "data/games/036-league-of-legends.json"
+}

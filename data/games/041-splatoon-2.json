@@ -1,0 +1,21 @@
+{
+  "id": 41,
+  "title_jp": "スプラトゥーン2",
+  "title_en": "Splatoon 2",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2017,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "TPS対戦",
+  "sales_jp": "4.18M",
+  "sales_world": "13M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "slug": "splatoon-2",
+  "file": "data/games/041-splatoon-2.json"
+}

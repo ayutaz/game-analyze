@@ -1,0 +1,20 @@
+{
+  "id": 25,
+  "title_jp": "原神",
+  "title_en": "Genshin Impact",
+  "developer": "HoYoverse",
+  "publisher": "HoYoverse",
+  "year": 2020,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "OW ARPG/ガチャ",
+  "sales_world": "$50B+(推定累計)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "slug": "genshin-impact",
+  "file": "data/games/025-genshin-impact.json"
+}

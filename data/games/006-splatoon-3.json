@@ -1,0 +1,21 @@
+{
+  "id": 6,
+  "title_jp": "スプラトゥーン3",
+  "title_en": "Splatoon 3",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "TPS対戦",
+  "sales_jp": "7.09M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "国内最強対戦TPS",
+  "slug": "splatoon-3",
+  "file": "data/games/006-splatoon-3.json"
+}

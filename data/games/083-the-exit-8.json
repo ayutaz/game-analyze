@@ -1,0 +1,19 @@
+{
+  "id": 83,
+  "title_jp": "8番出口",
+  "title_en": "The Exit 8",
+  "developer": "KOTAKE CREATE",
+  "publisher": "KOTAKE CREATE",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Multi"
+  ],
+  "genre": "ウォーキングシム",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "the-exit-8",
+  "file": "data/games/083-the-exit-8.json"
+}

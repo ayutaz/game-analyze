@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "title_jp": "マリオカート8 デラックス",
+  "title_en": "Mario Kart 8 Deluxe",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2017,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "レース対戦",
+  "sales_jp": "9.03M",
+  "sales_world": "71M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "パーティ対戦の定番",
+  "slug": "mario-kart-8-deluxe",
+  "file": "data/games/002-mario-kart-8-deluxe.json"
+}

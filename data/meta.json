@@ -1,0 +1,27 @@
+{
+  "generated": "2026-06-22",
+  "total_titles": 99,
+  "categories": {
+    "EXP": "体験型 — gameplay-driven, especially with social interaction",
+    "NAR": "物語型 — narrative-driven",
+    "REW": "報酬型 — reward / collection / gacha-driven"
+  },
+  "social_axis_for_EXP": [
+    "対戦",
+    "協力",
+    "非対称",
+    "非同期",
+    "観戦",
+    "ソロ"
+  ],
+  "sources": [
+    "https://achikochi-data.com/game_sales_total_japan_ranking_all/",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_switch/",
+    "https://teitengame.com/salesbyhard.html",
+    "https://www.frontlinejp.net/2026/01/29/the-top-100-best-selling-games-in-japan-2025/",
+    "https://note.com/game_i/n/ncd70c9465853",
+    "https://www.4gamer.net/games/236/G023612/20260113011/",
+    "https://mediag.bunka.go.jp/article/article-18501/",
+    "https://kamigame.jp/gaming/35459.html"
+  ]
+}

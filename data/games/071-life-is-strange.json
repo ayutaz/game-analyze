@@ -1,0 +1,15 @@
+{
+  "id": 71,
+  "title_jp": "ライフ イズ ストレンジ",
+  "title_en": "Life is Strange",
+  "developer": "Dontnod",
+  "publisher": "Square Enix Europe",
+  "year": 2015,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "グラフィックノベル",
+  "primary": "NAR",
+  "slug": "life-is-strange",
+  "file": "data/games/071-life-is-strange.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 88,
+  "title_jp": "NieR:Automata",
+  "title_en": "NieR: Automata",
+  "developer": "プラチナ",
+  "publisher": "スクエニ",
+  "year": 2017,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "アクションRPG",
+  "sales_world": "800万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "nier-automata",
+  "file": "data/games/088-nier-automata.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 16,
+  "title_jp": "ポケモン LEGENDS アルセウス",
+  "title_en": "Pokémon Legends: Arceus",
+  "developer": "ゲームフリーク",
+  "publisher": "ポケモン",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "アクションRPG",
+  "sales_world": "14M+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "pokemon-legends-arceus",
+  "file": "data/games/016-pokemon-legends-arceus.json"
+}

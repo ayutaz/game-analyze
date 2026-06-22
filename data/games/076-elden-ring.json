@@ -1,0 +1,20 @@
+{
+  "id": 76,
+  "title_jp": "エルデンリング",
+  "title_en": "Elden Ring",
+  "developer": "フロム・ソフトウェア",
+  "publisher": "バンナム",
+  "year": 2022,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "OW ARPG",
+  "sales_world": "3000万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "slug": "elden-ring",
+  "file": "data/games/076-elden-ring.json"
+}

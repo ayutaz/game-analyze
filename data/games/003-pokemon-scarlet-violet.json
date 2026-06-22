@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "title_jp": "ポケットモンスター スカーレット・バイオレット",
+  "title_en": "Pokémon Scarlet/Violet",
+  "developer": "ゲームフリーク",
+  "publisher": "ポケモン",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "RPG/収集",
+  "sales_jp": "8.66M",
+  "sales_world": "27M+",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "popularity": "初のOW本編",
+  "slug": "pokemon-scarlet-violet",
+  "file": "data/games/003-pokemon-scarlet-violet.json"
+}

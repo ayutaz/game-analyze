@@ -1,0 +1,19 @@
+{
+  "id": 72,
+  "title_jp": "The Last of Us Part II",
+  "title_en": "The Last of Us Part II",
+  "developer": "Naughty Dog",
+  "publisher": "SIE",
+  "year": 2020,
+  "platform": [
+    "PS4"
+  ],
+  "genre": "アクションAdv",
+  "sales_world": "1000万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "the-last-of-us-part-ii",
+  "file": "data/games/072-the-last-of-us-part-ii.json"
+}

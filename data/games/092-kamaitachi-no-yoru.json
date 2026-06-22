@@ -1,0 +1,16 @@
+{
+  "id": 92,
+  "title_jp": "かまいたちの夜",
+  "title_en": "Kamaitachi no Yoru",
+  "developer": "チュンソフト",
+  "publisher": "チュンソフト",
+  "year": 1994,
+  "platform": [
+    "SFC"
+  ],
+  "genre": "サウンドノベル",
+  "sales_jp": "1.2M+",
+  "primary": "NAR",
+  "slug": "kamaitachi-no-yoru",
+  "file": "data/games/092-kamaitachi-no-yoru.json"
+}

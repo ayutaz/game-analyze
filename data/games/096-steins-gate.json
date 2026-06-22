@@ -1,0 +1,15 @@
+{
+  "id": 96,
+  "title_jp": "シュタインズ・ゲート",
+  "title_en": "Steins;Gate",
+  "developer": "5pb./Nitroplus",
+  "publisher": "5pb.",
+  "year": 2009,
+  "platform": [
+    "Xbox 360"
+  ],
+  "genre": "SF AVG",
+  "primary": "NAR",
+  "slug": "steins-gate",
+  "file": "data/games/096-steins-gate.json"
+}

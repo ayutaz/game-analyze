@@ -1,0 +1,17 @@
+{
+  "id": 42,
+  "title_jp": "マリオパーティ スーパースターズ",
+  "title_en": "Mario Party Superstars",
+  "developer": "NDキューブ",
+  "publisher": "任天堂",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "パーティ",
+  "sales_world": "14M+",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "mario-party-superstars",
+  "file": "data/games/042-mario-party-superstars.json"
+}

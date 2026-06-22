@@ -1,0 +1,15 @@
+{
+  "id": 29,
+  "title_jp": "ホワイトアウト・サバイバル",
+  "title_en": "Whiteout Survival",
+  "developer": "Century Games",
+  "publisher": "Century Games",
+  "year": 2023,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "SLG",
+  "primary": "REW",
+  "slug": "whiteout-survival",
+  "file": "data/games/029-whiteout-survival.json"
+}

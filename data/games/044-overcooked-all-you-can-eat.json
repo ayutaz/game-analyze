@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "title_jp": "Overcooked! 王国のフルコース",
+  "title_en": "Overcooked! All You Can Eat",
+  "developer": "Ghost Town Games",
+  "publisher": "Team17",
+  "year": 2020,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "パーティ協力",
+  "primary": "EXP",
+  "social_axis": "協力",
+  "slug": "overcooked-all-you-can-eat",
+  "file": "data/games/044-overcooked-all-you-can-eat.json"
+}

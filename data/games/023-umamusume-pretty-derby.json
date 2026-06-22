@@ -1,0 +1,20 @@
+{
+  "id": 23,
+  "title_jp": "ウマ娘 プリティーダービー",
+  "title_en": "Umamusume: Pretty Derby",
+  "developer": "Cygames",
+  "publisher": "Cygames",
+  "year": 2021,
+  "platform": [
+    "Mobile",
+    "PC"
+  ],
+  "genre": "育成SLG/ガチャ",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "popularity": "育成サイクル×競走",
+  "slug": "umamusume-pretty-derby",
+  "file": "data/games/023-umamusume-pretty-derby.json"
+}

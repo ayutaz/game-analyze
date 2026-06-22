@@ -1,0 +1,18 @@
+{
+  "id": 97,
+  "title_jp": "UNDERTALE",
+  "title_en": "Undertale",
+  "developer": "toby fox",
+  "publisher": "toby fox",
+  "year": 2015,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "RPG",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "undertale",
+  "file": "data/games/097-undertale.json"
+}

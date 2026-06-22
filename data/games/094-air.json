@@ -1,0 +1,15 @@
+{
+  "id": 94,
+  "title_jp": "AIR",
+  "title_en": "AIR",
+  "developer": "Key",
+  "publisher": "VisualArts",
+  "year": 2000,
+  "platform": [
+    "PC"
+  ],
+  "genre": "恋愛AVG",
+  "primary": "NAR",
+  "slug": "air",
+  "file": "data/games/094-air.json"
+}

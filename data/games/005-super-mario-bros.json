@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "title_jp": "スーパーマリオブラザーズ",
+  "title_en": "Super Mario Bros.",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 1985,
+  "platform": [
+    "FC"
+  ],
+  "genre": "2Dアクション",
+  "sales_jp": "6.81M",
+  "sales_world": "40M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "家庭用ゲーム機普及の原点",
+  "slug": "super-mario-bros",
+  "file": "data/games/005-super-mario-bros.json"
+}

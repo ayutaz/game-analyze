@@ -1,0 +1,22 @@
+{
+  "id": 13,
+  "title_jp": "モンスターハンターワイルズ",
+  "title_en": "Monster Hunter Wilds",
+  "developer": "カプコン",
+  "publisher": "カプコン",
+  "year": 2025,
+  "platform": [
+    "PS5",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "協力ARPG",
+  "sales_jp": "838,319 (2025年パッケ4位)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "slug": "monster-hunter-wilds",
+  "file": "data/games/013-monster-hunter-wilds.json"
+}

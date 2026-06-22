@@ -1,0 +1,20 @@
+{
+  "id": 24,
+  "title_jp": "プロジェクトセカイ カラフルステージ! feat. 初音ミク",
+  "title_en": "Project Sekai",
+  "developer": "Colorful Palette",
+  "publisher": "セガ",
+  "year": 2020,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "リズム/育成",
+  "sales_world": "7000万DL+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "協力",
+  "slug": "project-sekai",
+  "file": "data/games/024-project-sekai.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 49,
+  "title_jp": "テラリア",
+  "title_en": "Terraria",
+  "developer": "Re-Logic",
+  "publisher": "Re-Logic",
+  "year": 2011,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "2Dサンドボックス",
+  "sales_world": "5800万+",
+  "primary": "EXP",
+  "social_axis": "協力",
+  "slug": "terraria",
+  "file": "data/games/049-terraria.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 65,
+  "title_jp": "ドラゴンクエストウォーク",
+  "title_en": "DQ Walk",
+  "developer": "スクエニ",
+  "publisher": "スクエニ",
+  "year": 2019,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "位置情報RPG",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "slug": "dq-walk",
+  "file": "data/games/065-dq-walk.json"
+}

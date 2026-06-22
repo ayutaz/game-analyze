@@ -1,0 +1,19 @@
+{
+  "id": 98,
+  "title_jp": "DEATH STRANDING",
+  "title_en": "Death Stranding",
+  "developer": "コジマプロダクション",
+  "publisher": "SIE/505",
+  "year": 2019,
+  "platform": [
+    "PS4"
+  ],
+  "genre": "アクション/ストランド",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "slug": "death-stranding",
+  "file": "data/games/098-death-stranding.json"
+}

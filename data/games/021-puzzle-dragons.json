@@ -1,0 +1,19 @@
+{
+  "id": 21,
+  "title_jp": "パズル&ドラゴンズ",
+  "title_en": "Puzzle & Dragons",
+  "developer": "ガンホー",
+  "publisher": "ガンホー",
+  "year": 2012,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "パズルRPG",
+  "sales_world": "8000万DL+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "puzzle-dragons",
+  "file": "data/games/021-puzzle-dragons.json"
+}

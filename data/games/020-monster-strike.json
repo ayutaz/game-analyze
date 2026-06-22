@@ -1,0 +1,21 @@
+{
+  "id": 20,
+  "title_jp": "モンスターストライク",
+  "title_en": "Monster Strike",
+  "developer": "MIXI",
+  "publisher": "MIXI",
+  "year": 2013,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "アクションパズルRPG",
+  "sales_jp": "2026/1 国内モバイル収益1位",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "協力",
+  "popularity": "ひっぱりハンティング、超・獣神祭",
+  "slug": "monster-strike",
+  "file": "data/games/020-monster-strike.json"
+}

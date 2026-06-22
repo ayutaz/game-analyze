@@ -1,0 +1,18 @@
+{
+  "id": 63,
+  "title_jp": "ファイナルファンタジーXVI",
+  "title_en": "Final Fantasy XVI",
+  "developer": "スクエニ",
+  "publisher": "スクエニ",
+  "year": 2023,
+  "platform": [
+    "PS5"
+  ],
+  "genre": "アクションRPG",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "final-fantasy-xvi",
+  "file": "data/games/063-final-fantasy-xvi.json"
+}

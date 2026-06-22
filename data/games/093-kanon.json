@@ -1,0 +1,16 @@
+{
+  "id": 93,
+  "title_jp": "Kanon",
+  "title_en": "Kanon",
+  "developer": "Key",
+  "publisher": "VisualArts",
+  "year": 1999,
+  "platform": [
+    "PC"
+  ],
+  "genre": "恋愛AVG",
+  "primary": "NAR",
+  "popularity": "ノベル型市場転換",
+  "slug": "kanon",
+  "file": "data/games/093-kanon.json"
+}

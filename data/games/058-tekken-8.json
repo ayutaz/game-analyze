@@ -1,0 +1,16 @@
+{
+  "id": 58,
+  "title_jp": "鉄拳8",
+  "title_en": "Tekken 8",
+  "developer": "バンナム",
+  "publisher": "バンナム",
+  "year": 2024,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "対戦格闘",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "tekken-8",
+  "file": "data/games/058-tekken-8.json"
+}

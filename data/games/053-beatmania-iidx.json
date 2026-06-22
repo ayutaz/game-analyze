@@ -1,0 +1,16 @@
+{
+  "id": 53,
+  "title_jp": "beatmania IIDX",
+  "title_en": "beatmania IIDX",
+  "developer": "KONAMI",
+  "publisher": "KONAMI",
+  "year": 1999,
+  "platform": [
+    "AC"
+  ],
+  "genre": "音ゲー",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "beatmania-iidx",
+  "file": "data/games/053-beatmania-iidx.json"
+}

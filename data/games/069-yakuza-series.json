@@ -1,0 +1,19 @@
+{
+  "id": 69,
+  "title_jp": "龍が如く シリーズ",
+  "title_en": "Yakuza series",
+  "developer": "RGGスタジオ",
+  "publisher": "セガ",
+  "year": 2005,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "アクションAdv",
+  "sales_world": "2200万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "yakuza-series",
+  "file": "data/games/069-yakuza-series.json"
+}

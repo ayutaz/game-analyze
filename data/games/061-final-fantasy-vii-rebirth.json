@@ -1,0 +1,18 @@
+{
+  "id": 61,
+  "title_jp": "ファイナルファンタジーVII リバース",
+  "title_en": "Final Fantasy VII Rebirth",
+  "developer": "スクエニ",
+  "publisher": "スクエニ",
+  "year": 2024,
+  "platform": [
+    "PS5"
+  ],
+  "genre": "RPG",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "final-fantasy-vii-rebirth",
+  "file": "data/games/061-final-fantasy-vii-rebirth.json"
+}

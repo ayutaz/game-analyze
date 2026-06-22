@@ -1,0 +1,20 @@
+{
+  "id": 59,
+  "title_jp": "GUILTY GEAR -STRIVE-",
+  "title_en": "Guilty Gear Strive",
+  "developer": "アークシステムワークス",
+  "publisher": "ASW",
+  "year": 2021,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "対戦格闘",
+  "sales_world": "300万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "slug": "guilty-gear-strive",
+  "file": "data/games/059-guilty-gear-strive.json"
+}

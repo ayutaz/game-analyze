@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "title_jp": "ポケモンGO",
+  "title_en": "Pokémon GO",
+  "developer": "Niantic",
+  "publisher": "ポケモン",
+  "year": 2016,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "位置情報ARPG",
+  "sales_world": "5B+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "slug": "pokemon-go",
+  "file": "data/games/018-pokemon-go.json"
+}

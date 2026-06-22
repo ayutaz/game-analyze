@@ -1,0 +1,20 @@
+{
+  "id": 99,
+  "title_jp": "実況パワフルプロ野球 シリーズ",
+  "title_en": "Powerful Pro Baseball series",
+  "developer": "KONAMI",
+  "publisher": "KONAMI",
+  "year": 1994,
+  "platform": [
+    "FC",
+    "Multi"
+  ],
+  "genre": "野球SLG/育成",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "slug": "powerful-pro-baseball-series",
+  "file": "data/games/099-powerful-pro-baseball-series.json"
+}

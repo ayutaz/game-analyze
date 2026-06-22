@@ -14,34 +14,47 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## ファイルの役割と編集時の責務
 
-| ファイル | 役割 | 編集時の注意 |
+| ファイル / 場所 | 役割 | 編集時の注意 |
 |---|---|---|
-| `data/games.json` | **唯一の構造化された一次データソース**（`{meta, games[]}` の形）。各 game は `id, title_jp, title_en, developer, publisher, year, platform[], genre, sales_jp, sales_world, primary, secondary[], social_axis, popularity` | ここを更新したら **必ず** Markdown 系（README/games-catalog/category-*）にも反映する。Markdown だけ更新して JSON とずれるのは典型的なバグ |
-| `README.md` | 全体サマリ・カテゴリ定義・売上Top・出典注記 | §2「集計サマリ」の本数（現状 EXP 55 / NAR 23 / REW 21、計99本）は JSON 集計と一致させる |
+| **`data/games/{id:03d}-{slug}.json`** | **一次データソース（一ゲーム一ファイル）**。各ファイルは `id, title_jp, title_en, developer, publisher, year, platform[], genre, sales_jp, sales_world, primary, secondary[], social_axis, popularity, slug, file` を持つ | ここを編集／追加／削除したら **必ず** `python3 scripts/build_aggregate.py` を実行して `data/games.json` と `data/index.json` を再生成 |
+| `data/meta.json` | カテゴリ定義・出典 URL・社会軸の定義（不変メタ） | カテゴリ定義や出典を増やしたときだけ編集 |
+| `data/index.json` | **派生物**: 軽量インデックス（id/タイトル/年/分類/ファイルパス） | 手で編集しない。`build_aggregate.py` が生成 |
+| `data/games.json` | **派生物**: 集約形式（`{meta, games[]}`）。後方互換と Markdown 編集の参照用 | 手で編集しない。`build_aggregate.py` が生成 |
+| `README.md` | 全体サマリ・カテゴリ定義・売上Top・出典注記 | §2「集計サマリ」の本数は JSON 集計と一致させる |
 | `games-catalog.md` | 全タイトルのマスターテーブル（マークダウン表） | 列順は JSON のキー順に揃える。ID は JSON と一致 |
 | `category-experience.md` | EXP の一覧 + 「他者軸」6 サブタイプ別解説 | EXP の追加・分類変更時に他者軸サブタイプの集計も更新 |
 | `category-narrative.md` | NAR 一覧 + 解説 | — |
 | `category-reward.md` | REW 一覧 + 解説（モバイル収益、ガチャ系、IP×軽量ループ等） | — |
+| `scripts/split_games.py` | 一度きり用: 集約 `games.json` を `data/games/` に分解 | 通常は使わない（履歴的に保持） |
+| `scripts/build_aggregate.py` | `data/games/*.json` から `games.json` と `index.json` を再生成 | データ変更後に必ず実行 |
 
 **ID #56 は欠番（プロセカ重複を排除した結果）**。本数を 100 に揃えたい場合は、未掲載のタイトル（例：ウマ娘、デレステ、シャニマス、グラブル等 — 出典の openQuestions 参照）を追加して #56 を埋めるのが自然です。
 
-## データの整合性チェック（編集後に毎回走らせる）
+## データ編集ワークフロー
+
+1. **追加**: `data/games/{id:03d}-{slug}.json` を新規作成（id は既存と被らないように、slug は英語タイトルから kebab-case）
+2. **修正**: 該当する `data/games/{id:03d}-*.json` を直接編集
+3. **削除**: 該当ファイルを削除
+4. **必ず最後に再生成**: `python3 scripts/build_aggregate.py`
+5. **整合性チェック**:
 
 ```bash
 python3 -c "
 import json
 from collections import Counter
-with open('data/games.json') as f:
-    d = json.load(f)
-games = d['games']
+from pathlib import Path
+games = [json.loads(p.read_text()) for p in sorted(Path('data/games').glob('*.json'))]
 print('total:', len(games))
 print('primary:', Counter(g['primary'] for g in games))
 print('social_axis(EXP):', Counter(g.get('social_axis') for g in games if g['primary']=='EXP'))
-print('ids missing:', sorted(set(range(1, max(g['id'] for g in games)+1)) - {g['id'] for g in games}))
+ids = {g['id'] for g in games}
+print('ids missing:', sorted(set(range(1, max(ids)+1)) - ids))
+print('id collisions:', len(games) - len(ids))
+print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 "
 ```
 
-期待値（2026-06 時点）: total=99 / EXP 55, NAR 23, REW 21 / ids missing=[56]
+期待値（2026-06 時点）: total=99 / EXP 55, NAR 23, REW 21 / ids missing=[56] / collisions=0
 
 ## 分類ルール（複数該当タイトルの主分類判定）
 

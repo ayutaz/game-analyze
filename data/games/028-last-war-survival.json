@@ -1,0 +1,20 @@
+{
+  "id": 28,
+  "title_jp": "ラストウォー：サバイバル",
+  "title_en": "Last War: Survival",
+  "developer": "First Fun Games",
+  "publisher": "First Fun",
+  "year": 2023,
+  "platform": [
+    "Mobile"
+  ],
+  "genre": "SLG+カジュアル",
+  "sales_jp": "2025年国内モバイル年間1位 (vs MS 1.3倍)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "対戦",
+  "slug": "last-war-survival",
+  "file": "data/games/028-last-war-survival.json"
+}

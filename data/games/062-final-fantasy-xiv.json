@@ -1,0 +1,20 @@
+{
+  "id": 62,
+  "title_jp": "ファイナルファンタジーXIV",
+  "title_en": "Final Fantasy XIV",
+  "developer": "スクエニ",
+  "publisher": "スクエニ",
+  "year": 2010,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "MMORPG",
+  "sales_world": "3000万+ ID",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "slug": "final-fantasy-xiv",
+  "file": "data/games/062-final-fantasy-xiv.json"
+}

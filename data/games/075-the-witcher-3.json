@@ -1,0 +1,19 @@
+{
+  "id": 75,
+  "title_jp": "ウィッチャー3 ワイルドハント",
+  "title_en": "The Witcher 3",
+  "developer": "CD Projekt Red",
+  "publisher": "CDPR",
+  "year": 2015,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "OW RPG",
+  "sales_world": "5000万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "the-witcher-3",
+  "file": "data/games/075-the-witcher-3.json"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 60,
+  "title_jp": "スマブラ DX",
+  "title_en": "Super Smash Bros. Melee",
+  "developer": "HAL",
+  "publisher": "任天堂",
+  "year": 2001,
+  "platform": [
+    "GC"
+  ],
+  "genre": "対戦アクション",
+  "sales_world": "7M+",
+  "primary": "EXP",
+  "social_axis": "対戦",
+  "slug": "super-smash-bros-melee",
+  "file": "data/games/060-super-smash-bros-melee.json"
+}

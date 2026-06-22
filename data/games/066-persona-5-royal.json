@@ -1,0 +1,19 @@
+{
+  "id": 66,
+  "title_jp": "ペルソナ5 ロイヤル",
+  "title_en": "Persona 5 Royal",
+  "developer": "アトラス",
+  "publisher": "アトラス",
+  "year": 2019,
+  "platform": [
+    "PS4",
+    "Multi"
+  ],
+  "genre": "RPG",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "slug": "persona-5-royal",
+  "file": "data/games/066-persona-5-royal.json"
+}

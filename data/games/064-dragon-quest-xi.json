@@ -1,0 +1,20 @@
+{
+  "id": 64,
+  "title_jp": "ドラゴンクエストXI 過ぎ去りし時を求めて",
+  "title_en": "Dragon Quest XI",
+  "developer": "スクエニ",
+  "publisher": "スクエニ",
+  "year": 2017,
+  "platform": [
+    "PS4",
+    "3DS"
+  ],
+  "genre": "RPG",
+  "sales_world": "800万+",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "slug": "dragon-quest-xi",
+  "file": "data/games/064-dragon-quest-xi.json"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 54,
+  "title_jp": "maimai でらっくす",
+  "title_en": "maimai DX",
+  "developer": "SEGA",
+  "publisher": "SEGA",
+  "year": 2019,
+  "platform": [
+    "AC"
+  ],
+  "genre": "音ゲー",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "slug": "maimai-dx",
+  "file": "data/games/054-maimai-dx.json"
+}

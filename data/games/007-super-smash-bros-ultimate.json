@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "title_jp": "大乱闘スマッシュブラザーズ SPECIAL",
+  "title_en": "Super Smash Bros. Ultimate",
+  "developer": "バンナム/ソラ",
+  "publisher": "任天堂",
+  "year": 2018,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "対戦アクション",
+  "sales_jp": "5.74M",
+  "sales_world": "35M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "キャラクロスオーバー集大成",
+  "slug": "super-smash-bros-ultimate",
+  "file": "data/games/007-super-smash-bros-ultimate.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 10,
+  "title_jp": "ゼルダの伝説 ティアーズ オブ ザ キングダム",
+  "title_en": "Tears of the Kingdom",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2023,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "OW Adv",
+  "sales_world": "22M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ウルトラハンドで創造性",
+  "slug": "tears-of-the-kingdom",
+  "file": "data/games/010-tears-of-the-kingdom.json"
+}

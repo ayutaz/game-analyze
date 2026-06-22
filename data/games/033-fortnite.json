@@ -1,0 +1,20 @@
+{
+  "id": 33,
+  "title_jp": "フォートナイト",
+  "title_en": "Fortnite",
+  "developer": "Epic Games",
+  "publisher": "Epic Games",
+  "year": 2017,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "バトロワTPS",
+  "sales_world": "5億+ ユーザー",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "slug": "fortnite",
+  "file": "data/games/033-fortnite.json"
+}

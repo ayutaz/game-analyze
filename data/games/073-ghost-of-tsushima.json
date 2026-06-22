@@ -1,0 +1,19 @@
+{
+  "id": 73,
+  "title_jp": "Ghost of Tsushima",
+  "title_en": "Ghost of Tsushima",
+  "developer": "Sucker Punch",
+  "publisher": "SIE",
+  "year": 2020,
+  "platform": [
+    "PS4"
+  ],
+  "genre": "OWアクション",
+  "sales_world": "1300万+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "ghost-of-tsushima",
+  "file": "data/games/073-ghost-of-tsushima.json"
+}

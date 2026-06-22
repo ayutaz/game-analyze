@@ -1,0 +1,19 @@
+{
+  "id": 37,
+  "title_jp": "オーバーウォッチ 2",
+  "title_en": "Overwatch 2",
+  "developer": "Blizzard",
+  "publisher": "Blizzard",
+  "year": 2022,
+  "platform": [
+    "Multi"
+  ],
+  "genre": "ヒーローFPS",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "slug": "overwatch-2",
+  "file": "data/games/037-overwatch-2.json"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 89,
+  "title_jp": "十三機兵防衛圏",
+  "title_en": "13 Sentinels: Aegis Rim",
+  "developer": "ヴァニラウェア",
+  "publisher": "アトラス",
+  "year": 2019,
+  "platform": [
+    "PS4",
+    "Switch"
+  ],
+  "genre": "AVG+SLG",
+  "sales_world": "100万+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "slug": "13-sentinels-aegis-rim",
+  "file": "data/games/089-13-sentinels-aegis-rim.json"
+}

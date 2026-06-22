@@ -1,0 +1,19 @@
+{
+  "id": 14,
+  "title_jp": "ポケットモンスター ソード・シールド",
+  "title_en": "Pokémon Sword/Shield",
+  "developer": "ゲームフリーク",
+  "publisher": "ポケモン",
+  "year": 2019,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "RPG/収集",
+  "sales_jp": "4.47M",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "slug": "pokemon-sword-shield",
+  "file": "data/games/014-pokemon-sword-shield.json"
+}

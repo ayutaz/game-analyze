@@ -30,14 +30,10 @@ function bestSales(g) {
 
 function topbarNav(active) {
   return `
-    <h1>日本のゲーム99本 分析カタログ</h1>
-    <span class="mock-label">MOCK</span>
+    <h1><a href="facet.html" style="text-decoration:none;color:inherit;">日本のゲーム99本 分析カタログ</a></h1>
     <nav>
-      <a href="index.html" class="${active==='index'?'active':''}">モック選択</a>
-      <a href="matrix.html" class="${active==='matrix'?'active':''}">A: マトリクス</a>
-      <a href="facet.html" class="${active==='facet'?'active':''}">B: ファセット</a>
-      <a href="scatter.html" class="${active==='scatter'?'active':''}">C: 散布図</a>
-      <a href="dashboard.html" class="${active==='dashboard'?'active':''}">D: ダッシュボード</a>
+      <a href="facet.html" class="${active==='facet'?'active':''}">一覧</a>
+      <a href="https://github.com/ayutaz/game-analyze" target="_blank">GitHub</a>
     </nav>
   `;
 }

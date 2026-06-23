@@ -1,0 +1,26 @@
+{
+  "id": 201,
+  "title_jp": "ヴァルヘイム",
+  "title_en": "Valheim",
+  "developer": "Iron Gate Studio",
+  "publisher": "Coffee Stain Publishing",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "協力サバイバル・サンドボックス",
+  "sales_jp": "",
+  "sales_world": "1200万本+（2023時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "2021年2月のSteam早期アクセス開始から1ヶ月で500万本を売り、コロナ禍下の協力サバイバルの代表作として爆発。低スペックでも動く軽量さと北欧神話世界、建築・拠点構築の自由度で長期コミュニティを形成した。",
+  "slug": "valheim",
+  "file": "data/games/201-valheim.json",
+  "concept": "バイキングの戦士として死後の世界ヴァルヘイムを冒険し、伐採・建築・ボス討伐を仲間と進めるロー・ポリゴンの協力サバイバル・サンドボックス。手描き風の美しい風景と硬派なサバイバル要素を両立する。",
+  "target": "Minecraftや7 Days to Dieのような協力建築・探索サバイバルを好む層、フレンドと長期間遊べるPvEサンドボックスを求める層。北欧神話・ローポリ美学・骨太な戦闘を楽しめるPCゲーマーに刺さる。"
+}

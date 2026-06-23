@@ -134,3 +134,35 @@
 - **JRPG の継続的厚み**: FF7 リメイク、P5S、テイルズ オブ アライズ、ゼノブレイド3、メタファー、DQIII / DQI＆II HD-2D、オクトパスII、PR2、Hi-Fi RUSH、ペーパーマリオRPG 等、王道JRPG／物語駆動が大量追加。
 - **海外発のシネマティック**: GOW Ragnarok、Death Stranding 2、Silent Hill 2 Remake、Silent Hill f、MGS Δ、Kingdom Come 2、Baldur's Gate 3。「読む／観る／選ぶ」がパッケ売上で再評価された。
 - **インディー物語ヒット**: NEEDY GIRL OVERDOSE、OMORI、ファミレスを享受せよ、Stray。SNS文化と短尺ナラティブが結合し、200万本級の物語インディーが恒常化。
+
+## 5. 2020+ インディー拡張（2026年6月追加分の NAR 21本）
+
+2020年以降に世界で20万本超を売り上げたナラティブ／VN 系インディー 21本（Workflow による調査・敵対検証で確定）。「Citizen Sleeper」系列のサイバーパンクTRPG調、メタ／不条理ホラー、JRPGリスペクトのドット絵、日本産短尺ナラティブまで多様。
+
+  - **インスクリプション** (Inscryption, 2021, Daniel Mullins Games) — IGF 2022 大賞・GDC GOTY 2022 を獲得し、ARG的なメタホラー演出と「ジャンルが途中で変容する」構造がSNSとストリーマーで爆発的に拡散された。
+  - **シー・オブ・スターズ** (Sea of Stars, 2023, Sabotage Studio) — TGA 2023 Best Indie受賞。『クロノ・トリガー』『マリオRPG』への愛情に満ちた現代版ネオJRPGとして、ドット絵RPG世代の郷愁と海外インディーの完成度を両立し、Day 1でXbox/PS Plus加入も追い風に。
+  - **スレイ・ザ・プリンセス** (Slay the Princess, 2023, Black Tabby Games) — 2024年INDIE Live Expo大賞、Tumblr/TikTokで二次創作が爆発し「姫を殺すか否か」という選択演出のフルボイス分岐VNとして口コミ拡散。
+  - **スピリットファーラー** (Spiritfarer, 2020, Thunder Lotus Games) — 「死」をテーマにした優しい看取りのコージーゲームとして"ウェルビーイング系ナラティブ"の代名詞となり、TGA 2020 Games for Impactノミネートで一気に話題化。
+  - **Library Of Ruina（ライブラリー・オブ・ルイナ）** (Library of Ruina, 2020, Project Moon) — Project Moon世界観の中核作として熱狂的カルト人気を獲得。2024年アークシステムワークスがSwitch/PS4版を国内発売し、Limbus Company人気と相まって日本でも認知拡大。
+  - **ディスコ・エリジウム ザ・ファイナル・カット** (Disco Elysium: The Final Cut, 2021, ZA/UM) — 2019年PC版で熱狂的支持を得た文学的CRPGが、2021年のフルボイス化「Final Cut」と多機種展開で一気に世界規模の現象に。「ゲーム文学」を語る上での参照点として、ライター・批評家・実況界隈で長期間バズり続けた。
+  - **シチズン・スリーパー** (Citizen Sleeper, 2022, Jump Over The Age) — ソロ開発者によるTTRPG的なダイス駆動ナラティブRPGとして批評家絶賛、ディスコ・エリジウム後の「読むRPG」潮流を代表する一本としてカルト的人気を獲得
+  - **シチズン・スリーパー 2: スターワード・ベクター** (Citizen Sleeper 2: Starward Vector, 2025, Jump Over The Age) — 前作で築いたサイバーパンク叙情系インディーRPGの評価をベースに、続編としてダイス＋ドリフター運用へとシステムを刷新。Game Pass・PS Plus 同時配信もあり一気にメインストリーム化した。
+  - **アンパッキング** (Unpacking, 2021, Witch Beam) — BAFTA 2022「Narrative」「EE Game of the Year」、D.I.C.E. 2022「Outstanding Independent Game」を受賞。引っ越しの段ボールから所持品を出して配置するという行為だけで
+  - **マウスウォッシング** (Mouthwashing, 2024, Wrong Organ) — PS1風ローポリ表現と密室宇宙船での精神崩壊群像劇が「3時間で終わる劇薬」として2024年のホラー配信者GOTY議論を席巻。Steam「圧倒的に好評」、Tumblr/TikTok中心の考察カルト人気でインディーホラーの代表格となった。
+  - **ミサイド** (MiSide, 2024, AIHASTO) — 2024年冬の最大級ホラーバズ。スマホゲームの中の可愛い「ミタちゃん」と暮らす日常が徐々に狂気へ転落する展開がVTuber実況・SNSで爆発し、リリース2週間で4万件超のレビュー98%好評を獲得。
+  - **アンディ&レイリーの棺** (The Coffin of Andy and Leyley, 2023, Nemlei) — ソロ開発者Nemleiが生んだ近親共依存サイコホラー。TumblrとTikTokで2024年「問題あるインディーファンダム」現象を巻き起こした。
+  - **NORCO** (NORCO, 2022, Geography of Robots) — 第1回Tribeca Games Award受賞、TGA 2022「Best Debut Indie」ノミネート、IGF 2022 Honorable Mention。Metacritic 89点で批評家絶賛、ナラティブ系インディーの代表格
+  - **イン・スターズ・アンド・タイム** (In Stars and Time, 2023, insertdisc5) — ループに気づくのは自分だけという心理的孤独を主軸に据えた語りと、じゃんけんベースのバトルというユニークさで国内外インディーRPGファンの絶賛を獲得。ファミ通・4Gamer・電撃・AUTOMATONがそろって紹介し、Steamレビュー97%の
+  - **チェインドエコーズ** (Chained Echoes, 2022, Matthias Linda) — 独りの開発者が7年がかりで完成させたSNES風JRPGとして高評価。シンボルエンカウント・スピード重視の戦闘・飛空艇/メカ要素など"古き良きJRPGの理想形"として欧米コアファンの間で口コミ拡散
+  - **イーストワード** (Eastward, 2021, Pixpil) — スタジオジブリ風ピクセルアートと終末世界の親子ロードムービー的物語性、Chucklefish（Stardew Valley版元）パブリッシングと2021年Nintendo年間ベストインディーリスト入りで注目を集めた。
+  - **パラノマサイト FILE23 本所七不思議** (PARANORMASIGHT: The Seven Mysteries of Honjo, 2023, Xeen（スクウェア・エニックス）) — Steam96%圧倒的に好評、日本ゲーム大賞2023優秀賞受賞、低価格(1980円)とコンパクトな尺の昭和ホラー怪談ADVが口コミ拡散。続編・ポップアップショップ展開でIP化。
+  - **バニーガーデン** (Bunny Garden, 2024, qureate) — 発売直後にSteam日本売上1位・Switch eShop DLランキング2位を獲得。VTuberの実況波と「お紳士向け」ミームがX/Twitterで拡散し、qureateの予想を超える反響で続編・派生6タイトルへIP拡張、2026年4月に
+  - **Refind Self: 性格診断ゲーム** (Refind Self: The Personality Test Game, 2023, Lizardry) — プレイ中の行動から性格を診断し、結果画面が「自分の人格レポート」として SNS シェアされやすい構造。診断系コンテンツ×ピクセルアートの相性で X（旧 Twitter）バズを連発、AUTOMATON 2023 年ベスト選出、日本 App S
+  - **Ib（イヴ）** (Ib, 2022, kouri) — 2012年RPGツクール製フリーゲームの金字塔がPLAYISMにより商業リメイク。Steam発売直後にグローバルトップセラーTop3入り、ユーザーレビュー98%「圧倒的に好評」、Famitsu/4Gamer/電ファミ等大手も大特集。Swit
+  - **Clair Obscur: Expedition 33** (Clair Obscur: Expedition 33, 2025, Sandfall Interactive) — フランスの小規模インディースタジオ(約30人)のデビュー作が、TGA2025でGOTY含む9冠を達成し同賞史上最多受賞記録を樹立。AA規模でAAA超えの評価を受けた象徴的作品として世界中で話題となり、発売初年で800万本を突破。
+
+### 観察（インディー NAR）
+
+- **Inscryption / Slay the Princess の「メタ」拡張**: ゲームの「外側」を疑わせる構造（プレイヤー＝観測者）が NAR インディーの主軸の一つに。
+- **Citizen Sleeper 系列の TRPG ナラティブ**: ダイス＋ロール＋語りの構造化が、Disco Elysium 以降の継承者として確立。In Stars and Time / NORCO / 1000xResist（reject されたがコンセプトは同潮流）も同系。
+- **日本産短尺ナラティブ**: PARANORMASIGHT、Refind Self、Bunny Garden、Ib。「数時間で完結するインディーノベル」というポジションが Steam JP でも定着。

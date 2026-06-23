@@ -1,0 +1,24 @@
+{
+  "id": 237,
+  "title_jp": "タクティカル・ブリーチ・ウィザーズ",
+  "title_en": "Tactical Breach Wizards",
+  "developer": "Suspicious Developments",
+  "publisher": "Suspicious Developments",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "ターン制タクティクス",
+  "sales_jp": "",
+  "sales_world": "Steam 30万本+（推定／レビュー1万件超・97%好評）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Tom Francis（Gunpoint/Heat Signature）率いる小規模スタジオ作。発売3週で10万本、Steam 97%好評・IGF入選で「機転の効くタクティクス」の代表格として一気に話題化。",
+  "slug": "tactical-breach-wizards",
+  "file": "data/games/237-tactical-breach-wizards.json",
+  "concept": "SWAT風の突入戦術と魔法を融合した、巻き戻し可能なターン制タクティクス。短く小気味よい1ミッションで「ウィザード突撃部隊」を組み立て、敵を窓から蹴り出す爽快な手筋構築を楽しむ。",
+  "target": "XCOMやInto the Breachのような詰将棋的戦術ゲームを好み、軽妙なバディものの会話劇込みで遊びたい層。短時間プレイ向きで戦術ゲーム入門にも適する。"
+}

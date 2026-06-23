@@ -1,0 +1,28 @@
+{
+  "id": 265,
+  "title_jp": "クロウ・カントリー",
+  "title_en": "Crow Country",
+  "developer": "SFB Games",
+  "publisher": "SFB Games",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Switch"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "",
+  "sales_world": "25万本+（2025年末時点／Steamのみで約18.4万本、コンソール合算推計）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1風固定カメラのレトロ表現に現代的UXを組み合わせた「サバイバルホラー復興」の象徴的インディーで、Steam評価98%圧倒的好評と低価格帯が口コミを加速させた。",
+  "slug": "crow-country",
+  "file": "data/games/265-crow-country.json",
+  "concept": "PS1時代の固定カメラ・サバイバルホラーを現代に蘇らせた、SFB Games（Snipperclipsの開発元）による低ポリゴン回顧的ホラー。寂れたテーマパーク「クロウ・カントリー」を捜査する連邦捜査官の物語。",
+  "target": "バイオハザード初期作・サイレントヒルなどPS1〜PS2期サバイバルホラーへのノスタルジーを持つ層と、短時間（6〜8時間）で完結する濃密な探索・謎解き体験を求めるインディーホラー愛好層。"
+}

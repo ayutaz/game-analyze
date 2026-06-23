@@ -1,0 +1,26 @@
+{
+  "id": 222,
+  "title_jp": "グースグースダック",
+  "title_en": "Goose Goose Duck",
+  "developer": "Gaggle Studios",
+  "publisher": "Gaggle Studios",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ソーシャル人狼",
+  "sales_jp": "",
+  "sales_world": "F2P／登録6700万人超・Steam同接ピーク70万人（2023年1月、Among Us超え）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "BTSのVが配信で遊んだことを契機にK-POPファン経由でアジア圏に爆発拡散、Among Usの同接記録を抜いた「アヒル人狼」現象。日本でもVTuber・配信者の定番パーティゲームとして定着",
+  "slug": "goose-goose-duck",
+  "file": "data/games/222-goose-goose-duck.json",
+  "concept": "Among Usをガチョウとアヒルに置き換え、役職を36種以上に拡張した基本無料のソーシャル人狼。ボイチャ標準搭載で配信向けに最適化されている",
+  "target": "アモアス以降の人狼系パーティゲームを大人数で遊びたい配信者・視聴者参加型コミュニティ。役職豊富な戦略性とゆるい見た目のギャップを楽しみたい層"
+}

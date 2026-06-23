@@ -1,0 +1,25 @@
+{
+  "id": 239,
+  "title_jp": "リスク・オブ・レイン・リターンズ",
+  "title_en": "Risk of Rain Returns",
+  "developer": "Hopoo Games",
+  "publisher": "Gearbox Publishing",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch"
+  ],
+  "genre": "ローグライト・アクションプラットフォーマー",
+  "sales_jp": "",
+  "sales_world": "35万本+ / 初週売上 $2M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "発売3日で約100万ドル、初週で約200万ドル、Steam同時接続45,141人を記録しプレミアム部門でCoDに次ぐ2位。原作ファンの郷愁とHopooの「シリーズへの最後の置き土産」という物語性がバズを牽引した。",
+  "slug": "risk-of-rain-returns",
+  "file": "data/games/239-risk-of-rain-returns.json",
+  "concept": "2013年の名作ローグライト・アクションプラットフォーマー『Risk of Rain』を10周年に合わせHopoo Games自らがフルリメイク。新サバイバー・新ステージ・新アイテム・HDピクセルアート・オンラインマルチを追加し、シリーズ原点の「アイテム重ね掛けでビルドを爆発させる」体験を現代基準で再構築した決定版。",
+  "target": "原作『Risk of Rain』(2013) を遊んだ古参ファン、および『Risk of Rain 2』からシリーズに入って2D原点を体験したい層。アイテム収集とビルド構築でランごとに加速度的に強くなる「雪だるま式」ローグライトを好み、最大4人のオンライン協力プレイで難易度を仲間と分かち合いたいプレイヤー。"
+}

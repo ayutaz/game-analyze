@@ -1,0 +1,26 @@
+{
+  "id": 256,
+  "title_jp": "フロストパンク2",
+  "title_en": "Frostpunk 2",
+  "developer": "11 bit studios",
+  "publisher": "11 bit studios",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "サバイバル都市建設",
+  "sales_jp": "",
+  "sales_world": "60万本（2024年12月時点）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2018年の名作続編として高い期待を集め、発売3日で35万本・10日で50万本を突破して開発費を即回収。スケールアップした派閥政治と道徳的ジレンマが議論を呼んだ。",
+  "slug": "frostpunk-2",
+  "file": "data/games/256-frostpunk-2.json",
+  "concept": "極寒終末世界で都市ではなく「国家」を経営する大規模サバイバル都市建設シミュレーション。前作の小規模な暖炉サバイバルから派閥政治と社会工学へとスケールアップし、リーダーとしての非情な選択を迫る。",
+  "target": "前作Frostpunkの重い倫理的選択や、Civ・Anno系の重厚なシミュレーション、ディストピアSFの世界観に没入したい大人のPCゲーマー。"
+}

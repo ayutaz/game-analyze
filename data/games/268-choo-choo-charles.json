@@ -1,0 +1,29 @@
+{
+  "id": 268,
+  "title_jp": "チューチュー・チャールズ",
+  "title_en": "Choo-Choo Charles",
+  "developer": "Two Star Games (Gavin Eisenbeisz)",
+  "publisher": "Two Star Games",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Switch"
+  ],
+  "genre": "オープンワールドホラー",
+  "sales_jp": "",
+  "sales_world": "PC100万本+ / Steam所有 500K-1M / 売上$14M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「クモ脚の機関車から逃げる」というB級コンセプトの絶対的なインパクトで2022年12月にTwitter/TikTokでバイラル化、ソロ開発インディーが初月で約30万本・500万ドルを叩き出した",
+  "slug": "choo-choo-charles",
+  "file": "data/games/268-choo-choo-charles.json",
+  "concept": "蜘蛛の脚を持つ怪物機関車「チャールズ」から逃げながら島内の線路を走り回り、自分のオンボロ蒸気機関車を強化して最終決戦を挑むオープンワールド・サバイバルホラー。プレイヤーは島民の依頼をこなしてアップグレード素材を集める。",
+  "target": "B級ホラーやキワモノ怪物動画を愛するStreamer/視聴者層、そしてソロインディーらしいチープさを「味」として楽しめる層。実況栄えするコンセプトの強さで、プレイ動画から入って自分でも触ってみる層が中心。"
+}

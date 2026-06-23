@@ -1,0 +1,27 @@
+{
+  "id": 227,
+  "title_jp": "Cuphead - The Delicious Last Course",
+  "title_en": "Cuphead: The Delicious Last Course",
+  "developer": "Studio MDHR",
+  "publisher": "Studio MDHR",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "ラン&ガン（DLC）",
+  "sales_jp": "",
+  "sales_world": "DLC 200万本+（2022年末時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1930年代カートゥーン風アートと激ムズボス戦の続編DLCで、本編の長年のファンが待ち望み発売2週間で100万本、半年で200万本を突破。新キャラ「Ms. Chalice」追加で本編プレイ感も変化。",
+  "slug": "cuphead-the-delicious-last-course",
+  "file": "data/games/227-cuphead-the-delicious-last-course.json",
+  "concept": "手描きセル画と弦楽ジャズを纏った高難度ラン&ガン『Cuphead』の唯一にして最終の拡張DLC。新ワールド「Inkwell Isle 4」と新ボス、追加プレイアブル「Ms. Chalice」を加え、本編に新たな攻略レイヤーを上書きする。",
+  "target": "本編Cupheadを攻略済みで「もっとあのボス戦をやらせろ」と渇望していた高難度アクション愛好者、および1930年代アニメ美術・ジャズ音楽に惹かれるアートファン。ローカル2P協力でワイワイ遊ぶ層にも刺さる。"
+}

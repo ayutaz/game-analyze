@@ -1,0 +1,28 @@
+{
+  "id": 245,
+  "title_jp": "ホールズ・オブ・トーメント",
+  "title_en": "Halls of Torment",
+  "developer": "Chasing Carrots",
+  "publisher": "Chasing Carrots",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X|S",
+    "iOS",
+    "Android"
+  ],
+  "genre": "サバイバー系ローグライト",
+  "sales_jp": "",
+  "sales_world": "100万本+ (Steam, 2024-10)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「Vampire Survivors系」にDiablo風の暗い見下ろし型ビジュアルとビルド多様性を持ち込み、Steamで95%以上の高評価とインフルエンサー配信で1年で100万本突破。",
+  "slug": "halls-of-torment",
+  "file": "data/games/245-halls-of-torment.json",
+  "concept": "Diablo風のダークなUIと膨大なキャラ・アイテム・呪文ビルドを、Vampire Survivors系のオートアタック弾幕サバイバーに融合した「掘れば掘るほどビルドが組める」ハクスラ系サバイバーライク。",
+  "target": "Vampire Survivorsで群衆処理の快感を覚え、もう一段「ハクスラ的にビルドを掘りたい」「キャラを集めて育てたい」と思った周回プレイヤー、Diablo世代のPC ARPGファン。"
+}

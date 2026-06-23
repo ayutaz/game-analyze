@@ -1,0 +1,22 @@
+{
+  "id": 258,
+  "title_jp": "Tiny Glade",
+  "title_en": "Tiny Glade",
+  "developer": "Pounce Light",
+  "publisher": "Pounce Light",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "コージー建築サンドボックス",
+  "sales_jp": "",
+  "sales_world": "110万本+（発売1ヶ月で61.6万本）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「目的・失敗なし」の瞑想的建築ツールという独自ポジション。Steamで圧倒的に好評97%、SNSでスクリーンショット映えするミニチュアジオラマが拡散。",
+  "slug": "tiny-glade",
+  "file": "data/games/258-tiny-glade.json",
+  "concept": "城や小屋をブラシで撫でるように築き、石壁・蔦・屋根が自動で破綻なく馴染んでいく非ゲーム的サンドボックス。クリア条件もスコアもなく、ジオラマを愛でる行為そのものが目的。",
+  "target": "Townscaper や Dorfromantik を好む建築・ジオラマ好き、競争や進行管理に疲れたプレイヤー、SNS用に美しい風景を作りたい層。"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 219,
+  "title_jp": "V Rising",
+  "title_en": "V Rising",
+  "developer": "Stunlock Studios",
+  "publisher": "Stunlock Studios",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "PS5"
+  ],
+  "genre": "ヴァンパイア・サバイバルARPG",
+  "sales_jp": "",
+  "sales_world": "500万本+（2025年1月）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2022年EA時にSteamで爆発的バイラル、2024年5月の1.0正式版＋6月PS5版で第二波到来。城建築×吸血鬼ロールプレイ×クランPvPの組み合わせが配信映えし、スウェーデン産インディーながら累計500万本を突破。",
+  "slug": "v-rising",
+  "file": "data/games/219-v-rising.json",
+  "concept": "吸血鬼として目覚め、太陽を避けながら城を築き、人間や他の吸血鬼から血と素材を狩るオープンワールド・サバイバルARPG。ソロ／協力PvE／クランPvPまでサーバー設定で自在に切り替えられる。",
+  "target": "ARK／Conanのようなサバイバル建築と、Diablo風トップダウン戦闘の両方を遊びたいPCゲーマー。仲間とクランを組んで他城を襲撃するPvP志向のプレイヤーに特に刺さる。"
+}

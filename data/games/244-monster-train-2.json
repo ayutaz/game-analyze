@@ -1,0 +1,27 @@
+{
+  "id": 244,
+  "title_jp": "モンスター・トレイン2",
+  "title_en": "Monster Train 2",
+  "developer": "Shiny Shoe",
+  "publisher": "Big Fan Games",
+  "year": 2025,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "ローグライト・デッキ構築",
+  "sales_jp": "",
+  "sales_world": "41万本+（Steam、約$8.3M、2026年時点）／プレイヤー50万人達成",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2020年の前作『Monster Train』のカルト的人気を受け継ぎ、2025年5月の発売直後からSteamで圧倒的に好評（95%）を獲得。3レーン縦型ローグライト・デッキ構築という独自フォーマットの正統進化として配信者・実況勢からも支持され、半年で50万プレイヤー到達。",
+  "slug": "monster-train-2",
+  "file": "data/games/244-monster-train-2.json",
+  "concept": "天国と地獄の戦いを縦3レーンで描く、独自フォーマットのローグライト・デッキ構築の続編。10のクランから2つを選び合体させてシナジーを組む「クラン合成」ビルドの自由度が極端に高く、毎ラン異なる構築体験が生まれる。",
+  "target": "『Slay the Spire』をやり込んだデッキ構築ローグライトのファンで、より複雑なシナジーとビルド多様性を求める層。一周1〜2時間でランを回しながら数百時間遊び続ける、ソロ最適化ゲーマー向け。"
+}

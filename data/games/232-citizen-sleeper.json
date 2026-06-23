@@ -1,0 +1,28 @@
+{
+  "id": 232,
+  "title_jp": "シチズン・スリーパー",
+  "title_en": "Citizen Sleeper",
+  "developer": "Jump Over The Age",
+  "publisher": "Fellow Traveller",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "ナラティブRPG",
+  "sales_jp": "",
+  "sales_world": "100万本+（シリーズ累計200万本+）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "ソロ開発者によるTTRPG的なダイス駆動ナラティブRPGとして批評家絶賛、ディスコ・エリジウム後の「読むRPG」潮流を代表する一本としてカルト的人気を獲得",
+  "slug": "citizen-sleeper",
+  "file": "data/games/232-citizen-sleeper.json",
+  "concept": "企業から逃亡した義体労働者（スリーパー）が朽ちかけた宇宙ステーション「アーチ」で生き延びる、サイコパンクなダイス駆動型ナラティブRPG。1日ごとに振られるダイスを行動に割り当て、住民との関係性を編んでいく。",
+  "target": "ディスコ・エリジウムやTTRPGに親しむ読書好きプレイヤー、SF文学やサイバーパンクの世界観を一人称で味わいたい層に刺さる。戦闘よりも会話と選択肢で物語を進めたい人向け。"
+}

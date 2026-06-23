@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated": "2026-06-22",
-    "total_titles": 200,
+    "generated": "2026-06-23",
+    "total_titles": 303,
     "categories": {
       "EXP": "体験型 — gameplay-driven, especially with social interaction",
       "NAR": "物語型 — narrative-driven",
@@ -26,9 +26,9 @@
       "https://kamigame.jp/gaming/35459.html"
     ],
     "primary_breakdown": {
-      "EXP": 105,
-      "REW": 47,
-      "NAR": 48
+      "EXP": 183,
+      "REW": 51,
+      "NAR": 69
     }
   },
   "games": [
@@ -4447,6 +4447,2634 @@
       "slug": "kingdom-come-deliverance-ii",
       "concept": "15世紀ボヘミアを舞台にした考証重視のリアル系オープンワールドRPG。魔法・ドラゴンを排し、鍛冶・剣術・社会階層シミュレーションで没入感を作る硬派路線を続編で大幅拡張。",
       "target": "前作および『ウィッチャー3』を遊んだ洋RPG好きの30〜40代男性が中心。歴史考証や重厚なロールプレイを好む層に支持される。"
+    },
+    {
+      "id": 201,
+      "title_jp": "ヴァルヘイム",
+      "title_en": "Valheim",
+      "developer": "Iron Gate Studio",
+      "publisher": "Coffee Stain Publishing",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "genre": "協力サバイバル・サンドボックス",
+      "sales_jp": "",
+      "sales_world": "1200万本+（2023時点）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "2021年2月のSteam早期アクセス開始から1ヶ月で500万本を売り、コロナ禍下の協力サバイバルの代表作として爆発。低スペックでも動く軽量さと北欧神話世界、建築・拠点構築の自由度で長期コミュニティを形成した。",
+      "slug": "valheim",
+      "concept": "バイキングの戦士として死後の世界ヴァルヘイムを冒険し、伐採・建築・ボス討伐を仲間と進めるロー・ポリゴンの協力サバイバル・サンドボックス。手描き風の美しい風景と硬派なサバイバル要素を両立する。",
+      "target": "Minecraftや7 Days to Dieのような協力建築・探索サバイバルを好む層、フレンドと長期間遊べるPvEサンドボックスを求める層。北欧神話・ローポリ美学・骨太な戦闘を楽しめるPCゲーマーに刺さる。"
+    },
+    {
+      "id": 202,
+      "title_jp": "インスクリプション",
+      "title_en": "Inscryption",
+      "developer": "Daniel Mullins Games",
+      "publisher": "Devolver Digital",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox",
+        "iOS"
+      ],
+      "genre": "デッキ構築ローグライト／メタホラー",
+      "sales_jp": "",
+      "sales_world": "150万本+（2022年9月時点 1.46M）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "IGF 2022 大賞・GDC GOTY 2022 を獲得し、ARG的なメタホラー演出と「ジャンルが途中で変容する」構造がSNSとストリーマーで爆発的に拡散された。",
+      "slug": "inscryption",
+      "concept": "薄暗い小屋で謎の男とカードゲームを始めたはずが、ゲームそのものの「正体」が剥がれていく多層メタ構造のデッキ構築ローグライト。ホラー、脱出、ARGが入れ子になり、プレイヤーは物語の「外側」を掘り続ける。",
+      "target": "Slay the Spire等のデッキ構築を遊んだうえで、Pony IslandやThe Stanley Parableのような「ゲームを疑う」メタ作品が好きな層。ネタバレ前に駆け抜けたいシングル派プレイヤー。"
+    },
+    {
+      "id": 203,
+      "title_jp": "ループヒーロー",
+      "title_en": "Loop Hero",
+      "developer": "Four Quarters",
+      "publisher": "Devolver Digital",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ローグライト・デッキ構築",
+      "sales_jp": "",
+      "sales_world": "Steam 100万本+（2021年12月）／モバイル100万DL+（2024年）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ロシア発インディーが「キャラは自動で歩く・プレイヤーはマップにカードを置くだけ」という斬新な放置型ローグライトで2021年突如ヒット。発売週で50万本、9ヶ月で100万本突破しSteamトップセラー入り。",
+      "slug": "loop-hero",
+      "concept": "勇者は円形のループを自動で周回し、プレイヤーは手札のタイル（森・墓地・村など）をマップに配置して敵と地形を生成する逆転発想のローグライト。配置の組み合わせでビルドを練る思考型のオートバトル。",
+      "target": "ローグライト・デッキ構築・放置系の交差点が好きな層。FTL／Slay the Spire／Vampire Survivors系の「短時間ループで戦略を最適化する」体験を求めるPC・モバイルゲーマー。"
+    },
+    {
+      "id": 204,
+      "title_jp": "テューニック",
+      "title_en": "Tunic",
+      "developer": "Isometricorp Games (Andrew Shouldice)",
+      "publisher": "Finji",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "Mac",
+        "iOS"
+      ],
+      "genre": "アクションアドベンチャー（謎解き）",
+      "sales_jp": "",
+      "sales_world": "Steam所有 1.1M+ / 全世界推定 売上$21M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "D.I.C.E. 2023独立系部門最優秀、BAFTA 2023芸術功績＋デビュー作受賞。「説明書を解読する」異言語マニュアル体験がカルト的人気を博した。",
+      "slug": "tunic",
+      "concept": "キツネの主人公が異言語で書かれた取扱説明書を断片的に集め、解読しながら世界の謎を解いていく見下ろし型アクションアドベンチャー。ゼルダ風の戦闘と古典的攻略本文化への愛が融合した一作。",
+      "target": "かつて意味の分からない海外ゲームを攻略本片手に遊んだ世代、暗号・記号・隠し要素の解読が好きなパズル/探索好きプレイヤー。"
+    },
+    {
+      "id": 205,
+      "title_jp": "サンズ・オブ・ザ・フォレスト",
+      "title_en": "Sons of the Forest",
+      "developer": "Endnight Games",
+      "publisher": "Endnight Games",
+      "year": 2023,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "サバイバルホラー協力",
+      "sales_jp": "",
+      "sales_world": "Steam所有 1390万本+（2025年7月）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "2023年EA開始24時間で200万本、2025年までにSteamだけで1390万本超え。AI仲間「ケルビン」のミーム化と食人族と戦うサバイバル協力配信で爆発。",
+      "slug": "sons-of-the-forest",
+      "concept": "前作『The Forest』の続編。墜落した島で食人族・突然変異体と戦いながら基地を建て生き延びる、3Dサバイバルホラー。AIコンパニオン「ケルビン」「バージニア」が共闘する点が斬新。",
+      "target": "フレンドと協力して建築・探索・恐怖体験を共有したいサバイバル／ホラー好き。配信向きの緊張感とミーム性を楽しめるSteamユーザー。"
+    },
+    {
+      "id": 206,
+      "title_jp": "バトルビット・リマスタード",
+      "title_en": "BattleBit Remastered",
+      "developer": "SgtOkiDoki / TheLiquidHorse / Vilaskis",
+      "publisher": "SgtOkiDoki",
+      "year": 2023,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "大規模対戦FPS",
+      "sales_jp": "",
+      "sales_world": "600万本+（Steam推定）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "popularity": "3人のインディー開発者が「ローポリ版バトルフィールド」を作り上げ、本家の不調と相まって2023年中盤にバズ。254人対戦という規格外スケールと$15という低価格、ボイチャ前提のカオスな乱戦体験がストリーマー経由で爆発した。",
+      "slug": "battlebit-remastered",
+      "concept": "ローポリ・ボクセル風グラフィックで描かれる最大254人対戦のFPS。破壊可能な広大なマップと近接ボイチャを前提にした「バトルフィールド系の本質」を超低スペックで再現する。",
+      "target": "バトルフィールド・シリーズの大規模戦闘に飢えたPC FPSプレイヤーや、ボイチャ込みのカオスな分隊プレイを楽しみたい層。グラフィックよりも対戦規模と挙動の手触りを重視する人向け。"
+    },
+    {
+      "id": 207,
+      "title_jp": "DREDGE（ドレッジ）",
+      "title_en": "Dredge",
+      "developer": "Black Salt Games",
+      "publisher": "Team17（日本: Game Source Entertainment）",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "genre": "コズミックホラー釣りADV",
+      "sales_jp": "",
+      "sales_world": "100万本+（2023年10月時点）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ニュージーランド4人のデビュースタジオが「初年度10万本目標」を発売24時間で達成、NZゲームアワード2023グランプリ受賞。穏やかな絵柄と昼夜で豹変するクトゥルフ的恐怖のギャップが配信映えしてバズ拡大。",
+      "slug": "dredge",
+      "concept": "のどかな絵柄の漁師シミュレーションに、夜になると正気度が削れ深海から異形が這い寄るコズミックホラーを融合したダークフィッシングアドベンチャー。釣り・船改造・探索ループの裏で町の謎と狂気の物語が進行する。",
+      "target": "『Stardew Valley』的な穏やかな生活ゲームを好みつつ、ラヴクラフト／クトゥルフ系の不穏な雰囲気や謎解きにも惹かれる層。短時間でも区切れるソロ向け中規模インディーを探すプレイヤー。"
+    },
+    {
+      "id": 208,
+      "title_jp": "ピザタワー",
+      "title_en": "Pizza Tower",
+      "developer": "Tour de Pizza",
+      "publisher": "Tour de Pizza",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "genre": "2Dアクションプラットフォーマー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 1M-2M / 売上$60M+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "5年間Patreonで温められた狂気の作画と疾走感が2023年1月リリースで爆発、Steam史上最高評価級の2Dプラットフォーマーとして口コミ拡散。実況・スピードラン文化も後押し",
+      "slug": "pizza-tower",
+      "concept": "『ワリオランド』の系譜を継ぐ高速2Dアクションプラットフォーマー。ピザ屋のおっさん「ペッピーノ」がタワーを爆走し、コンボとランクを稼ぎながらステージ崩壊から逃げ切る",
+      "target": "90年代カートゥーン調のドット作画と理不尽なスピード感、Pランクを狙うやり込みプレイを楽しみたい2Dアクション・スピードラン愛好家"
+    },
+    {
+      "id": 209,
+      "title_jp": "コクーン",
+      "title_en": "Cocoon",
+      "developer": "Geometric Interactive",
+      "publisher": "Annapurna Interactive",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS"
+      ],
+      "genre": "パズルアドベンチャー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K–500K（全機種で50万本+推定）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "『LIMBO』『INSIDE』のリードゲームプレイデザイナーJeppe Carlsen初監督作。TGA 2023ベストデビューインディー、D.I.C.E. 2024年最優秀インディー受賞で話題化。",
+      "slug": "cocoon",
+      "concept": "オーブの中に世界が入れ子状に格納された幾何学的なパズルアドベンチャー。球を背負って異なる次元世界を行き来し、世界そのものを道具として使う独自の仕掛けで謎を解く。",
+      "target": "『INSIDE』『The Witness』『Monument Valley』のような無言・幾何学・アハ体験型パズルを好む層。難しすぎず確実に解ける絶妙な難易度設計で、ライトにアートゲームを味わいたいプレイヤー向け。"
+    },
+    {
+      "id": 210,
+      "title_jp": "シー・オブ・スターズ",
+      "title_en": "Sea of Stars",
+      "developer": "Sabotage Studio",
+      "publisher": "Sabotage Studio",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One",
+        "Mac"
+      ],
+      "genre": "ターン制ドットRPG",
+      "sales_jp": "",
+      "sales_world": "600万プレイヤー+（2024年11月時点）／初週25万本",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "TGA 2023 Best Indie受賞。『クロノ・トリガー』『マリオRPG』への愛情に満ちた現代版ネオJRPGとして、ドット絵RPG世代の郷愁と海外インディーの完成度を両立し、Day 1でXbox/PS Plus加入も追い風に。",
+      "slug": "sea-of-stars",
+      "concept": "太陽と月の力を継ぐ二人の「ソルスティス・ウォリアー」を主人公に据えた、90年代SFC黄金期JRPGへのラブレター。タイミングベース戦闘・天体パズル・美麗ピクセルアートで「思い出のJRPG」をモダンに再構築した一本。",
+      "target": "クロノ・トリガーやマリオRPGに思い入れのある30〜40代のJRPGファン、および90年代名作を未体験の若い世代で「いま遊べる正統派ドット絵RPG」を求めるプレイヤー。"
+    },
+    {
+      "id": 211,
+      "title_jp": "スレイ・ザ・プリンセス",
+      "title_en": "Slay the Princess",
+      "developer": "Black Tabby Games",
+      "publisher": "Black Tabby Games",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X|S",
+        "Mac"
+      ],
+      "genre": "ホラーADV／ビジュアルノベル",
+      "sales_jp": "",
+      "sales_world": "100万本+（2026年2月、全プラットフォーム合計）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "2024年INDIE Live Expo大賞、Tumblr/TikTokで二次創作が爆発し「姫を殺すか否か」という選択演出のフルボイス分岐VNとして口コミ拡散。",
+      "slug": "slay-the-princess",
+      "concept": "「森の小屋で姫を殺せ」という指示から始まる、選択ごとに姫と語り手の姿・関係性・物語そのものが書き換わるメタ構造のホラー・ビジュアルノベル。フルボイス・手描きモノクロ作画で全分岐に異なる結末が用意される。",
+      "target": "『Doki Doki Literature Club』『Disco Elysium』のような語りの仕掛けや哲学的会話を好む層、海外インディーVN・心理ホラー志向のプレイヤー。"
+    },
+    {
+      "id": 212,
+      "title_jp": "マナー・ローズ",
+      "title_en": "Manor Lords",
+      "developer": "Slavic Magic (Greg Styczeń)",
+      "publisher": "Hooded Horse",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "GOG",
+        "Xbox",
+        "PC Game Pass"
+      ],
+      "genre": "中世都市建設／RTS",
+      "sales_jp": "",
+      "sales_world": "300万本+ (2025年2月)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ソロ開発者による14世紀フランケン地方を題材にした硬派な中世都市建設。発売前 Steam ウィッシュリスト300万超、発売週末の同時接続17万超で都市建設ジャンルの記録を塗り替え、Early Access開始3週間で200万本到達。",
+      "slug": "manor-lords",
+      "concept": "封建領主となり、史実考証に基づく14世紀の村を一軒ずつ手作りで育て、領地を拡大しながら時にはRTS戦闘で防衛する「歴史リアリズム×都市建設」のハイブリッド。",
+      "target": "Banished/Anno/Total War 系の硬派ストラテジーファン。地形に沿った中世村落の有機的な発展や、税・食糧・農業3圃制といった経済シミュレーションをじっくり味わいたい単独プレイ志向のプレイヤー。"
+    },
+    {
+      "id": 213,
+      "title_jp": "アニマル・ウェル",
+      "title_en": "Animal Well",
+      "developer": "Shared Memory (Billy Basso)",
+      "publisher": "Bigmode",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "メトロイドヴァニア・パズル",
+      "sales_jp": "",
+      "sales_world": "100万本+（2024年〜2025年累計）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "YouTuber videogamedunkey 設立の新興パブリッシャー Bigmode 第1弾としてローンチ時から注目を集め、わずか33MBに詰め込まれた濃密なパズルと多層的なARG級の秘密がコミュニティの集合的攻略を生み、2025年DICE Awards「Outstanding Game Direction」を受賞して評価が決定的になった。",
+      "slug": "animal-well",
+      "concept": "薄暗い動物たちの地下迷宮を探索する2Dメトロイドヴァニア。プレイヤーは戦闘ではなく、ヨーヨーやフリスビーなどの非戦闘ガジェットの組み合わせと観察眼だけで秘密を解き明かしていく、極限まで圧縮されたパズル設計の作品。",
+      "target": "『La-Mulana』『Fez』『Tunic』のように、ゲームに隠された言語・記号・秘密を解読することそのものを楽しめるコア層。ヒントを最小限にしたソロ探索と、外部コミュニティでの謎共有の両方を味わいたいプレイヤー向け。"
+    },
+    {
+      "id": 214,
+      "title_jp": "パシフィック・ドライブ",
+      "title_en": "Pacific Drive",
+      "developer": "Ironwood Studios",
+      "publisher": "Kepler Interactive",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "Epic",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "サバイバル運転",
+      "sales_jp": "",
+      "sales_world": "100万本+ (2025年2月時点)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "米PNW（パシフィック・ノースウェスト）の異常気象立入禁止区域を呪われたステーションワゴンで脱出するという独自設定が話題化。James Wanによる実写TVシリーズ化が発表され、TGA 2024デビュー作部門にもノミネートされた。",
+      "slug": "pacific-drive",
+      "concept": "放棄されたオリンピック立入禁止区域から愛車のステーションワゴンと共に脱出を目指す一人称サバイバル運転ゲーム。車両を「相棒」として整備・改造しながら異常現象の渦巻くゾーンを走破する。",
+      "target": "『STALKER』や『Subnautica』のような探索系サバイバルと、車いじりの没入感を求めるソロプレイヤー。緊張感のあるドライブと環境ストーリーテリングを好む層に刺さる。"
+    },
+    {
+      "id": 215,
+      "title_jp": "ライアーズ・バー",
+      "title_en": "Liar's Bar",
+      "developer": "Curve Animation",
+      "publisher": "Curve Animation",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "ブラフ／嘘つき推理ホラー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 2M-5M（推定）／ピーク同接113k",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "popularity": "プロキシミティボイス＋ロシアンルーレットの「嘘がバレた瞬間に銃声」演出が配信／TikTokで爆発、トルコ発インディーが2024年Q4の代表的バズに。",
+      "slug": "liars-bar",
+      "concept": "最大4人でカードゲームと「嘘の見破り合い」をしながら、嘘を疑われた者がリボルバーで自分の頭にロシアンルーレットを撃つマルチ・ブラフホラー。ボイスチャット必須で、表情・声色・沈黙の全てが情報になる。",
+      "target": "Among Us／Phasmophobia 系のボイス前提パーティ協力＋裏切りを好む配信者・友人グループ。短時間で勝敗が決まり配信映えする心理戦・絶叫体験を求める層。"
+    },
+    {
+      "id": 216,
+      "title_jp": "PEAK",
+      "title_en": "PEAK",
+      "developer": "Aggro Crab / Landfall",
+      "publisher": "Aggro Crab / Landfall",
+      "year": 2025,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "協力クライミングサバイバル",
+      "sales_jp": "",
+      "sales_world": "1100万本+ (Steam)",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "2社のインディースタジオがゲームジャムノリで4ヶ月制作した「副業」作品が、発売6日で100万本・1ヶ月で500万本・2ヶ月で1000万本を突破。同接11万超で2025年夏の配信者向け代表作となった。",
+      "slug": "peak",
+      "concept": "最大4人で奇怪な島の山頂を目指して登攀する協力サバイバル。スタミナ管理・落下・装備共有・即死リスクが生むドタバタ劇が、配信・実況映えする「失敗が一番面白い」体験を作り出す。",
+      "target": "『Lethal Company』『Content Warning』など低価格×Discord通話前提のワイワイ協力ゲームを好む層。配信で見て真似したくなる「滑落ネタ」中心のプレイヤー。"
+    },
+    {
+      "id": 217,
+      "title_jp": "スレイ・ザ・スパイア 2",
+      "title_en": "Slay the Spire 2",
+      "developer": "Mega Crit",
+      "publisher": "Mega Crit",
+      "year": 2026,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "ローグライト・デッキ構築",
+      "sales_jp": "",
+      "sales_world": "530万本+（2026年3月時点、EA）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ジャンルを定義した名作の正統続編が2026年3月のEA開始からわずか2週間で460万本、月末までに530万本を売り上げ、Steam同時接続52万人を記録。HadesIIやSilksongのSteam収益すら数日で抜き去り、史上最大級のインディーEAローンチとして話題沸騰。",
+      "slug": "slay-the-spire-2",
+      "concept": "2019年に「ローグライト・デッキ構築」というジャンルそのものを確立した名作の続編。新キャラクター、4人協力プレイ、Godot移行による刷新されたビジュアルと、初代を凌駕する手触りで「やめどき」を奪うシングルプレイ体験を提供する。",
+      "target": "初代を遊び尽くしたデッキ構築ファン、Roguebook・Monster Train・Balatro等で同ジャンルに触れた新規層、配信で観るだけでも楽しい戦術ゲーマー全般。Steam Deckでスキマ時間に詰将棋的に遊びたい人にも刺さる。"
+    },
+    {
+      "id": 218,
+      "title_jp": "エンシュラウデッド",
+      "title_en": "Enshrouded",
+      "developer": "Keen Games",
+      "publisher": "Keen Games",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "Xbox Series X/S",
+        "PS5"
+      ],
+      "genre": "協力ボクセルサバイバルRPG",
+      "sales_jp": "",
+      "sales_world": "400万本+（2025年4月時点）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "2024年1月の早期アクセスで4日で100万本を達成、Palworldに次ぐ2024年最大級のローンチを記録。最大16人協力プレイのボクセル建築×アクションRPGとして話題化。",
+      "slug": "enshrouded",
+      "concept": "霧（Shroud）に覆われた終末世界を最大16人で冒険する、協力型ボクセルサバイバルアクションRPG。Valheimの自由建築・MinecraftのボクセルにSouls系アクションを融合させた。",
+      "target": "ValheimやMinecraft、ARK風の協力サバイバル建築に物足りなさを感じ、より本格的なアクションRPG戦闘と縦に広がる地形探索を求めるPC/コンソールプレイヤー。フレンドと長期間ワールドを育てたい層。"
+    },
+    {
+      "id": 219,
+      "title_jp": "V Rising",
+      "title_en": "V Rising",
+      "developer": "Stunlock Studios",
+      "publisher": "Stunlock Studios",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "PS5"
+      ],
+      "genre": "ヴァンパイア・サバイバルARPG",
+      "sales_jp": "",
+      "sales_world": "500万本+（2025年1月）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2022年EA時にSteamで爆発的バイラル、2024年5月の1.0正式版＋6月PS5版で第二波到来。城建築×吸血鬼ロールプレイ×クランPvPの組み合わせが配信映えし、スウェーデン産インディーながら累計500万本を突破。",
+      "slug": "v-rising",
+      "concept": "吸血鬼として目覚め、太陽を避けながら城を築き、人間や他の吸血鬼から血と素材を狩るオープンワールド・サバイバルARPG。ソロ／協力PvE／クランPvPまでサーバー設定で自在に切り替えられる。",
+      "target": "ARK／Conanのようなサバイバル建築と、Diablo風トップダウン戦闘の両方を遊びたいPCゲーマー。仲間とクランを組んで他城を襲撃するPvP志向のプレイヤーに特に刺さる。"
+    },
+    {
+      "id": 220,
+      "title_jp": "ブロタト",
+      "title_en": "Brotato",
+      "developer": "Blobfish (Thomas Gervraud)",
+      "publisher": "Blobfish",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "genre": "アリーナサバイバー／ローグライト",
+      "sales_jp": "",
+      "sales_world": "1000万本+（2025年）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ヴァンサバ系の波に乗りつつ、ジャガイモ主人公×短時間ループ×多彩なビルドで“もう1回”を誘発。モバイル展開とコンソール移植で世界規模に拡大した個人開発ヒット。",
+      "slug": "brotato",
+      "concept": "最大6本の武器を同時装備するジャガイモ戦士となり、エイリアンの波状攻撃を凌ぐトップダウン型アリーナサバイバー。1戦20分前後でビルド構築と取捨選択の脳汁が完結する。",
+      "target": "ヴァンパイアサバイバーズで“勝手に強くなる”快感を覚えたプレイヤーや、短時間でビルド試行を回したいローグライト愛好家。モバイルでスキマ時間プレイしたい層にも刺さる。"
+    },
+    {
+      "id": 221,
+      "title_jp": "コア・キーパー",
+      "title_en": "Core Keeper",
+      "developer": "Pugstorm",
+      "publisher": "Fireshine Games",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "genre": "サンドボックスサバイバル採掘",
+      "sales_jp": "",
+      "sales_world": "200万本+（プレイヤー数300万+）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "テラリア×スターデューバレー×地下探索の組み合わせがハマり、最大8人協力プレイのループが配信・口コミで拡散。2024年8月の1.0正式リリースとコンソール／Game Pass展開でさらに伸長。",
+      "slug": "core-keeper",
+      "concept": "闇に閉ざされた地下世界で採掘・建築・農業・ボス討伐を進める2Dサンドボックスサバイバル。中央のコアを起点に拠点を拡張し、最大8人で広大なバイオームを冒険する。",
+      "target": "テラリアやスターデューバレーが好きで、友人と長時間まったり拠点運営と探索を楽しみたい協力プレイ志向のサンドボックス愛好家。"
+    },
+    {
+      "id": 222,
+      "title_jp": "グースグースダック",
+      "title_en": "Goose Goose Duck",
+      "developer": "Gaggle Studios",
+      "publisher": "Gaggle Studios",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ソーシャル人狼",
+      "sales_jp": "",
+      "sales_world": "F2P／登録6700万人超・Steam同接ピーク70万人（2023年1月、Among Us超え）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "BTSのVが配信で遊んだことを契機にK-POPファン経由でアジア圏に爆発拡散、Among Usの同接記録を抜いた「アヒル人狼」現象。日本でもVTuber・配信者の定番パーティゲームとして定着",
+      "slug": "goose-goose-duck",
+      "concept": "Among Usをガチョウとアヒルに置き換え、役職を36種以上に拡張した基本無料のソーシャル人狼。ボイチャ標準搭載で配信向けに最適化されている",
+      "target": "アモアス以降の人狼系パーティゲームを大人数で遊びたい配信者・視聴者参加型コミュニティ。役職豊富な戦略性とゆるい見た目のギャップを楽しみたい層"
+    },
+    {
+      "id": 223,
+      "title_jp": "WEBFISHING",
+      "title_en": "WEBFISHING",
+      "developer": "lamedeveloper",
+      "publisher": "lamedeveloper",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "カジュアル協力釣りチャットルーム",
+      "sales_jp": "",
+      "sales_world": "Steam所有 1M-2M+（推定売上130万本）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "$5の超低価格で「釣り」を口実にしたチャットルームMMOとして、2024年末にTumblr/Twitter/クィアインターネット文化圏で爆発的に拡散。最大12人のロビーで雑談しながら釣るという緩い体験が「ピーク・マルチプレイヤー」と評価され、配信・SNSバズの定番に。",
+      "slug": "webfishing",
+      "concept": "最大12人のロビーで雑談しながらのんびり釣るだけの「チャットルーム偽装型」カジュアル・マルチプレイヤー。アバターでハングアウトし、メタルディテクター・ギター演奏など脱線も楽しむ低価格インディー。",
+      "target": "どうぶつの森や昔のフリーチャットMMOに郷愁を感じるプレイヤー、ストレスのないコージーな協力体験を求める層、配信やSNSで「ゆるく集まる場所」を欲する若いインターネット文化圏のユーザー。"
+    },
+    {
+      "id": 224,
+      "title_jp": "スピリットファーラー",
+      "title_en": "Spiritfarer",
+      "developer": "Thunder Lotus Games",
+      "publisher": "Thunder Lotus Games",
+      "year": 2020,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "Xbox One",
+        "iOS",
+        "Android",
+        "Stadia"
+      ],
+      "genre": "コージー経営／ナラティブ",
+      "sales_jp": "",
+      "sales_world": "100万本+（2021年12月時点）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "「死」をテーマにした優しい看取りのコージーゲームとして\"ウェルビーイング系ナラティブ\"の代名詞となり、TGA 2020 Games for Impactノミネートで一気に話題化。",
+      "slug": "spiritfarer",
+      "concept": "死者の魂をフェリーで彼岸へ送り届けるコージー経営アドベンチャー。船を建造・拡張しながら同乗する精霊たちとの別れを通して喪失と受容を描く。",
+      "target": "『風ノ旅ビト』や『あつまれ どうぶつの森』のような穏やかで情緒的な体験を求める層、家族との別れや喪失を癒すゲームを探すプレイヤー。"
+    },
+    {
+      "id": 225,
+      "title_jp": "ENDER LILIES: Quietus of the Knights",
+      "title_en": "ENDER LILIES: Quietus of the Knights",
+      "developer": "Live Wire / Adglobe",
+      "publisher": "Binary Haze Interactive",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ダークファンタジーメトロイドヴァニア",
+      "sales_jp": "",
+      "sales_world": "150万本+（2024年7月時点、シリーズ累計200万本+）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Miliによる荘厳なサウンドトラックがSNSで拡散し、Nintendo Best Indie 2021選出。和製メトロイドヴァニアの代表格として国内外で評価。",
+      "slug": "ender-lilies-quietus-of-the-knights",
+      "concept": "滅びかけた王国を彷徨う少女リリィが、浄化した騎士たちの霊を従えて戦うダークファンタジーメトロイドヴァニア。Miliの歌曲と水彩風の美術で構築された、静謐かつ陰鬱な世界観が特徴。",
+      "target": "Hollow KnightやSalt and Sanctuaryなど高難度2D探索アクションを好む層、ソウルライクのストイックな戦闘と耽美なアートワーク・音楽を同時に楽しみたいプレイヤー。"
+    },
+    {
+      "id": 226,
+      "title_jp": "Library Of Ruina（ライブラリー・オブ・ルイナ）",
+      "title_en": "Library of Ruina",
+      "developer": "Project Moon",
+      "publisher": "Project Moon / アークシステムワークス（CS版）",
+      "year": 2020,
+      "platform": [
+        "Steam",
+        "Xbox One",
+        "Switch",
+        "PS4"
+      ],
+      "genre": "デッキ構築RPG",
+      "sales_jp": "",
+      "sales_world": "Steam所有 1M-2M",
+      "primary": "NAR",
+      "secondary": [
+        "EXP",
+        "REW"
+      ],
+      "social_axis": "",
+      "popularity": "Project Moon世界観の中核作として熱狂的カルト人気を獲得。2024年アークシステムワークスがSwitch/PS4版を国内発売し、Limbus Company人気と相まって日本でも認知拡大。",
+      "slug": "library-of-ruina",
+      "concept": "韓国インディーProject Moonによる「図書館」を舞台にしたデッキ構築×戦術RPG。前作『Lobotomy Corporation』世界観を継承し、招いた客を本に変えて司書たちの蔵書を増やしていく重層的な物語と戦闘システムが融合する。",
+      "target": "重厚で難解な世界観・テキスト量を歓迎し、デッキ構築・パーティビルドの試行錯誤を厭わないコアゲーマー。Project Moonの『Lobotomy Corporation』『Limbus Company』のファン層と高く重なる。"
+    },
+    {
+      "id": 227,
+      "title_jp": "Cuphead - The Delicious Last Course",
+      "title_en": "Cuphead: The Delicious Last Course",
+      "developer": "Studio MDHR",
+      "publisher": "Studio MDHR",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "genre": "ラン&ガン（DLC）",
+      "sales_jp": "",
+      "sales_world": "DLC 200万本+（2022年末時点）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "1930年代カートゥーン風アートと激ムズボス戦の続編DLCで、本編の長年のファンが待ち望み発売2週間で100万本、半年で200万本を突破。新キャラ「Ms. Chalice」追加で本編プレイ感も変化。",
+      "slug": "cuphead-the-delicious-last-course",
+      "concept": "手描きセル画と弦楽ジャズを纏った高難度ラン&ガン『Cuphead』の唯一にして最終の拡張DLC。新ワールド「Inkwell Isle 4」と新ボス、追加プレイアブル「Ms. Chalice」を加え、本編に新たな攻略レイヤーを上書きする。",
+      "target": "本編Cupheadを攻略済みで「もっとあのボス戦をやらせろ」と渇望していた高難度アクション愛好者、および1930年代アニメ美術・ジャズ音楽に惹かれるアートファン。ローカル2P協力でワイワイ遊ぶ層にも刺さる。"
+    },
+    {
+      "id": 228,
+      "title_jp": "スライムランチャー2",
+      "title_en": "Slime Rancher 2",
+      "developer": "Monomi Park",
+      "publisher": "Monomi Park",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Xbox Series X|S",
+        "PS5",
+        "Epic Games Store"
+      ],
+      "genre": "一人称スライム牧場サンドボックス",
+      "sales_jp": "",
+      "sales_world": "Steam 80万本+／シリーズ累計 600万本+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "前作からの「cozy gaming」需要を引き継ぎ、配信映えするカラフルなスライム捕獲ループでEAローンチ6時間で10万本、初週30万本を達成。3年のEAを経て2025年9月にPS5含め1.0正式リリース。",
+      "slug": "slime-rancher-2",
+      "concept": "虹色の浮遊島「Rainbow Island」を一人称視点で探検し、可愛らしいスライムを吸引銃で捕獲・繁殖・経営するコージーサンドボックス続編。",
+      "target": "『あつ森』『Stardew Valley』系のゆるい収集・経営ループを好み、配信や実況で映える非暴力カラフル世界を求めるカジュアル層と前作ファン。"
+    },
+    {
+      "id": 229,
+      "title_jp": "プシュードレガリア",
+      "title_en": "Pseudoregalia",
+      "developer": "rittzler",
+      "publisher": "rittzler",
+      "year": 2023,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "3Dメトロイドヴァニア",
+      "sales_jp": "",
+      "sales_world": "20万本+（Steam所有者50万-100万、累計売上約400万ドル）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "N64風ローポリ美学と滑らかな3D移動アクションを6ドルで提供した一人開発作。ジャム作品から発展し、ストリーマー・スピードランナーの間で口コミ拡散",
+      "slug": "pseudoregalia",
+      "concept": "N64時代のローポリ3Dプラットフォーマーを現代の操作感で再構築した小規模メトロイドヴァニア。城サンサを舞台に、ジャンプ・壁走り・スライドなどのアビリティを解放しながら立体迷宮を踏破する移動体験そのものが主眼",
+      "target": "バンジョーカズーイ／スーパーマリオ64などレトロ3Dプラットフォーマー世代のプレイヤー、移動アクションの気持ちよさを追求するスピードラン・探索好き層"
+    },
+    {
+      "id": 230,
+      "title_jp": "コーラル・アイランド",
+      "title_en": "Coral Island",
+      "developer": "Stairway Games",
+      "publisher": "Humble Games",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S",
+        "Switch"
+      ],
+      "genre": "スローライフ農場シム",
+      "sales_jp": "",
+      "sales_world": "Steam所有 1.2M+（売上 $21M+）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "インドネシア発のスタデュー系農場シム、ダイビング・海洋浄化・多様な住人など独自要素で長期セールスを継続。2025年協力マルチ実装で再注目。",
+      "slug": "coral-island",
+      "concept": "熱帯の島で農場を営みつつダイビングで海を再生する、Stardew Valley系の現代的アップデート版スローライフシム。住人の多様性とビジュアル品質を売りに、ジャンルの新スタンダードを狙う一本。",
+      "target": "Stardew Valleyや牧場物語にハマったが、もっとリッチなグラフィック・現代的キャラ表現・海洋探索など新要素を求めるスローライフ層。"
+    },
+    {
+      "id": 231,
+      "title_jp": "ディスコ・エリジウム ザ・ファイナル・カット",
+      "title_en": "Disco Elysium: The Final Cut",
+      "developer": "ZA/UM",
+      "publisher": "ZA/UM",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Switch",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Mac"
+      ],
+      "genre": "ナラティブCRPG／探偵もの",
+      "sales_jp": "",
+      "sales_world": "Steam所有 2M-5M / 累計収益 $200M+",
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "popularity": "2019年PC版で熱狂的支持を得た文学的CRPGが、2021年のフルボイス化「Final Cut」と多機種展開で一気に世界規模の現象に。「ゲーム文学」を語る上での参照点として、ライター・批評家・実況界隈で長期間バズり続けた。",
+      "slug": "disco-elysium-the-final-cut",
+      "concept": "記憶喪失の刑事として殺人事件を捜査する、戦闘ゼロ・テキスト100万語超のナラティブCRPG。24のスキルが内なる声として語りかけ、選択と思想によって主人公の人格そのものを構築していく。",
+      "target": "『プレインスケープ：トーメント』や文学的SF・東欧思想小説に親和性のあるプレイヤー。ゲームに「読み物」としての密度と思想性を求める層、ロールプレイで自分の価値観を試したい層に強く刺さる。"
+    },
+    {
+      "id": 232,
+      "title_jp": "シチズン・スリーパー",
+      "title_en": "Citizen Sleeper",
+      "developer": "Jump Over The Age",
+      "publisher": "Fellow Traveller",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox"
+      ],
+      "genre": "ナラティブRPG",
+      "sales_jp": "",
+      "sales_world": "100万本+（シリーズ累計200万本+）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "ソロ開発者によるTTRPG的なダイス駆動ナラティブRPGとして批評家絶賛、ディスコ・エリジウム後の「読むRPG」潮流を代表する一本としてカルト的人気を獲得",
+      "slug": "citizen-sleeper",
+      "concept": "企業から逃亡した義体労働者（スリーパー）が朽ちかけた宇宙ステーション「アーチ」で生き延びる、サイコパンクなダイス駆動型ナラティブRPG。1日ごとに振られるダイスを行動に割り当て、住民との関係性を編んでいく。",
+      "target": "ディスコ・エリジウムやTTRPGに親しむ読書好きプレイヤー、SF文学やサイバーパンクの世界観を一人称で味わいたい層に刺さる。戦闘よりも会話と選択肢で物語を進めたい人向け。"
+    },
+    {
+      "id": 233,
+      "title_jp": "シチズン・スリーパー 2: スターワード・ベクター",
+      "title_en": "Citizen Sleeper 2: Starward Vector",
+      "developer": "Jump Over The Age",
+      "publisher": "Fellow Traveller",
+      "year": 2025,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "ナラティブRPG",
+      "sales_jp": "",
+      "sales_world": "プレイヤー 250万人+（PC/コンソール、2026年1月時点）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "前作で築いたサイバーパンク叙情系インディーRPGの評価をベースに、続編としてダイス＋ドリフター運用へとシステムを刷新。Game Pass・PS Plus 同時配信もあり一気にメインストリーム化した。",
+      "slug": "citizen-sleeper-2-starward-vector",
+      "concept": "小惑星帯の自治セクターを舞台に、デジタル意識体「スリーパー」として乗組員を集めながら星系を渡る、ダイスロール式の文芸テキストRPG。",
+      "target": "Disco Elysium・Citizen Sleeper（前作）・Norco など「読むRPG」を好む層、SFディストピア小説や TTRPG 的なリソース管理ナラティブを楽しみたいプレイヤー。"
+    },
+    {
+      "id": 234,
+      "title_jp": "アンパッキング",
+      "title_en": "Unpacking",
+      "developer": "Witch Beam",
+      "publisher": "Humble Games",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ズーパズル／ナラティブ",
+      "sales_jp": "",
+      "sales_world": "100万本+（2022年11月時点）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "BAFTA 2022「Narrative」「EE Game of the Year」、D.I.C.E. 2022「Outstanding Independent Game」を受賞。引っ越しの段ボールから所持品を出して配置するという行為だけで人生の節目を語り、「cozy game」というジャンルを定義づけた象徴的作品としてSNSで爆発的に拡散。",
+      "slug": "unpacking",
+      "concept": "段ボールから持ち物を取り出して新居に配置するだけのパズル。台詞も明示的なストーリーも一切ないが、8回の引っ越しを通じてひとりの女性の人生（学生時代→同棲→破局→自立→再婚）が浮かび上がる「物」で語るナラティブ体験。",
+      "target": "短時間でも遊べる癒し系インディーを求める層、テキストや戦闘なしで物語を味わいたい層、ライフスタイル系コンテンツやインテリア好きな層。配信・実況とも親和性が高い。"
+    },
+    {
+      "id": 235,
+      "title_jp": "ストレンジ・ホーティカルチャー",
+      "title_en": "Strange Horticulture",
+      "developer": "Bad Viking",
+      "publisher": "Iceberg Interactive",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "iOS",
+        "Android"
+      ],
+      "genre": "オカルト植物店パズル",
+      "sales_jp": "",
+      "sales_world": "全プラットフォーム100万本+（Steam 30万本+/Switch 10万本+）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "英国2人スタジオの「コージーホラー」異色作。植物を観察・同定するパズルと不穏な物語の組み合わせがTikTok等で話題となり、Switch移植が大ヒットして口コミでロングテール化した。",
+      "slug": "strange-horticulture",
+      "concept": "オカルティックな植物店主となり、来店客の依頼に応じて図鑑と特徴から植物を同定して手渡すパズルアドベンチャー。観察・推理と暗い物語が静かに絡み合う「不穏な癒し」ジャンルを切り拓いた1本。",
+      "target": "手触りの良い同定パズルと、薄暗い英国オカルト雰囲気を腰を据えて味わいたいソロプレイヤー。Return of the ObraDinnやCase of the Golden Idol系の観察推理を好む層に強く刺さる。"
+    },
+    {
+      "id": 236,
+      "title_jp": "マウスウォッシング",
+      "title_en": "Mouthwashing",
+      "developer": "Wrong Organ",
+      "publisher": "Critical Reflex",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X|S",
+        "Switch"
+      ],
+      "genre": "PS1風サイコホラー",
+      "sales_jp": "",
+      "sales_world": "50万本+（2025年2月、Steam）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "PS1風ローポリ表現と密室宇宙船での精神崩壊群像劇が「3時間で終わる劇薬」として2024年のホラー配信者GOTY議論を席巻。Steam「圧倒的に好評」、Tumblr/TikTok中心の考察カルト人気でインディーホラーの代表格となった。",
+      "slug": "mouthwashing",
+      "concept": "難破した宇宙貨物船で死を待つクルー4人の精神崩壊を、PS1風ローポリ表現と非線形タイムラインで描く一人称サイコホラー。プレイ時間約3時間で、選択肢ではなく「見せ方」で罪と責任の輪郭を観客に焼き付ける短編劇。",
+      "target": "『SIGNALIS』『Faith』など90s〜PS1美学のインディーホラーや、不快さを含めて物語の余韻を味わいたい層。配信視聴・考察カルチャーで深掘りされる短編ナラティブを好むプレイヤー。"
+    },
+    {
+      "id": 237,
+      "title_jp": "タクティカル・ブリーチ・ウィザーズ",
+      "title_en": "Tactical Breach Wizards",
+      "developer": "Suspicious Developments",
+      "publisher": "Suspicious Developments",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "ターン制タクティクス",
+      "sales_jp": "",
+      "sales_world": "Steam 30万本+（推定／レビュー1万件超・97%好評）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Tom Francis（Gunpoint/Heat Signature）率いる小規模スタジオ作。発売3週で10万本、Steam 97%好評・IGF入選で「機転の効くタクティクス」の代表格として一気に話題化。",
+      "slug": "tactical-breach-wizards",
+      "concept": "SWAT風の突入戦術と魔法を融合した、巻き戻し可能なターン制タクティクス。短く小気味よい1ミッションで「ウィザード突撃部隊」を組み立て、敵を窓から蹴り出す爽快な手筋構築を楽しむ。",
+      "target": "XCOMやInto the Breachのような詰将棋的戦術ゲームを好み、軽妙なバディものの会話劇込みで遊びたい層。短時間プレイ向きで戦術ゲーム入門にも適する。"
+    },
+    {
+      "id": 238,
+      "title_jp": "クラブゲーム",
+      "title_en": "Crab Game",
+      "developer": "Dani (Daniel Sooman)",
+      "publisher": "Dani",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "macOS",
+        "Linux"
+      ],
+      "genre": "パーティーサバイバル（イカゲーム風）",
+      "sales_jp": "",
+      "sales_world": "基本無料 / Steam所有 5M-10M / 同接ピーク28.3万",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "popularity": "2021年10月「イカゲーム」ブームに合わせ約2週間で開発・基本無料リリース、YouTuber/Twitchで爆発的に拡散しピーク28万人同接を記録",
+      "slug": "crab-game",
+      "concept": "Netflixドラマ『イカゲーム』のデスゲームを模したミニゲーム集を最大35人で対戦するファーストパーソン・パーティーゲーム。基本無料で参入障壁ゼロ、配信者向けのカオスな立ち回りが売り。",
+      "target": "配信文化・ミーム文化に親しむ若年層プレイヤー、フレンドや配信視聴者と短時間で笑える対戦体験を求める層。"
+    },
+    {
+      "id": 239,
+      "title_jp": "リスク・オブ・レイン・リターンズ",
+      "title_en": "Risk of Rain Returns",
+      "developer": "Hopoo Games",
+      "publisher": "Gearbox Publishing",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "genre": "ローグライト・アクションプラットフォーマー",
+      "sales_jp": "",
+      "sales_world": "35万本+ / 初週売上 $2M",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "発売3日で約100万ドル、初週で約200万ドル、Steam同時接続45,141人を記録しプレミアム部門でCoDに次ぐ2位。原作ファンの郷愁とHopooの「シリーズへの最後の置き土産」という物語性がバズを牽引した。",
+      "slug": "risk-of-rain-returns",
+      "concept": "2013年の名作ローグライト・アクションプラットフォーマー『Risk of Rain』を10周年に合わせHopoo Games自らがフルリメイク。新サバイバー・新ステージ・新アイテム・HDピクセルアート・オンラインマルチを追加し、シリーズ原点の「アイテム重ね掛けでビルドを爆発させる」体験を現代基準で再構築した決定版。",
+      "target": "原作『Risk of Rain』(2013) を遊んだ古参ファン、および『Risk of Rain 2』からシリーズに入って2D原点を体験したい層。アイテム収集とビルド構築でランごとに加速度的に強くなる「雪だるま式」ローグライトを好み、最大4人のオンライン協力プレイで難易度を仲間と分かち合いたいプレイヤー。"
+    },
+    {
+      "id": 240,
+      "title_jp": "Sifu",
+      "title_en": "Sifu",
+      "developer": "Sloclap",
+      "publisher": "Sloclap",
+      "year": 2022,
+      "platform": [
+        "PS5",
+        "PS4",
+        "PC",
+        "Switch",
+        "Xbox"
+      ],
+      "genre": "3Dカンフーアクション",
+      "sales_jp": "",
+      "sales_world": "400万本+ (2025)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "死ぬたびに主人公が老いていく独創的な「加齢システム」と、八極拳をベースにした重厚なカンフーアクションの説得力。高難度ながら習熟が明確に手応えに変わるソウルライク的設計で、配信映えする死闘が話題化した。",
+      "slug": "sifu",
+      "concept": "復讐を誓う武術家が、一日に師の仇を討つ旅へ。死ぬと年齢を重ねて再起動するという独自ループにより、攻撃力と引き換えに体力が減る老成と、若返りを賭けたリトライ攻防が一本に同居する3Dカンフーアクション。",
+      "target": "セキロ／ソウルライク／格闘ゲームのコンボ習熟が好きで、自分の腕前の上達自体を快楽にできるアクション愛好家。香港映画的なカンフー演出と高難度を厭わないコアプレイヤー向け。"
+    },
+    {
+      "id": 241,
+      "title_jp": "デス・ドア",
+      "title_en": "Death's Door",
+      "developer": "Acid Nerve",
+      "publisher": "Devolver Digital",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "genre": "アクションアドベンチャー",
+      "sales_jp": "",
+      "sales_world": "100万本+（Steam 76万本超／全機種合計推定）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "2021年Golden Joystick Awards Best Indie Game受賞、D.I.C.E.アドベンチャーGOTYノミネートなど受賞ラッシュで一気にインディー注目株に。Devolverパブリッシングの後押しと「カラスが剣を振るう」ビジュアルでSNS拡散。",
+      "slug": "deaths-door",
+      "concept": "死神の見習いカラスが、寿命を超えて存命する魂を回収する旅に出る2.5D見下ろし型アクションアドベンチャー。ゼルダ風の謎解き探索とソウルライク風のボス戦を融合し、洗練された手触りとブラックユーモア漂う世界観で評価された。",
+      "target": "ゼルダ風の見下ろしアクションや、ボス戦中心のソウルライク的歯ごたえを好むコア寄りのプレイヤー層。10時間前後でクリアできる凝縮された一品ものインディーを求める大人ゲーマー向け。"
+    },
+    {
+      "id": 242,
+      "title_jp": "Cobalt Core",
+      "title_en": "Cobalt Core",
+      "developer": "Rocket Rat Games",
+      "publisher": "Brace Yourself Games",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "genre": "ローグライト・デッキ構築",
+      "sales_jp": "",
+      "sales_world": "Steam所有 100K-200K（Switch版上乗せで 200K+ 圏）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Steamレビュー96%「圧倒的好評」、PC Gamerが「年間ベスト・デッキ構築」と評するなど批評筋から高評価。4Gamerやでんふぁみで日本語紹介も豊富、StS系プレイヤーの定番として口コミ拡散。",
+      "slug": "cobalt-core",
+      "concept": "単一の横軸上で宇宙船を左右に動かしながら砲台のラインを合わせて撃ち合う、SF風デッキ構築ローグライト。3人1組のクルー編成で異なるカード／船／アーティファクトの組み合わせを試す、Slay the Spire系の正統進化形。",
+      "target": "Slay the Spire / Monster Train / Inscryption など現代デッキ構築ローグライトを遊び尽くした層。短時間ラン×多様な組み合わせを試行錯誤するソロプレイヤー、空間軸という新ギミックに惹かれる戦略派。"
+    },
+    {
+      "id": 243,
+      "title_jp": "ワイルドフロスト",
+      "title_en": "Wildfrost",
+      "developer": "Deadpan Games / Gaziter",
+      "publisher": "Chucklefish",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "ローグライト・デッキ構築",
+      "sales_jp": "",
+      "sales_world": "Steam所有 500K-1M+ / 累計収益$5.6M+",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "Chucklefishパブリッシュの冬テーマ・ローグライトデッキビルダー。発売初週で約6万本／$100万を売り上げ、難易度の高さと配置タイミングを重視した独特の戦闘設計が話題に。",
+      "slug": "wildfrost",
+      "concept": "雪の世界を舞台にした厳しめのローグライト・デッキ構築。攻撃クールダウンと配置の同期を読む「タイミング型」戦闘で、Slay the Spire 系の流れを刷新した一作。",
+      "target": "高難度のローグライトデッキ構築に挑戦したいコアプレイヤー。シナジー構築と試行錯誤による「より強いデッキを組み上げる」報酬感を求める層。"
+    },
+    {
+      "id": 244,
+      "title_jp": "モンスター・トレイン2",
+      "title_en": "Monster Train 2",
+      "developer": "Shiny Shoe",
+      "publisher": "Big Fan Games",
+      "year": 2025,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "ローグライト・デッキ構築",
+      "sales_jp": "",
+      "sales_world": "41万本+（Steam、約$8.3M、2026年時点）／プレイヤー50万人達成",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "2020年の前作『Monster Train』のカルト的人気を受け継ぎ、2025年5月の発売直後からSteamで圧倒的に好評（95%）を獲得。3レーン縦型ローグライト・デッキ構築という独自フォーマットの正統進化として配信者・実況勢からも支持され、半年で50万プレイヤー到達。",
+      "slug": "monster-train-2",
+      "concept": "天国と地獄の戦いを縦3レーンで描く、独自フォーマットのローグライト・デッキ構築の続編。10のクランから2つを選び合体させてシナジーを組む「クラン合成」ビルドの自由度が極端に高く、毎ラン異なる構築体験が生まれる。",
+      "target": "『Slay the Spire』をやり込んだデッキ構築ローグライトのファンで、より複雑なシナジーとビルド多様性を求める層。一周1〜2時間でランを回しながら数百時間遊び続ける、ソロ最適化ゲーマー向け。"
+    },
+    {
+      "id": 245,
+      "title_jp": "ホールズ・オブ・トーメント",
+      "title_en": "Halls of Torment",
+      "developer": "Chasing Carrots",
+      "publisher": "Chasing Carrots",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X|S",
+        "iOS",
+        "Android"
+      ],
+      "genre": "サバイバー系ローグライト",
+      "sales_jp": "",
+      "sales_world": "100万本+ (Steam, 2024-10)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "「Vampire Survivors系」にDiablo風の暗い見下ろし型ビジュアルとビルド多様性を持ち込み、Steamで95%以上の高評価とインフルエンサー配信で1年で100万本突破。",
+      "slug": "halls-of-torment",
+      "concept": "Diablo風のダークなUIと膨大なキャラ・アイテム・呪文ビルドを、Vampire Survivors系のオートアタック弾幕サバイバーに融合した「掘れば掘るほどビルドが組める」ハクスラ系サバイバーライク。",
+      "target": "Vampire Survivorsで群衆処理の快感を覚え、もう一段「ハクスラ的にビルドを掘りたい」「キャラを集めて育てたい」と思った周回プレイヤー、Diablo世代のPC ARPGファン。"
+    },
+    {
+      "id": 246,
+      "title_jp": "20 ミニッツ・ティル・ドーン",
+      "title_en": "20 Minutes Till Dawn",
+      "developer": "flanne",
+      "publisher": "Erabit Studios",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "サバイバー系ローグライト",
+      "sales_jp": "",
+      "sales_world": "Steam所有 500K+（推定総売上 約$6.5M）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "『Vampire Survivors』フォロワー筆頭格として、手動エイム＋クトゥルフ世界観で差別化。低価格＋モバイル展開で短時間プレイ需要を獲得。",
+      "slug": "20-minutes-till-dawn",
+      "concept": "20分間迫り来るラヴクラフト的怪物の群れを生き延びるピクセルアートのサバイバー系ローグライト。自動攻撃ではなく手動エイム要素で能動性を確保している。",
+      "target": "『Vampire Survivors』に触れた後、もう少し操作介入感のある弾幕サバイバーを求めるプレイヤー。低スペック／スマホで遊べるショートセッション派にも刺さる。"
+    },
+    {
+      "id": 247,
+      "title_jp": "ソウルストーン・サバイバーズ",
+      "title_en": "Soulstone Survivors",
+      "developer": "Game Smithing",
+      "publisher": "Game Smithing",
+      "year": 2025,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "3Dサバイバーライク／アクションローグライト",
+      "sales_jp": "",
+      "sales_world": "100万本+（早期アクセス含むSteam累計、所有1M+）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Vampire Survivorsの2D「弾幕避け」を3D ARPG視点に翻訳し、深いビルドクラフトとシナジー発掘を加えた点が刺さり、2022年のEarly Access開始から2025年6月の1.0正式リリースまでで100万本超を売り上げた。",
+      "slug": "soulstone-survivors",
+      "concept": "2Dで爆発的に流行した「Survivor-like」を3D ARPG視点に再構築し、無数の敵を薙ぎ払うパワーファンタジーに、深いスキル合成とビルド構築の戦略性を組み合わせたローグライト。",
+      "target": "Vampire Survivors系の脳汁出る殲滅快感を求めつつ、Diablo系のスキルツリー／ビルド組みも楽しみたい層。短時間でランを回しながら何百時間でもビルドを試行錯誤するハクスラ気質のプレイヤーに最適。"
+    },
+    {
+      "id": 248,
+      "title_jp": "マジッククラフト",
+      "title_en": "Magicraft",
+      "developer": "Volcanic Giant",
+      "publisher": "Volcanic Giant",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "魔法合成ローグライト",
+      "sales_jp": "",
+      "sales_world": "50万本+ (2024年12月)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Noita風の呪文合成とアイザック風の弾幕ローグライトを融合し、想定外の組み合わせでインフレする派手な魔法ビルドが配信映え。Steamで91%好評、1.0時点で同接1.3万人超え。",
+      "slug": "magicraft",
+      "concept": "複数の呪文パーツを組み合わせて自分だけのオリジナル魔法を作り出す、自由度極振りの2D見下ろし型ローグライトアクション。マーリンに選ばれた救世主として剣と魔法のダンジョンに潜る。",
+      "target": "Noita・アイザックの呪い・Enter the Gungeon系の高自由度ビルド構築ローグライトを好み、想定外のシナジーで爆発的に強くなる瞬間を求めるソロプレイヤー。"
+    },
+    {
+      "id": 249,
+      "title_jp": "ダイソン・スフィア・プログラム",
+      "title_en": "Dyson Sphere Program",
+      "developer": "Youthcat Studio",
+      "publisher": "Gamera Games",
+      "year": 2021,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "宇宙工場自動化",
+      "sales_jp": "",
+      "sales_world": "200万本+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "中国の小規模インディーがFactorio系を3D宇宙スケールに拡張し、ダイソン球建造という壮大な目標で配信・SNSバズを起こしてEA初月50万本、後に150万本超を記録",
+      "slug": "dyson-sphere-program",
+      "concept": "惑星単位で工場ラインを敷き、複数星系を渡って恒星エネルギーを採取する「ダイソン球」を建造する宇宙規模の自動化サンドボックス。Factorioの平面工場思想を3D球面・銀河系へ拡張した。",
+      "target": "Factorio／Satisfactory／Captain of Industry等の自動化系ベテランで、より壮大なスケール感とSFビジュアルを求めるソロ最適化プレイヤー。"
+    },
+    {
+      "id": 250,
+      "title_jp": "キャプテン・オブ・インダストリー",
+      "title_en": "Captain of Industry",
+      "developer": "MaFi Games",
+      "publisher": "MaFi Games",
+      "year": 2022,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "産業コロニーシム",
+      "sales_jp": "",
+      "sales_world": "Steam推定32.6万本+ ($6.9M+)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "採掘・製造・輸送・電力までを一気通貫で組み上げる重厚な物流シムが「Factorio好きの次の一本」として定着、Very Positive(87%)・5,500件超レビューで安定的に話題化。",
+      "slug": "captain-of-industry",
+      "concept": "孤島に漂着した労働者集団を率い、採鉱・精錬・農業・電力・輸送までを一つの惑星規模シミュレーションに統合した重厚派の産業コロニーシム。地形を削り、汚染と人口を管理しながら工業帝国を築く。",
+      "target": "FactorioやSatisfactoryで「もっと地形・物流・人口・経済まで絡めたい」と感じた重厚系工場シム愛好家。腰を据えて数百時間規模で最適化を楽しむソロプレイヤー向け。"
+    },
+    {
+      "id": 251,
+      "title_jp": "ソングス・オブ・シクス",
+      "title_en": "Songs of Syx",
+      "developer": "Gamatron AB",
+      "publisher": "Gamatron AB",
+      "year": 2020,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "大規模都市建設シム",
+      "sales_jp": "",
+      "sales_world": "Steam所有 180K+（推定総売上 $3M〜$5M+）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "数万人規模の住民と最大2万の兵を同一マップでシミュレートするスケール感が長期早期アクセス中に熟成、2025年12月のV70「Riders of Doom」更新とAUTOMATON報道で日本でも一気に火が付き、Steam評価「圧倒的に好評」95%を維持。",
+      "slug": "songs-of-syx",
+      "concept": "数千〜数万の市民と最大2万の兵を同時シミュレートする低ファンタジー世界の大規模都市建設＆軍勢ゲーム。小さな村から内政・宗教・外交・戦争を経て巨大帝国へと拡大する「沼シム」型サンドボックス。",
+      "target": "Dwarf FortressやRimWorld、Total War系の住民／軍隊シミュレーションに沼った経験のあるPCストラテジー好き。日本語UIと膨大な数値・グラフを延々と眺めて最適化する「マゾ寄り」のソロプレイヤー層に刺さる。"
+    },
+    {
+      "id": 252,
+      "title_jp": "ゴーイング・メディーバル",
+      "title_en": "Going Medieval",
+      "developer": "Foxy Voxel",
+      "publisher": "The Irregular Corporation",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "GOG"
+      ],
+      "genre": "中世コロニーシム",
+      "sales_jp": "",
+      "sales_world": "推定85万本+（2026年3月正式リリース後の累計収益約$15.9M、Steam所有 500K-1M）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "「3D版RimWorld」と呼ばれるボクセル建築×コロニー運営。中世の城・城壁・多層構造を縦に積み上げて作れる革新性で2021年EA開始週に17.5万本を売り、約5年のEarly Accessを経て2026年3月に1.0リリース、累計推定85万本超のヒットへ。",
+      "slug": "going-medieval",
+      "concept": "暗黒時代の小村に流れ着いた生存者たちを率い、襲撃・季節・疫病を凌ぎながら多層の城塞を築いていく3Dボクセル・コロニーシム。RimWorldの「住人ごとの物語生成」と中世建築の縦方向自由度を融合させた一作。",
+      "target": "RimWorld・Dwarf Fortressで人ごとの生活シミュレーションを楽しめるプレイヤーや、Minecraft的なブロック建築でリアルな城を組み上げたい層に刺さる。物量管理・最適化を一人で延々考え続けられるソロ志向のシミュレーション好き向け。"
+    },
+    {
+      "id": 253,
+      "title_jp": "Norland ノアランド",
+      "title_en": "Norland",
+      "developer": "Long Jaunt",
+      "publisher": "Hooded Horse",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "中世コロニーシム",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K-500K（推定収益 $4.6M+）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "RimWorld+Crusader Kingsと評される、貴族一族の陰謀・宗教対立・婚姻政治を内包する“やたら生々しい”中世コロニーシムとして早期アクセス開始直後にSteamトップセラー入りし、AUTOMATON・4Gamerなど国内主要メディアでも特集された。",
+      "slug": "norland",
+      "concept": "崩壊した帝国の跡地で貴族一族を率い、領民・宗教・隣国との駆け引きを管理するサンドボックス型コロニーシム。一族の血統と裏切り・暗殺・婚姻といった人間ドラマが手続き的に生成される。",
+      "target": "RimWorldの群像劇とCrusader Kingsの王朝政治を同時に味わいたい中重量級シム好き層。NPC一人ひとりの欲望や信仰から生まれる物語に魅力を感じる、エマージェント・ストーリー嗜好のPCゲーマー。"
+    },
+    {
+      "id": 254,
+      "title_jp": "ワーカーズ・アンド・リソース ソビエト・リパブリック",
+      "title_en": "Workers & Resources: Soviet Republic",
+      "developer": "3Division",
+      "publisher": "Hooded Horse",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "GOG",
+        "Epic Games Store"
+      ],
+      "genre": "都市建設シミュレーション",
+      "sales_jp": "",
+      "sales_world": "約56万本（推定総売上 $16M+）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "5年のアーリーアクセスを経て2024年6月に1.0正式版がリリースされ、Steamで92% Very Positive・14,000以上のレビューを獲得。冷戦期の社会主義国家運営という他に類のないテーマと、原料採取から輸送・住宅・教育まで再現する苛烈なまでの経済シミュレーションが、コアな都市建設ファンの間で長期的に支持を広げた。",
+      "slug": "workers-and-resources-soviet-republic",
+      "concept": "1960〜90年代の東側社会主義国家を一から運営する超硬派な都市建設・経済シミュレーション。原料の採掘から鉄道輸送、工場の連鎖、計画経済、外貨獲得、市民の教育・医療・娯楽までを統合的に管理する。",
+      "target": "Cities: Skylinesでは物足りない、Factorioや鉄道シムが好きな硬派サンドボックス愛好者。冷戦期の歴史・建築・産業ロジスティクスに興味があり、数字とフロー図と格闘することそのものを楽しめるプレイヤー。"
+    },
+    {
+      "id": 255,
+      "title_jp": "アゲインスト・ザ・ストーム",
+      "title_en": "Against the Storm",
+      "developer": "Eremite Games",
+      "publisher": "Hooded Horse",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Xbox",
+        "PS5",
+        "Switch"
+      ],
+      "genre": "ローグライト都市建設",
+      "sales_jp": "",
+      "sales_world": "Steam 100万本+",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "「ダークファンタジー×ローグライト×シティビルダー」という新ジャンル提案で、ジャンル混交の妙が支持され Steam で「圧倒的に好評」95%を獲得。配信・実況界隈で「中毒性が高い」と話題化し、2024年に Steam 100万本到達。",
+      "slug": "against-the-storm",
+      "concept": "永遠の雨が降り続ける終末世界で、人間・ビーバー・トカゲ・キツネ族の入植地を一定ターン内に成長させ、嵐が来る前に撤退するローグライト型シティビルダー。1プレイ60〜90分で完結する「短く濃い街作り」を毎回ランダム生成で繰り返す。",
+      "target": "通常のシティビルダーが冗長と感じる人、リプレイ性と戦略最適化を好むローグライト愛好家、ダークファンタジー世界観に惹かれるソロプレイヤー向け。"
+    },
+    {
+      "id": 256,
+      "title_jp": "フロストパンク2",
+      "title_en": "Frostpunk 2",
+      "developer": "11 bit studios",
+      "publisher": "11 bit studios",
+      "year": 2024,
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "サバイバル都市建設",
+      "sales_jp": "",
+      "sales_world": "60万本（2024年12月時点）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "2018年の名作続編として高い期待を集め、発売3日で35万本・10日で50万本を突破して開発費を即回収。スケールアップした派閥政治と道徳的ジレンマが議論を呼んだ。",
+      "slug": "frostpunk-2",
+      "concept": "極寒終末世界で都市ではなく「国家」を経営する大規模サバイバル都市建設シミュレーション。前作の小規模な暖炉サバイバルから派閥政治と社会工学へとスケールアップし、リーダーとしての非情な選択を迫る。",
+      "target": "前作Frostpunkの重い倫理的選択や、Civ・Anno系の重厚なシミュレーション、ディストピアSFの世界観に没入したい大人のPCゲーマー。"
+    },
+    {
+      "id": 257,
+      "title_jp": "ドワーフ・フォートレス",
+      "title_en": "Dwarf Fortress",
+      "developer": "Bay 12 Games",
+      "publisher": "Kitfox Games",
+      "year": 2022,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "コロニーシム・ローグライク",
+      "sales_jp": "",
+      "sales_world": "100万本+ (Steam, 2025)",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "伝説のフリーゲーム「Dwarf Fortress」が16年越しに有償グラフィカル版でSteamデビュー。発売24時間で16万本、初週30万本を記録し、2022年末のSteam新作売上1位。複雑系シミュレーションが生む「losing is fun」な創発的物語が再評価された。",
+      "slug": "dwarf-fortress",
+      "concept": "高度に複雑な世界シミュレーション上でドワーフのコロニーを運営する伝説的コロニーシム。プレイヤーの介入と無数のシステム干渉が生む「creation→破滅→語り草」のサイクルそのものが遊びの本体。",
+      "target": "創発的シミュレーションと自分だけの物語生成を愛するハードコア層、Rimworld・CDDA・Caves of Qudなど深いシステムシムを好むPCゲーマー、複雑さに耐える時間と知的好奇心を持つ大人プレイヤー。"
+    },
+    {
+      "id": 258,
+      "title_jp": "Tiny Glade",
+      "title_en": "Tiny Glade",
+      "developer": "Pounce Light",
+      "publisher": "Pounce Light",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "コージー建築サンドボックス",
+      "sales_jp": "",
+      "sales_world": "110万本+（発売1ヶ月で61.6万本）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "「目的・失敗なし」の瞑想的建築ツールという独自ポジション。Steamで圧倒的に好評97%、SNSでスクリーンショット映えするミニチュアジオラマが拡散。",
+      "slug": "tiny-glade",
+      "concept": "城や小屋をブラシで撫でるように築き、石壁・蔦・屋根が自動で破綻なく馴染んでいく非ゲーム的サンドボックス。クリア条件もスコアもなく、ジオラマを愛でる行為そのものが目的。",
+      "target": "Townscaper や Dorfromantik を好む建築・ジオラマ好き、競争や進行管理に疲れたプレイヤー、SNS用に美しい風景を作りたい層。"
+    },
+    {
+      "id": 259,
+      "title_jp": "スタックランズ",
+      "title_en": "Stacklands",
+      "developer": "Sokpop Collective",
+      "publisher": "Sokpop Collective",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "カードビルダー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 500K-1M+（2023年7月時点 約45万本、推定総売上1,000万ドル超）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "カードをスタックするだけのシンプルなUIで、村作り×サバイバル×ローグライト要素を凝縮。「もう1ターンだけ」のループが配信・口コミで拡散し、DLCで継続的にバズった。",
+      "slug": "stacklands",
+      "concept": "カードを物理的に重ねる操作で資源採取・建築・戦闘を行う、ミニマルな村作りサバイバル。ボードゲーム的な手触りとローグライト的な周回を融合した実験的インディー。",
+      "target": "Slay the Spire や Loop Hero など「カードで何かを構築する」系の小品が好きなプレイヤー、短時間で完結する管理ゲーが好きな層、Sokpop の実験的インディーを追いかけるファン。"
+    },
+    {
+      "id": 260,
+      "title_jp": "アイアン・ラング",
+      "title_en": "Iron Lung",
+      "developer": "David Szymanski",
+      "publisher": "David Szymanski",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "itch.io"
+      ],
+      "genre": "短編サブマリンホラー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K-500K（推定$2.18M+）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "ソロ開発者による2-3時間の閉所恐怖サブマリンホラーで、2023年Titan潜水艇事故で売上急増。Markiplier監督の長編映画版が2026年公開され全世界$51M興行収入、ゲーム本編も再ブーム。",
+      "slug": "iron-lung",
+      "concept": "血の海に沈んだ異星の月で、小型潜水艇「Iron Lung」のソナーとカメラだけで未知の海底を探索する一人称閉所ホラー。短編ながら極限の閉塞感と未知への恐怖を凝縮した実況映え作品。",
+      "target": "配信文化に親しみ、短時間でインパクトの強い恐怖体験を求める層。HideoとPT、Markiplierの実況文化を経由してインディーホラーに触れた海外Z世代と、その流れを追う日本のホラー実況視聴者。"
+    },
+    {
+      "id": 261,
+      "title_jp": "ポッピー・プレイタイム",
+      "title_en": "Poppy Playtime",
+      "developer": "Mob Entertainment",
+      "publisher": "Mob Entertainment",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X|S",
+        "Switch"
+      ],
+      "genre": "マスコットホラー／一人称パズルアドベンチャー",
+      "sales_jp": "",
+      "sales_world": "フランチャイズ累計 $100M+（Chapter 2単体で150万本超、Chapter 5は初週27.5万本でSteamグローバルTop Seller首位）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "廃墟と化した玩具工場を舞台にしたエピソード制マスコットホラー。ハギーワギーが子どもの遊び場で歌われるレベルの世代横断ミームと化し、FNAF以後の「不気味マスコット」ホラー潮流を決定づけた。YouTube/TikTokでの実況・キッズコンテンツ二次創作の供給源としても突出。",
+      "slug": "poppy-playtime",
+      "concept": "廃墟となった玩具会社「Playtime Co.」に潜入し、巨大化したぬいぐるみの怪物たちから逃げながら「GrabPack」と呼ばれる手袋ガジェットでパズルを解いていくエピソード式一人称サバイバルホラー。各章ごとに新マスコットと新ギミックが追加される長期展開型IP。",
+      "target": "FNAF系のマスコットホラー実況・ジャンプスケアを好む10代〜20代と、TikTok・YouTubeショート経由でハギーワギーやスマイリングクリッターズに親しんだ低年齢層。実況視聴とプレイ体験を往復するライト層。"
+    },
+    {
+      "id": 262,
+      "title_jp": "フライデー・ナイト・ファンキン",
+      "title_en": "Friday Night Funkin'",
+      "developer": "The Funkin' Crew (ninjamuffin99, PhantomArcade, Kawai Sprite, evilsk8r)",
+      "publisher": "Newgrounds（フリーゲームとして配信）",
+      "year": 2020,
+      "platform": [
+        "Browser",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "genre": "リズムゲーム",
+      "sales_jp": "",
+      "sales_world": "無料配信／Newgrounds 累計プレイ 70M+ 回・Google Play 公称プレイヤー 200M+／Kickstarter $2.25M（58,561 backers）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Ludum Dare 47 発のフリーゲームが Newgrounds をサーバー落ちさせる勢いで拡散し、TikTok/YouTube の二次創作 MOD 文化が爆発。キッズ向けインターネット・ミーム文化を象徴する一本となり、Kickstarter で 3,750% 達成。",
+      "slug": "friday-night-funkin",
+      "concept": "ラップバトル形式の対決リズムゲーム。彼女の父・Daddy Dearest をはじめとする多彩な相手と矢印を合わせて歌い勝つ、Newgrounds テイスト溢れる Flash 風 2D アニメーションが特徴。MOD 制作が公式に推奨され、無数のキャラ MOD が生まれる土壌となっている。",
+      "target": "DDR/StepMania 系の純粋なリズムアクションを求める層と、Newgrounds/TikTok のミーム文化や FNF MOD（Sonic.exe・Hatsune Miku・Whitty 等）を介してインターネット二次創作を楽しむ十代〜二十代前半。"
+    },
+    {
+      "id": 263,
+      "title_jp": "チェインド・トゥゲザー",
+      "title_en": "Chained Together",
+      "developer": "Anegar Games",
+      "publisher": "Anegar Games",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "協力レイジ・クライミング",
+      "sales_jp": "",
+      "sales_world": "300万本+（Steam）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "$4.99の低価格×鎖で繋がれた最大4人協力登山という設計が「一人のミスで全員転落」というレイジ配信ネタを量産し、2024年夏のTwitch/YouTube実況で爆発。発売直後にSteam同時接続8.5万人を記録し、年内最大級のインディー launch となった。",
+      "slug": "chained-together",
+      "concept": "地獄から脱出するため、鎖で互いに繋がれた仲間と協力して垂直の塔を登る一人称協力プラットフォーマー。落ちれば全員道連れの「Getting Over It」系の理不尽さを多人数化した、配信映え特化の即興パーティーゲーム。",
+      "target": "配信者・ストリーマー仲間とのワイワイ系協力プレイを楽しむ層、Only Up!やGetting Over Itのような「絶望感の共有」を笑いに変えたいプレイヤー。Discordで友人と通話しながら遊ぶ若年層に強い。"
+    },
+    {
+      "id": 264,
+      "title_jp": "ミサイド",
+      "title_en": "MiSide",
+      "developer": "AIHASTO",
+      "publisher": "AIHASTO",
+      "year": 2024,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "サイコホラーADV",
+      "sales_jp": "",
+      "sales_world": "240万本+ / $28M+",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "2024年冬の最大級ホラーバズ。スマホゲームの中の可愛い「ミタちゃん」と暮らす日常が徐々に狂気へ転落する展開がVTuber実況・SNSで爆発し、リリース2週間で4万件超のレビュー98%好評を獲得。",
+      "slug": "miside",
+      "concept": "スマホ恋愛ゲームに引きずり込まれ、AI彼女「ミタ」と暮らすうち、ゲーム世界の歪みと複数のミタの存在に気づくサイコロジカルホラーADV。萌え2Dアバターとメタ的恐怖を融合させた問題作。",
+      "target": "『Doki Doki Literature Club』『NEEDY GIRL OVERDOSE』など、可愛さと狂気のギャップを楽しむメタホラー好き層、およびVTuber実況経由で参入したJP視聴者層。"
+    },
+    {
+      "id": 265,
+      "title_jp": "クロウ・カントリー",
+      "title_en": "Crow Country",
+      "developer": "SFB Games",
+      "publisher": "SFB Games",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Switch"
+      ],
+      "genre": "サバイバルホラー",
+      "sales_jp": "",
+      "sales_world": "25万本+（2025年末時点／Steamのみで約18.4万本、コンソール合算推計）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "PS1風固定カメラのレトロ表現に現代的UXを組み合わせた「サバイバルホラー復興」の象徴的インディーで、Steam評価98%圧倒的好評と低価格帯が口コミを加速させた。",
+      "slug": "crow-country",
+      "concept": "PS1時代の固定カメラ・サバイバルホラーを現代に蘇らせた、SFB Games（Snipperclipsの開発元）による低ポリゴン回顧的ホラー。寂れたテーマパーク「クロウ・カントリー」を捜査する連邦捜査官の物語。",
+      "target": "バイオハザード初期作・サイレントヒルなどPS1〜PS2期サバイバルホラーへのノスタルジーを持つ層と、短時間（6〜8時間）で完結する濃密な探索・謎解き体験を求めるインディーホラー愛好層。"
+    },
+    {
+      "id": 266,
+      "title_jp": "DEVOUR",
+      "title_en": "DEVOUR",
+      "developer": "Straight Back Games",
+      "publisher": "Straight Back Games",
+      "year": 2021,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "協力ホラー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 2M-5M / 推定290万本",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "低価格で4人協力プレイ可能、Phasmoと並ぶ配信者御用達タイトルとして長期間Twitch/YouTubeで露出継続。",
+      "slug": "devour",
+      "concept": "悪魔崇拝者となり信者をパージする1-4人協力ホラー。低価格・短時間ループ・ランダム化で配信映え抜群、Phasmophobiaと並ぶ「叫び系協力ホラー」の定番。",
+      "target": "友達と叫びながら遊ぶカジュアル協力ホラー好き、配信視聴者層。Phasmophobiaを遊び尽くした層の次の選択肢。"
+    },
+    {
+      "id": 267,
+      "title_jp": "デモノロジスト",
+      "title_en": "Demonologist",
+      "developer": "Clock Wizard Games",
+      "publisher": "Clock Wizard Games",
+      "year": 2023,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "ホラー協力",
+      "sales_jp": "",
+      "sales_world": "120万本+（推定総売上 約$17.2M）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "popularity": "UE5の高品質グラフィックでPhasmophobia系協力ホラーを再構築し、配信映えするビジュアルと初月100万ドル超えのアーリーアクセス成功で配信者・ホラー実況勢に一気に拡散した。",
+      "slug": "demonologist",
+      "concept": "1〜4人の協力で呪われた場所に潜入し、機材で証拠を集めて悪霊を特定・除霊するUE5製のホラー調査ゲーム。Phasmophobiaの公式系を意識しつつ、オカルト寄りの世界観と映像美で差別化した。",
+      "target": "配信・実況前提でフレンドと驚き合いたいPC協力ホラー層、およびPhasmophobiaを遊び尽くしたが「もう少しグラフィカルでオカルト寄り」を欲する欧米・アジアの若年Steamユーザー。"
+    },
+    {
+      "id": 268,
+      "title_jp": "チューチュー・チャールズ",
+      "title_en": "Choo-Choo Charles",
+      "developer": "Two Star Games (Gavin Eisenbeisz)",
+      "publisher": "Two Star Games",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Switch"
+      ],
+      "genre": "オープンワールドホラー",
+      "sales_jp": "",
+      "sales_world": "PC100万本+ / Steam所有 500K-1M / 売上$14M+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "「クモ脚の機関車から逃げる」というB級コンセプトの絶対的なインパクトで2022年12月にTwitter/TikTokでバイラル化、ソロ開発インディーが初月で約30万本・500万ドルを叩き出した",
+      "slug": "choo-choo-charles",
+      "concept": "蜘蛛の脚を持つ怪物機関車「チャールズ」から逃げながら島内の線路を走り回り、自分のオンボロ蒸気機関車を強化して最終決戦を挑むオープンワールド・サバイバルホラー。プレイヤーは島民の依頼をこなしてアップグレード素材を集める。",
+      "target": "B級ホラーやキワモノ怪物動画を愛するStreamer/視聴者層、そしてソロインディーらしいチープさを「味」として楽しめる層。実況栄えするコンセプトの強さで、プレイ動画から入って自分でも触ってみる層が中心。"
+    },
+    {
+      "id": 269,
+      "title_jp": "ザ・モーチュアリー・アシスタント",
+      "title_en": "The Mortuary Assistant",
+      "developer": "DarkStone Digital",
+      "publisher": "DreadXP",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Switch"
+      ],
+      "genre": "ホラーシム",
+      "sales_jp": "",
+      "sales_world": "Steam所有 700K+／グロス収益 約$5.6M",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "遺体の防腐処理という極めてニッチな実作業に「取り憑かれた死体を見抜き悪魔祓いする」というオカルトを掛け合わせた発想がストリーマー実況で爆発。Steamで「非常に好評」を維持し続け、後に同名の映画化までされた。",
+      "slug": "the-mortuary-assistant",
+      "concept": "深夜の遺体安置所で防腐処理（エンバーミング）の実作業をこなしながら、運び込まれた遺体に潜む悪魔を見抜いて祓う一人称ホラーシム。手順を踏む静かな作業ループに、ランダム発生する超常現象の恐怖が割り込んでくる構造が独自。",
+      "target": "Phasmophobia系の「手順を踏むホラー職業シム」が好きな海外配信文化のプレイヤー層。グロ耐性とオカルト趣味を兼ね備え、ジャンプスケアより不気味な静寂と作業の中の異変を楽しみたい一人プレイ志向のホラーファンに刺さる。"
+    },
+    {
+      "id": 270,
+      "title_jp": "ドント・スクリーム",
+      "title_en": "Don't Scream",
+      "developer": "Digital Cybercherries",
+      "publisher": "Digital Cybercherries",
+      "year": 2023,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "ファウンドフッテージ・ホラー（マイク必須）",
+      "sales_jp": "",
+      "sales_world": "Steam所有 30万本+（原作12.7万本/2週、続編「Together」初週20万本+）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "観戦",
+      "popularity": "「叫んだら最初からやり直し」というマイク連動ルールが配信者の絶叫リアクションと完全に噛み合い、英語版発表前の日本語ツイートが810万ビュー超でバイラル化。xQcら大手ストリーマーの試遊配信で発売前ウィッシュリストが日次1万件を超え、Halloween launch で2週12.7万本/$92.8万を売り上げた。",
+      "slug": "dont-scream",
+      "concept": "VHSカムコーダー視点で深夜の森を朝8時まで生き延びる90年代風ファウンドフッテージ・ホラー。プレイヤーのマイクが悲鳴を検知すると即リスタートという一発ネタを核に、ジャンプスケアと配信映え性能を一点突破で設計した小規模シミュレーター。",
+      "target": "配信・実況映え重視のホラー好きと、Phasmophobia／Lethal Company系の「友達と叫び合う」コンテンツを求める視聴者層。1本数百円で短時間のリアクション素材が欲しいストリーマーと、その配信を観るクリップ消費型ファン。"
+    },
+    {
+      "id": 271,
+      "title_jp": "アンディ&レイリーの棺",
+      "title_en": "The Coffin of Andy and Leyley",
+      "developer": "Nemlei",
+      "publisher": "Kit9 Studio",
+      "year": 2023,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "サイコホラーADV / RPGツクール",
+      "sales_jp": "",
+      "sales_world": "Steam所有 500K-1M、レビュー37,000+「圧倒的に好評」",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "ソロ開発者Nemleiが生んだ近親共依存サイコホラー。TumblrとTikTokで2024年「問題あるインディーファンダム」現象を巻き起こした。",
+      "slug": "the-coffin-of-andy-and-leyley",
+      "concept": "ディストピア世界で生き延びるため犯罪を重ねる兄妹アンドリューとアシュレイの共依存関係を描く、RPGツクール製サイコホラーADV。ブラックコメディと禁忌テーマで観る者を試す問題作。",
+      "target": "ホラーADV・キャラクター心理描写・タブー的物語を好むプレイヤー。TumblrやTikTokで二次創作・考察文化に没入するインディーファンダム層。"
+    },
+    {
+      "id": 272,
+      "title_jp": "プールズ",
+      "title_en": "POOLS",
+      "developer": "Tensori",
+      "publisher": "Tensori",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "macOS",
+        "iOS",
+        "PS5",
+        "PSVR2"
+      ],
+      "genre": "リミナル空間ホラー散策",
+      "sales_jp": "",
+      "sales_world": "Steam所有 100K-200K（レビュー5,400件「圧倒的に好評」）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "「バックルームのプール」というネットミーム＝リミナル・スペースを最も純度高くゲーム化した代表作。TikTok・YouTubeで「ノスタルジーと不安が同居する空間」を体験する動画が爆発的に拡散し、2024年の雰囲気ホラー再評価の象徴に。",
+      "slug": "pools",
+      "concept": "敵もジャンプスケアも存在しない、廃墟化した巨大プール複合施設を歩き・泳ぎ・滑り台で進むだけの「リミナル空間散策」。ノスタルジックな塩素臭と無人の不気味さだけで張り詰める、雰囲気特化型のウォーキングシム。",
+      "target": "「バックルーム」「リミナル・スペース」「ドリームコア」といったネット文化のビジュアル様式を愛するプレイヤー。怖がらせる演出より、不在と既視感が生む静かな不安そのものを味わいたいアトモスフィア重視層。"
+    },
+    {
+      "id": 273,
+      "title_jp": "スプランキ",
+      "title_en": "Sprunki",
+      "developer": "NyankoBfLol（個人ファン制作・Incredibox改造）",
+      "publisher": "ファン配布（ブラウザ／Poki等のポータル経由）",
+      "year": 2024,
+      "platform": [
+        "Browser",
+        "iOS",
+        "Android"
+      ],
+      "genre": "音楽制作／ホラーMOD",
+      "sales_jp": "",
+      "sales_world": "無料配布／TikTok・YouTubeで数千万再生規模、派生MOD200本以上",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "観戦",
+      "popularity": "2024年8月にタイの15歳が公開したIncreidboxファンMODが本家を凌駕する勢いで拡散。可愛い見た目から「ブラックハット」モードでホラーに反転する仕掛けがTikTok・YouTube Shortsでバズり、2024〜25年の小学生TikTok音楽ゲーム代表格に。",
+      "slug": "sprunki",
+      "concept": "Incredibox派生のファンMOD。キャラを配置してビートを重ね楽曲を作る音楽ゲームだが、特定の組合せで世界がホラー化する「ブラックハット」演出が中毒性を生む。",
+      "target": "小学生〜中高生の TikTok・YouTube Shorts ネイティブ層。短尺で映える音楽×ホラーの組合せを楽しみ、自分の「リミックス」をシェアしたいプレイヤー。"
+    },
+    {
+      "id": 274,
+      "title_jp": "スタンブル・ガイズ",
+      "title_en": "Stumble Guys",
+      "developer": "Kitka Games",
+      "publisher": "Scopely",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "Steam",
+        "Switch",
+        "Xbox",
+        "PS5"
+      ],
+      "genre": "パーティーバトルロイヤル",
+      "sales_jp": "",
+      "sales_world": "5億DL+ / 累計収益 $80M+",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "popularity": "フィンランドの小規模スタジオKitkaが手掛けた『Fall Guys』モバイル版的存在。本家のモバイル展開が遅れる隙を突き、無料×短セッション×TikTokショート動画親和性で2022年に世界モバイルDL2位を獲得した。",
+      "slug": "stumble-guys",
+      "concept": "最大32人で障害物コースを生き残る、F2Pのカジュアル・バトルロイヤルパーティーゲーム。1試合数分の短さとモバイル最適化された操作性で、子供から大人までライトに遊べる「触れるFall Guys」として定着した。",
+      "target": "スマホで短時間遊びたいライトユーザー、Fall Guysのドタバタアクションをモバイルで体験したい層、TikTokやYouTubeショートで配信動画を見て興味を持った10代を中心とする若年層。"
+    },
+    {
+      "id": 275,
+      "title_jp": "ガーテン・オブ・バンバン",
+      "title_en": "Garten of Banban",
+      "developer": "Euphoric Brothers",
+      "publisher": "Euphoric Brothers",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android",
+        "PS4",
+        "PS5",
+        "Xbox"
+      ],
+      "genre": "マスコットホラー",
+      "sales_jp": "",
+      "sales_world": "Google Play 1,200万DL+（初代）、Steam所有 30〜40万（シリーズ累計推定）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "YouTube Kids／実況系チャンネルとの圧倒的な相性で「次のPoppy Playtime」と呼ばれてバズり、日本でも公式サイト・グッズ・ぬいぐるみ展開まで波及した低予算マスコットホラーの代表格。",
+      "slug": "garten-of-banban",
+      "concept": "廃墟と化した幼稚園「バンバン幼稚園」を探索し、巨大なゆるキャラ風モンスターから逃げ回るファーストパーソン視点のサバイバルパズルホラー。短尺・低価格・キャラ重視の「最小構成マスコットホラー」を量産する形でシリーズ化した。",
+      "target": "YouTuberの実況動画でホラーゲームに触れる小学生〜中高生、そしてPoppy Playtimeやハギーワギー系のキャラクター文化を消費する若年層。ゲームそのものより「キャラと実況」を楽しむライト層が中心。"
+    },
+    {
+      "id": 276,
+      "title_jp": "ファイブナイツ・アット・フレディーズ セキュリティブリーチ",
+      "title_en": "Five Nights at Freddy's: Security Breach",
+      "developer": "Steel Wool Studios",
+      "publisher": "ScottGames",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "genre": "サバイバルホラー",
+      "sales_jp": "",
+      "sales_world": "世界150万本+（Steam収益$49M推定）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "FNAFシリーズ最大級のフルリブート作。2021年12月のPS Blogダウンロード1位、後にPS Plus無料配信で再バズ。配信者・実況者がこぞって取り上げYouTube視聴回数も急増。",
+      "slug": "five-nights-at-freddys-security-breach",
+      "concept": "深夜のメガピザプレックスに閉じ込められた少年グレゴリーが、暴走するアニマトロニクスから逃げ延びる自由探索型サバイバルホラー。固定カメラ／一夜単位だった原作シリーズを3D広域マップ＋一晩通しの逃走サバイバルに刷新。",
+      "target": "FNAFシリーズの長年のファン、3Dホラー探索好き、ジャンプスケア耐性のある実況者層。クリアより「怖がる体験」自体を楽しむライト〜中堅ホラー層。"
+    },
+    {
+      "id": 277,
+      "title_jp": "NORCO",
+      "title_en": "NORCO",
+      "developer": "Geography of Robots",
+      "publisher": "Raw Fury",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "genre": "サザンゴシック・アドベンチャー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K–500K（Sensor Tower 売上 約$544K）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "第1回Tribeca Games Award受賞、TGA 2022「Best Debut Indie」ノミネート、IGF 2022 Honorable Mention。Metacritic 89点で批評家絶賛、ナラティブ系インディーの代表格として話題化。",
+      "slug": "norco",
+      "concept": "ルイジアナ州ノルコを舞台に、消えた弟を探す姉キャットが石油精製所と教団と廃墟を彷徨うサザンゴシックなポイント＆クリック・アドベンチャー。気候崩壊と産業の腐敗を背景に、土着の神秘と近未来サイバーパンクが混ざる文学的ビジュアルノベル。",
+      "target": "Disco Elysium／Citizen Sleeper／Kentucky Route Zero に惹かれる、文学的なテキスト密度と地域固有の空気感を味わいたい大人プレイヤー層。賞・批評で「読むゲーム」を見つけたい層に刺さる。"
+    },
+    {
+      "id": 278,
+      "title_jp": "MARVEL SNAP",
+      "title_en": "Marvel Snap",
+      "developer": "Second Dinner",
+      "publisher": "Nuverse / Skystone Games",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "Steam"
+      ],
+      "genre": "対戦型デジタルカードゲーム",
+      "sales_jp": "",
+      "sales_world": "累計収益 $275M+（2024年時点）/ DL数 2,790万+",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "TGA 2022「Best Mobile Game」受賞、TouchArcade 2022 GOTY。元Hearthstone主要スタッフBen Brodeが率いるSecond Dinnerのデビュー作で「3分で1試合」「カード12枚デッキ」という極限まで削ぎ落とした設計と、Marvel IPの強さでモバイルCCG市場を再定義した。",
+      "slug": "marvel-snap",
+      "concept": "3レーン×6ターン×12枚デッキで1試合3分。Hearthstone元総監督が手掛ける「最速・最軽量」のデジタルCCGで、賭けレート（SNAP）の心理戦とMarvelヒーロー収集を融合したモバイルファースト設計。",
+      "target": "短時間でPvPの読み合いを楽しみたいCCGプレイヤー、Marvelファン、Hearthstone・Legends of Runeterra経験者で「もっと軽量なカードゲーム」を求める層。通勤・休憩の隙間時間でランクマッチを回したいモバイルゲーマー。"
+    },
+    {
+      "id": 279,
+      "title_jp": "センナールの聖歌",
+      "title_en": "Chants of Sennaar",
+      "developer": "Rundisc",
+      "publisher": "Focus Entertainment",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "genre": "言語解読パズルアドベンチャー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K–500K（初月10万本、累計推定30万本+）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "バベルの塔をモチーフに「未知言語を観察と仮説で解読する」というユニークな体験設計が高評価。TGA 2023 Games for Impactノミネート、Pégases 2024 最優秀ゲーム・最優秀インディー・最優秀ゲームデザイン三冠、NY Game Awards 2024 Best Indie受賞でインディー強豪として国際的に認知された。",
+      "slug": "chants-of-sennaar",
+      "concept": "古代バベルの塔を昇りながら、住人たちの未知の言語を観察・推測・検証して解読していく言語学パズルADV。記号と文脈から意味を組み立てる「言語を理解していく快感」そのものを核に据えた稀有な作品。",
+      "target": "Outer Wilds、Return of the Obra Dinn、Tunic、Baba Is Youのような「知的発見と仮説検証」を遊びの中心に据えたパズル／謎解きADV愛好家。じっくり腰を据えてノートを取りながら遊びたい層に強く刺さる。"
+    },
+    {
+      "id": 280,
+      "title_jp": "イン・スターズ・アンド・タイム",
+      "title_en": "In Stars and Time",
+      "developer": "insertdisc5",
+      "publisher": "Armor Games Studios",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4"
+      ],
+      "genre": "タイムループRPG",
+      "sales_jp": "",
+      "sales_world": "Steam所有 約25万本+（売上 $2.7M 推定）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "ループに気づくのは自分だけという心理的孤独を主軸に据えた語りと、じゃんけんベースのバトルというユニークさで国内外インディーRPGファンの絶賛を獲得。ファミ通・4Gamer・電撃・AUTOMATONがそろって紹介し、Steamレビュー97%の高評価で口コミが拡大した。",
+      "slug": "in-stars-and-time",
+      "concept": "ラスダン直前で世界がループしてしまうことに気付いた唯一の存在・シフランを操作し、何度も死に戻りながら脱出の鍵を探す物語特化のターン制RPG。クィアな主人公の心理崩壊と仲間との関係性を、繰り返しの中で深掘りしていく。",
+      "target": "『シュタインズ・ゲート』『リターナル』『OMORI』などループ／心理ホラー寄り物語が好きで、戦闘より会話とテキスト量を重視する物語型RPGプレイヤー層。短めの完結型ナラティブインディーを求める層にも刺さる。"
+    },
+    {
+      "id": 281,
+      "title_jp": "チェインドエコーズ",
+      "title_en": "Chained Echoes",
+      "developer": "Matthias Linda",
+      "publisher": "Deck13 Spotlight",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch",
+        "Xbox One",
+        "PS4"
+      ],
+      "genre": "JRPG（SNES風）",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K-500K（推定$6.1M gross）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "独りの開発者が7年がかりで完成させたSNES風JRPGとして高評価。シンボルエンカウント・スピード重視の戦闘・飛空艇/メカ要素など\"古き良きJRPGの理想形\"として欧米コアファンの間で口コミ拡散",
+      "slug": "chained-echoes",
+      "concept": "90年代SNES黄金期のJRPG（特にクロノ・トリガー／FFVI／タクティクス系）への愛を凝縮した、ソロ開発による2D本格JRPG。マップを跨ぐ国家紛争の群像劇と、メカ「スカイアーマー」によるダイナミックな戦闘を融合させる。",
+      "target": "スーパーファミコン世代のJRPGに郷愁を感じる30〜40代と、ピクセルアートRPGを新鮮に受け取るインディーRPG愛好家。物語・世界観・戦闘システムをじっくり味わいたいプレイヤー。"
+    },
+    {
+      "id": 282,
+      "title_jp": "イーストワード",
+      "title_en": "Eastward",
+      "developer": "Pixpil",
+      "publisher": "Chucklefish",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Xbox",
+        "iOS",
+        "Mac"
+      ],
+      "genre": "アクションRPG（ピクセルアート）",
+      "sales_jp": "",
+      "sales_world": "Steam所有 500K-1M（推定総収益$6.7M+）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "スタジオジブリ風ピクセルアートと終末世界の親子ロードムービー的物語性、Chucklefish（Stardew Valley版元）パブリッシングと2021年Nintendo年間ベストインディーリスト入りで注目を集めた。",
+      "slug": "eastward",
+      "concept": "荒廃した近未来の地下世界を舞台に、寡黙な中年男ジョンと不思議な少女サムが地上を目指して旅をするピクセルアート・アクションRPG。ジブリ／ファミコン世代を直撃する濃密なドット表現と緻密な世界観で「観る」喜びに振り切った作品。",
+      "target": "レトロJRPGやMOTHER／クロノ・トリガー的な情緒のある物語を好み、戦闘より雰囲気・キャラクター・終末世界観を味わいたいシングルプレイヤー向け。"
+    },
+    {
+      "id": 283,
+      "title_jp": "サン・ヘイヴン",
+      "title_en": "Sun Haven",
+      "developer": "Pixel Sprout Studios",
+      "publisher": "Pixel Sprout Studios",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "genre": "ファーム生活シム RPG",
+      "sales_jp": "",
+      "sales_world": "Steam 約49万本 / 売上 約810万ドル",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "Stardew Valley系のファーム生活シムにファンタジーRPG要素と最大8人同時マルチプレイを加え、Kickstarter出身インディーとして長期運営で評価を獲得。",
+      "slug": "sun-haven",
+      "concept": "人間・エルフ・獣人など多種族が暮らす魔法都市サン・ヘイヴンを舞台に、農業・釣り・採掘・戦闘・スキルツリー育成を融合させたファンタジー寄りのStardew系生活シム。",
+      "target": "Stardew Valleyを遊び尽くした層、RPG的な成長・スキル要素を求めるファーム系プレイヤー、友人と最大8人で農場運営したい協力派ユーザー。"
+    },
+    {
+      "id": 284,
+      "title_jp": "剣魂",
+      "title_en": "Wandering Sword",
+      "developer": "The Swordman Studio",
+      "publisher": "Spiral Up Games",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox"
+      ],
+      "genre": "武侠ターン制RPG",
+      "sales_jp": "",
+      "sales_world": "Steam所有 500K–1M（推定収益$15M）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "武侠小説好きと往年のJRPGファン双方に刺さり、Steam中国語レビューで圧倒的好評3万件超。海外でも英語レビュー2,200件超「Overwhelmingly Positive」を獲得し、推定収益$15M規模のインディー成功例となった。",
+      "slug": "wandering-sword",
+      "concept": "中国インディーが放つ武侠×JRPG。ピクセルアートと3D背景を融合し、ターン制と疑似リアルタイムを切替可能なタイル戦闘で、内功・経絡・武功書を学ぶ古典的武侠の修行体験を再現する。",
+      "target": "武侠世界観や金庸風の物語に親しみがあるアジア圏プレイヤーと、ロマサガ／天地創造世代の往年JRPGの戦術ターン戦闘＋自由探索を懐かしむ層。"
+    },
+    {
+      "id": 285,
+      "title_jp": "ナインソールズ",
+      "title_en": "Nine Sols",
+      "developer": "Red Candle Games",
+      "publisher": "Red Candle Games",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Switch"
+      ],
+      "genre": "2Dアクションメトロイドヴァニア（Sekiro系パリィ）",
+      "sales_jp": "",
+      "sales_world": "80万本+（2025年5月時点／全プラットフォーム）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "台湾発・道教SF「Taopunk」の独自世界観と、Sekiro直系の高難度パリィ戦闘が評価され、Steamで「圧倒的に好評」を維持しつつ1年で80万本超に到達。アジア発インディーの代表格として欧米メディアでも高評価。",
+      "slug": "nine-sols",
+      "concept": "道教神話とサイバーパンクを融合した「Taopunk」世界観の2Dメトロイドヴァニア。Sekiro由来のパリィ／弾き返しを中核に据えた高難度ボスアクションを、手描きアニメーションで描く。",
+      "target": "Hollow Knight・Sekiro・Katana Zeroなどの高難度2Dアクションを愛好し、骨太なパリィ戦闘と濃密な世界観・キャラクター物語を同時に味わいたいコアアクション層。"
+    },
+    {
+      "id": 286,
+      "title_jp": "サブノーティカ：ビロウ ゼロ",
+      "title_en": "Subnautica: Below Zero",
+      "developer": "Unknown Worlds Entertainment",
+      "publisher": "Unknown Worlds Entertainment",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One",
+        "Switch",
+        "Mac"
+      ],
+      "genre": "水中サバイバル探索",
+      "sales_jp": "",
+      "sales_world": "Steam 330万本超／シリーズ累計1850万本+",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "前作の高評価と独自の水中恐怖体験を継承し、配信・実況映えする深海バイオームと閉所恐怖演出でシリーズ累計1850万本の柱となった。",
+      "slug": "subnautica-below-zero",
+      "concept": "広大な氷海の極地を舞台にした水中サバイバル探索の続編。生物多様性に富んだ深海バイオームを潜り、資源採取・基地建設・物語断片の収集を一人称視点で進める。",
+      "target": "原作Subnauticaのファン、水中・深海探索の没入感とサバイバルクラフトを好むソロプレイヤー、SF的物語と環境探索を同時に味わいたい層。"
+    },
+    {
+      "id": 287,
+      "title_jp": "Raft",
+      "title_en": "Raft",
+      "developer": "Redbeet Interactive",
+      "publisher": "Axolot Games",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "海洋協力サバイバル",
+      "sales_jp": "",
+      "sales_world": "500万本+（2024時点）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "漂流する小さなイカダから始めるという特異な状況設定と、最大4人での協力プレイ。配信者間で「サメに怯えながらイカダを拡張する」シュールな絵面がバズり、2018年Early Access公開時から長期人気を継続。2022年6月の1.0版『The Final Chapter』リリース時にはSteam同接10万超え＆2週連続ベストセラー入りで再ブレイク。",
+      "slug": "raft",
+      "concept": "大海原を漂う小さなイカダの上で、流れてくる漂流物をフックで集めて拡張・整備しながら、サメや飢え・渇きと戦って生き延びる海洋協力サバイバル。最大4人で島々を巡り、世界が水没した謎を解き明かすストーリーモードも備える。",
+      "target": "友人とボイスチャットでワイワイ協力プレイしたいプレイヤー、Minecraft／ARK／Valheim系のサバイバル＆クラフトジャンルが好きな層、配信映えするシチュエーションを求めるストリーマー＆視聴者。"
+    },
+    {
+      "id": 288,
+      "title_jp": "アウトラスト・トライアルズ",
+      "title_en": "The Outlast Trials",
+      "developer": "Red Barrels",
+      "publisher": "Red Barrels",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "genre": "協力ホラー",
+      "sales_jp": "",
+      "sales_world": "300万プレイヤー+（2025年3月時点、累計売上200万本+）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "popularity": "Outlast IPを1〜4人協力サバイバルホラーに転換し、配信映えする悲鳴ゲームとしてバズ。2023年早期アクセス開始、2024年3月の1.0版ローンチで全機種クロスプレイ展開して再ブースト。",
+      "slug": "the-outlast-trials",
+      "concept": "冷戦期の人体実験を舞台に、1〜4人で謎の施設の「治験」を生き延びる協力サバイバルホラー。前作までのソロ恐怖体験を、仲間と叫び合うパーティ型恐怖へ転換した。",
+      "target": "フレンドと絶叫しながらビビり合いたい協力ホラー層、Phasmophobiaやレザニーカンパニーで配信を楽しむ層、Outlast前作のサバイバルホラーファン。"
+    },
+    {
+      "id": 289,
+      "title_jp": "テキサス・チェーンソー・マサカー",
+      "title_en": "The Texas Chain Saw Massacre",
+      "developer": "Sumo Digital Nottingham",
+      "publisher": "Gun Interactive",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X|S",
+        "Xbox One"
+      ],
+      "genre": "非対称対戦ホラー",
+      "sales_jp": "",
+      "sales_world": "110万本+（2024年2月時点）／総プレイヤー数560万人+（Game Pass含む）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "非対称",
+      "popularity": "DBD／13日の金曜日の系譜にある3v4非対称ホラー。Xbox Game Pass初日配信＋有名ホラーIPの相乗効果で24時間内に100万プレイヤー突破、ローンチ週はSteamで1.7万人同時接続を記録した。",
+      "slug": "the-texas-chain-saw-massacre",
+      "concept": "1974年の同名カルトホラー映画を題材にした、ファミリー側3人 vs 犠牲者側4人の非対称マルチプレイヤー対戦ゲーム。ハウスの隠密脱出と血みどろの追跡劇を再現する。",
+      "target": "Dead by Daylight や Friday the 13th: The Game に親しんだ非対称対戦ホラーのファン、および70年代スラッシャー映画の世界観を体験したい層。"
+    },
+    {
+      "id": 290,
+      "title_jp": "Chilla's Art（夜勤事件／閉店事件／事故物件 ほか）",
+      "title_en": "Chilla's Art catalog",
+      "developer": "Chilla's Art",
+      "publisher": "Chilla's Art",
+      "year": 2020,
+      "platform": [
+        "Steam"
+      ],
+      "genre": "J-ホラー（短編実況向け）",
+      "sales_jp": "",
+      "sales_world": "パブリッシャー累計売上 約290万ドル（29タイトル合計、Steam 推計）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "観戦",
+      "popularity": "日系兄弟2人で年間複数本のPS1風J-ホラー短編を量産。Markiplier・CoryxKenshin・JP VTuber の実況定番枠となり、YouTube累計再生6000万超で「現代インディーJ-ホラーlo-fi派」を定義。KADOKAWAノベライズ・アンソロジーコミック化、BRUTUS掲載など二次展開も活発。",
+      "slug": "chillas-art-catalog",
+      "concept": "「夜勤」「閉店」「事故物件」など日常×日本怪談を題材にした、PS1風ローポリ・固定カメラ・40分前後の短編J-ホラーを連作で量産するチラズ・アートの作品群。Patreon支援者の名前や姿をゲーム内に登場させる仕組みで実況者コミュニティと一体化している。",
+      "target": "怖い実況動画を見るのが好きな層、PS1〜PS2時代のローポリ表現に郷愁を覚えるホラーファン、短時間で完結する日本怪談を一気見したい配信者・視聴者層。"
+    },
+    {
+      "id": 291,
+      "title_jp": "パラノマサイト FILE23 本所七不思議",
+      "title_en": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+      "developer": "Xeen（スクウェア・エニックス）",
+      "publisher": "スクウェア・エニックス",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android",
+        "PS5"
+      ],
+      "genre": "ホラーミステリーADV",
+      "sales_jp": "非公開（日本国内中心ヒット）",
+      "sales_world": "Steam所有 200K-500K（SteamSpy推定）+モバイル/Switch合算で30万本超推定",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "Steam96%圧倒的に好評、日本ゲーム大賞2023優秀賞受賞、低価格(1980円)とコンパクトな尺の昭和ホラー怪談ADVが口コミ拡散。続編・ポップアップショップ展開でIP化。",
+      "slug": "paranormasight-seven-mysteries-of-honjo",
+      "concept": "昭和58年の墨田区・本所を舞台に、本所七不思議の怪異「呪詛」を巡る7人の登場人物視点を切り替えながら謎を解く、和製ホラーミステリーアドベンチャー。",
+      "target": "『街』『428』など群像劇サウンドノベル、または『逆転裁判』系推理ADVを愛するプレイヤー。日本怪談・昭和レトロな雰囲気と短尺で密度の高いミステリーを求める層に刺さる。"
+    },
+    {
+      "id": 292,
+      "title_jp": "ASTLIBRA ～生きた証～ Revision",
+      "title_en": "ASTLIBRA Revision",
+      "developer": "KEIZO",
+      "publisher": "WhisperGames",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "genre": "2DアクションRPG",
+      "sales_jp": "",
+      "sales_world": "Steam所有 100万-200万人（Gamalytic推定）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "14年間ほぼ一人で作り続けた個人開発の壮絶な背景と、Steam29,000件超レビューで95%「圧倒的に好評」の品質、AUTOMATON・ファミ通の日本メディア報道で口コミ拡大。",
+      "slug": "astlibra-revision",
+      "concept": "作者KEIZOが14年の歳月をかけ独力で完成させた、横スクロール2DアクションRPGの集大成。鳥の相棒カラスと共に時と運命に翻弄される青年の60時間級長編冒険を、レトロ感ある手描きドット絵と濃密な装備・スキルツリーで描く。",
+      "target": "『イース』『ヴァルキリープロファイル』などPS〜PS2時代の和製ARPGに郷愁を覚える30〜40代、骨太な戦闘システムと長編シナリオを腰を据えて遊びたいソロプレイ志向の中堅ゲーマー。"
+    },
+    {
+      "id": 293,
+      "title_jp": "バニーガーデン",
+      "title_en": "Bunny Garden",
+      "developer": "qureate",
+      "publisher": "qureate",
+      "year": 2024,
+      "platform": [
+        "Switch",
+        "Steam"
+      ],
+      "genre": "恋愛ADV",
+      "sales_jp": "Steam日本売上ランキング1位／Switch eShop DLランキング2位（発売週）",
+      "sales_world": "Steam所有 推定100K+／Switch+Steam 合計推定20万本+",
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "",
+      "popularity": "発売直後にSteam日本売上1位・Switch eShop DLランキング2位を獲得。VTuberの実況波と「お紳士向け」ミームがX/Twitterで拡散し、qureateの予想を超える反響で続編・派生6タイトルへIP拡張、2026年4月には『バニーガーデン2』がSteam・Switch両方で1位を独占。",
+      "slug": "bunny-garden",
+      "concept": "バニーガールが在籍する高級クラブで店内のキャストと会話・乾杯・カラオケ・あーんゲーム等を重ね、好感度を上げてエンディングを目指す“お紳士向け”恋愛アドベンチャー。健全寄りの大人な雰囲気とコミカルな小ネタを織り交ぜたqureateの代表IP。",
+      "target": "ギャルゲー／美少女ADVを軽く楽しみたい層、バニーガール・ホストクラブ的世界観のファンタジー接客を体験したい層。SNSで盛り上がる“お紳士向け”ネタを共有したいライトなVTuber視聴者層も含む。"
+    },
+    {
+      "id": 294,
+      "title_jp": "Refind Self: 性格診断ゲーム",
+      "title_en": "Refind Self: The Personality Test Game",
+      "developer": "Lizardry",
+      "publisher": "PLAYISM",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android",
+        "Switch"
+      ],
+      "genre": "性格診断アドベンチャー",
+      "sales_jp": "",
+      "sales_world": "50万DL+（2025年2周年時点）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "プレイ中の行動から性格を診断し、結果画面が「自分の人格レポート」として SNS シェアされやすい構造。診断系コンテンツ×ピクセルアートの相性で X（旧 Twitter）バズを連発、AUTOMATON 2023 年ベスト選出、日本 App Store 無料トップに到達。",
+      "slug": "refind-self",
+      "concept": "2D ピクセルアートの世界を約 1 時間探索する間に、プレイヤーの取った行動を「データサイエンス」が分析し、最後に性格タイプを診断する 1 周完結アドベンチャー。3 周することで全人格パターンを開示する設計。",
+      "target": "「自分はどんな人間か」を知りたい診断コンテンツ好き、SNS で結果を共有してコミュニケーションのきっかけにしたい層、短時間で完結する物語体験を求めるカジュアル層。"
+    },
+    {
+      "id": 295,
+      "title_jp": "違う冬のぼくら",
+      "title_en": "BOKURA",
+      "developer": "ところにょり",
+      "publisher": "Kodansha Game Creators Lab",
+      "year": 2023,
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android",
+        "PS5",
+        "PS4"
+      ],
+      "genre": "2人協力パズルADV",
+      "sales_jp": "",
+      "sales_world": "100万本+（2025年8月）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "popularity": "2人プレイ必須・互いに見える景色が異なる非対称的な視覚ギミックがVTuber／実況者ペアの配信で爆発。講談社ゲームクリエイターズラボ採択作として個人開発から世界100万本に到達。",
+      "slug": "bokura",
+      "concept": "家出した2人の少年が冒険する2人プレイ専用パズルアドベンチャー。プレイヤー2人の画面で「同じものが違って見える」非対称ギミックを軸に、ボイスチャットでの情報共有と意見のすり合わせがそのままゲーム進行になる。",
+      "target": "友人・恋人・配信ペアで「ケンカしながら一緒に解く」体験を求めるプレイヤー。短編で完結する叙情的な物語と、互いの認知差を埋めるコミュニケーション・パズルを楽しみたい層。"
+    },
+    {
+      "id": 296,
+      "title_jp": "HoloCure - Save the Fans!",
+      "title_en": "HoloCure - Save the Fans!",
+      "developer": "Kay Yu",
+      "publisher": "Kay Yu (Cover Corp. ライセンス）",
+      "year": 2022,
+      "platform": [
+        "PC (itch.io)",
+        "Steam"
+      ],
+      "genre": "ローグライト・サバイバー (VTuber二次創作)",
+      "sales_jp": "",
+      "sales_world": "無料配布／Steam同接ピーク 約45,000、レビュー26,000+ (圧倒的に好評99%)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "Vampire Survivors型のローグライト・サバイバーをホロライブVTuber二次創作として実装、Cover公式ライセンス取得済みの個人開発ファンゲーム。2022年itch.io公開時にホロリス・VTuber層が一斉拡散、2023年Steam無料リリース時に全世界F2Pランキング上位入り。47人のホロメンを操作キャラ化しスキル・ガチャ・楽曲リミックスで再現する濃密なファンサービスが、推し文化と無料の参入障壁の低さで国内外を巻き込んだ。",
+      "slug": "holocure-save-the-fans",
+      "concept": "ホロライブのVTuberを操作キャラとした「Vampire Survivors」系ローグライト・サバイバー。Cover公式ライセンス下で個人開発者Kay Yuが完全無料配布し、推しを使い倒すファンゲームとして成立している。",
+      "target": "ホロライブのファン（ホロリス）、VTuber文化に親しむ層、Vampire Survivorsに代表される短時間ローグライトを好むカジュアル〜コアゲーマー。推しキャラの動きと専用スキルを楽しみたいプレイヤー。"
+    },
+    {
+      "id": 297,
+      "title_jp": "ごく普通の鹿のゲーム DEEEER Simulator",
+      "title_en": "DEEEER Simulator: Your Average Everyday Deer Game",
+      "developer": "Gibier Games",
+      "publisher": "PLAYISM",
+      "year": 2021,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "genre": "サンドボックス破壊アクション",
+      "sales_jp": "",
+      "sales_world": "累計20万本+（2022年1月時点）",
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "popularity": "「ごく普通の鹿が街を破壊する」という不条理コンセプトと、首が伸びる鹿の異常挙動が配信・SNSで爆発的にバズり、ヤギシミュレーター系の系譜として国内外の実況者に拾われた。",
+      "slug": "deeeer-simulator",
+      "concept": "日本人インディー一人開発・PLAYISM パブリッシングのスローライフ街破壊サンドボックス。鹿が二足歩行で街をのんびり散歩することも、首を伸ばして全てを破壊することもできるカオス系ジョークゲーム。",
+      "target": "Goat Simulator や I Am Bread のような不条理サンドボックスを愛する層、そして実況栄えするカオスゲームをワイワイ見たい配信視聴者層。短時間で笑えるネタゲーを求めるカジュアルプレイヤー。"
+    },
+    {
+      "id": 298,
+      "title_jp": "Ib（イヴ）",
+      "title_en": "Ib",
+      "developer": "kouri",
+      "publisher": "PLAYISM",
+      "year": 2022,
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "genre": "ホラーアドベンチャー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K–500K（SteamSpy推定）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "2012年RPGツクール製フリーゲームの金字塔がPLAYISMにより商業リメイク。Steam発売直後にグローバルトップセラーTop3入り、ユーザーレビュー98%「圧倒的に好評」、Famitsu/4Gamer/電ファミ等大手も大特集。Switch豪華版にはハンカチ同梱で同人原作勢のノスタルジー需要を直撃。",
+      "slug": "ib",
+      "concept": "不気味な美術館に迷い込んだ少女イヴが、絵の世界を彷徨いながら脱出を目指す2Dホラーアドベンチャー。会話システム・ズームモード・7種のエンディングを備えたリメイク版で、芸術作品の不気味さと少女たちの儚い関係性を描く物語体験型ホラー。",
+      "target": "RPGツクール時代の同人ホラーADV（青鬼・魔女の家・霧雨が降る森）に親しんだ30代周辺と、配信文化で名作の存在を知った新規層。グロより演出と物語の余韻で恐怖を味わいたい層向け。"
+    },
+    {
+      "id": 299,
+      "title_jp": "東方ダンマクカグラ ファンタジア・ロスト",
+      "title_en": "Touhou Danmaku Kagura Phantasia Lost",
+      "developer": "Unknown X",
+      "publisher": "Unknown X / DeNA",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5"
+      ],
+      "genre": "リズム×弾幕",
+      "sales_jp": "Switch初週16,631本（ファミ通）",
+      "sales_world": "Steam所有 100K-200K（+Switch/PS版）、累計20万本+推定",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "2021年サ終したモバイル版『東方ダンマクカグラ』の家庭用リブート。原作公認の東方二次創作×ZUN楽曲＋人気同人アレンジ多数収録というファンへの強烈な訴求でSteam同時接続が一時話題化。",
+      "slug": "touhou-danmaku-kagura-phantasia-lost",
+      "concept": "東方Projectの楽曲を弾幕シューティング演出と融合させたリズムアクション。譜面の上から降ってくるノーツを叩く一般的なリズムゲーに加え、弾幕モードでは画面下のキャラを操作して敵弾を捌きながらリズムを刻むハイブリッド設計。",
+      "target": "東方Projectファン・同人音楽愛好層、IIDX/プロセカ系リズムゲーマー、ZUN楽曲・東方アレンジを長年聴いてきた20-40代のオタク層。"
+    },
+    {
+      "id": 300,
+      "title_jp": "Clair Obscur: Expedition 33",
+      "title_en": "Clair Obscur: Expedition 33",
+      "developer": "Sandfall Interactive",
+      "publisher": "Kepler Interactive",
+      "year": 2025,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X|S"
+      ],
+      "genre": "ターン制RPG",
+      "sales_jp": "",
+      "sales_world": "800万本+（2026年4月時点）",
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "popularity": "フランスの小規模インディースタジオ(約30人)のデビュー作が、TGA2025でGOTY含む9冠を達成し同賞史上最多受賞記録を樹立。AA規模でAAA超えの評価を受けた象徴的作品として世界中で話題となり、発売初年で800万本を突破。",
+      "slug": "clair-obscur-expedition-33",
+      "concept": "ベル・エポック期パリ風の絵画的世界観を持つターン制RPG。毎年「絵筆夫人」が数字を描くたびにその年齢の人々が消滅する世界で、33歳になった33番目の遠征隊が彼女を倒す旅に出る物語駆動型JRPGオマージュ。",
+      "target": "FF・クロノトリガー等の古典JRPGに感化され、重厚な物語と美術性を求める成人RPGファン。ターン制バトルにパリィ/回避のアクション要素を融合したシステムを楽しみつつ、家族・喪失・受容を巡る情感的なナラティブに浸りたい層。"
+    },
+    {
+      "id": 301,
+      "title_jp": "ハデスII",
+      "title_en": "Hades II",
+      "developer": "Supergiant Games",
+      "publisher": "Supergiant Games",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "Switch",
+        "Switch 2",
+        "Xbox Series X|S"
+      ],
+      "genre": "ローグライト",
+      "sales_jp": "",
+      "sales_world": "500万本+（EA 200万本超 → 1.0で5日230万本）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "GOTY 2020 受賞作の正統続編。2024年5月のアーリーアクセス開始から16ヶ月で200万本超を売り上げ、2025年9月の1.0正式リリースでは5日間で230万本、Metacritic 95点を獲得し2025年最高評価作品に。TGA 2025 Best Action Game受賞、Steam同時接続11万人超で初代を凌ぐ商業・批評的成功を果たした。",
+      "slug": "hades-ii",
+      "concept": "前作の主人公ザグレウスの妹メリノエを操り、時の神クロノスを討つために冥界を逆方向に駆け上がるアイソメトリックローグライト。武器・神々の祝福・呪文という三層の組み合わせと、走るたびに進む拠点ストーリーで「死んで物語が進む」公式を進化させた。",
+      "target": "初代Hadesで「死ぬほど楽しい」ローグライト体験を覚えたプレイヤー、ハック&スラッシュ系のアクションとギリシャ神話キャラクター群の濃厚なドラマを同時に味わいたい層。アーリーアクセスから完成までを追い続けるコアゲーマー文化との親和性も高い。"
+    },
+    {
+      "id": 302,
+      "title_jp": "Thank Goodness You're Here!",
+      "title_en": "Thank Goodness You're Here!",
+      "developer": "Coal Supper",
+      "publisher": "Panic",
+      "year": 2024,
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Mac"
+      ],
+      "genre": "コメディアドベンチャー",
+      "sales_jp": "",
+      "sales_world": "Steam所有 200K-500K（BAFTA最優秀英国ゲーム2025受賞）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "英ヨークシャー訛りの不条理コメディと2人組インディーの手描きアニメ表現が高評価。BAFTA 2025最優秀英国ゲームを含む6部門ノミネートで一気に話題化、日本語字幕付きでSwitch JP eShopにも展開。",
+      "slug": "thank-goodness-youre-here",
+      "concept": "英国ヨークシャーの架空の町「バーンズワース」を訪れたセールスマンの「小さな黄色いやつ」となり、住民の珍妙なお使いを次々こなすスラップスティック・コメディアドベンチャー。短時間でクリアできる、英国コメディ番組のような体験ゲーム。",
+      "target": "モンティ・パイソンやAardman作品のようなブリティッシュ・コメディが好きな人、Untitled Goose Game系の脱力ユーモア体験が好きなプレイヤー、短時間で完結する濃厚なインディー作品を求める層。"
+    },
+    {
+      "id": 303,
+      "title_jp": "ブルー・プリンス",
+      "title_en": "Blue Prince",
+      "developer": "Dogubomb",
+      "publisher": "Raw Fury",
+      "year": 2025,
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "genre": "ローグライト・パズル",
+      "sales_jp": "",
+      "sales_world": "200万プレイヤー+（Steam 71.8万本+ / PS Plus・Game Pass配信込み）",
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "8年ソロ開発の謎解き屋敷ゲーが2025年突如話題沸騰。Indie Game Awards 2025 GOTY（Clair Obscur失格繰上げ）、Golden Joystick賞インディーGOTY受賞、TGA独立部門ノミネートで「TGA GOTY不選出は不当」の声が拡散。",
+      "slug": "blue-prince",
+      "concept": "叔父から相続した45部屋の屋敷で「隠された46番目の部屋」を探す、ローグライト式間取り構築パズル。プレイごとに部屋の配置が変わり、ドラフトと推理を重ねて謎の全体像を組み上げていく。",
+      "target": "『The Witness』『Outer Wilds』『Return of the Obra Dinn』のような自分の頭脳だけが頼りの謎解きゲーマー。ノートを取りながら数十時間かけて屋敷の全貌を解読する没入体験を求める層。"
     }
   ]
 }

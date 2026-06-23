@@ -1,0 +1,28 @@
+{
+  "id": 276,
+  "title_jp": "ファイブナイツ・アット・フレディーズ セキュリティブリーチ",
+  "title_en": "Five Nights at Freddy's: Security Breach",
+  "developer": "Steel Wool Studios",
+  "publisher": "ScottGames",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "PS4",
+    "PS5",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "",
+  "sales_world": "世界150万本+（Steam収益$49M推定）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "FNAFシリーズ最大級のフルリブート作。2021年12月のPS Blogダウンロード1位、後にPS Plus無料配信で再バズ。配信者・実況者がこぞって取り上げYouTube視聴回数も急増。",
+  "slug": "five-nights-at-freddys-security-breach",
+  "file": "data/games/276-five-nights-at-freddys-security-breach.json",
+  "concept": "深夜のメガピザプレックスに閉じ込められた少年グレゴリーが、暴走するアニマトロニクスから逃げ延びる自由探索型サバイバルホラー。固定カメラ／一夜単位だった原作シリーズを3D広域マップ＋一晩通しの逃走サバイバルに刷新。",
+  "target": "FNAFシリーズの長年のファン、3Dホラー探索好き、ジャンプスケア耐性のある実況者層。クリアより「怖がる体験」自体を楽しむライト〜中堅ホラー層。"
+}

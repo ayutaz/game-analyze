@@ -1,0 +1,28 @@
+{
+  "id": 277,
+  "title_jp": "NORCO",
+  "title_en": "NORCO",
+  "developer": "Geography of Robots",
+  "publisher": "Raw Fury",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "サザンゴシック・アドベンチャー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K–500K（Sensor Tower 売上 約$544K）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "第1回Tribeca Games Award受賞、TGA 2022「Best Debut Indie」ノミネート、IGF 2022 Honorable Mention。Metacritic 89点で批評家絶賛、ナラティブ系インディーの代表格として話題化。",
+  "slug": "norco",
+  "file": "data/games/277-norco.json",
+  "concept": "ルイジアナ州ノルコを舞台に、消えた弟を探す姉キャットが石油精製所と教団と廃墟を彷徨うサザンゴシックなポイント＆クリック・アドベンチャー。気候崩壊と産業の腐敗を背景に、土着の神秘と近未来サイバーパンクが混ざる文学的ビジュアルノベル。",
+  "target": "Disco Elysium／Citizen Sleeper／Kentucky Route Zero に惹かれる、文学的なテキスト密度と地域固有の空気感を味わいたい大人プレイヤー層。賞・批評で「読むゲーム」を見つけたい層に刺さる。"
+}

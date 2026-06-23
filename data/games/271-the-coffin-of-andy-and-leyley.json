@@ -1,0 +1,24 @@
+{
+  "id": 271,
+  "title_jp": "アンディ&レイリーの棺",
+  "title_en": "The Coffin of Andy and Leyley",
+  "developer": "Nemlei",
+  "publisher": "Kit9 Studio",
+  "year": 2023,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "サイコホラーADV / RPGツクール",
+  "sales_jp": "",
+  "sales_world": "Steam所有 500K-1M、レビュー37,000+「圧倒的に好評」",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "ソロ開発者Nemleiが生んだ近親共依存サイコホラー。TumblrとTikTokで2024年「問題あるインディーファンダム」現象を巻き起こした。",
+  "slug": "the-coffin-of-andy-and-leyley",
+  "file": "data/games/271-the-coffin-of-andy-and-leyley.json",
+  "concept": "ディストピア世界で生き延びるため犯罪を重ねる兄妹アンドリューとアシュレイの共依存関係を描く、RPGツクール製サイコホラーADV。ブラックコメディと禁忌テーマで観る者を試す問題作。",
+  "target": "ホラーADV・キャラクター心理描写・タブー的物語を好むプレイヤー。TumblrやTikTokで二次創作・考察文化に没入するインディーファンダム層。"
+}

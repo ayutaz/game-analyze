@@ -1,0 +1,26 @@
+{
+  "id": 278,
+  "title_jp": "MARVEL SNAP",
+  "title_en": "Marvel Snap",
+  "developer": "Second Dinner",
+  "publisher": "Nuverse / Skystone Games",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "Steam"
+  ],
+  "genre": "対戦型デジタルカードゲーム",
+  "sales_jp": "",
+  "sales_world": "累計収益 $275M+（2024年時点）/ DL数 2,790万+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "TGA 2022「Best Mobile Game」受賞、TouchArcade 2022 GOTY。元Hearthstone主要スタッフBen Brodeが率いるSecond Dinnerのデビュー作で「3分で1試合」「カード12枚デッキ」という極限まで削ぎ落とした設計と、Marvel IPの強さでモバイルCCG市場を再定義した。",
+  "slug": "marvel-snap",
+  "file": "data/games/278-marvel-snap.json",
+  "concept": "3レーン×6ターン×12枚デッキで1試合3分。Hearthstone元総監督が手掛ける「最速・最軽量」のデジタルCCGで、賭けレート（SNAP）の心理戦とMarvelヒーロー収集を融合したモバイルファースト設計。",
+  "target": "短時間でPvPの読み合いを楽しみたいCCGプレイヤー、Marvelファン、Hearthstone・Legends of Runeterra経験者で「もっと軽量なカードゲーム」を求める層。通勤・休憩の隙間時間でランクマッチを回したいモバイルゲーマー。"
+}

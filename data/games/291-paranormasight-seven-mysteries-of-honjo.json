@@ -1,0 +1,28 @@
+{
+  "id": 291,
+  "title_jp": "パラノマサイト FILE23 本所七不思議",
+  "title_en": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+  "developer": "Xeen（スクウェア・エニックス）",
+  "publisher": "スクウェア・エニックス",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "iOS",
+    "Android",
+    "PS5"
+  ],
+  "genre": "ホラーミステリーADV",
+  "sales_jp": "非公開（日本国内中心ヒット）",
+  "sales_world": "Steam所有 200K-500K（SteamSpy推定）+モバイル/Switch合算で30万本超推定",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Steam96%圧倒的に好評、日本ゲーム大賞2023優秀賞受賞、低価格(1980円)とコンパクトな尺の昭和ホラー怪談ADVが口コミ拡散。続編・ポップアップショップ展開でIP化。",
+  "slug": "paranormasight-seven-mysteries-of-honjo",
+  "file": "data/games/291-paranormasight-seven-mysteries-of-honjo.json",
+  "concept": "昭和58年の墨田区・本所を舞台に、本所七不思議の怪異「呪詛」を巡る7人の登場人物視点を切り替えながら謎を解く、和製ホラーミステリーアドベンチャー。",
+  "target": "『街』『428』など群像劇サウンドノベル、または『逆転裁判』系推理ADVを愛するプレイヤー。日本怪談・昭和レトロな雰囲気と短尺で密度の高いミステリーを求める層に刺さる。"
+}

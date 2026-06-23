@@ -1,0 +1,30 @@
+{
+  "id": 286,
+  "title_jp": "サブノーティカ：ビロウ ゼロ",
+  "title_en": "Subnautica: Below Zero",
+  "developer": "Unknown Worlds Entertainment",
+  "publisher": "Unknown Worlds Entertainment",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "Switch",
+    "Mac"
+  ],
+  "genre": "水中サバイバル探索",
+  "sales_jp": "",
+  "sales_world": "Steam 330万本超／シリーズ累計1850万本+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作の高評価と独自の水中恐怖体験を継承し、配信・実況映えする深海バイオームと閉所恐怖演出でシリーズ累計1850万本の柱となった。",
+  "slug": "subnautica-below-zero",
+  "file": "data/games/286-subnautica-below-zero.json",
+  "concept": "広大な氷海の極地を舞台にした水中サバイバル探索の続編。生物多様性に富んだ深海バイオームを潜り、資源採取・基地建設・物語断片の収集を一人称視点で進める。",
+  "target": "原作Subnauticaのファン、水中・深海探索の没入感とサバイバルクラフトを好むソロプレイヤー、SF的物語と環境探索を同時に味わいたい層。"
+}

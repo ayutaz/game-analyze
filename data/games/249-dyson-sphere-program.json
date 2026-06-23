@@ -1,0 +1,24 @@
+{
+  "id": 249,
+  "title_jp": "ダイソン・スフィア・プログラム",
+  "title_en": "Dyson Sphere Program",
+  "developer": "Youthcat Studio",
+  "publisher": "Gamera Games",
+  "year": 2021,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "宇宙工場自動化",
+  "sales_jp": "",
+  "sales_world": "200万本+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "中国の小規模インディーがFactorio系を3D宇宙スケールに拡張し、ダイソン球建造という壮大な目標で配信・SNSバズを起こしてEA初月50万本、後に150万本超を記録",
+  "slug": "dyson-sphere-program",
+  "file": "data/games/249-dyson-sphere-program.json",
+  "concept": "惑星単位で工場ラインを敷き、複数星系を渡って恒星エネルギーを採取する「ダイソン球」を建造する宇宙規模の自動化サンドボックス。Factorioの平面工場思想を3D球面・銀河系へ拡張した。",
+  "target": "Factorio／Satisfactory／Captain of Industry等の自動化系ベテランで、より壮大なスケール感とSFビジュアルを求めるソロ最適化プレイヤー。"
+}

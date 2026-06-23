@@ -1,0 +1,27 @@
+{
+  "id": 299,
+  "title_jp": "東方ダンマクカグラ ファンタジア・ロスト",
+  "title_en": "Touhou Danmaku Kagura Phantasia Lost",
+  "developer": "Unknown X",
+  "publisher": "Unknown X / DeNA",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "リズム×弾幕",
+  "sales_jp": "Switch初週16,631本（ファミ通）",
+  "sales_world": "Steam所有 100K-200K（+Switch/PS版）、累計20万本+推定",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2021年サ終したモバイル版『東方ダンマクカグラ』の家庭用リブート。原作公認の東方二次創作×ZUN楽曲＋人気同人アレンジ多数収録というファンへの強烈な訴求でSteam同時接続が一時話題化。",
+  "slug": "touhou-danmaku-kagura-phantasia-lost",
+  "file": "data/games/299-touhou-danmaku-kagura-phantasia-lost.json",
+  "concept": "東方Projectの楽曲を弾幕シューティング演出と融合させたリズムアクション。譜面の上から降ってくるノーツを叩く一般的なリズムゲーに加え、弾幕モードでは画面下のキャラを操作して敵弾を捌きながらリズムを刻むハイブリッド設計。",
+  "target": "東方Projectファン・同人音楽愛好層、IIDX/プロセカ系リズムゲーマー、ZUN楽曲・東方アレンジを長年聴いてきた20-40代のオタク層。"
+}

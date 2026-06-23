@@ -1,0 +1,25 @@
+{
+  "id": 242,
+  "title_jp": "Cobalt Core",
+  "title_en": "Cobalt Core",
+  "developer": "Rocket Rat Games",
+  "publisher": "Brace Yourself Games",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch"
+  ],
+  "genre": "ローグライト・デッキ構築",
+  "sales_jp": "",
+  "sales_world": "Steam所有 100K-200K（Switch版上乗せで 200K+ 圏）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Steamレビュー96%「圧倒的好評」、PC Gamerが「年間ベスト・デッキ構築」と評するなど批評筋から高評価。4Gamerやでんふぁみで日本語紹介も豊富、StS系プレイヤーの定番として口コミ拡散。",
+  "slug": "cobalt-core",
+  "file": "data/games/242-cobalt-core.json",
+  "concept": "単一の横軸上で宇宙船を左右に動かしながら砲台のラインを合わせて撃ち合う、SF風デッキ構築ローグライト。3人1組のクルー編成で異なるカード／船／アーティファクトの組み合わせを試す、Slay the Spire系の正統進化形。",
+  "target": "Slay the Spire / Monster Train / Inscryption など現代デッキ構築ローグライトを遊び尽くした層。短時間ラン×多様な組み合わせを試行錯誤するソロプレイヤー、空間軸という新ギミックに惹かれる戦略派。"
+}

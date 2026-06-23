@@ -30,7 +30,7 @@ function bestSales(g) {
 
 function topbarNav(active) {
   return `
-    <h1><a href="facet.html" style="text-decoration:none;color:inherit;">日本のゲーム200本 分析カタログ</a></h1>
+    <h1><a href="facet.html" style="text-decoration:none;color:inherit;">日本のゲーム303本 分析カタログ</a></h1>
     <nav>
       <a href="facet.html" class="${active==='facet'?'active':''}">一覧</a>
       <a href="https://github.com/ayutaz/game-analyze" target="_blank">GitHub</a>

@@ -1,0 +1,25 @@
+{
+  "id": 298,
+  "title_jp": "Ib（イヴ）",
+  "title_en": "Ib",
+  "developer": "kouri",
+  "publisher": "PLAYISM",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch"
+  ],
+  "genre": "ホラーアドベンチャー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K–500K（SteamSpy推定）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "2012年RPGツクール製フリーゲームの金字塔がPLAYISMにより商業リメイク。Steam発売直後にグローバルトップセラーTop3入り、ユーザーレビュー98%「圧倒的に好評」、Famitsu/4Gamer/電ファミ等大手も大特集。Switch豪華版にはハンカチ同梱で同人原作勢のノスタルジー需要を直撃。",
+  "slug": "ib",
+  "file": "data/games/298-ib.json",
+  "concept": "不気味な美術館に迷い込んだ少女イヴが、絵の世界を彷徨いながら脱出を目指す2Dホラーアドベンチャー。会話システム・ズームモード・7種のエンディングを備えたリメイク版で、芸術作品の不気味さと少女たちの儚い関係性を描く物語体験型ホラー。",
+  "target": "RPGツクール時代の同人ホラーADV（青鬼・魔女の家・霧雨が降る森）に親しんだ30代周辺と、配信文化で名作の存在を知った新規層。グロより演出と物語の余韻で恐怖を味わいたい層向け。"
+}

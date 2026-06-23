@@ -1,0 +1,29 @@
+{
+  "id": 262,
+  "title_jp": "フライデー・ナイト・ファンキン",
+  "title_en": "Friday Night Funkin'",
+  "developer": "The Funkin' Crew (ninjamuffin99, PhantomArcade, Kawai Sprite, evilsk8r)",
+  "publisher": "Newgrounds（フリーゲームとして配信）",
+  "year": 2020,
+  "platform": [
+    "Browser",
+    "Windows",
+    "macOS",
+    "Linux",
+    "Android",
+    "iOS"
+  ],
+  "genre": "リズムゲーム",
+  "sales_jp": "",
+  "sales_world": "無料配信／Newgrounds 累計プレイ 70M+ 回・Google Play 公称プレイヤー 200M+／Kickstarter $2.25M（58,561 backers）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Ludum Dare 47 発のフリーゲームが Newgrounds をサーバー落ちさせる勢いで拡散し、TikTok/YouTube の二次創作 MOD 文化が爆発。キッズ向けインターネット・ミーム文化を象徴する一本となり、Kickstarter で 3,750% 達成。",
+  "slug": "friday-night-funkin",
+  "file": "data/games/262-friday-night-funkin.json",
+  "concept": "ラップバトル形式の対決リズムゲーム。彼女の父・Daddy Dearest をはじめとする多彩な相手と矢印を合わせて歌い勝つ、Newgrounds テイスト溢れる Flash 風 2D アニメーションが特徴。MOD 制作が公式に推奨され、無数のキャラ MOD が生まれる土壌となっている。",
+  "target": "DDR/StepMania 系の純粋なリズムアクションを求める層と、Newgrounds/TikTok のミーム文化や FNF MOD（Sonic.exe・Hatsune Miku・Whitty 等）を介してインターネット二次創作を楽しむ十代〜二十代前半。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 233,
+  "title_jp": "シチズン・スリーパー 2: スターワード・ベクター",
+  "title_en": "Citizen Sleeper 2: Starward Vector",
+  "developer": "Jump Over The Age",
+  "publisher": "Fellow Traveller",
+  "year": 2025,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "ナラティブRPG",
+  "sales_jp": "",
+  "sales_world": "プレイヤー 250万人+（PC/コンソール、2026年1月時点）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "前作で築いたサイバーパンク叙情系インディーRPGの評価をベースに、続編としてダイス＋ドリフター運用へとシステムを刷新。Game Pass・PS Plus 同時配信もあり一気にメインストリーム化した。",
+  "slug": "citizen-sleeper-2-starward-vector",
+  "file": "data/games/233-citizen-sleeper-2-starward-vector.json",
+  "concept": "小惑星帯の自治セクターを舞台に、デジタル意識体「スリーパー」として乗組員を集めながら星系を渡る、ダイスロール式の文芸テキストRPG。",
+  "target": "Disco Elysium・Citizen Sleeper（前作）・Norco など「読むRPG」を好む層、SFディストピア小説や TTRPG 的なリソース管理ナラティブを楽しみたいプレイヤー。"
+}

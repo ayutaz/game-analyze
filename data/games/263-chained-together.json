@@ -1,0 +1,24 @@
+{
+  "id": 263,
+  "title_jp": "チェインド・トゥゲザー",
+  "title_en": "Chained Together",
+  "developer": "Anegar Games",
+  "publisher": "Anegar Games",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "協力レイジ・クライミング",
+  "sales_jp": "",
+  "sales_world": "300万本+（Steam）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "$4.99の低価格×鎖で繋がれた最大4人協力登山という設計が「一人のミスで全員転落」というレイジ配信ネタを量産し、2024年夏のTwitch/YouTube実況で爆発。発売直後にSteam同時接続8.5万人を記録し、年内最大級のインディー launch となった。",
+  "slug": "chained-together",
+  "file": "data/games/263-chained-together.json",
+  "concept": "地獄から脱出するため、鎖で互いに繋がれた仲間と協力して垂直の塔を登る一人称協力プラットフォーマー。落ちれば全員道連れの「Getting Over It」系の理不尽さを多人数化した、配信映え特化の即興パーティーゲーム。",
+  "target": "配信者・ストリーマー仲間とのワイワイ系協力プレイを楽しむ層、Only Up!やGetting Over Itのような「絶望感の共有」を笑いに変えたいプレイヤー。Discordで友人と通話しながら遊ぶ若年層に強い。"
+}

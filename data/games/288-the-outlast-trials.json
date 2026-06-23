@@ -1,0 +1,28 @@
+{
+  "id": 288,
+  "title_jp": "アウトラスト・トライアルズ",
+  "title_en": "The Outlast Trials",
+  "developer": "Red Barrels",
+  "publisher": "Red Barrels",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "協力ホラー",
+  "sales_jp": "",
+  "sales_world": "300万プレイヤー+（2025年3月時点、累計売上200万本+）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Outlast IPを1〜4人協力サバイバルホラーに転換し、配信映えする悲鳴ゲームとしてバズ。2023年早期アクセス開始、2024年3月の1.0版ローンチで全機種クロスプレイ展開して再ブースト。",
+  "slug": "the-outlast-trials",
+  "file": "data/games/288-the-outlast-trials.json",
+  "concept": "冷戦期の人体実験を舞台に、1〜4人で謎の施設の「治験」を生き延びる協力サバイバルホラー。前作までのソロ恐怖体験を、仲間と叫び合うパーティ型恐怖へ転換した。",
+  "target": "フレンドと絶叫しながらビビり合いたい協力ホラー層、Phasmophobiaやレザニーカンパニーで配信を楽しむ層、Outlast前作のサバイバルホラーファン。"
+}

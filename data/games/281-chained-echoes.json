@@ -1,0 +1,27 @@
+{
+  "id": 281,
+  "title_jp": "チェインドエコーズ",
+  "title_en": "Chained Echoes",
+  "developer": "Matthias Linda",
+  "publisher": "Deck13 Spotlight",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "Xbox One",
+    "PS4"
+  ],
+  "genre": "JRPG（SNES風）",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K-500K（推定$6.1M gross）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "独りの開発者が7年がかりで完成させたSNES風JRPGとして高評価。シンボルエンカウント・スピード重視の戦闘・飛空艇/メカ要素など\"古き良きJRPGの理想形\"として欧米コアファンの間で口コミ拡散",
+  "slug": "chained-echoes",
+  "file": "data/games/281-chained-echoes.json",
+  "concept": "90年代SNES黄金期のJRPG（特にクロノ・トリガー／FFVI／タクティクス系）への愛を凝縮した、ソロ開発による2D本格JRPG。マップを跨ぐ国家紛争の群像劇と、メカ「スカイアーマー」によるダイナミックな戦闘を融合させる。",
+  "target": "スーパーファミコン世代のJRPGに郷愁を感じる30〜40代と、ピクセルアートRPGを新鮮に受け取るインディーRPG愛好家。物語・世界観・戦闘システムをじっくり味わいたいプレイヤー。"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 279,
+  "title_jp": "センナールの聖歌",
+  "title_en": "Chants of Sennaar",
+  "developer": "Rundisc",
+  "publisher": "Focus Entertainment",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "言語解読パズルアドベンチャー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K–500K（初月10万本、累計推定30万本+）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "バベルの塔をモチーフに「未知言語を観察と仮説で解読する」というユニークな体験設計が高評価。TGA 2023 Games for Impactノミネート、Pégases 2024 最優秀ゲーム・最優秀インディー・最優秀ゲームデザイン三冠、NY Game Awards 2024 Best Indie受賞でインディー強豪として国際的に認知された。",
+  "slug": "chants-of-sennaar",
+  "file": "data/games/279-chants-of-sennaar.json",
+  "concept": "古代バベルの塔を昇りながら、住人たちの未知の言語を観察・推測・検証して解読していく言語学パズルADV。記号と文脈から意味を組み立てる「言語を理解していく快感」そのものを核に据えた稀有な作品。",
+  "target": "Outer Wilds、Return of the Obra Dinn、Tunic、Baba Is Youのような「知的発見と仮説検証」を遊びの中心に据えたパズル／謎解きADV愛好家。じっくり腰を据えてノートを取りながら遊びたい層に強く刺さる。"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 204,
+  "title_jp": "テューニック",
+  "title_en": "Tunic",
+  "developer": "Isometricorp Games (Andrew Shouldice)",
+  "publisher": "Finji",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "Mac",
+    "iOS"
+  ],
+  "genre": "アクションアドベンチャー（謎解き）",
+  "sales_jp": "",
+  "sales_world": "Steam所有 1.1M+ / 全世界推定 売上$21M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "D.I.C.E. 2023独立系部門最優秀、BAFTA 2023芸術功績＋デビュー作受賞。「説明書を解読する」異言語マニュアル体験がカルト的人気を博した。",
+  "slug": "tunic",
+  "file": "data/games/204-tunic.json",
+  "concept": "キツネの主人公が異言語で書かれた取扱説明書を断片的に集め、解読しながら世界の謎を解いていく見下ろし型アクションアドベンチャー。ゼルダ風の戦闘と古典的攻略本文化への愛が融合した一作。",
+  "target": "かつて意味の分からない海外ゲームを攻略本片手に遊んだ世代、暗号・記号・隠し要素の解読が好きなパズル/探索好きプレイヤー。"
+}

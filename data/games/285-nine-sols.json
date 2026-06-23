@@ -1,0 +1,29 @@
+{
+  "id": 285,
+  "title_jp": "ナインソールズ",
+  "title_en": "Nine Sols",
+  "developer": "Red Candle Games",
+  "publisher": "Red Candle Games",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "2Dアクションメトロイドヴァニア（Sekiro系パリィ）",
+  "sales_jp": "",
+  "sales_world": "80万本+（2025年5月時点／全プラットフォーム）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "台湾発・道教SF「Taopunk」の独自世界観と、Sekiro直系の高難度パリィ戦闘が評価され、Steamで「圧倒的に好評」を維持しつつ1年で80万本超に到達。アジア発インディーの代表格として欧米メディアでも高評価。",
+  "slug": "nine-sols",
+  "file": "data/games/285-nine-sols.json",
+  "concept": "道教神話とサイバーパンクを融合した「Taopunk」世界観の2Dメトロイドヴァニア。Sekiro由来のパリィ／弾き返しを中核に据えた高難度ボスアクションを、手描きアニメーションで描く。",
+  "target": "Hollow Knight・Sekiro・Katana Zeroなどの高難度2Dアクションを愛好し、骨太なパリィ戦闘と濃密な世界観・キャラクター物語を同時に味わいたいコアアクション層。"
+}

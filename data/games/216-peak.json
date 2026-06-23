@@ -1,0 +1,22 @@
+{
+  "id": 216,
+  "title_jp": "PEAK",
+  "title_en": "PEAK",
+  "developer": "Aggro Crab / Landfall",
+  "publisher": "Aggro Crab / Landfall",
+  "year": 2025,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "協力クライミングサバイバル",
+  "sales_jp": "",
+  "sales_world": "1100万本+ (Steam)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "2社のインディースタジオがゲームジャムノリで4ヶ月制作した「副業」作品が、発売6日で100万本・1ヶ月で500万本・2ヶ月で1000万本を突破。同接11万超で2025年夏の配信者向け代表作となった。",
+  "slug": "peak",
+  "file": "data/games/216-peak.json",
+  "concept": "最大4人で奇怪な島の山頂を目指して登攀する協力サバイバル。スタミナ管理・落下・装備共有・即死リスクが生むドタバタ劇が、配信・実況映えする「失敗が一番面白い」体験を作り出す。",
+  "target": "『Lethal Company』『Content Warning』など低価格×Discord通話前提のワイワイ協力ゲームを好む層。配信で見て真似したくなる「滑落ネタ」中心のプレイヤー。"
+}

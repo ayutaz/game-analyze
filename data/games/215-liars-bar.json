@@ -1,0 +1,22 @@
+{
+  "id": 215,
+  "title_jp": "ライアーズ・バー",
+  "title_en": "Liar's Bar",
+  "developer": "Curve Animation",
+  "publisher": "Curve Animation",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "ブラフ／嘘つき推理ホラー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 2M-5M（推定）／ピーク同接113k",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "プロキシミティボイス＋ロシアンルーレットの「嘘がバレた瞬間に銃声」演出が配信／TikTokで爆発、トルコ発インディーが2024年Q4の代表的バズに。",
+  "slug": "liars-bar",
+  "file": "data/games/215-liars-bar.json",
+  "concept": "最大4人でカードゲームと「嘘の見破り合い」をしながら、嘘を疑われた者がリボルバーで自分の頭にロシアンルーレットを撃つマルチ・ブラフホラー。ボイスチャット必須で、表情・声色・沈黙の全てが情報になる。",
+  "target": "Among Us／Phasmophobia 系のボイス前提パーティ協力＋裏切りを好む配信者・友人グループ。短時間で勝敗が決まり配信映えする心理戦・絶叫体験を求める層。"
+}

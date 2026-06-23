@@ -1,0 +1,25 @@
+{
+  "id": 208,
+  "title_jp": "ピザタワー",
+  "title_en": "Pizza Tower",
+  "developer": "Tour de Pizza",
+  "publisher": "Tour de Pizza",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch"
+  ],
+  "genre": "2Dアクションプラットフォーマー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 1M-2M / 売上$60M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "5年間Patreonで温められた狂気の作画と疾走感が2023年1月リリースで爆発、Steam史上最高評価級の2Dプラットフォーマーとして口コミ拡散。実況・スピードラン文化も後押し",
+  "slug": "pizza-tower",
+  "file": "data/games/208-pizza-tower.json",
+  "concept": "『ワリオランド』の系譜を継ぐ高速2Dアクションプラットフォーマー。ピザ屋のおっさん「ペッピーノ」がタワーを爆走し、コンボとランクを稼ぎながらステージ崩壊から逃げ切る",
+  "target": "90年代カートゥーン調のドット作画と理不尽なスピード感、Pランクを狙うやり込みプレイを楽しみたい2Dアクション・スピードラン愛好家"
+}

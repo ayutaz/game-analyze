@@ -1,0 +1,31 @@
+{
+  "id": 235,
+  "title_jp": "ストレンジ・ホーティカルチャー",
+  "title_en": "Strange Horticulture",
+  "developer": "Bad Viking",
+  "publisher": "Iceberg Interactive",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オカルト植物店パズル",
+  "sales_jp": "",
+  "sales_world": "全プラットフォーム100万本+（Steam 30万本+/Switch 10万本+）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "英国2人スタジオの「コージーホラー」異色作。植物を観察・同定するパズルと不穏な物語の組み合わせがTikTok等で話題となり、Switch移植が大ヒットして口コミでロングテール化した。",
+  "slug": "strange-horticulture",
+  "file": "data/games/235-strange-horticulture.json",
+  "concept": "オカルティックな植物店主となり、来店客の依頼に応じて図鑑と特徴から植物を同定して手渡すパズルアドベンチャー。観察・推理と暗い物語が静かに絡み合う「不穏な癒し」ジャンルを切り拓いた1本。",
+  "target": "手触りの良い同定パズルと、薄暗い英国オカルト雰囲気を腰を据えて味わいたいソロプレイヤー。Return of the ObraDinnやCase of the Golden Idol系の観察推理を好む層に強く刺さる。"
+}

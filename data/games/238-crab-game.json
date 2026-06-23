@@ -1,0 +1,24 @@
+{
+  "id": 238,
+  "title_jp": "クラブゲーム",
+  "title_en": "Crab Game",
+  "developer": "Dani (Daniel Sooman)",
+  "publisher": "Dani",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "macOS",
+    "Linux"
+  ],
+  "genre": "パーティーサバイバル（イカゲーム風）",
+  "sales_jp": "",
+  "sales_world": "基本無料 / Steam所有 5M-10M / 同接ピーク28.3万",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "2021年10月「イカゲーム」ブームに合わせ約2週間で開発・基本無料リリース、YouTuber/Twitchで爆発的に拡散しピーク28万人同接を記録",
+  "slug": "crab-game",
+  "file": "data/games/238-crab-game.json",
+  "concept": "Netflixドラマ『イカゲーム』のデスゲームを模したミニゲーム集を最大35人で対戦するファーストパーソン・パーティーゲーム。基本無料で参入障壁ゼロ、配信者向けのカオスな立ち回りが売り。",
+  "target": "配信文化・ミーム文化に親しむ若年層プレイヤー、フレンドや配信視聴者と短時間で笑える対戦体験を求める層。"
+}

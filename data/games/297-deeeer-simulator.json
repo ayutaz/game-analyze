@@ -1,0 +1,25 @@
+{
+  "id": 297,
+  "title_jp": "ごく普通の鹿のゲーム DEEEER Simulator",
+  "title_en": "DEEEER Simulator: Your Average Everyday Deer Game",
+  "developer": "Gibier Games",
+  "publisher": "PLAYISM",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "サンドボックス破壊アクション",
+  "sales_jp": "",
+  "sales_world": "累計20万本+（2022年1月時点）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「ごく普通の鹿が街を破壊する」という不条理コンセプトと、首が伸びる鹿の異常挙動が配信・SNSで爆発的にバズり、ヤギシミュレーター系の系譜として国内外の実況者に拾われた。",
+  "slug": "deeeer-simulator",
+  "file": "data/games/297-deeeer-simulator.json",
+  "concept": "日本人インディー一人開発・PLAYISM パブリッシングのスローライフ街破壊サンドボックス。鹿が二足歩行で街をのんびり散歩することも、首を伸ばして全てを破壊することもできるカオス系ジョークゲーム。",
+  "target": "Goat Simulator や I Am Bread のような不条理サンドボックスを愛する層、そして実況栄えするカオスゲームをワイワイ見たい配信視聴者層。短時間で笑えるネタゲーを求めるカジュアルプレイヤー。"
+}

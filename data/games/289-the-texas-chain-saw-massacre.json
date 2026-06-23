@@ -1,0 +1,26 @@
+{
+  "id": 289,
+  "title_jp": "テキサス・チェーンソー・マサカー",
+  "title_en": "The Texas Chain Saw Massacre",
+  "developer": "Sumo Digital Nottingham",
+  "publisher": "Gun Interactive",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "非対称対戦ホラー",
+  "sales_jp": "",
+  "sales_world": "110万本+（2024年2月時点）／総プレイヤー数560万人+（Game Pass含む）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "非対称",
+  "popularity": "DBD／13日の金曜日の系譜にある3v4非対称ホラー。Xbox Game Pass初日配信＋有名ホラーIPの相乗効果で24時間内に100万プレイヤー突破、ローンチ週はSteamで1.7万人同時接続を記録した。",
+  "slug": "the-texas-chain-saw-massacre",
+  "file": "data/games/289-the-texas-chain-saw-massacre.json",
+  "concept": "1974年の同名カルトホラー映画を題材にした、ファミリー側3人 vs 犠牲者側4人の非対称マルチプレイヤー対戦ゲーム。ハウスの隠密脱出と血みどろの追跡劇を再現する。",
+  "target": "Dead by Daylight や Friday the 13th: The Game に親しんだ非対称対戦ホラーのファン、および70年代スラッシャー映画の世界観を体験したい層。"
+}

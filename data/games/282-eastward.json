@@ -1,0 +1,30 @@
+{
+  "id": 282,
+  "title_jp": "イーストワード",
+  "title_en": "Eastward",
+  "developer": "Pixpil",
+  "publisher": "Chucklefish",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox",
+    "iOS",
+    "Mac"
+  ],
+  "genre": "アクションRPG（ピクセルアート）",
+  "sales_jp": "",
+  "sales_world": "Steam所有 500K-1M（推定総収益$6.7M+）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "スタジオジブリ風ピクセルアートと終末世界の親子ロードムービー的物語性、Chucklefish（Stardew Valley版元）パブリッシングと2021年Nintendo年間ベストインディーリスト入りで注目を集めた。",
+  "slug": "eastward",
+  "file": "data/games/282-eastward.json",
+  "concept": "荒廃した近未来の地下世界を舞台に、寡黙な中年男ジョンと不思議な少女サムが地上を目指して旅をするピクセルアート・アクションRPG。ジブリ／ファミコン世代を直撃する濃密なドット表現と緻密な世界観で「観る」喜びに振り切った作品。",
+  "target": "レトロJRPGやMOTHER／クロノ・トリガー的な情緒のある物語を好み、戦闘より雰囲気・キャラクター・終末世界観を味わいたいシングルプレイヤー向け。"
+}

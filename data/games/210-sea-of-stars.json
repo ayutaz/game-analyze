@@ -1,0 +1,30 @@
+{
+  "id": 210,
+  "title_jp": "シー・オブ・スターズ",
+  "title_en": "Sea of Stars",
+  "developer": "Sabotage Studio",
+  "publisher": "Sabotage Studio",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "Mac"
+  ],
+  "genre": "ターン制ドットRPG",
+  "sales_jp": "",
+  "sales_world": "600万プレイヤー+（2024年11月時点）／初週25万本",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "TGA 2023 Best Indie受賞。『クロノ・トリガー』『マリオRPG』への愛情に満ちた現代版ネオJRPGとして、ドット絵RPG世代の郷愁と海外インディーの完成度を両立し、Day 1でXbox/PS Plus加入も追い風に。",
+  "slug": "sea-of-stars",
+  "file": "data/games/210-sea-of-stars.json",
+  "concept": "太陽と月の力を継ぐ二人の「ソルスティス・ウォリアー」を主人公に据えた、90年代SFC黄金期JRPGへのラブレター。タイミングベース戦闘・天体パズル・美麗ピクセルアートで「思い出のJRPG」をモダンに再構築した一本。",
+  "target": "クロノ・トリガーやマリオRPGに思い入れのある30〜40代のJRPGファン、および90年代名作を未体験の若い世代で「いま遊べる正統派ドット絵RPG」を求めるプレイヤー。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 301,
+  "title_jp": "ハデスII",
+  "title_en": "Hades II",
+  "developer": "Supergiant Games",
+  "publisher": "Supergiant Games",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "Switch",
+    "Switch 2",
+    "Xbox Series X|S"
+  ],
+  "genre": "ローグライト",
+  "sales_jp": "",
+  "sales_world": "500万本+（EA 200万本超 → 1.0で5日230万本）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "GOTY 2020 受賞作の正統続編。2024年5月のアーリーアクセス開始から16ヶ月で200万本超を売り上げ、2025年9月の1.0正式リリースでは5日間で230万本、Metacritic 95点を獲得し2025年最高評価作品に。TGA 2025 Best Action Game受賞、Steam同時接続11万人超で初代を凌ぐ商業・批評的成功を果たした。",
+  "slug": "hades-ii",
+  "file": "data/games/301-hades-ii.json",
+  "concept": "前作の主人公ザグレウスの妹メリノエを操り、時の神クロノスを討つために冥界を逆方向に駆け上がるアイソメトリックローグライト。武器・神々の祝福・呪文という三層の組み合わせと、走るたびに進む拠点ストーリーで「死んで物語が進む」公式を進化させた。",
+  "target": "初代Hadesで「死ぬほど楽しい」ローグライト体験を覚えたプレイヤー、ハック&スラッシュ系のアクションとギリシャ神話キャラクター群の濃厚なドラマを同時に味わいたい層。アーリーアクセスから完成までを追い続けるコアゲーマー文化との親和性も高い。"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 267,
+  "title_jp": "デモノロジスト",
+  "title_en": "Demonologist",
+  "developer": "Clock Wizard Games",
+  "publisher": "Clock Wizard Games",
+  "year": 2023,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "ホラー協力",
+  "sales_jp": "",
+  "sales_world": "120万本+（推定総売上 約$17.2M）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "UE5の高品質グラフィックでPhasmophobia系協力ホラーを再構築し、配信映えするビジュアルと初月100万ドル超えのアーリーアクセス成功で配信者・ホラー実況勢に一気に拡散した。",
+  "slug": "demonologist",
+  "file": "data/games/267-demonologist.json",
+  "concept": "1〜4人の協力で呪われた場所に潜入し、機材で証拠を集めて悪霊を特定・除霊するUE5製のホラー調査ゲーム。Phasmophobiaの公式系を意識しつつ、オカルト寄りの世界観と映像美で差別化した。",
+  "target": "配信・実況前提でフレンドと驚き合いたいPC協力ホラー層、およびPhasmophobiaを遊び尽くしたが「もう少しグラフィカルでオカルト寄り」を欲する欧米・アジアの若年Steamユーザー。"
+}

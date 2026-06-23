@@ -49,9 +49,9 @@ describe('topbarNav', () => {
     }
   });
 
-  test('title_text_says_200', () => {
+  test('title_text_says_303', () => {
     const html = topbarNav('');
-    assert.ok(html.includes('日本のゲーム200本'),
-      `expected "日本のゲーム200本" in header. Got:\n${html}`);
+    assert.ok(html.includes('日本のゲーム303本'),
+      `expected "日本のゲーム303本" in header. Got:\n${html}`);
   });
 });

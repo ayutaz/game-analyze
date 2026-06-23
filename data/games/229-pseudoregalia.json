@@ -1,0 +1,24 @@
+{
+  "id": 229,
+  "title_jp": "プシュードレガリア",
+  "title_en": "Pseudoregalia",
+  "developer": "rittzler",
+  "publisher": "rittzler",
+  "year": 2023,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "3Dメトロイドヴァニア",
+  "sales_jp": "",
+  "sales_world": "20万本+（Steam所有者50万-100万、累計売上約400万ドル）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "N64風ローポリ美学と滑らかな3D移動アクションを6ドルで提供した一人開発作。ジャム作品から発展し、ストリーマー・スピードランナーの間で口コミ拡散",
+  "slug": "pseudoregalia",
+  "file": "data/games/229-pseudoregalia.json",
+  "concept": "N64時代のローポリ3Dプラットフォーマーを現代の操作感で再構築した小規模メトロイドヴァニア。城サンサを舞台に、ジャンプ・壁走り・スライドなどのアビリティを解放しながら立体迷宮を踏破する移動体験そのものが主眼",
+  "target": "バンジョーカズーイ／スーパーマリオ64などレトロ3Dプラットフォーマー世代のプレイヤー、移動アクションの気持ちよさを追求するスピードラン・探索好き層"
+}

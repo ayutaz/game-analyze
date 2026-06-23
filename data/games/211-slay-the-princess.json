@@ -1,0 +1,28 @@
+{
+  "id": 211,
+  "title_jp": "スレイ・ザ・プリンセス",
+  "title_en": "Slay the Princess",
+  "developer": "Black Tabby Games",
+  "publisher": "Black Tabby Games",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "Xbox Series X|S",
+    "Mac"
+  ],
+  "genre": "ホラーADV／ビジュアルノベル",
+  "sales_jp": "",
+  "sales_world": "100万本+（2026年2月、全プラットフォーム合計）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "2024年INDIE Live Expo大賞、Tumblr/TikTokで二次創作が爆発し「姫を殺すか否か」という選択演出のフルボイス分岐VNとして口コミ拡散。",
+  "slug": "slay-the-princess",
+  "file": "data/games/211-slay-the-princess.json",
+  "concept": "「森の小屋で姫を殺せ」という指示から始まる、選択ごとに姫と語り手の姿・関係性・物語そのものが書き換わるメタ構造のホラー・ビジュアルノベル。フルボイス・手描きモノクロ作画で全分岐に異なる結末が用意される。",
+  "target": "『Doki Doki Literature Club』『Disco Elysium』のような語りの仕掛けや哲学的会話を好む層、海外インディーVN・心理ホラー志向のプレイヤー。"
+}

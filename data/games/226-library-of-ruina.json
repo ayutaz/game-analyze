@@ -1,0 +1,28 @@
+{
+  "id": 226,
+  "title_jp": "Library Of Ruina（ライブラリー・オブ・ルイナ）",
+  "title_en": "Library of Ruina",
+  "developer": "Project Moon",
+  "publisher": "Project Moon / アークシステムワークス（CS版）",
+  "year": 2020,
+  "platform": [
+    "Steam",
+    "Xbox One",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "デッキ構築RPG",
+  "sales_jp": "",
+  "sales_world": "Steam所有 1M-2M",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": "",
+  "popularity": "Project Moon世界観の中核作として熱狂的カルト人気を獲得。2024年アークシステムワークスがSwitch/PS4版を国内発売し、Limbus Company人気と相まって日本でも認知拡大。",
+  "slug": "library-of-ruina",
+  "file": "data/games/226-library-of-ruina.json",
+  "concept": "韓国インディーProject Moonによる「図書館」を舞台にしたデッキ構築×戦術RPG。前作『Lobotomy Corporation』世界観を継承し、招いた客を本に変えて司書たちの蔵書を増やしていく重層的な物語と戦闘システムが融合する。",
+  "target": "重厚で難解な世界観・テキスト量を歓迎し、デッキ構築・パーティビルドの試行錯誤を厭わないコアゲーマー。Project Moonの『Lobotomy Corporation』『Limbus Company』のファン層と高く重なる。"
+}

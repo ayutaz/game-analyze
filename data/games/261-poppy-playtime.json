@@ -1,0 +1,31 @@
+{
+  "id": 261,
+  "title_jp": "ポッピー・プレイタイム",
+  "title_en": "Poppy Playtime",
+  "developer": "Mob Entertainment",
+  "publisher": "Mob Entertainment",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "iOS",
+    "Android",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X|S",
+    "Switch"
+  ],
+  "genre": "マスコットホラー／一人称パズルアドベンチャー",
+  "sales_jp": "",
+  "sales_world": "フランチャイズ累計 $100M+（Chapter 2単体で150万本超、Chapter 5は初週27.5万本でSteamグローバルTop Seller首位）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "廃墟と化した玩具工場を舞台にしたエピソード制マスコットホラー。ハギーワギーが子どもの遊び場で歌われるレベルの世代横断ミームと化し、FNAF以後の「不気味マスコット」ホラー潮流を決定づけた。YouTube/TikTokでの実況・キッズコンテンツ二次創作の供給源としても突出。",
+  "slug": "poppy-playtime",
+  "file": "data/games/261-poppy-playtime.json",
+  "concept": "廃墟となった玩具会社「Playtime Co.」に潜入し、巨大化したぬいぐるみの怪物たちから逃げながら「GrabPack」と呼ばれる手袋ガジェットでパズルを解いていくエピソード式一人称サバイバルホラー。各章ごとに新マスコットと新ギミックが追加される長期展開型IP。",
+  "target": "FNAF系のマスコットホラー実況・ジャンプスケアを好む10代〜20代と、TikTok・YouTubeショート経由でハギーワギーやスマイリングクリッターズに親しんだ低年齢層。実況視聴とプレイ体験を往復するライト層。"
+}

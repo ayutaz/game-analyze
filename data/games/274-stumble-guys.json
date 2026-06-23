@@ -1,0 +1,27 @@
+{
+  "id": 274,
+  "title_jp": "スタンブル・ガイズ",
+  "title_en": "Stumble Guys",
+  "developer": "Kitka Games",
+  "publisher": "Scopely",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "Steam",
+    "Switch",
+    "Xbox",
+    "PS5"
+  ],
+  "genre": "パーティーバトルロイヤル",
+  "sales_jp": "",
+  "sales_world": "5億DL+ / 累計収益 $80M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "フィンランドの小規模スタジオKitkaが手掛けた『Fall Guys』モバイル版的存在。本家のモバイル展開が遅れる隙を突き、無料×短セッション×TikTokショート動画親和性で2022年に世界モバイルDL2位を獲得した。",
+  "slug": "stumble-guys",
+  "file": "data/games/274-stumble-guys.json",
+  "concept": "最大32人で障害物コースを生き残る、F2Pのカジュアル・バトルロイヤルパーティーゲーム。1試合数分の短さとモバイル最適化された操作性で、子供から大人までライトに遊べる「触れるFall Guys」として定着した。",
+  "target": "スマホで短時間遊びたいライトユーザー、Fall Guysのドタバタアクションをモバイルで体験したい層、TikTokやYouTubeショートで配信動画を見て興味を持った10代を中心とする若年層。"
+}

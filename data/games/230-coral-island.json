@@ -1,0 +1,27 @@
+{
+  "id": 230,
+  "title_jp": "コーラル・アイランド",
+  "title_en": "Coral Island",
+  "developer": "Stairway Games",
+  "publisher": "Humble Games",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X/S",
+    "Switch"
+  ],
+  "genre": "スローライフ農場シム",
+  "sales_jp": "",
+  "sales_world": "Steam所有 1.2M+（売上 $21M+）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "インドネシア発のスタデュー系農場シム、ダイビング・海洋浄化・多様な住人など独自要素で長期セールスを継続。2025年協力マルチ実装で再注目。",
+  "slug": "coral-island",
+  "file": "data/games/230-coral-island.json",
+  "concept": "熱帯の島で農場を営みつつダイビングで海を再生する、Stardew Valley系の現代的アップデート版スローライフシム。住人の多様性とビジュアル品質を売りに、ジャンルの新スタンダードを狙う一本。",
+  "target": "Stardew Valleyや牧場物語にハマったが、もっとリッチなグラフィック・現代的キャラ表現・海洋探索など新要素を求めるスローライフ層。"
+}

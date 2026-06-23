@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## このリポジトリの性質
 
-これは**コードベースではなく、リサーチ成果物（Markdown + JSON のドキュメント集）** を保管するワークスペースです。`/Users/yousan/Desktop/game-analyze/` 配下で、国内（日本）の有名ゲーム約100本を以下3カテゴリに分類した分析カタログを管理します。
+これは**コードベースではなく、リサーチ成果物（Markdown + JSON のドキュメント集）** を保管するワークスペースです。`/Users/yousan/Desktop/game-analyze/` 配下で、国内（日本）と国際市場で著名なゲーム計 303 本（うち 2020+ インディー 103 本含む）を以下3カテゴリに分類した分析カタログを管理します。
 
 - **EXP（体験型）** — 遊ぶ過程の体験そのものが面白い。特に「他者との関わり方」を 6 サブタイプ（対戦／協力／非対称／非同期／観戦／ソロ）で分析
 - **NAR（物語型）** — 物語を見ること／追体験することに特化
@@ -33,7 +33,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `index.html` (root) | `site/facet.html` への meta-refresh リダイレクト。Pages トップの入口 | — |
 | `.github/workflows/deploy-pages.yml` | GitHub Pages デプロイの Actions ワークフロー | push 時に自動実行、Actions タブから手動 Run も可 |
 
-**ID #56 は 2026-06 に「桃太郎電鉄 〜昭和 平成 令和も定番！〜」で埋め、欠番を解消した**（当初プロセカ重複で欠番だった枠）。同時に **2020 年以降に日本国内で人気・話題になったゲーム 101 本を一括追加** し、ID 1–200 が全て稼働している。
+**ID #56 は 2026-06 に「桃太郎電鉄 〜昭和 平成 令和も定番！〜」で埋め、欠番を解消した**（当初プロセカ重複で欠番だった枠）。同時に **2020 年以降に日本国内で人気・話題になったゲーム 101 本を一括追加** し ID 1–200 を稼働化、続いて **2020 年以降に国内外で 20 万本超を売り上げたインディー作品 103 本（ID 201–303）を ultracode ワークフローで一括追加** した。現在 ID 1–303 が全て稼働している。
 
 ## データ編集ワークフロー
 
@@ -59,7 +59,8 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 "
 ```
 
-期待値（2026-06-23 時点）: total=200 / EXP 105, NAR 48, REW 47 / ids missing=[] / collisions=0
+期待値（2026-06-23 時点）: total=303 / EXP 183, NAR 69, REW 51 / ids missing=[] / collisions=0
+社会軸 (EXP のみ): ソロ 88 / 対戦 41 / 協力 35 / 非同期 4 / 非対称 3 / 観戦 3 / 未設定 9
 
 ## 分類ルール（複数該当タイトルの主分類判定）
 
@@ -82,8 +83,9 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 ## 既知のデータ品質メモ
 
 - 体験型の `social_axis` は本来 1 タイトルが複数軸を持つ（例：スプラ3 = 対戦+収集+観戦）が、主動軸 1 つだけ記載している
-- 既存99本側の EXP 9 タイトル（#073/#077/#079-#081/#083/#085-#087）で `social_axis` が未設定。2020+ で追加した EXP 50 件は全て埋まっている
+- 既存99本側の EXP 9 タイトル（#073/#077/#079-#081/#083/#085-#087）で `social_axis` が未設定。2020+ で追加した EXP 50 件と、2020+ インディー拡張で追加した EXP 78 件はすべて埋めてある
 - 2020+ 拡張で **デレステ・シャニマス・グラブル・グラブル Relink・あんスタ・ヒプマイ・刀剣乱舞・まほやく・アナデン・プリコネ・BLEACH Brave Souls・ブルアカ・ヘブバン・NIKKE** などアイドル／長期運営モバイル系は概ね追加済み。`ガールフレンド(仮)`・`ラブライブ SIF2`・`Sky 星を紡ぐ子どもたち` 等は未掲載のまま（小規模 IP・サ終済みなど）
+- 2020+ インディー拡張（ID 201–303）は Workflow ベースで 363 raw → 115 consolidated → 103 kept で生成。Slay the Spire 2 (2026) など発売直後の作品も含む。Touhou Luna Nights / Satisfactory / Project Zomboid / Gnosia は 2019 以前リリースで除外、Ori 2 / Pentiment / Disney Dreamlight Valley は AAA（Microsoft/Gameloft）配給で除外。Hi-Fi Rush・Helldivers 2 は当初検討も AA / Sony first-party で workflow が消費前に除外済み。
 
 ## 作業時の心構え
 

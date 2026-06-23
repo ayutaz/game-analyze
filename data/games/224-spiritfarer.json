@@ -1,0 +1,30 @@
+{
+  "id": 224,
+  "title_jp": "スピリットファーラー",
+  "title_en": "Spiritfarer",
+  "developer": "Thunder Lotus Games",
+  "publisher": "Thunder Lotus Games",
+  "year": 2020,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "iOS",
+    "Android",
+    "Stadia"
+  ],
+  "genre": "コージー経営／ナラティブ",
+  "sales_jp": "",
+  "sales_world": "100万本+（2021年12月時点）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "「死」をテーマにした優しい看取りのコージーゲームとして\"ウェルビーイング系ナラティブ\"の代名詞となり、TGA 2020 Games for Impactノミネートで一気に話題化。",
+  "slug": "spiritfarer",
+  "file": "data/games/224-spiritfarer.json",
+  "concept": "死者の魂をフェリーで彼岸へ送り届けるコージー経営アドベンチャー。船を建造・拡張しながら同乗する精霊たちとの別れを通して喪失と受容を描く。",
+  "target": "『風ノ旅ビト』や『あつまれ どうぶつの森』のような穏やかで情緒的な体験を求める層、家族との別れや喪失を癒すゲームを探すプレイヤー。"
+}

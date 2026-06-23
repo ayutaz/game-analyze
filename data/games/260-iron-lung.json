@@ -1,0 +1,26 @@
+{
+  "id": 260,
+  "title_jp": "アイアン・ラング",
+  "title_en": "Iron Lung",
+  "developer": "David Szymanski",
+  "publisher": "David Szymanski",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "itch.io"
+  ],
+  "genre": "短編サブマリンホラー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K-500K（推定$2.18M+）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ソロ開発者による2-3時間の閉所恐怖サブマリンホラーで、2023年Titan潜水艇事故で売上急増。Markiplier監督の長編映画版が2026年公開され全世界$51M興行収入、ゲーム本編も再ブーム。",
+  "slug": "iron-lung",
+  "file": "data/games/260-iron-lung.json",
+  "concept": "血の海に沈んだ異星の月で、小型潜水艇「Iron Lung」のソナーとカメラだけで未知の海底を探索する一人称閉所ホラー。短編ながら極限の閉塞感と未知への恐怖を凝縮した実況映え作品。",
+  "target": "配信文化に親しみ、短時間でインパクトの強い恐怖体験を求める層。HideoとPT、Markiplierの実況文化を経由してインディーホラーに触れた海外Z世代と、その流れを追う日本のホラー実況視聴者。"
+}

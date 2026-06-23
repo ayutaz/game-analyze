@@ -1,0 +1,27 @@
+{
+  "id": 209,
+  "title_jp": "コクーン",
+  "title_en": "Cocoon",
+  "developer": "Geometric Interactive",
+  "publisher": "Annapurna Interactive",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "iOS"
+  ],
+  "genre": "パズルアドベンチャー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K–500K（全機種で50万本+推定）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "『LIMBO』『INSIDE』のリードゲームプレイデザイナーJeppe Carlsen初監督作。TGA 2023ベストデビューインディー、D.I.C.E. 2024年最優秀インディー受賞で話題化。",
+  "slug": "cocoon",
+  "file": "data/games/209-cocoon.json",
+  "concept": "オーブの中に世界が入れ子状に格納された幾何学的なパズルアドベンチャー。球を背負って異なる次元世界を行き来し、世界そのものを道具として使う独自の仕掛けで謎を解く。",
+  "target": "『INSIDE』『The Witness』『Monument Valley』のような無言・幾何学・アハ体験型パズルを好む層。難しすぎず確実に解ける絶妙な難易度設計で、ライトにアートゲームを味わいたいプレイヤー向け。"
+}

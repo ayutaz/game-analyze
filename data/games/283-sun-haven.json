@@ -1,0 +1,25 @@
+{
+  "id": 283,
+  "title_jp": "サン・ヘイヴン",
+  "title_en": "Sun Haven",
+  "developer": "Pixel Sprout Studios",
+  "publisher": "Pixel Sprout Studios",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch"
+  ],
+  "genre": "ファーム生活シム RPG",
+  "sales_jp": "",
+  "sales_world": "Steam 約49万本 / 売上 約810万ドル",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Stardew Valley系のファーム生活シムにファンタジーRPG要素と最大8人同時マルチプレイを加え、Kickstarter出身インディーとして長期運営で評価を獲得。",
+  "slug": "sun-haven",
+  "file": "data/games/283-sun-haven.json",
+  "concept": "人間・エルフ・獣人など多種族が暮らす魔法都市サン・ヘイヴンを舞台に、農業・釣り・採掘・戦闘・スキルツリー育成を融合させたファンタジー寄りのStardew系生活シム。",
+  "target": "Stardew Valleyを遊び尽くした層、RPG的な成長・スキル要素を求めるファーム系プレイヤー、友人と最大8人で農場運営したい協力派ユーザー。"
+}

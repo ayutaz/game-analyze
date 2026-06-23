@@ -1,0 +1,31 @@
+{
+  "id": 225,
+  "title_jp": "ENDER LILIES: Quietus of the Knights",
+  "title_en": "ENDER LILIES: Quietus of the Knights",
+  "developer": "Live Wire / Adglobe",
+  "publisher": "Binary Haze Interactive",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ダークファンタジーメトロイドヴァニア",
+  "sales_jp": "",
+  "sales_world": "150万本+（2024年7月時点、シリーズ累計200万本+）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Miliによる荘厳なサウンドトラックがSNSで拡散し、Nintendo Best Indie 2021選出。和製メトロイドヴァニアの代表格として国内外で評価。",
+  "slug": "ender-lilies-quietus-of-the-knights",
+  "file": "data/games/225-ender-lilies-quietus-of-the-knights.json",
+  "concept": "滅びかけた王国を彷徨う少女リリィが、浄化した騎士たちの霊を従えて戦うダークファンタジーメトロイドヴァニア。Miliの歌曲と水彩風の美術で構築された、静謐かつ陰鬱な世界観が特徴。",
+  "target": "Hollow KnightやSalt and Sanctuaryなど高難度2D探索アクションを好む層、ソウルライクのストイックな戦闘と耽美なアートワーク・音楽を同時に楽しみたいプレイヤー。"
+}

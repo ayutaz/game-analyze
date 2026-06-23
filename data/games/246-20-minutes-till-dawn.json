@@ -1,0 +1,27 @@
+{
+  "id": 246,
+  "title_jp": "20 ミニッツ・ティル・ドーン",
+  "title_en": "20 Minutes Till Dawn",
+  "developer": "flanne",
+  "publisher": "Erabit Studios",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "サバイバー系ローグライト",
+  "sales_jp": "",
+  "sales_world": "Steam所有 500K+（推定総売上 約$6.5M）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『Vampire Survivors』フォロワー筆頭格として、手動エイム＋クトゥルフ世界観で差別化。低価格＋モバイル展開で短時間プレイ需要を獲得。",
+  "slug": "20-minutes-till-dawn",
+  "file": "data/games/246-20-minutes-till-dawn.json",
+  "concept": "20分間迫り来るラヴクラフト的怪物の群れを生き延びるピクセルアートのサバイバー系ローグライト。自動攻撃ではなく手動エイム要素で能動性を確保している。",
+  "target": "『Vampire Survivors』に触れた後、もう少し操作介入感のある弾幕サバイバーを求めるプレイヤー。低スペック／スマホで遊べるショートセッション派にも刺さる。"
+}

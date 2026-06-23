@@ -1,0 +1,22 @@
+{
+  "id": 206,
+  "title_jp": "バトルビット・リマスタード",
+  "title_en": "BattleBit Remastered",
+  "developer": "SgtOkiDoki / TheLiquidHorse / Vilaskis",
+  "publisher": "SgtOkiDoki",
+  "year": 2023,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "大規模対戦FPS",
+  "sales_jp": "",
+  "sales_world": "600万本+（Steam推定）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "3人のインディー開発者が「ローポリ版バトルフィールド」を作り上げ、本家の不調と相まって2023年中盤にバズ。254人対戦という規格外スケールと$15という低価格、ボイチャ前提のカオスな乱戦体験がストリーマー経由で爆発した。",
+  "slug": "battlebit-remastered",
+  "file": "data/games/206-battlebit-remastered.json",
+  "concept": "ローポリ・ボクセル風グラフィックで描かれる最大254人対戦のFPS。破壊可能な広大なマップと近接ボイチャを前提にした「バトルフィールド系の本質」を超低スペックで再現する。",
+  "target": "バトルフィールド・シリーズの大規模戦闘に飢えたPC FPSプレイヤーや、ボイチャ込みのカオスな分隊プレイを楽しみたい層。グラフィックよりも対戦規模と挙動の手触りを重視する人向け。"
+}

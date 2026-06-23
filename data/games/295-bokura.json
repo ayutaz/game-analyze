@@ -1,0 +1,29 @@
+{
+  "id": 295,
+  "title_jp": "違う冬のぼくら",
+  "title_en": "BOKURA",
+  "developer": "ところにょり",
+  "publisher": "Kodansha Game Creators Lab",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "iOS",
+    "Android",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "2人協力パズルADV",
+  "sales_jp": "",
+  "sales_world": "100万本+（2025年8月）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "2人プレイ必須・互いに見える景色が異なる非対称的な視覚ギミックがVTuber／実況者ペアの配信で爆発。講談社ゲームクリエイターズラボ採択作として個人開発から世界100万本に到達。",
+  "slug": "bokura",
+  "file": "data/games/295-bokura.json",
+  "concept": "家出した2人の少年が冒険する2人プレイ専用パズルアドベンチャー。プレイヤー2人の画面で「同じものが違って見える」非対称ギミックを軸に、ボイスチャットでの情報共有と意見のすり合わせがそのままゲーム進行になる。",
+  "target": "友人・恋人・配信ペアで「ケンカしながら一緒に解く」体験を求めるプレイヤー。短編で完結する叙情的な物語と、互いの認知差を埋めるコミュニケーション・パズルを楽しみたい層。"
+}

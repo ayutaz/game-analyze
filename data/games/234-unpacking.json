@@ -1,0 +1,30 @@
+{
+  "id": 234,
+  "title_jp": "アンパッキング",
+  "title_en": "Unpacking",
+  "developer": "Witch Beam",
+  "publisher": "Humble Games",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ズーパズル／ナラティブ",
+  "sales_jp": "",
+  "sales_world": "100万本+（2022年11月時点）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "BAFTA 2022「Narrative」「EE Game of the Year」、D.I.C.E. 2022「Outstanding Independent Game」を受賞。引っ越しの段ボールから所持品を出して配置するという行為だけで人生の節目を語り、「cozy game」というジャンルを定義づけた象徴的作品としてSNSで爆発的に拡散。",
+  "slug": "unpacking",
+  "file": "data/games/234-unpacking.json",
+  "concept": "段ボールから持ち物を取り出して新居に配置するだけのパズル。台詞も明示的なストーリーも一切ないが、8回の引っ越しを通じてひとりの女性の人生（学生時代→同棲→破局→自立→再婚）が浮かび上がる「物」で語るナラティブ体験。",
+  "target": "短時間でも遊べる癒し系インディーを求める層、テキストや戦闘なしで物語を味わいたい層、ライフスタイル系コンテンツやインテリア好きな層。配信・実況とも親和性が高い。"
+}

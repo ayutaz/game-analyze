@@ -1,0 +1,27 @@
+{
+  "id": 280,
+  "title_jp": "イン・スターズ・アンド・タイム",
+  "title_en": "In Stars and Time",
+  "developer": "insertdisc5",
+  "publisher": "Armor Games Studios",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "タイムループRPG",
+  "sales_jp": "",
+  "sales_world": "Steam所有 約25万本+（売上 $2.7M 推定）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "ループに気づくのは自分だけという心理的孤独を主軸に据えた語りと、じゃんけんベースのバトルというユニークさで国内外インディーRPGファンの絶賛を獲得。ファミ通・4Gamer・電撃・AUTOMATONがそろって紹介し、Steamレビュー97%の高評価で口コミが拡大した。",
+  "slug": "in-stars-and-time",
+  "file": "data/games/280-in-stars-and-time.json",
+  "concept": "ラスダン直前で世界がループしてしまうことに気付いた唯一の存在・シフランを操作し、何度も死に戻りながら脱出の鍵を探す物語特化のターン制RPG。クィアな主人公の心理崩壊と仲間との関係性を、繰り返しの中で深掘りしていく。",
+  "target": "『シュタインズ・ゲート』『リターナル』『OMORI』などループ／心理ホラー寄り物語が好きで、戦闘より会話とテキスト量を重視する物語型RPGプレイヤー層。短めの完結型ナラティブインディーを求める層にも刺さる。"
+}

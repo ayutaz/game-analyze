@@ -1,0 +1,24 @@
+{
+  "id": 257,
+  "title_jp": "ドワーフ・フォートレス",
+  "title_en": "Dwarf Fortress",
+  "developer": "Bay 12 Games",
+  "publisher": "Kitfox Games",
+  "year": 2022,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "コロニーシム・ローグライク",
+  "sales_jp": "",
+  "sales_world": "100万本+ (Steam, 2025)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "伝説のフリーゲーム「Dwarf Fortress」が16年越しに有償グラフィカル版でSteamデビュー。発売24時間で16万本、初週30万本を記録し、2022年末のSteam新作売上1位。複雑系シミュレーションが生む「losing is fun」な創発的物語が再評価された。",
+  "slug": "dwarf-fortress",
+  "file": "data/games/257-dwarf-fortress.json",
+  "concept": "高度に複雑な世界シミュレーション上でドワーフのコロニーを運営する伝説的コロニーシム。プレイヤーの介入と無数のシステム干渉が生む「creation→破滅→語り草」のサイクルそのものが遊びの本体。",
+  "target": "創発的シミュレーションと自分だけの物語生成を愛するハードコア層、Rimworld・CDDA・Caves of Qudなど深いシステムシムを好むPCゲーマー、複雑さに耐える時間と知的好奇心を持つ大人プレイヤー。"
+}

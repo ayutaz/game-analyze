@@ -1,0 +1,27 @@
+{
+  "id": 243,
+  "title_jp": "ワイルドフロスト",
+  "title_en": "Wildfrost",
+  "developer": "Deadpan Games / Gaziter",
+  "publisher": "Chucklefish",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ローグライト・デッキ構築",
+  "sales_jp": "",
+  "sales_world": "Steam所有 500K-1M+ / 累計収益$5.6M+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Chucklefishパブリッシュの冬テーマ・ローグライトデッキビルダー。発売初週で約6万本／$100万を売り上げ、難易度の高さと配置タイミングを重視した独特の戦闘設計が話題に。",
+  "slug": "wildfrost",
+  "file": "data/games/243-wildfrost.json",
+  "concept": "雪の世界を舞台にした厳しめのローグライト・デッキ構築。攻撃クールダウンと配置の同期を読む「タイミング型」戦闘で、Slay the Spire 系の流れを刷新した一作。",
+  "target": "高難度のローグライトデッキ構築に挑戦したいコアプレイヤー。シナジー構築と試行錯誤による「より強いデッキを組み上げる」報酬感を求める層。"
+}

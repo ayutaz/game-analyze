@@ -1,0 +1,26 @@
+{
+  "id": 273,
+  "title_jp": "スプランキ",
+  "title_en": "Sprunki",
+  "developer": "NyankoBfLol（個人ファン制作・Incredibox改造）",
+  "publisher": "ファン配布（ブラウザ／Poki等のポータル経由）",
+  "year": 2024,
+  "platform": [
+    "Browser",
+    "iOS",
+    "Android"
+  ],
+  "genre": "音楽制作／ホラーMOD",
+  "sales_jp": "",
+  "sales_world": "無料配布／TikTok・YouTubeで数千万再生規模、派生MOD200本以上",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "観戦",
+  "popularity": "2024年8月にタイの15歳が公開したIncreidboxファンMODが本家を凌駕する勢いで拡散。可愛い見た目から「ブラックハット」モードでホラーに反転する仕掛けがTikTok・YouTube Shortsでバズり、2024〜25年の小学生TikTok音楽ゲーム代表格に。",
+  "slug": "sprunki",
+  "file": "data/games/273-sprunki.json",
+  "concept": "Incredibox派生のファンMOD。キャラを配置してビートを重ね楽曲を作る音楽ゲームだが、特定の組合せで世界がホラー化する「ブラックハット」演出が中毒性を生む。",
+  "target": "小学生〜中高生の TikTok・YouTube Shorts ネイティブ層。短尺で映える音楽×ホラーの組合せを楽しみ、自分の「リミックス」をシェアしたいプレイヤー。"
+}

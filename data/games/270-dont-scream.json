@@ -1,0 +1,22 @@
+{
+  "id": 270,
+  "title_jp": "ドント・スクリーム",
+  "title_en": "Don't Scream",
+  "developer": "Digital Cybercherries",
+  "publisher": "Digital Cybercherries",
+  "year": 2023,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "ファウンドフッテージ・ホラー（マイク必須）",
+  "sales_jp": "",
+  "sales_world": "Steam所有 30万本+（原作12.7万本/2週、続編「Together」初週20万本+）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "観戦",
+  "popularity": "「叫んだら最初からやり直し」というマイク連動ルールが配信者の絶叫リアクションと完全に噛み合い、英語版発表前の日本語ツイートが810万ビュー超でバイラル化。xQcら大手ストリーマーの試遊配信で発売前ウィッシュリストが日次1万件を超え、Halloween launch で2週12.7万本/$92.8万を売り上げた。",
+  "slug": "dont-scream",
+  "file": "data/games/270-dont-scream.json",
+  "concept": "VHSカムコーダー視点で深夜の森を朝8時まで生き延びる90年代風ファウンドフッテージ・ホラー。プレイヤーのマイクが悲鳴を検知すると即リスタートという一発ネタを核に、ジャンプスケアと配信映え性能を一点突破で設計した小規模シミュレーター。",
+  "target": "配信・実況映え重視のホラー好きと、Phasmophobia／Lethal Company系の「友達と叫び合う」コンテンツを求める視聴者層。1本数百円で短時間のリアクション素材が欲しいストリーマーと、その配信を観るクリップ消費型ファン。"
+}

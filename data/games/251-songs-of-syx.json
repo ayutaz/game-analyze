@@ -1,0 +1,24 @@
+{
+  "id": 251,
+  "title_jp": "ソングス・オブ・シクス",
+  "title_en": "Songs of Syx",
+  "developer": "Gamatron AB",
+  "publisher": "Gamatron AB",
+  "year": 2020,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "大規模都市建設シム",
+  "sales_jp": "",
+  "sales_world": "Steam所有 180K+（推定総売上 $3M〜$5M+）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "数万人規模の住民と最大2万の兵を同一マップでシミュレートするスケール感が長期早期アクセス中に熟成、2025年12月のV70「Riders of Doom」更新とAUTOMATON報道で日本でも一気に火が付き、Steam評価「圧倒的に好評」95%を維持。",
+  "slug": "songs-of-syx",
+  "file": "data/games/251-songs-of-syx.json",
+  "concept": "数千〜数万の市民と最大2万の兵を同時シミュレートする低ファンタジー世界の大規模都市建設＆軍勢ゲーム。小さな村から内政・宗教・外交・戦争を経て巨大帝国へと拡大する「沼シム」型サンドボックス。",
+  "target": "Dwarf FortressやRimWorld、Total War系の住民／軍隊シミュレーションに沼った経験のあるPCストラテジー好き。日本語UIと膨大な数値・グラフを延々と眺めて最適化する「マゾ寄り」のソロプレイヤー層に刺さる。"
+}

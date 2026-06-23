@@ -1,0 +1,28 @@
+{
+  "id": 284,
+  "title_jp": "剣魂",
+  "title_en": "Wandering Sword",
+  "developer": "The Swordman Studio",
+  "publisher": "Spiral Up Games",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "武侠ターン制RPG",
+  "sales_jp": "",
+  "sales_world": "Steam所有 500K–1M（推定収益$15M）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "武侠小説好きと往年のJRPGファン双方に刺さり、Steam中国語レビューで圧倒的好評3万件超。海外でも英語レビュー2,200件超「Overwhelmingly Positive」を獲得し、推定収益$15M規模のインディー成功例となった。",
+  "slug": "wandering-sword",
+  "file": "data/games/284-wandering-sword.json",
+  "concept": "中国インディーが放つ武侠×JRPG。ピクセルアートと3D背景を融合し、ターン制と疑似リアルタイムを切替可能なタイル戦闘で、内功・経絡・武功書を学ぶ古典的武侠の修行体験を再現する。",
+  "target": "武侠世界観や金庸風の物語に親しみがあるアジア圏プレイヤーと、ロマサガ／天地創造世代の往年JRPGの戦術ターン戦闘＋自由探索を懐かしむ層。"
+}

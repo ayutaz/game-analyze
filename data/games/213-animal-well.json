@@ -1,0 +1,27 @@
+{
+  "id": 213,
+  "title_jp": "アニマル・ウェル",
+  "title_en": "Animal Well",
+  "developer": "Shared Memory (Billy Basso)",
+  "publisher": "Bigmode",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "メトロイドヴァニア・パズル",
+  "sales_jp": "",
+  "sales_world": "100万本+（2024年〜2025年累計）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "YouTuber videogamedunkey 設立の新興パブリッシャー Bigmode 第1弾としてローンチ時から注目を集め、わずか33MBに詰め込まれた濃密なパズルと多層的なARG級の秘密がコミュニティの集合的攻略を生み、2025年DICE Awards「Outstanding Game Direction」を受賞して評価が決定的になった。",
+  "slug": "animal-well",
+  "file": "data/games/213-animal-well.json",
+  "concept": "薄暗い動物たちの地下迷宮を探索する2Dメトロイドヴァニア。プレイヤーは戦闘ではなく、ヨーヨーやフリスビーなどの非戦闘ガジェットの組み合わせと観察眼だけで秘密を解き明かしていく、極限まで圧縮されたパズル設計の作品。",
+  "target": "『La-Mulana』『Fez』『Tunic』のように、ゲームに隠された言語・記号・秘密を解読することそのものを楽しめるコア層。ヒントを最小限にしたソロ探索と、外部コミュニティでの謎共有の両方を味わいたいプレイヤー向け。"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 214,
+  "title_jp": "パシフィック・ドライブ",
+  "title_en": "Pacific Drive",
+  "developer": "Ironwood Studios",
+  "publisher": "Kepler Interactive",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "Epic",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "サバイバル運転",
+  "sales_jp": "",
+  "sales_world": "100万本+ (2025年2月時点)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "米PNW（パシフィック・ノースウェスト）の異常気象立入禁止区域を呪われたステーションワゴンで脱出するという独自設定が話題化。James Wanによる実写TVシリーズ化が発表され、TGA 2024デビュー作部門にもノミネートされた。",
+  "slug": "pacific-drive",
+  "file": "data/games/214-pacific-drive.json",
+  "concept": "放棄されたオリンピック立入禁止区域から愛車のステーションワゴンと共に脱出を目指す一人称サバイバル運転ゲーム。車両を「相棒」として整備・改造しながら異常現象の渦巻くゾーンを走破する。",
+  "target": "『STALKER』や『Subnautica』のような探索系サバイバルと、車いじりの没入感を求めるソロプレイヤー。緊張感のあるドライブと環境ストーリーテリングを好む層に刺さる。"
+}

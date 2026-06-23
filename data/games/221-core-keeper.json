@@ -1,0 +1,29 @@
+{
+  "id": 221,
+  "title_jp": "コア・キーパー",
+  "title_en": "Core Keeper",
+  "developer": "Pugstorm",
+  "publisher": "Fireshine Games",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "サンドボックスサバイバル採掘",
+  "sales_jp": "",
+  "sales_world": "200万本+（プレイヤー数300万+）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "テラリア×スターデューバレー×地下探索の組み合わせがハマり、最大8人協力プレイのループが配信・口コミで拡散。2024年8月の1.0正式リリースとコンソール／Game Pass展開でさらに伸長。",
+  "slug": "core-keeper",
+  "file": "data/games/221-core-keeper.json",
+  "concept": "闇に閉ざされた地下世界で採掘・建築・農業・ボス討伐を進める2Dサンドボックスサバイバル。中央のコアを起点に拠点を拡張し、最大8人で広大なバイオームを冒険する。",
+  "target": "テラリアやスターデューバレーが好きで、友人と長時間まったり拠点運営と探索を楽しみたい協力プレイ志向のサンドボックス愛好家。"
+}

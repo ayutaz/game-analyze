@@ -1,0 +1,24 @@
+{
+  "id": 250,
+  "title_jp": "キャプテン・オブ・インダストリー",
+  "title_en": "Captain of Industry",
+  "developer": "MaFi Games",
+  "publisher": "MaFi Games",
+  "year": 2022,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "産業コロニーシム",
+  "sales_jp": "",
+  "sales_world": "Steam推定32.6万本+ ($6.9M+)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "採掘・製造・輸送・電力までを一気通貫で組み上げる重厚な物流シムが「Factorio好きの次の一本」として定着、Very Positive(87%)・5,500件超レビューで安定的に話題化。",
+  "slug": "captain-of-industry",
+  "file": "data/games/250-captain-of-industry.json",
+  "concept": "孤島に漂着した労働者集団を率い、採鉱・精錬・農業・電力・輸送までを一つの惑星規模シミュレーションに統合した重厚派の産業コロニーシム。地形を削り、汚染と人口を管理しながら工業帝国を築く。",
+  "target": "FactorioやSatisfactoryで「もっと地形・物流・人口・経済まで絡めたい」と感じた重厚系工場シム愛好家。腰を据えて数百時間規模で最適化を楽しむソロプレイヤー向け。"
+}

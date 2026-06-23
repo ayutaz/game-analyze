@@ -1,0 +1,24 @@
+{
+  "id": 264,
+  "title_jp": "ミサイド",
+  "title_en": "MiSide",
+  "developer": "AIHASTO",
+  "publisher": "AIHASTO",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "サイコホラーADV",
+  "sales_jp": "",
+  "sales_world": "240万本+ / $28M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "2024年冬の最大級ホラーバズ。スマホゲームの中の可愛い「ミタちゃん」と暮らす日常が徐々に狂気へ転落する展開がVTuber実況・SNSで爆発し、リリース2週間で4万件超のレビュー98%好評を獲得。",
+  "slug": "miside",
+  "file": "data/games/264-miside.json",
+  "concept": "スマホ恋愛ゲームに引きずり込まれ、AI彼女「ミタ」と暮らすうち、ゲーム世界の歪みと複数のミタの存在に気づくサイコロジカルホラーADV。萌え2Dアバターとメタ的恐怖を融合させた問題作。",
+  "target": "『Doki Doki Literature Club』『NEEDY GIRL OVERDOSE』など、可愛さと狂気のギャップを楽しむメタホラー好き層、およびVTuber実況経由で参入したJP視聴者層。"
+}

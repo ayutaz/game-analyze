@@ -1,0 +1,30 @@
+{
+  "id": 220,
+  "title_jp": "ブロタト",
+  "title_en": "Brotato",
+  "developer": "Blobfish (Thomas Gervraud)",
+  "publisher": "Blobfish",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アリーナサバイバー／ローグライト",
+  "sales_jp": "",
+  "sales_world": "1000万本+（2025年）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ヴァンサバ系の波に乗りつつ、ジャガイモ主人公×短時間ループ×多彩なビルドで“もう1回”を誘発。モバイル展開とコンソール移植で世界規模に拡大した個人開発ヒット。",
+  "slug": "brotato",
+  "file": "data/games/220-brotato.json",
+  "concept": "最大6本の武器を同時装備するジャガイモ戦士となり、エイリアンの波状攻撃を凌ぐトップダウン型アリーナサバイバー。1戦20分前後でビルド構築と取捨選択の脳汁が完結する。",
+  "target": "ヴァンパイアサバイバーズで“勝手に強くなる”快感を覚えたプレイヤーや、短時間でビルド試行を回したいローグライト愛好家。モバイルでスキマ時間プレイしたい層にも刺さる。"
+}

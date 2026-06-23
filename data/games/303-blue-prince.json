@@ -1,0 +1,26 @@
+{
+  "id": 303,
+  "title_jp": "ブルー・プリンス",
+  "title_en": "Blue Prince",
+  "developer": "Dogubomb",
+  "publisher": "Raw Fury",
+  "year": 2025,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "ローグライト・パズル",
+  "sales_jp": "",
+  "sales_world": "200万プレイヤー+（Steam 71.8万本+ / PS Plus・Game Pass配信込み）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "8年ソロ開発の謎解き屋敷ゲーが2025年突如話題沸騰。Indie Game Awards 2025 GOTY（Clair Obscur失格繰上げ）、Golden Joystick賞インディーGOTY受賞、TGA独立部門ノミネートで「TGA GOTY不選出は不当」の声が拡散。",
+  "slug": "blue-prince",
+  "file": "data/games/303-blue-prince.json",
+  "concept": "叔父から相続した45部屋の屋敷で「隠された46番目の部屋」を探す、ローグライト式間取り構築パズル。プレイごとに部屋の配置が変わり、ドラフトと推理を重ねて謎の全体像を組み上げていく。",
+  "target": "『The Witness』『Outer Wilds』『Return of the Obra Dinn』のような自分の頭脳だけが頼りの謎解きゲーマー。ノートを取りながら数十時間かけて屋敷の全貌を解読する没入体験を求める層。"
+}

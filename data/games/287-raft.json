@@ -1,0 +1,26 @@
+{
+  "id": 287,
+  "title_jp": "Raft",
+  "title_en": "Raft",
+  "developer": "Redbeet Interactive",
+  "publisher": "Axolot Games",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "海洋協力サバイバル",
+  "sales_jp": "",
+  "sales_world": "500万本+（2024時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "漂流する小さなイカダから始めるという特異な状況設定と、最大4人での協力プレイ。配信者間で「サメに怯えながらイカダを拡張する」シュールな絵面がバズり、2018年Early Access公開時から長期人気を継続。2022年6月の1.0版『The Final Chapter』リリース時にはSteam同接10万超え＆2週連続ベストセラー入りで再ブレイク。",
+  "slug": "raft",
+  "file": "data/games/287-raft.json",
+  "concept": "大海原を漂う小さなイカダの上で、流れてくる漂流物をフックで集めて拡張・整備しながら、サメや飢え・渇きと戦って生き延びる海洋協力サバイバル。最大4人で島々を巡り、世界が水没した謎を解き明かすストーリーモードも備える。",
+  "target": "友人とボイスチャットでワイワイ協力プレイしたいプレイヤー、Minecraft／ARK／Valheim系のサバイバル＆クラフトジャンルが好きな層、配信映えするシチュエーションを求めるストリーマー＆視聴者。"
+}

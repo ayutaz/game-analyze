@@ -1,0 +1,25 @@
+{
+  "id": 296,
+  "title_jp": "HoloCure - Save the Fans!",
+  "title_en": "HoloCure - Save the Fans!",
+  "developer": "Kay Yu",
+  "publisher": "Kay Yu (Cover Corp. ライセンス）",
+  "year": 2022,
+  "platform": [
+    "PC (itch.io)",
+    "Steam"
+  ],
+  "genre": "ローグライト・サバイバー (VTuber二次創作)",
+  "sales_jp": "",
+  "sales_world": "無料配布／Steam同接ピーク 約45,000、レビュー26,000+ (圧倒的に好評99%)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Vampire Survivors型のローグライト・サバイバーをホロライブVTuber二次創作として実装、Cover公式ライセンス取得済みの個人開発ファンゲーム。2022年itch.io公開時にホロリス・VTuber層が一斉拡散、2023年Steam無料リリース時に全世界F2Pランキング上位入り。47人のホロメンを操作キャラ化しスキル・ガチャ・楽曲リミックスで再現する濃密なファンサービスが、推し文化と無料の参入障壁の低さで国内外を巻き込んだ。",
+  "slug": "holocure-save-the-fans",
+  "file": "data/games/296-holocure-save-the-fans.json",
+  "concept": "ホロライブのVTuberを操作キャラとした「Vampire Survivors」系ローグライト・サバイバー。Cover公式ライセンス下で個人開発者Kay Yuが完全無料配布し、推しを使い倒すファンゲームとして成立している。",
+  "target": "ホロライブのファン（ホロリス）、VTuber文化に親しむ層、Vampire Survivorsに代表される短時間ローグライトを好むカジュアル〜コアゲーマー。推しキャラの動きと専用スキルを楽しみたいプレイヤー。"
+}

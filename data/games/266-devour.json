@@ -1,0 +1,22 @@
+{
+  "id": 266,
+  "title_jp": "DEVOUR",
+  "title_en": "DEVOUR",
+  "developer": "Straight Back Games",
+  "publisher": "Straight Back Games",
+  "year": 2021,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "協力ホラー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 2M-5M / 推定290万本",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "低価格で4人協力プレイ可能、Phasmoと並ぶ配信者御用達タイトルとして長期間Twitch/YouTubeで露出継続。",
+  "slug": "devour",
+  "file": "data/games/266-devour.json",
+  "concept": "悪魔崇拝者となり信者をパージする1-4人協力ホラー。低価格・短時間ループ・ランダム化で配信映え抜群、Phasmophobiaと並ぶ「叫び系協力ホラー」の定番。",
+  "target": "友達と叫びながら遊ぶカジュアル協力ホラー好き、配信視聴者層。Phasmophobiaを遊び尽くした層の次の選択肢。"
+}

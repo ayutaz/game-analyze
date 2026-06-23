@@ -1,0 +1,23 @@
+{
+  "id": 252,
+  "title_jp": "ゴーイング・メディーバル",
+  "title_en": "Going Medieval",
+  "developer": "Foxy Voxel",
+  "publisher": "The Irregular Corporation",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "GOG"
+  ],
+  "genre": "中世コロニーシム",
+  "sales_jp": "",
+  "sales_world": "推定85万本+（2026年3月正式リリース後の累計収益約$15.9M、Steam所有 500K-1M）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「3D版RimWorld」と呼ばれるボクセル建築×コロニー運営。中世の城・城壁・多層構造を縦に積み上げて作れる革新性で2021年EA開始週に17.5万本を売り、約5年のEarly Accessを経て2026年3月に1.0リリース、累計推定85万本超のヒットへ。",
+  "slug": "going-medieval",
+  "file": "data/games/252-going-medieval.json",
+  "concept": "暗黒時代の小村に流れ着いた生存者たちを率い、襲撃・季節・疫病を凌ぎながら多層の城塞を築いていく3Dボクセル・コロニーシム。RimWorldの「住人ごとの物語生成」と中世建築の縦方向自由度を融合させた一作。",
+  "target": "RimWorld・Dwarf Fortressで人ごとの生活シミュレーションを楽しめるプレイヤーや、Minecraft的なブロック建築でリアルな城を組み上げたい層に刺さる。物量管理・最適化を一人で延々考え続けられるソロ志向のシミュレーション好き向け。"
+}

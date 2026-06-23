@@ -1,0 +1,31 @@
+{
+  "id": 207,
+  "title_jp": "DREDGE（ドレッジ）",
+  "title_en": "Dredge",
+  "developer": "Black Salt Games",
+  "publisher": "Team17（日本: Game Source Entertainment）",
+  "year": 2023,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "コズミックホラー釣りADV",
+  "sales_jp": "",
+  "sales_world": "100万本+（2023年10月時点）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ニュージーランド4人のデビュースタジオが「初年度10万本目標」を発売24時間で達成、NZゲームアワード2023グランプリ受賞。穏やかな絵柄と昼夜で豹変するクトゥルフ的恐怖のギャップが配信映えしてバズ拡大。",
+  "slug": "dredge",
+  "file": "data/games/207-dredge.json",
+  "concept": "のどかな絵柄の漁師シミュレーションに、夜になると正気度が削れ深海から異形が這い寄るコズミックホラーを融合したダークフィッシングアドベンチャー。釣り・船改造・探索ループの裏で町の謎と狂気の物語が進行する。",
+  "target": "『Stardew Valley』的な穏やかな生活ゲームを好みつつ、ラヴクラフト／クトゥルフ系の不穏な雰囲気や謎解きにも惹かれる層。短時間でも区切れるソロ向け中規模インディーを探すプレイヤー。"
+}

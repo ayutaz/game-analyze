@@ -1,0 +1,29 @@
+{
+  "id": 269,
+  "title_jp": "ザ・モーチュアリー・アシスタント",
+  "title_en": "The Mortuary Assistant",
+  "developer": "DarkStone Digital",
+  "publisher": "DreadXP",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "ホラーシム",
+  "sales_jp": "",
+  "sales_world": "Steam所有 700K+／グロス収益 約$5.6M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "遺体の防腐処理という極めてニッチな実作業に「取り憑かれた死体を見抜き悪魔祓いする」というオカルトを掛け合わせた発想がストリーマー実況で爆発。Steamで「非常に好評」を維持し続け、後に同名の映画化までされた。",
+  "slug": "the-mortuary-assistant",
+  "file": "data/games/269-the-mortuary-assistant.json",
+  "concept": "深夜の遺体安置所で防腐処理（エンバーミング）の実作業をこなしながら、運び込まれた遺体に潜む悪魔を見抜いて祓う一人称ホラーシム。手順を踏む静かな作業ループに、ランダム発生する超常現象の恐怖が割り込んでくる構造が独自。",
+  "target": "Phasmophobia系の「手順を踏むホラー職業シム」が好きな海外配信文化のプレイヤー層。グロ耐性とオカルト趣味を兼ね備え、ジャンプスケアより不気味な静寂と作業の中の異変を楽しみたい一人プレイ志向のホラーファンに刺さる。"
+}

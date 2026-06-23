@@ -1,0 +1,28 @@
+{
+  "id": 302,
+  "title_jp": "Thank Goodness You're Here!",
+  "title_en": "Thank Goodness You're Here!",
+  "developer": "Coal Supper",
+  "publisher": "Panic",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Mac"
+  ],
+  "genre": "コメディアドベンチャー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 200K-500K（BAFTA最優秀英国ゲーム2025受賞）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "英ヨークシャー訛りの不条理コメディと2人組インディーの手描きアニメ表現が高評価。BAFTA 2025最優秀英国ゲームを含む6部門ノミネートで一気に話題化、日本語字幕付きでSwitch JP eShopにも展開。",
+  "slug": "thank-goodness-youre-here",
+  "file": "data/games/302-thank-goodness-youre-here.json",
+  "concept": "英国ヨークシャーの架空の町「バーンズワース」を訪れたセールスマンの「小さな黄色いやつ」となり、住民の珍妙なお使いを次々こなすスラップスティック・コメディアドベンチャー。短時間でクリアできる、英国コメディ番組のような体験ゲーム。",
+  "target": "モンティ・パイソンやAardman作品のようなブリティッシュ・コメディが好きな人、Untitled Goose Game系の脱力ユーモア体験が好きなプレイヤー、短時間で完結する濃厚なインディー作品を求める層。"
+}

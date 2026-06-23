@@ -1,0 +1,29 @@
+{
+  "id": 202,
+  "title_jp": "インスクリプション",
+  "title_en": "Inscryption",
+  "developer": "Daniel Mullins Games",
+  "publisher": "Devolver Digital",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "PS4",
+    "PS5",
+    "Switch",
+    "Xbox",
+    "iOS"
+  ],
+  "genre": "デッキ構築ローグライト／メタホラー",
+  "sales_jp": "",
+  "sales_world": "150万本+（2022年9月時点 1.46M）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "IGF 2022 大賞・GDC GOTY 2022 を獲得し、ARG的なメタホラー演出と「ジャンルが途中で変容する」構造がSNSとストリーマーで爆発的に拡散された。",
+  "slug": "inscryption",
+  "file": "data/games/202-inscryption.json",
+  "concept": "薄暗い小屋で謎の男とカードゲームを始めたはずが、ゲームそのものの「正体」が剥がれていく多層メタ構造のデッキ構築ローグライト。ホラー、脱出、ARGが入れ子になり、プレイヤーは物語の「外側」を掘り続ける。",
+  "target": "Slay the Spire等のデッキ構築を遊んだうえで、Pony IslandやThe Stanley Parableのような「ゲームを疑う」メタ作品が好きな層。ネタバレ前に駆け抜けたいシングル派プレイヤー。"
+}

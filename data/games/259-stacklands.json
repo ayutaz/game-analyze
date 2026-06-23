@@ -1,0 +1,27 @@
+{
+  "id": 259,
+  "title_jp": "スタックランズ",
+  "title_en": "Stacklands",
+  "developer": "Sokpop Collective",
+  "publisher": "Sokpop Collective",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "カードビルダー",
+  "sales_jp": "",
+  "sales_world": "Steam所有 500K-1M+（2023年7月時点 約45万本、推定総売上1,000万ドル超）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "カードをスタックするだけのシンプルなUIで、村作り×サバイバル×ローグライト要素を凝縮。「もう1ターンだけ」のループが配信・口コミで拡散し、DLCで継続的にバズった。",
+  "slug": "stacklands",
+  "file": "data/games/259-stacklands.json",
+  "concept": "カードを物理的に重ねる操作で資源採取・建築・戦闘を行う、ミニマルな村作りサバイバル。ボードゲーム的な手触りとローグライト的な周回を融合した実験的インディー。",
+  "target": "Slay the Spire や Loop Hero など「カードで何かを構築する」系の小品が好きなプレイヤー、短時間で完結する管理ゲーが好きな層、Sokpop の実験的インディーを追いかけるファン。"
+}

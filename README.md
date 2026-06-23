@@ -1,7 +1,7 @@
-# 日本市場の有名ゲーム200本 — 3カテゴリ分類カタログ
+# 日本市場の有名ゲーム303本 — 3カテゴリ分類カタログ
 
-本リポジトリは、国内（日本）で発売・配信され、一定規模の販売・DL本数を記録した、または SNS でバズった有名ゲーム計 **200本** を、以下3つの分類軸で整理した分析カタログです。
-1985–2026年を網羅し、2026年6月に **2020年以降の人気作 101本を一括追加** して規模を倍増しました。
+本リポジトリは、国内（日本）で発売・配信され、一定規模の販売・DL本数を記録した、または SNS でバズった有名ゲーム計 **303本** を、以下3つの分類軸で整理した分析カタログです。
+1985–2026年を網羅し、2026年6月に **2020年以降の人気作 101本を一括追加** して 200本へ、さらに **2020年以降に国内外で 20万本超を売り上げたインディー作品 103本を一括追加** して 303本に拡張しました。
 
 ---
 
@@ -30,14 +30,14 @@
 
 ## 2. 集計サマリ
 
-- **総タイトル数**: **200本**（`data/games.json` 基準、ID #56 を含む全 IDs 1–200 が稼働中）
+- **総タイトル数**: **303本**（`data/games.json` 基準、ID 1–303 が連続稼働）
 - **主分類の内訳**（`data/games.json` 集計）:
-  - 体験型 (EXP): **105本**
-  - 物語型 (NAR): **48本**
-  - 報酬型 (REW): **47本**
-- **体験型の「他者軸」内訳**: 対戦 35 / ソロ 33 / 協力 22 / 非同期 4 / 非対称 2 / 未設定 9（既存99本のうち未設定が残る）
-- **プラットフォーム分布**: Switch / Switch 2 / PS4 / PS5 / Xbox / XSX / 3DS / Wii / PC / Mobile / Arcade / Multi
-- **時代分布**: 1985–2019 = 99本 / 2020–2026 = 101本（2026年6月時点のスナップショット）
+  - 体験型 (EXP): **183本**
+  - 物語型 (NAR): **69本**
+  - 報酬型 (REW): **51本**
+- **体験型の「他者軸」内訳**: ソロ 88 / 対戦 41 / 協力 35 / 非同期 4 / 非対称 3 / 観戦 3 / 未設定 9（既存99本のうち未設定が残る）
+- **プラットフォーム分布**: Switch / Switch 2 / PS4 / PS5 / Xbox / XSX / 3DS / Wii / PC (Steam) / iOS / Android / Arcade / Multi
+- **時代分布**: 1985–2019 = 99本 / 2020–2026 = 204本（2020+ メジャー101本＋2020+ インディー103本、2026年6月時点のスナップショット）
 
 ### 売上・収益で見た日本市場 Top クラス（verified）
 
@@ -80,13 +80,14 @@
 2. **モバイル収益 Top は「報酬型」がほぼ独占。** モンスト、FGO、ポケポケはガチャ／カード収集型。ラストウォー：サバイバルは「報酬型 + 競争メタ（同盟戦）」。
 3. **物語型はパッケージ売上では中位、しかし話題性・SNSバズで強い**。Ghost of Tsushima、ペルソナ5、FF7 リバース、Detroit、十三機兵などが代表。アダルトゲーム発の Key 系『Kanon』『AIR』はノベル型を主流化させた。
 4. **インディーズ／配信文化との結びつき**：Overcooked、Among Us、Vampire Survivors、Phasmophobia、Buckshot Roulette、8番出口、Splatoon 3、ポケポケなどが配信／SNSバズ駆動でユーザーを獲得。
+5. **2020年以降のインディー躍進（ID 201–303）**：本カタログでは Valheim (1200万本+)、Inscryption、Loop Hero、Tunic、Pizza Tower、Pacific Drive、PEAK、Sons of the Forest (1390万本+ Steam)、Disco Elysium: The Final Cut、Citizen Sleeper、Slay the Princess、Mouthwashing など 103本 のインディーを追加収録。ローグライト・デッキ構築 (Inscryption, Loop Hero, Cobalt Core, Wildfrost, Monster Train 2)、協力ホラー (Phasmophobia, Lethal Company, R.E.P.O., Demonologist, DEVOUR)、サバイバル・クラフト (Valheim, Sons of the Forest, Enshrouded, V Rising, Core Keeper)、コージーシム (Dredge, Spiritfarer, Strange Horticulture, Coral Island, Sun Haven)、ナラティブ／VN (Disco Elysium, Citizen Sleeper, NORCO, In Stars and Time, Slay the Princess, Chained Echoes)、日本産インディー (ENDER LILIES, ASTLIBRA Revision, PARANORMASIGHT, Refind Self, BOKURA, HoloCure) などジャンルを網羅。
 
 ---
 
 ## 4. ファイル構成
 
 - `README.md` — 本書（全体サマリ・カテゴリ定義・集計）
-- `games-catalog.md` — 全200本のマスターテーブル（既存99本＋2020年以降追加101本の2部構成）
+- `games-catalog.md` — 全303本のマスターテーブル（既存99本＋2020年以降追加101本＋2020年以降インディー103本の3部構成）
 - `category-experience.md` — 体験型ゲーム一覧と「他者軸」分析
 - `category-narrative.md` — 物語型ゲーム一覧
 - `category-reward.md` — 報酬型ゲーム一覧

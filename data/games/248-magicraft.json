@@ -1,0 +1,24 @@
+{
+  "id": 248,
+  "title_jp": "マジッククラフト",
+  "title_en": "Magicraft",
+  "developer": "Volcanic Giant",
+  "publisher": "Volcanic Giant",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "魔法合成ローグライト",
+  "sales_jp": "",
+  "sales_world": "50万本+ (2024年12月)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Noita風の呪文合成とアイザック風の弾幕ローグライトを融合し、想定外の組み合わせでインフレする派手な魔法ビルドが配信映え。Steamで91%好評、1.0時点で同接1.3万人超え。",
+  "slug": "magicraft",
+  "file": "data/games/248-magicraft.json",
+  "concept": "複数の呪文パーツを組み合わせて自分だけのオリジナル魔法を作り出す、自由度極振りの2D見下ろし型ローグライトアクション。マーリンに選ばれた救世主として剣と魔法のダンジョンに潜る。",
+  "target": "Noita・アイザックの呪い・Enter the Gungeon系の高自由度ビルド構築ローグライトを好み、想定外のシナジーで爆発的に強くなる瞬間を求めるソロプレイヤー。"
+}

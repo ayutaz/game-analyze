@@ -1,0 +1,29 @@
+{
+  "id": 241,
+  "title_jp": "デス・ドア",
+  "title_en": "Death's Door",
+  "developer": "Acid Nerve",
+  "publisher": "Devolver Digital",
+  "year": 2021,
+  "platform": [
+    "Steam",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "",
+  "sales_world": "100万本+（Steam 76万本超／全機種合計推定）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2021年Golden Joystick Awards Best Indie Game受賞、D.I.C.E.アドベンチャーGOTYノミネートなど受賞ラッシュで一気にインディー注目株に。Devolverパブリッシングの後押しと「カラスが剣を振るう」ビジュアルでSNS拡散。",
+  "slug": "deaths-door",
+  "file": "data/games/241-deaths-door.json",
+  "concept": "死神の見習いカラスが、寿命を超えて存命する魂を回収する旅に出る2.5D見下ろし型アクションアドベンチャー。ゼルダ風の謎解き探索とソウルライク風のボス戦を融合し、洗練された手触りとブラックユーモア漂う世界観で評価された。",
+  "target": "ゼルダ風の見下ろしアクションや、ボス戦中心のソウルライク的歯ごたえを好むコア寄りのプレイヤー層。10時間前後でクリアできる凝縮された一品ものインディーを求める大人ゲーマー向け。"
+}

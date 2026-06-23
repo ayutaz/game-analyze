@@ -1,0 +1,26 @@
+{
+  "id": 292,
+  "title_jp": "ASTLIBRA ～生きた証～ Revision",
+  "title_en": "ASTLIBRA Revision",
+  "developer": "KEIZO",
+  "publisher": "WhisperGames",
+  "year": 2022,
+  "platform": [
+    "Steam",
+    "Switch"
+  ],
+  "genre": "2DアクションRPG",
+  "sales_jp": "",
+  "sales_world": "Steam所有 100万-200万人（Gamalytic推定）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "14年間ほぼ一人で作り続けた個人開発の壮絶な背景と、Steam29,000件超レビューで95%「圧倒的に好評」の品質、AUTOMATON・ファミ通の日本メディア報道で口コミ拡大。",
+  "slug": "astlibra-revision",
+  "file": "data/games/292-astlibra-revision.json",
+  "concept": "作者KEIZOが14年の歳月をかけ独力で完成させた、横スクロール2DアクションRPGの集大成。鳥の相棒カラスと共に時と運命に翻弄される青年の60時間級長編冒険を、レトロ感ある手描きドット絵と濃密な装備・スキルツリーで描く。",
+  "target": "『イース』『ヴァルキリープロファイル』などPS〜PS2時代の和製ARPGに郷愁を覚える30〜40代、骨太な戦闘システムと長編シナリオを腰を据えて遊びたいソロプレイ志向の中堅ゲーマー。"
+}

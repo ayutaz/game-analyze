@@ -1,0 +1,24 @@
+{
+  "id": 254,
+  "title_jp": "ワーカーズ・アンド・リソース ソビエト・リパブリック",
+  "title_en": "Workers & Resources: Soviet Republic",
+  "developer": "3Division",
+  "publisher": "Hooded Horse",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "GOG",
+    "Epic Games Store"
+  ],
+  "genre": "都市建設シミュレーション",
+  "sales_jp": "",
+  "sales_world": "約56万本（推定総売上 $16M+）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "5年のアーリーアクセスを経て2024年6月に1.0正式版がリリースされ、Steamで92% Very Positive・14,000以上のレビューを獲得。冷戦期の社会主義国家運営という他に類のないテーマと、原料採取から輸送・住宅・教育まで再現する苛烈なまでの経済シミュレーションが、コアな都市建設ファンの間で長期的に支持を広げた。",
+  "slug": "workers-and-resources-soviet-republic",
+  "file": "data/games/254-workers-and-resources-soviet-republic.json",
+  "concept": "1960〜90年代の東側社会主義国家を一から運営する超硬派な都市建設・経済シミュレーション。原料の採掘から鉄道輸送、工場の連鎖、計画経済、外貨獲得、市民の教育・医療・娯楽までを統合的に管理する。",
+  "target": "Cities: Skylinesでは物足りない、Factorioや鉄道シムが好きな硬派サンドボックス愛好者。冷戦期の歴史・建築・産業ロジスティクスに興味があり、数字とフロー図と格闘することそのものを楽しめるプレイヤー。"
+}

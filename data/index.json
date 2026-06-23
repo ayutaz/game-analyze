@@ -1,10 +1,10 @@
 {
   "generated_from": "data/games/*.json",
-  "total": 200,
+  "total": 303,
   "primary_breakdown": {
-    "EXP": 105,
-    "REW": 47,
-    "NAR": 48
+    "EXP": 183,
+    "REW": 51,
+    "NAR": 69
   },
   "games": [
     {
@@ -3108,6 +3108,1810 @@
         "PC"
       ],
       "file": "data/games/200-kingdom-come-deliverance-ii.json"
+    },
+    {
+      "id": 201,
+      "title_jp": "ヴァルヘイム",
+      "title_en": "Valheim",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "file": "data/games/201-valheim.json"
+    },
+    {
+      "id": 202,
+      "title_jp": "インスクリプション",
+      "title_en": "Inscryption",
+      "year": 2021,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox",
+        "iOS"
+      ],
+      "file": "data/games/202-inscryption.json"
+    },
+    {
+      "id": 203,
+      "title_jp": "ループヒーロー",
+      "title_en": "Loop Hero",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/203-loop-hero.json"
+    },
+    {
+      "id": 204,
+      "title_jp": "テューニック",
+      "title_en": "Tunic",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "Mac",
+        "iOS"
+      ],
+      "file": "data/games/204-tunic.json"
+    },
+    {
+      "id": 205,
+      "title_jp": "サンズ・オブ・ザ・フォレスト",
+      "title_en": "Sons of the Forest",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/205-sons-of-the-forest.json"
+    },
+    {
+      "id": 206,
+      "title_jp": "バトルビット・リマスタード",
+      "title_en": "BattleBit Remastered",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/206-battlebit-remastered.json"
+    },
+    {
+      "id": 207,
+      "title_jp": "DREDGE（ドレッジ）",
+      "title_en": "Dredge",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/207-dredge.json"
+    },
+    {
+      "id": 208,
+      "title_jp": "ピザタワー",
+      "title_en": "Pizza Tower",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "file": "data/games/208-pizza-tower.json"
+    },
+    {
+      "id": 209,
+      "title_jp": "コクーン",
+      "title_en": "Cocoon",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS"
+      ],
+      "file": "data/games/209-cocoon.json"
+    },
+    {
+      "id": 210,
+      "title_jp": "シー・オブ・スターズ",
+      "title_en": "Sea of Stars",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One",
+        "Mac"
+      ],
+      "file": "data/games/210-sea-of-stars.json"
+    },
+    {
+      "id": 211,
+      "title_jp": "スレイ・ザ・プリンセス",
+      "title_en": "Slay the Princess",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X|S",
+        "Mac"
+      ],
+      "file": "data/games/211-slay-the-princess.json"
+    },
+    {
+      "id": 212,
+      "title_jp": "マナー・ローズ",
+      "title_en": "Manor Lords",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "GOG",
+        "Xbox",
+        "PC Game Pass"
+      ],
+      "file": "data/games/212-manor-lords.json"
+    },
+    {
+      "id": 213,
+      "title_jp": "アニマル・ウェル",
+      "title_en": "Animal Well",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/213-animal-well.json"
+    },
+    {
+      "id": 214,
+      "title_jp": "パシフィック・ドライブ",
+      "title_en": "Pacific Drive",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Epic",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/214-pacific-drive.json"
+    },
+    {
+      "id": 215,
+      "title_jp": "ライアーズ・バー",
+      "title_en": "Liar's Bar",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/215-liars-bar.json"
+    },
+    {
+      "id": 216,
+      "title_jp": "PEAK",
+      "title_en": "PEAK",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/216-peak.json"
+    },
+    {
+      "id": 217,
+      "title_jp": "スレイ・ザ・スパイア 2",
+      "title_en": "Slay the Spire 2",
+      "year": 2026,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/217-slay-the-spire-2.json"
+    },
+    {
+      "id": 218,
+      "title_jp": "エンシュラウデッド",
+      "title_en": "Enshrouded",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "Xbox Series X/S",
+        "PS5"
+      ],
+      "file": "data/games/218-enshrouded.json"
+    },
+    {
+      "id": 219,
+      "title_jp": "V Rising",
+      "title_en": "V Rising",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Steam",
+        "PS5"
+      ],
+      "file": "data/games/219-v-rising.json"
+    },
+    {
+      "id": 220,
+      "title_jp": "ブロタト",
+      "title_en": "Brotato",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/220-brotato.json"
+    },
+    {
+      "id": 221,
+      "title_jp": "コア・キーパー",
+      "title_en": "Core Keeper",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "file": "data/games/221-core-keeper.json"
+    },
+    {
+      "id": 222,
+      "title_jp": "グースグースダック",
+      "title_en": "Goose Goose Duck",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/222-goose-goose-duck.json"
+    },
+    {
+      "id": 223,
+      "title_jp": "WEBFISHING",
+      "title_en": "WEBFISHING",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/223-webfishing.json"
+    },
+    {
+      "id": 224,
+      "title_jp": "スピリットファーラー",
+      "title_en": "Spiritfarer",
+      "year": 2020,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "Xbox One",
+        "iOS",
+        "Android",
+        "Stadia"
+      ],
+      "file": "data/games/224-spiritfarer.json"
+    },
+    {
+      "id": 225,
+      "title_jp": "ENDER LILIES: Quietus of the Knights",
+      "title_en": "ENDER LILIES: Quietus of the Knights",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/225-ender-lilies-quietus-of-the-knights.json"
+    },
+    {
+      "id": 226,
+      "title_jp": "Library Of Ruina（ライブラリー・オブ・ルイナ）",
+      "title_en": "Library of Ruina",
+      "year": 2020,
+      "primary": "NAR",
+      "secondary": [
+        "EXP",
+        "REW"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Xbox One",
+        "Switch",
+        "PS4"
+      ],
+      "file": "data/games/226-library-of-ruina.json"
+    },
+    {
+      "id": 227,
+      "title_jp": "Cuphead - The Delicious Last Course",
+      "title_en": "Cuphead: The Delicious Last Course",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/227-cuphead-the-delicious-last-course.json"
+    },
+    {
+      "id": 228,
+      "title_jp": "スライムランチャー2",
+      "title_en": "Slime Rancher 2",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Xbox Series X|S",
+        "PS5",
+        "Epic Games Store"
+      ],
+      "file": "data/games/228-slime-rancher-2.json"
+    },
+    {
+      "id": 229,
+      "title_jp": "プシュードレガリア",
+      "title_en": "Pseudoregalia",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/229-pseudoregalia.json"
+    },
+    {
+      "id": 230,
+      "title_jp": "コーラル・アイランド",
+      "title_en": "Coral Island",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S",
+        "Switch"
+      ],
+      "file": "data/games/230-coral-island.json"
+    },
+    {
+      "id": 231,
+      "title_jp": "ディスコ・エリジウム ザ・ファイナル・カット",
+      "title_en": "Disco Elysium: The Final Cut",
+      "year": 2021,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Switch",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Mac"
+      ],
+      "file": "data/games/231-disco-elysium-the-final-cut.json"
+    },
+    {
+      "id": 232,
+      "title_jp": "シチズン・スリーパー",
+      "title_en": "Citizen Sleeper",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/232-citizen-sleeper.json"
+    },
+    {
+      "id": 233,
+      "title_jp": "シチズン・スリーパー 2: スターワード・ベクター",
+      "title_en": "Citizen Sleeper 2: Starward Vector",
+      "year": 2025,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/233-citizen-sleeper-2-starward-vector.json"
+    },
+    {
+      "id": 234,
+      "title_jp": "アンパッキング",
+      "title_en": "Unpacking",
+      "year": 2021,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/234-unpacking.json"
+    },
+    {
+      "id": 235,
+      "title_jp": "ストレンジ・ホーティカルチャー",
+      "title_en": "Strange Horticulture",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/235-strange-horticulture.json"
+    },
+    {
+      "id": 236,
+      "title_jp": "マウスウォッシング",
+      "title_en": "Mouthwashing",
+      "year": 2024,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X|S",
+        "Switch"
+      ],
+      "file": "data/games/236-mouthwashing.json"
+    },
+    {
+      "id": 237,
+      "title_jp": "タクティカル・ブリーチ・ウィザーズ",
+      "title_en": "Tactical Breach Wizards",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/237-tactical-breach-wizards.json"
+    },
+    {
+      "id": 238,
+      "title_jp": "クラブゲーム",
+      "title_en": "Crab Game",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "Steam",
+        "macOS",
+        "Linux"
+      ],
+      "file": "data/games/238-crab-game.json"
+    },
+    {
+      "id": 239,
+      "title_jp": "リスク・オブ・レイン・リターンズ",
+      "title_en": "Risk of Rain Returns",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "file": "data/games/239-risk-of-rain-returns.json"
+    },
+    {
+      "id": 240,
+      "title_jp": "Sifu",
+      "title_en": "Sifu",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PS5",
+        "PS4",
+        "PC",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/240-sifu.json"
+    },
+    {
+      "id": 241,
+      "title_jp": "デス・ドア",
+      "title_en": "Death's Door",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "file": "data/games/241-deaths-door.json"
+    },
+    {
+      "id": 242,
+      "title_jp": "Cobalt Core",
+      "title_en": "Cobalt Core",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "file": "data/games/242-cobalt-core.json"
+    },
+    {
+      "id": 243,
+      "title_jp": "ワイルドフロスト",
+      "title_en": "Wildfrost",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/243-wildfrost.json"
+    },
+    {
+      "id": 244,
+      "title_jp": "モンスター・トレイン2",
+      "title_en": "Monster Train 2",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/244-monster-train-2.json"
+    },
+    {
+      "id": 245,
+      "title_jp": "ホールズ・オブ・トーメント",
+      "title_en": "Halls of Torment",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X|S",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/245-halls-of-torment.json"
+    },
+    {
+      "id": 246,
+      "title_jp": "20 ミニッツ・ティル・ドーン",
+      "title_en": "20 Minutes Till Dawn",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/246-20-minutes-till-dawn.json"
+    },
+    {
+      "id": 247,
+      "title_jp": "ソウルストーン・サバイバーズ",
+      "title_en": "Soulstone Survivors",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/247-soulstone-survivors.json"
+    },
+    {
+      "id": 248,
+      "title_jp": "マジッククラフト",
+      "title_en": "Magicraft",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/248-magicraft.json"
+    },
+    {
+      "id": 249,
+      "title_jp": "ダイソン・スフィア・プログラム",
+      "title_en": "Dyson Sphere Program",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/249-dyson-sphere-program.json"
+    },
+    {
+      "id": 250,
+      "title_jp": "キャプテン・オブ・インダストリー",
+      "title_en": "Captain of Industry",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/250-captain-of-industry.json"
+    },
+    {
+      "id": 251,
+      "title_jp": "ソングス・オブ・シクス",
+      "title_en": "Songs of Syx",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/251-songs-of-syx.json"
+    },
+    {
+      "id": 252,
+      "title_jp": "ゴーイング・メディーバル",
+      "title_en": "Going Medieval",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "GOG"
+      ],
+      "file": "data/games/252-going-medieval.json"
+    },
+    {
+      "id": 253,
+      "title_jp": "Norland ノアランド",
+      "title_en": "Norland",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/253-norland.json"
+    },
+    {
+      "id": 254,
+      "title_jp": "ワーカーズ・アンド・リソース ソビエト・リパブリック",
+      "title_en": "Workers & Resources: Soviet Republic",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "GOG",
+        "Epic Games Store"
+      ],
+      "file": "data/games/254-workers-and-resources-soviet-republic.json"
+    },
+    {
+      "id": 255,
+      "title_jp": "アゲインスト・ザ・ストーム",
+      "title_en": "Against the Storm",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Xbox",
+        "PS5",
+        "Switch"
+      ],
+      "file": "data/games/255-against-the-storm.json"
+    },
+    {
+      "id": 256,
+      "title_jp": "フロストパンク2",
+      "title_en": "Frostpunk 2",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/256-frostpunk-2.json"
+    },
+    {
+      "id": 257,
+      "title_jp": "ドワーフ・フォートレス",
+      "title_en": "Dwarf Fortress",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/257-dwarf-fortress.json"
+    },
+    {
+      "id": 258,
+      "title_jp": "Tiny Glade",
+      "title_en": "Tiny Glade",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/258-tiny-glade.json"
+    },
+    {
+      "id": 259,
+      "title_jp": "スタックランズ",
+      "title_en": "Stacklands",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/259-stacklands.json"
+    },
+    {
+      "id": 260,
+      "title_jp": "アイアン・ラング",
+      "title_en": "Iron Lung",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "itch.io"
+      ],
+      "file": "data/games/260-iron-lung.json"
+    },
+    {
+      "id": 261,
+      "title_jp": "ポッピー・プレイタイム",
+      "title_en": "Poppy Playtime",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X|S",
+        "Switch"
+      ],
+      "file": "data/games/261-poppy-playtime.json"
+    },
+    {
+      "id": 262,
+      "title_jp": "フライデー・ナイト・ファンキン",
+      "title_en": "Friday Night Funkin'",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Browser",
+        "Windows",
+        "macOS",
+        "Linux",
+        "Android",
+        "iOS"
+      ],
+      "file": "data/games/262-friday-night-funkin.json"
+    },
+    {
+      "id": 263,
+      "title_jp": "チェインド・トゥゲザー",
+      "title_en": "Chained Together",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/263-chained-together.json"
+    },
+    {
+      "id": 264,
+      "title_jp": "ミサイド",
+      "title_en": "MiSide",
+      "year": 2024,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/264-miside.json"
+    },
+    {
+      "id": 265,
+      "title_jp": "クロウ・カントリー",
+      "title_en": "Crow Country",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Switch"
+      ],
+      "file": "data/games/265-crow-country.json"
+    },
+    {
+      "id": 266,
+      "title_jp": "DEVOUR",
+      "title_en": "DEVOUR",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/266-devour.json"
+    },
+    {
+      "id": 267,
+      "title_jp": "デモノロジスト",
+      "title_en": "Demonologist",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/267-demonologist.json"
+    },
+    {
+      "id": 268,
+      "title_jp": "チューチュー・チャールズ",
+      "title_en": "Choo-Choo Charles",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series X/S",
+        "Switch"
+      ],
+      "file": "data/games/268-choo-choo-charles.json"
+    },
+    {
+      "id": 269,
+      "title_jp": "ザ・モーチュアリー・アシスタント",
+      "title_en": "The Mortuary Assistant",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/269-the-mortuary-assistant.json"
+    },
+    {
+      "id": 270,
+      "title_jp": "ドント・スクリーム",
+      "title_en": "Don't Scream",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "観戦",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/270-dont-scream.json"
+    },
+    {
+      "id": 271,
+      "title_jp": "アンディ&レイリーの棺",
+      "title_en": "The Coffin of Andy and Leyley",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/271-the-coffin-of-andy-and-leyley.json"
+    },
+    {
+      "id": 272,
+      "title_jp": "プールズ",
+      "title_en": "POOLS",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "macOS",
+        "iOS",
+        "PS5",
+        "PSVR2"
+      ],
+      "file": "data/games/272-pools.json"
+    },
+    {
+      "id": 273,
+      "title_jp": "スプランキ",
+      "title_en": "Sprunki",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "観戦",
+      "platform": [
+        "Browser",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/273-sprunki.json"
+    },
+    {
+      "id": 274,
+      "title_jp": "スタンブル・ガイズ",
+      "title_en": "Stumble Guys",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android",
+        "Steam",
+        "Switch",
+        "Xbox",
+        "PS5"
+      ],
+      "file": "data/games/274-stumble-guys.json"
+    },
+    {
+      "id": 275,
+      "title_jp": "ガーテン・オブ・バンバン",
+      "title_en": "Garten of Banban",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android",
+        "PS4",
+        "PS5",
+        "Xbox"
+      ],
+      "file": "data/games/275-garten-of-banban.json"
+    },
+    {
+      "id": 276,
+      "title_jp": "ファイブナイツ・アット・フレディーズ セキュリティブリーチ",
+      "title_en": "Five Nights at Freddy's: Security Breach",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/276-five-nights-at-freddys-security-breach.json"
+    },
+    {
+      "id": 277,
+      "title_jp": "NORCO",
+      "title_en": "NORCO",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/277-norco.json"
+    },
+    {
+      "id": 278,
+      "title_jp": "MARVEL SNAP",
+      "title_en": "Marvel Snap",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "iOS",
+        "Android",
+        "Steam"
+      ],
+      "file": "data/games/278-marvel-snap.json"
+    },
+    {
+      "id": 279,
+      "title_jp": "センナールの聖歌",
+      "title_en": "Chants of Sennaar",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/279-chants-of-sennaar.json"
+    },
+    {
+      "id": 280,
+      "title_jp": "イン・スターズ・アンド・タイム",
+      "title_en": "In Stars and Time",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4"
+      ],
+      "file": "data/games/280-in-stars-and-time.json"
+    },
+    {
+      "id": 281,
+      "title_jp": "チェインドエコーズ",
+      "title_en": "Chained Echoes",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "Xbox One",
+        "PS4"
+      ],
+      "file": "data/games/281-chained-echoes.json"
+    },
+    {
+      "id": 282,
+      "title_jp": "イーストワード",
+      "title_en": "Eastward",
+      "year": 2021,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Xbox",
+        "iOS",
+        "Mac"
+      ],
+      "file": "data/games/282-eastward.json"
+    },
+    {
+      "id": 283,
+      "title_jp": "サン・ヘイヴン",
+      "title_en": "Sun Haven",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "file": "data/games/283-sun-haven.json"
+    },
+    {
+      "id": 284,
+      "title_jp": "剣魂",
+      "title_en": "Wandering Sword",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS5",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/284-wandering-sword.json"
+    },
+    {
+      "id": 285,
+      "title_jp": "ナインソールズ",
+      "title_en": "Nine Sols",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X|S",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/285-nine-sols.json"
+    },
+    {
+      "id": 286,
+      "title_jp": "サブノーティカ：ビロウ ゼロ",
+      "title_en": "Subnautica: Below Zero",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One",
+        "Switch",
+        "Mac"
+      ],
+      "file": "data/games/286-subnautica-below-zero.json"
+    },
+    {
+      "id": 287,
+      "title_jp": "Raft",
+      "title_en": "Raft",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/287-raft.json"
+    },
+    {
+      "id": 288,
+      "title_jp": "アウトラスト・トライアルズ",
+      "title_en": "The Outlast Trials",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X/S",
+        "Xbox One"
+      ],
+      "file": "data/games/288-the-outlast-trials.json"
+    },
+    {
+      "id": 289,
+      "title_jp": "テキサス・チェーンソー・マサカー",
+      "title_en": "The Texas Chain Saw Massacre",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "非対称",
+      "platform": [
+        "Steam",
+        "PS5",
+        "PS4",
+        "Xbox Series X|S",
+        "Xbox One"
+      ],
+      "file": "data/games/289-the-texas-chain-saw-massacre.json"
+    },
+    {
+      "id": 290,
+      "title_jp": "Chilla's Art（夜勤事件／閉店事件／事故物件 ほか）",
+      "title_en": "Chilla's Art catalog",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "観戦",
+      "platform": [
+        "Steam"
+      ],
+      "file": "data/games/290-chillas-art-catalog.json"
+    },
+    {
+      "id": 291,
+      "title_jp": "パラノマサイト FILE23 本所七不思議",
+      "title_en": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android",
+        "PS5"
+      ],
+      "file": "data/games/291-paranormasight-seven-mysteries-of-honjo.json"
+    },
+    {
+      "id": 292,
+      "title_jp": "ASTLIBRA ～生きた証～ Revision",
+      "title_en": "ASTLIBRA Revision",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "file": "data/games/292-astlibra-revision.json"
+    },
+    {
+      "id": 293,
+      "title_jp": "バニーガーデン",
+      "title_en": "Bunny Garden",
+      "year": 2024,
+      "primary": "NAR",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Switch",
+        "Steam"
+      ],
+      "file": "data/games/293-bunny-garden.json"
+    },
+    {
+      "id": 294,
+      "title_jp": "Refind Self: 性格診断ゲーム",
+      "title_en": "Refind Self: The Personality Test Game",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "iOS",
+        "Android",
+        "Switch"
+      ],
+      "file": "data/games/294-refind-self.json"
+    },
+    {
+      "id": 295,
+      "title_jp": "違う冬のぼくら",
+      "title_en": "BOKURA",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "Steam",
+        "Switch",
+        "iOS",
+        "Android",
+        "PS5",
+        "PS4"
+      ],
+      "file": "data/games/295-bokura.json"
+    },
+    {
+      "id": 296,
+      "title_jp": "HoloCure - Save the Fans!",
+      "title_en": "HoloCure - Save the Fans!",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC (itch.io)",
+        "Steam"
+      ],
+      "file": "data/games/296-holocure-save-the-fans.json"
+    },
+    {
+      "id": 297,
+      "title_jp": "ごく普通の鹿のゲーム DEEEER Simulator",
+      "title_en": "DEEEER Simulator: Your Average Everyday Deer Game",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/297-deeeer-simulator.json"
+    },
+    {
+      "id": 298,
+      "title_jp": "Ib（イヴ）",
+      "title_en": "Ib",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "Switch"
+      ],
+      "file": "data/games/298-ib.json"
+    },
+    {
+      "id": 299,
+      "title_jp": "東方ダンマクカグラ ファンタジア・ロスト",
+      "title_en": "Touhou Danmaku Kagura Phantasia Lost",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5"
+      ],
+      "file": "data/games/299-touhou-danmaku-kagura-phantasia-lost.json"
+    },
+    {
+      "id": 300,
+      "title_jp": "Clair Obscur: Expedition 33",
+      "title_en": "Clair Obscur: Expedition 33",
+      "year": 2025,
+      "primary": "NAR",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X|S"
+      ],
+      "file": "data/games/300-clair-obscur-expedition-33.json"
+    },
+    {
+      "id": 301,
+      "title_jp": "ハデスII",
+      "title_en": "Hades II",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "Switch 2",
+        "Xbox Series X|S"
+      ],
+      "file": "data/games/301-hades-ii.json"
+    },
+    {
+      "id": 302,
+      "title_jp": "Thank Goodness You're Here!",
+      "title_en": "Thank Goodness You're Here!",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "Switch",
+        "PS4",
+        "PS5",
+        "Mac"
+      ],
+      "file": "data/games/302-thank-goodness-youre-here.json"
+    },
+    {
+      "id": 303,
+      "title_jp": "ブルー・プリンス",
+      "title_en": "Blue Prince",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Steam",
+        "PS5",
+        "Xbox Series X/S"
+      ],
+      "file": "data/games/303-blue-prince.json"
     }
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "id": 290,
+  "title_jp": "Chilla's Art（夜勤事件／閉店事件／事故物件 ほか）",
+  "title_en": "Chilla's Art catalog",
+  "developer": "Chilla's Art",
+  "publisher": "Chilla's Art",
+  "year": 2020,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "J-ホラー（短編実況向け）",
+  "sales_jp": "",
+  "sales_world": "パブリッシャー累計売上 約290万ドル（29タイトル合計、Steam 推計）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "観戦",
+  "popularity": "日系兄弟2人で年間複数本のPS1風J-ホラー短編を量産。Markiplier・CoryxKenshin・JP VTuber の実況定番枠となり、YouTube累計再生6000万超で「現代インディーJ-ホラーlo-fi派」を定義。KADOKAWAノベライズ・アンソロジーコミック化、BRUTUS掲載など二次展開も活発。",
+  "slug": "chillas-art-catalog",
+  "file": "data/games/290-chillas-art-catalog.json",
+  "concept": "「夜勤」「閉店」「事故物件」など日常×日本怪談を題材にした、PS1風ローポリ・固定カメラ・40分前後の短編J-ホラーを連作で量産するチラズ・アートの作品群。Patreon支援者の名前や姿をゲーム内に登場させる仕組みで実況者コミュニティと一体化している。",
+  "target": "怖い実況動画を見るのが好きな層、PS1〜PS2時代のローポリ表現に郷愁を覚えるホラーファン、短時間で完結する日本怪談を一気見したい配信者・視聴者層。"
+}

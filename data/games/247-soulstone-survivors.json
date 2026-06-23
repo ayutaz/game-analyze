@@ -1,0 +1,26 @@
+{
+  "id": 247,
+  "title_jp": "ソウルストーン・サバイバーズ",
+  "title_en": "Soulstone Survivors",
+  "developer": "Game Smithing",
+  "publisher": "Game Smithing",
+  "year": 2025,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "3Dサバイバーライク／アクションローグライト",
+  "sales_jp": "",
+  "sales_world": "100万本+（早期アクセス含むSteam累計、所有1M+）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Vampire Survivorsの2D「弾幕避け」を3D ARPG視点に翻訳し、深いビルドクラフトとシナジー発掘を加えた点が刺さり、2022年のEarly Access開始から2025年6月の1.0正式リリースまでで100万本超を売り上げた。",
+  "slug": "soulstone-survivors",
+  "file": "data/games/247-soulstone-survivors.json",
+  "concept": "2Dで爆発的に流行した「Survivor-like」を3D ARPG視点に再構築し、無数の敵を薙ぎ払うパワーファンタジーに、深いスキル合成とビルド構築の戦略性を組み合わせたローグライト。",
+  "target": "Vampire Survivors系の脳汁出る殲滅快感を求めつつ、Diablo系のスキルツリー／ビルド組みも楽しみたい層。短時間でランを回しながら何百時間でもビルドを試行錯誤するハクスラ気質のプレイヤーに最適。"
+}

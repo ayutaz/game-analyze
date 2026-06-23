@@ -1,0 +1,27 @@
+{
+  "id": 236,
+  "title_jp": "マウスウォッシング",
+  "title_en": "Mouthwashing",
+  "developer": "Wrong Organ",
+  "publisher": "Critical Reflex",
+  "year": 2024,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X|S",
+    "Switch"
+  ],
+  "genre": "PS1風サイコホラー",
+  "sales_jp": "",
+  "sales_world": "50万本+（2025年2月、Steam）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "PS1風ローポリ表現と密室宇宙船での精神崩壊群像劇が「3時間で終わる劇薬」として2024年のホラー配信者GOTY議論を席巻。Steam「圧倒的に好評」、Tumblr/TikTok中心の考察カルト人気でインディーホラーの代表格となった。",
+  "slug": "mouthwashing",
+  "file": "data/games/236-mouthwashing.json",
+  "concept": "難破した宇宙貨物船で死を待つクルー4人の精神崩壊を、PS1風ローポリ表現と非線形タイムラインで描く一人称サイコホラー。プレイ時間約3時間で、選択肢ではなく「見せ方」で罪と責任の輪郭を観客に焼き付ける短編劇。",
+  "target": "『SIGNALIS』『Faith』など90s〜PS1美学のインディーホラーや、不快さを含めて物語の余韻を味わいたい層。配信視聴・考察カルチャーで深掘りされる短編ナラティブを好むプレイヤー。"
+}

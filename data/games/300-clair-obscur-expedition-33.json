@@ -1,0 +1,26 @@
+{
+  "id": 300,
+  "title_jp": "Clair Obscur: Expedition 33",
+  "title_en": "Clair Obscur: Expedition 33",
+  "developer": "Sandfall Interactive",
+  "publisher": "Kepler Interactive",
+  "year": 2025,
+  "platform": [
+    "Steam",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "ターン制RPG",
+  "sales_jp": "",
+  "sales_world": "800万本+（2026年4月時点）",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "フランスの小規模インディースタジオ(約30人)のデビュー作が、TGA2025でGOTY含む9冠を達成し同賞史上最多受賞記録を樹立。AA規模でAAA超えの評価を受けた象徴的作品として世界中で話題となり、発売初年で800万本を突破。",
+  "slug": "clair-obscur-expedition-33",
+  "file": "data/games/300-clair-obscur-expedition-33.json",
+  "concept": "ベル・エポック期パリ風の絵画的世界観を持つターン制RPG。毎年「絵筆夫人」が数字を描くたびにその年齢の人々が消滅する世界で、33歳になった33番目の遠征隊が彼女を倒す旅に出る物語駆動型JRPGオマージュ。",
+  "target": "FF・クロノトリガー等の古典JRPGに感化され、重厚な物語と美術性を求める成人RPGファン。ターン制バトルにパリィ/回避のアクション要素を融合したシステムを楽しみつつ、家族・喪失・受容を巡る情感的なナラティブに浸りたい層。"
+}

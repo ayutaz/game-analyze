@@ -1,0 +1,24 @@
+{
+  "id": 223,
+  "title_jp": "WEBFISHING",
+  "title_en": "WEBFISHING",
+  "developer": "lamedeveloper",
+  "publisher": "lamedeveloper",
+  "year": 2024,
+  "platform": [
+    "Steam"
+  ],
+  "genre": "カジュアル協力釣りチャットルーム",
+  "sales_jp": "",
+  "sales_world": "Steam所有 1M-2M+（推定売上130万本）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "$5の超低価格で「釣り」を口実にしたチャットルームMMOとして、2024年末にTumblr/Twitter/クィアインターネット文化圏で爆発的に拡散。最大12人のロビーで雑談しながら釣るという緩い体験が「ピーク・マルチプレイヤー」と評価され、配信・SNSバズの定番に。",
+  "slug": "webfishing",
+  "file": "data/games/223-webfishing.json",
+  "concept": "最大12人のロビーで雑談しながらのんびり釣るだけの「チャットルーム偽装型」カジュアル・マルチプレイヤー。アバターでハングアウトし、メタルディテクター・ギター演奏など脱線も楽しむ低価格インディー。",
+  "target": "どうぶつの森や昔のフリーチャットMMOに郷愁を感じるプレイヤー、ストレスのないコージーな協力体験を求める層、配信やSNSで「ゆるく集まる場所」を欲する若いインターネット文化圏のユーザー。"
+}

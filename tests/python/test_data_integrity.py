@@ -43,14 +43,15 @@ SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 FILENAME_RE = re.compile(r"^(?P<id>\d{3})-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.json$")
 
 # Expected hard-invariants. The catalog was expanded on 2026-06-23 from 99 to
-# 200 titles by adding 101 Japan-popular 2020+ games. Slot #56 (previously
-# intentionally missing because of a Project Sekai duplicate) was filled by
-# 桃太郎電鉄 〜昭和 平成 令和も定番！〜 as part of the same expansion, so the
-# full ID range 1..200 is now contiguous.
-EXPECTED_TOTAL = 200
-EXPECTED_PRIMARY_COUNTS = {"EXP": 105, "NAR": 48, "REW": 47}
+# 200 titles by adding 101 Japan-popular 2020+ games (Slot #56 also filled to
+# close the prior Project Sekai duplicate gap). On 2026-06-23 a second wave of
+# 103 indie titles (ID 201..303) was added via an ultracode-driven Workflow
+# (discovery → consolidate → adversarial verify+enrich) bringing 2020+ 20万本+
+# indies into the catalog. The ID range 1..303 is now contiguous.
+EXPECTED_TOTAL = 303
+EXPECTED_PRIMARY_COUNTS = {"EXP": 183, "NAR": 69, "REW": 51}
 EXPECTED_MISSING_IDS: set = set()
-EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..200 inclusive
+EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..303 inclusive
 
 REQUIRED_KEYS = ("id", "title_jp", "primary", "slug", "file")
 
@@ -454,9 +455,9 @@ class MarkdownConsistencyTests(unittest.TestCase):
                          f"extra {sorted(distinct_ids - EXPECTED_ID_RANGE)}")
 
     def test_readme_count_consistent(self):
-        # Expect README §2 to mention the canonical 200-title figure.
-        self.assertRegex(self.readme_md, r"200\s*本",
-                         "README.md should reference '200本' somewhere (集計サマリ)")
+        # Expect README §2 to mention the canonical 303-title figure.
+        self.assertRegex(self.readme_md, r"303\s*本",
+                         "README.md should reference '303本' somewhere (集計サマリ)")
 
 
 if __name__ == "__main__":  # pragma: no cover - manual runner

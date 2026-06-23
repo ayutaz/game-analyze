@@ -1,0 +1,22 @@
+{
+  "id": 490,
+  "title_jp": "クライシス リマスター",
+  "title_en": "Crysis Remastered",
+  "developer": "Crytek",
+  "publisher": "Crytek",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player open-level FPS",
+  "sales_jp": "",
+  "sales_world": "Franchise 8M+; remaster Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Remaster of the 'But can it run Crysis?' GPU-melter that defined a generation of PC benchmarking.",
+  "slug": "crysis-remastered",
+  "file": "data/games/490-crysis-remastered.json"
+}

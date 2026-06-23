@@ -1,0 +1,28 @@
+{
+  "id": 673,
+  "title_jp": "セインツロウIV",
+  "title_en": "Saints Row IV",
+  "developer": "Volition",
+  "publisher": "Deep Silver",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS4",
+    "Switch",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / superhero satire",
+  "sales_jp": "",
+  "sales_world": "~1M at launch; 5M+ lifetime; very widely owned via Steam bundles",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Took the GTA template into superpower/alien-satire territory — defining Steam catalog mainstay.",
+  "slug": "saints-row-iv",
+  "file": "data/games/673-saints-row-iv.json"
+}

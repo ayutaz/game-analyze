@@ -1,0 +1,22 @@
+{
+  "id": 351,
+  "title_jp": "Company of Heroes 2",
+  "title_en": "Company of Heroes 2",
+  "developer": "Relic Entertainment",
+  "publisher": "SEGA",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "RTS / squad tactics",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M (largely via long F2P weekends/giveaways)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Eastern-Front WW2 squad RTS that became the long-running CoH multiplayer mainstay before CoH3.",
+  "slug": "company-of-heroes-2",
+  "file": "data/games/351-company-of-heroes-2.json"
+}

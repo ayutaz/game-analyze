@@ -1,0 +1,22 @@
+{
+  "id": 585,
+  "title_jp": "ジュラシック・ワールド・エボリューション",
+  "title_en": "Jurassic World Evolution",
+  "developer": "Frontier Developments",
+  "publisher": "Frontier Developments",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Park management",
+  "sales_jp": "",
+  "sales_world": "6M+ units sold; $146M revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Frontier proves the IP-management sim model; one of the best-selling tie-in management games ever.",
+  "slug": "jurassic-world-evolution",
+  "file": "data/games/585-jurassic-world-evolution.json"
+}

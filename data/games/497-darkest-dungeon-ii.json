@@ -1,0 +1,26 @@
+{
+  "id": 497,
+  "title_jp": "ダーケスト ダンジョン 2",
+  "title_en": "Darkest Dungeon II",
+  "developer": "Red Hook Studios",
+  "publisher": "Red Hook Studios",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Tactical roguelike RPG",
+  "sales_jp": "",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "3D-rendered runs replace the dungeon crawl; doubled down on stress/affinity systems.",
+  "slug": "darkest-dungeon-ii",
+  "file": "data/games/497-darkest-dungeon-ii.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 354,
+  "title_jp": "Dead Cells",
+  "title_en": "Dead Cells",
+  "developer": "Motion Twin / Evil Empire",
+  "publisher": "Motion Twin",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Metroidvania action roguelite",
+  "sales_jp": "",
+  "sales_world": "10M+ sold lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The 'Roguevania' breakout that fused tight 2D action with metroidvania exploration; long-supported with DLC.",
+  "slug": "dead-cells",
+  "file": "data/games/354-dead-cells.json"
+}

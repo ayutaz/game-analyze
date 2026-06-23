@@ -1,0 +1,25 @@
+{
+  "id": 473,
+  "title_jp": "ブラザーズ：2人の息子の物語",
+  "title_en": "Brothers: A Tale of Two Sons",
+  "developer": "Starbreeze Studios",
+  "publisher": "505 Games",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3/4",
+    "Xbox 360/One",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Narrative co-op-puzzle adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M-2M",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Josef Fares' debut — control-both-brothers-at-once mechanic became a narrative-design textbook example.",
+  "slug": "brothers-a-tale-of-two-sons",
+  "file": "data/games/473-brothers-a-tale-of-two-sons.json"
+}

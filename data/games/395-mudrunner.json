@@ -1,0 +1,23 @@
+{
+  "id": 395,
+  "title_jp": "マッドランナー",
+  "title_en": "MudRunner",
+  "developer": "Saber Interactive",
+  "publisher": "Focus Home Interactive",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Off-road driving simulation",
+  "sales_jp": "",
+  "sales_world": "Steam 1-2M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Predecessor of SnowRunner; introduced PC players to Russian off-road sim subculture.",
+  "slug": "mudrunner",
+  "file": "data/games/395-mudrunner.json"
+}

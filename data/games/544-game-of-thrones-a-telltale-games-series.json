@@ -1,0 +1,23 @@
+{
+  "id": 544,
+  "title_jp": "ゲーム・オブ・スローンズ：テルテイル",
+  "title_en": "Game of Thrones: A Telltale Games Series",
+  "developer": "Telltale Games",
+  "publisher": "Telltale Games",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "iOS"
+  ],
+  "genre": "Episodic choice-driven adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "HBO-licensed Telltale adventure following House Forrester — peak of the licensed-IP Telltale model.",
+  "slug": "game-of-thrones-a-telltale-games-series",
+  "file": "data/games/544-game-of-thrones-a-telltale-games-series.json"
+}

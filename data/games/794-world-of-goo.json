@@ -1,0 +1,23 @@
+{
+  "id": 794,
+  "title_jp": "ワールド・オブ・グー",
+  "title_en": "World of Goo",
+  "developer": "2D Boy",
+  "publisher": "2D Boy",
+  "year": 2008,
+  "platform": [
+    "PC",
+    "Wii",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Physics puzzle",
+  "sales_jp": "",
+  "sales_world": "$2.5M+ gross on Steam alone; multi-million lifetime",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Landmark indie physics puzzle, IGF 2008 winner, that helped launch the WiiWare/Steam indie era.",
+  "slug": "world-of-goo",
+  "file": "data/games/794-world-of-goo.json"
+}

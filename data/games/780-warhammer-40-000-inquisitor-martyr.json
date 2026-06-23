@@ -1,0 +1,24 @@
+{
+  "id": 780,
+  "title_jp": "ウォーハンマー 40,000 インクイジター・マーター",
+  "title_en": "Warhammer 40,000: Inquisitor – Martyr",
+  "developer": "NeocoreGames",
+  "publisher": "NeocoreGames",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "ARPG (40K setting)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "First open-world 40K ARPG; persistent campaign with seasonal Tarot system, by Van Helsing devs.",
+  "slug": "warhammer-40-000-inquisitor-martyr",
+  "file": "data/games/780-warhammer-40-000-inquisitor-martyr.json"
+}

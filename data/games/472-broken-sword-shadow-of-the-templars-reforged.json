@@ -1,0 +1,26 @@
+{
+  "id": 472,
+  "title_jp": "ブロークン・ソード 聖堂騎士団の影 リフォージド",
+  "title_en": "Broken Sword: Shadow of the Templars - Reforged",
+  "developer": "Revolution Software",
+  "publisher": "Revolution Software",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Point-and-click adventure (remaster)",
+  "sales_jp": "",
+  "sales_world": "Mid-five-figure Steam owners at launch; original franchise lifetime >5M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "30th-anniversary remaster of the 1996 classic; recommitted Revolution to its flagship IP.",
+  "slug": "broken-sword-shadow-of-the-templars-reforged",
+  "file": "data/games/472-broken-sword-shadow-of-the-templars-reforged.json"
+}

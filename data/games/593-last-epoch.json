@@ -1,0 +1,22 @@
+{
+  "id": 593,
+  "title_jp": "ラスト・エポック",
+  "title_en": "Last Epoch",
+  "developer": "Eleventh Hour Games",
+  "publisher": "Eleventh Hour Games",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ARPG (time-travel)",
+  "sales_jp": "",
+  "sales_world": "2.1M+ Steam copies by Mar 2024; peak 264k CCU",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Indie ARPG that surprised the market in 2024 with deep skill specialization and offline mode; major Diablo IV/PoE alternative.",
+  "slug": "last-epoch",
+  "file": "data/games/593-last-epoch.json"
+}

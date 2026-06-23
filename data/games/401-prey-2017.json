@@ -1,0 +1,25 @@
+{
+  "id": 401,
+  "title_jp": "プレイ",
+  "title_en": "Prey (2017)",
+  "developer": "Arkane Austin",
+  "publisher": "Bethesda Softworks",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Immersive sim / sci-fi horror",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 1-2M owners; commercial underperformer but cult landmark",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Spiritual successor to System Shock; defining immersive sim of the 2010s.",
+  "slug": "prey-2017",
+  "file": "data/games/401-prey-2017.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 742,
+  "title_jp": "ザ・ウルフ・アマング・アス",
+  "title_en": "The Wolf Among Us",
+  "developer": "Telltale Games",
+  "publisher": "Telltale Games",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS3/4",
+    "Xbox 360/One",
+    "iOS"
+  ],
+  "genre": "Episodic noir adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M-2M",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Fables-based noir, often cited alongside Walking Dead S1 as Telltale's creative peak; remaster + sequel announced for 2026-27.",
+  "slug": "the-wolf-among-us",
+  "file": "data/games/742-the-wolf-among-us.json"
+}

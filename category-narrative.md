@@ -166,3 +166,21 @@
 - **Inscryption / Slay the Princess の「メタ」拡張**: ゲームの「外側」を疑わせる構造（プレイヤー＝観測者）が NAR インディーの主軸の一つに。
 - **Citizen Sleeper 系列の TRPG ナラティブ**: ダイス＋ロール＋語りの構造化が、Disco Elysium 以降の継承者として確立。In Stars and Time / NORCO / 1000xResist（reject されたがコンセプトは同潮流）も同系。
 - **日本産短尺ナラティブ**: PARANORMASIGHT、Refind Self、Bunny Garden、Ib。「数時間で完結するインディーノベル」というポジションが Steam JP でも定着。
+
+## 6. PC 拡張（2026-06 追加分の NAR 31本）
+
+ultracode + deep-research ワークフロー（22 並列 discover エージェント）で PC エコシステムを補強した 500 本のうち、物語型 31 本。Visual Novel・Walking Sim・選択分岐型ナラティブが中心。
+
+### 内訳
+
+- **Visual Novel / Doujin（PC リリース／リマスター）**: Tsukihime: A Piece of Blue Glass Moon (PC)、Fate/stay night Réalta Nua (PC)、Witch on the Holy Night / Mahoyo PC、Higurashi When They Cry Hou Ch.1-8、Umineko When They Cry: Question / Answer Arcs (PS3 → PC)、ATRI: My Dear Moments、Doki Doki Literature Club Plus、Subarashiki Hibi、House in Fata Morgana、Spirit Hunter: Death Mark / NG / Death Mark II、AI: The Somnium Files 1/2、Coffee Talk 1/2、VA-11 Hall-A、Necrobarista
+- **Walking Sim / 探索ナラティブ**: Firewatch、What Remains of Edith Finch、Gone Home、The Stanley Parable: Ultra Deluxe、Tacoma、Dear Esther、The Vanishing of Ethan Carter、Among the Sleep、Kentucky Route Zero
+- **選択分岐型シネマティック**: Heavy Rain (PC)、Beyond: Two Souls (PC)、Until Dawn (PC)、The Quarry、Dark Pictures Anthology (Man of Medan / Little Hope / House of Ashes / Devil in Me)、The Casting of Frank Stone、Telltale: Wolf Among Us、Tales from the Borderlands 1/2
+- **歴史 / 戦争ナラティブ**: This War of Mine: Final Cut、A Plague Tale: Innocence / Requiem、11-11 Memories Retold、Through the Darkest of Times、Attentat 1942
+
+### 観察
+
+- PC 拡張で **古典 VN の PC 流通化** が補えた：従来 Kanon / AIR / CLANNAD / Steins;Gate（既存収録）だった Key／Type-Moon 系の血脈を Tsukihime Remake・Mahoyo・Réalta Nua のレベルまで広げ、欧米向けインディー VN（DDLC・VA-11 Hall-A・Coffee Talk・Necrobarista）も収録。
+- **Walking Sim ジャンル** は EXP 寄りに分類されることもあるが、本カタログでは主動機が「歩いて物語を読み解く」点で NAR に分類している。Firewatch、Edith Finch、Stanley Parable がジャンル成立期の代表。
+- **Supermassive Games 系の選択分岐シネマティックホラー** を網羅（Until Dawn PC port、Quarry、Dark Pictures 全 4 本）。
+- 既存収録: Steins;Gate、CLANNAD、Kanon、AIR、Detroit、Life is Strange、Death Stranding 1/2、13 Sentinels、Persona 5 Royal、Citizen Sleeper 1/2、Disco Elysium、Slay the Princess、NORCO、In Stars and Time、Mouthwashing、Chants of Sennaar 等。

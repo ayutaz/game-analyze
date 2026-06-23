@@ -1,0 +1,22 @@
+{
+  "id": 411,
+  "title_jp": "シヴィライゼーション V",
+  "title_en": "Sid Meier's Civilization V",
+  "developer": "Firaxis Games",
+  "publisher": "2K Games",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "4X turn-based strategy",
+  "sales_jp": "",
+  "sales_world": "8M+ sold lifetime; SteamSpy estimates 10-20M Steam owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The hex-tile reinvention that many fans still hold as the series peak; Vox Populi mod community keeps it alive.",
+  "slug": "sid-meiers-civilization-v",
+  "file": "data/games/411-sid-meiers-civilization-v.json"
+}

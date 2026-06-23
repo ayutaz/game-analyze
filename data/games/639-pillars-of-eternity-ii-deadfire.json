@@ -1,0 +1,27 @@
+{
+  "id": 639,
+  "title_jp": "ピラーズ オブ エタニティ II デッドファイア",
+  "title_en": "Pillars of Eternity II: Deadfire",
+  "developer": "Obsidian Entertainment",
+  "publisher": "Versus Evil / Obsidian",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Isometric party-based CRPG (pirate setting)",
+  "sales_jp": "",
+  "sales_world": "~200K+ Steam sales early, est. $6.8M gross Steam revenue; 87% positive of 14K reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Critically beloved seafaring sequel with ship combat; underperformed commercially but defined modern Obsidian writing.",
+  "slug": "pillars-of-eternity-ii-deadfire",
+  "file": "data/games/639-pillars-of-eternity-ii-deadfire.json"
+}

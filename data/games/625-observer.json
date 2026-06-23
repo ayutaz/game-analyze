@@ -1,0 +1,23 @@
+{
+  "id": 625,
+  "title_jp": "オブザーバー",
+  "title_en": "Observer",
+  "developer": "Bloober Team",
+  "publisher": "Aspyr",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Cyberpunk narrative horror",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M (incl. System Redux)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Rutger Hauer–starring cyberpunk detective horror; cult favorite for atmospheric narrative.",
+  "slug": "observer",
+  "file": "data/games/625-observer.json"
+}

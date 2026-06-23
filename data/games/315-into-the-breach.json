@@ -1,0 +1,25 @@
+{
+  "id": 315,
+  "title_jp": "Into the Breach",
+  "title_en": "Into the Breach",
+  "developer": "Subset Games",
+  "publisher": "Subset Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Tactics roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Subset Games' follow-up — a perfect-information tactics gem that won multiple GOTY awards.",
+  "slug": "into-the-breach",
+  "file": "data/games/315-into-the-breach.json"
+}

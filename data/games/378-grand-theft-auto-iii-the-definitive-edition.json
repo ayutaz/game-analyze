@@ -1,0 +1,28 @@
+{
+  "id": 378,
+  "title_jp": "グランド・セフト・オートIII：ザ・トリロジー",
+  "title_en": "Grand Theft Auto III - The Definitive Edition",
+  "developer": "Grove Street Games / Rockstar",
+  "publisher": "Rockstar Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Switch",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure (remaster)",
+  "sales_jp": "",
+  "sales_world": "Trilogy ~10M units; original GTA III 14.5M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The 2001 prototype for the 3D open-world genre; remaster keeps it on PC stores.",
+  "slug": "grand-theft-auto-iii-the-definitive-edition",
+  "file": "data/games/378-grand-theft-auto-iii-the-definitive-edition.json"
+}

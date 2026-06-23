@@ -1,0 +1,24 @@
+{
+  "id": 408,
+  "title_jp": "セッション スケート シム",
+  "title_en": "Session: Skate Sim",
+  "developer": "crea-ture Studios",
+  "publisher": "Nacon",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series",
+    "Xbox One"
+  ],
+  "genre": "Skateboarding simulation",
+  "sales_jp": "",
+  "sales_world": "Steam 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Hardcore skate-sim alternative to Skate, with dual-stick foot controls; defining sim-style entry of the 2020s.",
+  "slug": "session-skate-sim",
+  "file": "data/games/408-session-skate-sim.json"
+}

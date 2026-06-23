@@ -1,0 +1,25 @@
+{
+  "id": 790,
+  "title_jp": "ウォーロン フォールン ダイナスティ",
+  "title_en": "Wo Long: Fallen Dynasty",
+  "developer": "Team Ninja",
+  "publisher": "Koei Tecmo",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Game Pass"
+  ],
+  "genre": "Action RPG / Soulslike",
+  "sales_jp": "",
+  "sales_world": "1M+ sold, 3.8M+ total players (Game Pass-boosted)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Three Kingdoms-flavored deflection-action soulslike, day-one Game Pass hit for Team Ninja.",
+  "slug": "wo-long-fallen-dynasty",
+  "file": "data/games/790-wo-long-fallen-dynasty.json"
+}

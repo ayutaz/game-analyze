@@ -1,0 +1,23 @@
+{
+  "id": 533,
+  "title_jp": "ファークライ4",
+  "title_en": "Far Cry 4",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world FPS",
+  "sales_jp": "",
+  "sales_world": "7M+ copies (2015)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Himalayan Kyrat setting; Pagan Min carried the Vaas-style charismatic-villain tradition.",
+  "slug": "far-cry-4",
+  "file": "data/games/533-far-cry-4.json"
+}

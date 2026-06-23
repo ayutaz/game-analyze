@@ -1,0 +1,22 @@
+{
+  "id": 693,
+  "title_jp": "スペックオプス：ザ・ライン",
+  "title_en": "Spec Ops: The Line",
+  "developer": "Yager Development",
+  "publisher": "2K Games",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Third-person/first-person military shooter (narrative)",
+  "sales_jp": "",
+  "sales_world": "1M+ Steam owners (pre-delisting)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Heart-of-Darkness commentary on military shooters; one of the most-written-about narrative shooters of the 2010s.",
+  "slug": "spec-ops-the-line",
+  "file": "data/games/693-spec-ops-the-line.json"
+}

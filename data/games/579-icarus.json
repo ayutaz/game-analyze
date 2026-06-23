@@ -1,0 +1,20 @@
+{
+  "id": 579,
+  "title_jp": "イカロス",
+  "title_en": "ICARUS",
+  "developer": "RocketWerkz",
+  "publisher": "RocketWerkz",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Session-based PvE survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; mixed-to-positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Dean Hall's session-based survival experiment with timed extraction; a controversial but distinctive entry by the DayZ creator.",
+  "slug": "icarus",
+  "file": "data/games/579-icarus.json"
+}

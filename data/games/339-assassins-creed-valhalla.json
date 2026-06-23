@@ -1,0 +1,28 @@
+{
+  "id": 339,
+  "title_jp": "アサシン クリード ヴァルハラ",
+  "title_en": "Assassin's Creed Valhalla",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Stadia",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-RPG",
+  "sales_jp": "",
+  "sales_world": "20M+ units lifetime — best-selling AC ever",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Viking saga that became Ubisoft's revenue leader; benchmark of the bloated-open-world era.",
+  "slug": "assassins-creed-valhalla",
+  "file": "data/games/339-assassins-creed-valhalla.json"
+}

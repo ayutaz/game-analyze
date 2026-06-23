@@ -1,0 +1,26 @@
+{
+  "id": 452,
+  "title_jp": "Awesomenauts",
+  "title_en": "Awesomenauts",
+  "developer": "Ronimo Games",
+  "publisher": "Ronimo Games",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "MOBA / platformer",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M est.",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2D side-scrolling MOBA that proved the genre could escape the standard top-down lane format.",
+  "slug": "awesomenauts",
+  "file": "data/games/452-awesomenauts.json"
+}

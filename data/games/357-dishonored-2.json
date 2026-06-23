@@ -1,0 +1,25 @@
+{
+  "id": 357,
+  "title_jp": "ディスオナード2",
+  "title_en": "Dishonored 2",
+  "developer": "Arkane Studios",
+  "publisher": "Bethesda Softworks",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Immersive sim / stealth-action",
+  "sales_jp": "",
+  "sales_world": "Steam revenue ~$59.6M; SteamSpy 2-5M owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Peak Arkane: dual protagonists, Clockwork Mansion, the genre's most-studied level design.",
+  "slug": "dishonored-2",
+  "file": "data/games/357-dishonored-2.json"
+}

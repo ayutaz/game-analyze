@@ -1,0 +1,22 @@
+{
+  "id": 730,
+  "title_jp": "ヴァン・ヘルシング ファイナル・カット",
+  "title_en": "The Incredible Adventures of Van Helsing: Final Cut",
+  "developer": "NeocoreGames",
+  "publisher": "NeocoreGames",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ARPG (gothic)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Trilogy-in-one gothic ARPG; bridge between Diablo 2 nostalgia and the post-PoE era.",
+  "slug": "the-incredible-adventures-of-van-helsing-final-cut",
+  "file": "data/games/730-the-incredible-adventures-of-van-helsing-final-cut.json"
+}

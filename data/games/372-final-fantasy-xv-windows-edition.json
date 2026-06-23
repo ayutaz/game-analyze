@@ -1,0 +1,22 @@
+{
+  "id": 372,
+  "title_jp": "ファイナルファンタジーXV ウィンドウズ エディション",
+  "title_en": "FINAL FANTASY XV WINDOWS EDITION",
+  "developer": "Square Enix Business Division 2",
+  "publisher": "Square Enix",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Action JRPG",
+  "sales_jp": "",
+  "sales_world": "1M+ Steam copies in first year; 10M+ FFXV worldwide",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Square Enix's first big mainline FF Steam launch; benchmark Japanese open-world JRPG on PC.",
+  "slug": "final-fantasy-xv-windows-edition",
+  "file": "data/games/372-final-fantasy-xv-windows-edition.json"
+}

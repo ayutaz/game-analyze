@@ -1,0 +1,20 @@
+{
+  "id": 444,
+  "title_jp": "アノ2070",
+  "title_en": "Anno 2070",
+  "developer": "Related Designs / Blue Byte",
+  "publisher": "Ubisoft",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Futuristic city builder",
+  "sales_jp": "",
+  "sales_world": "1M+ units lifetime",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Cult-favorite near-future Anno entry exploring eco vs. industrial factions.",
+  "slug": "anno-2070",
+  "file": "data/games/444-anno-2070.json"
+}

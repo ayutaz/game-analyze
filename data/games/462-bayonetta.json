@@ -1,0 +1,23 @@
+{
+  "id": 462,
+  "title_jp": "ベヨネッタ",
+  "title_en": "Bayonetta",
+  "developer": "PlatinumGames",
+  "publisher": "Sega",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Xbox 360/One origin"
+  ],
+  "genre": "Character action",
+  "sales_jp": "",
+  "sales_world": "Steam 170K+ in first month 2017; long-tail 1M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Kamiya's stylish-action benchmark, a #1 Steam launch in 2017 that proved appetite for Platinum's catalog on PC.",
+  "slug": "bayonetta",
+  "file": "data/games/462-bayonetta.json"
+}

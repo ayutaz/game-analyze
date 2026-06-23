@@ -1,0 +1,26 @@
+{
+  "id": 752,
+  "title_jp": "スプリンターセル カオスセオリー",
+  "title_en": "Tom Clancy's Splinter Cell: Chaos Theory",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS2",
+    "Xbox",
+    "GameCube"
+  ],
+  "genre": "Stealth-action",
+  "sales_jp": "",
+  "sales_world": "Franchise 30M+; Chaos Theory >2M; still sold on Steam/UbiConnect",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Widely regarded as the best stealth-action game of its era; reference text for the genre.",
+  "slug": "tom-clancys-splinter-cell-chaos-theory",
+  "file": "data/games/752-tom-clancys-splinter-cell-chaos-theory.json"
+}

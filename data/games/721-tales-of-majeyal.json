@@ -1,0 +1,22 @@
+{
+  "id": 721,
+  "title_jp": "Tales of Maj'Eyal",
+  "title_en": "Tales of Maj'Eyal",
+  "developer": "Netcore Games (DarkGod)",
+  "publisher": "Netcore Games",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Traditional fantasy roguelike RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Most class- and build-rich modern traditional roguelike; gold standard for character building in the genre.",
+  "slug": "tales-of-majeyal",
+  "file": "data/games/721-tales-of-majeyal.json"
+}

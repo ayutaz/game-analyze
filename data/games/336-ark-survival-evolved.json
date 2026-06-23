@@ -1,0 +1,27 @@
+{
+  "id": 336,
+  "title_jp": "アーク サバイバル エボルブド",
+  "title_en": "ARK: Survival Evolved",
+  "developer": "Studio Wildcard",
+  "publisher": "Studio Wildcard",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Open-world dino-taming survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 10-20M; franchise >20M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Dinosaurs-and-tribes survival blueprint whose taming/tribe mechanics inspired Palworld and many followers.",
+  "slug": "ark-survival-evolved",
+  "file": "data/games/336-ark-survival-evolved.json"
+}

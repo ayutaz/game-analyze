@@ -1,0 +1,26 @@
+{
+  "id": 613,
+  "title_jp": "ミュータント イヤー ゼロ: ロード トゥ エデン",
+  "title_en": "Mutant Year Zero: Road to Eden",
+  "developer": "The Bearded Ladies",
+  "publisher": "Funcom",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Tactical stealth + turn-based combat",
+  "sales_jp": "",
+  "sales_world": "500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Stealth-into-XCOM hybrid; pioneered the real-time scouting + ambush turn-based loop later copied by Miasma.",
+  "slug": "mutant-year-zero-road-to-eden",
+  "file": "data/games/613-mutant-year-zero-road-to-eden.json"
+}

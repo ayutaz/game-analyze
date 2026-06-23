@@ -1,0 +1,25 @@
+{
+  "id": 453,
+  "title_jp": "Axiom Verge",
+  "title_en": "Axiom Verge",
+  "developer": "Thomas Happ Games",
+  "publisher": "Thomas Happ Games",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500k-1M (long tail)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "One-man-dev classic that became the template for retro-Metroid-inspired indies.",
+  "slug": "axiom-verge",
+  "file": "data/games/453-axiom-verge.json"
+}

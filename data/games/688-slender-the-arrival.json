@@ -1,0 +1,25 @@
+{
+  "id": 688,
+  "title_jp": "スレンダー:ジ・アライバル",
+  "title_en": "Slender: The Arrival",
+  "developer": "Blue Isle Studios",
+  "publisher": "Blue Isle Studios",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "First-person survival horror",
+  "sales_jp": "",
+  "sales_world": "Steam owners 100K-200K; ~$1.3M Steam revenue; 2023 remaster",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Commercial follow-up to The Eight Pages; the canonical Slender Man video-game story and survival-horror benchmark.",
+  "slug": "slender-the-arrival",
+  "file": "data/games/688-slender-the-arrival.json"
+}

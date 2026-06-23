@@ -1,0 +1,24 @@
+{
+  "id": 803,
+  "title_jp": "龍が如く7 光と闇の行方",
+  "title_en": "Yakuza: Like a Dragon",
+  "developer": "Ryu Ga Gotoku Studio",
+  "publisher": "Sega",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Xbox",
+    "PS"
+  ],
+  "genre": "Turn-based JRPG",
+  "sales_jp": "",
+  "sales_world": "~2.8M PC copies across the broader Yakuza-on-PC catalog; Steam reviews 94% positive",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "First simultaneous global PC launch in the series, and the genre-shift entry that broadened Yakuza's Western base.",
+  "slug": "yakuza-like-a-dragon",
+  "file": "data/games/803-yakuza-like-a-dragon.json"
+}

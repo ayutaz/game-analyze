@@ -1,0 +1,25 @@
+{
+  "id": 461,
+  "title_jp": "バトルテック",
+  "title_en": "BattleTech",
+  "developer": "Harebrained Schemes",
+  "publisher": "Paradox Interactive",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Turn-based mech tactics",
+  "sales_jp": "",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Definitive turn-based BattleTech revival; mercenary management + heat-based mech combat.",
+  "slug": "battletech",
+  "file": "data/games/461-battletech.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 744,
+  "title_jp": "シーフ",
+  "title_en": "Thief (2014)",
+  "developer": "Eidos-Montréal",
+  "publisher": "Square Enix",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS4",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "Stealth",
+  "sales_jp": "",
+  "sales_world": "7K+ Steam reviews (≈300K-800K owners); >1M copies estimated across platforms",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Last mainline Thief, kept the IP alive on modern hardware.",
+  "slug": "thief-2014",
+  "file": "data/games/744-thief-2014.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 337,
+  "title_jp": "アサシン クリード オデッセイ",
+  "title_en": "Assassin's Creed Odyssey",
+  "developer": "Ubisoft Quebec",
+  "publisher": "Ubisoft",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-RPG",
+  "sales_jp": "",
+  "sales_world": "~10M+ units; Ubisoft's most profitable AC pre-Valhalla",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Massive Greek RPG with dialogue choices; defined modern Ubisoft open-world scale.",
+  "slug": "assassins-creed-odyssey",
+  "file": "data/games/337-assassins-creed-odyssey.json"
+}

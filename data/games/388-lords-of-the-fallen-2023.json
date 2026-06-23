@@ -1,0 +1,24 @@
+{
+  "id": 388,
+  "title_jp": "Lords of the Fallen",
+  "title_en": "Lords of the Fallen (2023)",
+  "developer": "Hexworks",
+  "publisher": "CI Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Soulslike action RPG",
+  "sales_jp": "",
+  "sales_world": "~400K Steam copies in first 72hrs / $20M; series 4M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Dual-realm (Axiom/Umbral) dark fantasy soulslike that became one of the biggest non-FromSoft genre releases of 2023.",
+  "slug": "lords-of-the-fallen-2023",
+  "file": "data/games/388-lords-of-the-fallen-2023.json"
+}

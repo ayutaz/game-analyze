@@ -1,0 +1,27 @@
+{
+  "id": 694,
+  "title_jp": "Spelunky",
+  "title_en": "Spelunky",
+  "developer": "Mossmouth",
+  "publisher": "Mossmouth",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "Xbox One"
+  ],
+  "genre": "Platformer roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; lifetime millions",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The HD original that arguably defined the modern roguelite platformer.",
+  "slug": "spelunky",
+  "file": "data/games/694-spelunky.json"
+}

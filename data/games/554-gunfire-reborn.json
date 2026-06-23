@@ -1,0 +1,27 @@
+{
+  "id": 554,
+  "title_jp": "Gunfire Reborn",
+  "title_en": "Gunfire Reborn",
+  "developer": "Duoyi Network",
+  "publisher": "Duoyi Network",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS",
+    "Switch",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "FPS roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Best-selling 4-player co-op FPS roguelite; massive in Asia and Steam.",
+  "slug": "gunfire-reborn",
+  "file": "data/games/554-gunfire-reborn.json"
+}

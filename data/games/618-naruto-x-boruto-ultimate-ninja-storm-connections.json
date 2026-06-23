@@ -1,0 +1,22 @@
+{
+  "id": 618,
+  "title_jp": "NARUTO-ナルト- × BORUTO -ボルト- アルティメットニンジャストーム コネクションズ",
+  "title_en": "NARUTO X BORUTO: Ultimate Ninja STORM CONNECTIONS",
+  "developer": "CyberConnect2",
+  "publisher": "Bandai Namco",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "3D arena fighting",
+  "sales_jp": "",
+  "sales_world": "~$2M Steam revenue in first 10 days, ~40K Steam copies week 1",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Series compilation/anniversary release; the Storm sub-series totals 30M+ units across platforms.",
+  "slug": "naruto-x-boruto-ultimate-ninja-storm-connections",
+  "file": "data/games/618-naruto-x-boruto-ultimate-ninja-storm-connections.json"
+}

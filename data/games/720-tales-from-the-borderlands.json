@@ -1,0 +1,23 @@
+{
+  "id": 720,
+  "title_jp": "Tales from the Borderlands",
+  "title_en": "Tales from the Borderlands",
+  "developer": "Telltale Games",
+  "publisher": "2K / Gearbox (re-release)",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Episodic comedy adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Critically beloved comedic Telltale, often cited as the studio's best — re-released after rights returned to Gearbox.",
+  "slug": "tales-from-the-borderlands",
+  "file": "data/games/720-tales-from-the-borderlands.json"
+}

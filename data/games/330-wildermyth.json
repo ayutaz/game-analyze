@@ -1,0 +1,28 @@
+{
+  "id": 330,
+  "title_jp": "ワイルダーミス",
+  "title_en": "Wildermyth",
+  "developer": "Worldwalker Games",
+  "publisher": "Worldwalker Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Procedural narrative tactical RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; Overwhelmingly Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Procedurally generates legends about your heroes who age, die, and become recruitable in future runs.",
+  "slug": "wildermyth",
+  "file": "data/games/330-wildermyth.json"
+}

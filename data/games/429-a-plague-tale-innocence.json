@@ -1,0 +1,24 @@
+{
+  "id": 429,
+  "title_jp": "プレイグ テイル -イノセンス-",
+  "title_en": "A Plague Tale: Innocence",
+  "developer": "Asobo Studio",
+  "publisher": "Focus Home Interactive",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch",
+    "Cloud"
+  ],
+  "genre": "Narrative action-adventure",
+  "sales_jp": "",
+  "sales_world": "1M+ sold by mid-2020; Steam ~58K reviews (93% positive)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Plague-era Aquitaine story of Amicia & Hugo de Rune — surprise breakout that elevated Asobo to AA narrative status.",
+  "slug": "a-plague-tale-innocence",
+  "file": "data/games/429-a-plague-tale-innocence.json"
+}

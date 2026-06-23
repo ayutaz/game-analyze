@@ -1,0 +1,22 @@
+{
+  "id": 486,
+  "title_jp": "クルセイダーキングス II",
+  "title_en": "Crusader Kings II",
+  "developer": "Paradox Development Studio",
+  "publisher": "Paradox Interactive",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Medieval grand strategy",
+  "sales_jp": "",
+  "sales_world": "Free-to-play since 2019; estimated 6M+ Steam owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The game that turned Paradox into a household name in strategy circles and made dynastic roleplay a viable genre niche.",
+  "slug": "crusader-kings-ii",
+  "file": "data/games/486-crusader-kings-ii.json"
+}

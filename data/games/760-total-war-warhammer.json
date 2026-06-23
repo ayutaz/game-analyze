@@ -1,0 +1,22 @@
+{
+  "id": 760,
+  "title_jp": "Total War: WARHAMMER",
+  "title_en": "Total War: Warhammer",
+  "developer": "Creative Assembly",
+  "publisher": "Sega",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Real-time tactics + turn-based grand campaign",
+  "sales_jp": "",
+  "sales_world": "2M+ copies in first months; fastest-selling Total War to that point",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "First Total War with a fantasy license; proved IP collaboration could expand the strategy audience.",
+  "slug": "total-war-warhammer",
+  "file": "data/games/760-total-war-warhammer.json"
+}

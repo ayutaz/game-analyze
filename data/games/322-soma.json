@@ -1,0 +1,22 @@
+{
+  "id": 322,
+  "title_jp": "ソーマ",
+  "title_en": "SOMA",
+  "developer": "Frictional Games",
+  "publisher": "Frictional Games",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Sci-fi survival horror",
+  "sales_jp": "",
+  "sales_world": "1M+ PC copies by 2021; 95% positive of 23K Steam reviews",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Underwater sci-fi horror that questions consciousness and identity; benchmark for narrative-driven first-person horror.",
+  "slug": "soma",
+  "file": "data/games/322-soma.json"
+}

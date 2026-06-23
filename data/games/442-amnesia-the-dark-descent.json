@@ -1,0 +1,23 @@
+{
+  "id": 442,
+  "title_jp": "アムネジア:ザ・ダーク・ディセント",
+  "title_en": "Amnesia: The Dark Descent",
+  "developer": "Frictional Games",
+  "publisher": "Frictional Games",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "First-person survival horror",
+  "sales_jp": "",
+  "sales_world": "1.36M units in first two years, well over 4M lifetime",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The defining first-person hide-and-cower horror; established the 'no weapons, only flight' formula and ignited the 2010s Let's Play horror boom.",
+  "slug": "amnesia-the-dark-descent",
+  "file": "data/games/442-amnesia-the-dark-descent.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 311,
+  "title_jp": "バトル・ブラザーズ",
+  "title_en": "Battle Brothers",
+  "developer": "Overhype Studios",
+  "publisher": "Overhype Studios",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Tactical mercenary-band RPG (turn-based)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+; Overwhelmingly Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Two-developer indie hit blending XCOM-like combat with Mount & Blade economy; long-tail RPG classic.",
+  "slug": "battle-brothers",
+  "file": "data/games/311-battle-brothers.json"
+}

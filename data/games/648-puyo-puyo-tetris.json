@@ -1,0 +1,23 @@
+{
+  "id": 648,
+  "title_jp": "ぷよぷよテトリス",
+  "title_en": "Puyo Puyo Tetris",
+  "developer": "Sonic Team",
+  "publisher": "SEGA",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "Competitive falling-block puzzle",
+  "sales_jp": "",
+  "sales_world": "Multi-platform 1M+; long-running competitive scene",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Iconic SEGA crossover that bridged the Japanese Puyo and Tetris competitive scenes on PC.",
+  "slug": "puyo-puyo-tetris",
+  "file": "data/games/648-puyo-puyo-tetris.json"
+}

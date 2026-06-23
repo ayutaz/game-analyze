@@ -1,0 +1,20 @@
+{
+  "id": 384,
+  "title_jp": "GTFO",
+  "title_en": "GTFO",
+  "developer": "10 Chambers Collective",
+  "publisher": "10 Chambers Collective",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Hardcore co-op horror FPS",
+  "sales_jp": "",
+  "sales_world": "88% positive of ~25K Steam reviews; estimated 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Hyper-difficult 4-player co-op stealth-horror shooter; cult hit that pushed the genre toward 'extraction-horror' territory.",
+  "slug": "gtfo",
+  "file": "data/games/384-gtfo.json"
+}

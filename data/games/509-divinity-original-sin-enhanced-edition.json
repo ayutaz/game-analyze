@@ -1,0 +1,26 @@
+{
+  "id": 509,
+  "title_jp": "ディヴィニティ：オリジナル・シン エンハンスト・エディション",
+  "title_en": "Divinity: Original Sin Enhanced Edition",
+  "developer": "Larian Studios",
+  "publisher": "Larian Studios",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Turn-based isometric co-op CRPG",
+  "sales_jp": "",
+  "sales_world": "Series 2M+ before D:OS2",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "Resurrected Larian and turn-based CRPGs; introduced the elemental-combo combat that would define BG3.",
+  "slug": "divinity-original-sin-enhanced-edition",
+  "file": "data/games/509-divinity-original-sin-enhanced-edition.json"
+}

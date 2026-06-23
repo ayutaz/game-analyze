@@ -1,0 +1,23 @@
+{
+  "id": 649,
+  "title_jp": "クエイク III アリーナ",
+  "title_en": "Quake III Arena",
+  "developer": "id Software",
+  "publisher": "Bethesda Softworks",
+  "year": 1999,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Arena FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; cornerstone of Quake Live and modern AFPS scene",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Open-source engine has spawned ioquake3 / Quake Live / endless arena-FPS revivals; still sold on Steam as the canonical pure-MP shooter.",
+  "slug": "quake-iii-arena",
+  "file": "data/games/649-quake-iii-arena.json"
+}

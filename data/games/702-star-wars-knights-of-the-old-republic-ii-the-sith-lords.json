@@ -1,0 +1,28 @@
+{
+  "id": 702,
+  "title_jp": "ナイツ オブ ジ オールド リパブリック II ザ・シス・ロード",
+  "title_en": "Star Wars: Knights of the Old Republic II – The Sith Lords",
+  "developer": "Obsidian Entertainment",
+  "publisher": "LucasArts / Aspyr",
+  "year": 2004,
+  "platform": [
+    "Xbox",
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "Star Wars D20 CRPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M including Restored Content Mod era",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Obsidian's first Star Wars project; Chris Avellone's deconstruction of the Force is a writing milestone.",
+  "slug": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
+  "file": "data/games/702-star-wars-knights-of-the-old-republic-ii-the-sith-lords.json"
+}

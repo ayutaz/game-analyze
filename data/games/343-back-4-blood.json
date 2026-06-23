@@ -1,0 +1,24 @@
+{
+  "id": 343,
+  "title_jp": "バック・フォー・ブラッド",
+  "title_en": "Back 4 Blood",
+  "developer": "Turtle Rock Studios",
+  "publisher": "Warner Bros. Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Co-op zombie shooter",
+  "sales_jp": "",
+  "sales_world": "10M+ players by March 2022; 2021 best-selling new console IP",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Spiritual successor to Left 4 Dead from its original creators; commercially significant despite a divisive launch and short support window.",
+  "slug": "back-4-blood",
+  "file": "data/games/343-back-4-blood.json"
+}

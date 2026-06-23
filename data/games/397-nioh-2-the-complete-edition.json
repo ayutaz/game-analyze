@@ -1,0 +1,24 @@
+{
+  "id": 397,
+  "title_jp": "仁王2 Complete Edition",
+  "title_en": "Nioh 2: The Complete Edition",
+  "developer": "Team Ninja",
+  "publisher": "Koei Tecmo",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "Action RPG / Soulslike",
+  "sales_jp": "",
+  "sales_world": "Series 7M+; Steam Complete Edition 1M+ owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Considered the high-water mark of the Team Ninja stamina-action lineage before Wo Long.",
+  "slug": "nioh-2-the-complete-edition",
+  "file": "data/games/397-nioh-2-the-complete-edition.json"
+}

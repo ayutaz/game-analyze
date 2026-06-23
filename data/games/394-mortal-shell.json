@@ -1,0 +1,24 @@
+{
+  "id": 394,
+  "title_jp": "Mortal Shell",
+  "title_en": "Mortal Shell",
+  "developer": "Cold Symmetry",
+  "publisher": "Playstack",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox"
+  ],
+  "genre": "Soulslike",
+  "sales_jp": "",
+  "sales_world": "1M+ units sold (Sept 2023); Steam 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Tightly-scoped indie soulslike with the Shells/hardening mechanic; proof an 18-person studio can ship a credible souls clone.",
+  "slug": "mortal-shell",
+  "file": "data/games/394-mortal-shell.json"
+}

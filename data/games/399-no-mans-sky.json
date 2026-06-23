@@ -1,0 +1,27 @@
+{
+  "id": 399,
+  "title_jp": "ノーマンズスカイ",
+  "title_en": "No Man's Sky",
+  "developer": "Hello Games",
+  "publisher": "Hello Games",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch",
+    "Mac",
+    "Quest"
+  ],
+  "genre": "Procedural space exploration / survival sandbox",
+  "sales_jp": "",
+  "sales_world": "10M+ copies (Hello Games 2022); ongoing growth via updates",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The textbook redemption arc — disastrous 2016 launch turned into a decade-long roadmap of free updates; standard reference for live-service-style indie revival.",
+  "slug": "no-mans-sky",
+  "file": "data/games/399-no-mans-sky.json"
+}

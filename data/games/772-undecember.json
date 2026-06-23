@@ -1,0 +1,24 @@
+{
+  "id": 772,
+  "title_jp": "アンディセンバー",
+  "title_en": "Undecember",
+  "developer": "Needs Games / LINE Games",
+  "publisher": "LINE Games",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ARPG (cross-platform F2P)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M (F2P); active but waning",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Korean PoE-likeness with rune-based skills; notable cross-play F2P Diablo-style ARPG release.",
+  "slug": "undecember",
+  "file": "data/games/772-undecember.json"
+}

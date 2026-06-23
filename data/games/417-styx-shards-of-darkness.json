@@ -1,0 +1,25 @@
+{
+  "id": 417,
+  "title_jp": "スティクス シャーズ・オブ・ダークネス",
+  "title_en": "Styx: Shards of Darkness",
+  "developer": "Cyanide Studio",
+  "publisher": "Nacon",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Third-person stealth",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Bigger-budget Styx sequel; kept the third-person Thief-like alive in the late 2010s.",
+  "slug": "styx-shards-of-darkness",
+  "file": "data/games/417-styx-shards-of-darkness.json"
+}

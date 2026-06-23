@@ -1,0 +1,24 @@
+{
+  "id": 437,
+  "title_jp": "エイリアン アイソレーション",
+  "title_en": "Alien: Isolation",
+  "developer": "Creative Assembly",
+  "publisher": "Sega",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch",
+    "iOS/Android"
+  ],
+  "genre": "First-person stealth survival horror",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2M-5M; 2.11M units by May 2015",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Genre-defining Alien-licensed stealth horror with a single adaptive xenomorph; widely cited as the best horror game of the 2010s.",
+  "slug": "alien-isolation",
+  "file": "data/games/437-alien-isolation.json"
+}

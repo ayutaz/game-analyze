@@ -1,0 +1,22 @@
+{
+  "id": 391,
+  "title_jp": "メトロ エクソダス",
+  "title_en": "Metro Exodus",
+  "developer": "4A Games",
+  "publisher": "Deep Silver",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player open-zone FPS",
+  "sales_jp": "",
+  "sales_world": "10M+ copies as of Feb 2024",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Pushed the series into semi-open zones; one of the first NVIDIA RTX showcase titles.",
+  "slug": "metro-exodus",
+  "file": "data/games/391-metro-exodus.json"
+}

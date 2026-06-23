@@ -1,0 +1,20 @@
+{
+  "id": 443,
+  "title_jp": "アノ1800",
+  "title_en": "Anno 1800",
+  "developer": "Ubisoft Mainz",
+  "publisher": "Ubisoft",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "City builder / economic sim",
+  "sales_jp": "",
+  "sales_world": "Fastest-selling Anno; 3M+ players across Uplay/Epic/Steam",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Modern revival of the Anno franchise; industrial-revolution economy sim that defined late-2010s premium PC builders.",
+  "slug": "anno-1800",
+  "file": "data/games/443-anno-1800.json"
+}

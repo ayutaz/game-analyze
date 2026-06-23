@@ -1,0 +1,21 @@
+{
+  "id": 561,
+  "title_jp": "ヘビーレイン 心の軋むとき",
+  "title_en": "Heavy Rain",
+  "developer": "Quantic Dream",
+  "publisher": "Quantic Dream",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS3/4"
+  ],
+  "genre": "Cinematic narrative thriller",
+  "sales_jp": "",
+  "sales_world": "5M+ lifetime franchise; PC several hundred K",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Quantic Dream's defining branching crime drama, ported to PC in 2019 via Epic, Steam 2020 — a foundational interactive film.",
+  "slug": "heavy-rain",
+  "file": "data/games/561-heavy-rain.json"
+}

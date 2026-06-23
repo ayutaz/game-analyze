@@ -1,0 +1,22 @@
+{
+  "id": 548,
+  "title_jp": "ゴシック",
+  "title_en": "Gothic",
+  "developer": "Piranha Bytes",
+  "publisher": "THQ / Egmont",
+  "year": 2001,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world fantasy RPG",
+  "sales_jp": "",
+  "sales_world": "Series 5M+ copies; foundational European RPG",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Father of European-style 3D open-world RPG design; direct ancestor of Witcher, Risen, ELEX.",
+  "slug": "gothic",
+  "file": "data/games/548-gothic.json"
+}

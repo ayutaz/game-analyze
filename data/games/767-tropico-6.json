@@ -1,0 +1,23 @@
+{
+  "id": 767,
+  "title_jp": "トロピコ6",
+  "title_en": "Tropico 6",
+  "developer": "Limbic Entertainment",
+  "publisher": "Kalypso Media",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "City builder / political sim",
+  "sales_jp": "",
+  "sales_world": "1M+ units; flagship Kalypso seller",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Banana-republic city builder with satirical politics; defines the comedic political-sim subgenre.",
+  "slug": "tropico-6",
+  "file": "data/games/767-tropico-6.json"
+}

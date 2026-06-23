@@ -1,0 +1,22 @@
+{
+  "id": 480,
+  "title_jp": "クロニコン",
+  "title_en": "Chronicon",
+  "developer": "Subworld",
+  "publisher": "Subworld",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ARPG (2D pixel)",
+  "sales_jp": "",
+  "sales_world": "94% positive on 3.3k reviews; Steam owners 0.2-0.5M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "One-person-dev 2D ARPG widely cited as the best Diablo-style pixel game; extremely deep endgame.",
+  "slug": "chronicon",
+  "file": "data/games/480-chronicon.json"
+}

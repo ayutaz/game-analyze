@@ -1,0 +1,25 @@
+{
+  "id": 607,
+  "title_jp": "メックウォリア 5: マーセナリーズ",
+  "title_en": "MechWarrior 5: Mercenaries",
+  "developer": "Piranha Games",
+  "publisher": "Piranha Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox"
+  ],
+  "genre": "Mech sim with tactical squad",
+  "sales_jp": "",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Real-time mech combat sim with tactical squad commands; long EGS exclusivity before Steam.",
+  "slug": "mechwarrior-5-mercenaries",
+  "file": "data/games/607-mechwarrior-5-mercenaries.json"
+}

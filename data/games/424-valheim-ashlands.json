@@ -1,0 +1,23 @@
+{
+  "id": 424,
+  "title_jp": "ヴァルヘイム アシュランズ",
+  "title_en": "Valheim: Ashlands",
+  "developer": "Iron Gate Studio",
+  "publisher": "Coffee Stain Publishing",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Xbox Series"
+  ],
+  "genre": "Co-op viking survival (major expansion update)",
+  "sales_jp": "",
+  "sales_world": "Free major update to Valheim (>20M base copies)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Major Ashlands biome update marked Valheim's late-EA renaissance; relevant because it is treated separately from base Valheim already in catalog.",
+  "slug": "valheim-ashlands",
+  "file": "data/games/424-valheim-ashlands.json"
+}

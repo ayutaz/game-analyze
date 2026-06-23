@@ -1,0 +1,20 @@
+{
+  "id": 529,
+  "title_jp": "エスケープ フロム タルコフ",
+  "title_en": "Escape from Tarkov",
+  "developer": "Battlestate Games",
+  "publisher": "Battlestate Games",
+  "year": 2017,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Hardcore extraction FPS",
+  "sales_jp": "",
+  "sales_world": "1M+ copies of 1.0 in first month (Nov 2025); $38M+ Steam revenue inside a month",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Defined the extraction shooter genre; finally launched 1.0 on Steam in Nov 2025 after 8 years of beta.",
+  "slug": "escape-from-tarkov",
+  "file": "data/games/529-escape-from-tarkov.json"
+}

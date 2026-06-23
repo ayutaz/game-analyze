@@ -1,0 +1,25 @@
+{
+  "id": 695,
+  "title_jp": "スペランキー 2",
+  "title_en": "Spelunky 2",
+  "developer": "Mossmouth / BlitWorks",
+  "publisher": "Mossmouth",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS5",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Roguelike platformer",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sequel to one of the most influential roguelike platformers; deep daily-challenge community.",
+  "slug": "spelunky-2",
+  "file": "data/games/695-spelunky-2.json"
+}

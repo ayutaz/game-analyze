@@ -1,0 +1,26 @@
+{
+  "id": 316,
+  "title_jp": "マーク・オブ・ザ・ニンジャ リマスター",
+  "title_en": "Mark of the Ninja: Remastered",
+  "developer": "Klei Entertainment",
+  "publisher": "Klei Entertainment",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "2D stealth-action",
+  "sales_jp": "",
+  "sales_world": "Overwhelmingly Positive on Steam; combined with original ~1M+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Genre-defining 2D stealth game; still considered the format's gold standard.",
+  "slug": "mark-of-the-ninja-remastered",
+  "file": "data/games/316-mark-of-the-ninja-remastered.json"
+}

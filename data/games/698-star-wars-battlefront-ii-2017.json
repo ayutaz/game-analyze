@@ -1,0 +1,26 @@
+{
+  "id": 698,
+  "title_jp": "スター・ウォーズ バトルフロント II",
+  "title_en": "Star Wars Battlefront II (2017)",
+  "developer": "DICE / Motive / Criterion",
+  "publisher": "Electronic Arts",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Origin",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Hero shooter / Star Wars FPS",
+  "sales_jp": "",
+  "sales_world": "9M+ launch; combined with 2015 game 33M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Despite a notorious lootbox launch, post-content turned it into a long-tail Star Wars MP staple — still topping Steam charts on every Star Wars sale and free Epic giveaway.",
+  "slug": "star-wars-battlefront-ii-2017",
+  "file": "data/games/698-star-wars-battlefront-ii-2017.json"
+}

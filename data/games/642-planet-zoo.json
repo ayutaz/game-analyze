@@ -1,0 +1,20 @@
+{
+  "id": 642,
+  "title_jp": "プラネット ズー",
+  "title_en": "Planet Zoo",
+  "developer": "Frontier Developments",
+  "publisher": "Frontier Developments",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Zoo management",
+  "sales_jp": "",
+  "sales_world": "5.5M+ units worldwide (Oct 2025); £145M+ revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Frontier's commercial peak; the definitive modern zoo sim and a long-tail PC sales engine.",
+  "slug": "planet-zoo",
+  "file": "data/games/642-planet-zoo.json"
+}

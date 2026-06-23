@@ -1,0 +1,21 @@
+{
+  "id": 683,
+  "title_jp": "シムシティ",
+  "title_en": "SimCity (2013)",
+  "developer": "Maxis",
+  "publisher": "Electronic Arts",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "City builder",
+  "sales_jp": "",
+  "sales_world": "~2M copies despite disastrous always-online launch",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The cautionary tale of always-online SimCity that opened the door for Cities: Skylines to dominate.",
+  "slug": "simcity-2013",
+  "file": "data/games/683-simcity-2013.json"
+}

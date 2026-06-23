@@ -1,0 +1,20 @@
+{
+  "id": 627,
+  "title_jp": "Opus Magnum",
+  "title_en": "Opus Magnum",
+  "developer": "Zachtronics",
+  "publisher": "Zachtronics",
+  "year": 2017,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Alchemy programming puzzle",
+  "sales_jp": "",
+  "sales_world": "~$2M est. revenue; 5,000+ reviews at near-10/10",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Zachtronics' most accessible and visually elegant programming puzzle, widely held as their masterpiece.",
+  "slug": "opus-magnum",
+  "file": "data/games/627-opus-magnum.json"
+}

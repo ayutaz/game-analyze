@@ -1,0 +1,22 @@
+{
+  "id": 540,
+  "title_jp": "フロストパンク",
+  "title_en": "Frostpunk",
+  "developer": "11 bit studios",
+  "publisher": "11 bit studios",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Survival city builder",
+  "sales_jp": "",
+  "sales_world": "5M+ copies sold across platforms (Apr 2024)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Steampunk apocalypse city builder; defined the 'moral-choice survival city' subgenre and is one of the best-selling Polish PC games ever.",
+  "slug": "frostpunk",
+  "file": "data/games/540-frostpunk.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 363,
+  "title_jp": "ドラゴンボールZ KAKAROT",
+  "title_en": "DRAGON BALL Z: KAKAROT",
+  "developer": "CyberConnect2",
+  "publisher": "Bandai Namco",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Action RPG",
+  "sales_jp": "",
+  "sales_world": "10M+ worldwide by Jan 2026; 43K Steam reviews 93% positive",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "CyberConnect2's anime ARPG hit 10M cross-platform sales, a top-tier shonen IP success on Steam.",
+  "slug": "dragon-ball-z-kakarot",
+  "file": "data/games/363-dragon-ball-z-kakarot.json"
+}

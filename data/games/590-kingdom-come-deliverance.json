@@ -1,0 +1,25 @@
+{
+  "id": 590,
+  "title_jp": "キングダムカム・デリバランス",
+  "title_en": "Kingdom Come: Deliverance",
+  "developer": "Warhorse Studios",
+  "publisher": "Deep Silver",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "First-person historical-realist RPG (15th-c. Bohemia)",
+  "sales_jp": "",
+  "sales_world": "8M+ copies by 2025",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Czech-made simulationist RPG that proved a low-magic historical setting could sell millions.",
+  "slug": "kingdom-come-deliverance",
+  "file": "data/games/590-kingdom-come-deliverance.json"
+}

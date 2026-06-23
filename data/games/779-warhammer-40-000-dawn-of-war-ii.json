@@ -1,0 +1,22 @@
+{
+  "id": 779,
+  "title_jp": "Warhammer 40,000: Dawn of War II",
+  "title_en": "Warhammer 40,000: Dawn of War II",
+  "developer": "Relic Entertainment",
+  "publisher": "SEGA / THQ",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "RTS / squad tactics",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M est. across base + expansions",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Squad-based 40K RTS whose Last Stand mode and Retribution expansion still draw active players.",
+  "slug": "warhammer-40-000-dawn-of-war-ii",
+  "file": "data/games/779-warhammer-40-000-dawn-of-war-ii.json"
+}

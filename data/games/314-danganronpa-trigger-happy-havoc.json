@@ -1,0 +1,23 @@
+{
+  "id": 314,
+  "title_jp": "ダンガンロンパ 希望の学園と絶望の高校生",
+  "title_en": "Danganronpa: Trigger Happy Havoc",
+  "developer": "Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Mobile"
+  ],
+  "genre": "Mystery Visual Novel / Adventure",
+  "sales_jp": "",
+  "sales_world": "1M–2M Steam owners; 96% positive ~35,000 reviews; series 5M+ worldwide",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Steam port of the 2010 PSP killer that defined modern Japanese mystery VNs; massive Steam install base.",
+  "slug": "danganronpa-trigger-happy-havoc",
+  "file": "data/games/314-danganronpa-trigger-happy-havoc.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 793,
+  "title_jp": "ウルフェンシュタイン：ザ ニューオーダー",
+  "title_en": "Wolfenstein: The New Order",
+  "developer": "MachineGames",
+  "publisher": "Bethesda Softworks",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "2M+ first-month; multi-million lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "MachineGames revival of the Nazi-killing icon; surprised everyone with a heartfelt alt-history narrative.",
+  "slug": "wolfenstein-the-new-order",
+  "file": "data/games/793-wolfenstein-the-new-order.json"
+}

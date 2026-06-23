@@ -1,0 +1,24 @@
+{
+  "id": 409,
+  "title_jp": "シャドウラン ドラゴンフォール",
+  "title_en": "Shadowrun: Dragonfall – Director's Cut",
+  "developer": "Harebrained Schemes",
+  "publisher": "Harebrained Schemes",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Isometric cyberpunk-fantasy CRPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K; Overwhelmingly Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Berlin-set heist story considered the high point of the Shadowrun CRPG revival.",
+  "slug": "shadowrun-dragonfall-directors-cut",
+  "file": "data/games/409-shadowrun-dragonfall-directors-cut.json"
+}

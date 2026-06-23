@@ -1,0 +1,24 @@
+{
+  "id": 325,
+  "title_jp": "The First Berserker: Khazan",
+  "title_en": "The First Berserker: Khazan",
+  "developer": "Neople",
+  "publisher": "Nexon",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Cel-shaded action soulslike",
+  "sales_jp": "",
+  "sales_world": "Steam Overwhelmingly Positive on launch; estimates 1M+ in first months",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Dungeon Fighter Online universe spin-off that became 2025's surprise critical soulslike darling.",
+  "slug": "the-first-berserker-khazan",
+  "file": "data/games/325-the-first-berserker-khazan.json"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 539,
+  "title_jp": "ファウンデーション",
+  "title_en": "Foundation",
+  "developer": "Polymorph Games",
+  "publisher": "Polymorph Games",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Grid-less medieval city builder",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; 22k reviews, 86% positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Grid-less organic medieval town-builder; left a five-year Early Access to strong critical reception (MC 84).",
+  "slug": "foundation",
+  "file": "data/games/539-foundation.json"
+}

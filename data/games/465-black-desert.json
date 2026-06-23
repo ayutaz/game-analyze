@@ -1,0 +1,22 @@
+{
+  "id": 465,
+  "title_jp": "黒い砂漠",
+  "title_en": "Black Desert",
+  "developer": "Pearl Abyss",
+  "publisher": "Pearl Abyss",
+  "year": 2017,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Sandbox MMORPG",
+  "sales_jp": "",
+  "sales_world": "55M+ registered players, €2B+ franchise revenue; 1.2M+ Steam copies in W/NA",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Defining Korean sandbox MMORPG on Steam; benchmark for combat/character creation in the genre.",
+  "slug": "black-desert",
+  "file": "data/games/465-black-desert.json"
+}

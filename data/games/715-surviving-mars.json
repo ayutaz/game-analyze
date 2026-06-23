@@ -1,0 +1,22 @@
+{
+  "id": 715,
+  "title_jp": "サバイビング マーズ",
+  "title_en": "Surviving Mars",
+  "developer": "Haemimont Games",
+  "publisher": "Paradox Interactive",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Colony management",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; Epic giveaway broadened reach",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Mars colony builder by Tropico devs; sci-fi colony management benchmark.",
+  "slug": "surviving-mars",
+  "file": "data/games/715-surviving-mars.json"
+}

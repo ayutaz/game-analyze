@@ -1,0 +1,25 @@
+{
+  "id": 508,
+  "title_jp": "ディスオナード",
+  "title_en": "Dishonored",
+  "developer": "Arkane Studios",
+  "publisher": "Bethesda Softworks",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360"
+  ],
+  "genre": "Immersive sim / stealth-action",
+  "sales_jp": "",
+  "sales_world": "Franchise sales multi-million; Steam owners 2-5M (SteamSpy)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Modern flag-bearer of the immersive sim; revived the genre commercially.",
+  "slug": "dishonored",
+  "file": "data/games/508-dishonored.json"
+}

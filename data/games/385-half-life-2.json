@@ -1,0 +1,22 @@
+{
+  "id": 385,
+  "title_jp": "ハーフライフ2",
+  "title_en": "Half-Life 2",
+  "developer": "Valve",
+  "publisher": "Valve",
+  "year": 2004,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS / Physics-driven action",
+  "sales_jp": "",
+  "sales_world": "12M+ copies (2011), Steam owners 10M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defined modern PC FPS pacing and physics gameplay; launched Steam as a platform via mandatory client.",
+  "slug": "half-life-2",
+  "file": "data/games/385-half-life-2.json"
+}

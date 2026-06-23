@@ -1,0 +1,22 @@
+{
+  "id": 390,
+  "title_jp": "メトロ2033 リダックス",
+  "title_en": "Metro 2033 Redux",
+  "developer": "4A Games",
+  "publisher": "Deep Silver",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player atmospheric FPS",
+  "sales_jp": "",
+  "sales_world": "Franchise 10M+; series highly popular on Steam",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Set the tone for post-apoc Russian shooters; Glukhovsky novel adaptation with stealth/horror blend.",
+  "slug": "metro-2033-redux",
+  "file": "data/games/390-metro-2033-redux.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 660,
+  "title_jp": "Rise of the Ronin（ライズ オブ ザ ローニン）",
+  "title_en": "Rise of the Ronin",
+  "developer": "Team Ninja",
+  "publisher": "Koei Tecmo",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "Open-world samurai action RPG",
+  "sales_jp": "",
+  "sales_world": "PS5 launch ~1M; PC port mid-2025 modest due to performance issues",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Team Ninja's first open-world title; PC port (Mar 2025) ended its PS5 exclusivity period.",
+  "slug": "rise-of-the-ronin",
+  "file": "data/games/660-rise-of-the-ronin.json"
+}

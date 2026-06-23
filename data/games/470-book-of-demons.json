@@ -1,0 +1,23 @@
+{
+  "id": 470,
+  "title_jp": "ブック・オブ・デーモンズ",
+  "title_en": "Book of Demons",
+  "developer": "Thing Trunk",
+  "publisher": "Thing Trunk",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "consoles"
+  ],
+  "genre": "ARPG (papercraft)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Stylized 'Return 2 Games' love-letter to Diablo 1; adjustable session length innovation.",
+  "slug": "book-of-demons",
+  "file": "data/games/470-book-of-demons.json"
+}

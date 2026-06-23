@@ -1,0 +1,21 @@
+{
+  "id": 432,
+  "title_jp": "Age of Empires II: Definitive Edition",
+  "title_en": "Age of Empires II: Definitive Edition",
+  "developer": "Forgotten Empires / World's Edge",
+  "publisher": "Xbox Game Studios",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Xbox"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; 50K+ peak CCU",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "The benchmark for how to remaster a classic RTS; sustained top-15 RTS on Steam for years with paid DLC civs.",
+  "slug": "age-of-empires-ii-definitive-edition",
+  "file": "data/games/432-age-of-empires-ii-definitive-edition.json"
+}

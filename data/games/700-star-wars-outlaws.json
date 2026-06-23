@@ -1,0 +1,25 @@
+{
+  "id": 700,
+  "title_jp": "スター・ウォーズ アウトローズ",
+  "title_en": "Star Wars Outlaws",
+  "developer": "Massive Entertainment",
+  "publisher": "Ubisoft",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure",
+  "sales_jp": "",
+  "sales_world": "~1M in first month; underperformed; recovered with March 2025 Steam sale",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "First open-world Star Wars game; pivotal flop that forced Ubisoft off Epic-exclusivity on PC.",
+  "slug": "star-wars-outlaws",
+  "file": "data/games/700-star-wars-outlaws.json"
+}

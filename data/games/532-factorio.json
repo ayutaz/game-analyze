@@ -1,0 +1,23 @@
+{
+  "id": 532,
+  "title_jp": "ファクトリオ",
+  "title_en": "Factorio",
+  "developer": "Wube Software",
+  "publisher": "Wube Software",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch"
+  ],
+  "genre": "Factory automation / base-building",
+  "sales_jp": "",
+  "sales_world": "Steam owners 4-8M; 3.5M+ before 1.0; Space Age DLC (2024) drove another surge",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The genre-defining automation game; its conveyor-belt + research loop spawned an entire 'factorylike' category.",
+  "slug": "factorio",
+  "file": "data/games/532-factorio.json"
+}

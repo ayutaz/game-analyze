@@ -1,0 +1,23 @@
+{
+  "id": 668,
+  "title_jp": "ルーンファクトリー4 スペシャル",
+  "title_en": "Rune Factory 4 Special",
+  "developer": "Marvelous",
+  "publisher": "XSEED Games / Marvelous Europe",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Farming life RPG",
+  "sales_jp": "",
+  "sales_world": "1M+ across platforms",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Definitive version of the most beloved Rune Factory; brought the farm-RPG hybrid to Steam.",
+  "slug": "rune-factory-4-special",
+  "file": "data/games/668-rune-factory-4-special.json"
+}

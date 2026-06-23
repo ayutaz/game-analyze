@@ -1,0 +1,23 @@
+{
+  "id": 412,
+  "title_jp": "スケーター XL",
+  "title_en": "Skater XL",
+  "developer": "Easy Day Studios",
+  "publisher": "Easy Day Studios",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Skateboarding simulation",
+  "sales_jp": "",
+  "sales_world": "Steam 1-2M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Indie skate-sim with huge mod scene; the original 'realistic skate' contender that filled the Skate void.",
+  "slug": "skater-xl",
+  "file": "data/games/412-skater-xl.json"
+}

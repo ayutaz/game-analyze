@@ -1,0 +1,20 @@
+{
+  "id": 430,
+  "title_jp": "A Total War Saga: Troy",
+  "title_en": "A Total War Saga: Troy",
+  "developer": "Creative Assembly Sofia",
+  "publisher": "Sega",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Bronze Age grand campaign",
+  "sales_jp": "",
+  "sales_world": "7.5M Epic Games Store giveaway claims on day one; later Steam release",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Epic exclusive launch and mass giveaway made it the most-acquired Total War title ever, even if paid sales lagged.",
+  "slug": "a-total-war-saga-troy",
+  "file": "data/games/430-a-total-war-saga-troy.json"
+}

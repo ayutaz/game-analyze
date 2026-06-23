@@ -1,0 +1,28 @@
+{
+  "id": 723,
+  "title_jp": "バナーサーガ",
+  "title_en": "The Banner Saga",
+  "developer": "Stoic Studio",
+  "publisher": "Versus Evil",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Tactical RPG",
+  "sales_jp": "",
+  "sales_world": "1M+ (trilogy)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hand-painted Viking tactical RPG; Kickstarter success that defined the cinematic-SRPG style.",
+  "slug": "the-banner-saga",
+  "file": "data/games/723-the-banner-saga.json"
+}

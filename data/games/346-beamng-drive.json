@@ -1,0 +1,20 @@
+{
+  "id": 346,
+  "title_jp": "BeamNG.drive",
+  "title_en": "BeamNG.drive",
+  "developer": "BeamNG GmbH",
+  "publisher": "BeamNG GmbH",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Soft-body vehicle simulation",
+  "sales_jp": "",
+  "sales_world": "~10.8M owners; ~9.45M copies; $179M+ revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Cult soft-body physics sandbox famous on YouTube/TikTok for crash physics; one of the most-watched driving games on streaming.",
+  "slug": "beamng-drive",
+  "file": "data/games/346-beamng-drive.json"
+}

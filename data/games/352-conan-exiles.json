@@ -1,0 +1,22 @@
+{
+  "id": 352,
+  "title_jp": "コナン エグザイル",
+  "title_en": "Conan Exiles",
+  "developer": "Funcom",
+  "publisher": "Funcom",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Open-world survival / base-building",
+  "sales_jp": "",
+  "sales_world": "10M+ players across platforms (Funcom 2023)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Funcom's flagship survival sandbox; massive base-building and slavery/thrall systems set a new mature-survival benchmark.",
+  "slug": "conan-exiles",
+  "file": "data/games/352-conan-exiles.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 434,
+  "title_jp": "Age of Empires IV",
+  "title_en": "Age of Empires IV",
+  "developer": "Relic Entertainment / World's Edge",
+  "publisher": "Xbox Game Studios",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Xbox"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "4M+ across platforms; ~$35M Steam first month",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "The first new mainline AoE in 16 years; spearheaded the 2020s AAA-RTS comeback.",
+  "slug": "age-of-empires-iv",
+  "file": "data/games/434-age-of-empires-iv.json"
+}

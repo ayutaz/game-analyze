@@ -1,0 +1,22 @@
+{
+  "id": 555,
+  "title_jp": "ハーフライフ",
+  "title_en": "Half-Life",
+  "developer": "Valve",
+  "publisher": "Sierra Studios / Valve",
+  "year": 1998,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "9.3M+ lifetime (2008 figure; foundational PC FPS, Steam owners millions more)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The blueprint for narrative single-player FPS — scripted set-pieces, no cutscenes, the genre's most-cited title.",
+  "slug": "half-life",
+  "file": "data/games/555-half-life.json"
+}

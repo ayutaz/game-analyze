@@ -1,0 +1,22 @@
+{
+  "id": 489,
+  "title_jp": "クライシス3",
+  "title_en": "Crysis 3",
+  "developer": "Crytek",
+  "publisher": "EA",
+  "year": 2013,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "Franchise total 8M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Final original Crysis; CryEngine 3 showcase, Prophet/Nanosuit closure.",
+  "slug": "crysis-3",
+  "file": "data/games/489-crysis-3.json"
+}

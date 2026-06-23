@@ -1,0 +1,25 @@
+{
+  "id": 414,
+  "title_jp": "Smite",
+  "title_en": "Smite",
+  "developer": "Titan Forge Games",
+  "publisher": "Hi-Rez Studios",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "MOBA (third-person)",
+  "sales_jp": "",
+  "sales_world": "Free; 50M+ accounts lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Original SMITE — the long-running 'gods MOBA' that opened the third-person MOBA niche.",
+  "slug": "smite",
+  "file": "data/games/414-smite.json"
+}

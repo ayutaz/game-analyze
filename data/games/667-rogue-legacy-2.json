@@ -1,0 +1,25 @@
+{
+  "id": 667,
+  "title_jp": "Rogue Legacy 2",
+  "title_en": "Rogue Legacy 2",
+  "developer": "Cellar Door Games",
+  "publisher": "Cellar Door Games",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Metroidvania roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Critically acclaimed sequel that refined the heir/class system into a top-tier 2D action roguelite.",
+  "slug": "rogue-legacy-2",
+  "file": "data/games/667-rogue-legacy-2.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 664,
+  "title_jp": "ロボコップ：ローグシティ",
+  "title_en": "RoboCop: Rogue City",
+  "developer": "Teyon",
+  "publisher": "Nacon",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; surprise hit",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Teyon's redemption arc after Terminator Resistance; AA shooter that nailed the IP.",
+  "slug": "robocop-rogue-city",
+  "file": "data/games/664-robocop-rogue-city.json"
+}

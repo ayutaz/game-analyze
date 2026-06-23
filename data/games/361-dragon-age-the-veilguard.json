@@ -1,0 +1,24 @@
+{
+  "id": 361,
+  "title_jp": "ドラゴンエイジ：ザ・ヴェイルガード",
+  "title_en": "Dragon Age: The Veilguard",
+  "developer": "BioWare",
+  "publisher": "Electronic Arts",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Action RPG",
+  "sales_jp": "",
+  "sales_world": "~1.5M players in 2 months (incl. EA Play); ~510K Steam by mid-Nov 2024; missed EA target of 10M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Long-awaited fourth Dragon Age; underperformed commercially but a major 2024 RPG release.",
+  "slug": "dragon-age-the-veilguard",
+  "file": "data/games/361-dragon-age-the-veilguard.json"
+}

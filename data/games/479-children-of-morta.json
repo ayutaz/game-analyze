@@ -1,0 +1,27 @@
+{
+  "id": 479,
+  "title_jp": "Children of Morta",
+  "title_en": "Children of Morta",
+  "developer": "Dead Mage",
+  "publisher": "11 bit studios",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Story-driven action roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Narrative-focused family-of-heroes roguelite that broadened the genre's emotional palette.",
+  "slug": "children-of-morta",
+  "file": "data/games/479-children-of-morta.json"
+}

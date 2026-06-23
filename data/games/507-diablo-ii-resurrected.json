@@ -1,0 +1,25 @@
+{
+  "id": 507,
+  "title_jp": "ディアブロ II リザレクテッド",
+  "title_en": "Diablo II: Resurrected",
+  "developer": "Blizzard Entertainment / Vicarious Visions",
+  "publisher": "Blizzard Entertainment",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4/PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "ARPG / Hack-and-slash (remaster)",
+  "sales_jp": "",
+  "sales_world": "5M+ copies sold (April 2022)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Modern remaster of the genre-defining classic; sold 5M in under 7 months and reignited classic Diablo communities.",
+  "slug": "diablo-ii-resurrected",
+  "file": "data/games/507-diablo-ii-resurrected.json"
+}

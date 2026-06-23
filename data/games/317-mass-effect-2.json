@@ -1,0 +1,24 @@
+{
+  "id": 317,
+  "title_jp": "マスエフェクト 2",
+  "title_en": "Mass Effect 2",
+  "developer": "BioWare",
+  "publisher": "Electronic Arts",
+  "year": 2010,
+  "platform": [
+    "Xbox 360",
+    "PS3",
+    "PC"
+  ],
+  "genre": "Sci-fi action RPG",
+  "sales_jp": "",
+  "sales_world": "5M+ lifetime; multiple GOTY wins",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Often cited as the greatest BioWare game ever; the 'suicide mission' is a landmark in interactive narrative.",
+  "slug": "mass-effect-2",
+  "file": "data/games/317-mass-effect-2.json"
+}

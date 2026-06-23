@@ -1,0 +1,22 @@
+{
+  "id": 431,
+  "title_jp": "アビオティック・ファクター",
+  "title_en": "Abiotic Factor",
+  "developer": "Deep Field Games",
+  "publisher": "Playstack",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Co-op sci-fi research-facility survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M EA; 96% Very Positive",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Half-Life-meets-Lethal-Company indie EA breakout; one of 2024's most positively-reviewed co-op survival games.",
+  "slug": "abiotic-factor",
+  "file": "data/games/431-abiotic-factor.json"
+}

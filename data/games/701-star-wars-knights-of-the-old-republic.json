@@ -1,0 +1,25 @@
+{
+  "id": 701,
+  "title_jp": "スター・ウォーズ ナイツ オブ ザ オールド リパブリック",
+  "title_en": "Star Wars: Knights of the Old Republic",
+  "developer": "BioWare",
+  "publisher": "Disney / LucasArts / Aspyr",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "Switch",
+    "Mobile"
+  ],
+  "genre": "CRPG / Star Wars",
+  "sales_jp": "",
+  "sales_world": "~3M lifetime; Steam owners 500K-1M plus mobile/Switch re-releases",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The most-acclaimed Star Wars RPG ever made; still sells consistently on every Star Wars sale and is the active subject of a much-delayed remake.",
+  "slug": "star-wars-knights-of-the-old-republic",
+  "file": "data/games/701-star-wars-knights-of-the-old-republic.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 637,
+  "title_jp": "ペルソナ4 ザ・ゴールデン",
+  "title_en": "Persona 4 Golden",
+  "developer": "Atlus",
+  "publisher": "Sega",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "JRPG",
+  "sales_jp": "",
+  "sales_world": "1M+ Steam copies by June 2021; 30K peak Steam CCU at launch",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Atlus's first Steam release; its success directly led Sega to commit to PC ports of the wider catalog.",
+  "slug": "persona-4-golden",
+  "file": "data/games/637-persona-4-golden.json"
+}

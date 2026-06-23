@@ -1,0 +1,21 @@
+{
+  "id": 520,
+  "title_jp": "エコ",
+  "title_en": "Eco",
+  "developer": "Strange Loop Games",
+  "publisher": "Strange Loop Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "Online ecosystem / civics survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; ~$7M Steam revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Unique multiplayer where players must build civilization while preventing ecological collapse and an incoming meteor — taught in classrooms.",
+  "slug": "eco",
+  "file": "data/games/520-eco.json"
+}

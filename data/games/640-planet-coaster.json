@@ -1,0 +1,22 @@
+{
+  "id": 640,
+  "title_jp": "プラネット コースター",
+  "title_en": "Planet Coaster",
+  "developer": "Frontier Developments",
+  "publisher": "Frontier Developments",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Theme park management",
+  "sales_jp": "",
+  "sales_world": "2.5M+ units (Jan 2020)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Defined the modern coaster sim; spiritual successor to RollerCoaster Tycoon 3 by ex-Frontier team.",
+  "slug": "planet-coaster",
+  "file": "data/games/640-planet-coaster.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 606,
+  "title_jp": "マスエフェクト 3",
+  "title_en": "Mass Effect 3",
+  "developer": "BioWare",
+  "publisher": "Electronic Arts",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360",
+    "Wii U"
+  ],
+  "genre": "Sci-fi action RPG",
+  "sales_jp": "",
+  "sales_world": "6M+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Trilogy conclusion whose ending controversy drove industry discussion of player agency.",
+  "slug": "mass-effect-3",
+  "file": "data/games/606-mass-effect-3.json"
+}

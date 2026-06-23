@@ -1,0 +1,27 @@
+{
+  "id": 568,
+  "title_jp": "ヒットマン アブソリューション",
+  "title_en": "Hitman: Absolution",
+  "developer": "IO Interactive",
+  "publisher": "Square Enix",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Stealth-action",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 2-5M Steam owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Most divisive but most commercially successful single Hitman entry pre-WoA.",
+  "slug": "hitman-absolution",
+  "file": "data/games/568-hitman-absolution.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 609,
+  "title_jp": "マイクロソフト フライト シミュレーター 2024",
+  "title_en": "Microsoft Flight Simulator 2024",
+  "developer": "Asobo Studio",
+  "publisher": "Xbox Game Studios",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Xbox Series"
+  ],
+  "genre": "Flight simulator",
+  "sales_jp": "",
+  "sales_world": "Rough launch but rebounded; Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Next-gen streaming flight sim with career mode; pushes the genre toward live-service simulation.",
+  "slug": "microsoft-flight-simulator-2024",
+  "file": "data/games/609-microsoft-flight-simulator-2024.json"
+}

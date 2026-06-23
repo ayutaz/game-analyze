@@ -1,0 +1,28 @@
+{
+  "id": 380,
+  "title_jp": "グランド・セフト・オート サンアンドレアス：ザ・トリロジー",
+  "title_en": "Grand Theft Auto: San Andreas - The Definitive Edition",
+  "developer": "Grove Street Games / Rockstar",
+  "publisher": "Rockstar Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Switch",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure (remaster)",
+  "sales_jp": "",
+  "sales_world": "Trilogy sold ~10M units; original SA = best-selling PS2 game (27M+)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Largest of the PS2-era GTA worlds; remastered package brings the gangsta epic to PC officially.",
+  "slug": "grand-theft-auto-san-andreas-the-definitive-edition",
+  "file": "data/games/380-grand-theft-auto-san-andreas-the-definitive-edition.json"
+}

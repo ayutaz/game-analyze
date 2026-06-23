@@ -1,0 +1,24 @@
+{
+  "id": 545,
+  "title_jp": "ギアーズ タクティクス",
+  "title_en": "Gears Tactics",
+  "developer": "Splash Damage / The Coalition",
+  "publisher": "Xbox Game Studios",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Xbox"
+  ],
+  "genre": "Turn-based tactics",
+  "sales_jp": "",
+  "sales_world": "1M+ (Game Pass + Steam)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Brought Gears IP to XCOM-style tactics with three-action turns and executions; high production value.",
+  "slug": "gears-tactics",
+  "file": "data/games/545-gears-tactics.json"
+}

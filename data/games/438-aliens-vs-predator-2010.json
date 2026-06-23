@@ -1,0 +1,25 @@
+{
+  "id": 438,
+  "title_jp": "エイリアン VS. プレデター",
+  "title_en": "Aliens vs. Predator (2010)",
+  "developer": "Rebellion Developments",
+  "publisher": "SEGA",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360"
+  ],
+  "genre": "Asymmetric FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1.7-1.8M (PlayTracker)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "非対称",
+  "popularity": "Best-selling Steam game of 2010 at launch; the canonical modern three-way asymmetric Alien/Predator/Marine shooter still has an active community.",
+  "slug": "aliens-vs-predator-2010",
+  "file": "data/games/438-aliens-vs-predator-2010.json"
+}

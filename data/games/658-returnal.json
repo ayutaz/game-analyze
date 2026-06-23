@@ -1,0 +1,23 @@
+{
+  "id": 658,
+  "title_jp": "Returnal",
+  "title_en": "Returnal",
+  "developer": "Housemarque",
+  "publisher": "Sony Interactive Entertainment",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "Third-person bullet-hell roguelite",
+  "sales_jp": "",
+  "sales_world": "PC ~160K-300K; PS5 1M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sony first-party AAA roguelite — high-budget proof that the genre can scale to blockbusters.",
+  "slug": "returnal",
+  "file": "data/games/658-returnal.json"
+}

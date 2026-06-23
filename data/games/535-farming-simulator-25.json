@@ -1,0 +1,23 @@
+{
+  "id": 535,
+  "title_jp": "ファーミングシミュレーター 25",
+  "title_en": "Farming Simulator 25",
+  "developer": "GIANTS Software",
+  "publisher": "GIANTS Software",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Mac"
+  ],
+  "genre": "Farming simulation",
+  "sales_jp": "",
+  "sales_world": "4M+ copies in first year; 135K Steam concurrent peak",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Most successful Farming Sim launch ever; GIANTS franchise has surpassed 40M lifetime units.",
+  "slug": "farming-simulator-25",
+  "file": "data/games/535-farming-simulator-25.json"
+}

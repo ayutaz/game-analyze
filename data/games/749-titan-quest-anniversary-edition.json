@@ -1,0 +1,24 @@
+{
+  "id": 749,
+  "title_jp": "タイタンクエスト アニバーサリーエディション",
+  "title_en": "Titan Quest Anniversary Edition",
+  "developer": "Iron Lore / THQ Nordic",
+  "publisher": "THQ Nordic",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "consoles",
+    "Mobile"
+  ],
+  "genre": "ARPG (ancient mythology)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Free upgrade re-release of the 2006 cult classic Greek/Egyptian myth ARPG that birthed Grim Dawn's dev team.",
+  "slug": "titan-quest-anniversary-edition",
+  "file": "data/games/749-titan-quest-anniversary-edition.json"
+}

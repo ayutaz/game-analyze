@@ -1,0 +1,21 @@
+{
+  "id": 682,
+  "title_jp": "シヴィライゼーション IV",
+  "title_en": "Sid Meier's Civilization IV",
+  "developer": "Firaxis Games",
+  "publisher": "2K Games",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "4X turn-based strategy",
+  "sales_jp": "",
+  "sales_world": "~3M lifetime; long-tail bestseller via Complete editions",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Considered the design high-water mark of the series; Soren Johnson's design lineage feeds directly into Old World.",
+  "slug": "sid-meiers-civilization-iv",
+  "file": "data/games/682-sid-meiers-civilization-iv.json"
+}

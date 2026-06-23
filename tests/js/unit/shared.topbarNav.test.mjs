@@ -49,9 +49,9 @@ describe('topbarNav', () => {
     }
   });
 
-  test('title_text_says_303', () => {
+  test('title_text_says_803', () => {
     const html = topbarNav('');
-    assert.ok(html.includes('日本のゲーム303本'),
-      `expected "日本のゲーム303本" in header. Got:\n${html}`);
+    assert.ok(html.includes('日本／世界のゲーム803本'),
+      `expected "日本／世界のゲーム803本" in header. Got:\n${html}`);
   });
 });

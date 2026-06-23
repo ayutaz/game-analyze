@@ -1,0 +1,20 @@
+{
+  "id": 773,
+  "title_jp": "アンリアル トーナメント 3",
+  "title_en": "Unreal Tournament 3",
+  "developer": "Epic Games",
+  "publisher": "Midway",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Arena FPS",
+  "sales_jp": "",
+  "sales_world": "~1M lifetime; smaller than UT2004 but the last finished UT",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Final shipped Unreal Tournament entry; bridged arena FPS into Unreal Engine 3 era before franchise hiatus.",
+  "slug": "unreal-tournament-3",
+  "file": "data/games/773-unreal-tournament-3.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 614,
+  "title_jp": "マイタイム アット ポーシャ",
+  "title_en": "My Time at Portia",
+  "developer": "Pathea Games",
+  "publisher": "Team17",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Life sim / crafting RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "3D Stardew-style craft/life sim that broke out as the Chinese indie answer to farming RPGs.",
+  "slug": "my-time-at-portia",
+  "file": "data/games/614-my-time-at-portia.json"
+}

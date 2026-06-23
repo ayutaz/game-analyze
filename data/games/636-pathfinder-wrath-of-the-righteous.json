@@ -1,0 +1,26 @@
+{
+  "id": 636,
+  "title_jp": "パスファインダー ロード オブ ザ リチャス",
+  "title_en": "Pathfinder: Wrath of the Righteous",
+  "developer": "Owlcat Games",
+  "publisher": "Owlcat Games / META Publishing",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS4",
+    "Xbox One",
+    "Switch (cloud)"
+  ],
+  "genre": "Isometric Pathfinder CRPG with Mythic Paths",
+  "sales_jp": "",
+  "sales_world": "1M+ copies; ~$7M first month; ~$29M lifetime Steam gross",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The most mechanically deep modern CRPG; Mythic Paths offer demigod-tier branching unmatched by peers.",
+  "slug": "pathfinder-wrath-of-the-righteous",
+  "file": "data/games/636-pathfinder-wrath-of-the-righteous.json"
+}

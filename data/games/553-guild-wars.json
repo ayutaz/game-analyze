@@ -1,0 +1,22 @@
+{
+  "id": 553,
+  "title_jp": "ギルドウォーズ",
+  "title_en": "Guild Wars",
+  "developer": "ArenaNet",
+  "publisher": "NCSoft",
+  "year": 2005,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Online RPG / instanced CORPG",
+  "sales_jp": "",
+  "sales_world": "6M+ copies sold by 2009; servers still live in 2026 as Guild Wars Reforged",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Pioneered the no-subscription business model and instanced PvP-first MMO design that GW2 inherited.",
+  "slug": "guild-wars",
+  "file": "data/games/553-guild-wars.json"
+}

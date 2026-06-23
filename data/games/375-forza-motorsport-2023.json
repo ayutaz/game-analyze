@@ -1,0 +1,21 @@
+{
+  "id": 375,
+  "title_jp": "Forza Motorsport",
+  "title_en": "Forza Motorsport (2023)",
+  "developer": "Turn 10 Studios",
+  "publisher": "Xbox Game Studios",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Xbox Series"
+  ],
+  "genre": "Circuit racing simulation",
+  "sales_jp": "",
+  "sales_world": "Steam 1-2M owners; ~$6M first-month Steam revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Reboot of Microsoft's flagship track-racing sim, the PC-friendly counterweight to Gran Turismo.",
+  "slug": "forza-motorsport-2023",
+  "file": "data/games/375-forza-motorsport-2023.json"
+}

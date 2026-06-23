@@ -1,0 +1,24 @@
+{
+  "id": 689,
+  "title_jp": "スモールランド サバイブ・ザ・ワイルズ",
+  "title_en": "Smalland: Survive the Wilds",
+  "developer": "Merge Games",
+  "publisher": "Merge Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Tiny-protagonist outdoor survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 200K-500K; 1M+ across platforms",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Grounded-style 'tiny-people in giant nature' co-op survival that hit 1.0 in 2024; growing console+PC hybrid hit.",
+  "slug": "smalland-survive-the-wilds",
+  "file": "data/games/689-smalland-survive-the-wilds.json"
+}

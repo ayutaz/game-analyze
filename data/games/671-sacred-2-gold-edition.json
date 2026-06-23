@@ -1,0 +1,22 @@
+{
+  "id": 671,
+  "title_jp": "セイクリッド 2 ゴールド",
+  "title_en": "Sacred 2: Gold Edition",
+  "developer": "Ascaron Entertainment",
+  "publisher": "Deep Silver / THQ Nordic",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world ARPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Cult Elder-Scrolls-sized open-world ARPG; the kind of janky-but-loved title that still sells in remaster cycles.",
+  "slug": "sacred-2-gold-edition",
+  "file": "data/games/671-sacred-2-gold-edition.json"
+}

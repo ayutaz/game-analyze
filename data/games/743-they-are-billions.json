@@ -1,0 +1,22 @@
+{
+  "id": 743,
+  "title_jp": "They Are Billions",
+  "title_en": "They Are Billions",
+  "developer": "Numantian Games",
+  "publisher": "Numantian Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Real-time strategy / survival colony",
+  "sales_jp": "",
+  "sales_world": "2M+ copies sold (Steam revenue calculator)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Steampunk zombie RTS that demonstrated single-player RTS was still commercially viable in the late 2010s.",
+  "slug": "they-are-billions",
+  "file": "data/games/743-they-are-billions.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 371,
+  "title_jp": "ファークライ5",
+  "title_en": "Far Cry 5",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world FPS / action-adventure",
+  "sales_jp": "",
+  "sales_world": "10M+ units; 30M+ unique players",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Montana-cult sandbox — best-selling Far Cry ever and a Ubisoft revenue anchor.",
+  "slug": "far-cry-5",
+  "file": "data/games/371-far-cry-5.json"
+}

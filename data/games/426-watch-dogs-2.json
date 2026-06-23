@@ -1,0 +1,25 @@
+{
+  "id": 426,
+  "title_jp": "ウォッチドッグス2",
+  "title_en": "Watch Dogs 2",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / hacking",
+  "sales_jp": "",
+  "sales_world": "Part of franchise 20M+ combined; widely given away on Ubisoft Connect",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "San Francisco-set hacker satire widely regarded as the series' creative peak.",
+  "slug": "watch-dogs-2",
+  "file": "data/games/426-watch-dogs-2.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 663,
+  "title_jp": "ロードウォーデン",
+  "title_en": "Roadwarden",
+  "developer": "Moral Anxiety Studio",
+  "publisher": "Assemble Entertainment",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch"
+  ],
+  "genre": "Text-driven narrative RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~100-200K; Overwhelmingly Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Solo-dev text RPG with pixel illustrations; revived interactive-fiction CRPG design.",
+  "slug": "roadwarden",
+  "file": "data/games/663-roadwarden.json"
+}

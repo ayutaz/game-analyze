@@ -1,0 +1,23 @@
+{
+  "id": 559,
+  "title_jp": "ハースストーン",
+  "title_en": "Hearthstone",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Battle.net (PC)",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Digital collectible card game",
+  "sales_jp": "",
+  "sales_world": "MAU ~2.2-3.3M as of 2025-2026; ~190K daily players on PC",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Genre-defining digital CCG that arguably created the modern free-to-play card-game market.",
+  "slug": "hearthstone",
+  "file": "data/games/559-hearthstone.json"
+}

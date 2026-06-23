@@ -1,0 +1,23 @@
+{
+  "id": 712,
+  "title_jp": "牧場物語 オリーブタウンと希望の大地",
+  "title_en": "Story of Seasons: Pioneers of Olive Town",
+  "developer": "Marvelous",
+  "publisher": "XSEED Games / Marvelous Europe",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Farming life sim",
+  "sales_jp": "",
+  "sales_world": "1M+ across platforms",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "First mainline Story of Seasons to come to PC; expanded the franchise's reach.",
+  "slug": "story-of-seasons-pioneers-of-olive-town",
+  "file": "data/games/712-story-of-seasons-pioneers-of-olive-town.json"
+}

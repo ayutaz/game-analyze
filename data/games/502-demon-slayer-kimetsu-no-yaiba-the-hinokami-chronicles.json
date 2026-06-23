@@ -1,0 +1,22 @@
+{
+  "id": 502,
+  "title_jp": "鬼滅の刃 ヒノカミ血風譚",
+  "title_en": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+  "developer": "CyberConnect2",
+  "publisher": "Sega / Aniplex",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "3D arena fighting",
+  "sales_jp": "",
+  "sales_world": "16.5K Steam reviews 87% positive; 3M+ worldwide units",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Major anime-fighter hit that brought Demon Slayer's record-breaking IP to Steam.",
+  "slug": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles",
+  "file": "data/games/502-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json"
+}

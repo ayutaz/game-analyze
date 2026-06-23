@@ -1,0 +1,25 @@
+{
+  "id": 631,
+  "title_jp": "オクセンフリー",
+  "title_en": "Oxenfree",
+  "developer": "Night School Studio",
+  "publisher": "Night School Studio",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Supernatural teen narrative",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M (Netflix acquired studio)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Overlapping-dialogue supernatural teen thriller; Netflix bought Night School in 2021 on its strength.",
+  "slug": "oxenfree",
+  "file": "data/games/631-oxenfree.json"
+}

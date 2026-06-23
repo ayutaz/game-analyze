@@ -1,0 +1,20 @@
+{
+  "id": 459,
+  "title_jp": "バトルフィールド 3",
+  "title_en": "Battlefield 3",
+  "developer": "DICE",
+  "publisher": "EA",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Modern military team FPS",
+  "sales_jp": "",
+  "sales_world": "~17M lifetime, ~5M in opening week",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Frostbite 2 showcase that re-established Battlefield as CoD's direct PC competitor in the modern-military era.",
+  "slug": "battlefield-3",
+  "file": "data/games/459-battlefield-3.json"
+}

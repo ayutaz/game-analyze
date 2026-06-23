@@ -1,0 +1,22 @@
+{
+  "id": 778,
+  "title_jp": "ウォーハンマー40,000：ダークタイド",
+  "title_en": "Warhammer 40,000: Darktide",
+  "developer": "Fatshark",
+  "publisher": "Fatshark",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Co-op PVE FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; rough launch redeemed by 2024 updates",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "First major 40K PVE FPS; visceral melee/gunplay loop the genre lacked.",
+  "slug": "warhammer-40-000-darktide",
+  "file": "data/games/778-warhammer-40-000-darktide.json"
+}

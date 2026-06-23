@@ -1,0 +1,25 @@
+{
+  "id": 661,
+  "title_jp": "Risk of Rain",
+  "title_en": "Risk of Rain",
+  "developer": "Hopoo Games",
+  "publisher": "Chucklefish",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "2D action roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; 4M+ sold",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The 2D original whose item-stacking design defined the Risk of Rain series.",
+  "slug": "risk-of-rain",
+  "file": "data/games/661-risk-of-rain.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 326,
+  "title_jp": "タロス・プリンシプル",
+  "title_en": "The Talos Principle",
+  "developer": "Croteam",
+  "publisher": "Devolver Digital",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "First-person philosophical puzzle",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; 17K reviews 95% positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Portal-like laser/box puzzles wrapped in a serious meditation on AI and consciousness — Croteam's pivot from Serious Sam that defined the genre.",
+  "slug": "the-talos-principle",
+  "file": "data/games/326-the-talos-principle.json"
+}

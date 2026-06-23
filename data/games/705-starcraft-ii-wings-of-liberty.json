@@ -1,0 +1,21 @@
+{
+  "id": 705,
+  "title_jp": "StarCraft II: Wings of Liberty",
+  "title_en": "StarCraft II: Wings of Liberty",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "6M+ units; long-term F2P core campaign since 2017",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Fastest-selling RTS of its era and the genre's last AAA mainstream hit; still the global esports template for 1v1 RTS.",
+  "slug": "starcraft-ii-wings-of-liberty",
+  "file": "data/games/705-starcraft-ii-wings-of-liberty.json"
+}

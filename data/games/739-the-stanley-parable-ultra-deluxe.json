@@ -1,0 +1,23 @@
+{
+  "id": 739,
+  "title_jp": "ザ・スタンリー・パラブル ウルトラデラックス",
+  "title_en": "The Stanley Parable: Ultra Deluxe",
+  "developer": "Crows Crows Crows / Galactic Cafe",
+  "publisher": "Crows Crows Crows",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Meta narrative / first-person",
+  "sales_jp": "",
+  "sales_world": "400K+ on Steam in first month; ~$6M",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Definitive expanded re-release of the metafictional landmark, beloved as a benchmark for narrative game design comedy.",
+  "slug": "the-stanley-parable-ultra-deluxe",
+  "file": "data/games/739-the-stanley-parable-ultra-deluxe.json"
+}

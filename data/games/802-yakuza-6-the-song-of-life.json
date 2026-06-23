@@ -1,0 +1,27 @@
+{
+  "id": 802,
+  "title_jp": "龍が如く6 命の詩。",
+  "title_en": "Yakuza 6: The Song of Life",
+  "developer": "Ryu Ga Gotoku Studio",
+  "publisher": "SEGA",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure / drama",
+  "sales_jp": "",
+  "sales_world": "Original 1M+ shipped; Steam release 2021",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Kiryu's finale chronologically and first Dragon Engine title for the saga's PC fans.",
+  "slug": "yakuza-6-the-song-of-life",
+  "file": "data/games/802-yakuza-6-the-song-of-life.json"
+}

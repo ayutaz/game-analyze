@@ -1,0 +1,23 @@
+{
+  "id": 795,
+  "title_jp": "ワールド オブ ウォークラフト",
+  "title_en": "World of Warcraft",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2004,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "MMORPG (themepark, subscription)",
+  "sales_jp": "",
+  "sales_world": "~7-9M subscribers across retail+Classic as of 2025; lifetime >$10B revenue",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "The genre-defining themepark MMORPG and still the largest paid MMO in the West after 21 years.",
+  "slug": "world-of-warcraft",
+  "file": "data/games/795-world-of-warcraft.json"
+}

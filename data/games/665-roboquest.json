@@ -1,0 +1,23 @@
+{
+  "id": 665,
+  "title_jp": "Roboquest",
+  "title_en": "Roboquest",
+  "developer": "RyseUp Studios",
+  "publisher": "Starbreeze Publishing",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Roguelite FPS (PVE co-op)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Cel-shaded FPS-roguelite that found mainstream success; defined the post-Gunfire-Reborn subgenre.",
+  "slug": "roboquest",
+  "file": "data/games/665-roboquest.json"
+}

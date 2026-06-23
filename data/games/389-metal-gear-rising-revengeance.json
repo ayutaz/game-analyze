@@ -1,0 +1,22 @@
+{
+  "id": 389,
+  "title_jp": "メタルギア ライジング リベンジェンス",
+  "title_en": "Metal Gear Rising: Revengeance",
+  "developer": "PlatinumGames",
+  "publisher": "Konami",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Character action",
+  "sales_jp": "",
+  "sales_world": "Steam 2-5M owners range; cult breakaway hit",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Raiden parry-action spin-off that became a perennial meme/cult favorite on PC.",
+  "slug": "metal-gear-rising-revengeance",
+  "file": "data/games/389-metal-gear-rising-revengeance.json"
+}

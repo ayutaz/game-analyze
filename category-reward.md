@@ -170,3 +170,20 @@
 - **Marvel Snap** = IP×PvPコレクション×短時間の Second Dinner 流カードゲーム。
 - **Coral Island / Sun Haven** = Stardew Valley 系コージーファーミング。収集・恋愛・スローライフ報酬を主動機に置く。
 - **Wildfrost** = ローグライト・デッキ構築だが、収集→ビルド→挑戦サイクルが強く、Slay the Spire 系の中でも REW 寄りに位置づけ。
+
+## 6. PC 拡張（2026-06 追加分の REW 49本）
+
+ultracode + deep-research ワークフロー（22 並列 discover エージェント）で PC エコシステムを補強した 500 本のうち、報酬型 49 本。**ARPG / Hack-and-Slash と MMO** が中心を占める。
+
+### 内訳
+
+- **ARPG / Hack-and-Slash（looter 系）**: Path of Exile 1/2、Last Epoch、Grim Dawn、Torchlight 1/2/3、Titan Quest Anniversary、Wolcen: Lords of Mayhem、Hero Siege、Chronicon、Diablo II: Resurrected、Diablo 3、Marvel Heroes Omega、Sacred 2
+- **MMO / MMORPG（gear grind 中核）**: World of Warcraft Classic Era / Retail Dragonflight / War Within、Lost Ark、Elder Scrolls Online、Black Desert Online、Guild Wars 1/2、Star Wars: The Old Republic、Phantasy Star Online 2 / NGS、Albion Online、New World / Aeternum、Throne and Liberty、Tower of Fantasy、Snowbreak: Containment Zone、Once Human、RuneScape Old School / RS3、Final Fantasy XI (PC), Maple Story
+- **アジア発 PC ガチャ／カード**: Punishing Gray Raven (PC)、Yu-Gi-Oh! Master Duel、MtG Arena、Hearthstone、Legends of Runeterra
+- **報酬主導のローグライト系（borderline）**: 一部 quality score が高かった重厚進行型 (Halls of Torment 系) は EXP+REW(secondary) に分類しているが、本カタログでは「主動機が永続強化の蓄積」と判断したものを REW primary に格納。
+
+### 観察
+
+- PC 拡張で **MMO ジャンルが大きく補強された**：従来 FFXIV のみだった MMO 主分類が、WoW・Lost Ark・ESO・BDO・Throne and Liberty 等で 10 件超に拡大。`social_axis = 協力` が機械的に設定されているが、実際にはレイド／ダンジョン／PvP まで他者軸は多様で、本カタログでは MMO の中核体験を「キャラ／装備の永続報酬獲得」として REW primary に統一している。
+- **PC ARPG / Hack-and-Slash の補強**：Diablo 4（既存）に加え、PoE 1/2、Last Epoch、Grim Dawn、Torchlight 1/2/3 まで網羅。`social_axis = ソロ` 機械分類が多いが、PoE のように長期エンドゲーム特化／取引前提の作品は本来 `協力` 寄りでもある（個別精査は未実施）。
+- **既存収録の REW 系**: モンスト、FGO、ウマ娘、Project Sekai、Genshin/HSR/ZZZ、ブルアカ、Marvel Snap、Pokemon UNITE、Reverse:1999、ブループロトコル など。PC 拡張側は **アジア外発の MMO・ARPG が中心**となり、相補的にカタログを拡充している。

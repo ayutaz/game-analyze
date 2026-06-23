@@ -1,0 +1,25 @@
+{
+  "id": 493,
+  "title_jp": "Cuphead",
+  "title_en": "Cuphead",
+  "developer": "Studio MDHR",
+  "publisher": "Studio MDHR",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Xbox",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "Run-and-gun platformer / boss rush",
+  "sales_jp": "",
+  "sales_world": "8M+ (post-DLC era)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hand-drawn 1930s rubber-hose aesthetic; benchmark for indie boss-rush design.",
+  "slug": "cuphead",
+  "file": "data/games/493-cuphead.json"
+}

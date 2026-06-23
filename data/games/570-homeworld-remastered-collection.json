@@ -1,0 +1,21 @@
+{
+  "id": 570,
+  "title_jp": "Homeworld Remastered Collection",
+  "title_en": "Homeworld Remastered Collection",
+  "developer": "Gearbox Software",
+  "publisher": "Gearbox Software",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "3D space RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M est.",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "HD bundle that kept the original Homeworld 1/2 alive and seeded the eventual Homeworld 3.",
+  "slug": "homeworld-remastered-collection",
+  "file": "data/games/570-homeworld-remastered-collection.json"
+}

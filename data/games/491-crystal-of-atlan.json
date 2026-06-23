@@ -1,0 +1,24 @@
+{
+  "id": 491,
+  "title_jp": "クリスタル オブ アトラン",
+  "title_en": "Crystal of Atlan",
+  "developer": "Nuverse",
+  "publisher": "Skystone / Nuverse",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Mobile"
+  ],
+  "genre": "Magicpunk action MMO (F2P)",
+  "sales_jp": "",
+  "sales_world": "6M+ pre-registrations; cross-platform launch",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "ByteDance/Nuverse's flagship magicpunk MMO; major 2025 Chinese F2P PC launch.",
+  "slug": "crystal-of-atlan",
+  "file": "data/games/491-crystal-of-atlan.json"
+}

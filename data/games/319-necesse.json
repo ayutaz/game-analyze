@@ -1,0 +1,20 @@
+{
+  "id": 319,
+  "title_jp": "ネセス",
+  "title_en": "Necesse",
+  "developer": "Fair Games",
+  "publisher": "Fair Games",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Top-down sandbox survival / colony",
+  "sales_jp": "",
+  "sales_world": "2M+ copies sold by Nov 2025; 'Overwhelmingly Positive'",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Solo-dev Terraria-meets-RimWorld hybrid that exploded after 1.0 release in Oct 2025, partly buoyed by Palworld bundle promotion.",
+  "slug": "necesse",
+  "file": "data/games/319-necesse.json"
+}

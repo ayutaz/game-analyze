@@ -1,0 +1,25 @@
+{
+  "id": 681,
+  "title_jp": "Shovel Knight: King of Cards",
+  "title_en": "Shovel Knight: King of Cards",
+  "developer": "Yacht Club Games",
+  "publisher": "Yacht Club Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS",
+    "Xbox"
+  ],
+  "genre": "Action platformer + card game",
+  "sales_jp": "",
+  "sales_world": "Part of Shovel Knight 3M+ franchise sales",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Final campaign of original Shovel Knight Treasure Trove; bundled Joustus card minigame.",
+  "slug": "shovel-knight-king-of-cards",
+  "file": "data/games/681-shovel-knight-king-of-cards.json"
+}

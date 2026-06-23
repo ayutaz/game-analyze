@@ -1,0 +1,24 @@
+{
+  "id": 341,
+  "title_jp": "アセット・コルサ・コンペティツィオーネ",
+  "title_en": "Assetto Corsa Competizione",
+  "developer": "Kunos Simulazioni",
+  "publisher": "505 Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series",
+    "Xbox One"
+  ],
+  "genre": "GT3 racing simulator",
+  "sales_jp": "",
+  "sales_world": "Steam 1-2M owners; ~46K reviews Very Positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Official GT World Challenge sim — the de facto standard for online GT3 racing leagues on PC.",
+  "slug": "assetto-corsa-competizione",
+  "file": "data/games/341-assetto-corsa-competizione.json"
+}

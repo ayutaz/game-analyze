@@ -1,0 +1,20 @@
+{
+  "id": 396,
+  "title_jp": "マイ サマー カー",
+  "title_en": "My Summer Car",
+  "developer": "Amistech Games",
+  "publisher": "Amistech Games",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Car-building life simulation",
+  "sales_jp": "",
+  "sales_world": "~2.7M owners; ~2.38M units; $29M revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Finnish cult sim where you assemble a car from parts in 1990s rural Finland — a Steam meme-classic that left early access in 2025.",
+  "slug": "my-summer-car",
+  "file": "data/games/396-my-summer-car.json"
+}

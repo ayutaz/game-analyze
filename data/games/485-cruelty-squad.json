@@ -1,0 +1,23 @@
+{
+  "id": 485,
+  "title_jp": "クルーエルティ・スクワッド",
+  "title_en": "Cruelty Squad",
+  "developer": "Consumer Softproducts",
+  "publisher": "Consumer Softproducts",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Immersive sim / FPS / sicko-core",
+  "sales_jp": "",
+  "sales_world": "Steam revenue ~$19.7M gross; well over 500K copies",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cult anti-aesthetic immersive sim; reframed the genre for the post-2020 indie scene.",
+  "slug": "cruelty-squad",
+  "file": "data/games/485-cruelty-squad.json"
+}

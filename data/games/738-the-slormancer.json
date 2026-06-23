@@ -1,0 +1,22 @@
+{
+  "id": 738,
+  "title_jp": "ザ・スローマンサー",
+  "title_en": "The Slormancer",
+  "developer": "Slormite Studios",
+  "publisher": "Slormite Studios",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ARPG (pixel art)",
+  "sales_jp": "",
+  "sales_world": "Very Positive reviews; Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Pixel-art indie ARPG that 1.0-launched in 2025 with stupendous depth (200+ skills/class), a fresh PoE-style theorycrafting cult.",
+  "slug": "the-slormancer",
+  "file": "data/games/738-the-slormancer.json"
+}

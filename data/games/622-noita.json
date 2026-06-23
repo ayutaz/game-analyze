@@ -1,0 +1,22 @@
+{
+  "id": 622,
+  "title_jp": "Noita",
+  "title_en": "Noita",
+  "developer": "Nolla Games",
+  "publisher": "Nolla Games",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Pixel-physics action roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; ~$90M lifetime revenue",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Every pixel is simulated — a singular physics-driven roguelite that became a Twitch favorite.",
+  "slug": "noita",
+  "file": "data/games/622-noita.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 762,
+  "title_jp": "Total War: WARHAMMER III",
+  "title_en": "Total War: Warhammer III",
+  "developer": "Creative Assembly",
+  "publisher": "Sega",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Real-time tactics + turn-based grand campaign",
+  "sales_jp": "",
+  "sales_world": "2.3M+ Steam copies (VGChartz); ~5M Game Pass + Steam combined",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Capstone of the Warhammer trilogy; Immortal Empires combined map is the largest sandbox in Total War history.",
+  "slug": "total-war-warhammer-iii",
+  "file": "data/games/762-total-war-warhammer-iii.json"
+}

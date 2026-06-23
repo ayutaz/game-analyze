@@ -1,0 +1,25 @@
+{
+  "id": 578,
+  "title_jp": "Hyper Light Drifter",
+  "title_en": "Hyper Light Drifter",
+  "developer": "Heart Machine",
+  "publisher": "Heart Machine",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Action-adventure / exploration",
+  "sales_jp": "",
+  "sales_world": "1M+ across platforms (long tail)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Kickstarter cult hit that defined pixel-art Zelda-likes; established Heart Machine.",
+  "slug": "hyper-light-drifter",
+  "file": "data/games/578-hyper-light-drifter.json"
+}

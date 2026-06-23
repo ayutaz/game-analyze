@@ -1,0 +1,24 @@
+{
+  "id": 522,
+  "title_jp": "エレックス",
+  "title_en": "ELEX",
+  "developer": "Piranha Bytes",
+  "publisher": "THQ Nordic",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world sci-fi-fantasy RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Piranha Bytes' post-Risen original IP; jetpack-equipped Eurojank RPG with a loyal following.",
+  "slug": "elex",
+  "file": "data/games/522-elex.json"
+}

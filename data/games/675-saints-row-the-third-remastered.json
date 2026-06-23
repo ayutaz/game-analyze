@@ -1,0 +1,27 @@
+{
+  "id": 675,
+  "title_jp": "セインツロウ ザ・サード リマスタード",
+  "title_en": "Saints Row: The Third Remastered",
+  "developer": "Volition / Sperasoft",
+  "publisher": "Deep Silver",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure / comedy crime",
+  "sales_jp": "",
+  "sales_world": "SR3 lifetime 5.5M+; Remastered well within 1M+ Steam copies",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cult fan-favorite of the absurd GTA alternative; remaster brings the series peak to current PCs.",
+  "slug": "saints-row-the-third-remastered",
+  "file": "data/games/675-saints-row-the-third-remastered.json"
+}

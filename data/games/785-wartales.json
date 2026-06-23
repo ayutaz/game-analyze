@@ -1,0 +1,27 @@
+{
+  "id": 785,
+  "title_jp": "ウォーテイルズ",
+  "title_en": "Wartales",
+  "developer": "Shiro Games",
+  "publisher": "Shiro Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Open-world medieval mercenary RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~1M; Very Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Successor to Battle Brothers' niche with broader appeal; grim medieval mercenary sim.",
+  "slug": "wartales",
+  "file": "data/games/785-wartales.json"
+}

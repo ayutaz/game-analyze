@@ -1,0 +1,26 @@
+{
+  "id": 335,
+  "title_jp": "アラガミ",
+  "title_en": "Aragami",
+  "developer": "Lince Works",
+  "publisher": "Lince Works / Merge Games",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Third-person ninja stealth",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Indie Tenchu-spiritual successor; built a small but devoted shadow-stealth audience.",
+  "slug": "aragami",
+  "file": "data/games/335-aragami.json"
+}

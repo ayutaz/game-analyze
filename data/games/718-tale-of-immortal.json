@@ -1,0 +1,24 @@
+{
+  "id": 718,
+  "title_jp": "鬼谷八荒",
+  "title_en": "Tale of Immortal",
+  "developer": "GuiGu Studio",
+  "publisher": "Lightning Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Switch",
+    "Mobile"
+  ],
+  "genre": "Open-world cultivation sandbox RPG",
+  "sales_jp": "",
+  "sales_world": "1.8M+ Steam copies in first month, peak 184K CCU (global top 3)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Defining mainstream Chinese xianxia sandbox PC hit; proved cultivation genre's global Steam viability.",
+  "slug": "tale-of-immortal",
+  "file": "data/games/718-tale-of-immortal.json"
+}

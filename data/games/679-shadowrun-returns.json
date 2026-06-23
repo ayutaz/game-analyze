@@ -1,0 +1,26 @@
+{
+  "id": 679,
+  "title_jp": "シャドウラン リターンズ",
+  "title_en": "Shadowrun Returns",
+  "developer": "Harebrained Schemes",
+  "publisher": "Harebrained Schemes",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Isometric cyberpunk-fantasy tactical RPG",
+  "sales_jp": "",
+  "sales_world": "Hundreds of thousands; Kickstarter-funded ($1.8M)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Revived the Shadowrun license as a beloved indie CRPG trilogy.",
+  "slug": "shadowrun-returns",
+  "file": "data/games/679-shadowrun-returns.json"
+}

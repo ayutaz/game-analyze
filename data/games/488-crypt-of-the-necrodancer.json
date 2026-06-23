@@ -1,0 +1,26 @@
+{
+  "id": 488,
+  "title_jp": "Crypt of the NecroDancer",
+  "title_en": "Crypt of the NecroDancer",
+  "developer": "Brace Yourself Games",
+  "publisher": "Brace Yourself Games",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "iOS"
+  ],
+  "genre": "Rhythm roguelike",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Genre-fusion classic — rhythm meets roguelike, spawning the Cadence of Hyrule crossover.",
+  "slug": "crypt-of-the-necrodancer",
+  "file": "data/games/488-crypt-of-the-necrodancer.json"
+}

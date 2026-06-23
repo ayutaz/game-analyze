@@ -1,0 +1,24 @@
+{
+  "id": 692,
+  "title_jp": "スペースエンジニア",
+  "title_en": "Space Engineers",
+  "developer": "Keen Software House",
+  "publisher": "Keen Software House",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Xbox Series",
+    "PS5"
+  ],
+  "genre": "Physics-based space sandbox",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; ~5M copies announced by Keen",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Voxel + rigid-body physics sandbox where ship/base engineering is the entire point; long-running Early-Access success.",
+  "slug": "space-engineers",
+  "file": "data/games/692-space-engineers.json"
+}

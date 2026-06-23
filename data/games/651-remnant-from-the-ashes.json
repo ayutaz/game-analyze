@@ -1,0 +1,24 @@
+{
+  "id": 651,
+  "title_jp": "Remnant: From the Ashes",
+  "title_en": "Remnant: From the Ashes",
+  "developer": "Gunfire Games",
+  "publisher": "Perfect World / Gearbox",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Third-person shooter soulslike",
+  "sales_jp": "",
+  "sales_world": "3M+ sold by 2023",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Codified the gun-souls subgenre; co-op procedural runs became the template for Remnant II.",
+  "slug": "remnant-from-the-ashes",
+  "file": "data/games/651-remnant-from-the-ashes.json"
+}

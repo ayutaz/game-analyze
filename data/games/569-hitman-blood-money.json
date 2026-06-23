@@ -1,0 +1,27 @@
+{
+  "id": 569,
+  "title_jp": "ヒットマン ブラッドマネー",
+  "title_en": "Hitman: Blood Money",
+  "developer": "IO Interactive",
+  "publisher": "Eidos Interactive",
+  "year": 2006,
+  "platform": [
+    "PC",
+    "PS2",
+    "PS3",
+    "Xbox",
+    "Xbox 360"
+  ],
+  "genre": "Stealth-action / assassination sandbox",
+  "sales_jp": "",
+  "sales_world": "Series fan-favorite; >2.1M lifetime; recent Reprisal port to mobile/Switch revived interest",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Considered by many the high point of classic Hitman; still sold on Steam two decades later.",
+  "slug": "hitman-blood-money",
+  "file": "data/games/569-hitman-blood-money.json"
+}

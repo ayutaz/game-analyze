@@ -1,0 +1,20 @@
+{
+  "id": 456,
+  "title_jp": "バニッシュド",
+  "title_en": "Banished",
+  "developer": "Shining Rock Software",
+  "publisher": "Shining Rock Software",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Medieval town-building survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; >800k in first year (announced)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Solo-dev medieval village survival that birthed the modern 'hard-mode city-builder' subgenre (Banished -> Frostpunk lineage).",
+  "slug": "banished",
+  "file": "data/games/456-banished.json"
+}

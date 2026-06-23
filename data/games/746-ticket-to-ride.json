@@ -1,0 +1,27 @@
+{
+  "id": 746,
+  "title_jp": "チケット・トゥ・ライド",
+  "title_en": "Ticket to Ride",
+  "developer": "Marmalade Game Studio / Days of Wonder",
+  "publisher": "Twin Sails Interactive / Asmodee",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Board game adaptation",
+  "sales_jp": "",
+  "sales_world": "New 2023 edition replaces 2014 Classic which had 1M+ digital downloads",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Modern relaunch of Days of Wonder's signature route-builder for Steam, with async multi-day matches and full cross-play.",
+  "slug": "ticket-to-ride",
+  "file": "data/games/746-ticket-to-ride.json"
+}

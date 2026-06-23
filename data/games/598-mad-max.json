@@ -1,0 +1,25 @@
+{
+  "id": 598,
+  "title_jp": "マッドマックス",
+  "title_en": "Mad Max",
+  "developer": "Avalanche Studios",
+  "publisher": "Warner Bros. Interactive",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / vehicular",
+  "sales_jp": "",
+  "sales_world": "2-5M Steam owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cult wasteland-cruiser sandbox; bedrock of post-apocalyptic open-world design alongside Fallout.",
+  "slug": "mad-max",
+  "file": "data/games/598-mad-max.json"
+}

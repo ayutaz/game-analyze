@@ -1,0 +1,23 @@
+{
+  "id": 775,
+  "title_jp": "ヴァンパイア",
+  "title_en": "Vampyr",
+  "developer": "DONTNOD Entertainment",
+  "publisher": "Focus Home Interactive",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Action RPG / vampire stealth",
+  "sales_jp": "",
+  "sales_world": "2M+ copies sold worldwide; SteamSpy 1-2M Steam owners",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Choice-driven London vampire RPG; one of Dontnod's biggest commercial successes.",
+  "slug": "vampyr",
+  "file": "data/games/775-vampyr.json"
+}

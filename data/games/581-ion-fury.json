@@ -1,0 +1,22 @@
+{
+  "id": 581,
+  "title_jp": "Ion Fury（アイオン・フューリー）",
+  "title_en": "Ion Fury",
+  "developer": "Voidpoint",
+  "publisher": "3D Realms",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Boomer-shooter (Build engine)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; 93% positive over 4K+ reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "First commercial new Build-engine FPS in two decades; Aftershock expansion (2023) extended its life.",
+  "slug": "ion-fury",
+  "file": "data/games/581-ion-fury.json"
+}

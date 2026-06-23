@@ -1,0 +1,22 @@
+{
+  "id": 575,
+  "title_jp": "ハウス フリッパー2",
+  "title_en": "House Flipper 2",
+  "developer": "Frozen District",
+  "publisher": "Frozen District",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Renovation sim",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+ at launch",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Sequel modernizes engine and design; remains a flagship of the satisfying-chore sim category.",
+  "slug": "house-flipper-2",
+  "file": "data/games/575-house-flipper-2.json"
+}

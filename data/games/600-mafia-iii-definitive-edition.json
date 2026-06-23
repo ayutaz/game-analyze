@@ -1,0 +1,25 @@
+{
+  "id": 600,
+  "title_jp": "マフィアIII：デフィニティブ・エディション",
+  "title_en": "Mafia III: Definitive Edition",
+  "developer": "Hangar 13",
+  "publisher": "2K Games",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / crime",
+  "sales_jp": "",
+  "sales_world": "Mafia III shipped 5M+; controversial reception but durable Steam presence",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1968 New Orleans setting tackled race and revenge in mainstream open-world — culturally notable.",
+  "slug": "mafia-iii-definitive-edition",
+  "file": "data/games/600-mafia-iii-definitive-edition.json"
+}

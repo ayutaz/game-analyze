@@ -1,0 +1,24 @@
+{
+  "id": 628,
+  "title_jp": "Ori and the Will of the Wisps",
+  "title_en": "Ori and the Will of the Wisps",
+  "developer": "Moon Studios",
+  "publisher": "Xbox Game Studios",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "~4M+ standalone, contributes to 15M Ori franchise total",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sequel that broadened the combat system; one of the highest-rated metroidvanias on Metacritic.",
+  "slug": "ori-and-the-will-of-the-wisps",
+  "file": "data/games/628-ori-and-the-will-of-the-wisps.json"
+}

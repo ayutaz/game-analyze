@@ -1,0 +1,25 @@
+{
+  "id": 699,
+  "title_jp": "スター・ウォーズ ジェダイナイト II ジェダイアウトキャスト",
+  "title_en": "Star Wars Jedi Knight II: Jedi Outcast",
+  "developer": "Raven Software",
+  "publisher": "Disney / LucasArts / Aspyr",
+  "year": 2002,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "Action FPS / lightsaber",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; Aspyr Switch/PS4 ports sold 200K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Gold-standard lightsaber combat that the modern Star Wars Jedi: Survivor team still cite as inspiration.",
+  "slug": "star-wars-jedi-knight-ii-jedi-outcast",
+  "file": "data/games/699-star-wars-jedi-knight-ii-jedi-outcast.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 338,
+  "title_jp": "アサシン クリード オリジンズ",
+  "title_en": "Assassin's Creed Origins",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-RPG",
+  "sales_jp": "",
+  "sales_world": "10M+ units lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Reinvented AC as a Witcher-style RPG; Egypt setting set the template for Odyssey/Valhalla.",
+  "slug": "assassins-creed-origins",
+  "file": "data/games/338-assassins-creed-origins.json"
+}

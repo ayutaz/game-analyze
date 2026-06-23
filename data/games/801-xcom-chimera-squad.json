@@ -1,0 +1,23 @@
+{
+  "id": 801,
+  "title_jp": "XCOM: キメラ スカッド",
+  "title_en": "XCOM: Chimera Squad",
+  "developer": "Firaxis Games",
+  "publisher": "2K",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Turn-based tactics",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Interleaved-turn experiment using named agents — divisive but influential remix of XCOM combat.",
+  "slug": "xcom-chimera-squad",
+  "file": "data/games/801-xcom-chimera-squad.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 495,
+  "title_jp": "スーパーダンガンロンパ2 さよなら絶望学園",
+  "title_en": "Danganronpa 2: Goodbye Despair",
+  "developer": "Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "Mystery Visual Novel / Adventure",
+  "sales_jp": "",
+  "sales_world": "500k–1M Steam owners; Very Positive",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Direct sequel widely considered the franchise peak; cornerstone of the Spike Chunsoft Steam mystery catalog.",
+  "slug": "danganronpa-2-goodbye-despair",
+  "file": "data/games/495-danganronpa-2-goodbye-despair.json"
+}

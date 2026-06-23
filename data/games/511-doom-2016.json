@@ -1,0 +1,22 @@
+{
+  "id": 511,
+  "title_jp": "DOOM",
+  "title_en": "Doom (2016)",
+  "developer": "id Software",
+  "publisher": "Bethesda Softworks",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "Multi-million seller; Steam owners 5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Glory-kill driven reboot that re-established id and influenced a decade of fast, melee-mix FPS design.",
+  "slug": "doom-2016",
+  "file": "data/games/511-doom-2016.json"
+}

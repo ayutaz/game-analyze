@@ -1,0 +1,22 @@
+{
+  "id": 482,
+  "title_jp": "Command & Conquer Remastered Collection",
+  "title_en": "Command & Conquer Remastered Collection",
+  "developer": "Petroglyph / Lemon Sky",
+  "publisher": "Electronic Arts",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M est.",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "EA's open-sourced remaster of the original Tiberian Dawn and Red Alert; reignited C&C nostalgia and modding.",
+  "slug": "command-conquer-remastered-collection",
+  "file": "data/games/482-command-conquer-remastered-collection.json"
+}

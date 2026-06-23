@@ -1,0 +1,22 @@
+{
+  "id": 582,
+  "title_jp": "アイアンハーベスト",
+  "title_en": "Iron Harvest",
+  "developer": "KING Art Games",
+  "publisher": "Deep Silver",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M est.",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "1920+ dieselpunk-mech RTS that openly evokes CoH; rare new IP in the squad-RTS niche.",
+  "slug": "iron-harvest",
+  "file": "data/games/582-iron-harvest.json"
+}

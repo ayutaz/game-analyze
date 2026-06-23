@@ -1,0 +1,26 @@
+{
+  "id": 318,
+  "title_jp": "マインダストリー",
+  "title_en": "Mindustry",
+  "developer": "AnukenDev",
+  "publisher": "AnukenDev",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Factory + tower-defense / RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; FOSS + paid Steam version; 95% positive",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Open-source factory/TD hybrid; one of the most positively reviewed games on Steam and a model for FOSS-meets-Steam coexistence.",
+  "slug": "mindustry",
+  "file": "data/games/318-mindustry.json"
+}

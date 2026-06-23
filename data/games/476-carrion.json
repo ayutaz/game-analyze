@@ -1,0 +1,25 @@
+{
+  "id": 476,
+  "title_jp": "Carrion",
+  "title_en": "Carrion",
+  "developer": "Phobia Game Studio",
+  "publisher": "Devolver Digital",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Reverse-horror metroidvania",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500k-1M, Game Pass boost",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Genre-flipping 'you are the monster' design; cult viral hit on Game Pass day one.",
+  "slug": "carrion",
+  "file": "data/games/476-carrion.json"
+}

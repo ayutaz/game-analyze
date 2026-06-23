@@ -1,0 +1,28 @@
+{
+  "id": 521,
+  "title_jp": "百英雄伝",
+  "title_en": "Eiyuden Chronicle: Hundred Heroes",
+  "developer": "Rabbit & Bear Studios",
+  "publisher": "505 Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Suikoden-inspired JRPG (PC-primary release)",
+  "sales_jp": "",
+  "sales_world": "Kickstarter raised $4.5M; multi-platform launch",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Spiritual successor to Suikoden from the original creators; major Kickstarter RPG of the 2020s.",
+  "slug": "eiyuden-chronicle-hundred-heroes",
+  "file": "data/games/521-eiyuden-chronicle-hundred-heroes.json"
+}

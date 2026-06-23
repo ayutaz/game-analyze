@@ -1,0 +1,23 @@
+{
+  "id": 580,
+  "title_jp": "インディ・ジョーンズ／アトランティスの運命",
+  "title_en": "Indiana Jones and the Fate of Atlantis",
+  "developer": "LucasArts",
+  "publisher": "Disney (Steam re-release)",
+  "year": 1992,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Point-and-click adventure",
+  "sales_jp": "",
+  "sales_world": "Original >1M; still selling on Steam/GOG and in LucasArts Adventure Pack",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Considered the best Indiana Jones game until Great Circle; SCUMM-era classic.",
+  "slug": "indiana-jones-and-the-fate-of-atlantis",
+  "file": "data/games/580-indiana-jones-and-the-fate-of-atlantis.json"
+}

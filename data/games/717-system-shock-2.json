@@ -1,0 +1,23 @@
+{
+  "id": 717,
+  "title_jp": "システムショック2",
+  "title_en": "System Shock 2",
+  "developer": "Irrational Games / Looking Glass",
+  "publisher": "Nightdive Studios (re-release)",
+  "year": 1999,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Immersive sim / sci-fi horror RPG",
+  "sales_jp": "",
+  "sales_world": "Lifetime well over 1M; still selling via Nightdive's re-release and Enhanced Edition",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Direct DNA of BioShock and Prey; the canonical SHODAN sequel.",
+  "slug": "system-shock-2",
+  "file": "data/games/717-system-shock-2.json"
+}

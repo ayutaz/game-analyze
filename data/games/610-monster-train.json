@@ -1,0 +1,25 @@
+{
+  "id": 610,
+  "title_jp": "Monster Train",
+  "title_en": "Monster Train",
+  "developer": "Shiny Shoe",
+  "publisher": "Good Shepherd Entertainment",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Roguelike deckbuilder",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Multi-lane vertical deckbuilder; the top alternative to Slay the Spire.",
+  "slug": "monster-train",
+  "file": "data/games/610-monster-train.json"
+}

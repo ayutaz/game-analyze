@@ -1,0 +1,25 @@
+{
+  "id": 687,
+  "title_jp": "スリーピングドッグス 香港秘密警察",
+  "title_en": "Sleeping Dogs: Definitive Edition",
+  "developer": "United Front Games",
+  "publisher": "Square Enix",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / Hong Kong crime",
+  "sales_jp": "",
+  "sales_world": "~3.5-3.6M Steam owners; ~$75M gross Steam revenue",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hong Kong-set GTA alternative with martial arts combat — durable cult hit still in Steam top catalog.",
+  "slug": "sleeping-dogs-definitive-edition",
+  "file": "data/games/687-sleeping-dogs-definitive-edition.json"
+}

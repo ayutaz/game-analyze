@@ -1,0 +1,27 @@
+{
+  "id": 523,
+  "title_jp": "アウトワード",
+  "title_en": "ELEX-style — Outward",
+  "developer": "Nine Dots Studio",
+  "publisher": "Deep Silver",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Open-world survival RPG with split-screen co-op",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Hardcore survival CRPG with no power fantasy; you fail, lose gear, and the world moves on.",
+  "slug": "elex-style-outward",
+  "file": "data/games/523-elex-style-outward.json"
+}

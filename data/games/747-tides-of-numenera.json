@@ -1,0 +1,26 @@
+{
+  "id": 747,
+  "title_jp": "トルメント：タイズ・オブ・ヌメネラ",
+  "title_en": "Tides of Numenera",
+  "developer": "inXile Entertainment",
+  "publisher": "Techland Publishing",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Narrative isometric CRPG (Numenera TTRPG)",
+  "sales_jp": "",
+  "sales_world": "Kickstarter raised $4.2M; Steam owners ~300-500K",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Spiritual successor to Planescape: Torment with text-forward, choice-heavy CRPG design.",
+  "slug": "tides-of-numenera",
+  "file": "data/games/747-tides-of-numenera.json"
+}

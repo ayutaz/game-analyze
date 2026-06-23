@@ -1,0 +1,22 @@
+{
+  "id": 626,
+  "title_jp": "ワンピース 海賊無双4",
+  "title_en": "ONE PIECE: PIRATE WARRIORS 4",
+  "developer": "Omega Force (Koei Tecmo)",
+  "publisher": "Bandai Namco",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Musou action",
+  "sales_jp": "",
+  "sales_world": "Series 4M+ copies, 4.8K Steam reviews 93% positive",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Most successful One Piece Musou; sustained Steam audience for shonen-IP musou design.",
+  "slug": "one-piece-pirate-warriors-4",
+  "file": "data/games/626-one-piece-pirate-warriors-4.json"
+}

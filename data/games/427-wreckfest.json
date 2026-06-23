@@ -1,0 +1,26 @@
+{
+  "id": 427,
+  "title_jp": "レックフェスト",
+  "title_en": "Wreckfest",
+  "developer": "Bugbear Entertainment",
+  "publisher": "THQ Nordic",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series",
+    "Xbox One",
+    "Switch",
+    "Mobile"
+  ],
+  "genre": "Demolition derby racing",
+  "sales_jp": "",
+  "sales_world": "Steam ~913K units; ~$17.8M revenue; 1-2M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Defining modern demolition derby racer; spiritual successor to FlatOut from its original devs.",
+  "slug": "wreckfest",
+  "file": "data/games/427-wreckfest.json"
+}

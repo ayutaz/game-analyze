@@ -1,0 +1,23 @@
+{
+  "id": 740,
+  "title_jp": "イーサン・カーターの失踪",
+  "title_en": "The Vanishing of Ethan Carter",
+  "developer": "The Astronauts",
+  "publisher": "The Astronauts / Nordic Games",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Mystery walking sim",
+  "sales_jp": "",
+  "sales_world": "1M+ copies by Dec 2017",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Photogrammetry-driven detective walker from ex-People Can Fly devs; landmark for visuals + non-linear story.",
+  "slug": "the-vanishing-of-ethan-carter",
+  "file": "data/games/740-the-vanishing-of-ethan-carter.json"
+}

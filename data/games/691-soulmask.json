@@ -1,0 +1,22 @@
+{
+  "id": 691,
+  "title_jp": "ソウルマスク",
+  "title_en": "Soulmask",
+  "developer": "CampFire Studio",
+  "publisher": "Qooland Games",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Tribal open-world survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M EA; 50k concurrent peak",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Chinese-developed Conan-Exiles-style survival breakout of 2024; mask-based tribesman control system was widely discussed.",
+  "slug": "soulmask",
+  "file": "data/games/691-soulmask.json"
+}

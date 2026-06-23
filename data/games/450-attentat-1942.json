@@ -1,0 +1,22 @@
+{
+  "id": 450,
+  "title_jp": "Attentat 1942",
+  "title_en": "Attentat 1942",
+  "developer": "Charles Games",
+  "publisher": "Charles Games",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "consoles"
+  ],
+  "genre": "Historical narrative adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~20K-100K; 92% positive",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Czech-history docu-game on Heydrich assassination — Czech Game of the Year, used as classroom material.",
+  "slug": "attentat-1942",
+  "file": "data/games/450-attentat-1942.json"
+}

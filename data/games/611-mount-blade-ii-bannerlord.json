@@ -1,0 +1,27 @@
+{
+  "id": 611,
+  "title_jp": "マウント・アンド・ブレード II バナーロード",
+  "title_en": "Mount & Blade II: Bannerlord",
+  "developer": "TaleWorlds Entertainment",
+  "publisher": "TaleWorlds Entertainment",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Medieval sandbox combat-RPG (action + grand strategy)",
+  "sales_jp": "",
+  "sales_world": "8M+ copies; one of Steam's all-time best sellers",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sandbox medieval-RPG sequel that spent 8 years in Early Access and emerged a juggernaut.",
+  "slug": "mount-blade-ii-bannerlord",
+  "file": "data/games/611-mount-blade-ii-bannerlord.json"
+}

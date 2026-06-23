@@ -1,0 +1,21 @@
+{
+  "id": 703,
+  "title_jp": "StarCraft II: Heart of the Swarm",
+  "title_en": "StarCraft II: Heart of the Swarm",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "RTS expansion",
+  "sales_jp": "",
+  "sales_world": "1.1M in first two days",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Zerg campaign that locked in SC2 as a multi-expansion franchise and kept the competitive scene alive.",
+  "slug": "starcraft-ii-heart-of-the-swarm",
+  "file": "data/games/703-starcraft-ii-heart-of-the-swarm.json"
+}

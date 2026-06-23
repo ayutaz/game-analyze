@@ -1,0 +1,20 @@
+{
+  "id": 536,
+  "title_jp": "ファーゼスト フロンティア",
+  "title_en": "Farthest Frontier",
+  "developer": "Crate Entertainment",
+  "publisher": "Crate Entertainment",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Medieval town-builder survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; ~500k in first months",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Crate (Grim Dawn) studio's pivot into Banished-likes; brisk launch made it a leading post-Banished town-builder.",
+  "slug": "farthest-frontier",
+  "file": "data/games/536-farthest-frontier.json"
+}

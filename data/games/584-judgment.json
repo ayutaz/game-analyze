@@ -1,0 +1,22 @@
+{
+  "id": 584,
+  "title_jp": "ジャッジ アイズ：死神の遺言",
+  "title_en": "Judgment",
+  "developer": "Ryu Ga Gotoku Studio",
+  "publisher": "Sega",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Action-adventure detective",
+  "sales_jp": "",
+  "sales_world": "~50K Steam copies/~$1M revenue in first month",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Long-awaited PC port; first Judgment game on Steam after years of licensing disputes.",
+  "slug": "judgment",
+  "file": "data/games/584-judgment.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 451,
+  "title_jp": "アバター フロンティア・オブ・パンドラ",
+  "title_en": "Avatar: Frontiers of Pandora",
+  "developer": "Massive Entertainment",
+  "publisher": "Ubisoft",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure / FPS-hybrid",
+  "sales_jp": "",
+  "sales_world": "~1.9M players by Jan 2024; ~$133M revenue; Steam peak 12,496 CCU after Fire and Ash film",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Snowdrop-engine Pandora sandbox; rebounded sharply with the 2025 film tie-in.",
+  "slug": "avatar-frontiers-of-pandora",
+  "file": "data/games/451-avatar-frontiers-of-pandora.json"
+}

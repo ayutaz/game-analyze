@@ -1,0 +1,24 @@
+{
+  "id": 484,
+  "title_jp": "Cossacks 3",
+  "title_en": "Cossacks 3",
+  "developer": "GSC Game World",
+  "publisher": "GSC World Publishing",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M est.",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Mass-scale 18th-century RTS reboot from the STALKER team; benchmark for thousands-of-units RTS combat.",
+  "slug": "cossacks-3",
+  "file": "data/games/484-cossacks-3.json"
+}

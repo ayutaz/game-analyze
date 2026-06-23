@@ -1,0 +1,23 @@
+{
+  "id": 586,
+  "title_jp": "ジュラシック・ワールド・エボリューション2",
+  "title_en": "Jurassic World Evolution 2",
+  "developer": "Frontier Developments",
+  "publisher": "Frontier Developments",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Park management",
+  "sales_jp": "",
+  "sales_world": "5.2M+ units sold; $136M revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Sequel deepens the dinosaur-park formula; nearly matches the original commercially.",
+  "slug": "jurassic-world-evolution-2",
+  "file": "data/games/586-jurassic-world-evolution-2.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 706,
+  "title_jp": "ステーショニアーズ",
+  "title_en": "Stationeers",
+  "developer": "RocketWerkz",
+  "publisher": "RocketWerkz",
+  "year": 2017,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Hardcore space-station simulation",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; 88% positive (5.8k reviews)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Dean Hall (DayZ) studio's punishing atmospheric/electrical/agricultural simulator — the connoisseur's 'true' systems-survival game.",
+  "slug": "stationeers",
+  "file": "data/games/706-stationeers.json"
+}

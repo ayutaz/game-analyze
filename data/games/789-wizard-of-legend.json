@@ -1,0 +1,25 @@
+{
+  "id": 789,
+  "title_jp": "Wizard of Legend",
+  "title_en": "Wizard of Legend",
+  "developer": "Contingent99",
+  "publisher": "Humble Bundle",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Action roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Spell-combo focused fast-paced roguelite with co-op; sequel Wizard of Legend 2 is in development.",
+  "slug": "wizard-of-legend",
+  "file": "data/games/789-wizard-of-legend.json"
+}

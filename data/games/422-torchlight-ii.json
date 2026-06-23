@@ -1,0 +1,24 @@
+{
+  "id": 422,
+  "title_jp": "トーチライト II",
+  "title_en": "Torchlight II",
+  "developer": "Runic Games",
+  "publisher": "Perfect World Entertainment",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "consoles",
+    "Switch"
+  ],
+  "genre": "ARPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Colorful Diablo-style ARPG by ex-Blizzard North devs that filled the void left by Diablo III's launch issues.",
+  "slug": "torchlight-ii",
+  "file": "data/games/422-torchlight-ii.json"
+}

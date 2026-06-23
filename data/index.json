@@ -1,10 +1,10 @@
 {
   "generated_from": "data/games/*.json",
-  "total": 303,
+  "total": 803,
   "primary_breakdown": {
-    "EXP": 183,
-    "REW": 51,
-    "NAR": 69
+    "EXP": 603,
+    "REW": 100,
+    "NAR": 100
   },
   "games": [
     {
@@ -4912,6 +4912,8298 @@
         "Xbox Series X/S"
       ],
       "file": "data/games/303-blue-prince.json"
+    },
+    {
+      "id": 304,
+      "title_jp": "アメリカン トラック シミュレーター",
+      "title_en": "American Truck Simulator",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/304-american-truck-simulator.json"
+    },
+    {
+      "id": 305,
+      "title_jp": "アンチェンバー",
+      "title_en": "Antichamber",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/305-antichamber.json"
+    },
+    {
+      "id": 306,
+      "title_jp": "ブラックメサ",
+      "title_en": "Black Mesa",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/306-black-mesa.json"
+    },
+    {
+      "id": 307,
+      "title_jp": "Tabletop Simulator",
+      "title_en": "Tabletop Simulator",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "VR"
+      ],
+      "file": "data/games/307-tabletop-simulator.json"
+    },
+    {
+      "id": 308,
+      "title_jp": "プレイグ テイル -レクイエム-",
+      "title_en": "A Plague Tale: Requiem",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch Cloud"
+      ],
+      "file": "data/games/308-a-plague-tale-requiem.json"
+    },
+    {
+      "id": 309,
+      "title_jp": "アマング・ザ・スリープ",
+      "title_en": "Among the Sleep — Enhanced Edition",
+      "year": 2014,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/309-among-the-sleep-enhanced-edition.json"
+    },
+    {
+      "id": 310,
+      "title_jp": "Baba Is You",
+      "title_en": "Baba Is You",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/310-baba-is-you.json"
+    },
+    {
+      "id": 311,
+      "title_jp": "バトル・ブラザーズ",
+      "title_en": "Battle Brothers",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/311-battle-brothers.json"
+    },
+    {
+      "id": 312,
+      "title_jp": "カーメカニックシミュレーター2021",
+      "title_en": "Car Mechanic Simulator 2021",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/312-car-mechanic-simulator-2021.json"
+    },
+    {
+      "id": 313,
+      "title_jp": "Coffee Talk Episode 2",
+      "title_en": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+      "year": 2023,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/313-coffee-talk-episode-2-hibiscus-butterfly.json"
+    },
+    {
+      "id": 314,
+      "title_jp": "ダンガンロンパ 希望の学園と絶望の高校生",
+      "title_en": "Danganronpa: Trigger Happy Havoc",
+      "year": 2016,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Mobile"
+      ],
+      "file": "data/games/314-danganronpa-trigger-happy-havoc.json"
+    },
+    {
+      "id": 315,
+      "title_jp": "Into the Breach",
+      "title_en": "Into the Breach",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/315-into-the-breach.json"
+    },
+    {
+      "id": 316,
+      "title_jp": "マーク・オブ・ザ・ニンジャ リマスター",
+      "title_en": "Mark of the Ninja: Remastered",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/316-mark-of-the-ninja-remastered.json"
+    },
+    {
+      "id": 317,
+      "title_jp": "マスエフェクト 2",
+      "title_en": "Mass Effect 2",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Xbox 360",
+        "PS3",
+        "PC"
+      ],
+      "file": "data/games/317-mass-effect-2.json"
+    },
+    {
+      "id": 318,
+      "title_jp": "マインダストリー",
+      "title_en": "Mindustry",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/318-mindustry.json"
+    },
+    {
+      "id": 319,
+      "title_jp": "ネセス",
+      "title_en": "Necesse",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/319-necesse.json"
+    },
+    {
+      "id": 320,
+      "title_jp": "逆転裁判123 成歩堂セレクション",
+      "title_en": "Phoenix Wright: Ace Attorney Trilogy",
+      "year": 2019,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/320-phoenix-wright-ace-attorney-trilogy.json"
+    },
+    {
+      "id": 321,
+      "title_jp": "シェイプス",
+      "title_en": "shapez",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "iOS",
+        "Android",
+        "Switch"
+      ],
+      "file": "data/games/321-shapez.json"
+    },
+    {
+      "id": 322,
+      "title_jp": "ソーマ",
+      "title_en": "SOMA",
+      "year": 2015,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/322-soma.json"
+    },
+    {
+      "id": 323,
+      "title_jp": "スター・ウォーズ ジェダイナイト ジェダイアカデミー",
+      "title_en": "Star Wars Jedi Knight: Jedi Academy",
+      "year": 2003,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4"
+      ],
+      "file": "data/games/323-star-wars-jedi-knight-jedi-academy.json"
+    },
+    {
+      "id": 324,
+      "title_jp": "スター・ウォーズ リパブリック コマンドー",
+      "title_en": "Star Wars: Republic Commando",
+      "year": 2005,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4"
+      ],
+      "file": "data/games/324-star-wars-republic-commando.json"
+    },
+    {
+      "id": 325,
+      "title_jp": "The First Berserker: Khazan",
+      "title_en": "The First Berserker: Khazan",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/325-the-first-berserker-khazan.json"
+    },
+    {
+      "id": 326,
+      "title_jp": "タロス・プリンシプル",
+      "title_en": "The Talos Principle",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/326-the-talos-principle.json"
+    },
+    {
+      "id": 327,
+      "title_jp": "トゥ・ザ・ムーン",
+      "title_en": "To the Moon",
+      "year": 2011,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/327-to-the-moon.json"
+    },
+    {
+      "id": 328,
+      "title_jp": "ULTRAKILL",
+      "title_en": "ULTRAKILL",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/328-ultrakill.json"
+    },
+    {
+      "id": 329,
+      "title_jp": "VA-11 Hall-A",
+      "title_en": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "year": 2016,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Vita"
+      ],
+      "file": "data/games/329-va-11-hall-a-cyberpunk-bartender-action.json"
+    },
+    {
+      "id": 330,
+      "title_jp": "ワイルダーミス",
+      "title_en": "Wildermyth",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/330-wildermyth.json"
+    },
+    {
+      "id": 331,
+      "title_jp": "Age of Empires: Definitive Edition",
+      "title_en": "Age of Empires: Definitive Edition",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/331-age-of-empires-definitive-edition.json"
+    },
+    {
+      "id": 332,
+      "title_jp": "Age of Wonders 4",
+      "title_en": "Age of Wonders 4",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/332-age-of-wonders-4.json"
+    },
+    {
+      "id": 333,
+      "title_jp": "Age of Wonders: Planetfall",
+      "title_en": "Age of Wonders: Planetfall",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/333-age-of-wonders-planetfall.json"
+    },
+    {
+      "id": 334,
+      "title_jp": "青鬼",
+      "title_en": "Ao Oni",
+      "year": 2008,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch"
+      ],
+      "file": "data/games/334-ao-oni.json"
+    },
+    {
+      "id": 335,
+      "title_jp": "アラガミ",
+      "title_en": "Aragami",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/335-aragami.json"
+    },
+    {
+      "id": 336,
+      "title_jp": "アーク サバイバル エボルブド",
+      "title_en": "ARK: Survival Evolved",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/336-ark-survival-evolved.json"
+    },
+    {
+      "id": 337,
+      "title_jp": "アサシン クリード オデッセイ",
+      "title_en": "Assassin's Creed Odyssey",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/337-assassins-creed-odyssey.json"
+    },
+    {
+      "id": 338,
+      "title_jp": "アサシン クリード オリジンズ",
+      "title_en": "Assassin's Creed Origins",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/338-assassins-creed-origins.json"
+    },
+    {
+      "id": 339,
+      "title_jp": "アサシン クリード ヴァルハラ",
+      "title_en": "Assassin's Creed Valhalla",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/339-assassins-creed-valhalla.json"
+    },
+    {
+      "id": 340,
+      "title_jp": "アセット・コルサ",
+      "title_en": "Assetto Corsa",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/340-assetto-corsa.json"
+    },
+    {
+      "id": 341,
+      "title_jp": "アセット・コルサ・コンペティツィオーネ",
+      "title_en": "Assetto Corsa Competizione",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One"
+      ],
+      "file": "data/games/341-assetto-corsa-competizione.json"
+    },
+    {
+      "id": 342,
+      "title_jp": "アトミックハート",
+      "title_en": "Atomic Heart",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/342-atomic-heart.json"
+    },
+    {
+      "id": 343,
+      "title_jp": "バック・フォー・ブラッド",
+      "title_en": "Back 4 Blood",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/343-back-4-blood.json"
+    },
+    {
+      "id": 344,
+      "title_jp": "バトルフィールド 4",
+      "title_en": "Battlefield 4",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/344-battlefield-4.json"
+    },
+    {
+      "id": 345,
+      "title_jp": "バトルフィールド 6",
+      "title_en": "Battlefield 6",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/345-battlefield-6.json"
+    },
+    {
+      "id": 346,
+      "title_jp": "BeamNG.drive",
+      "title_en": "BeamNG.drive",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/346-beamng-drive.json"
+    },
+    {
+      "id": 347,
+      "title_jp": "Boneraiser Minions",
+      "title_en": "Boneraiser Minions",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS",
+        "Xbox"
+      ],
+      "file": "data/games/347-boneraiser-minions.json"
+    },
+    {
+      "id": 348,
+      "title_jp": "コール オブ デューティ ブラックオプス 6",
+      "title_en": "Call of Duty: Black Ops 6",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/348-call-of-duty-black-ops-6.json"
+    },
+    {
+      "id": 349,
+      "title_jp": "コール オブ デューティ ウォーゾーン",
+      "title_en": "Call of Duty: Warzone",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/349-call-of-duty-warzone.json"
+    },
+    {
+      "id": 350,
+      "title_jp": "コードヴェイン",
+      "title_en": "Code Vein",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/350-code-vein.json"
+    },
+    {
+      "id": 351,
+      "title_jp": "Company of Heroes 2",
+      "title_en": "Company of Heroes 2",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/351-company-of-heroes-2.json"
+    },
+    {
+      "id": 352,
+      "title_jp": "コナン エグザイル",
+      "title_en": "Conan Exiles",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/352-conan-exiles.json"
+    },
+    {
+      "id": 353,
+      "title_jp": "DayZ",
+      "title_en": "DayZ",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/353-dayz.json"
+    },
+    {
+      "id": 354,
+      "title_jp": "Dead Cells",
+      "title_en": "Dead Cells",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/354-dead-cells.json"
+    },
+    {
+      "id": 355,
+      "title_jp": "Descenders",
+      "title_en": "Descenders",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/355-descenders.json"
+    },
+    {
+      "id": 356,
+      "title_jp": "デウスエクス マンカインド・ディバイデッド",
+      "title_en": "Deus Ex: Mankind Divided",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/356-deus-ex-mankind-divided.json"
+    },
+    {
+      "id": 357,
+      "title_jp": "ディスオナード2",
+      "title_en": "Dishonored 2",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/357-dishonored-2.json"
+    },
+    {
+      "id": 358,
+      "title_jp": "ディスオナード デス・オブ・ジ・アウトサイダー",
+      "title_en": "Dishonored: Death of the Outsider",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/358-dishonored-death-of-the-outsider.json"
+    },
+    {
+      "id": 359,
+      "title_jp": "DmC デビル メイ クライ",
+      "title_en": "DmC: Devil May Cry Definitive Edition",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3/4",
+        "Xbox 360/One"
+      ],
+      "file": "data/games/359-dmc-devil-may-cry-definitive-edition.json"
+    },
+    {
+      "id": 360,
+      "title_jp": "DOOM Eternal",
+      "title_en": "Doom Eternal",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/360-doom-eternal.json"
+    },
+    {
+      "id": 361,
+      "title_jp": "ドラゴンエイジ：ザ・ヴェイルガード",
+      "title_en": "Dragon Age: The Veilguard",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/361-dragon-age-the-veilguard.json"
+    },
+    {
+      "id": 362,
+      "title_jp": "ドラゴンボール ファイターズ",
+      "title_en": "DRAGON BALL FighterZ",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/362-dragon-ball-fighterz.json"
+    },
+    {
+      "id": 363,
+      "title_jp": "ドラゴンボールZ KAKAROT",
+      "title_en": "DRAGON BALL Z: KAKAROT",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/363-dragon-ball-z-kakarot.json"
+    },
+    {
+      "id": 364,
+      "title_jp": "ダイイングライト",
+      "title_en": "Dying Light",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/364-dying-light.json"
+    },
+    {
+      "id": 365,
+      "title_jp": "eFootball",
+      "title_en": "eFootball",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox",
+        "Mobile"
+      ],
+      "file": "data/games/365-efootball.json"
+    },
+    {
+      "id": 366,
+      "title_jp": "Endless Dungeon / Dungeon of the Endless",
+      "title_en": "Endless Dungeon / Dungeon of the Endless",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Switch",
+        "PS4",
+        "Xbox One",
+        "iOS"
+      ],
+      "file": "data/games/366-endless-dungeon-dungeon-of-the-endless.json"
+    },
+    {
+      "id": 367,
+      "title_jp": "ユーロ トラック シミュレーター 2",
+      "title_en": "Euro Truck Simulator 2",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/367-euro-truck-simulator-2.json"
+    },
+    {
+      "id": 368,
+      "title_jp": "ヨーロッパ・ユニバーサリス IV",
+      "title_en": "Europa Universalis IV",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/368-europa-universalis-iv.json"
+    },
+    {
+      "id": 369,
+      "title_jp": "フォールアウト76",
+      "title_en": "Fallout 76",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/369-fallout-76.json"
+    },
+    {
+      "id": 370,
+      "title_jp": "ファークライ3",
+      "title_en": "Far Cry 3",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/370-far-cry-3.json"
+    },
+    {
+      "id": 371,
+      "title_jp": "ファークライ5",
+      "title_en": "Far Cry 5",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/371-far-cry-5.json"
+    },
+    {
+      "id": 372,
+      "title_jp": "ファイナルファンタジーXV ウィンドウズ エディション",
+      "title_en": "FINAL FANTASY XV WINDOWS EDITION",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/372-final-fantasy-xv-windows-edition.json"
+    },
+    {
+      "id": 373,
+      "title_jp": "フットボールマネージャー2024",
+      "title_en": "Football Manager 2024",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mobile",
+        "Switch"
+      ],
+      "file": "data/games/373-football-manager-2024.json"
+    },
+    {
+      "id": 374,
+      "title_jp": "Forza Horizon 4",
+      "title_en": "Forza Horizon 4",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/374-forza-horizon-4.json"
+    },
+    {
+      "id": 375,
+      "title_jp": "Forza Motorsport",
+      "title_en": "Forza Motorsport (2023)",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox Series"
+      ],
+      "file": "data/games/375-forza-motorsport-2023.json"
+    },
+    {
+      "id": 376,
+      "title_jp": "FTL: Faster Than Light",
+      "title_en": "FTL: Faster Than Light",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "iOS"
+      ],
+      "file": "data/games/376-ftl-faster-than-light.json"
+    },
+    {
+      "id": 377,
+      "title_jp": "ゴート シミュレーター 3",
+      "title_en": "Goat Simulator 3",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/377-goat-simulator-3.json"
+    },
+    {
+      "id": 378,
+      "title_jp": "グランド・セフト・オートIII：ザ・トリロジー",
+      "title_en": "Grand Theft Auto III - The Definitive Edition",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/378-grand-theft-auto-iii-the-definitive-edition.json"
+    },
+    {
+      "id": 379,
+      "title_jp": "グランド・セフト・オート V",
+      "title_en": "Grand Theft Auto V",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS4",
+        "PS5",
+        "Xbox 360",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/379-grand-theft-auto-v.json"
+    },
+    {
+      "id": 380,
+      "title_jp": "グランド・セフト・オート サンアンドレアス：ザ・トリロジー",
+      "title_en": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/380-grand-theft-auto-san-andreas-the-definitive-edition.json"
+    },
+    {
+      "id": 381,
+      "title_jp": "グランド・セフト・オート バイスシティ：ザ・トリロジー",
+      "title_en": "Grand Theft Auto: Vice City - The Definitive Edition",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Switch",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/381-grand-theft-auto-vice-city-the-definitive-edition.json"
+    },
+    {
+      "id": 382,
+      "title_jp": "グリム・ドーン",
+      "title_en": "Grim Dawn",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Xbox"
+      ],
+      "file": "data/games/382-grim-dawn.json"
+    },
+    {
+      "id": 383,
+      "title_jp": "グラウンデッド",
+      "title_en": "Grounded",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox Series",
+        "PS5",
+        "Switch"
+      ],
+      "file": "data/games/383-grounded.json"
+    },
+    {
+      "id": 384,
+      "title_jp": "GTFO",
+      "title_en": "GTFO",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/384-gtfo.json"
+    },
+    {
+      "id": 385,
+      "title_jp": "ハーフライフ2",
+      "title_en": "Half-Life 2",
+      "year": 2004,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/385-half-life-2.json"
+    },
+    {
+      "id": 386,
+      "title_jp": "ハント：ショウダウン 1896",
+      "title_en": "Hunt: Showdown 1896",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/386-hunt-showdown-1896.json"
+    },
+    {
+      "id": 387,
+      "title_jp": "ジャストコーズ3",
+      "title_en": "Just Cause 3",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/387-just-cause-3.json"
+    },
+    {
+      "id": 388,
+      "title_jp": "Lords of the Fallen",
+      "title_en": "Lords of the Fallen (2023)",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/388-lords-of-the-fallen-2023.json"
+    },
+    {
+      "id": 389,
+      "title_jp": "メタルギア ライジング リベンジェンス",
+      "title_en": "Metal Gear Rising: Revengeance",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/389-metal-gear-rising-revengeance.json"
+    },
+    {
+      "id": 390,
+      "title_jp": "メトロ2033 リダックス",
+      "title_en": "Metro 2033 Redux",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/390-metro-2033-redux.json"
+    },
+    {
+      "id": 391,
+      "title_jp": "メトロ エクソダス",
+      "title_en": "Metro Exodus",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/391-metro-exodus.json"
+    },
+    {
+      "id": 392,
+      "title_jp": "メトロ：ラストライト リダックス",
+      "title_en": "Metro: Last Light Redux",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/392-metro-last-light-redux.json"
+    },
+    {
+      "id": 393,
+      "title_jp": "マイクロソフト フライト シミュレーター",
+      "title_en": "Microsoft Flight Simulator (2020)",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox Series"
+      ],
+      "file": "data/games/393-microsoft-flight-simulator-2020.json"
+    },
+    {
+      "id": 394,
+      "title_jp": "Mortal Shell",
+      "title_en": "Mortal Shell",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox"
+      ],
+      "file": "data/games/394-mortal-shell.json"
+    },
+    {
+      "id": 395,
+      "title_jp": "マッドランナー",
+      "title_en": "MudRunner",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/395-mudrunner.json"
+    },
+    {
+      "id": 396,
+      "title_jp": "マイ サマー カー",
+      "title_en": "My Summer Car",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/396-my-summer-car.json"
+    },
+    {
+      "id": 397,
+      "title_jp": "仁王2 Complete Edition",
+      "title_en": "Nioh 2: The Complete Edition",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5"
+      ],
+      "file": "data/games/397-nioh-2-the-complete-edition.json"
+    },
+    {
+      "id": 398,
+      "title_jp": "仁王 Complete Edition",
+      "title_en": "Nioh: Complete Edition",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4"
+      ],
+      "file": "data/games/398-nioh-complete-edition.json"
+    },
+    {
+      "id": 399,
+      "title_jp": "ノーマンズスカイ",
+      "title_en": "No Man's Sky",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch",
+        "Mac",
+        "Quest"
+      ],
+      "file": "data/games/399-no-mans-sky.json"
+    },
+    {
+      "id": 400,
+      "title_jp": "ポリブリッジ 2",
+      "title_en": "Poly Bridge 2",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/400-poly-bridge-2.json"
+    },
+    {
+      "id": 401,
+      "title_jp": "プレイ",
+      "title_en": "Prey (2017)",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/401-prey-2017.json"
+    },
+    {
+      "id": 402,
+      "title_jp": "レディ オア ノット",
+      "title_en": "Ready or Not",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/402-ready-or-not.json"
+    },
+    {
+      "id": 403,
+      "title_jp": "Remnant II",
+      "title_en": "Remnant II",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/403-remnant-ii.json"
+    },
+    {
+      "id": 404,
+      "title_jp": "リムワールド",
+      "title_en": "RimWorld",
+      "year": 2018,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/404-rimworld.json"
+    },
+    {
+      "id": 405,
+      "title_jp": "ローラーコースター・タイクーン3 コンプリート",
+      "title_en": "RollerCoaster Tycoon 3: Complete Edition",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch"
+      ],
+      "file": "data/games/405-rollercoaster-tycoon-3-complete-edition.json"
+    },
+    {
+      "id": 406,
+      "title_jp": "Salt and Sanctuary",
+      "title_en": "Salt and Sanctuary",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/406-salt-and-sanctuary.json"
+    },
+    {
+      "id": 407,
+      "title_jp": "Hellblade II セヌアズ・サーガ",
+      "title_en": "Senua's Saga: Hellblade II",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/407-senuas-saga-hellblade-ii.json"
+    },
+    {
+      "id": 408,
+      "title_jp": "セッション スケート シム",
+      "title_en": "Session: Skate Sim",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One"
+      ],
+      "file": "data/games/408-session-skate-sim.json"
+    },
+    {
+      "id": 409,
+      "title_jp": "シャドウラン ドラゴンフォール",
+      "title_en": "Shadowrun: Dragonfall – Director's Cut",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/409-shadowrun-dragonfall-directors-cut.json"
+    },
+    {
+      "id": 410,
+      "title_jp": "シャドウラン 香港",
+      "title_en": "Shadowrun: Hong Kong",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/410-shadowrun-hong-kong.json"
+    },
+    {
+      "id": 411,
+      "title_jp": "シヴィライゼーション V",
+      "title_en": "Sid Meier's Civilization V",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/411-sid-meiers-civilization-v.json"
+    },
+    {
+      "id": 412,
+      "title_jp": "スケーター XL",
+      "title_en": "Skater XL",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/412-skater-xl.json"
+    },
+    {
+      "id": 413,
+      "title_jp": "Slay the Spire",
+      "title_en": "Slay the Spire",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/413-slay-the-spire.json"
+    },
+    {
+      "id": 414,
+      "title_jp": "Smite",
+      "title_en": "Smite",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/414-smite.json"
+    },
+    {
+      "id": 415,
+      "title_jp": "スノーランナー",
+      "title_en": "SnowRunner",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/415-snowrunner.json"
+    },
+    {
+      "id": 416,
+      "title_jp": "スター・ウォーズ ジェダイ：フォールン・オーダー",
+      "title_en": "Star Wars Jedi: Fallen Order",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/416-star-wars-jedi-fallen-order.json"
+    },
+    {
+      "id": 417,
+      "title_jp": "スティクス シャーズ・オブ・ダークネス",
+      "title_en": "Styx: Shards of Darkness",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/417-styx-shards-of-darkness.json"
+    },
+    {
+      "id": 418,
+      "title_jp": "サブノーティカ",
+      "title_en": "Subnautica",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/418-subnautica.json"
+    },
+    {
+      "id": 419,
+      "title_jp": "チームフォートレス2",
+      "title_en": "Team Fortress 2",
+      "year": 2007,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/419-team-fortress-2.json"
+    },
+    {
+      "id": 420,
+      "title_jp": "The Surge（ザ・サージ）",
+      "title_en": "The Surge",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/420-the-surge.json"
+    },
+    {
+      "id": 421,
+      "title_jp": "ディス・ウォー・オブ・マイン",
+      "title_en": "This War of Mine",
+      "year": 2014,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/421-this-war-of-mine.json"
+    },
+    {
+      "id": 422,
+      "title_jp": "トーチライト II",
+      "title_en": "Torchlight II",
+      "year": 2012,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "consoles",
+        "Switch"
+      ],
+      "file": "data/games/422-torchlight-ii.json"
+    },
+    {
+      "id": 423,
+      "title_jp": "アンターンド",
+      "title_en": "Unturned",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/423-unturned.json"
+    },
+    {
+      "id": 424,
+      "title_jp": "ヴァルヘイム アシュランズ",
+      "title_en": "Valheim: Ashlands",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Xbox Series"
+      ],
+      "file": "data/games/424-valheim-ashlands.json"
+    },
+    {
+      "id": 425,
+      "title_jp": "ウォッチドッグス",
+      "title_en": "Watch Dogs",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS4",
+        "Wii U",
+        "Xbox 360",
+        "Xbox One"
+      ],
+      "file": "data/games/425-watch-dogs.json"
+    },
+    {
+      "id": 426,
+      "title_jp": "ウォッチドッグス2",
+      "title_en": "Watch Dogs 2",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/426-watch-dogs-2.json"
+    },
+    {
+      "id": 427,
+      "title_jp": "レックフェスト",
+      "title_en": "Wreckfest",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One",
+        "Switch",
+        "Mobile"
+      ],
+      "file": "data/games/427-wreckfest.json"
+    },
+    {
+      "id": 428,
+      "title_jp": "XCOM 2",
+      "title_en": "XCOM 2",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/428-xcom-2.json"
+    },
+    {
+      "id": 429,
+      "title_jp": "プレイグ テイル -イノセンス-",
+      "title_en": "A Plague Tale: Innocence",
+      "year": 2019,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch",
+        "Cloud"
+      ],
+      "file": "data/games/429-a-plague-tale-innocence.json"
+    },
+    {
+      "id": 430,
+      "title_jp": "A Total War Saga: Troy",
+      "title_en": "A Total War Saga: Troy",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/430-a-total-war-saga-troy.json"
+    },
+    {
+      "id": 431,
+      "title_jp": "アビオティック・ファクター",
+      "title_en": "Abiotic Factor",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/431-abiotic-factor.json"
+    },
+    {
+      "id": 432,
+      "title_jp": "Age of Empires II: Definitive Edition",
+      "title_en": "Age of Empires II: Definitive Edition",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Xbox"
+      ],
+      "file": "data/games/432-age-of-empires-ii-definitive-edition.json"
+    },
+    {
+      "id": 433,
+      "title_jp": "Age of Empires III: Definitive Edition",
+      "title_en": "Age of Empires III: Definitive Edition",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Xbox"
+      ],
+      "file": "data/games/433-age-of-empires-iii-definitive-edition.json"
+    },
+    {
+      "id": 434,
+      "title_jp": "Age of Empires IV",
+      "title_en": "Age of Empires IV",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Xbox"
+      ],
+      "file": "data/games/434-age-of-empires-iv.json"
+    },
+    {
+      "id": 435,
+      "title_jp": "Age of Wonders III",
+      "title_en": "Age of Wonders III",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/435-age-of-wonders-iii.json"
+    },
+    {
+      "id": 436,
+      "title_jp": "アルビオン・オンライン",
+      "title_en": "Albion Online",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/436-albion-online.json"
+    },
+    {
+      "id": 437,
+      "title_jp": "エイリアン アイソレーション",
+      "title_en": "Alien: Isolation",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS/Android"
+      ],
+      "file": "data/games/437-alien-isolation.json"
+    },
+    {
+      "id": 438,
+      "title_jp": "エイリアン VS. プレデター",
+      "title_en": "Aliens vs. Predator (2010)",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "非対称",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360"
+      ],
+      "file": "data/games/438-aliens-vs-predator-2010.json"
+    },
+    {
+      "id": 439,
+      "title_jp": "エイリアン: ダーク ディセント",
+      "title_en": "Aliens: Dark Descent",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox"
+      ],
+      "file": "data/games/439-aliens-dark-descent.json"
+    },
+    {
+      "id": 440,
+      "title_jp": "了不起的修仙模拟器",
+      "title_en": "Amazing Cultivation Simulator",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/440-amazing-cultivation-simulator.json"
+    },
+    {
+      "id": 441,
+      "title_jp": "アムネジア:ア・マシーン・フォー・ピッグス",
+      "title_en": "Amnesia: A Machine for Pigs",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/441-amnesia-a-machine-for-pigs.json"
+    },
+    {
+      "id": 442,
+      "title_jp": "アムネジア:ザ・ダーク・ディセント",
+      "title_en": "Amnesia: The Dark Descent",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/442-amnesia-the-dark-descent.json"
+    },
+    {
+      "id": 443,
+      "title_jp": "アノ1800",
+      "title_en": "Anno 1800",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/443-anno-1800.json"
+    },
+    {
+      "id": 444,
+      "title_jp": "アノ2070",
+      "title_en": "Anno 2070",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/444-anno-2070.json"
+    },
+    {
+      "id": 445,
+      "title_jp": "アナザーワールド 20周年記念エディション",
+      "title_en": "Another World - 20th Anniversary Edition",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/445-another-world-20th-anniversary-edition.json"
+    },
+    {
+      "id": 446,
+      "title_jp": "アーク・レイダーズ",
+      "title_en": "ARC Raiders",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Xbox Series"
+      ],
+      "file": "data/games/446-arc-raiders.json"
+    },
+    {
+      "id": 447,
+      "title_jp": "アーク サバイバル アセンデッド",
+      "title_en": "ARK: Survival Ascended",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/447-ark-survival-ascended.json"
+    },
+    {
+      "id": 448,
+      "title_jp": "アストロニーア",
+      "title_en": "Astroneer",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/448-astroneer.json"
+    },
+    {
+      "id": 449,
+      "title_jp": "ATOM RPG ポスト・アポカリプティック・インディー・ゲーム",
+      "title_en": "ATOM RPG: Post-Apocalyptic Indie Game",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/449-atom-rpg-post-apocalyptic-indie-game.json"
+    },
+    {
+      "id": 450,
+      "title_jp": "Attentat 1942",
+      "title_en": "Attentat 1942",
+      "year": 2017,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac",
+        "consoles"
+      ],
+      "file": "data/games/450-attentat-1942.json"
+    },
+    {
+      "id": 451,
+      "title_jp": "アバター フロンティア・オブ・パンドラ",
+      "title_en": "Avatar: Frontiers of Pandora",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/451-avatar-frontiers-of-pandora.json"
+    },
+    {
+      "id": 452,
+      "title_jp": "Awesomenauts",
+      "title_en": "Awesomenauts",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/452-awesomenauts.json"
+    },
+    {
+      "id": 453,
+      "title_jp": "Axiom Verge",
+      "title_en": "Axiom Verge",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/453-axiom-verge.json"
+    },
+    {
+      "id": 454,
+      "title_jp": "Bad North: Jotunn Edition",
+      "title_en": "Bad North: Jotunn Edition",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One",
+        "Mobile"
+      ],
+      "file": "data/games/454-bad-north-jotunn-edition.json"
+    },
+    {
+      "id": 455,
+      "title_jp": "バルダーズ・ゲート エンハンスト・エディション",
+      "title_en": "Baldur's Gate: Enhanced Edition",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "iOS",
+        "Android",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/455-baldurs-gate-enhanced-edition.json"
+    },
+    {
+      "id": 456,
+      "title_jp": "バニッシュド",
+      "title_en": "Banished",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/456-banished.json"
+    },
+    {
+      "id": 457,
+      "title_jp": "バトルフィールド 1942",
+      "title_en": "Battlefield 1942",
+      "year": 2002,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/457-battlefield-1942.json"
+    },
+    {
+      "id": 458,
+      "title_jp": "バトルフィールド 2042",
+      "title_en": "Battlefield 2042",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/458-battlefield-2042.json"
+    },
+    {
+      "id": 459,
+      "title_jp": "バトルフィールド 3",
+      "title_en": "Battlefield 3",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/459-battlefield-3.json"
+    },
+    {
+      "id": 460,
+      "title_jp": "バトルフィールド V",
+      "title_en": "Battlefield V",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/460-battlefield-v.json"
+    },
+    {
+      "id": 461,
+      "title_jp": "バトルテック",
+      "title_en": "BattleTech",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/461-battletech.json"
+    },
+    {
+      "id": 462,
+      "title_jp": "ベヨネッタ",
+      "title_en": "Bayonetta",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox 360/One origin"
+      ],
+      "file": "data/games/462-bayonetta.json"
+    },
+    {
+      "id": 463,
+      "title_jp": "ベンディ・アンド・ジ・インク・マシーン",
+      "title_en": "Bendy and the Ink Machine",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/463-bendy-and-the-ink-machine.json"
+    },
+    {
+      "id": 464,
+      "title_jp": "バイオショック",
+      "title_en": "BioShock",
+      "year": 2007,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/464-bioshock.json"
+    },
+    {
+      "id": 465,
+      "title_jp": "黒い砂漠",
+      "title_en": "Black Desert",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/465-black-desert.json"
+    },
+    {
+      "id": 466,
+      "title_jp": "Blasphemous",
+      "title_en": "Blasphemous",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/466-blasphemous.json"
+    },
+    {
+      "id": 467,
+      "title_jp": "Blasphemous 2",
+      "title_en": "Blasphemous 2",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/467-blasphemous-2.json"
+    },
+    {
+      "id": 468,
+      "title_jp": "Bloodstained: Ritual of the Night",
+      "title_en": "Bloodstained: Ritual of the Night",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/468-bloodstained-ritual-of-the-night.json"
+    },
+    {
+      "id": 469,
+      "title_jp": "Warhammer 40,000: Boltgun",
+      "title_en": "Boltgun",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/469-boltgun.json"
+    },
+    {
+      "id": 470,
+      "title_jp": "ブック・オブ・デーモンズ",
+      "title_en": "Book of Demons",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "consoles"
+      ],
+      "file": "data/games/470-book-of-demons.json"
+    },
+    {
+      "id": 471,
+      "title_jp": "ブライトメモリー：インフィニット",
+      "title_en": "Bright Memory: Infinite",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/471-bright-memory-infinite.json"
+    },
+    {
+      "id": 472,
+      "title_jp": "ブロークン・ソード 聖堂騎士団の影 リフォージド",
+      "title_en": "Broken Sword: Shadow of the Templars - Reforged",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/472-broken-sword-shadow-of-the-templars-reforged.json"
+    },
+    {
+      "id": 473,
+      "title_jp": "ブラザーズ：2人の息子の物語",
+      "title_en": "Brothers: A Tale of Two Sons",
+      "year": 2013,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS3/4",
+        "Xbox 360/One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/473-brothers-a-tale-of-two-sons.json"
+    },
+    {
+      "id": 474,
+      "title_jp": "ケイデンス・オブ・ハイラル クリプト・オブ・ネクロダンサー feat. ゼルダの伝説",
+      "title_en": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch (primary)"
+      ],
+      "file": "data/games/474-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-leg.json"
+    },
+    {
+      "id": 475,
+      "title_jp": "シーザー3",
+      "title_en": "Caesar 3",
+      "year": 1998,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/475-caesar-3.json"
+    },
+    {
+      "id": 476,
+      "title_jp": "Carrion",
+      "title_en": "Carrion",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/476-carrion.json"
+    },
+    {
+      "id": 477,
+      "title_jp": "悪魔城ドラキュラX 月下の夜想曲",
+      "title_en": "Castlevania: Symphony of the Night (Modern PC re-release)",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/477-castlevania-symphony-of-the-night-modern-pc-re-release.json"
+    },
+    {
+      "id": 478,
+      "title_jp": "Celeste",
+      "title_en": "Celeste",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/478-celeste.json"
+    },
+    {
+      "id": 479,
+      "title_jp": "Children of Morta",
+      "title_en": "Children of Morta",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/479-children-of-morta.json"
+    },
+    {
+      "id": 480,
+      "title_jp": "クロニコン",
+      "title_en": "Chronicon",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/480-chronicon.json"
+    },
+    {
+      "id": 481,
+      "title_jp": "シティーズ:スカイラインII",
+      "title_en": "Cities: Skylines II",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/481-cities-skylines-ii.json"
+    },
+    {
+      "id": 482,
+      "title_jp": "Command & Conquer Remastered Collection",
+      "title_en": "Command & Conquer Remastered Collection",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/482-command-conquer-remastered-collection.json"
+    },
+    {
+      "id": 483,
+      "title_jp": "コアキーパー（拡張アップデート）",
+      "title_en": "Core Keeper: Sunken Sea / Cherished Memory updates",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/483-core-keeper-sunken-sea-cherished-memory-updates.json"
+    },
+    {
+      "id": 484,
+      "title_jp": "Cossacks 3",
+      "title_en": "Cossacks 3",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/484-cossacks-3.json"
+    },
+    {
+      "id": 485,
+      "title_jp": "クルーエルティ・スクワッド",
+      "title_en": "Cruelty Squad",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/485-cruelty-squad.json"
+    },
+    {
+      "id": 486,
+      "title_jp": "クルセイダーキングス II",
+      "title_en": "Crusader Kings II",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/486-crusader-kings-ii.json"
+    },
+    {
+      "id": 487,
+      "title_jp": "クルセイダーキングス III",
+      "title_en": "Crusader Kings III",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/487-crusader-kings-iii.json"
+    },
+    {
+      "id": 488,
+      "title_jp": "Crypt of the NecroDancer",
+      "title_en": "Crypt of the NecroDancer",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One",
+        "iOS"
+      ],
+      "file": "data/games/488-crypt-of-the-necrodancer.json"
+    },
+    {
+      "id": 489,
+      "title_jp": "クライシス3",
+      "title_en": "Crysis 3",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/489-crysis-3.json"
+    },
+    {
+      "id": 490,
+      "title_jp": "クライシス リマスター",
+      "title_en": "Crysis Remastered",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/490-crysis-remastered.json"
+    },
+    {
+      "id": 491,
+      "title_jp": "クリスタル オブ アトラン",
+      "title_en": "Crystal of Atlan",
+      "year": 2025,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Mobile"
+      ],
+      "file": "data/games/491-crystal-of-atlan.json"
+    },
+    {
+      "id": 492,
+      "title_jp": "Crystal Project",
+      "title_en": "Crystal Project",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/492-crystal-project.json"
+    },
+    {
+      "id": 493,
+      "title_jp": "Cuphead",
+      "title_en": "Cuphead",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox",
+        "PS4",
+        "Switch"
+      ],
+      "file": "data/games/493-cuphead.json"
+    },
+    {
+      "id": 494,
+      "title_jp": "Curse of the Dead Gods",
+      "title_en": "Curse of the Dead Gods",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One"
+      ],
+      "file": "data/games/494-curse-of-the-dead-gods.json"
+    },
+    {
+      "id": 495,
+      "title_jp": "スーパーダンガンロンパ2 さよなら絶望学園",
+      "title_en": "Danganronpa 2: Goodbye Despair",
+      "year": 2016,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4"
+      ],
+      "file": "data/games/495-danganronpa-2-goodbye-despair.json"
+    },
+    {
+      "id": 496,
+      "title_jp": "絶対絶望少女 ダンガンロンパ Another Episode",
+      "title_en": "Danganronpa Another Episode: Ultra Despair Girls",
+      "year": 2017,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4"
+      ],
+      "file": "data/games/496-danganronpa-another-episode-ultra-despair-girls.json"
+    },
+    {
+      "id": 497,
+      "title_jp": "ダーケスト ダンジョン 2",
+      "title_en": "Darkest Dungeon II",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/497-darkest-dungeon-ii.json"
+    },
+    {
+      "id": 498,
+      "title_jp": "Dawn of War III",
+      "title_en": "Dawn of War III",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/498-dawn-of-war-iii.json"
+    },
+    {
+      "id": 499,
+      "title_jp": "デイズ・ゴーン",
+      "title_en": "Days Gone",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5"
+      ],
+      "file": "data/games/499-days-gone.json"
+    },
+    {
+      "id": 500,
+      "title_jp": "Death Must Die",
+      "title_en": "Death Must Die",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/500-death-must-die.json"
+    },
+    {
+      "id": 501,
+      "title_jp": "ディープロックギャラクティック",
+      "title_en": "Deep Rock Galactic",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/501-deep-rock-galactic.json"
+    },
+    {
+      "id": 502,
+      "title_jp": "鬼滅の刃 ヒノカミ血風譚",
+      "title_en": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/502-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json"
+    },
+    {
+      "id": 503,
+      "title_jp": "デウスエクス",
+      "title_en": "Deus Ex: Game of the Year Edition",
+      "year": 2000,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/503-deus-ex-game-of-the-year-edition.json"
+    },
+    {
+      "id": 504,
+      "title_jp": "デウスエクス ヒューマン レボリューション ディレクターズカット",
+      "title_en": "Deus Ex: Human Revolution - Director's Cut",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "Wii U",
+        "Mac"
+      ],
+      "file": "data/games/504-deus-ex-human-revolution-directors-cut.json"
+    },
+    {
+      "id": 505,
+      "title_jp": "ディアブロ",
+      "title_en": "Diablo (1996, GOG)",
+      "year": 1996,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/505-diablo-1996-gog.json"
+    },
+    {
+      "id": 506,
+      "title_jp": "ディアブロ II",
+      "title_en": "Diablo II (original)",
+      "year": 2000,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/506-diablo-ii-original.json"
+    },
+    {
+      "id": 507,
+      "title_jp": "ディアブロ II リザレクテッド",
+      "title_en": "Diablo II: Resurrected",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4/PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/507-diablo-ii-resurrected.json"
+    },
+    {
+      "id": 508,
+      "title_jp": "ディスオナード",
+      "title_en": "Dishonored",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360"
+      ],
+      "file": "data/games/508-dishonored.json"
+    },
+    {
+      "id": 509,
+      "title_jp": "ディヴィニティ：オリジナル・シン エンハンスト・エディション",
+      "title_en": "Divinity: Original Sin Enhanced Edition",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/509-divinity-original-sin-enhanced-edition.json"
+    },
+    {
+      "id": 510,
+      "title_jp": "ディヴィニティ：オリジナル・シン II ディフィニティブ・エディション",
+      "title_en": "Divinity: Original Sin II – Definitive Edition",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS"
+      ],
+      "file": "data/games/510-divinity-original-sin-ii-definitive-edition.json"
+    },
+    {
+      "id": 511,
+      "title_jp": "DOOM",
+      "title_en": "Doom (2016)",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/511-doom-2016.json"
+    },
+    {
+      "id": 512,
+      "title_jp": "DOOM + DOOM II",
+      "title_en": "DOOM + DOOM II (2024 Nightdive Kex Edition)",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/512-doom-doom-ii-2024-nightdive-kex-edition.json"
+    },
+    {
+      "id": 513,
+      "title_jp": "DOOM: The Dark Ages",
+      "title_en": "Doom: The Dark Ages",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/513-doom-the-dark-ages.json"
+    },
+    {
+      "id": 514,
+      "title_jp": "Dota 2",
+      "title_en": "Dota 2",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/514-dota-2.json"
+    },
+    {
+      "id": 515,
+      "title_jp": "ドラゴンエイジ II",
+      "title_en": "Dragon Age II",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS3",
+        "Xbox 360"
+      ],
+      "file": "data/games/515-dragon-age-ii.json"
+    },
+    {
+      "id": 516,
+      "title_jp": "ドラゴンエイジ：オリジンズ",
+      "title_en": "Dragon Age: Origins",
+      "year": 2009,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS3",
+        "Xbox 360"
+      ],
+      "file": "data/games/516-dragon-age-origins.json"
+    },
+    {
+      "id": 517,
+      "title_jp": "Dusk",
+      "title_en": "Dusk",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/517-dusk.json"
+    },
+    {
+      "id": 518,
+      "title_jp": "ダイイングライト2 ステイ ヒューマン",
+      "title_en": "Dying Light 2 Stay Human",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Switch (cloud)",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/518-dying-light-2-stay-human.json"
+    },
+    {
+      "id": 519,
+      "title_jp": "ダイイングライト：ザ・ビースト",
+      "title_en": "Dying Light: The Beast",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/519-dying-light-the-beast.json"
+    },
+    {
+      "id": 520,
+      "title_jp": "エコ",
+      "title_en": "Eco",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/520-eco.json"
+    },
+    {
+      "id": 521,
+      "title_jp": "百英雄伝",
+      "title_en": "Eiyuden Chronicle: Hundred Heroes",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/521-eiyuden-chronicle-hundred-heroes.json"
+    },
+    {
+      "id": 522,
+      "title_jp": "エレックス",
+      "title_en": "ELEX",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/522-elex.json"
+    },
+    {
+      "id": 523,
+      "title_jp": "アウトワード",
+      "title_en": "ELEX-style — Outward",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/523-elex-style-outward.json"
+    },
+    {
+      "id": 524,
+      "title_jp": "Empire Earth Gold Edition",
+      "title_en": "Empire Earth Gold Edition",
+      "year": 2001,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/524-empire-earth-gold-edition.json"
+    },
+    {
+      "id": 525,
+      "title_jp": "エンピリオン ギャラクティック サバイバル",
+      "title_en": "Empyrion - Galactic Survival",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/525-empyrion-galactic-survival.json"
+    },
+    {
+      "id": 526,
+      "title_jp": "Endless Legend",
+      "title_en": "Endless Legend",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/526-endless-legend.json"
+    },
+    {
+      "id": 527,
+      "title_jp": "Endless Space 2",
+      "title_en": "Endless Space 2",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/527-endless-space-2.json"
+    },
+    {
+      "id": 528,
+      "title_jp": "Enter the Gungeon",
+      "title_en": "Enter the Gungeon",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One"
+      ],
+      "file": "data/games/528-enter-the-gungeon.json"
+    },
+    {
+      "id": 529,
+      "title_jp": "エスケープ フロム タルコフ",
+      "title_en": "Escape from Tarkov",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/529-escape-from-tarkov.json"
+    },
+    {
+      "id": 530,
+      "title_jp": "F.E.A.R. ファースト・エンカウンター・アサルト・リコン",
+      "title_en": "F.E.A.R.",
+      "year": 2005,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/530-f-e-a-r.json"
+    },
+    {
+      "id": 531,
+      "title_jp": "鋼鉄の追憶 シャドウ・トーチ",
+      "title_en": "F.I.S.T.: Forged in Shadow Torch",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/531-f-i-s-t-forged-in-shadow-torch.json"
+    },
+    {
+      "id": 532,
+      "title_jp": "ファクトリオ",
+      "title_en": "Factorio",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "Switch"
+      ],
+      "file": "data/games/532-factorio.json"
+    },
+    {
+      "id": 533,
+      "title_jp": "ファークライ4",
+      "title_en": "Far Cry 4",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/533-far-cry-4.json"
+    },
+    {
+      "id": 534,
+      "title_jp": "ファーミングシミュレーター22",
+      "title_en": "Farming Simulator 22",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/534-farming-simulator-22.json"
+    },
+    {
+      "id": 535,
+      "title_jp": "ファーミングシミュレーター 25",
+      "title_en": "Farming Simulator 25",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Mac"
+      ],
+      "file": "data/games/535-farming-simulator-25.json"
+    },
+    {
+      "id": 536,
+      "title_jp": "ファーゼスト フロンティア",
+      "title_en": "Farthest Frontier",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/536-farthest-frontier.json"
+    },
+    {
+      "id": 537,
+      "title_jp": "ファイアウォッチ",
+      "title_en": "Firewatch",
+      "year": 2016,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/537-firewatch.json"
+    },
+    {
+      "id": 538,
+      "title_jp": "フォーレジャー",
+      "title_en": "Forager",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "Mobile"
+      ],
+      "file": "data/games/538-forager.json"
+    },
+    {
+      "id": 539,
+      "title_jp": "ファウンデーション",
+      "title_en": "Foundation",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/539-foundation.json"
+    },
+    {
+      "id": 540,
+      "title_jp": "フロストパンク",
+      "title_en": "Frostpunk",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/540-frostpunk.json"
+    },
+    {
+      "id": 541,
+      "title_jp": "フル・スロットル リマスター",
+      "title_en": "Full Throttle Remastered",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS Vita",
+        "iOS",
+        "Switch",
+        "Xbox One"
+      ],
+      "file": "data/games/541-full-throttle-remastered.json"
+    },
+    {
+      "id": 542,
+      "title_jp": "ギャラクティック シヴィライゼーション III",
+      "title_en": "Galactic Civilizations III",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/542-galactic-civilizations-iii.json"
+    },
+    {
+      "id": 543,
+      "title_jp": "ゲームデヴ タイクーン",
+      "title_en": "Game Dev Tycoon",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/543-game-dev-tycoon.json"
+    },
+    {
+      "id": 544,
+      "title_jp": "ゲーム・オブ・スローンズ：テルテイル",
+      "title_en": "Game of Thrones: A Telltale Games Series",
+      "year": 2014,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "iOS"
+      ],
+      "file": "data/games/544-game-of-thrones-a-telltale-games-series.json"
+    },
+    {
+      "id": 545,
+      "title_jp": "ギアーズ タクティクス",
+      "title_en": "Gears Tactics",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox"
+      ],
+      "file": "data/games/545-gears-tactics.json"
+    },
+    {
+      "id": 546,
+      "title_jp": "グルームウッド",
+      "title_en": "Gloomwood",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/546-gloomwood.json"
+    },
+    {
+      "id": 547,
+      "title_jp": "ゴーン・ホーム",
+      "title_en": "Gone Home",
+      "year": 2013,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/547-gone-home.json"
+    },
+    {
+      "id": 548,
+      "title_jp": "ゴシック",
+      "title_en": "Gothic",
+      "year": 2001,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/548-gothic.json"
+    },
+    {
+      "id": 549,
+      "title_jp": "グランド・セフト・オート オンライン",
+      "title_en": "Grand Theft Auto Online",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/549-grand-theft-auto-online.json"
+    },
+    {
+      "id": 550,
+      "title_jp": "グレイゾーン・ウォーフェア",
+      "title_en": "Gray Zone Warfare",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/550-gray-zone-warfare.json"
+    },
+    {
+      "id": 551,
+      "title_jp": "グリードフォール",
+      "title_en": "Greedfall",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/551-greedfall.json"
+    },
+    {
+      "id": 552,
+      "title_jp": "グリーンヘル",
+      "title_en": "Green Hell",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch",
+        "Quest"
+      ],
+      "file": "data/games/552-green-hell.json"
+    },
+    {
+      "id": 553,
+      "title_jp": "ギルドウォーズ",
+      "title_en": "Guild Wars",
+      "year": 2005,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/553-guild-wars.json"
+    },
+    {
+      "id": 554,
+      "title_jp": "Gunfire Reborn",
+      "title_en": "Gunfire Reborn",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS",
+        "Switch",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/554-gunfire-reborn.json"
+    },
+    {
+      "id": 555,
+      "title_jp": "ハーフライフ",
+      "title_en": "Half-Life",
+      "year": 1998,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/555-half-life.json"
+    },
+    {
+      "id": 556,
+      "title_jp": "ハーフライフ2: エピソード2",
+      "title_en": "Half-Life 2: Episode Two",
+      "year": 2007,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/556-half-life-2-episode-two.json"
+    },
+    {
+      "id": 557,
+      "title_jp": "ハーフライフ：アリックス",
+      "title_en": "Half-Life: Alyx",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/557-half-life-alyx.json"
+    },
+    {
+      "id": 558,
+      "title_jp": "ハードスペース: シップブレイカー",
+      "title_en": "Hardspace: Shipbreaker",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/558-hardspace-shipbreaker.json"
+    },
+    {
+      "id": 559,
+      "title_jp": "ハースストーン",
+      "title_en": "Hearthstone",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Battle.net (PC)",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/559-hearthstone.json"
+    },
+    {
+      "id": 560,
+      "title_jp": "ハーツ オブ アイアン IV",
+      "title_en": "Hearts of Iron IV",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/560-hearts-of-iron-iv.json"
+    },
+    {
+      "id": 561,
+      "title_jp": "ヘビーレイン 心の軋むとき",
+      "title_en": "Heavy Rain",
+      "year": 2019,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS3/4"
+      ],
+      "file": "data/games/561-heavy-rain.json"
+    },
+    {
+      "id": 562,
+      "title_jp": "ヘル レット ルース",
+      "title_en": "Hell Let Loose",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/562-hell-let-loose.json"
+    },
+    {
+      "id": 563,
+      "title_jp": "ヘルブレイド センアの犠牲",
+      "title_en": "Hellblade: Senua's Sacrifice",
+      "year": 2017,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/563-hellblade-senuas-sacrifice.json"
+    },
+    {
+      "id": 564,
+      "title_jp": "ヒーローシージ",
+      "title_en": "Hero Siege",
+      "year": 2014,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "consoles",
+        "Mobile"
+      ],
+      "file": "data/games/564-hero-siege.json"
+    },
+    {
+      "id": 565,
+      "title_jp": "百年江湖梦",
+      "title_en": "Hero's Adventure: Road to Passion",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/565-heros-adventure-road-to-passion.json"
+    },
+    {
+      "id": 566,
+      "title_jp": "ヒーローズ オブ マイト アンド マジック III HDエディション",
+      "title_en": "Heroes of Might & Magic III: HD Edition",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/566-heroes-of-might-magic-iii-hd-edition.json"
+    },
+    {
+      "id": 567,
+      "title_jp": "Heroes of the Storm",
+      "title_en": "Heroes of the Storm",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/567-heroes-of-the-storm.json"
+    },
+    {
+      "id": 568,
+      "title_jp": "ヒットマン アブソリューション",
+      "title_en": "Hitman: Absolution",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/568-hitman-absolution.json"
+    },
+    {
+      "id": 569,
+      "title_jp": "ヒットマン ブラッドマネー",
+      "title_en": "Hitman: Blood Money",
+      "year": 2006,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS2",
+        "PS3",
+        "Xbox",
+        "Xbox 360"
+      ],
+      "file": "data/games/569-hitman-blood-money.json"
+    },
+    {
+      "id": 570,
+      "title_jp": "Homeworld Remastered Collection",
+      "title_en": "Homeworld Remastered Collection",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/570-homeworld-remastered-collection.json"
+    },
+    {
+      "id": 571,
+      "title_jp": "Homeworld: Deserts of Kharak",
+      "title_en": "Homeworld: Deserts of Kharak",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/571-homeworld-deserts-of-kharak.json"
+    },
+    {
+      "id": 572,
+      "title_jp": "Horizon Forbidden West Complete Edition",
+      "title_en": "Horizon Forbidden West Complete Edition",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5"
+      ],
+      "file": "data/games/572-horizon-forbidden-west-complete-edition.json"
+    },
+    {
+      "id": 573,
+      "title_jp": "Horizon Zero Dawn Complete Edition",
+      "title_en": "Horizon Zero Dawn Complete Edition",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4"
+      ],
+      "file": "data/games/573-horizon-zero-dawn-complete-edition.json"
+    },
+    {
+      "id": 574,
+      "title_jp": "ハウス フリッパー",
+      "title_en": "House Flipper",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/574-house-flipper.json"
+    },
+    {
+      "id": 575,
+      "title_jp": "ハウス フリッパー2",
+      "title_en": "House Flipper 2",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/575-house-flipper-2.json"
+    },
+    {
+      "id": 576,
+      "title_jp": "Humankind",
+      "title_en": "Humankind",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Stadia",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/576-humankind.json"
+    },
+    {
+      "id": 577,
+      "title_jp": "ハイドロニア",
+      "title_en": "Hydroneer",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/577-hydroneer.json"
+    },
+    {
+      "id": 578,
+      "title_jp": "Hyper Light Drifter",
+      "title_en": "Hyper Light Drifter",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/578-hyper-light-drifter.json"
+    },
+    {
+      "id": 579,
+      "title_jp": "イカロス",
+      "title_en": "ICARUS",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/579-icarus.json"
+    },
+    {
+      "id": 580,
+      "title_jp": "インディ・ジョーンズ／アトランティスの運命",
+      "title_en": "Indiana Jones and the Fate of Atlantis",
+      "year": 1992,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/580-indiana-jones-and-the-fate-of-atlantis.json"
+    },
+    {
+      "id": 581,
+      "title_jp": "Ion Fury（アイオン・フューリー）",
+      "title_en": "Ion Fury",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/581-ion-fury.json"
+    },
+    {
+      "id": 582,
+      "title_jp": "アイアンハーベスト",
+      "title_en": "Iron Harvest",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/582-iron-harvest.json"
+    },
+    {
+      "id": 583,
+      "title_jp": "ジョブ シミュレーター",
+      "title_en": "Job Simulator",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS VR/2",
+        "Quest"
+      ],
+      "file": "data/games/583-job-simulator.json"
+    },
+    {
+      "id": 584,
+      "title_jp": "ジャッジ アイズ：死神の遺言",
+      "title_en": "Judgment",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/584-judgment.json"
+    },
+    {
+      "id": 585,
+      "title_jp": "ジュラシック・ワールド・エボリューション",
+      "title_en": "Jurassic World Evolution",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/585-jurassic-world-evolution.json"
+    },
+    {
+      "id": 586,
+      "title_jp": "ジュラシック・ワールド・エボリューション2",
+      "title_en": "Jurassic World Evolution 2",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/586-jurassic-world-evolution-2.json"
+    },
+    {
+      "id": 587,
+      "title_jp": "ケンシ",
+      "title_en": "Kenshi",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/587-kenshi.json"
+    },
+    {
+      "id": 588,
+      "title_jp": "キリングフロア",
+      "title_en": "Killing Floor (Classic)",
+      "year": 2009,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/588-killing-floor-classic.json"
+    },
+    {
+      "id": 589,
+      "title_jp": "キリングフロア2",
+      "title_en": "Killing Floor 2",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/589-killing-floor-2.json"
+    },
+    {
+      "id": 590,
+      "title_jp": "キングダムカム・デリバランス",
+      "title_en": "Kingdom Come: Deliverance",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/590-kingdom-come-deliverance.json"
+    },
+    {
+      "id": 591,
+      "title_jp": "キングダムズ アンド キャッスルズ",
+      "title_en": "Kingdoms and Castles",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/591-kingdoms-and-castles.json"
+    },
+    {
+      "id": 592,
+      "title_jp": "Star Wars ナイツ オブ ジ オールド リパブリック",
+      "title_en": "Knights of the Old Republic",
+      "year": 2003,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Xbox",
+        "PC",
+        "Mac",
+        "iOS",
+        "Android",
+        "Switch"
+      ],
+      "file": "data/games/592-knights-of-the-old-republic.json"
+    },
+    {
+      "id": 593,
+      "title_jp": "ラスト・エポック",
+      "title_en": "Last Epoch",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/593-last-epoch.json"
+    },
+    {
+      "id": 594,
+      "title_jp": "レイヤーズ・オブ・フィアー",
+      "title_en": "Layers of Fear (2016)",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/594-layers-of-fear-2016.json"
+    },
+    {
+      "id": 595,
+      "title_jp": "レフト 4 デッド 2",
+      "title_en": "Left 4 Dead 2",
+      "year": 2009,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Xbox 360",
+        "Xbox One"
+      ],
+      "file": "data/games/595-left-4-dead-2.json"
+    },
+    {
+      "id": 596,
+      "title_jp": "Lies of P: Overture",
+      "title_en": "Lies of P: Overture (DLC standalone scope)",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/596-lies-of-p-overture-dlc-standalone-scope.json"
+    },
+    {
+      "id": 597,
+      "title_jp": "Lost Castle / ロストキャッスル",
+      "title_en": "Lost Castle",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/597-lost-castle.json"
+    },
+    {
+      "id": 598,
+      "title_jp": "マッドマックス",
+      "title_en": "Mad Max",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/598-mad-max.json"
+    },
+    {
+      "id": 599,
+      "title_jp": "マフィアII：コンプリート・エディション",
+      "title_en": "Mafia II: Definitive Edition",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/599-mafia-ii-definitive-edition.json"
+    },
+    {
+      "id": 600,
+      "title_jp": "マフィアIII：デフィニティブ・エディション",
+      "title_en": "Mafia III: Definitive Edition",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/600-mafia-iii-definitive-edition.json"
+    },
+    {
+      "id": 601,
+      "title_jp": "マフィア：コンプリート・エディション",
+      "title_en": "Mafia: Definitive Edition",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/601-mafia-definitive-edition.json"
+    },
+    {
+      "id": 602,
+      "title_jp": "マーベル ミッドナイト サンズ",
+      "title_en": "Marvel's Midnight Suns",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/602-marvels-midnight-suns.json"
+    },
+    {
+      "id": 603,
+      "title_jp": "Marvel's Spider-Man Remastered",
+      "title_en": "Marvel's Spider-Man Remastered",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5"
+      ],
+      "file": "data/games/603-marvels-spider-man-remastered.json"
+    },
+    {
+      "id": 604,
+      "title_jp": "Marvel's Spider-Man: Miles Morales",
+      "title_en": "Marvel's Spider-Man: Miles Morales",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5"
+      ],
+      "file": "data/games/604-marvels-spider-man-miles-morales.json"
+    },
+    {
+      "id": 605,
+      "title_jp": "マスエフェクト",
+      "title_en": "Mass Effect",
+      "year": 2007,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "Xbox 360",
+        "PC",
+        "PS3"
+      ],
+      "file": "data/games/605-mass-effect.json"
+    },
+    {
+      "id": 606,
+      "title_jp": "マスエフェクト 3",
+      "title_en": "Mass Effect 3",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "Wii U"
+      ],
+      "file": "data/games/606-mass-effect-3.json"
+    },
+    {
+      "id": 607,
+      "title_jp": "メックウォリア 5: マーセナリーズ",
+      "title_en": "MechWarrior 5: Mercenaries",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox"
+      ],
+      "file": "data/games/607-mechwarrior-5-mercenaries.json"
+    },
+    {
+      "id": 608,
+      "title_jp": "ミディーバル ダイナスティ",
+      "title_en": "Medieval Dynasty",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/608-medieval-dynasty.json"
+    },
+    {
+      "id": 609,
+      "title_jp": "マイクロソフト フライト シミュレーター 2024",
+      "title_en": "Microsoft Flight Simulator 2024",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox Series"
+      ],
+      "file": "data/games/609-microsoft-flight-simulator-2024.json"
+    },
+    {
+      "id": 610,
+      "title_jp": "Monster Train",
+      "title_en": "Monster Train",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/610-monster-train.json"
+    },
+    {
+      "id": 611,
+      "title_jp": "マウント・アンド・ブレード II バナーロード",
+      "title_en": "Mount & Blade II: Bannerlord",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/611-mount-blade-ii-bannerlord.json"
+    },
+    {
+      "id": 612,
+      "title_jp": "マウント&ブレード ウォーバンド",
+      "title_en": "Mount & Blade: Warband",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/612-mount-blade-warband.json"
+    },
+    {
+      "id": 613,
+      "title_jp": "ミュータント イヤー ゼロ: ロード トゥ エデン",
+      "title_en": "Mutant Year Zero: Road to Eden",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/613-mutant-year-zero-road-to-eden.json"
+    },
+    {
+      "id": 614,
+      "title_jp": "マイタイム アット ポーシャ",
+      "title_en": "My Time at Portia",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/614-my-time-at-portia.json"
+    },
+    {
+      "id": 615,
+      "title_jp": "マイタイム アット サンドロック",
+      "title_en": "My Time at Sandrock",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/615-my-time-at-sandrock.json"
+    },
+    {
+      "id": 616,
+      "title_jp": "ミス オブ エンパイアズ",
+      "title_en": "Myth of Empires",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/616-myth-of-empires.json"
+    },
+    {
+      "id": 617,
+      "title_jp": "永劫無間",
+      "title_en": "NARAKA: BLADEPOINT",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox"
+      ],
+      "file": "data/games/617-naraka-bladepoint.json"
+    },
+    {
+      "id": 618,
+      "title_jp": "NARUTO-ナルト- × BORUTO -ボルト- アルティメットニンジャストーム コネクションズ",
+      "title_en": "NARUTO X BORUTO: Ultimate Ninja STORM CONNECTIONS",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/618-naruto-x-boruto-ultimate-ninja-storm-connections.json"
+    },
+    {
+      "id": 619,
+      "title_jp": "Neon Abyss",
+      "title_en": "Neon Abyss",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/619-neon-abyss.json"
+    },
+    {
+      "id": 620,
+      "title_jp": "ナイチンゲール",
+      "title_en": "Nightingale",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/620-nightingale.json"
+    },
+    {
+      "id": 621,
+      "title_jp": "仁王2 Complete Edition",
+      "title_en": "Nioh 2 – The Complete Edition (PC)",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5"
+      ],
+      "file": "data/games/621-nioh-2-the-complete-edition-pc.json"
+    },
+    {
+      "id": 622,
+      "title_jp": "Noita",
+      "title_en": "Noita",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/622-noita.json"
+    },
+    {
+      "id": 623,
+      "title_jp": "Northgard",
+      "title_en": "Northgard",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Switch",
+        "PS4",
+        "Xbox One",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/623-northgard.json"
+    },
+    {
+      "id": 624,
+      "title_jp": "Nuclear Throne",
+      "title_en": "Nuclear Throne",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/624-nuclear-throne.json"
+    },
+    {
+      "id": 625,
+      "title_jp": "オブザーバー",
+      "title_en": "Observer",
+      "year": 2017,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/625-observer.json"
+    },
+    {
+      "id": 626,
+      "title_jp": "ワンピース 海賊無双4",
+      "title_en": "ONE PIECE: PIRATE WARRIORS 4",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/626-one-piece-pirate-warriors-4.json"
+    },
+    {
+      "id": 627,
+      "title_jp": "Opus Magnum",
+      "title_en": "Opus Magnum",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/627-opus-magnum.json"
+    },
+    {
+      "id": 628,
+      "title_jp": "Ori and the Will of the Wisps",
+      "title_en": "Ori and the Will of the Wisps",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/628-ori-and-the-will-of-the-wisps.json"
+    },
+    {
+      "id": 629,
+      "title_jp": "アウトラスト",
+      "title_en": "Outlast",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/629-outlast.json"
+    },
+    {
+      "id": 630,
+      "title_jp": "アウトラスト2",
+      "title_en": "Outlast 2",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/630-outlast-2.json"
+    },
+    {
+      "id": 631,
+      "title_jp": "オクセンフリー",
+      "title_en": "Oxenfree",
+      "year": 2016,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/631-oxenfree.json"
+    },
+    {
+      "id": 632,
+      "title_jp": "オキシジェン ノット インクルーデッド",
+      "title_en": "Oxygen Not Included",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/632-oxygen-not-included.json"
+    },
+    {
+      "id": 633,
+      "title_jp": "ペイガン・オンライン",
+      "title_en": "Pagan Online",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/633-pagan-online.json"
+    },
+    {
+      "id": 634,
+      "title_jp": "パス・オブ・エグザイル2",
+      "title_en": "Path of Exile 2",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/634-path-of-exile-2.json"
+    },
+    {
+      "id": 635,
+      "title_jp": "パスファインダー キングメーカー",
+      "title_en": "Pathfinder: Kingmaker",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/635-pathfinder-kingmaker.json"
+    },
+    {
+      "id": 636,
+      "title_jp": "パスファインダー ロード オブ ザ リチャス",
+      "title_en": "Pathfinder: Wrath of the Righteous",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS4",
+        "Xbox One",
+        "Switch (cloud)"
+      ],
+      "file": "data/games/636-pathfinder-wrath-of-the-righteous.json"
+    },
+    {
+      "id": 637,
+      "title_jp": "ペルソナ4 ザ・ゴールデン",
+      "title_en": "Persona 4 Golden",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/637-persona-4-golden.json"
+    },
+    {
+      "id": 638,
+      "title_jp": "ピラーズ オブ エタニティ",
+      "title_en": "Pillars of Eternity",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/638-pillars-of-eternity.json"
+    },
+    {
+      "id": 639,
+      "title_jp": "ピラーズ オブ エタニティ II デッドファイア",
+      "title_en": "Pillars of Eternity II: Deadfire",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/639-pillars-of-eternity-ii-deadfire.json"
+    },
+    {
+      "id": 640,
+      "title_jp": "プラネット コースター",
+      "title_en": "Planet Coaster",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/640-planet-coaster.json"
+    },
+    {
+      "id": 641,
+      "title_jp": "プラネット コースター2",
+      "title_en": "Planet Coaster 2",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/641-planet-coaster-2.json"
+    },
+    {
+      "id": 642,
+      "title_jp": "プラネット ズー",
+      "title_en": "Planet Zoo",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/642-planet-zoo.json"
+    },
+    {
+      "id": 643,
+      "title_jp": "Planetary Annihilation: TITANS",
+      "title_en": "Planetary Annihilation: TITANS",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/643-planetary-annihilation-titans.json"
+    },
+    {
+      "id": 644,
+      "title_jp": "プレートアップ!",
+      "title_en": "PlateUp!",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/644-plateup.json"
+    },
+    {
+      "id": 645,
+      "title_jp": "Predecessor",
+      "title_en": "Predecessor",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4"
+      ],
+      "file": "data/games/645-predecessor.json"
+    },
+    {
+      "id": 646,
+      "title_jp": "プリンス オブ ペルシャ 失われた王冠",
+      "title_en": "Prince of Persia: The Lost Crown",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/646-prince-of-persia-the-lost-crown.json"
+    },
+    {
+      "id": 647,
+      "title_jp": "Prodeus",
+      "title_en": "Prodeus",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/647-prodeus.json"
+    },
+    {
+      "id": 648,
+      "title_jp": "ぷよぷよテトリス",
+      "title_en": "Puyo Puyo Tetris",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/648-puyo-puyo-tetris.json"
+    },
+    {
+      "id": 649,
+      "title_jp": "クエイク III アリーナ",
+      "title_en": "Quake III Arena",
+      "year": 1999,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/649-quake-iii-arena.json"
+    },
+    {
+      "id": 650,
+      "title_jp": "Quake（リマスター版）",
+      "title_en": "Quake Remastered",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/650-quake-remastered.json"
+    },
+    {
+      "id": 651,
+      "title_jp": "Remnant: From the Ashes",
+      "title_en": "Remnant: From the Ashes",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/651-remnant-from-the-ashes.json"
+    },
+    {
+      "id": 652,
+      "title_jp": "バイオハザード RE:2",
+      "title_en": "Resident Evil 2 (2019 Remake)",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/652-resident-evil-2-2019-remake.json"
+    },
+    {
+      "id": 653,
+      "title_jp": "バイオハザード RE:2",
+      "title_en": "RESIDENT EVIL 2 (Remake)",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/653-resident-evil-2-remake.json"
+    },
+    {
+      "id": 654,
+      "title_jp": "バイオハザード3 ラストエスケープ",
+      "title_en": "Resident Evil 3: Nemesis (1999 / Classic PC)",
+      "year": 1999,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS1",
+        "Dreamcast",
+        "GameCube"
+      ],
+      "file": "data/games/654-resident-evil-3-nemesis-1999-classic-pc.json"
+    },
+    {
+      "id": 655,
+      "title_jp": "バイオハザード7 レジデント イービル",
+      "title_en": "Resident Evil 7: Biohazard",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series",
+        "Switch (cloud)"
+      ],
+      "file": "data/games/655-resident-evil-7-biohazard.json"
+    },
+    {
+      "id": 656,
+      "title_jp": "バイオハザード HDリマスター",
+      "title_en": "Resident Evil HD Remaster",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS4",
+        "Xbox 360",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/656-resident-evil-hd-remaster.json"
+    },
+    {
+      "id": 657,
+      "title_jp": "リターン トゥ モンキーアイランド",
+      "title_en": "Return to Monkey Island",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "Xbox Series",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/657-return-to-monkey-island.json"
+    },
+    {
+      "id": 658,
+      "title_jp": "Returnal",
+      "title_en": "Returnal",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5"
+      ],
+      "file": "data/games/658-returnal.json"
+    },
+    {
+      "id": 659,
+      "title_jp": "Rise of Nations: Extended Edition",
+      "title_en": "Rise of Nations: Extended Edition",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/659-rise-of-nations-extended-edition.json"
+    },
+    {
+      "id": 660,
+      "title_jp": "Rise of the Ronin（ライズ オブ ザ ローニン）",
+      "title_en": "Rise of the Ronin",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5"
+      ],
+      "file": "data/games/660-rise-of-the-ronin.json"
+    },
+    {
+      "id": 661,
+      "title_jp": "Risk of Rain",
+      "title_en": "Risk of Rain",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/661-risk-of-rain.json"
+    },
+    {
+      "id": 662,
+      "title_jp": "Risk of Rain 2",
+      "title_en": "Risk of Rain 2",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/662-risk-of-rain-2.json"
+    },
+    {
+      "id": 663,
+      "title_jp": "ロードウォーデン",
+      "title_en": "Roadwarden",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "Switch"
+      ],
+      "file": "data/games/663-roadwarden.json"
+    },
+    {
+      "id": 664,
+      "title_jp": "ロボコップ：ローグシティ",
+      "title_en": "RoboCop: Rogue City",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/664-robocop-rogue-city.json"
+    },
+    {
+      "id": 665,
+      "title_jp": "Roboquest",
+      "title_en": "Roboquest",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/665-roboquest.json"
+    },
+    {
+      "id": 666,
+      "title_jp": "Rogue Legacy",
+      "title_en": "Rogue Legacy",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3/4",
+        "Vita",
+        "Switch",
+        "Xbox One"
+      ],
+      "file": "data/games/666-rogue-legacy.json"
+    },
+    {
+      "id": 667,
+      "title_jp": "Rogue Legacy 2",
+      "title_en": "Rogue Legacy 2",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/667-rogue-legacy-2.json"
+    },
+    {
+      "id": 668,
+      "title_jp": "ルーンファクトリー4 スペシャル",
+      "title_en": "Rune Factory 4 Special",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/668-rune-factory-4-special.json"
+    },
+    {
+      "id": 669,
+      "title_jp": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "title_en": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/669-s-t-a-l-k-e-r-2-heart-of-chornobyl.json"
+    },
+    {
+      "id": 670,
+      "title_jp": "S.T.A.L.K.E.R.: コール オブ プリピャチ",
+      "title_en": "S.T.A.L.K.E.R.: Call of Pripyat",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/670-s-t-a-l-k-e-r-call-of-pripyat.json"
+    },
+    {
+      "id": 671,
+      "title_jp": "セイクリッド 2 ゴールド",
+      "title_en": "Sacred 2: Gold Edition",
+      "year": 2009,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/671-sacred-2-gold-edition.json"
+    },
+    {
+      "id": 672,
+      "title_jp": "セインツロウ (2022リブート)",
+      "title_en": "Saints Row (2022 reboot)",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/672-saints-row-2022-reboot.json"
+    },
+    {
+      "id": 673,
+      "title_jp": "セインツロウIV",
+      "title_en": "Saints Row IV",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS4",
+        "Switch",
+        "Xbox 360",
+        "Xbox One"
+      ],
+      "file": "data/games/673-saints-row-iv.json"
+    },
+    {
+      "id": 674,
+      "title_jp": "セインツロウIV：ゲット アウト オブ ヘル",
+      "title_en": "Saints Row IV: Gat out of Hell",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS4",
+        "Xbox 360",
+        "Xbox One"
+      ],
+      "file": "data/games/674-saints-row-iv-gat-out-of-hell.json"
+    },
+    {
+      "id": 675,
+      "title_jp": "セインツロウ ザ・サード リマスタード",
+      "title_en": "Saints Row: The Third Remastered",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/675-saints-row-the-third-remastered.json"
+    },
+    {
+      "id": 676,
+      "title_jp": "サティスファクトリー",
+      "title_en": "Satisfactory",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/676-satisfactory.json"
+    },
+    {
+      "id": 677,
+      "title_jp": "スクム",
+      "title_en": "SCUM",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/677-scum.json"
+    },
+    {
+      "id": 678,
+      "title_jp": "シリアスサム4",
+      "title_en": "Serious Sam 4",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/678-serious-sam-4.json"
+    },
+    {
+      "id": 679,
+      "title_jp": "シャドウラン リターンズ",
+      "title_en": "Shadowrun Returns",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/679-shadowrun-returns.json"
+    },
+    {
+      "id": 680,
+      "title_jp": "SHENZHEN I/O",
+      "title_en": "SHENZHEN I/O",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/680-shenzhen-i-o.json"
+    },
+    {
+      "id": 681,
+      "title_jp": "Shovel Knight: King of Cards",
+      "title_en": "Shovel Knight: King of Cards",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS",
+        "Xbox"
+      ],
+      "file": "data/games/681-shovel-knight-king-of-cards.json"
+    },
+    {
+      "id": 682,
+      "title_jp": "シヴィライゼーション IV",
+      "title_en": "Sid Meier's Civilization IV",
+      "year": 2005,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/682-sid-meiers-civilization-iv.json"
+    },
+    {
+      "id": 683,
+      "title_jp": "シムシティ",
+      "title_en": "SimCity (2013)",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/683-simcity-2013.json"
+    },
+    {
+      "id": 684,
+      "title_jp": "シムシティ4 デラックス",
+      "title_en": "SimCity 4 Deluxe Edition",
+      "year": 2003,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/684-simcity-4-deluxe-edition.json"
+    },
+    {
+      "id": 685,
+      "title_jp": "Sins of a Solar Empire: Rebellion",
+      "title_en": "Sins of a Solar Empire: Rebellion",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/685-sins-of-a-solar-empire-rebellion.json"
+    },
+    {
+      "id": 686,
+      "title_jp": "Skul: The Hero Slayer",
+      "title_en": "Skul: The Hero Slayer",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/686-skul-the-hero-slayer.json"
+    },
+    {
+      "id": 687,
+      "title_jp": "スリーピングドッグス 香港秘密警察",
+      "title_en": "Sleeping Dogs: Definitive Edition",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/687-sleeping-dogs-definitive-edition.json"
+    },
+    {
+      "id": 688,
+      "title_jp": "スレンダー:ジ・アライバル",
+      "title_en": "Slender: The Arrival",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/688-slender-the-arrival.json"
+    },
+    {
+      "id": 689,
+      "title_jp": "スモールランド サバイブ・ザ・ワイルズ",
+      "title_en": "Smalland: Survive the Wilds",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/689-smalland-survive-the-wilds.json"
+    },
+    {
+      "id": 690,
+      "title_jp": "Songs of Conquest",
+      "title_en": "Songs of Conquest",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/690-songs-of-conquest.json"
+    },
+    {
+      "id": 691,
+      "title_jp": "ソウルマスク",
+      "title_en": "Soulmask",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/691-soulmask.json"
+    },
+    {
+      "id": 692,
+      "title_jp": "スペースエンジニア",
+      "title_en": "Space Engineers",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox Series",
+        "PS5"
+      ],
+      "file": "data/games/692-space-engineers.json"
+    },
+    {
+      "id": 693,
+      "title_jp": "スペックオプス：ザ・ライン",
+      "title_en": "Spec Ops: The Line",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/693-spec-ops-the-line.json"
+    },
+    {
+      "id": 694,
+      "title_jp": "Spelunky",
+      "title_en": "Spelunky",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS Vita",
+        "PS4",
+        "Switch",
+        "Xbox One"
+      ],
+      "file": "data/games/694-spelunky.json"
+    },
+    {
+      "id": 695,
+      "title_jp": "スペランキー 2",
+      "title_en": "Spelunky 2",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/695-spelunky-2.json"
+    },
+    {
+      "id": 696,
+      "title_jp": "スクワッド",
+      "title_en": "Squad",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/696-squad.json"
+    },
+    {
+      "id": 697,
+      "title_jp": "スター・シチズン",
+      "title_en": "Star Citizen",
+      "year": 2014,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/697-star-citizen.json"
+    },
+    {
+      "id": 698,
+      "title_jp": "スター・ウォーズ バトルフロント II",
+      "title_en": "Star Wars Battlefront II (2017)",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Origin",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/698-star-wars-battlefront-ii-2017.json"
+    },
+    {
+      "id": 699,
+      "title_jp": "スター・ウォーズ ジェダイナイト II ジェダイアウトキャスト",
+      "title_en": "Star Wars Jedi Knight II: Jedi Outcast",
+      "year": 2002,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4"
+      ],
+      "file": "data/games/699-star-wars-jedi-knight-ii-jedi-outcast.json"
+    },
+    {
+      "id": 700,
+      "title_jp": "スター・ウォーズ アウトローズ",
+      "title_en": "Star Wars Outlaws",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/700-star-wars-outlaws.json"
+    },
+    {
+      "id": 701,
+      "title_jp": "スター・ウォーズ ナイツ オブ ザ オールド リパブリック",
+      "title_en": "Star Wars: Knights of the Old Republic",
+      "year": 2003,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "Mobile"
+      ],
+      "file": "data/games/701-star-wars-knights-of-the-old-republic.json"
+    },
+    {
+      "id": 702,
+      "title_jp": "ナイツ オブ ジ オールド リパブリック II ザ・シス・ロード",
+      "title_en": "Star Wars: Knights of the Old Republic II – The Sith Lords",
+      "year": 2004,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "Xbox",
+        "PC",
+        "Mac",
+        "Linux",
+        "iOS",
+        "Android",
+        "Switch"
+      ],
+      "file": "data/games/702-star-wars-knights-of-the-old-republic-ii-the-sith-lords.json"
+    },
+    {
+      "id": 703,
+      "title_jp": "StarCraft II: Heart of the Swarm",
+      "title_en": "StarCraft II: Heart of the Swarm",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/703-starcraft-ii-heart-of-the-swarm.json"
+    },
+    {
+      "id": 704,
+      "title_jp": "StarCraft II: Legacy of the Void",
+      "title_en": "StarCraft II: Legacy of the Void",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/704-starcraft-ii-legacy-of-the-void.json"
+    },
+    {
+      "id": 705,
+      "title_jp": "StarCraft II: Wings of Liberty",
+      "title_en": "StarCraft II: Wings of Liberty",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/705-starcraft-ii-wings-of-liberty.json"
+    },
+    {
+      "id": 706,
+      "title_jp": "ステーショニアーズ",
+      "title_en": "Stationeers",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/706-stationeers.json"
+    },
+    {
+      "id": 707,
+      "title_jp": "SteamWorld Dig",
+      "title_en": "SteamWorld Dig",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS",
+        "Xbox"
+      ],
+      "file": "data/games/707-steamworld-dig.json"
+    },
+    {
+      "id": 708,
+      "title_jp": "SteamWorld Dig 2",
+      "title_en": "SteamWorld Dig 2",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox"
+      ],
+      "file": "data/games/708-steamworld-dig-2.json"
+    },
+    {
+      "id": 709,
+      "title_jp": "ステラリス",
+      "title_en": "Stellaris",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/709-stellaris.json"
+    },
+    {
+      "id": 710,
+      "title_jp": "Stephen's Sausage Roll",
+      "title_en": "Stephen's Sausage Roll",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/710-stephens-sausage-roll.json"
+    },
+    {
+      "id": 711,
+      "title_jp": "ストーンシャード",
+      "title_en": "Stoneshard",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/711-stoneshard.json"
+    },
+    {
+      "id": 712,
+      "title_jp": "牧場物語 オリーブタウンと希望の大地",
+      "title_en": "Story of Seasons: Pioneers of Olive Town",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/712-story-of-seasons-pioneers-of-olive-town.json"
+    },
+    {
+      "id": 713,
+      "title_jp": "Streets of Rogue",
+      "title_en": "Streets of Rogue",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/713-streets-of-rogue.json"
+    },
+    {
+      "id": 714,
+      "title_jp": "Supreme Commander: Forged Alliance",
+      "title_en": "Supreme Commander: Forged Alliance",
+      "year": 2007,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/714-supreme-commander-forged-alliance.json"
+    },
+    {
+      "id": 715,
+      "title_jp": "サバイビング マーズ",
+      "title_en": "Surviving Mars",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/715-surviving-mars.json"
+    },
+    {
+      "id": 716,
+      "title_jp": "Synthetik",
+      "title_en": "Synthetik: Legion Rising",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/716-synthetik-legion-rising.json"
+    },
+    {
+      "id": 717,
+      "title_jp": "システムショック2",
+      "title_en": "System Shock 2",
+      "year": 1999,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/717-system-shock-2.json"
+    },
+    {
+      "id": 718,
+      "title_jp": "鬼谷八荒",
+      "title_en": "Tale of Immortal",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Switch",
+        "Mobile"
+      ],
+      "file": "data/games/718-tale-of-immortal.json"
+    },
+    {
+      "id": 719,
+      "title_jp": "侠客風雲伝",
+      "title_en": "Tale of Wuxia",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/719-tale-of-wuxia.json"
+    },
+    {
+      "id": 720,
+      "title_jp": "Tales from the Borderlands",
+      "title_en": "Tales from the Borderlands",
+      "year": 2014,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/720-tales-from-the-borderlands.json"
+    },
+    {
+      "id": 721,
+      "title_jp": "Tales of Maj'Eyal",
+      "title_en": "Tales of Maj'Eyal",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/721-tales-of-majeyal.json"
+    },
+    {
+      "id": 722,
+      "title_jp": "タリスランド",
+      "title_en": "Tarisland",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/722-tarisland.json"
+    },
+    {
+      "id": 723,
+      "title_jp": "バナーサーガ",
+      "title_en": "The Banner Saga",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/723-the-banner-saga.json"
+    },
+    {
+      "id": 724,
+      "title_jp": "The Binding of Isaac: Rebirth",
+      "title_en": "The Binding of Isaac: Rebirth",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One",
+        "iOS"
+      ],
+      "file": "data/games/724-the-binding-of-isaac-rebirth.json"
+    },
+    {
+      "id": 725,
+      "title_jp": "ダーク・ピクチャーズ・アンソロジー:メダンの幽霊船",
+      "title_en": "The Dark Pictures Anthology: Man of Medan",
+      "year": 2019,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/725-the-dark-pictures-anthology-man-of-medan.json"
+    },
+    {
+      "id": 726,
+      "title_jp": "ダーク・ピクチャーズ・アンソロジー:ザ・デビル・イン・ミー",
+      "title_en": "The Dark Pictures Anthology: The Devil in Me",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/726-the-dark-pictures-anthology-the-devil-in-me.json"
+    },
+    {
+      "id": 727,
+      "title_jp": "エルダー・スクロールズ III モロウィンド",
+      "title_en": "The Elder Scrolls III: Morrowind",
+      "year": 2002,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox"
+      ],
+      "file": "data/games/727-the-elder-scrolls-iii-morrowind.json"
+    },
+    {
+      "id": 728,
+      "title_jp": "エルダー・スクロールズ IV オブリビオン",
+      "title_en": "The Elder Scrolls IV: Oblivion",
+      "year": 2006,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox 360",
+        "PS3"
+      ],
+      "file": "data/games/728-the-elder-scrolls-iv-oblivion.json"
+    },
+    {
+      "id": 729,
+      "title_jp": "ザ・フォレスト",
+      "title_en": "The Forest",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4"
+      ],
+      "file": "data/games/729-the-forest.json"
+    },
+    {
+      "id": 730,
+      "title_jp": "ヴァン・ヘルシング ファイナル・カット",
+      "title_en": "The Incredible Adventures of Van Helsing: Final Cut",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/730-the-incredible-adventures-of-van-helsing-final-cut.json"
+    },
+    {
+      "id": 731,
+      "title_jp": "ザ・ロング・ダーク",
+      "title_en": "The Long Dark",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/731-the-long-dark.json"
+    },
+    {
+      "id": 732,
+      "title_jp": "The Messenger",
+      "title_en": "The Messenger",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox"
+      ],
+      "file": "data/games/732-the-messenger.json"
+    },
+    {
+      "id": 733,
+      "title_jp": "アウター・ワールド",
+      "title_en": "The Outer Worlds",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/733-the-outer-worlds.json"
+    },
+    {
+      "id": 734,
+      "title_jp": "アウター・ワールド 2",
+      "title_en": "The Outer Worlds 2",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/734-the-outer-worlds-2.json"
+    },
+    {
+      "id": 735,
+      "title_jp": "ザ・クォーリー",
+      "title_en": "The Quarry",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/735-the-quarry.json"
+    },
+    {
+      "id": 736,
+      "title_jp": "リフトブレイカー",
+      "title_en": "The Riftbreaker",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/736-the-riftbreaker.json"
+    },
+    {
+      "id": 737,
+      "title_jp": "シークレット・オブ・モンキーアイランド スペシャルエディション",
+      "title_en": "The Secret of Monkey Island: Special Edition",
+      "year": 2009,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Xbox 360",
+        "iOS",
+        "PS3"
+      ],
+      "file": "data/games/737-the-secret-of-monkey-island-special-edition.json"
+    },
+    {
+      "id": 738,
+      "title_jp": "ザ・スローマンサー",
+      "title_en": "The Slormancer",
+      "year": 2025,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/738-the-slormancer.json"
+    },
+    {
+      "id": 739,
+      "title_jp": "ザ・スタンリー・パラブル ウルトラデラックス",
+      "title_en": "The Stanley Parable: Ultra Deluxe",
+      "year": 2022,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/739-the-stanley-parable-ultra-deluxe.json"
+    },
+    {
+      "id": 740,
+      "title_jp": "イーサン・カーターの失踪",
+      "title_en": "The Vanishing of Ethan Carter",
+      "year": 2014,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/740-the-vanishing-of-ethan-carter.json"
+    },
+    {
+      "id": 741,
+      "title_jp": "ザ・ウィットネス",
+      "title_en": "The Witness",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "iOS"
+      ],
+      "file": "data/games/741-the-witness.json"
+    },
+    {
+      "id": 742,
+      "title_jp": "ザ・ウルフ・アマング・アス",
+      "title_en": "The Wolf Among Us",
+      "year": 2014,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS3/4",
+        "Xbox 360/One",
+        "iOS"
+      ],
+      "file": "data/games/742-the-wolf-among-us.json"
+    },
+    {
+      "id": 743,
+      "title_jp": "They Are Billions",
+      "title_en": "They Are Billions",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/743-they-are-billions.json"
+    },
+    {
+      "id": 744,
+      "title_jp": "シーフ",
+      "title_en": "Thief (2014)",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "PS4",
+        "Xbox 360",
+        "Xbox One"
+      ],
+      "file": "data/games/744-thief-2014.json"
+    },
+    {
+      "id": 745,
+      "title_jp": "スローン アンド リバティ",
+      "title_en": "Throne and Liberty",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/745-throne-and-liberty.json"
+    },
+    {
+      "id": 746,
+      "title_jp": "チケット・トゥ・ライド",
+      "title_en": "Ticket to Ride",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS5",
+        "Xbox",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/746-ticket-to-ride.json"
+    },
+    {
+      "id": 747,
+      "title_jp": "トルメント：タイズ・オブ・ヌメネラ",
+      "title_en": "Tides of Numenera",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/747-tides-of-numenera.json"
+    },
+    {
+      "id": 748,
+      "title_jp": "ティンバーボーン",
+      "title_en": "Timberborn",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/748-timberborn.json"
+    },
+    {
+      "id": 749,
+      "title_jp": "タイタンクエスト アニバーサリーエディション",
+      "title_en": "Titan Quest Anniversary Edition",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "consoles",
+        "Mobile"
+      ],
+      "file": "data/games/749-titan-quest-anniversary-edition.json"
+    },
+    {
+      "id": 750,
+      "title_jp": "タイタンフォール2",
+      "title_en": "Titanfall 2",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/750-titanfall-2.json"
+    },
+    {
+      "id": 751,
+      "title_jp": "スプリンターセル ブラックリスト",
+      "title_en": "Tom Clancy's Splinter Cell: Blacklist",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "Wii U"
+      ],
+      "file": "data/games/751-tom-clancys-splinter-cell-blacklist.json"
+    },
+    {
+      "id": 752,
+      "title_jp": "スプリンターセル カオスセオリー",
+      "title_en": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "year": 2005,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS2",
+        "Xbox",
+        "GameCube"
+      ],
+      "file": "data/games/752-tom-clancys-splinter-cell-chaos-theory.json"
+    },
+    {
+      "id": 753,
+      "title_jp": "トニー・ホーク プロスケーター 1+2",
+      "title_en": "Tony Hawk's Pro Skater 1 + 2",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Switch"
+      ],
+      "file": "data/games/753-tony-hawks-pro-skater-1-2.json"
+    },
+    {
+      "id": 754,
+      "title_jp": "トニー・ホーク プロ・スケーター 3+4",
+      "title_en": "Tony Hawk's Pro Skater 3 + 4",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Xbox Series",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/754-tony-hawks-pro-skater-3-4.json"
+    },
+    {
+      "id": 755,
+      "title_jp": "トーチライト III",
+      "title_en": "Torchlight III",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/755-torchlight-iii.json"
+    },
+    {
+      "id": 756,
+      "title_jp": "Total War: Attila",
+      "title_en": "Total War: Attila",
+      "year": 2015,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/756-total-war-attila.json"
+    },
+    {
+      "id": 757,
+      "title_jp": "Total War: Rome II",
+      "title_en": "Total War: Rome II",
+      "year": 2013,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/757-total-war-rome-ii.json"
+    },
+    {
+      "id": 758,
+      "title_jp": "Total War: SHOGUN 2",
+      "title_en": "Total War: Shogun 2",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/758-total-war-shogun-2.json"
+    },
+    {
+      "id": 759,
+      "title_jp": "Total War: THREE KINGDOMS",
+      "title_en": "Total War: Three Kingdoms",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/759-total-war-three-kingdoms.json"
+    },
+    {
+      "id": 760,
+      "title_jp": "Total War: WARHAMMER",
+      "title_en": "Total War: Warhammer",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/760-total-war-warhammer.json"
+    },
+    {
+      "id": 761,
+      "title_jp": "Total War: WARHAMMER II",
+      "title_en": "Total War: Warhammer II",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/761-total-war-warhammer-ii.json"
+    },
+    {
+      "id": 762,
+      "title_jp": "Total War: WARHAMMER III",
+      "title_en": "Total War: Warhammer III",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/762-total-war-warhammer-iii.json"
+    },
+    {
+      "id": 763,
+      "title_jp": "東方ルナナイツ",
+      "title_en": "Touhou Luna Nights",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch",
+        "Xbox",
+        "PS"
+      ],
+      "file": "data/games/763-touhou-luna-nights.json"
+    },
+    {
+      "id": 764,
+      "title_jp": "トライアングルストラテジー",
+      "title_en": "Triangle Strategy",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Switch"
+      ],
+      "file": "data/games/764-triangle-strategy.json"
+    },
+    {
+      "id": 765,
+      "title_jp": "トライブス：アセンド",
+      "title_en": "Tribes: Ascend",
+      "year": 2012,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/765-tribes-ascend.json"
+    },
+    {
+      "id": 766,
+      "title_jp": "トロピコ5",
+      "title_en": "Tropico 5",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox 360"
+      ],
+      "file": "data/games/766-tropico-5.json"
+    },
+    {
+      "id": 767,
+      "title_jp": "トロピコ6",
+      "title_en": "Tropico 6",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/767-tropico-6.json"
+    },
+    {
+      "id": 768,
+      "title_jp": "ツーポイント キャンパス",
+      "title_en": "Two Point Campus",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/768-two-point-campus.json"
+    },
+    {
+      "id": 769,
+      "title_jp": "ツーポイント ホスピタル",
+      "title_en": "Two Point Hospital",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/769-two-point-hospital.json"
+    },
+    {
+      "id": 770,
+      "title_jp": "トゥー・ワールズ II",
+      "title_en": "Two Worlds II",
+      "year": 2010,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS3",
+        "Xbox 360",
+        "Mac"
+      ],
+      "file": "data/games/770-two-worlds-ii.json"
+    },
+    {
+      "id": 771,
+      "title_jp": "ウルティマ アンダーワールド",
+      "title_en": "Ultima Underworld 1+2",
+      "year": 1992,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/771-ultima-underworld-1-2.json"
+    },
+    {
+      "id": 772,
+      "title_jp": "アンディセンバー",
+      "title_en": "Undecember",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/772-undecember.json"
+    },
+    {
+      "id": 773,
+      "title_jp": "アンリアル トーナメント 3",
+      "title_en": "Unreal Tournament 3",
+      "year": 2007,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/773-unreal-tournament-3.json"
+    },
+    {
+      "id": 774,
+      "title_jp": "ヴァンパイア：ザ・マスカレード ブラッドラインズ",
+      "title_en": "Vampire: The Masquerade – Bloodlines",
+      "year": 2004,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/774-vampire-the-masquerade-bloodlines.json"
+    },
+    {
+      "id": 775,
+      "title_jp": "ヴァンパイア",
+      "title_en": "Vampyr",
+      "year": 2018,
+      "primary": "NAR",
+      "secondary": [],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/775-vampyr.json"
+    },
+    {
+      "id": 776,
+      "title_jp": "ヴィクター・ヴラン",
+      "title_en": "Victor Vran ARPG",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/776-victor-vran-arpg.json"
+    },
+    {
+      "id": 777,
+      "title_jp": "ワクフ",
+      "title_en": "WAKFU",
+      "year": 2012,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux"
+      ],
+      "file": "data/games/777-wakfu.json"
+    },
+    {
+      "id": 778,
+      "title_jp": "ウォーハンマー40,000：ダークタイド",
+      "title_en": "Warhammer 40,000: Darktide",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/778-warhammer-40-000-darktide.json"
+    },
+    {
+      "id": 779,
+      "title_jp": "Warhammer 40,000: Dawn of War II",
+      "title_en": "Warhammer 40,000: Dawn of War II",
+      "year": 2009,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/779-warhammer-40-000-dawn-of-war-ii.json"
+    },
+    {
+      "id": 780,
+      "title_jp": "ウォーハンマー 40,000 インクイジター・マーター",
+      "title_en": "Warhammer 40,000: Inquisitor – Martyr",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/780-warhammer-40-000-inquisitor-martyr.json"
+    },
+    {
+      "id": 781,
+      "title_jp": "ウォーハンマー40000: メカニクス",
+      "title_en": "Warhammer 40,000: Mechanicus",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/781-warhammer-40-000-mechanicus.json"
+    },
+    {
+      "id": 782,
+      "title_jp": "ウォーハンマー 40,000 ローグ・トレーダー",
+      "title_en": "Warhammer 40,000: Rogue Trader",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS5",
+        "Xbox Series"
+      ],
+      "file": "data/games/782-warhammer-40-000-rogue-trader.json"
+    },
+    {
+      "id": 783,
+      "title_jp": "ウォーハンマー40,000：スペースマリーン2",
+      "title_en": "Warhammer 40,000: Space Marine 2",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/783-warhammer-40-000-space-marine-2.json"
+    },
+    {
+      "id": 784,
+      "title_jp": "ウォーハンマー：ヴァーミンタイド2",
+      "title_en": "Warhammer: Vermintide 2",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/784-warhammer-vermintide-2.json"
+    },
+    {
+      "id": 785,
+      "title_jp": "ウォーテイルズ",
+      "title_en": "Wartales",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS5",
+        "Xbox Series",
+        "Switch"
+      ],
+      "file": "data/games/785-wartales.json"
+    },
+    {
+      "id": 786,
+      "title_jp": "ウェイストランド 2 ディレクターズ・カット",
+      "title_en": "Wasteland 2: Director's Cut",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "Linux",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/786-wasteland-2-directors-cut.json"
+    },
+    {
+      "id": 787,
+      "title_jp": "ウェイストランド 3",
+      "title_en": "Wasteland 3",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Mac",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/787-wasteland-3.json"
+    },
+    {
+      "id": 788,
+      "title_jp": "ウォッチドッグス レギオン",
+      "title_en": "Watch Dogs: Legion",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Stadia",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/788-watch-dogs-legion.json"
+    },
+    {
+      "id": 789,
+      "title_jp": "Wizard of Legend",
+      "title_en": "Wizard of Legend",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "PC",
+        "Switch",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/789-wizard-of-legend.json"
+    },
+    {
+      "id": 790,
+      "title_jp": "ウォーロン フォールン ダイナスティ",
+      "title_en": "Wo Long: Fallen Dynasty",
+      "year": 2023,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox",
+        "Game Pass"
+      ],
+      "file": "data/games/790-wo-long-fallen-dynasty.json"
+    },
+    {
+      "id": 791,
+      "title_jp": "ウォルセン ローズ・オブ・メイヘム",
+      "title_en": "Wolcen: Lords of Mayhem",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One"
+      ],
+      "file": "data/games/791-wolcen-lords-of-mayhem.json"
+    },
+    {
+      "id": 792,
+      "title_jp": "ウルフェンシュタイン II：ザ ニューコロッサス",
+      "title_en": "Wolfenstein II: The New Colossus",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/792-wolfenstein-ii-the-new-colossus.json"
+    },
+    {
+      "id": 793,
+      "title_jp": "ウルフェンシュタイン：ザ ニューオーダー",
+      "title_en": "Wolfenstein: The New Order",
+      "year": 2014,
+      "primary": "EXP",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/793-wolfenstein-the-new-order.json"
+    },
+    {
+      "id": 794,
+      "title_jp": "ワールド・オブ・グー",
+      "title_en": "World of Goo",
+      "year": 2008,
+      "primary": "EXP",
+      "secondary": [],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "Wii",
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/794-world-of-goo.json"
+    },
+    {
+      "id": 795,
+      "title_jp": "ワールド オブ ウォークラフト",
+      "title_en": "World of Warcraft",
+      "year": 2004,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/795-world-of-warcraft.json"
+    },
+    {
+      "id": 796,
+      "title_jp": "ワールド オブ ウォークラフト: ザ・ウォー・ウィズイン",
+      "title_en": "World of Warcraft: The War Within",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Mac"
+      ],
+      "file": "data/games/796-world-of-warcraft-the-war-within.json"
+    },
+    {
+      "id": 797,
+      "title_jp": "ウォームズ W.M.D",
+      "title_en": "Worms W.M.D",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Xbox One",
+        "Switch"
+      ],
+      "file": "data/games/797-worms-w-m-d.json"
+    },
+    {
+      "id": 798,
+      "title_jp": "無常：堕ちた羽根",
+      "title_en": "WUCHANG: Fallen Feathers",
+      "year": 2025,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "PS5",
+        "Xbox"
+      ],
+      "file": "data/games/798-wuchang-fallen-feathers.json"
+    },
+    {
+      "id": 799,
+      "title_jp": "X3: アルビオン プレリュード",
+      "title_en": "X3: Albion Prelude",
+      "year": 2011,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/799-x3-albion-prelude.json"
+    },
+    {
+      "id": 800,
+      "title_jp": "X4: ファウンデーションズ",
+      "title_en": "X4: Foundations",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/800-x4-foundations.json"
+    },
+    {
+      "id": 801,
+      "title_jp": "XCOM: キメラ スカッド",
+      "title_en": "XCOM: Chimera Squad",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC"
+      ],
+      "file": "data/games/801-xcom-chimera-squad.json"
+    },
+    {
+      "id": 802,
+      "title_jp": "龍が如く6 命の詩。",
+      "title_en": "Yakuza 6: The Song of Life",
+      "year": 2021,
+      "primary": "EXP",
+      "secondary": [
+        "NAR",
+        "REW"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "PC",
+        "PS4",
+        "Switch",
+        "Xbox One",
+        "Xbox Series"
+      ],
+      "file": "data/games/802-yakuza-6-the-song-of-life.json"
+    },
+    {
+      "id": 803,
+      "title_jp": "龍が如く7 光と闇の行方",
+      "title_en": "Yakuza: Like a Dragon",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "",
+      "platform": [
+        "PC",
+        "Xbox",
+        "PS"
+      ],
+      "file": "data/games/803-yakuza-like-a-dragon.json"
     }
   ]
 }

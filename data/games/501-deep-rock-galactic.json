@@ -1,0 +1,22 @@
+{
+  "id": 501,
+  "title_jp": "ディープロックギャラクティック",
+  "title_en": "Deep Rock Galactic",
+  "developer": "Ghost Ship Games",
+  "publisher": "Coffee Stain Publishing",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Co-op PVE FPS (dwarves vs. bugs)",
+  "sales_jp": "",
+  "sales_world": "8M+ players (2023); Rock and Stone",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "Procedural cave PVE that became the gold-standard hangout-co-op shooter of the decade.",
+  "slug": "deep-rock-galactic",
+  "file": "data/games/501-deep-rock-galactic.json"
+}

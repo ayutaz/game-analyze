@@ -1,0 +1,25 @@
+{
+  "id": 782,
+  "title_jp": "ウォーハンマー 40,000 ローグ・トレーダー",
+  "title_en": "Warhammer 40,000: Rogue Trader",
+  "developer": "Owlcat Games",
+  "publisher": "Owlcat Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Isometric 40K CRPG with space combat",
+  "sales_jp": "",
+  "sales_world": "1M+ copies sold; ~$12.5M Steam gross in first month; Very Positive 83% of 19K reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "First true 40K CRPG; Owlcat's fastest-selling title and a breakthrough for the studio.",
+  "slug": "warhammer-40-000-rogue-trader",
+  "file": "data/games/782-warhammer-40-000-rogue-trader.json"
+}

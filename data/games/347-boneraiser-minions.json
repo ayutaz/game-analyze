@@ -1,0 +1,25 @@
+{
+  "id": 347,
+  "title_jp": "Boneraiser Minions",
+  "title_en": "Boneraiser Minions",
+  "developer": "Daniel Tibi",
+  "publisher": "Daniel Tibi",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS",
+    "Xbox"
+  ],
+  "genre": "Bullet-heaven roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 200K-500K",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Solo-dev gothic horde survivor with overwhelmingly positive reviews.",
+  "slug": "boneraiser-minions",
+  "file": "data/games/347-boneraiser-minions.json"
+}

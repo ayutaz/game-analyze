@@ -1,0 +1,26 @@
+{
+  "id": 552,
+  "title_jp": "グリーンヘル",
+  "title_en": "Green Hell",
+  "developer": "Creepy Jar",
+  "publisher": "Creepy Jar",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch",
+    "Quest"
+  ],
+  "genre": "Amazon-rainforest survival",
+  "sales_jp": "",
+  "sales_world": "5M+ copies across platforms (Creepy Jar 2024)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Polish survival hit foregrounding realistic body simulation and tropical-disease mechanics; Spirits of Amazonia expansion extended it.",
+  "slug": "green-hell",
+  "file": "data/games/552-green-hell.json"
+}

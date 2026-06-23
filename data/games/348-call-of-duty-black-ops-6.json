@@ -1,0 +1,20 @@
+{
+  "id": 348,
+  "title_jp": "コール オブ デューティ ブラックオプス 6",
+  "title_en": "Call of Duty: Black Ops 6",
+  "developer": "Treyarch / Raven",
+  "publisher": "Activision (Microsoft)",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Military FPS",
+  "sales_jp": "",
+  "sales_world": "Biggest CoD launch ever; 50M players by mid-2025; best-selling US game of 2024",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "First CoD on Game Pass day-one and largest franchise launch ever — pivotal Microsoft-era release.",
+  "slug": "call-of-duty-black-ops-6",
+  "file": "data/games/348-call-of-duty-black-ops-6.json"
+}

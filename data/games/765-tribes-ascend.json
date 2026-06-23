@@ -1,0 +1,20 @@
+{
+  "id": 765,
+  "title_jp": "トライブス：アセンド",
+  "title_en": "Tribes: Ascend",
+  "developer": "Hi-Rez Studios",
+  "publisher": "Hi-Rez Studios",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Jetpack team FPS",
+  "sales_jp": "",
+  "sales_world": "F2P; 4M+ players in first year; servers still up after community campaign",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Defining fast-movement jetpack/skiing team shooter; cult favorite that influenced movement shooters for a decade.",
+  "slug": "tribes-ascend",
+  "file": "data/games/765-tribes-ascend.json"
+}

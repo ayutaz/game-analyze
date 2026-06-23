@@ -1,0 +1,22 @@
+{
+  "id": 340,
+  "title_jp": "アセット・コルサ",
+  "title_en": "Assetto Corsa",
+  "developer": "Kunos Simulazioni",
+  "publisher": "505 Games",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Racing simulator",
+  "sales_jp": "",
+  "sales_world": "Franchise €100M+ lifetime; original game with massive modding community",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "The PC sim racing community's most modded base game — survives a decade later thanks to mods like Content Manager, Shutoko, and Sol.",
+  "slug": "assetto-corsa",
+  "file": "data/games/340-assetto-corsa.json"
+}

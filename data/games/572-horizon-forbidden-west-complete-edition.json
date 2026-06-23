@@ -1,0 +1,25 @@
+{
+  "id": 572,
+  "title_jp": "Horizon Forbidden West Complete Edition",
+  "title_en": "Horizon Forbidden West Complete Edition",
+  "developer": "Guerrilla Games / Nixxes",
+  "publisher": "Sony / PlayStation PC",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "Open-world action-adventure",
+  "sales_jp": "",
+  "sales_world": "~$4M and ~100K copies in launch week; 900K+ wishlists",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PC port of Sony's biggest open-world IP since God of War — defines current Sony-on-PC strategy.",
+  "slug": "horizon-forbidden-west-complete-edition",
+  "file": "data/games/572-horizon-forbidden-west-complete-edition.json"
+}

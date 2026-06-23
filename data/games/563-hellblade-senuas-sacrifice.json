@@ -1,0 +1,23 @@
+{
+  "id": 563,
+  "title_jp": "ヘルブレイド センアの犠牲",
+  "title_en": "Hellblade: Senua's Sacrifice",
+  "developer": "Ninja Theory",
+  "publisher": "Ninja Theory",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Action-narrative / psychological",
+  "sales_jp": "",
+  "sales_world": "1M+ within months; Steam ~28K reviews (90% positive)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Acclaimed mental-illness representation through binaural audio; redefined 'independent AAA' narrative-action.",
+  "slug": "hellblade-senuas-sacrifice",
+  "file": "data/games/563-hellblade-senuas-sacrifice.json"
+}

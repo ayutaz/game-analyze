@@ -1,0 +1,27 @@
+{
+  "id": 510,
+  "title_jp": "ディヴィニティ：オリジナル・シン II ディフィニティブ・エディション",
+  "title_en": "Divinity: Original Sin II – Definitive Edition",
+  "developer": "Larian Studios",
+  "publisher": "Larian Studios",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS4",
+    "Xbox One",
+    "Switch",
+    "iOS"
+  ],
+  "genre": "Turn-based isometric co-op CRPG",
+  "sales_jp": "",
+  "sales_world": "7.5M+ lifetime; 97 Metacritic",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "Larian's pre-BG3 magnum opus; one of the most acclaimed Western RPGs ever and a co-op CRPG benchmark.",
+  "slug": "divinity-original-sin-ii-definitive-edition",
+  "file": "data/games/510-divinity-original-sin-ii-definitive-edition.json"
+}

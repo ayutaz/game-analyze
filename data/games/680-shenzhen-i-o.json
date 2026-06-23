@@ -1,0 +1,20 @@
+{
+  "id": 680,
+  "title_jp": "SHENZHEN I/O",
+  "title_en": "SHENZHEN I/O",
+  "developer": "Zachtronics",
+  "publisher": "Zachtronics",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Electronics / programming puzzle",
+  "sales_jp": "",
+  "sales_world": "Steam owners 200K-500K; ~$1.9M gross revenue estimated",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Microcontroller/circuit-design puzzle with a famous physical manual; the apex of Zachtronics' engineering-puzzle pedigree.",
+  "slug": "shenzhen-i-o",
+  "file": "data/games/680-shenzhen-i-o.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 784,
+  "title_jp": "ウォーハンマー：ヴァーミンタイド2",
+  "title_en": "Warhammer: Vermintide 2",
+  "developer": "Fatshark",
+  "publisher": "Fatshark",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Co-op PVE FPS (melee + ranged)",
+  "sales_jp": "",
+  "sales_world": "5M+ copies (2022)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "L4D-style co-op with deep melee; built the playbook Fatshark scaled into Darktide.",
+  "slug": "warhammer-vermintide-2",
+  "file": "data/games/784-warhammer-vermintide-2.json"
+}

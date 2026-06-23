@@ -1,0 +1,23 @@
+{
+  "id": 768,
+  "title_jp": "ツーポイント キャンパス",
+  "title_en": "Two Point Campus",
+  "developer": "Two Point Studios",
+  "publisher": "SEGA",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "University management sim",
+  "sales_jp": "",
+  "sales_world": "1M+ players in two weeks",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "University-themed sequel showed Two Point could franchise its formula beyond hospitals.",
+  "slug": "two-point-campus",
+  "file": "data/games/768-two-point-campus.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 366,
+  "title_jp": "Endless Dungeon / Dungeon of the Endless",
+  "title_en": "Endless Dungeon / Dungeon of the Endless",
+  "developer": "Amplitude Studios",
+  "publisher": "Sega",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "iOS"
+  ],
+  "genre": "Roguelike tower-defense strategy",
+  "sales_jp": "",
+  "sales_world": "Estimated 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Spinoff that established the Endless universe lore; bridge between 4X and indie roguelikes that shaped Amplitude's identity.",
+  "slug": "endless-dungeon-dungeon-of-the-endless",
+  "file": "data/games/366-endless-dungeon-dungeon-of-the-endless.json"
+}

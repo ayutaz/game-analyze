@@ -1,0 +1,25 @@
+{
+  "id": 466,
+  "title_jp": "Blasphemous",
+  "title_en": "Blasphemous",
+  "developer": "The Game Kitchen",
+  "publisher": "Team17",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Soulslike metroidvania",
+  "sales_jp": "",
+  "sales_world": "4M+ (franchise, 2024)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Spanish-Catholic horror aesthetic gave the metroidvania scene a distinctive cultural angle.",
+  "slug": "blasphemous",
+  "file": "data/games/466-blasphemous.json"
+}

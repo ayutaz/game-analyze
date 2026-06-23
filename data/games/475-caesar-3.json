@@ -1,0 +1,20 @@
+{
+  "id": 475,
+  "title_jp": "シーザー3",
+  "title_en": "Caesar 3",
+  "developer": "Impressions Games",
+  "publisher": "Sierra",
+  "year": 1998,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Classic city builder",
+  "sales_jp": "",
+  "sales_world": "Long-tail GOG/Steam seller; ~1M lifetime",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The classical-era city builder that inspired a generation of Roman/Egyptian builders; still actively played.",
+  "slug": "caesar-3",
+  "file": "data/games/475-caesar-3.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 617,
+  "title_jp": "永劫無間",
+  "title_en": "NARAKA: BLADEPOINT",
+  "developer": "24 Entertainment",
+  "publisher": "NetEase Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox"
+  ],
+  "genre": "Battle royale (wuxia melee)",
+  "sales_jp": "",
+  "sales_world": "40M+ players across platforms; 6M+ paid copies before going F2P; peak 120K CCU on Steam",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "First major Chinese-developed wuxia battle royale to crack global Steam top sellers.",
+  "slug": "naraka-bladepoint",
+  "file": "data/games/617-naraka-bladepoint.json"
+}

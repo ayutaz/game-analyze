@@ -1,0 +1,22 @@
+{
+  "id": 500,
+  "title_jp": "Death Must Die",
+  "title_en": "Death Must Die",
+  "developer": "Realm Archive",
+  "publisher": "Realm Archive",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Survivors-like / ARPG roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ARPG-flavored bullet-heaven that became one of 2023's surprise indie hits.",
+  "slug": "death-must-die",
+  "file": "data/games/500-death-must-die.json"
+}

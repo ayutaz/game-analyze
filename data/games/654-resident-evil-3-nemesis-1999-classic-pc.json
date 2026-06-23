@@ -1,0 +1,23 @@
+{
+  "id": 654,
+  "title_jp": "バイオハザード3 ラストエスケープ",
+  "title_en": "Resident Evil 3: Nemesis (1999 / Classic PC)",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1999,
+  "platform": [
+    "PC",
+    "PS1",
+    "Dreamcast",
+    "GameCube"
+  ],
+  "genre": "Survival horror",
+  "sales_jp": "",
+  "sales_world": "Original 1M+ units in first weeks; long-tail multi-million seller",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Introduced the stalker antagonist (Nemesis) that's been imitated across the genre and is the direct ancestor of Mr. X in RE2 Remake.",
+  "slug": "resident-evil-3-nemesis-1999-classic-pc",
+  "file": "data/games/654-resident-evil-3-nemesis-1999-classic-pc.json"
+}

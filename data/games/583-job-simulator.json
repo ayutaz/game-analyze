@@ -1,0 +1,22 @@
+{
+  "id": 583,
+  "title_jp": "ジョブ シミュレーター",
+  "title_en": "Job Simulator",
+  "developer": "Owlchemy Labs",
+  "publisher": "Owlchemy Labs",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS VR/2",
+    "Quest"
+  ],
+  "genre": "VR job comedy sim",
+  "sales_jp": "",
+  "sales_world": "$3M+ revenue in first month; one of best-selling VR games ever",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The defining VR launch title; effectively the killer app that introduced millions to consumer VR.",
+  "slug": "job-simulator",
+  "file": "data/games/583-job-simulator.json"
+}

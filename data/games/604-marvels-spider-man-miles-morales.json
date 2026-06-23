@@ -1,0 +1,25 @@
+{
+  "id": 604,
+  "title_jp": "Marvel's Spider-Man: Miles Morales",
+  "title_en": "Marvel's Spider-Man: Miles Morales",
+  "developer": "Insomniac Games / Nixxes",
+  "publisher": "Sony / PlayStation PC",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "Open-world action-adventure / superhero",
+  "sales_jp": "",
+  "sales_world": "10.2M total platforms; PC peak 13.5K CCU",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Standalone sequel-spinoff; second piece of the Insomniac Spider-Man saga on Steam.",
+  "slug": "marvels-spider-man-miles-morales",
+  "file": "data/games/604-marvels-spider-man-miles-morales.json"
+}

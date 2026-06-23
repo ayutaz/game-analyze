@@ -1,0 +1,25 @@
+{
+  "id": 755,
+  "title_jp": "トーチライト III",
+  "title_en": "Torchlight III",
+  "developer": "Echtra Games",
+  "publisher": "Perfect World Entertainment",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "ARPG",
+  "sales_jp": "",
+  "sales_world": "Mixed reception; Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Notable for its rocky 'Frontiers' MMO-to-ARPG pivot; cautionary tale and footnote in modern ARPG history.",
+  "slug": "torchlight-iii",
+  "file": "data/games/755-torchlight-iii.json"
+}

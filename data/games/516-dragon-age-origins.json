@@ -1,0 +1,25 @@
+{
+  "id": 516,
+  "title_jp": "ドラゴンエイジ：オリジンズ",
+  "title_en": "Dragon Age: Origins",
+  "developer": "BioWare",
+  "publisher": "Electronic Arts",
+  "year": 2009,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS3",
+    "Xbox 360"
+  ],
+  "genre": "Real-time-with-pause party fantasy RPG",
+  "sales_jp": "",
+  "sales_world": "3.2M in first 3 months; ~5M+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "BioWare's spiritual successor to Baldur's Gate; the franchise foundation and still its best-reviewed entry.",
+  "slug": "dragon-age-origins",
+  "file": "data/games/516-dragon-age-origins.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 619,
+  "title_jp": "Neon Abyss",
+  "title_en": "Neon Abyss",
+  "developer": "Veewo Games",
+  "publisher": "Team17",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "Action roguelite platformer",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Stack-anything Isaac-inspired platformer roguelite with infinite weapon synergies.",
+  "slug": "neon-abyss",
+  "file": "data/games/619-neon-abyss.json"
+}

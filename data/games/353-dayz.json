@@ -1,0 +1,22 @@
+{
+  "id": 353,
+  "title_jp": "DayZ",
+  "title_en": "DayZ",
+  "developer": "Bohemia Interactive",
+  "publisher": "Bohemia Interactive",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Open-world survival / PvP",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M; standalone shipped >5M by 2023",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "The Arma 2 mod-turned-standalone that birthed the modern survival genre; still a top-selling Steam survival title.",
+  "slug": "dayz",
+  "file": "data/games/353-dayz.json"
+}

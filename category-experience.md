@@ -329,3 +329,52 @@
 - **ソロ EXP の圧倒的厚み (55本)**: ローグライト／デッキ構築 (Inscryption, Loop Hero, Cobalt Core, Wildfrost, Monster Train 2, Brotato, Halls of Torment, 20 Minutes Till Dawn, Soulstone Survivors, Magicraft, Hades II)、ソウルライク／メトロイドヴァニア (ENDER LILIES, Pseudoregalia, Death's Door, Animal Well, Nine Sols)、コロニーシム／戦略 (Dyson Sphere Program, Songs of Syx, Going Medieval, Norland, Against the Storm, Frostpunk 2, Dwarf Fortress, Manor Lords)、コージーシム (Tunic, Slime Rancher 2, Strange Horticulture, Tiny Glade, Stacklands)、ホラー (Iron Lung, Poppy Playtime, Mouthwashing は NAR 寄り, The Mortuary Assistant, Choo-Choo Charles, POOLS, Crow Country, Garten of Banban, FNAF: Security Breach) など。
 - **協力 EXP の隆盛 (13本)**: Valheim、Sons of the Forest、Enshrouded、Core Keeper、Raft、PEAK、Chained Together、Risk of Rain Returns、DEVOUR、Demonologist、The Outlast Trials、BOKURA、WEBFISHING。フレンド3-4人協力＋ボイチャ＋配信映えの黄金パターンが定着。
 - **対戦／非対称／観戦も拡張**: V Rising / BattleBit Remastered / Goose Goose Duck / Liar's Bar / Crab Game / Stumble Guys（対戦）、The Texas Chain Saw Massacre（非対称）、Don't Scream / Sprunki / Chilla's Art catalog（観戦＝視聴前提）。
+
+## 7. PC 拡張（2026-06 追加分の EXP 420本）
+
+ultracode + deep-research ワークフロー（22 並列 discover エージェント）で PC エコシステムを補強した 500 本のうち、体験型 420 本（**ソロ 338 / 対戦 54 / 協力 27 / 非対称 1**）。
+
+### 7-1. 対戦 (PvP)（54本）— FPS 競技 / MOBA / レーシング マルチ / RTS 対戦
+
+PC 拡張で最大の上積みになった対戦系。新規収録：
+- **競技 FPS / シューター**: Counter-Strike 2、Battlefield 6、Battlefield 1/3/4/V/2042、Modern Warfare 2009/2019/2022、Call of Duty: Black Ops 6、Rainbow Six Siege、Tarkov (Escape from)、The Finals、Hunt: Showdown 1896、ARC Raiders、XDefiant、Splitgate 1/2、Quake Live、Day of Defeat: Source、Insurgency Sandstorm
+- **大規模戦闘 / ハードコア**: Squad、Squad 44 (Post Scriptum)、Hell Let Loose、Verdun、Tannenberg、Foxhole
+- **MOBA**: DOTA 2、Smite 1/2、Heroes of the Storm、Predecessor、Paragon、Battlerite
+- **RTS 対戦**: StarCraft 2、Company of Heroes 3、Mechabellum、Stormgate、Tempest Rising
+- **レーシング**: Forza Horizon 5、F1 25、Need for Speed Unbound、Assetto Corsa Competizione、iRacing、Project CARS、Wreckfest 2、CarX Drift Racing
+- **スポーツ系**: NBA 2K25、Madden NFL 25、NHL 25、Tony Hawk's Pro Skater 3+4、Skate. (2025)
+
+### 7-2. 協力 (Co-op)（27本）— PvE シューター / サバイバルマルチ / 探索
+
+- **PvE シューター**: Warhammer 40,000: Space Marine 2、Killing Floor 3、Left 4 Dead 2、Back 4 Blood、GTFO、Vermintide 2、Darktide
+- **サバイバルマルチ**: Rust、ARK: Survival Ascended、Conan Exiles、7 Days to Die、Soulmask、Myth of Empires、Smalland: Survive the Wilds、Medieval Dynasty (co-op modes)、Abiotic Factor、Once Human
+- **拡張 / 配信協力**: Valheim: Ashlands、Sea of Thieves、Project Zomboid (multiplayer)
+
+### 7-3. 非対称 (Asym)（1本）
+
+- **Aliens vs. Predator (2010)** (Rebellion) — Marine / Predator / Alien の三つ巴非対称マルチが当時の代表作。Dead by Daylight 系の先行例として収録。
+
+### 7-4. ソロ (Solo)（338本）— 最大ボリューム
+
+PC 拡張で最大の比重を占めるのがソロ EXP。これまでカタログに不足していた **PC 主軸 SP ジャンル** がここに集中。
+- **Western CRPG**: Mass Effect 1/2/3、Pillars of Eternity 1/2、Wasteland 2/3、Pathfinder Kingmaker / Wrath of the Righteous、Tyranny、KOTOR 1/2、Skyrim、Fallout 3 / NV / 4 / 76、The Outer Worlds、Dragon Age Origins / 2 / Inquisition / Veilguard、Avowed
+- **Grand Strategy / 4X**: Civilization VI / V、Crusader Kings 3、Europa Universalis IV、Stellaris、Total War: Warhammer 1/2/3、Total War: Three Kingdoms、Old World、Humankind、Age of Wonders 4、Endless Legend、Galactic Civilizations 3
+- **シミュレーション / 経営**: Cities: Skylines 1/2、Factorio、Microsoft Flight Simulator 2020/2024、Euro Truck Simulator 2、American Truck Simulator、SnowRunner、Mudrunner、Football Manager 2024/2025、Planet Coaster 2、Planet Zoo、Jurassic World Evolution 2、Two Point Hospital/Campus/Museum
+- **古典イマーシブシム / ステルス**: Half-Life 1/2、Portal 1/2、Bioshock 1/2/Infinite、Dishonored 2 / Death of the Outsider、Prey (2017)、System Shock 1 Remastered / Remake / 2、Hitman World of Assassination、Deus Ex: Human Revolution / Mankind Divided、Thief 2014、Splinter Cell: Chaos Theory / Blacklist、Mark of the Ninja
+- **Open World / Action-Adventure**: GTA V、Red Dead Redemption 1/2 (PC)、Far Cry 5、Assassin's Creed Origins / Odyssey / Valhalla、Watch Dogs 1/2、Dying Light 1、Days Gone、Senua's Saga: Hellblade II、Atomic Heart、Yakuza 0 / Kiwami / Like a Dragon
+- **Action / Soulslike**: The First Berserker: Khazan、Doom: The Dark Ages (2025)、Nioh 1/2、Wo Long、Code Vein、Mortal Shell、The Surge 1/2、Bayonetta、Metal Gear Rising: Revengeance
+- **Metroidvania / Platformer**: Ori and the Blind Forest / Will of the Wisps、Bloodstained: Ritual of the Night、Axiom Verge 1/2、Blasphemous 1/2、Hyper Light Drifter、Carrion、F.I.S.T.、Prince of Persia: The Lost Crown
+- **Roguelike / Deckbuilder**: Slay the Spire 1、FTL、Into the Breach、Dead Cells、Enter the Gungeon、Spelunky 2、Rogue Legacy 1/2、Caves of Qud、Tales of Maj'Eyal、Streets of Rogue 1/2、Roguebook、Across the Obelisk、Curse of the Dead Gods
+- **タクティカル / ターン制**: XCOM Enemy Within、XCOM 2 / War of the Chosen、Phoenix Point、Battle Brothers、Wartales、Darkest Dungeon 1/2、Mutant Year Zero、Wildermyth、BattleTech、Mechwarrior 5、Front Mission 1st Remake
+- **ARPG**: Path of Exile 1/2、Last Epoch、Grim Dawn、Torchlight 1/2/3、Titan Quest Anniversary、Wolcen、Hero Siege、Chronicon
+- **MMO（ソロプレイ可能なオフライン的体験）**: ESO、Lost Ark、Black Desert (single quest line)、Tower of Fantasy、Wuthering Waves PC、Snowbreak、Once Human
+- **Horror SP**: Outlast 1/2、Amnesia: The Dark Descent / Bunker、SOMA、Layers of Fear 1/2、Visage、Alien: Isolation、Detention、Devotion、Cry of Fear
+- **シミュレーション SP**: BeamNG.drive、House Flipper 2、PowerWash Simulator、Job Simulator、Stationeers、Eco、Vintage Story、Necesse
+
+### 観察
+
+- PC 拡張で **ソロ EXP が圧倒的に補強された**：これまでカタログは Switch／モバイル中心で「対戦・協力・非同期」の他者軸が目立っていたが、PC 主軸ジャンル（CRPG / 4X / シム / クラシック FPS / Metroidvania）はほぼ全てソロが本流で、結果 **ソロ 426 件** が全 EXP 603 件の 71% を占める比率まで増加。
+- **対戦は依然 MOBA / 競技 FPS / レース系の専門領域**：Counter-Strike 2、Battlefield、Modern Warfare、Hunt: Showdown、Tarkov、Hell Let Loose、StarCraft 2、DOTA 2 などのコア競技 PC タイトルを網羅。
+- **協力は配信向け＋PvE シューター＋サバイバルマルチで構成**：Space Marine 2、Vermintide 2、Darktide、Rust、ARK、Conan Exiles などコア PC 協力タイトル群。
+- **非対称はジャンル自体が稀少**：DbD（既存）、Texas Chain Saw Massacre（既存インディー）、AVP 2010（PC 拡張）の 3 件のみ。
+- **観戦は PC 拡張で明示的に追加なし**：PC 拡張のソロタイトルでも配信文化との結びつきは強い（Souls 系の死亡集、Sims 系の建築実況）が、`social_axis = 観戦` は配信ジャンル設計が本質のものに留めた。

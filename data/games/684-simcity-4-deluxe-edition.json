@@ -1,0 +1,21 @@
+{
+  "id": 684,
+  "title_jp": "シムシティ4 デラックス",
+  "title_en": "SimCity 4 Deluxe Edition",
+  "developer": "Maxis",
+  "publisher": "Electronic Arts",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "City builder",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+; perennial seller via Steam/GOG re-releases",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The last great Maxis SimCity, still actively modded; benchmark for the genre before Cities: Skylines.",
+  "slug": "simcity-4-deluxe-edition",
+  "file": "data/games/684-simcity-4-deluxe-edition.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 766,
+  "title_jp": "トロピコ5",
+  "title_en": "Tropico 5",
+  "developer": "Haemimont Games",
+  "publisher": "Kalypso Media",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox 360"
+  ],
+  "genre": "City builder / political sim",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~1.5M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Era-spanning Tropico entry that introduced dynasty mechanics; popular co-op city builder.",
+  "slug": "tropico-5",
+  "file": "data/games/766-tropico-5.json"
+}

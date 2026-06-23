@@ -1,0 +1,25 @@
+{
+  "id": 531,
+  "title_jp": "鋼鉄の追憶 シャドウ・トーチ",
+  "title_en": "F.I.S.T.: Forged in Shadow Torch",
+  "developer": "TiGames",
+  "publisher": "bilibili / Maximum Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500k-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Chinese-made dieselpunk metroidvania; a hallmark of the rising Chinese indie scene.",
+  "slug": "f-i-s-t-forged-in-shadow-torch",
+  "file": "data/games/531-f-i-s-t-forged-in-shadow-torch.json"
+}

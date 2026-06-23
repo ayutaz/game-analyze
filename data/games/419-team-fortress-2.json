@@ -1,0 +1,20 @@
+{
+  "id": 419,
+  "title_jp": "チームフォートレス2",
+  "title_en": "Team Fortress 2",
+  "developer": "Valve",
+  "publisher": "Valve",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Hero/Class team shooter",
+  "sales_jp": "",
+  "sales_world": "F2P since 2011; 50M+ accounts; still 50-100k CCU after 19 years",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "The original class-based hero shooter that invented the modern free-to-play cosmetic loot economy.",
+  "slug": "team-fortress-2",
+  "file": "data/games/419-team-fortress-2.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 362,
+  "title_jp": "ドラゴンボール ファイターズ",
+  "title_en": "DRAGON BALL FighterZ",
+  "developer": "Arc System Works",
+  "publisher": "Bandai Namco",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "2.5D fighting",
+  "sales_jp": "",
+  "sales_world": "10M+ worldwide; 2-5M Steam owners; 91% positive over 26K reviews",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Arc Sys/Bandai's biggest fighting-game hit; defined modern anime fighter design on Steam.",
+  "slug": "dragon-ball-fighterz",
+  "file": "data/games/362-dragon-ball-fighterz.json"
+}

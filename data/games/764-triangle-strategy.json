@@ -1,0 +1,24 @@
+{
+  "id": 764,
+  "title_jp": "トライアングルストラテジー",
+  "title_en": "Triangle Strategy",
+  "developer": "Artdink",
+  "publisher": "Square Enix",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "SRPG",
+  "sales_jp": "",
+  "sales_world": "1.5M+ (all platforms)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "HD-2D SRPG with branching political narrative; brought premium console SRPGs back to PC.",
+  "slug": "triangle-strategy",
+  "file": "data/games/764-triangle-strategy.json"
+}

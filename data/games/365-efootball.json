@@ -1,0 +1,24 @@
+{
+  "id": 365,
+  "title_jp": "eFootball",
+  "title_en": "eFootball",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox",
+    "Mobile"
+  ],
+  "genre": "Football (soccer) free-to-play",
+  "sales_jp": "",
+  "sales_world": "~29K Steam reviews (mixed); 750M+ downloads cross-platform",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Konami's free-to-play pivot from the PES brand — the F2P alternative to EA's FC franchise.",
+  "slug": "efootball",
+  "file": "data/games/365-efootball.json"
+}

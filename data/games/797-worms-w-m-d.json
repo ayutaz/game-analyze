@@ -1,0 +1,26 @@
+{
+  "id": 797,
+  "title_jp": "ウォームズ W.M.D",
+  "title_en": "Worms W.M.D",
+  "developer": "Team17",
+  "publisher": "Team17",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Artillery / turn-based",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hand-drawn 'back-to-Armageddon' 2D Worms that revived the classic formula after a string of polygonal entries.",
+  "slug": "worms-w-m-d",
+  "file": "data/games/797-worms-w-m-d.json"
+}

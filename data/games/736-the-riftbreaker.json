@@ -1,0 +1,24 @@
+{
+  "id": 736,
+  "title_jp": "リフトブレイカー",
+  "title_en": "The Riftbreaker",
+  "developer": "EXOR Studios",
+  "publisher": "EXOR Studios",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "ARPG / base-builder / tower defense",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; ~$2M in first month",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hybrid base-building + isometric-ARPG that pioneered the 'horde-defence factory' formula now common in 2025-era hits.",
+  "slug": "the-riftbreaker",
+  "file": "data/games/736-the-riftbreaker.json"
+}

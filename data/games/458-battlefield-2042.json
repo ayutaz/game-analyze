@@ -1,0 +1,20 @@
+{
+  "id": 458,
+  "title_jp": "バトルフィールド 2042",
+  "title_en": "Battlefield 2042",
+  "developer": "DICE",
+  "publisher": "EA",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Near-future team FPS",
+  "sales_jp": "",
+  "sales_world": "~4.2M first quarter; rocky launch, recovered with Season updates",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "128-player specialist-driven entry that became a case study in live-service shooter recovery.",
+  "slug": "battlefield-2042",
+  "file": "data/games/458-battlefield-2042.json"
+}

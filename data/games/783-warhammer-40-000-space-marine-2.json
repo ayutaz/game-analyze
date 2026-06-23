@@ -1,0 +1,23 @@
+{
+  "id": 783,
+  "title_jp": "ウォーハンマー40,000：スペースマリーン2",
+  "title_en": "Warhammer 40,000: Space Marine 2",
+  "developer": "Saber Interactive",
+  "publisher": "Focus Entertainment",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Third/first-person co-op PVE shooter",
+  "sales_jp": "",
+  "sales_world": "4.5M+ copies sold in first weeks",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Highest-selling Warhammer 40K game ever at the time; co-op Operations mode reignited the franchise.",
+  "slug": "warhammer-40-000-space-marine-2",
+  "file": "data/games/783-warhammer-40-000-space-marine-2.json"
+}

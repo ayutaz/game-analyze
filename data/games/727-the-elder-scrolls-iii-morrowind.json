@@ -1,0 +1,23 @@
+{
+  "id": 727,
+  "title_jp": "エルダー・スクロールズ III モロウィンド",
+  "title_en": "The Elder Scrolls III: Morrowind",
+  "developer": "Bethesda Game Studios",
+  "publisher": "Bethesda Softworks",
+  "year": 2002,
+  "platform": [
+    "PC",
+    "Xbox"
+  ],
+  "genre": "Open-world first-person fantasy RPG",
+  "sales_jp": "",
+  "sales_world": "4M+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defined modern Bethesda open-world design; still has a massive modding community via OpenMW.",
+  "slug": "the-elder-scrolls-iii-morrowind",
+  "file": "data/games/727-the-elder-scrolls-iii-morrowind.json"
+}

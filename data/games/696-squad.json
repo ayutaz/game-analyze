@@ -1,0 +1,20 @@
+{
+  "id": 696,
+  "title_jp": "スクワッド",
+  "title_en": "Squad",
+  "developer": "Offworld Industries",
+  "publisher": "Offworld Industries",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Tactical milsim FPS",
+  "sales_jp": "",
+  "sales_world": "6M+ copies by 2026 (3M in 2022)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Spiritual successor to Project Reality; the go-to 50v50 modern milsim on PC for nearly a decade.",
+  "slug": "squad",
+  "file": "data/games/696-squad.json"
+}

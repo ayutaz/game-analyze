@@ -1,0 +1,22 @@
+{
+  "id": 659,
+  "title_jp": "Rise of Nations: Extended Edition",
+  "title_en": "Rise of Nations: Extended Edition",
+  "developer": "Big Huge Games / SkyBox Labs",
+  "publisher": "Microsoft Studios",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M est.",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "HD re-release of the 2003 hybrid RTS/4X classic; still in active multiplayer ladders.",
+  "slug": "rise-of-nations-extended-edition",
+  "file": "data/games/659-rise-of-nations-extended-edition.json"
+}

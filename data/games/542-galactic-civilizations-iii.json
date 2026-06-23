@@ -1,0 +1,23 @@
+{
+  "id": 542,
+  "title_jp": "ギャラクティック シヴィライゼーション III",
+  "title_en": "Galactic Civilizations III",
+  "developer": "Stardock Entertainment",
+  "publisher": "Stardock",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Space 4X",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M-2M (Epic giveaway 2022 boosted to multi-million)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Mainstay space 4X used as one of the genre's bench-mark titles; widely owned via Epic free promotion that turned it into a default reference 4X.",
+  "slug": "galactic-civilizations-iii",
+  "file": "data/games/542-galactic-civilizations-iii.json"
+}

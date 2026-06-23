@@ -1,0 +1,27 @@
+{
+  "id": 635,
+  "title_jp": "パスファインダー キングメーカー",
+  "title_en": "Pathfinder: Kingmaker",
+  "developer": "Owlcat Games",
+  "publisher": "Deep Silver",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Isometric Pathfinder TTRPG CRPG + kingdom management",
+  "sales_jp": "",
+  "sales_world": "1M+ copies sold across platforms",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Launched Owlcat's career and proved Pathfinder rules could power a successful CRPG.",
+  "slug": "pathfinder-kingmaker",
+  "file": "data/games/635-pathfinder-kingmaker.json"
+}

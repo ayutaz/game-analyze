@@ -1,0 +1,22 @@
+{
+  "id": 632,
+  "title_jp": "オキシジェン ノット インクルーデッド",
+  "title_en": "Oxygen Not Included",
+  "developer": "Klei Entertainment",
+  "publisher": "Klei Entertainment",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Space-colony sim / survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; >1M in first year; ~$52M lifetime revenue",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Klei's deep simulation of pressurised gas/liquid/thermal systems redefined the colony-sim subgenre.",
+  "slug": "oxygen-not-included",
+  "file": "data/games/632-oxygen-not-included.json"
+}

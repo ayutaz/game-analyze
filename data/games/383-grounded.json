@@ -1,0 +1,25 @@
+{
+  "id": 383,
+  "title_jp": "グラウンデッド",
+  "title_en": "Grounded",
+  "developer": "Obsidian Entertainment",
+  "publisher": "Xbox Game Studios",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Xbox Series",
+    "PS5",
+    "Switch"
+  ],
+  "genre": "Backyard miniature survival",
+  "sales_jp": "",
+  "sales_world": "20M+ players (Xbox 2023); cross-play smash",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Obsidian's Honey-I-Shrunk-the-Kids survival; one of Xbox Game Pass's biggest first-party survival successes.",
+  "slug": "grounded",
+  "file": "data/games/383-grounded.json"
+}

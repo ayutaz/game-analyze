@@ -1,0 +1,22 @@
+{
+  "id": 792,
+  "title_jp": "ウルフェンシュタイン II：ザ ニューコロッサス",
+  "title_en": "Wolfenstein II: The New Colossus",
+  "developer": "MachineGames",
+  "publisher": "Bethesda Softworks",
+  "year": 2017,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; underperformed Bethesda expectations but cult-loved",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Doubled down on character writing (BJ Blazkowicz's monologues) — a shooter taken seriously as drama.",
+  "slug": "wolfenstein-ii-the-new-colossus",
+  "file": "data/games/792-wolfenstein-ii-the-new-colossus.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 524,
+  "title_jp": "Empire Earth Gold Edition",
+  "title_en": "Empire Earth Gold Edition",
+  "developer": "Stainless Steel Studios",
+  "publisher": "Vivendi Universal Games",
+  "year": 2001,
+  "platform": [
+    "PC"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "2M+ lifetime (franchise)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "AoE-killer-era epoch-spanning RTS; foundational PC-RTS title still sold on Steam/GOG.",
+  "slug": "empire-earth-gold-edition",
+  "file": "data/games/524-empire-earth-gold-edition.json"
+}

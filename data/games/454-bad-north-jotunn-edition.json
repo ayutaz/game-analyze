@@ -1,0 +1,26 @@
+{
+  "id": 454,
+  "title_jp": "Bad North: Jotunn Edition",
+  "title_en": "Bad North: Jotunn Edition",
+  "developer": "Plausible Concept",
+  "publisher": "Raw Fury",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "Mobile"
+  ],
+  "genre": "Real-time tactics",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Minimalist roguelite Viking-island defense — a critic darling that made tiny-scale RTS accessible.",
+  "slug": "bad-north-jotunn-edition",
+  "file": "data/games/454-bad-north-jotunn-edition.json"
+}

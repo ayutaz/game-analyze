@@ -1,0 +1,22 @@
+{
+  "id": 392,
+  "title_jp": "メトロ：ラストライト リダックス",
+  "title_en": "Metro: Last Light Redux",
+  "developer": "4A Games",
+  "publisher": "Deep Silver",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player atmospheric FPS",
+  "sales_jp": "",
+  "sales_world": "Franchise 10M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Refined Metro's stealth & morality systems; one of the better-rated Steam shooters of its era.",
+  "slug": "metro-last-light-redux",
+  "file": "data/games/392-metro-last-light-redux.json"
+}

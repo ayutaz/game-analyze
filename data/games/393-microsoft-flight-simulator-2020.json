@@ -1,0 +1,21 @@
+{
+  "id": 393,
+  "title_jp": "マイクロソフト フライト シミュレーター",
+  "title_en": "Microsoft Flight Simulator (2020)",
+  "developer": "Asobo Studio",
+  "publisher": "Xbox Game Studios",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Xbox Series"
+  ],
+  "genre": "Flight simulator",
+  "sales_jp": "",
+  "sales_world": "10M+ players (including Game Pass); 1M+ paid",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Reborn flagship of consumer flight sim; biggest launch in MSFS's 40-year history.",
+  "slug": "microsoft-flight-simulator-2020",
+  "file": "data/games/393-microsoft-flight-simulator-2020.json"
+}

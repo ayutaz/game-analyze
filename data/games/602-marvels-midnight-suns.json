@@ -1,0 +1,26 @@
+{
+  "id": 602,
+  "title_jp": "マーベル ミッドナイト サンズ",
+  "title_en": "Marvel's Midnight Suns",
+  "developer": "Firaxis Games",
+  "publisher": "2K",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Card-based tactics",
+  "sales_jp": "",
+  "sales_world": "500K-1M Steam",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Firaxis's hybrid card/tactics game; commercial disappointment but mechanically inventive.",
+  "slug": "marvels-midnight-suns",
+  "file": "data/games/602-marvels-midnight-suns.json"
+}

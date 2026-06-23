@@ -1,0 +1,23 @@
+{
+  "id": 621,
+  "title_jp": "仁王2 Complete Edition",
+  "title_en": "Nioh 2 – The Complete Edition (PC)",
+  "developer": "Team Ninja",
+  "publisher": "Koei Tecmo",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "Soulslike ARPG (loot-heavy)",
+  "sales_jp": "",
+  "sales_world": "Series 8M+ total; 33k+ Steam reviews 87% positive",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Hybrid soulslike-ARPG with Diablo-style loot drops; major bridge title between soulslike and looter ARPG audiences.",
+  "slug": "nioh-2-the-complete-edition-pc",
+  "file": "data/games/621-nioh-2-the-complete-edition-pc.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 471,
+  "title_jp": "ブライトメモリー：インフィニット",
+  "title_en": "Bright Memory: Infinite",
+  "developer": "FYQD-Studio",
+  "publisher": "PLAYISM / FYQD",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "First-person action",
+  "sales_jp": "",
+  "sales_world": "~300K copies in first month, ~$2M revenue; 91% positive over 36K reviews",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Famous one-man UE4 FPS proving solo Chinese devs can ship console-quality PC action.",
+  "slug": "bright-memory-infinite",
+  "file": "data/games/471-bright-memory-infinite.json"
+}

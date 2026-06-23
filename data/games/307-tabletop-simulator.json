@@ -1,0 +1,23 @@
+{
+  "id": 307,
+  "title_jp": "Tabletop Simulator",
+  "title_en": "Tabletop Simulator",
+  "developer": "Berserk Games",
+  "publisher": "Berserk Games",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "VR"
+  ],
+  "genre": "Sandbox board-game simulator",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 2-5M owners; 31K reviews 96% positive",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The de facto digital board-gaming platform on PC; the COVID-era hub for online play with workshop mods of nearly every published game.",
+  "slug": "tabletop-simulator",
+  "file": "data/games/307-tabletop-simulator.json"
+}

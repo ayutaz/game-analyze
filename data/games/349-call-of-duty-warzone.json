@@ -1,0 +1,20 @@
+{
+  "id": 349,
+  "title_jp": "コール オブ デューティ ウォーゾーン",
+  "title_en": "Call of Duty: Warzone",
+  "developer": "Infinity Ward / Raven",
+  "publisher": "Activision",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Battle royale FPS",
+  "sales_jp": "",
+  "sales_world": "F2P; 100M+ players within a year of launch",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Made AAA-published BR mainstream alongside Fortnite/Apex; became Activision's primary live-service engine.",
+  "slug": "call-of-duty-warzone",
+  "file": "data/games/349-call-of-duty-warzone.json"
+}

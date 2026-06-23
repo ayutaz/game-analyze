@@ -1,0 +1,23 @@
+{
+  "id": 400,
+  "title_jp": "ポリブリッジ 2",
+  "title_en": "Poly Bridge 2",
+  "developer": "Dry Cactus",
+  "publisher": "Dry Cactus",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Physics bridge-building puzzle",
+  "sales_jp": "",
+  "sales_world": "Steam owners 200K-500K; 96% positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Sequel to the breakout 2016 bridge-builder; one of the most popular physics sandbox puzzlers on Steam.",
+  "slug": "poly-bridge-2",
+  "file": "data/games/400-poly-bridge-2.json"
+}

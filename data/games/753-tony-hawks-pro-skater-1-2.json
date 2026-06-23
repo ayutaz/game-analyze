@@ -1,0 +1,26 @@
+{
+  "id": 753,
+  "title_jp": "トニー・ホーク プロスケーター 1+2",
+  "title_en": "Tony Hawk's Pro Skater 1 + 2",
+  "developer": "Vicarious Visions",
+  "publisher": "Activision",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Sports / arcade skating",
+  "sales_jp": "",
+  "sales_world": "1M+ in 10 days; fastest-selling THPS ever; Steam re-listed in 2024",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Definitive remake that resurrected an entire dead genre; underpins the 2025 THPS 3+4 announcement.",
+  "slug": "tony-hawks-pro-skater-1-2",
+  "file": "data/games/753-tony-hawks-pro-skater-1-2.json"
+}

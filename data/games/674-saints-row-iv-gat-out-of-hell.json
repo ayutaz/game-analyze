@@ -1,0 +1,27 @@
+{
+  "id": 674,
+  "title_jp": "セインツロウIV：ゲット アウト オブ ヘル",
+  "title_en": "Saints Row IV: Gat out of Hell",
+  "developer": "Volition / High Voltage",
+  "publisher": "Deep Silver",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS4",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / standalone expansion",
+  "sales_jp": "",
+  "sales_world": "Stand-alone expansion of SR4; Steam owners several hundred K to ~1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Standalone musical Hell adventure that capped the original Saints Row run.",
+  "slug": "saints-row-iv-gat-out-of-hell",
+  "file": "data/games/674-saints-row-iv-gat-out-of-hell.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 560,
+  "title_jp": "ハーツ オブ アイアン IV",
+  "title_en": "Hearts of Iron IV",
+  "developer": "Paradox Development Studio",
+  "publisher": "Paradox Interactive",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "World War II grand strategy",
+  "sales_jp": "",
+  "sales_world": "7M+ copies sold on Steam by November 2025",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Best-selling Paradox grand strategy title ever; alt-history mods (Kaiserreich, TNO) drive enormous secondary culture.",
+  "slug": "hearts-of-iron-iv",
+  "file": "data/games/560-hearts-of-iron-iv.json"
+}

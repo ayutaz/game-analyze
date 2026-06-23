@@ -1,0 +1,22 @@
+{
+  "id": 469,
+  "title_jp": "Warhammer 40,000: Boltgun",
+  "title_en": "Boltgun",
+  "developer": "Auroch Digital",
+  "publisher": "Focus Entertainment",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Boomer-shooter (40K)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Brought boomer-shooter aesthetics to Warhammer 40K; led to Forges of Corruption expansion.",
+  "slug": "boltgun",
+  "file": "data/games/469-boltgun.json"
+}

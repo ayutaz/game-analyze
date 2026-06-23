@@ -1,0 +1,21 @@
+{
+  "id": 527,
+  "title_jp": "Endless Space 2",
+  "title_en": "Endless Space 2",
+  "developer": "Amplitude Studios",
+  "publisher": "Sega",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "Sci-fi 4X turn-based strategy",
+  "sales_jp": "",
+  "sales_world": "Estimated 1.5-2.5M Steam owners; 83% positive on 9.4K reviews",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Considered one of the best-written space 4X games; carried Amplitude through buyout and back to independence.",
+  "slug": "endless-space-2",
+  "file": "data/games/527-endless-space-2.json"
+}

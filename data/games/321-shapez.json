@@ -1,0 +1,25 @@
+{
+  "id": 321,
+  "title_jp": "シェイプス",
+  "title_en": "shapez",
+  "developer": "tobspr Games",
+  "publisher": "tobspr Games",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "Abstract factory / puzzle",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; consistent 'Overwhelmingly Positive'",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Solo-dev abstract Factorio; minimalist visuals made the conveyor-belt genre accessible to a broader audience.",
+  "slug": "shapez",
+  "file": "data/games/321-shapez.json"
+}

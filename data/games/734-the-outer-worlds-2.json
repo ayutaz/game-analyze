@@ -1,0 +1,24 @@
+{
+  "id": 734,
+  "title_jp": "アウター・ワールド 2",
+  "title_en": "The Outer Worlds 2",
+  "developer": "Obsidian Entertainment",
+  "publisher": "Xbox Game Studios",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "First-person sci-fi RPG",
+  "sales_jp": "",
+  "sales_world": "~228K Steam copies (~$11.2M); 18K Steam peak; 83 Metacritic",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Obsidian's first numbered RPG sequel; key 2025 Microsoft RPG release though below internal targets.",
+  "slug": "the-outer-worlds-2",
+  "file": "data/games/734-the-outer-worlds-2.json"
+}

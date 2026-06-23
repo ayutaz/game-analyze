@@ -1,0 +1,24 @@
+{
+  "id": 447,
+  "title_jp": "アーク サバイバル アセンデッド",
+  "title_en": "ARK: Survival Ascended",
+  "developer": "Studio Wildcard",
+  "publisher": "Studio Wildcard",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Open-world dino-taming survival (UE5 remaster)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "UE5 remaster bundling all expansions; controversial 'paid remake' that nonetheless reactivated the ARK community ahead of ARK 2.",
+  "slug": "ark-survival-ascended",
+  "file": "data/games/447-ark-survival-ascended.json"
+}

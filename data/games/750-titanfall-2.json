@@ -1,0 +1,22 @@
+{
+  "id": 750,
+  "title_jp": "タイタンフォール2",
+  "title_en": "Titanfall 2",
+  "developer": "Respawn Entertainment",
+  "publisher": "Electronic Arts",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS (campaign) + multiplayer",
+  "sales_jp": "",
+  "sales_world": "5M+ copies; Steam re-release surged in 2020",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Single-player campaign widely cited as one of the best FPS stories of the 2010s ('Effect and Cause' mission).",
+  "slug": "titanfall-2",
+  "file": "data/games/750-titanfall-2.json"
+}

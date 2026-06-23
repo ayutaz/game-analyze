@@ -1,0 +1,22 @@
+{
+  "id": 641,
+  "title_jp": "プラネット コースター2",
+  "title_en": "Planet Coaster 2",
+  "developer": "Frontier Developments",
+  "publisher": "Frontier Developments",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Theme park management",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Adds water-park layer to Planet Coaster; centerpiece of Frontier's recovery strategy.",
+  "slug": "planet-coaster-2",
+  "file": "data/games/641-planet-coaster-2.json"
+}

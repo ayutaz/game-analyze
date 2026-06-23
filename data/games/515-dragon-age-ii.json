@@ -1,0 +1,25 @@
+{
+  "id": 515,
+  "title_jp": "ドラゴンエイジ II",
+  "title_en": "Dragon Age II",
+  "developer": "BioWare",
+  "publisher": "Electronic Arts",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS3",
+    "Xbox 360"
+  ],
+  "genre": "Action party RPG",
+  "sales_jp": "",
+  "sales_world": "~2M+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Polarizing pivot to action; Hawke's character arc and Kirkwall focus still spark fan analysis.",
+  "slug": "dragon-age-ii",
+  "file": "data/games/515-dragon-age-ii.json"
+}

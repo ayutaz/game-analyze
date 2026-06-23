@@ -1,0 +1,22 @@
+{
+  "id": 370,
+  "title_jp": "ファークライ3",
+  "title_en": "Far Cry 3",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world FPS",
+  "sales_jp": "",
+  "sales_world": "10M+ copies",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Set the open-world formula Ubisoft would reuse for a decade; Vaas became gaming's most-memed villain.",
+  "slug": "far-cry-3",
+  "file": "data/games/370-far-cry-3.json"
+}

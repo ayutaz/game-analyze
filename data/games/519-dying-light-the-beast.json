@@ -1,0 +1,25 @@
+{
+  "id": 519,
+  "title_jp": "ダイイングライト：ザ・ビースト",
+  "title_en": "Dying Light: The Beast",
+  "developer": "Techland",
+  "publisher": "Techland",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Action / zombie survival",
+  "sales_jp": "",
+  "sales_world": "1M+ Steam, 1.5M+ across platforms in first week",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Stand-alone follow-up that became 2025's surprise zombie hit on Steam.",
+  "slug": "dying-light-the-beast",
+  "file": "data/games/519-dying-light-the-beast.json"
+}

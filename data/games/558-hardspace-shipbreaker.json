@@ -1,0 +1,22 @@
+{
+  "id": 558,
+  "title_jp": "ハードスペース: シップブレイカー",
+  "title_en": "Hardspace: Shipbreaker",
+  "developer": "Blackbird Interactive",
+  "publisher": "Focus Entertainment",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Zero-G salvage sim",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Zero-gravity spaceship dismantling sim with sharp labor-economics framing; defined a new sim subgenre.",
+  "slug": "hardspace-shipbreaker",
+  "file": "data/games/558-hardspace-shipbreaker.json"
+}

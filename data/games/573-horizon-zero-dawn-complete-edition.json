@@ -1,0 +1,24 @@
+{
+  "id": 573,
+  "title_jp": "Horizon Zero Dawn Complete Edition",
+  "title_en": "Horizon Zero Dawn Complete Edition",
+  "developer": "Guerrilla Games / Nixxes",
+  "publisher": "Sony / PlayStation PC",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4"
+  ],
+  "genre": "Open-world action-adventure",
+  "sales_jp": "",
+  "sales_world": "~3.3M on PC by Feb 2023; ~2.4M by mid-2022",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sony's first major PC port; opened the floodgates for PlayStation-on-Steam strategy.",
+  "slug": "horizon-zero-dawn-complete-edition",
+  "file": "data/games/573-horizon-zero-dawn-complete-edition.json"
+}

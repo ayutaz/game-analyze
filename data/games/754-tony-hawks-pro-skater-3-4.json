@@ -1,0 +1,25 @@
+{
+  "id": 754,
+  "title_jp": "トニー・ホーク プロ・スケーター 3+4",
+  "title_en": "Tony Hawk's Pro Skater 3 + 4",
+  "developer": "Iron Galaxy",
+  "publisher": "Activision",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Skateboarding",
+  "sales_jp": "",
+  "sales_world": "Released July 2025; predecessor THPS 1+2 sold 1M+ in 2 weeks",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Continuation of the THPS remaster line — beloved era of skating games returning to PC.",
+  "slug": "tony-hawks-pro-skater-3-4",
+  "file": "data/games/754-tony-hawks-pro-skater-3-4.json"
+}

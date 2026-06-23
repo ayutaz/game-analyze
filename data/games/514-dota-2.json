@@ -1,0 +1,24 @@
+{
+  "id": 514,
+  "title_jp": "Dota 2",
+  "title_en": "Dota 2",
+  "developer": "Valve",
+  "publisher": "Valve",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "MOBA",
+  "sales_jp": "",
+  "sales_world": "Free; ~7-8M MAU, peak >800K CCU",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "The PC-primary MOBA pillar alongside LoL and the longest-running esports prize-pool king (The International).",
+  "slug": "dota-2",
+  "file": "data/games/514-dota-2.json"
+}

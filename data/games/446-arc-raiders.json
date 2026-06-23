@@ -1,0 +1,21 @@
+{
+  "id": 446,
+  "title_jp": "アーク・レイダーズ",
+  "title_en": "ARC Raiders",
+  "developer": "Embark Studios",
+  "publisher": "Nexon / Embark",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Xbox Series"
+  ],
+  "genre": "PvPvE extraction shooter (third-person)",
+  "sales_jp": "",
+  "sales_world": "4M copies in first 2 weeks (Nov 2025); 14M by Feb 2026; 700k CCU peak",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Nexon's biggest global launch ever and the breakout extraction shooter of 2025-2026.",
+  "slug": "arc-raiders",
+  "file": "data/games/446-arc-raiders.json"
+}

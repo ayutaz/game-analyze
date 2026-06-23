@@ -1,0 +1,25 @@
+{
+  "id": 733,
+  "title_jp": "アウター・ワールド",
+  "title_en": "The Outer Worlds",
+  "developer": "Obsidian Entertainment",
+  "publisher": "Private Division",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "First-person sci-fi RPG",
+  "sales_jp": "",
+  "sales_world": "5M+ players; multi-million seller",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Obsidian's first owned IP after KOTOR2/FNV; positioned as a small-scale Fallout-style RPG.",
+  "slug": "the-outer-worlds",
+  "file": "data/games/733-the-outer-worlds.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 513,
+  "title_jp": "DOOM: The Dark Ages",
+  "title_en": "Doom: The Dark Ages",
+  "developer": "id Software",
+  "publisher": "Bethesda Softworks / Microsoft",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "3M+ players in first week (biggest launch in id history); ~800K paid copies estimated",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Medieval-themed prequel; shield-saw mechanic and slower combat reframe id's combat formula.",
+  "slug": "doom-the-dark-ages",
+  "file": "data/games/513-doom-the-dark-ages.json"
+}

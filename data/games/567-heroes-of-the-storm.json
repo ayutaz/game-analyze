@@ -1,0 +1,23 @@
+{
+  "id": 567,
+  "title_jp": "Heroes of the Storm",
+  "title_en": "Heroes of the Storm",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "MOBA",
+  "sales_jp": "",
+  "sales_world": "Free; ~3.3M MAU in maintenance",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Blizzard's all-IP MOBA still has hundreds of thousands of monthly players despite being in maintenance mode.",
+  "slug": "heroes-of-the-storm",
+  "file": "data/games/567-heroes-of-the-storm.json"
+}

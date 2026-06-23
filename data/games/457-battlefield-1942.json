@@ -1,0 +1,20 @@
+{
+  "id": 457,
+  "title_jp": "バトルフィールド 1942",
+  "title_en": "Battlefield 1942",
+  "developer": "DICE",
+  "publisher": "EA",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Combined-arms team FPS",
+  "sales_jp": "",
+  "sales_world": "~3M lifetime; genre-creating sales for combined-arms PC FPS",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Founded the 64-player combined-arms WW2 shooter genre; blueprint for every Battlefield since.",
+  "slug": "battlefield-1942",
+  "file": "data/games/457-battlefield-1942.json"
+}

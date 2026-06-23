@@ -1,0 +1,25 @@
+{
+  "id": 387,
+  "title_jp": "ジャストコーズ3",
+  "title_en": "Just Cause 3",
+  "developer": "Avalanche Studios",
+  "publisher": "Square Enix",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure",
+  "sales_jp": "",
+  "sales_world": "5-10M Steam owners (SteamSpy band)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Wingsuit-and-grappling sandbox destruction — defining mid-2010s playground.",
+  "slug": "just-cause-3",
+  "file": "data/games/387-just-cause-3.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 713,
+  "title_jp": "Streets of Rogue",
+  "title_en": "Streets of Rogue",
+  "developer": "Matt Dabrowski",
+  "publisher": "tinyBuild",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Top-down immersive-sim roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "'Roguelike Deus Ex' — a class-based emergent immersive sim in a procedural city.",
+  "slug": "streets-of-rogue",
+  "file": "data/games/713-streets-of-rogue.json"
+}

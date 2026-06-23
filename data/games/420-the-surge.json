@@ -1,0 +1,24 @@
+{
+  "id": 420,
+  "title_jp": "The Surge（ザ・サージ）",
+  "title_en": "The Surge",
+  "developer": "Deck13",
+  "publisher": "Focus Entertainment",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Sci-fi soulslike",
+  "sales_jp": "",
+  "sales_world": "Steam 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Industrial sci-fi soulslike with a distinctive targeted-dismemberment combat hook.",
+  "slug": "the-surge",
+  "file": "data/games/420-the-surge.json"
+}

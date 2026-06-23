@@ -1,0 +1,20 @@
+{
+  "id": 588,
+  "title_jp": "キリングフロア",
+  "title_en": "Killing Floor (Classic)",
+  "developer": "Tripwire Interactive",
+  "publisher": "Tripwire Interactive",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Co-op horror wave shooter",
+  "sales_jp": "",
+  "sales_world": "Steam owners 3M-5M; helped seed the entire Tripwire IP",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "The original 6-player co-op zombie/Specimens shooter that grew out of a UT2004 mod and birthed the entire franchise.",
+  "slug": "killing-floor-classic",
+  "file": "data/games/588-killing-floor-classic.json"
+}

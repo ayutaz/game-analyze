@@ -1,0 +1,25 @@
+{
+  "id": 467,
+  "title_jp": "Blasphemous 2",
+  "title_en": "Blasphemous 2",
+  "developer": "The Game Kitchen",
+  "publisher": "Team17",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "~1M (Steam est.) plus consoles",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Refined sequel doubling down on weapon-swap combat; well received critically.",
+  "slug": "blasphemous-2",
+  "file": "data/games/467-blasphemous-2.json"
+}

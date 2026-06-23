@@ -1,0 +1,22 @@
+{
+  "id": 670,
+  "title_jp": "S.T.A.L.K.E.R.: コール オブ プリピャチ",
+  "title_en": "S.T.A.L.K.E.R.: Call of Pripyat",
+  "developer": "GSC Game World",
+  "publisher": "GSC / bitComposer",
+  "year": 2010,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world survival FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+; base for most major mods",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Most-polished original-trilogy entry; foundation engine for Anomaly and GAMMA standalone mods.",
+  "slug": "s-t-a-l-k-e-r-call-of-pripyat",
+  "file": "data/games/670-s-t-a-l-k-e-r-call-of-pripyat.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 629,
+  "title_jp": "アウトラスト",
+  "title_en": "Outlast",
+  "developer": "Red Barrels",
+  "publisher": "Red Barrels",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "First-person survival horror",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2M-5M; Outlast series 15M+ units, 37M players by 2024",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The found-footage asylum horror that defined the modern unarmed-protagonist hide-and-flee subgenre and launched Red Barrels' franchise.",
+  "slug": "outlast",
+  "file": "data/games/629-outlast.json"
+}

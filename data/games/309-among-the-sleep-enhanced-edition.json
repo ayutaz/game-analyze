@@ -1,0 +1,23 @@
+{
+  "id": 309,
+  "title_jp": "アマング・ザ・スリープ",
+  "title_en": "Among the Sleep — Enhanced Edition",
+  "developer": "Krillbite Studio",
+  "publisher": "Krillbite Studio / Soedesco",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "First-person horror narrative",
+  "sales_jp": "",
+  "sales_world": "1M+ copies lifetime",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Plays as a two-year-old child — uniquely empathetic horror perspective, Norwegian Game of the Year 2014.",
+  "slug": "among-the-sleep-enhanced-edition",
+  "file": "data/games/309-among-the-sleep-enhanced-edition.json"
+}

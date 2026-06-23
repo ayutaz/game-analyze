@@ -1,0 +1,22 @@
+{
+  "id": 761,
+  "title_jp": "Total War: WARHAMMER II",
+  "title_en": "Total War: Warhammer II",
+  "developer": "Creative Assembly",
+  "publisher": "Sega",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Real-time tactics + turn-based grand campaign",
+  "sales_jp": "",
+  "sales_world": "~5M lifetime (TW series sold 36M+, WH2 a major share)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Vortex + Mortal Empires duo turned Total War into a fantasy phenomenon and validated decade-long DLC support.",
+  "slug": "total-war-warhammer-ii",
+  "file": "data/games/761-total-war-warhammer-ii.json"
+}

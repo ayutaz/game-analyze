@@ -1,0 +1,22 @@
+{
+  "id": 505,
+  "title_jp": "ディアブロ",
+  "title_en": "Diablo (1996, GOG)",
+  "developer": "Blizzard North",
+  "publisher": "Blizzard Entertainment",
+  "year": 1996,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ARPG (original)",
+  "sales_jp": "",
+  "sales_world": "2.5M+ lifetime; GOG re-release 2019 charted strongly",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "The progenitor of the entire genre; GOG re-release in 2019 brought it back to a new generation.",
+  "slug": "diablo-1996-gog",
+  "file": "data/games/505-diablo-1996-gog.json"
+}

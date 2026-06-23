@@ -1,0 +1,25 @@
+{
+  "id": 421,
+  "title_jp": "ディス・ウォー・オブ・マイン",
+  "title_en": "This War of Mine",
+  "developer": "11 bit studios",
+  "publisher": "11 bit studios",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "War survival narrative",
+  "sales_jp": "",
+  "sales_world": "9M+ copies lifetime (2024); Steam revenue $10M+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Bosnian-war-inspired civilian survival sim — adopted as Polish school reading material; a watershed for serious-game narrative.",
+  "slug": "this-war-of-mine",
+  "file": "data/games/421-this-war-of-mine.json"
+}

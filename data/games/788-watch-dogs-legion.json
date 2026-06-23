@@ -1,0 +1,28 @@
+{
+  "id": 788,
+  "title_jp": "ウォッチドッグス レギオン",
+  "title_en": "Watch Dogs: Legion",
+  "developer": "Ubisoft Toronto",
+  "publisher": "Ubisoft",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Stadia",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure / hacking",
+  "sales_jp": "",
+  "sales_world": "1.9M digital in launch month — franchise record",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "'Play as anyone' London-set sandbox; final entry before Ubisoft shelved the series.",
+  "slug": "watch-dogs-legion",
+  "file": "data/games/788-watch-dogs-legion.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 615,
+  "title_jp": "マイタイム アット サンドロック",
+  "title_en": "My Time at Sandrock",
+  "developer": "Pathea Games",
+  "publisher": "Pathea Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Life sim / crafting RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Sequel deepens the workshop/town sim formula; one of the most successful Chinese indies on Steam.",
+  "slug": "my-time-at-sandrock",
+  "file": "data/games/615-my-time-at-sandrock.json"
+}

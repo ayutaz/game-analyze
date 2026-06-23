@@ -1,0 +1,22 @@
+{
+  "id": 650,
+  "title_jp": "Quake（リマスター版）",
+  "title_en": "Quake Remastered",
+  "developer": "id Software / Nightdive / MachineGames",
+  "publisher": "Bethesda Softworks",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Classic FPS (remaster)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Surprise drop at QuakeCon 2021; MachineGames' new 'Dimension of the Machine' chapter relit the modding flame.",
+  "slug": "quake-remastered",
+  "file": "data/games/650-quake-remastered.json"
+}

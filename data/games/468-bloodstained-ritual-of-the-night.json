@@ -1,0 +1,25 @@
+{
+  "id": 468,
+  "title_jp": "Bloodstained: Ritual of the Night",
+  "title_en": "Bloodstained: Ritual of the Night",
+  "developer": "ArtPlay / WayForward / DICO",
+  "publisher": "505 Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "2M+ (Sep 2023)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Koji Igarashi's Kickstarter spiritual successor to SOTN; outsold every Castlevania.",
+  "slug": "bloodstained-ritual-of-the-night",
+  "file": "data/games/468-bloodstained-ritual-of-the-night.json"
+}

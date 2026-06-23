@@ -1,0 +1,20 @@
+{
+  "id": 710,
+  "title_jp": "Stephen's Sausage Roll",
+  "title_en": "Stephen's Sausage Roll",
+  "developer": "Increpare Games (Stephen Lavelle)",
+  "publisher": "Increpare Games",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Sokoban puzzle",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 100K-200K owners; Metacritic 90",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Cult sokoban often cited as the most influential thinky-puzzle game of the 2010s; foundational for the modern puzzle scene.",
+  "slug": "stephens-sausage-roll",
+  "file": "data/games/710-stephens-sausage-roll.json"
+}

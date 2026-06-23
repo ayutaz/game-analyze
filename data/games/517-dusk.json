@@ -1,0 +1,22 @@
+{
+  "id": 517,
+  "title_jp": "Dusk",
+  "title_en": "Dusk",
+  "developer": "David Szymanski",
+  "publisher": "New Blood Interactive",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Boomer-shooter (retro single-player FPS)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; defining indie FPS revival",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Single-handedly kicked off the modern boomer-shooter wave; Quake-DNA channelled into solo dev work.",
+  "slug": "dusk",
+  "file": "data/games/517-dusk.json"
+}

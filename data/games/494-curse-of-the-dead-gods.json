@@ -1,0 +1,25 @@
+{
+  "id": 494,
+  "title_jp": "Curse of the Dead Gods",
+  "title_en": "Curse of the Dead Gods",
+  "developer": "Passtech Games",
+  "publisher": "Focus Entertainment",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One"
+  ],
+  "genre": "Top-down action roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hades' closest top-down 'temple-crawler' cousin; later got a Hades crossover update.",
+  "slug": "curse-of-the-dead-gods",
+  "file": "data/games/494-curse-of-the-dead-gods.json"
+}

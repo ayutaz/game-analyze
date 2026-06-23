@@ -1,0 +1,23 @@
+{
+  "id": 546,
+  "title_jp": "グルームウッド",
+  "title_en": "Gloomwood",
+  "developer": "Dillon Rogers / David Szymanski",
+  "publisher": "New Blood Interactive",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "First-person stealth-horror / Thief-like",
+  "sales_jp": "",
+  "sales_world": "7K+ Steam reviews at 95% positive, est. 300K+ owners in Early Access",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Most prominent modern Thief homage; flagship of the immersive-sim revival.",
+  "slug": "gloomwood",
+  "file": "data/games/546-gloomwood.json"
+}

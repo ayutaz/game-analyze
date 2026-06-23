@@ -1,0 +1,24 @@
+{
+  "id": 564,
+  "title_jp": "ヒーローシージ",
+  "title_en": "Hero Siege",
+  "developer": "Panic Art Studios",
+  "publisher": "Panic Art Studios",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "consoles",
+    "Mobile"
+  ],
+  "genre": "ARPG / roguelike-lite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; 12k+ reviews",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Long-running pixel ARPG with seasons and a player-driven economy; cult go-to budget Diablo-like.",
+  "slug": "hero-siege",
+  "file": "data/games/564-hero-siege.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 359,
+  "title_jp": "DmC デビル メイ クライ",
+  "title_en": "DmC: Devil May Cry Definitive Edition",
+  "developer": "Ninja Theory",
+  "publisher": "Capcom",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3/4",
+    "Xbox 360/One"
+  ],
+  "genre": "Character action reboot",
+  "sales_jp": "",
+  "sales_world": "Series shipped 2.4M+; Steam 1M+ owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Controversial Ninja Theory reboot that became a critically reassessed cult action title on PC.",
+  "slug": "dmc-devil-may-cry-definitive-edition",
+  "file": "data/games/359-dmc-devil-may-cry-definitive-edition.json"
+}

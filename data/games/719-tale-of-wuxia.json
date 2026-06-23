@@ -1,0 +1,22 @@
+{
+  "id": 719,
+  "title_jp": "侠客風雲伝",
+  "title_en": "Tale of Wuxia",
+  "developer": "Heluo Studio",
+  "publisher": "Phoenix Games",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Wuxia RPG",
+  "sales_jp": "",
+  "sales_world": "~$3.8M gross Steam revenue; 6,400+ reviews 76% positive",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Spiritual successor to Heroes of Jin Yong; touchstone modern wuxia PC RPG.",
+  "slug": "tale-of-wuxia",
+  "file": "data/games/719-tale-of-wuxia.json"
+}

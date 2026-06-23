@@ -1,0 +1,24 @@
+{
+  "id": 410,
+  "title_jp": "シャドウラン 香港",
+  "title_en": "Shadowrun: Hong Kong",
+  "developer": "Harebrained Schemes",
+  "publisher": "Harebrained Schemes",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Isometric cyberpunk-fantasy CRPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K; Overwhelmingly Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Closes the Harebrained Shadowrun trilogy with mature noir writing in a Hong Kong setting.",
+  "slug": "shadowrun-hong-kong",
+  "file": "data/games/410-shadowrun-hong-kong.json"
+}

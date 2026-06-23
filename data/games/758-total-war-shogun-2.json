@@ -1,0 +1,22 @@
+{
+  "id": 758,
+  "title_jp": "Total War: SHOGUN 2",
+  "title_en": "Total War: Shogun 2",
+  "developer": "Creative Assembly",
+  "publisher": "Sega",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Sengoku-era grand campaign + real-time tactics",
+  "sales_jp": "",
+  "sales_world": "Estimated 2-3M lifetime; 92% positive across 21K Steam reviews",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Beloved as the cleanest, most-focused Total War; the Sengoku setting gives it standing in Japanese-history strategy lineage.",
+  "slug": "total-war-shogun-2",
+  "file": "data/games/758-total-war-shogun-2.json"
+}

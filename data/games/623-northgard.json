@@ -1,0 +1,26 @@
+{
+  "id": 623,
+  "title_jp": "Northgard",
+  "title_en": "Northgard",
+  "developer": "Shiro Games",
+  "publisher": "Shiro Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Viking RTS / 4X-lite",
+  "sales_jp": "",
+  "sales_world": "2M+ copies sold",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Long-running approachable RTS with 4X structure; massive longevity through clan DLC and esports support.",
+  "slug": "northgard",
+  "file": "data/games/623-northgard.json"
+}

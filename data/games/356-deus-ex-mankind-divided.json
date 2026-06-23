@@ -1,0 +1,25 @@
+{
+  "id": 356,
+  "title_jp": "デウスエクス マンカインド・ディバイデッド",
+  "title_en": "Deus Ex: Mankind Divided",
+  "developer": "Eidos-Montréal",
+  "publisher": "Square Enix",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Immersive sim / action RPG",
+  "sales_jp": "",
+  "sales_world": "~1.9M Steam units, $57.8M revenue; SteamSpy 2-5M owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Last full Deus Ex entry; commercial 'disappointment' that effectively paused the series.",
+  "slug": "deus-ex-mankind-divided",
+  "file": "data/games/356-deus-ex-mankind-divided.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 334,
+  "title_jp": "青鬼",
+  "title_en": "Ao Oni",
+  "developer": "noprops",
+  "publisher": "noprops / UUUM (2024 remaster)",
+  "year": 2008,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "RPG Maker horror adventure",
+  "sales_jp": "",
+  "sales_world": "50M+ Niconico/YouTube views; films, novels, anime spin-offs",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The single most famous RPG Maker horror game; popularized the genre globally via Let's Plays, with three feature films and an anime.",
+  "slug": "ao-oni",
+  "file": "data/games/334-ao-oni.json"
+}

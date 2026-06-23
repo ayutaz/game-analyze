@@ -1,0 +1,23 @@
+{
+  "id": 398,
+  "title_jp": "仁王 Complete Edition",
+  "title_en": "Nioh: Complete Edition",
+  "developer": "Team Ninja",
+  "publisher": "Koei Tecmo",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4"
+  ],
+  "genre": "Action RPG / Soulslike",
+  "sales_jp": "",
+  "sales_world": "Series 2017+ shipped 7M+; Steam 1-2M owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defining samurai soulslike that helped formalize the Team Ninja stamina-loot action template.",
+  "slug": "nioh-complete-edition",
+  "file": "data/games/398-nioh-complete-edition.json"
+}

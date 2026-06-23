@@ -1,0 +1,23 @@
+{
+  "id": 594,
+  "title_jp": "レイヤーズ・オブ・フィアー",
+  "title_en": "Layers of Fear (2016)",
+  "developer": "Bloober Team",
+  "publisher": "Aspyr / Bloober Team",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Psychological walking-sim horror",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+; 89% positive of 26K reviews",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Painter's-mansion psychological horror that put Bloober Team on the map and codified shifting-environment indie horror.",
+  "slug": "layers-of-fear-2016",
+  "file": "data/games/594-layers-of-fear-2016.json"
+}

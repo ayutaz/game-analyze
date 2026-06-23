@@ -1,0 +1,24 @@
+{
+  "id": 404,
+  "title_jp": "リムワールド",
+  "title_en": "RimWorld",
+  "developer": "Ludeon Studios",
+  "publisher": "Ludeon Studios",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Colony sim / story generator",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M (Gamalytic ~8.7M); flagship indie colony sim",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "The definitive narrative-driven colony sim and most-modded base-builder on Steam, with five paid DLCs (latest: Odyssey 2025).",
+  "slug": "rimworld",
+  "file": "data/games/404-rimworld.json"
+}

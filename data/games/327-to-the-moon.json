@@ -1,0 +1,25 @@
+{
+  "id": 327,
+  "title_jp": "トゥ・ザ・ムーン",
+  "title_en": "To the Moon",
+  "developer": "Freebird Games",
+  "publisher": "Freebird Games / X.D. Network",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Story-driven RPG-Maker adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+; 95% positive of 19K+ reviews",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Kan Gao's RPG Maker tearjerker — proved auteur narrative could thrive on tiny tech, spawned a long-running series.",
+  "slug": "to-the-moon",
+  "file": "data/games/327-to-the-moon.json"
+}

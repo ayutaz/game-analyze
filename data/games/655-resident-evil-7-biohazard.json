@@ -1,0 +1,25 @@
+{
+  "id": 655,
+  "title_jp": "バイオハザード7 レジデント イービル",
+  "title_en": "Resident Evil 7: Biohazard",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series",
+    "Switch (cloud)"
+  ],
+  "genre": "First-person survival horror",
+  "sales_jp": "",
+  "sales_world": "15.9M units lifetime (Capcom FY2026 interim)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Series reboot into first-person survival horror in a Louisiana plantation; saved the franchise creatively and commercially.",
+  "slug": "resident-evil-7-biohazard",
+  "file": "data/games/655-resident-evil-7-biohazard.json"
+}

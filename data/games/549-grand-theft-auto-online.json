@@ -1,0 +1,27 @@
+{
+  "id": 549,
+  "title_jp": "グランド・セフト・オート オンライン",
+  "title_en": "Grand Theft Auto Online",
+  "developer": "Rockstar North",
+  "publisher": "Rockstar Games",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world online sandbox / live-service",
+  "sales_jp": "",
+  "sales_world": "~18.3M MAU; ~$500M annual revenue (2025-26 leak); Shark Cards = 74% of GTAO revenue",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The live-service backbone that kept GTA V at the top of charts for a decade — sandbox-as-a-platform.",
+  "slug": "grand-theft-auto-online",
+  "file": "data/games/549-grand-theft-auto-online.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 566,
+  "title_jp": "ヒーローズ オブ マイト アンド マジック III HDエディション",
+  "title_en": "Heroes of Might & Magic III: HD Edition",
+  "developer": "DotEmu",
+  "publisher": "Ubisoft",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Turn-based strategy",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~1M; ~20K reviews 79% positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Re-release of the most-loved HoMM entry of all time; still a competitive multiplayer tournament scene exists around Horn of the Abyss and HD Edition.",
+  "slug": "heroes-of-might-magic-iii-hd-edition",
+  "file": "data/games/566-heroes-of-might-magic-iii-hd-edition.json"
+}

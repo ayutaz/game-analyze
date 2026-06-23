@@ -1,0 +1,25 @@
+{
+  "id": 312,
+  "title_jp": "カーメカニックシミュレーター2021",
+  "title_en": "Car Mechanic Simulator 2021",
+  "developer": "Red Dot Games",
+  "publisher": "PlayWay",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Mechanic simulation",
+  "sales_jp": "",
+  "sales_world": "1M+ players; 35K+ reviews 95% positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The lead title in PlayWay's tactile job-simulator catalog; a definitive auto repair sim.",
+  "slug": "car-mechanic-simulator-2021",
+  "file": "data/games/312-car-mechanic-simulator-2021.json"
+}

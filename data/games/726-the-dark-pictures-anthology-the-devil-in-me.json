@@ -1,0 +1,24 @@
+{
+  "id": 726,
+  "title_jp": "ダーク・ピクチャーズ・アンソロジー:ザ・デビル・イン・ミー",
+  "title_en": "The Dark Pictures Anthology: The Devil in Me",
+  "developer": "Supermassive Games",
+  "publisher": "Bandai Namco Entertainment",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Cinematic narrative horror",
+  "sales_jp": "",
+  "sales_world": "~50K Steam units / ~$2M in first month — best Dark Pictures launch on Steam",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "H.H. Holmes serial-killer 'murder hotel' horror; season-one finale of the Dark Pictures Anthology.",
+  "slug": "the-dark-pictures-anthology-the-devil-in-me",
+  "file": "data/games/726-the-dark-pictures-anthology-the-devil-in-me.json"
+}

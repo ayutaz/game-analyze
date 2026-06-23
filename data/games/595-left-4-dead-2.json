@@ -1,0 +1,22 @@
+{
+  "id": 595,
+  "title_jp": "レフト 4 デッド 2",
+  "title_en": "Left 4 Dead 2",
+  "developer": "Valve",
+  "publisher": "Valve",
+  "year": 2009,
+  "platform": [
+    "PC",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "Co-op zombie shooter",
+  "sales_jp": "",
+  "sales_world": "2M units in first two weeks; ongoing Steam evergreen",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Best-selling and still-played co-op zombie shooter on Steam; benchmark for the genre that Back 4 Blood and Killing Floor still chase.",
+  "slug": "left-4-dead-2",
+  "file": "data/games/595-left-4-dead-2.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 498,
+  "title_jp": "Dawn of War III",
+  "title_en": "Dawn of War III",
+  "developer": "Relic Entertainment",
+  "publisher": "SEGA",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; commercial disappointment",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Controversial MOBA-influenced 40K RTS that effectively ended Relic's W40K line and shaped the post-2017 RTS design discourse.",
+  "slug": "dawn-of-war-iii",
+  "file": "data/games/498-dawn-of-war-iii.json"
+}

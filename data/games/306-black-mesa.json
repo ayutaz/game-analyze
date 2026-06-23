@@ -1,0 +1,22 @@
+{
+  "id": 306,
+  "title_jp": "ブラックメサ",
+  "title_en": "Black Mesa",
+  "developer": "Crowbar Collective",
+  "publisher": "Crowbar Collective",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS (remake)",
+  "sales_jp": "",
+  "sales_world": "120K+ Steam reviews — Overwhelmingly Positive; ~1-2M owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Fan-mod-turned-commercial Half-Life 1 remake; the rare community remake Valve officially blessed for sale.",
+  "slug": "black-mesa",
+  "file": "data/games/306-black-mesa.json"
+}

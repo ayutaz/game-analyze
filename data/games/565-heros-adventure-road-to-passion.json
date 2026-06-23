@@ -1,0 +1,22 @@
+{
+  "id": 565,
+  "title_jp": "百年江湖梦",
+  "title_en": "Hero's Adventure: Road to Passion",
+  "developer": "Lupinerunes Games",
+  "publisher": "GameraGame",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world wuxia RPG",
+  "sales_jp": "",
+  "sales_world": "1M+ copies sold across platforms (~70% PC); 93% positive",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Breakout pixel-art wuxia RPG of 2024 with branching endings, mainstreaming jianghu sims abroad.",
+  "slug": "heros-adventure-road-to-passion",
+  "file": "data/games/565-heros-adventure-road-to-passion.json"
+}

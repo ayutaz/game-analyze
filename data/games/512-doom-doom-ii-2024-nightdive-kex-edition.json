@@ -1,0 +1,26 @@
+{
+  "id": 512,
+  "title_jp": "DOOM + DOOM II",
+  "title_en": "DOOM + DOOM II (2024 Nightdive Kex Edition)",
+  "developer": "Nightdive Studios / id Software / MachineGames",
+  "publisher": "Bethesda Softworks",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox",
+    "Switch"
+  ],
+  "genre": "Boomer FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; free upgrade for previous Doom (2019) port owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Bundled Kex-engine port of the 1993/1994 originals with new Legacy of Rust episode by id+Nightdive+MachineGames — the canonical modern Doom classic release.",
+  "slug": "doom-doom-ii-2024-nightdive-kex-edition",
+  "file": "data/games/512-doom-doom-ii-2024-nightdive-kex-edition.json"
+}

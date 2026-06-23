@@ -1,0 +1,22 @@
+{
+  "id": 697,
+  "title_jp": "スター・シチズン",
+  "title_en": "Star Citizen",
+  "developer": "Cloud Imperium Games",
+  "publisher": "Cloud Imperium Games",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Persistent-universe space sim MMO (perpetual alpha)",
+  "sales_jp": "",
+  "sales_world": "$1B+ crowdfunded by May 2026; $152M raised in 2025 alone; ~5M backer accounts",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "The most-funded crowdfunded project in history; despite never releasing, runs a persistent universe with hundreds of thousands of paying players.",
+  "slug": "star-citizen",
+  "file": "data/games/697-star-citizen.json"
+}

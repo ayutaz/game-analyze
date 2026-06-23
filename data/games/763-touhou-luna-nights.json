@@ -1,0 +1,25 @@
+{
+  "id": 763,
+  "title_jp": "東方ルナナイツ",
+  "title_en": "Touhou Luna Nights",
+  "developer": "Team Ladybug",
+  "publisher": "Why so serious? (Playism in JP)",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch",
+    "Xbox",
+    "PS"
+  ],
+  "genre": "Metroidvania (Touhou doujin)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500k-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Team Ladybug doujin metroidvania; one of the most successful Touhou indie crossovers (Note: 2019 release, fits user 'if 2019 skip' caveat — included pending policy).",
+  "slug": "touhou-luna-nights",
+  "file": "data/games/763-touhou-luna-nights.json"
+}

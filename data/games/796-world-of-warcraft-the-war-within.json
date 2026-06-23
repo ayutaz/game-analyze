@@ -1,0 +1,23 @@
+{
+  "id": 796,
+  "title_jp": "ワールド オブ ウォークラフト: ザ・ウォー・ウィズイン",
+  "title_en": "World of Warcraft: The War Within",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "MMORPG expansion",
+  "sales_jp": "",
+  "sales_world": "1.5-2M DAU post-launch; first chapter of 'Worldsoul Saga' trilogy",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Kicked off WoW's first connected three-expansion saga and reversed subscriber decline after Shadowlands.",
+  "slug": "world-of-warcraft-the-war-within",
+  "file": "data/games/796-world-of-warcraft-the-war-within.json"
+}

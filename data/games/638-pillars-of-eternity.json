@@ -1,0 +1,27 @@
+{
+  "id": 638,
+  "title_jp": "ピラーズ オブ エタニティ",
+  "title_en": "Pillars of Eternity",
+  "developer": "Obsidian Entertainment",
+  "publisher": "Paradox Interactive",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Isometric party-based CRPG",
+  "sales_jp": "",
+  "sales_world": "1.2M+ Steam sales by 2018; ~5M earned via Kickstarter + retail",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Kickstarter-funded spiritual successor to Baldur's Gate that reignited the isometric CRPG renaissance.",
+  "slug": "pillars-of-eternity",
+  "file": "data/games/638-pillars-of-eternity.json"
+}

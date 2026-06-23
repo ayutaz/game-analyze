@@ -1,0 +1,20 @@
+{
+  "id": 685,
+  "title_jp": "Sins of a Solar Empire: Rebellion",
+  "title_en": "Sins of a Solar Empire: Rebellion",
+  "developer": "Ironclad Games / Stardock",
+  "publisher": "Stardock Entertainment",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Real-time 4X (space)",
+  "sales_jp": "",
+  "sales_world": "Steam first-month sales exceeded entire physical retail of original Sins; estimated 1M+ lifetime",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Standalone expansion that became the definitive form of the original Sins; foundation for the modern real-time space 4X.",
+  "slug": "sins-of-a-solar-empire-rebellion",
+  "file": "data/games/685-sins-of-a-solar-empire-rebellion.json"
+}

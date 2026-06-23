@@ -1,0 +1,25 @@
+{
+  "id": 407,
+  "title_jp": "Hellblade II セヌアズ・サーガ",
+  "title_en": "Senua's Saga: Hellblade II",
+  "developer": "Ninja Theory",
+  "publisher": "Xbox Game Studios",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Cinematic action-adventure",
+  "sales_jp": "",
+  "sales_world": "Steam ~4K peak CCU; ~$10M Steam gross; 85% positive of 4K reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Xbox's prestige showcase; visual benchmark, though commercial reception modest on PC.",
+  "slug": "senuas-saga-hellblade-ii",
+  "file": "data/games/407-senuas-saga-hellblade-ii.json"
+}

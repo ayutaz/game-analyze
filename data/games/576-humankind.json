@@ -1,0 +1,24 @@
+{
+  "id": 576,
+  "title_jp": "Humankind",
+  "title_en": "Humankind",
+  "developer": "Amplitude Studios",
+  "publisher": "Sega",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Mac",
+    "Stadia",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "4X turn-based strategy",
+  "sales_jp": "",
+  "sales_world": "Estimated 500K-1M Steam owners; Game Pass day one significantly expanded reach",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Most-hyped Civ challenger of the decade; culture-mixing system was the year's most discussed 4X design experiment.",
+  "slug": "humankind",
+  "file": "data/games/576-humankind.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 358,
+  "title_jp": "ディスオナード デス・オブ・ジ・アウトサイダー",
+  "title_en": "Dishonored: Death of the Outsider",
+  "developer": "Arkane Studios",
+  "publisher": "Bethesda Softworks",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Immersive sim / stealth-action",
+  "sales_jp": "",
+  "sales_world": "SteamSpy 1-2M owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Standalone Billie Lurk epilogue; closes the Dishonored arc.",
+  "slug": "dishonored-death-of-the-outsider",
+  "file": "data/games/358-dishonored-death-of-the-outsider.json"
+}

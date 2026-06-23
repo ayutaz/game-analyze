@@ -1,0 +1,23 @@
+{
+  "id": 534,
+  "title_jp": "ファーミングシミュレーター22",
+  "title_en": "Farming Simulator 22",
+  "developer": "GIANTS Software",
+  "publisher": "GIANTS Software",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Farming simulator",
+  "sales_jp": "",
+  "sales_world": "4M+ copies sold across platforms",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Industry-leading farming sim with licensed equipment; massive worldwide audience.",
+  "slug": "farming-simulator-22",
+  "file": "data/games/534-farming-simulator-22.json"
+}

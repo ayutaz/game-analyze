@@ -1,0 +1,22 @@
+{
+  "id": 328,
+  "title_jp": "ULTRAKILL",
+  "title_en": "ULTRAKILL",
+  "developer": "Arsi 'Hakita' Patala",
+  "publisher": "New Blood Interactive",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Boomer-shooter (style-driven FPS)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+; overwhelmingly positive (200K+ reviews)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "DMC-style ranking system in an FPS; one of the most-loved shooters on Steam this decade despite being Early Access.",
+  "slug": "ultrakill",
+  "file": "data/games/328-ultrakill.json"
+}

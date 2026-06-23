@@ -1,0 +1,20 @@
+{
+  "id": 386,
+  "title_jp": "ハント：ショウダウン 1896",
+  "title_en": "Hunt: Showdown 1896",
+  "developer": "Crytek",
+  "publisher": "Crytek",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "PvPvE extraction FPS",
+  "sales_jp": "",
+  "sales_world": "Original Hunt 10M+ owners by 2024; 1896 relaunch refreshed playerbase to top-30 Steam regular",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Atmospheric bayou bounty-hunter extraction shooter; the longest-running successful extraction FPS besides Tarkov.",
+  "slug": "hunt-showdown-1896",
+  "file": "data/games/386-hunt-showdown-1896.json"
+}

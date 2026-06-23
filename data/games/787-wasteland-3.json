@@ -1,0 +1,25 @@
+{
+  "id": 787,
+  "title_jp": "ウェイストランド 3",
+  "title_en": "Wasteland 3",
+  "developer": "inXile Entertainment",
+  "publisher": "Deep Silver",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Post-apocalyptic squad tactical RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K-1M; 86 Metacritic",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Studio's best-reviewed RPG and inXile's last project before Microsoft fully absorbed them.",
+  "slug": "wasteland-3",
+  "file": "data/games/787-wasteland-3.json"
+}

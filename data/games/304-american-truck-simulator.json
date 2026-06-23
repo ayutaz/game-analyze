@@ -1,0 +1,20 @@
+{
+  "id": 304,
+  "title_jp": "アメリカン トラック シミュレーター",
+  "title_en": "American Truck Simulator",
+  "developer": "SCS Software",
+  "publisher": "SCS Software",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Truck driving simulation",
+  "sales_jp": "",
+  "sales_world": "161K+ reviews 97% positive; estimated 2-5M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "SCS's U.S. companion to ETS2 with constant state-map DLC expansions — a slow-living sim icon.",
+  "slug": "american-truck-simulator",
+  "file": "data/games/304-american-truck-simulator.json"
+}

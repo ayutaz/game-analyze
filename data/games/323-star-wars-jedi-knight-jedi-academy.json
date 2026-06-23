@@ -1,0 +1,25 @@
+{
+  "id": 323,
+  "title_jp": "スター・ウォーズ ジェダイナイト ジェダイアカデミー",
+  "title_en": "Star Wars Jedi Knight: Jedi Academy",
+  "developer": "Raven Software",
+  "publisher": "Disney / LucasArts / Aspyr",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "Action FPS / lightsaber",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; 95% positive of 7K reviews on Steam",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Customizable Jedi RPG-lite that remains the de facto multiplayer lightsaber community — modded servers still active 20+ years on.",
+  "slug": "star-wars-jedi-knight-jedi-academy",
+  "file": "data/games/323-star-wars-jedi-knight-jedi-academy.json"
+}

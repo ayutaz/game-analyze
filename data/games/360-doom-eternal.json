@@ -1,0 +1,22 @@
+{
+  "id": 360,
+  "title_jp": "DOOM Eternal",
+  "title_en": "Doom Eternal",
+  "developer": "id Software",
+  "publisher": "Bethesda Softworks",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "~3M Steam, $450M+ revenue franchise; outsold 2016 Doom",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Pushed FPS combat into resource-juggling 'shooter-platformer' territory; cult-loved skill-ceiling design.",
+  "slug": "doom-eternal",
+  "file": "data/games/360-doom-eternal.json"
+}

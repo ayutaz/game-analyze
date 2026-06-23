@@ -1,0 +1,26 @@
+{
+  "id": 781,
+  "title_jp": "ウォーハンマー40000: メカニクス",
+  "title_en": "Warhammer 40,000: Mechanicus",
+  "developer": "Bulwark Studios",
+  "publisher": "Kasedo Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Turn-based tactics",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cult Adeptus Mechanicus tactical; great soundtrack and customizable tech-priest squads.",
+  "slug": "warhammer-40-000-mechanicus",
+  "file": "data/games/781-warhammer-40-000-mechanicus.json"
+}

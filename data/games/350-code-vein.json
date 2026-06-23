@@ -1,0 +1,24 @@
+{
+  "id": 350,
+  "title_jp": "コードヴェイン",
+  "title_en": "Code Vein",
+  "developer": "Bandai Namco Studios",
+  "publisher": "Bandai Namco Entertainment",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Anime soulslike action RPG",
+  "sales_jp": "",
+  "sales_world": "3M+ shipments by 2023; Steam 2-5M owners range",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Anime-styled God Eater-meets-Dark-Souls that built a sizable Steam audience for the soulslike genre.",
+  "slug": "code-vein",
+  "file": "data/games/350-code-vein.json"
+}

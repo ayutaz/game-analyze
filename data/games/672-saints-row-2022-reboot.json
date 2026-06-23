@@ -1,0 +1,27 @@
+{
+  "id": 672,
+  "title_jp": "セインツロウ (2022リブート)",
+  "title_en": "Saints Row (2022 reboot)",
+  "developer": "Volition",
+  "publisher": "Deep Silver",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure",
+  "sales_jp": "",
+  "sales_world": "1.7M units (below 2M break-even); Steam release 2023",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Final Volition title; high-profile flop that closed the studio — significant cautionary tale.",
+  "slug": "saints-row-2022-reboot",
+  "file": "data/games/672-saints-row-2022-reboot.json"
+}

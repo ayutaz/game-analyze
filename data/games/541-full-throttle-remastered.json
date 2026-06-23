@@ -1,0 +1,28 @@
+{
+  "id": 541,
+  "title_jp": "フル・スロットル リマスター",
+  "title_en": "Full Throttle Remastered",
+  "developer": "Double Fine Productions",
+  "publisher": "Double Fine Productions",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS Vita",
+    "iOS",
+    "Switch",
+    "Xbox One"
+  ],
+  "genre": "Point-and-click adventure (remaster)",
+  "sales_jp": "",
+  "sales_world": "Hundreds of thousands of Steam owners; original sold >1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Tim Schafer's biker-noir LucasArts classic restored; key part of the adventure-game revival.",
+  "slug": "full-throttle-remastered",
+  "file": "data/games/541-full-throttle-remastered.json"
+}

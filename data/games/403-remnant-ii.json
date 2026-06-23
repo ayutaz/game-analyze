@@ -1,0 +1,24 @@
+{
+  "id": 403,
+  "title_jp": "Remnant II",
+  "title_en": "Remnant II",
+  "developer": "Gunfire Games",
+  "publisher": "Gearbox Publishing",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Third-person shooter soulslike",
+  "sales_jp": "",
+  "sales_world": "3M+ sold by 2024; Steam 1M+ owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hit sequel that pushed the gun-souls co-op formula into mainstream success.",
+  "slug": "remnant-ii",
+  "file": "data/games/403-remnant-ii.json"
+}

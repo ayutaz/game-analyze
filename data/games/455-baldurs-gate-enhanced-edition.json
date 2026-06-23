@@ -1,0 +1,28 @@
+{
+  "id": 455,
+  "title_jp": "バルダーズ・ゲート エンハンスト・エディション",
+  "title_en": "Baldur's Gate: Enhanced Edition",
+  "developer": "Overhaul Games / Beamdog",
+  "publisher": "Beamdog / Atari (original)",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Mac",
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Isometric party-based CRPG (AD&D 2e)",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~700K-1M; 92% positive of 15K+ reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Modernized re-release of the 1998 Infinity Engine classic that defined Western party CRPGs and made BG3 possible.",
+  "slug": "baldurs-gate-enhanced-edition",
+  "file": "data/games/455-baldurs-gate-enhanced-edition.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 786,
+  "title_jp": "ウェイストランド 2 ディレクターズ・カット",
+  "title_en": "Wasteland 2: Director's Cut",
+  "developer": "inXile Entertainment",
+  "publisher": "Deep Silver",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Post-apocalyptic isometric tactical RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; revived the Wasteland franchise",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "First major Kickstarter CRPG success ($2.9M raised); directly inspired by the original Fallout lineage.",
+  "slug": "wasteland-2-directors-cut",
+  "file": "data/games/786-wasteland-2-directors-cut.json"
+}

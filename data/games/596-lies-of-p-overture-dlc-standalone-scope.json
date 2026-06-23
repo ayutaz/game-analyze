@@ -1,0 +1,24 @@
+{
+  "id": 596,
+  "title_jp": "Lies of P: Overture",
+  "title_en": "Lies of P: Overture (DLC standalone scope)",
+  "developer": "Round8 Studio",
+  "publisher": "Neowiz",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Soulslike expansion",
+  "sales_jp": "",
+  "sales_world": "Strong attach to Lies of P (1M+ base)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Major 2025 expansion that re-spiked Lies of P's Steam concurrents and tightened the FromSoft-style DLC playbook.",
+  "slug": "lies-of-p-overture-dlc-standalone-scope",
+  "file": "data/games/596-lies-of-p-overture-dlc-standalone-scope.json"
+}

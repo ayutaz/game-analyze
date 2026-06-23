@@ -1,0 +1,27 @@
+{
+  "id": 504,
+  "title_jp": "デウスエクス ヒューマン レボリューション ディレクターズカット",
+  "title_en": "Deus Ex: Human Revolution - Director's Cut",
+  "developer": "Eidos-Montréal",
+  "publisher": "Square Enix",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360",
+    "Wii U",
+    "Mac"
+  ],
+  "genre": "Immersive sim / action RPG",
+  "sales_jp": "",
+  "sales_world": "Franchise 11M+; DC alone Steam owners 1-2M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Reboot that proved the immersive sim could sell at AAA scale and brought the series to a new generation.",
+  "slug": "deus-ex-human-revolution-directors-cut",
+  "file": "data/games/504-deus-ex-human-revolution-directors-cut.json"
+}

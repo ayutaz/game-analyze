@@ -1,0 +1,25 @@
+{
+  "id": 603,
+  "title_jp": "Marvel's Spider-Man Remastered",
+  "title_en": "Marvel's Spider-Man Remastered",
+  "developer": "Insomniac Games / Nixxes",
+  "publisher": "Sony / PlayStation PC",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "Open-world action-adventure / superhero",
+  "sales_jp": "",
+  "sales_world": "1.5M+ PC copies by Feb 2023",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Insomniac's superhero open-world that defined Sony's PC strategy expansion onto a third tentpole franchise.",
+  "slug": "marvels-spider-man-remastered",
+  "file": "data/games/603-marvels-spider-man-remastered.json"
+}

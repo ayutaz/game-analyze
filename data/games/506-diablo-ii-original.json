@@ -1,0 +1,22 @@
+{
+  "id": 506,
+  "title_jp": "ディアブロ II",
+  "title_en": "Diablo II (original)",
+  "developer": "Blizzard North",
+  "publisher": "Blizzard Entertainment",
+  "year": 2000,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ARPG (genre-defining)",
+  "sales_jp": "",
+  "sales_world": "4M+ in first year; total 25M+ lifetime",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Single most influential ARPG ever made; still played heavily via Battle.net and mod servers in 2026.",
+  "slug": "diablo-ii-original",
+  "file": "data/games/506-diablo-ii-original.json"
+}

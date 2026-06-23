@@ -1,0 +1,24 @@
+{
+  "id": 735,
+  "title_jp": "ザ・クォーリー",
+  "title_en": "The Quarry",
+  "developer": "Supermassive Games",
+  "publisher": "2K Games",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Cinematic narrative horror",
+  "sales_jp": "",
+  "sales_world": "~200K Steam units / ~$8M revenue in first month",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Spiritual successor to Until Dawn; teen-summer-camp slasher with a star cast — biggest single Steam release for Supermassive.",
+  "slug": "the-quarry",
+  "file": "data/games/735-the-quarry.json"
+}

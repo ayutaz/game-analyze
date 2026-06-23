@@ -1,0 +1,25 @@
+{
+  "id": 499,
+  "title_jp": "デイズ・ゴーン",
+  "title_en": "Days Gone",
+  "developer": "Bend Studio",
+  "publisher": "Sony / PlayStation PC",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "Open-world action-adventure / zombie survival",
+  "sales_jp": "",
+  "sales_world": "1M+ PC copies in <1 year; 7.3M total",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sony's third major PS-to-PC port; topped Steam charts at launch and fueled the Days Gone 2 fan campaign.",
+  "slug": "days-gone",
+  "file": "data/games/499-days-gone.json"
+}

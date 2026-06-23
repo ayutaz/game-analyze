@@ -1,0 +1,29 @@
+{
+  "id": 379,
+  "title_jp": "グランド・セフト・オート V",
+  "title_en": "Grand Theft Auto V",
+  "developer": "Rockstar North",
+  "publisher": "Rockstar Games",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS4",
+    "PS5",
+    "Xbox 360",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action-adventure",
+  "sales_jp": "",
+  "sales_world": "215M+ units lifetime; PC release 2015 added 10M+ Steam copies by 2018",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Second best-selling game of all time and the defining 2010s open-world sandbox; PC version sustains Rockstar's empire.",
+  "slug": "grand-theft-auto-v",
+  "file": "data/games/379-grand-theft-auto-v.json"
+}

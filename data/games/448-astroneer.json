@@ -1,0 +1,25 @@
+{
+  "id": 448,
+  "title_jp": "アストロニーア",
+  "title_en": "Astroneer",
+  "developer": "System Era Softworks",
+  "publisher": "System Era Softworks",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Sandbox space exploration / crafting",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; Game Pass exposure boosted reach",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Stylised, family-friendly co-op planet-deforming sandbox; popular Xbox Play Anywhere title and gateway survival sandbox.",
+  "slug": "astroneer",
+  "file": "data/games/448-astroneer.json"
+}

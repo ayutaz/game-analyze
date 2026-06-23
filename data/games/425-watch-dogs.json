@@ -1,0 +1,28 @@
+{
+  "id": 425,
+  "title_jp": "ウォッチドッグス",
+  "title_en": "Watch Dogs",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS4",
+    "Wii U",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / hacking",
+  "sales_jp": "",
+  "sales_world": "10M+ within franchise's first two titles combined",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Launched Ubisoft's hacker-sandbox alternative to GTA — major 2014 PC release.",
+  "slug": "watch-dogs",
+  "file": "data/games/425-watch-dogs.json"
+}

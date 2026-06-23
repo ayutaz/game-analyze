@@ -1,0 +1,23 @@
+{
+  "id": 729,
+  "title_jp": "ザ・フォレスト",
+  "title_en": "The Forest",
+  "developer": "Endnight Games",
+  "publisher": "Endnight Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4"
+  ],
+  "genre": "Open-world horror survival",
+  "sales_jp": "",
+  "sales_world": "5M+ copies (announced 2018)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cannibal-island survival horror that combined base-building with narrative dread; direct ancestor of Sons of the Forest.",
+  "slug": "the-forest",
+  "file": "data/games/729-the-forest.json"
+}

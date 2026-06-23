@@ -1,0 +1,22 @@
+{
+  "id": 441,
+  "title_jp": "アムネジア:ア・マシーン・フォー・ピッグス",
+  "title_en": "Amnesia: A Machine for Pigs",
+  "developer": "The Chinese Room",
+  "publisher": "Frictional Games",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "First-person psychological horror",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M (estimate)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Industrial-era Amnesia interlude with a heavier narrative/literary bent; controversial pivot from the original but influential in walking-sim-horror crossover.",
+  "slug": "amnesia-a-machine-for-pigs",
+  "file": "data/games/441-amnesia-a-machine-for-pigs.json"
+}

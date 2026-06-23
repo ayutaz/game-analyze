@@ -1,0 +1,23 @@
+{
+  "id": 320,
+  "title_jp": "逆転裁判123 成歩堂セレクション",
+  "title_en": "Phoenix Wright: Ace Attorney Trilogy",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "Mystery Adventure / Visual Novel",
+  "sales_jp": "",
+  "sales_world": "97% positive ~9,900 Steam reviews; >2M franchise units across versions",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "First Steam release of the foundational courtroom-drama trilogy; restored Capcom's flagship narrative IP to PC.",
+  "slug": "phoenix-wright-ace-attorney-trilogy",
+  "file": "data/games/320-phoenix-wright-ace-attorney-trilogy.json"
+}

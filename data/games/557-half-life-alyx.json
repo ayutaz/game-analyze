@@ -1,0 +1,22 @@
+{
+  "id": 557,
+  "title_jp": "ハーフライフ：アリックス",
+  "title_en": "Half-Life: Alyx",
+  "developer": "Valve",
+  "publisher": "Valve",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "VR single-player FPS",
+  "sales_jp": "",
+  "sales_world": "2M+ copies by 2024",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Killer-app for VR; drove ~950K new VR headset connections to Steam at launch.",
+  "slug": "half-life-alyx",
+  "file": "data/games/557-half-life-alyx.json"
+}

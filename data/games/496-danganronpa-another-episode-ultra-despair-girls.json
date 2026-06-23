@@ -1,0 +1,21 @@
+{
+  "id": 496,
+  "title_jp": "絶対絶望少女 ダンガンロンパ Another Episode",
+  "title_en": "Danganronpa Another Episode: Ultra Despair Girls",
+  "developer": "Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS4"
+  ],
+  "genre": "Action-Adventure / Narrative Spin-off",
+  "sales_jp": "",
+  "sales_world": "~500k worldwide (10% of 5M franchise total by 2021)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Third-person shooter narrative spin-off; expands Danganronpa lore on Steam and consoles.",
+  "slug": "danganronpa-another-episode-ultra-despair-girls",
+  "file": "data/games/496-danganronpa-another-episode-ultra-despair-girls.json"
+}

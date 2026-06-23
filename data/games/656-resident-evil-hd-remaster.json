@@ -1,0 +1,25 @@
+{
+  "id": 656,
+  "title_jp": "バイオハザード HDリマスター",
+  "title_en": "Resident Evil HD Remaster",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS4",
+    "Xbox 360",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Survival horror",
+  "sales_jp": "",
+  "sales_world": "1M+ across platforms within months of launch",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Brings the 2002 GameCube REmake — long inaccessible — to PC for the first time; first-day digital sales record for Capcom.",
+  "slug": "resident-evil-hd-remaster",
+  "file": "data/games/656-resident-evil-hd-remaster.json"
+}

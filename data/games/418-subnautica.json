@@ -1,0 +1,26 @@
+{
+  "id": 418,
+  "title_jp": "サブノーティカ",
+  "title_en": "Subnautica",
+  "developer": "Unknown Worlds Entertainment",
+  "publisher": "Krafton / Unknown Worlds",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Underwater open-world survival",
+  "sales_jp": "",
+  "sales_world": "10M+ copies (Krafton 2024)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The defining underwater survival experience; consistently ranks among Steam's top-rated survival games of all time.",
+  "slug": "subnautica",
+  "file": "data/games/418-subnautica.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 776,
+  "title_jp": "ヴィクター・ヴラン",
+  "title_en": "Victor Vran ARPG",
+  "developer": "Haemimont Games",
+  "publisher": "Wired Productions",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "ARPG (action-skill focused)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Skill-driven ARPG with destiny cards and Motörhead DLC; precursor to action-focused ARPGs like Wolcen.",
+  "slug": "victor-vran-arpg",
+  "file": "data/games/776-victor-vran-arpg.json"
+}

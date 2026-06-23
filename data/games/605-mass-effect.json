@@ -1,0 +1,22 @@
+{
+  "id": 605,
+  "title_jp": "マスエフェクト",
+  "title_en": "Mass Effect",
+  "developer": "BioWare",
+  "publisher": "Microsoft / EA",
+  "year": 2007,
+  "platform": [
+    "Xbox 360",
+    "PC",
+    "PS3"
+  ],
+  "genre": "Sci-fi action RPG",
+  "sales_jp": "",
+  "sales_world": "2M+ lifetime original release; series 25M+ by 2018",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Launched the trilogy that redefined choice-driven sci-fi RPGs.",
+  "slug": "mass-effect",
+  "file": "data/games/605-mass-effect.json"
+}

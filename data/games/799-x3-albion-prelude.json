@@ -1,0 +1,23 @@
+{
+  "id": 799,
+  "title_jp": "X3: アルビオン プレリュード",
+  "title_en": "X3: Albion Prelude",
+  "developer": "Egosoft",
+  "publisher": "Egosoft",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Space sandbox sim",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Long-tail Egosoft hit that kept the X series alive in the 2010s; included free with Terran War Pack today.",
+  "slug": "x3-albion-prelude",
+  "file": "data/games/799-x3-albion-prelude.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 376,
+  "title_jp": "FTL: Faster Than Light",
+  "title_en": "FTL: Faster Than Light",
+  "developer": "Subset Games",
+  "publisher": "Subset Games",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "iOS"
+  ],
+  "genre": "Spaceship-management roguelike strategy",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M; sold 5M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Indie milestone that mainstreamed roguelike strategy on PC and influenced a decade of imitators.",
+  "slug": "ftl-faster-than-light",
+  "file": "data/games/376-ftl-faster-than-light.json"
+}

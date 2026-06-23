@@ -1,0 +1,22 @@
+{
+  "id": 556,
+  "title_jp": "ハーフライフ2: エピソード2",
+  "title_en": "Half-Life 2: Episode Two",
+  "developer": "Valve",
+  "publisher": "Valve",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player FPS",
+  "sales_jp": "",
+  "sales_world": "Bundled in The Orange Box — 3M+ standalone, tens of millions via bundle",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Final canonical HL2 story chapter; ended on the cliffhanger that defined the 'HL3 wait' meme for over a decade.",
+  "slug": "half-life-2-episode-two",
+  "file": "data/games/556-half-life-2-episode-two.json"
+}

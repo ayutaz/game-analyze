@@ -1,0 +1,21 @@
+{
+  "id": 571,
+  "title_jp": "Homeworld: Deserts of Kharak",
+  "title_en": "Homeworld: Deserts of Kharak",
+  "developer": "Blackbird Interactive",
+  "publisher": "Gearbox Software",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M est.",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Ground-based Homeworld prequel that re-launched Blackbird Interactive as the franchise's steward.",
+  "slug": "homeworld-deserts-of-kharak",
+  "file": "data/games/571-homeworld-deserts-of-kharak.json"
+}

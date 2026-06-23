@@ -1,0 +1,20 @@
+{
+  "id": 344,
+  "title_jp": "バトルフィールド 4",
+  "title_en": "Battlefield 4",
+  "developer": "DICE",
+  "publisher": "EA",
+  "year": 2013,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Modern military team FPS",
+  "sales_jp": "",
+  "sales_world": "~10M+; community favorite still played a decade later",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Levolution destructible maps and 64-player Conquest peak; widely considered the high-water mark of modern BF.",
+  "slug": "battlefield-4",
+  "file": "data/games/344-battlefield-4.json"
+}

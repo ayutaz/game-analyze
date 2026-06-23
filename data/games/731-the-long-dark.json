@@ -1,0 +1,27 @@
+{
+  "id": 731,
+  "title_jp": "ザ・ロング・ダーク",
+  "title_en": "The Long Dark",
+  "developer": "Hinterland Studio",
+  "publisher": "Hinterland Studio",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "First-person wilderness survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; 7M+ across platforms by 2023",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cold-weather lone-wolf survival with episodic Wintermute story mode; defined the no-zombies 'pure-nature' survival lane.",
+  "slug": "the-long-dark",
+  "file": "data/games/731-the-long-dark.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 503,
+  "title_jp": "デウスエクス",
+  "title_en": "Deus Ex: Game of the Year Edition",
+  "developer": "Ion Storm",
+  "publisher": "Eidos Interactive / Square Enix",
+  "year": 2000,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "Immersive sim / cyberpunk RPG-FPS",
+  "sales_jp": "",
+  "sales_world": "1M+ lifetime; still on Steam/GOG, perennial top-10 immersive sim",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defining immersive sim; routinely cited as one of the greatest PC games ever made.",
+  "slug": "deus-ex-game-of-the-year-edition",
+  "file": "data/games/503-deus-ex-game-of-the-year-edition.json"
+}

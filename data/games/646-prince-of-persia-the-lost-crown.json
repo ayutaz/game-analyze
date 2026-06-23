@@ -1,0 +1,25 @@
+{
+  "id": 646,
+  "title_jp": "プリンス オブ ペルシャ 失われた王冠",
+  "title_en": "Prince of Persia: The Lost Crown",
+  "developer": "Ubisoft Montpellier",
+  "publisher": "Ubisoft",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "3M+ players (Sep 2025), 1.3M sold (year one)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Mainstream AAA metroidvania revival of a dormant Ubisoft IP; landmark 2024 release.",
+  "slug": "prince-of-persia-the-lost-crown",
+  "file": "data/games/646-prince-of-persia-the-lost-crown.json"
+}

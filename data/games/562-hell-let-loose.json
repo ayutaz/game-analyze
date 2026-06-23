@@ -1,0 +1,20 @@
+{
+  "id": 562,
+  "title_jp": "ヘル レット ルース",
+  "title_en": "Hell Let Loose",
+  "developer": "Black Matter / Expression Games",
+  "publisher": "Team17",
+  "year": 2021,
+  "platform": [
+    "PC"
+  ],
+  "genre": "WW2 tactical FPS (50v50)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; sold by Black Matter to Team17 for £31M in 2022",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Defining modern 50v50 WW2 PC milsim with strict realism and command/squad structure.",
+  "slug": "hell-let-loose",
+  "file": "data/games/562-hell-let-loose.json"
+}

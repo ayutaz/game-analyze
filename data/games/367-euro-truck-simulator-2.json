@@ -1,0 +1,20 @@
+{
+  "id": 367,
+  "title_jp": "ユーロ トラック シミュレーター 2",
+  "title_en": "Euro Truck Simulator 2",
+  "developer": "SCS Software",
+  "publisher": "SCS Software",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Truck driving simulation",
+  "sales_jp": "",
+  "sales_world": "13M+ copies sold, 80M DLC units; SteamSpy 10-20M owners",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "A foundational PC sim — TruckersMP turned it into a de facto MMO, and it remains a top-50 Steam fixture over a decade later.",
+  "slug": "euro-truck-simulator-2",
+  "file": "data/games/367-euro-truck-simulator-2.json"
+}

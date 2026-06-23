@@ -1,0 +1,22 @@
+{
+  "id": 678,
+  "title_jp": "シリアスサム4",
+  "title_en": "Serious Sam 4",
+  "developer": "Croteam",
+  "publisher": "Devolver Digital",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player/co-op horde FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "Brought the 'screaming Headless Kamikaze' horde formula into the modern era with thousand-enemy battles.",
+  "slug": "serious-sam-4",
+  "file": "data/games/678-serious-sam-4.json"
+}

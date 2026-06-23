@@ -1,0 +1,27 @@
+{
+  "id": 342,
+  "title_jp": "アトミックハート",
+  "title_en": "Atomic Heart",
+  "developer": "Mundfish",
+  "publisher": "Focus Entertainment",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-areas action-adventure / FPS",
+  "sales_jp": "",
+  "sales_world": "10M+ players by May 2025; Steam peak 38,469 CCU; 86% positive of 14K reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Alt-Soviet retro-futurist breakout; the most successful Russian-developed AAA in years.",
+  "slug": "atomic-heart",
+  "file": "data/games/342-atomic-heart.json"
+}

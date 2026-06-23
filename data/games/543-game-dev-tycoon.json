@@ -1,0 +1,21 @@
+{
+  "id": 543,
+  "title_jp": "ゲームデヴ タイクーン",
+  "title_en": "Game Dev Tycoon",
+  "developer": "Greenheart Games",
+  "publisher": "Greenheart Games",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "Studio management tycoon",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2M+; mobile/PC combined ~5M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Indie tycoon hit that anchored the modern 'make your own [industry]' sim wave.",
+  "slug": "game-dev-tycoon",
+  "file": "data/games/543-game-dev-tycoon.json"
+}

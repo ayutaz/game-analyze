@@ -1,0 +1,22 @@
+{
+  "id": 464,
+  "title_jp": "バイオショック",
+  "title_en": "BioShock",
+  "developer": "2K Boston (Irrational Games)",
+  "publisher": "2K Games",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player immersive sim FPS",
+  "sales_jp": "",
+  "sales_world": "4M+ standalone, 33M+ franchise",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Rapture, 'A man chooses, a slave obeys' — landmark for narrative ambition in shooters.",
+  "slug": "bioshock",
+  "file": "data/games/464-bioshock.json"
+}

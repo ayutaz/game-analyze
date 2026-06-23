@@ -1,0 +1,26 @@
+{
+  "id": 551,
+  "title_jp": "グリードフォール",
+  "title_en": "Greedfall",
+  "developer": "Spiders",
+  "publisher": "Focus Home Interactive",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Colonial-era third-person action RPG",
+  "sales_jp": "",
+  "sales_world": "2M+ copies by 2021",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Spiders' breakout title; colonial-fantasy world with BioWare-style companions on a mid-budget.",
+  "slug": "greedfall",
+  "file": "data/games/551-greedfall.json"
+}

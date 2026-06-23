@@ -1,0 +1,25 @@
+{
+  "id": 707,
+  "title_jp": "SteamWorld Dig",
+  "title_en": "SteamWorld Dig",
+  "developer": "Image & Form (Thunderful)",
+  "publisher": "Thunderful",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS",
+    "Xbox"
+  ],
+  "genre": "Mining platformer",
+  "sales_jp": "",
+  "sales_world": "1M+ franchise-defining hit",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Original SteamWorld breakout that revitalized indie mining-platformer subgenre.",
+  "slug": "steamworld-dig",
+  "file": "data/games/707-steamworld-dig.json"
+}

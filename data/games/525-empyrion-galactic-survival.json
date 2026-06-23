@@ -1,0 +1,22 @@
+{
+  "id": 525,
+  "title_jp": "エンピリオン ギャラクティック サバイバル",
+  "title_en": "Empyrion - Galactic Survival",
+  "developer": "Eleon Game Studios",
+  "publisher": "Eleon Game Studios",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Space sandbox survival",
+  "sales_jp": "",
+  "sales_world": "1-2M copies; ~$15M gross",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Long-running voxel space survival blending Space Engineers building with planetary combat; Dark Faction expansion 2024.",
+  "slug": "empyrion-galactic-survival",
+  "file": "data/games/525-empyrion-galactic-survival.json"
+}

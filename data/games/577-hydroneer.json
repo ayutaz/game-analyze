@@ -1,0 +1,24 @@
+{
+  "id": 577,
+  "title_jp": "ハイドロニア",
+  "title_en": "Hydroneer",
+  "developer": "Foulball Hangover",
+  "publisher": "Foulball Hangover",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Mining sandbox / tycoon",
+  "sales_jp": "",
+  "sales_world": "1M+ Steam copies; 19k reviews, 86% positive",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Solo-developed mining sandbox that turned into a sleeper hit; defined the chill 'YouTuber sandbox tycoon' lane.",
+  "slug": "hydroneer",
+  "file": "data/games/577-hydroneer.json"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 449,
+  "title_jp": "ATOM RPG ポスト・アポカリプティック・インディー・ゲーム",
+  "title_en": "ATOM RPG: Post-Apocalyptic Indie Game",
+  "developer": "AtomTeam",
+  "publisher": "AtomTeam",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Soviet post-apoc isometric CRPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K-1M; Very Positive",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Russian-made Fallout homage set in a Soviet wasteland; gave its niche genre a global hit.",
+  "slug": "atom-rpg-post-apocalyptic-indie-game",
+  "file": "data/games/449-atom-rpg-post-apocalyptic-indie-game.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 704,
+  "title_jp": "StarCraft II: Legacy of the Void",
+  "title_en": "StarCraft II: Legacy of the Void",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "RTS expansion",
+  "sales_jp": "",
+  "sales_world": "1M+ in 24h",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Closed the SC2 trilogy and introduced the co-op Commanders mode that became the title's main casual draw.",
+  "slug": "starcraft-ii-legacy-of-the-void",
+  "file": "data/games/704-starcraft-ii-legacy-of-the-void.json"
+}

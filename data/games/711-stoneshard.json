@@ -1,0 +1,22 @@
+{
+  "id": 711,
+  "title_jp": "ストーンシャード",
+  "title_en": "Stoneshard",
+  "developer": "Ink Stains Games",
+  "publisher": "Hypetrain Digital",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world turn-based RPG/ARPG hybrid (Early Access)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 0.5-1M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Pixel-art open-world dungeon crawler with brutal injury system; long-running EA darling.",
+  "slug": "stoneshard",
+  "file": "data/games/711-stoneshard.json"
+}

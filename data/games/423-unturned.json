@@ -1,0 +1,26 @@
+{
+  "id": 423,
+  "title_jp": "アンターンド",
+  "title_en": "Unturned",
+  "developer": "Smartly Dressed Games",
+  "publisher": "Smartly Dressed Games",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Blocky zombie survival sandbox",
+  "sales_jp": "",
+  "sales_world": "Free-to-play, 50M+ players; perennially top of Steam free charts",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Solo-dev free-to-play survival sandbox; one of Steam's most-downloaded F2P titles, a teen-gaming gateway.",
+  "slug": "unturned",
+  "file": "data/games/423-unturned.json"
+}

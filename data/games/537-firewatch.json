@@ -1,0 +1,23 @@
+{
+  "id": 537,
+  "title_jp": "ファイアウォッチ",
+  "title_en": "Firewatch",
+  "developer": "Campo Santo",
+  "publisher": "Panic / Campo Santo",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Walking sim / narrative adventure",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~2M; 1M+ in first year",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Defining 'walking sim' of the 2010s and the breakout title that pushed Campo Santo to a Valve acquisition.",
+  "slug": "firewatch",
+  "file": "data/games/537-firewatch.json"
+}

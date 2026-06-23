@@ -1,0 +1,27 @@
+{
+  "id": 612,
+  "title_jp": "マウント&ブレード ウォーバンド",
+  "title_en": "Mount & Blade: Warband",
+  "developer": "TaleWorlds Entertainment",
+  "publisher": "Paradox Interactive / TaleWorlds",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Medieval sandbox action RPG",
+  "sales_jp": "",
+  "sales_world": "6M+ across platforms; foundational cult hit",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The original moddable medieval sandbox whose Native + Floris/PoP mods defined a decade of community-driven combat RPGs.",
+  "slug": "mount-blade-warband",
+  "file": "data/games/612-mount-blade-warband.json"
+}

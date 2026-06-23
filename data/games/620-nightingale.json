@@ -1,0 +1,22 @@
+{
+  "id": 620,
+  "title_jp": "ナイチンゲール",
+  "title_en": "Nightingale",
+  "developer": "Inflexion Games",
+  "publisher": "Inflexion Games",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Gaslamp fantasy realms survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M EA; offline mode added late 2024",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Aaryn Flynn (ex-BioWare GM) studio's Victorian-fae survival; high-profile EA launch testing whether AA survival can compete in 2024+.",
+  "slug": "nightingale",
+  "file": "data/games/620-nightingale.json"
+}

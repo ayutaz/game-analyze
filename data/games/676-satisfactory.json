@@ -1,0 +1,20 @@
+{
+  "id": 676,
+  "title_jp": "サティスファクトリー",
+  "title_en": "Satisfactory",
+  "developer": "Coffee Stain Studios",
+  "publisher": "Coffee Stain Publishing",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "First-person factory automation",
+  "sales_jp": "",
+  "sales_world": "5.5M+ copies as of 1.0 (Sep 2024); Steam owners 3-7M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "3D first-person take on Factorio; 1.0 launch was a top-selling Steam release of 2024.",
+  "slug": "satisfactory",
+  "file": "data/games/676-satisfactory.json"
+}

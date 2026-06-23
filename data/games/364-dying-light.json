@@ -1,0 +1,25 @@
+{
+  "id": 364,
+  "title_jp": "ダイイングライト",
+  "title_en": "Dying Light",
+  "developer": "Techland",
+  "publisher": "Techland",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action / zombie survival",
+  "sales_jp": "",
+  "sales_world": "20M+ units lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Parkour-zombie sandbox; one of Steam's most durable AA open-world franchises.",
+  "slug": "dying-light",
+  "file": "data/games/364-dying-light.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 477,
+  "title_jp": "悪魔城ドラキュラX 月下の夜想曲",
+  "title_en": "Castlevania: Symphony of the Night (Modern PC re-release)",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Metroidvania",
+  "sales_jp": "",
+  "sales_world": "Steam release tied to Dominus Collection; franchise lifetime 6M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The seminal 1997 metroidvania re-released for modern PC, foundational to the genre.",
+  "slug": "castlevania-symphony-of-the-night-modern-pc-re-release",
+  "file": "data/games/477-castlevania-symphony-of-the-night-modern-pc-re-release.json"
+}

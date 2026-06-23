@@ -1,0 +1,28 @@
+{
+  "id": 416,
+  "title_jp": "スター・ウォーズ ジェダイ：フォールン・オーダー",
+  "title_en": "Star Wars Jedi: Fallen Order",
+  "developer": "Respawn Entertainment",
+  "publisher": "Electronic Arts",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Stadia",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Action-adventure / soulslike-lite",
+  "sales_jp": "",
+  "sales_world": "10M+ units lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "EA's first single-player Star Wars hit in a decade; revived the Jedi action-adventure genre on PC.",
+  "slug": "star-wars-jedi-fallen-order",
+  "file": "data/games/416-star-wars-jedi-fallen-order.json"
+}

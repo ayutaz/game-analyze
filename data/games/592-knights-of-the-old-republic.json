@@ -1,0 +1,27 @@
+{
+  "id": 592,
+  "title_jp": "Star Wars ナイツ オブ ジ オールド リパブリック",
+  "title_en": "Knights of the Old Republic",
+  "developer": "BioWare",
+  "publisher": "LucasArts",
+  "year": 2003,
+  "platform": [
+    "Xbox",
+    "PC",
+    "Mac",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "Star Wars D20 party CRPG",
+  "sales_jp": "",
+  "sales_world": "3M+ lifetime; Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defined the Star Wars RPG; the Revan twist is canonical in 'best plot twists ever' lists.",
+  "slug": "knights-of-the-old-republic",
+  "file": "data/games/592-knights-of-the-old-republic.json"
+}

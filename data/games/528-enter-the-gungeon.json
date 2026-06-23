@@ -1,0 +1,25 @@
+{
+  "id": 528,
+  "title_jp": "Enter the Gungeon",
+  "title_en": "Enter the Gungeon",
+  "developer": "Dodge Roll",
+  "publisher": "Devolver Digital",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One"
+  ],
+  "genre": "Bullet-hell roguelike shooter",
+  "sales_jp": "",
+  "sales_world": "3M+ sold lifetime; Steam owners 2-5M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defined the 'gun-themed bullet hell roguelite' and one of Devolver's biggest hits.",
+  "slug": "enter-the-gungeon",
+  "file": "data/games/528-enter-the-gungeon.json"
+}

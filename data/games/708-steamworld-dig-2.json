@@ -1,0 +1,25 @@
+{
+  "id": 708,
+  "title_jp": "SteamWorld Dig 2",
+  "title_en": "SteamWorld Dig 2",
+  "developer": "Image & Form (Thunderful)",
+  "publisher": "Thunderful",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox"
+  ],
+  "genre": "Metroidvania / mining",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Critically lauded sequel that's often cited as a top-tier 2010s metroidvania.",
+  "slug": "steamworld-dig-2",
+  "file": "data/games/708-steamworld-dig-2.json"
+}

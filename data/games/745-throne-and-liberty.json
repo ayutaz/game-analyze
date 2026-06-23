@@ -1,0 +1,24 @@
+{
+  "id": 745,
+  "title_jp": "スローン アンド リバティ",
+  "title_en": "Throne and Liberty",
+  "developer": "NCSoft",
+  "publisher": "Amazon Games (West), NCSoft (KR)",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "F2P MMORPG (open-world PvPvE)",
+  "sales_jp": "",
+  "sales_world": "3M players in launch week; peak 326K Steam CCU; ~95% drop-off by 2025",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Biggest Korean MMO Western launch since Lost Ark; Amazon's third MMO collaboration after New World/Lost Ark.",
+  "slug": "throne-and-liberty",
+  "file": "data/games/745-throne-and-liberty.json"
+}

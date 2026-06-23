@@ -1,0 +1,24 @@
+{
+  "id": 777,
+  "title_jp": "ワクフ",
+  "title_en": "WAKFU",
+  "developer": "Ankama",
+  "publisher": "Ankama",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Turn-based tactical MMORPG (2D isometric)",
+  "sales_jp": "",
+  "sales_world": "~4M registered players; 18 unique classes; merged international servers 2024",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "DOFUS's sci-fantasy sister title; tied into Ankama's hit Wakfu animated series and Krosmoz transmedia universe.",
+  "slug": "wakfu",
+  "file": "data/games/777-wakfu.json"
+}

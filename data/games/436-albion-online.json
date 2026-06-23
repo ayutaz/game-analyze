@@ -1,0 +1,26 @@
+{
+  "id": 436,
+  "title_jp": "アルビオン・オンライン",
+  "title_en": "Albion Online",
+  "developer": "Sandbox Interactive",
+  "publisher": "Sandbox Interactive (Stillfront)",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Sandbox MMORPG (full-loot PvP, cross-platform)",
+  "sales_jp": "",
+  "sales_world": "5M+ registered; 30-70K daily actives; 3 regional servers (Americas/Europe-MENA/Asia)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "True cross-platform sandbox MMO with player-driven economy; revived the EVE-style territorial PvP MMO.",
+  "slug": "albion-online",
+  "file": "data/games/436-albion-online.json"
+}

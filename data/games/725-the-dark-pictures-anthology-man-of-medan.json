@@ -1,0 +1,22 @@
+{
+  "id": 725,
+  "title_jp": "ダーク・ピクチャーズ・アンソロジー:メダンの幽霊船",
+  "title_en": "The Dark Pictures Anthology: Man of Medan",
+  "developer": "Supermassive Games",
+  "publisher": "Bandai Namco Entertainment",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Cinematic narrative horror",
+  "sales_jp": "",
+  "sales_world": "1M+ units worldwide",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "First episode of the cinematic Dark Pictures anthology; ghost-ship horror that proved up to four players could share branching decision horror.",
+  "slug": "the-dark-pictures-anthology-man-of-medan",
+  "file": "data/games/725-the-dark-pictures-anthology-man-of-medan.json"
+}

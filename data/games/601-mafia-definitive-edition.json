@@ -1,0 +1,25 @@
+{
+  "id": 601,
+  "title_jp": "マフィア：コンプリート・エディション",
+  "title_en": "Mafia: Definitive Edition",
+  "developer": "Hangar 13",
+  "publisher": "2K Games",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / crime",
+  "sales_jp": "",
+  "sales_world": "~86K Steam reviews (86% positive); 1-2M Steam copies likely",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Full remake of the 2002 classic; revived the Mafia series as a Rockstar-adjacent prestige crime franchise.",
+  "slug": "mafia-definitive-edition",
+  "file": "data/games/601-mafia-definitive-edition.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 474,
+  "title_jp": "ケイデンス・オブ・ハイラル クリプト・オブ・ネクロダンサー feat. ゼルダの伝説",
+  "title_en": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+  "developer": "Brace Yourself Games",
+  "publisher": "Nintendo",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch (primary)"
+  ],
+  "genre": "Rhythm roguelike",
+  "sales_jp": "",
+  "sales_world": "Switch sales ~500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "First-party-published rhythm roguelite — note: Switch exclusive, not a PC title (would normally exclude).",
+  "slug": "cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-leg",
+  "file": "data/games/474-cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-leg.json"
+}

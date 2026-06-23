@@ -1,0 +1,22 @@
+{
+  "id": 616,
+  "title_jp": "ミス オブ エンパイアズ",
+  "title_en": "Myth of Empires",
+  "developer": "Angela Game",
+  "publisher": "Imperium Interactive",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Ancient-China sandbox survival MMO",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; Steam relaunch after legal dispute",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Chinese Three-Kingdoms sandbox-survival that survived a high-profile Snail Games lawsuit to return to Steam.",
+  "slug": "myth-of-empires",
+  "file": "data/games/616-myth-of-empires.json"
+}

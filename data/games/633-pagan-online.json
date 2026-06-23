@@ -1,0 +1,22 @@
+{
+  "id": 633,
+  "title_jp": "ペイガン・オンライン",
+  "title_en": "Pagan Online",
+  "developer": "Mad Head Games",
+  "publisher": "Wargaming",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Action-ARPG (Slavic mythology)",
+  "sales_jp": "",
+  "sales_world": "Mixed reception; Steam owners ~0.1-0.5M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Wargaming's bet on a session-based action ARPG; abandoned in 2020, notable case study in genre experimentation.",
+  "slug": "pagan-online",
+  "file": "data/games/633-pagan-online.json"
+}

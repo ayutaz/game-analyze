@@ -1,0 +1,24 @@
+{
+  "id": 798,
+  "title_jp": "無常：堕ちた羽根",
+  "title_en": "WUCHANG: Fallen Feathers",
+  "developer": "Leenzee Games",
+  "publisher": "505 Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox"
+  ],
+  "genre": "Soulslike ARPG",
+  "sales_jp": "",
+  "sales_world": "1M+ units sold by March 2026; Day-One Game Pass",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Major Chinese AA soulslike that capitalized on the post-Wukong wave of Chinese console/PC action games.",
+  "slug": "wuchang-fallen-feathers",
+  "file": "data/games/798-wuchang-fallen-feathers.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 724,
+  "title_jp": "The Binding of Isaac: Rebirth",
+  "title_en": "The Binding of Isaac: Rebirth",
+  "developer": "Nicalis / Edmund McMillen",
+  "publisher": "Nicalis",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "iOS"
+  ],
+  "genre": "Action roguelike (top-down shooter)",
+  "sales_jp": "",
+  "sales_world": "Steam 6M+ sold; lifetime franchise 15M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "One of the foundational modern roguelites, still actively played a decade after release thanks to Repentance.",
+  "slug": "the-binding-of-isaac-rebirth",
+  "file": "data/games/724-the-binding-of-isaac-rebirth.json"
+}

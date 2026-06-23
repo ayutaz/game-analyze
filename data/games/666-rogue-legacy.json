@@ -1,0 +1,26 @@
+{
+  "id": 666,
+  "title_jp": "Rogue Legacy",
+  "title_en": "Rogue Legacy",
+  "developer": "Cellar Door Games",
+  "publisher": "Cellar Door Games",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3/4",
+    "Vita",
+    "Switch",
+    "Xbox One"
+  ],
+  "genre": "Metroidvania roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 2-5M; 5M+ sold",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Codified 'hereditary meta-progression' for an entire generation of roguelites.",
+  "slug": "rogue-legacy",
+  "file": "data/games/666-rogue-legacy.json"
+}

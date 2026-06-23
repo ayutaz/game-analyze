@@ -1,0 +1,23 @@
+{
+  "id": 310,
+  "title_jp": "Baba Is You",
+  "title_en": "Baba Is You",
+  "developer": "Hempuli (Arvi Teikari)",
+  "publisher": "Hempuli",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Sokoban / rule-manipulation puzzle",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; 12K+ reviews at 97% positive",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "IGF 2018 grand prize finalist that reinvented sokoban by letting players rewrite the rules; the most influential indie puzzle game since Portal.",
+  "slug": "baba-is-you",
+  "file": "data/games/310-baba-is-you.json"
+}

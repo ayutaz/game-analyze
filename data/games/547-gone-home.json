@@ -1,0 +1,25 @@
+{
+  "id": 547,
+  "title_jp": "ゴーン・ホーム",
+  "title_en": "Gone Home",
+  "developer": "Fullbright",
+  "publisher": "Fullbright / Annapurna",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "Walking sim / environmental storytelling",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Genre-defining 2013 hit that crystallized 'first-person exploration narrative' as a category.",
+  "slug": "gone-home",
+  "file": "data/games/547-gone-home.json"
+}

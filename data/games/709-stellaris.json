@@ -1,0 +1,26 @@
+{
+  "id": 709,
+  "title_jp": "ステラリス",
+  "title_en": "Stellaris",
+  "developer": "Paradox Development Studio",
+  "publisher": "Paradox Interactive",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Real-time grand strategy / 4X (space)",
+  "sales_jp": "",
+  "sales_world": "3M+ sold by 2020; estimated 5-7M Steam owners by 2025 across DLC ecosystem",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Paradox's flagship sci-fi grand strategy; defined the modern story-driven space 4X with a decade of expansions.",
+  "slug": "stellaris",
+  "file": "data/games/709-stellaris.json"
+}

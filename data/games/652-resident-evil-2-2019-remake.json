@@ -1,0 +1,24 @@
+{
+  "id": 652,
+  "title_jp": "バイオハザード RE:2",
+  "title_en": "Resident Evil 2 (2019 Remake)",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Survival horror",
+  "sales_jp": "",
+  "sales_world": "16.8M units lifetime — best-selling RE ever",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Gold-standard remake that revived classic-RE design with modern over-the-shoulder controls; franchise-defining commercial peak.",
+  "slug": "resident-evil-2-2019-remake",
+  "file": "data/games/652-resident-evil-2-2019-remake.json"
+}

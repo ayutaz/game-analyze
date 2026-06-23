@@ -1,0 +1,23 @@
+{
+  "id": 771,
+  "title_jp": "ウルティマ アンダーワールド",
+  "title_en": "Ultima Underworld 1+2",
+  "developer": "Looking Glass / Blue Sky Productions",
+  "publisher": "Origin Systems / Electronic Arts (GOG)",
+  "year": 1992,
+  "platform": [
+    "PC"
+  ],
+  "genre": "First-person dungeon RPG / proto-immersive sim",
+  "sales_jp": "",
+  "sales_world": "Lifetime ~1M+ across both titles; still sold on GOG bundle",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The first true 3D dungeon crawler and ancestor of every immersive sim that followed.",
+  "slug": "ultima-underworld-1-2",
+  "file": "data/games/771-ultima-underworld-1-2.json"
+}

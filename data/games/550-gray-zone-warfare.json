@@ -1,0 +1,20 @@
+{
+  "id": 550,
+  "title_jp": "グレイゾーン・ウォーフェア",
+  "title_en": "Gray Zone Warfare",
+  "developer": "Madfinger Games",
+  "publisher": "Madfinger Games",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Hardcore extraction FPS / open-world",
+  "sales_jp": "",
+  "sales_world": "1.5M+ early access copies; Steam top-20 revenue of 2024",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Largest Tarkov-style PvPvE breakout of 2024; open-world tactical extraction with 32-player servers.",
+  "slug": "gray-zone-warfare",
+  "file": "data/games/550-gray-zone-warfare.json"
+}

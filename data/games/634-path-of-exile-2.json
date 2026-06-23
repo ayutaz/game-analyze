@@ -1,0 +1,24 @@
+{
+  "id": 634,
+  "title_jp": "パス・オブ・エグザイル2",
+  "title_en": "Path of Exile 2",
+  "developer": "Grinding Gear Games",
+  "publisher": "Grinding Gear Games / Tencent",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "ARPG with MMO-style leagues (Early Access)",
+  "sales_jp": "",
+  "sales_world": "1M+ early-access buyers in launch hours; all-time peak 578K Steam CCU; 353K peak again at Aug 2025 update",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Steam's biggest paid ARPG launch ever; while technically ARPG, its persistent leagues function as a recurring MMO loop.",
+  "slug": "path-of-exile-2",
+  "file": "data/games/634-path-of-exile-2.json"
+}

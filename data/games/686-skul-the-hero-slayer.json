@@ -1,0 +1,25 @@
+{
+  "id": 686,
+  "title_jp": "Skul: The Hero Slayer",
+  "title_en": "Skul: The Hero Slayer",
+  "developer": "SouthPAW Games",
+  "publisher": "NEOWIZ",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "2D action roguelite",
+  "sales_jp": "",
+  "sales_world": "2M+ sold lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Korean indie breakout — head-swapping action roguelite that punches well above its budget.",
+  "slug": "skul-the-hero-slayer",
+  "file": "data/games/686-skul-the-hero-slayer.json"
+}

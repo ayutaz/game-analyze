@@ -1,0 +1,26 @@
+{
+  "id": 751,
+  "title_jp": "スプリンターセル ブラックリスト",
+  "title_en": "Tom Clancy's Splinter Cell: Blacklist",
+  "developer": "Ubisoft Toronto",
+  "publisher": "Ubisoft",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360",
+    "Wii U"
+  ],
+  "genre": "Stealth-action",
+  "sales_jp": "",
+  "sales_world": "~2M copies sold",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Last mainline Splinter Cell; the series' modern bookend before the pending remake.",
+  "slug": "tom-clancys-splinter-cell-blacklist",
+  "file": "data/games/751-tom-clancys-splinter-cell-blacklist.json"
+}

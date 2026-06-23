@@ -1,0 +1,22 @@
+{
+  "id": 647,
+  "title_jp": "Prodeus",
+  "title_en": "Prodeus",
+  "developer": "Bounding Box Software",
+  "publisher": "Humble Games",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Boomer-shooter (modern + retro hybrid)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Modern combat feel with 2.5D sprite-fy aesthetic; in-game level editor with a vibrant community catalog.",
+  "slug": "prodeus",
+  "file": "data/games/647-prodeus.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 770,
+  "title_jp": "トゥー・ワールズ II",
+  "title_en": "Two Worlds II",
+  "developer": "Reality Pump Studios",
+  "publisher": "TopWare Interactive",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PS3",
+    "Xbox 360",
+    "Mac"
+  ],
+  "genre": "Open-world fantasy RPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners ~500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Polish open-world RPG that found a cult B-tier audience between Oblivion and Witcher 2.",
+  "slug": "two-worlds-ii",
+  "file": "data/games/770-two-worlds-ii.json"
+}

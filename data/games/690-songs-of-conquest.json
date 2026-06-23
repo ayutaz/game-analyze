@@ -1,0 +1,22 @@
+{
+  "id": 690,
+  "title_jp": "Songs of Conquest",
+  "title_en": "Songs of Conquest",
+  "developer": "Lavapotion",
+  "publisher": "Coffee Stain Publishing",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Turn-based strategy (HoMM-like)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500k-1M (EA + 1.0)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Modern Heroes of Might & Magic-style revival; left EA May 2024 to acclaim. (Note: not platformer/metroidvania but explicitly requested.)",
+  "slug": "songs-of-conquest",
+  "file": "data/games/690-songs-of-conquest.json"
+}

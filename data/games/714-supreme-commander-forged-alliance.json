@@ -1,0 +1,20 @@
+{
+  "id": 714,
+  "title_jp": "Supreme Commander: Forged Alliance",
+  "title_en": "Supreme Commander: Forged Alliance",
+  "developer": "Gas Powered Games",
+  "publisher": "THQ",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "RTS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; still ~1.5K CCU via FA Forever",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Massive-scale Chris Taylor RTS whose community FA-Forever client keeps it competitive in 2026.",
+  "slug": "supreme-commander-forged-alliance",
+  "file": "data/games/714-supreme-commander-forged-alliance.json"
+}

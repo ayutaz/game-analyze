@@ -1,0 +1,22 @@
+{
+  "id": 373,
+  "title_jp": "フットボールマネージャー2024",
+  "title_en": "Football Manager 2024",
+  "developer": "Sports Interactive",
+  "publisher": "SEGA",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Mobile",
+    "Switch"
+  ],
+  "genre": "Football management simulation",
+  "sales_jp": "",
+  "sales_world": "~7M+ owners cited; ~$100M revenue 24-month window",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The definitive football management sim; FM25 was famously cancelled, making FM24 the de facto current release for ~2 years.",
+  "slug": "football-manager-2024",
+  "file": "data/games/373-football-manager-2024.json"
+}

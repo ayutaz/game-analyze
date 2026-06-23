@@ -1,0 +1,22 @@
+{
+  "id": 669,
+  "title_jp": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "title_en": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "developer": "GSC Game World",
+  "publisher": "GSC Game World",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world survival FPS",
+  "sales_jp": "",
+  "sales_world": "1.4M+ Steam in 4 days; 6M+ players by March 2025 (incl. Game Pass)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Made under wartime conditions in Ukraine; biggest launch in series history despite famously rough release.",
+  "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+  "file": "data/games/669-s-t-a-l-k-e-r-2-heart-of-chornobyl.json"
+}

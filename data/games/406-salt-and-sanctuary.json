@@ -1,0 +1,25 @@
+{
+  "id": 406,
+  "title_jp": "Salt and Sanctuary",
+  "title_en": "Salt and Sanctuary",
+  "developer": "Ska Studios",
+  "publisher": "Ska Studios",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox"
+  ],
+  "genre": "2D soulslike Metroidvania",
+  "sales_jp": "",
+  "sales_world": "Steam 1-2M owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Original 2D souls template that spawned an entire indie subgenre.",
+  "slug": "salt-and-sanctuary",
+  "file": "data/games/406-salt-and-sanctuary.json"
+}

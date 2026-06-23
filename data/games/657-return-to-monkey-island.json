@@ -1,0 +1,28 @@
+{
+  "id": 657,
+  "title_jp": "リターン トゥ モンキーアイランド",
+  "title_en": "Return to Monkey Island",
+  "developer": "Terrible Toybox",
+  "publisher": "Devolver Digital",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Point-and-click adventure",
+  "sales_jp": "",
+  "sales_world": "Fastest-selling Monkey Island ever; ~100K Steam copies first month / ~$3M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Ron Gilbert's direct sequel after 30 years; brought the series back to the front of adventure gaming.",
+  "slug": "return-to-monkey-island",
+  "file": "data/games/657-return-to-monkey-island.json"
+}

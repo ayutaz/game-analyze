@@ -1,0 +1,22 @@
+{
+  "id": 774,
+  "title_jp": "ヴァンパイア：ザ・マスカレード ブラッドラインズ",
+  "title_en": "Vampire: The Masquerade – Bloodlines",
+  "developer": "Troika Games",
+  "publisher": "Activision",
+  "year": 2004,
+  "platform": [
+    "PC"
+  ],
+  "genre": "First-person urban-gothic RPG (Source engine)",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; legendary cult status thanks to community Unofficial Patch",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Troika's broken masterpiece; still the gold standard for World of Darkness video games.",
+  "slug": "vampire-the-masquerade-bloodlines",
+  "file": "data/games/774-vampire-the-masquerade-bloodlines.json"
+}

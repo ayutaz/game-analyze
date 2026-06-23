@@ -1,0 +1,22 @@
+{
+  "id": 530,
+  "title_jp": "F.E.A.R. ファースト・エンカウンター・アサルト・リコン",
+  "title_en": "F.E.A.R.",
+  "developer": "Monolith Productions",
+  "publisher": "Vivendi / Sierra",
+  "year": 2005,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Single-player horror FPS",
+  "sales_jp": "",
+  "sales_world": "3M+ franchise sales; cult-classic PC shooter",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Best-in-class AI for its time; horror-FPS hybrid still cited by developers as a combat benchmark.",
+  "slug": "f-e-a-r",
+  "file": "data/games/530-f-e-a-r.json"
+}

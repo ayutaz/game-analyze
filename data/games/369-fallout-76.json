@@ -1,0 +1,26 @@
+{
+  "id": 369,
+  "title_jp": "フォールアウト76",
+  "title_en": "Fallout 76",
+  "developer": "Bethesda Game Studios",
+  "publisher": "Bethesda Softworks",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Online open-world RPG",
+  "sales_jp": "",
+  "sales_world": "1.4M in launch year; 20M+ players cumulative by 2024",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Disastrous launch turned into a redemption story; among Steam's largest live-service open worlds.",
+  "slug": "fallout-76",
+  "file": "data/games/369-fallout-76.json"
+}

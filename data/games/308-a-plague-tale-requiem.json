@@ -1,0 +1,23 @@
+{
+  "id": 308,
+  "title_jp": "プレイグ テイル -レクイエム-",
+  "title_en": "A Plague Tale: Requiem",
+  "developer": "Asobo Studio",
+  "publisher": "Focus Entertainment",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch Cloud"
+  ],
+  "genre": "Narrative action-adventure",
+  "sales_jp": "",
+  "sales_world": "1M players in first week (Game Pass + retail)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "Sequel doubling down on cinematic narrative; nominated for multiple Game of the Year awards 2022-23.",
+  "slug": "a-plague-tale-requiem",
+  "file": "data/games/308-a-plague-tale-requiem.json"
+}

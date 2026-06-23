@@ -1,0 +1,25 @@
+{
+  "id": 483,
+  "title_jp": "コアキーパー（拡張アップデート）",
+  "title_en": "Core Keeper: Sunken Sea / Cherished Memory updates",
+  "developer": "Pugstorm",
+  "publisher": "Fireshine Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Top-down voxel survival",
+  "sales_jp": "",
+  "sales_world": "Core Keeper >5M copies (catalog); treat as base entry",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "(NOTE: base game already in catalog; skip — included only as flag)",
+  "slug": "core-keeper-sunken-sea-cherished-memory-updates",
+  "file": "data/games/483-core-keeper-sunken-sea-cherished-memory-updates.json"
+}

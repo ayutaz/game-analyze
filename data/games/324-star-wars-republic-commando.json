@@ -1,0 +1,25 @@
+{
+  "id": 324,
+  "title_jp": "スター・ウォーズ リパブリック コマンドー",
+  "title_en": "Star Wars: Republic Commando",
+  "developer": "LucasArts",
+  "publisher": "Disney / Aspyr",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "Squad FPS",
+  "sales_jp": "",
+  "sales_world": "Steam owners 500K-1M; 95% positive of 9.9K reviews",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Cult-favorite Clone Trooper squad shooter that still tops Star Wars FPS recommendation lists; re-released on Switch/PS4 by Aspyr in 2021.",
+  "slug": "star-wars-republic-commando",
+  "file": "data/games/324-star-wars-republic-commando.json"
+}

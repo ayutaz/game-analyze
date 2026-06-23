@@ -1,0 +1,28 @@
+{
+  "id": 518,
+  "title_jp": "ダイイングライト2 ステイ ヒューマン",
+  "title_en": "Dying Light 2 Stay Human",
+  "developer": "Techland",
+  "publisher": "Techland",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5",
+    "Switch (cloud)",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world action / zombie survival",
+  "sales_jp": "",
+  "sales_world": "5M+ in first month; 2M+ on Steam specifically",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sequel that expanded the parkour-combat template into a multi-ending RPG.",
+  "slug": "dying-light-2-stay-human",
+  "file": "data/games/518-dying-light-2-stay-human.json"
+}

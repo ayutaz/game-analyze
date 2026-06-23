@@ -1,0 +1,27 @@
+{
+  "id": 413,
+  "title_jp": "Slay the Spire",
+  "title_en": "Slay the Spire",
+  "developer": "Mega Crit Games",
+  "publisher": "Mega Crit Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Roguelike deckbuilder",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M; 5M+ sold across all platforms",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The genre-defining roguelike deckbuilder that launched the entire modern deckbuilder boom.",
+  "slug": "slay-the-spire",
+  "file": "data/games/413-slay-the-spire.json"
+}

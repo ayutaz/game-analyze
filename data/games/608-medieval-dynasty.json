@@ -1,0 +1,24 @@
+{
+  "id": 608,
+  "title_jp": "ミディーバル ダイナスティ",
+  "title_en": "Medieval Dynasty",
+  "developer": "Render Cube",
+  "publisher": "Toplitz Productions",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+  ],
+  "genre": "Medieval life sim / survival village",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; 3M+ across platforms by 2023",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Polish hit blending Skyrim-style first-person with town-building; established the 'Dynasty' lineage (Wild West / Sengoku Dynasty).",
+  "slug": "medieval-dynasty",
+  "file": "data/games/608-medieval-dynasty.json"
+}

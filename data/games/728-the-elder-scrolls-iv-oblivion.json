@@ -1,0 +1,24 @@
+{
+  "id": 728,
+  "title_jp": "エルダー・スクロールズ IV オブリビオン",
+  "title_en": "The Elder Scrolls IV: Oblivion",
+  "developer": "Bethesda Game Studios",
+  "publisher": "Bethesda / 2K Games",
+  "year": 2006,
+  "platform": [
+    "PC",
+    "Xbox 360",
+    "PS3"
+  ],
+  "genre": "Open-world first-person fantasy RPG",
+  "sales_jp": "",
+  "sales_world": "9.5M+ lifetime (pre-Remastered)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Brought Elder Scrolls mainstream; Radiant AI and the Dark Brotherhood/Thieves Guild questlines are touchstones.",
+  "slug": "the-elder-scrolls-iv-oblivion",
+  "file": "data/games/728-the-elder-scrolls-iv-oblivion.json"
+}

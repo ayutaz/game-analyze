@@ -1,0 +1,22 @@
+{
+  "id": 492,
+  "title_jp": "Crystal Project",
+  "title_en": "Crystal Project",
+  "developer": "Andrew Willman",
+  "publisher": "Andrew Willman",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world JRPG / exploration platformer",
+  "sales_jp": "",
+  "sales_world": "Steam owners 100k-300k; cult acclaim",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Solo-developed FF5-job-system open-world JRPG with platforming exploration; overwhelmingly positive reviews.",
+  "slug": "crystal-project",
+  "file": "data/games/492-crystal-project.json"
+}

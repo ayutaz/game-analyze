@@ -1,0 +1,22 @@
+{
+  "id": 677,
+  "title_jp": "スクム",
+  "title_en": "SCUM",
+  "developer": "Gamepires",
+  "publisher": "Jagex",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world prison-island survival",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M; 2M+ copies sold (Gamepires)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Detailed body-simulation survival shooter; long-running EA staple with persistent hardcore audience.",
+  "slug": "scum",
+  "file": "data/games/677-scum.json"
+}

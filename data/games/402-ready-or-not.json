@@ -1,0 +1,20 @@
+{
+  "id": 402,
+  "title_jp": "レディ オア ノット",
+  "title_en": "Ready or Not",
+  "developer": "VOID Interactive",
+  "publisher": "VOID Interactive",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Tactical co-op/PvP FPS",
+  "sales_jp": "",
+  "sales_world": "13M+ across platforms by Sept 2025 (10M+ on PC)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Spiritual SWAT 4 successor that became a multi-million-seller indie tactical FPS and revived close-quarters team play.",
+  "slug": "ready-or-not",
+  "file": "data/games/402-ready-or-not.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 440,
+  "title_jp": "了不起的修仙模拟器",
+  "title_en": "Amazing Cultivation Simulator",
+  "developer": "GSQ Games",
+  "publisher": "GSQ Games",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Cultivation colony sim",
+  "sales_jp": "",
+  "sales_world": "500K-1M Steam owners, 85% positive over 19K reviews",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Cult Chinese Rimworld-meets-xianxia hybrid that built a steady Western niche.",
+  "slug": "amazing-cultivation-simulator",
+  "file": "data/games/440-amazing-cultivation-simulator.json"
+}

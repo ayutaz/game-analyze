@@ -1,0 +1,29 @@
+{
+  "id": 355,
+  "title_jp": "Descenders",
+  "title_en": "Descenders",
+  "developer": "RageSquid",
+  "publisher": "No More Robots",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series",
+    "Xbox One",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Extreme downhill biking",
+  "sales_jp": "",
+  "sales_world": "Steam 500K-1M owners",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Procedural downhill MTB roguelite — defining 'extreme sports indie' of the late 2010s.",
+  "slug": "descenders",
+  "file": "data/games/355-descenders.json"
+}

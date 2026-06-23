@@ -1,0 +1,24 @@
+{
+  "id": 791,
+  "title_jp": "ウォルセン ローズ・オブ・メイヘム",
+  "title_en": "Wolcen: Lords of Mayhem",
+  "developer": "Wolcen Studio",
+  "publisher": "Wolcen Studio",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "ARPG",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1-2M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Cryengine-powered visually striking ARPG; massive launch then steep drop-off, a defining cautionary tale for indie ARPGs.",
+  "slug": "wolcen-lords-of-mayhem",
+  "file": "data/games/791-wolcen-lords-of-mayhem.json"
+}

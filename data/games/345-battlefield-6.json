@@ -1,0 +1,20 @@
+{
+  "id": 345,
+  "title_jp": "バトルフィールド 6",
+  "title_en": "Battlefield 6",
+  "developer": "DICE / Criterion / Ripple Effect / Motive",
+  "publisher": "EA",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Modern military team FPS",
+  "sales_jp": "",
+  "sales_world": "10M+ copies; biggest BF launch ever and best-selling shooter of 2025",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "First Battlefield to outsell a year's Call of Duty; centerpiece of EA's 2025 earnings.",
+  "slug": "battlefield-6",
+  "file": "data/games/345-battlefield-6.json"
+}

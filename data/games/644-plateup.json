@@ -1,0 +1,25 @@
+{
+  "id": 644,
+  "title_jp": "プレートアップ!",
+  "title_en": "PlateUp!",
+  "developer": "It's happening",
+  "publisher": "Yogscast Games",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series",
+    "Switch"
+  ],
+  "genre": "Restaurant management roguelite",
+  "sales_jp": "",
+  "sales_world": "Steam owners 1M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Overcooked-meets-roguelite restaurant sim; one of the breakout co-op sim hits of 2022.",
+  "slug": "plateup",
+  "file": "data/games/644-plateup.json"
+}

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## このリポジトリの性質
 
-これは**コードベースではなく、リサーチ成果物（Markdown + JSON のドキュメント集）** を保管するワークスペースです。`/Users/yousan/Desktop/game-analyze/` 配下で、国内（日本）と国際市場で著名なゲーム計 303 本（うち 2020+ インディー 103 本含む）を以下3カテゴリに分類した分析カタログを管理します。
+これは**コードベースではなく、リサーチ成果物（Markdown + JSON のドキュメント集）** を保管するワークスペースです。`/Users/yousan/Desktop/game-analyze/` 配下で、国内（日本）と国際市場で著名なゲーム計 803 本（うち 2020+ インディー 103 本、PC 拡張 500 本を含む）を以下3カテゴリに分類した分析カタログを管理します。
 
 - **EXP（体験型）** — 遊ぶ過程の体験そのものが面白い。特に「他者との関わり方」を 6 サブタイプ（対戦／協力／非対称／非同期／観戦／ソロ）で分析
 - **NAR（物語型）** — 物語を見ること／追体験することに特化
@@ -33,7 +33,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `index.html` (root) | `site/facet.html` への meta-refresh リダイレクト。Pages トップの入口 | — |
 | `.github/workflows/deploy-pages.yml` | GitHub Pages デプロイの Actions ワークフロー | push 時に自動実行、Actions タブから手動 Run も可 |
 
-**ID #56 は 2026-06 に「桃太郎電鉄 〜昭和 平成 令和も定番！〜」で埋め、欠番を解消した**（当初プロセカ重複で欠番だった枠）。同時に **2020 年以降に日本国内で人気・話題になったゲーム 101 本を一括追加** し ID 1–200 を稼働化、続いて **2020 年以降に国内外で 20 万本超を売り上げたインディー作品 103 本（ID 201–303）を ultracode ワークフローで一括追加** した。現在 ID 1–303 が全て稼働している。
+**ID #56 は 2026-06 に「桃太郎電鉄 〜昭和 平成 令和も定番！〜」で埋め、欠番を解消した**（当初プロセカ重複で欠番だった枠）。同時に **2020 年以降に日本国内で人気・話題になったゲーム 101 本を一括追加** し ID 1–200 を稼働化、続いて **2020 年以降に国内外で 20 万本超を売り上げたインディー作品 103 本（ID 201–303）を ultracode ワークフローで一括追加**、さらに **PC ゲーム 500 本（ID 304–803、Western CRPG / Grand Strategy / 4X / RTS / MMO / FPS / ARPG / Sim / Sandbox / VN・同人 / クラシック PC 等）を 22 並列 discover エージェントの ultracode + deep-research ワークフローで一括追加** した。現在 ID 1–803 が全て稼働している。
 
 ## データ編集ワークフロー
 
@@ -59,8 +59,8 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 "
 ```
 
-期待値（2026-06-23 時点）: total=303 / EXP 183, NAR 69, REW 51 / ids missing=[] / collisions=0
-社会軸 (EXP のみ): ソロ 88 / 対戦 41 / 協力 35 / 非同期 4 / 非対称 3 / 観戦 3 / 未設定 9
+期待値（2026-06-24 時点）: total=803 / EXP 603, NAR 100, REW 100 / ids missing=[] / collisions=0
+社会軸 (EXP のみ): ソロ 426 / 対戦 95 / 協力 62 / 非同期 4 / 非対称 4 / 観戦 3 / 未設定 9
 
 ## 分類ルール（複数該当タイトルの主分類判定）
 
@@ -86,6 +86,7 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 - 既存99本側の EXP 9 タイトル（#073/#077/#079-#081/#083/#085-#087）で `social_axis` が未設定。2020+ で追加した EXP 50 件と、2020+ インディー拡張で追加した EXP 78 件はすべて埋めてある
 - 2020+ 拡張で **デレステ・シャニマス・グラブル・グラブル Relink・あんスタ・ヒプマイ・刀剣乱舞・まほやく・アナデン・プリコネ・BLEACH Brave Souls・ブルアカ・ヘブバン・NIKKE** などアイドル／長期運営モバイル系は概ね追加済み。`ガールフレンド(仮)`・`ラブライブ SIF2`・`Sky 星を紡ぐ子どもたち` 等は未掲載のまま（小規模 IP・サ終済みなど）
 - 2020+ インディー拡張（ID 201–303）は Workflow ベースで 363 raw → 115 consolidated → 103 kept で生成。Slay the Spire 2 (2026) など発売直後の作品も含む。Touhou Luna Nights / Satisfactory / Project Zomboid / Gnosia は 2019 以前リリースで除外、Ori 2 / Pentiment / Disney Dreamlight Valley は AAA（Microsoft/Gameloft）配給で除外。Hi-Fi Rush・Helldivers 2 は当初検討も AA / Sony first-party で workflow が消費前に除外済み。
+- PC 拡張（ID 304–803、計 500 本）は ultracode + deep-research ワークフロー（22 並列 discover エージェント、計 1791K subagent トークン）で生成。1271 raw 候補 → ローカル dedup で 1140 ユニーク → ヒューリスティック品質スコアで上位 500 を採択。Consolidate フェーズに到達する前に western-crpg エージェントが 6 連続 stall でワークフロー全体が落ちたため、verify+enrich は走らず **discover の raw 出力を直接構造化** している。そのため `sales_world` の値はソースエージェントの推定がそのまま入っており、`Steam owners 1-2M` / `~5M concurrent` 等の表現ゆれが残る。重要な前提：(a) `social_axis` はジャンル＋angle ベースのルールで決定（CRPG=ソロ、MOBA=対戦、MMO=協力 等）、手書きの精査は未実施。(b) `popularity` 文は英文のまま保存されているケースがある。(c) Half-Life 1/2、Portal 1/2、Bioshock 1/2/Infinite、Skyrim、Civilization VI、Crusader Kings 3、StarCraft 2、World of Warcraft、Counter-Strike 2 等の PC 主力タイトルが未収録だった欠落を一気に埋めた。
 
 ## 作業時の心構え
 

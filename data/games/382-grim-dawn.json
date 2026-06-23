@@ -1,0 +1,23 @@
+{
+  "id": 382,
+  "title_jp": "グリム・ドーン",
+  "title_en": "Grim Dawn",
+  "developer": "Crate Entertainment",
+  "publisher": "Crate Entertainment",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Xbox"
+  ],
+  "genre": "ARPG",
+  "sales_jp": "",
+  "sales_world": "7M+ units (incl. DLC, Feb 2022); 10-20M Steam owners",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Spiritual successor to Titan Quest; cult-favorite dual-class ARPG with a decade of expansions and the new Fangs of Asterkarn (2025).",
+  "slug": "grim-dawn",
+  "file": "data/games/382-grim-dawn.json"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 368,
+  "title_jp": "ヨーロッパ・ユニバーサリス IV",
+  "title_en": "Europa Universalis IV",
+  "developer": "Paradox Development Studio",
+  "publisher": "Paradox Interactive",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Early modern grand strategy",
+  "sales_jp": "",
+  "sales_world": "2M+ owners by 2021; estimated 4M+ by 2025 with DLC bundles",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "The benchmark historical map-painter; supported with DLC for over a decade and a vast modding ecosystem.",
+  "slug": "europa-universalis-iv",
+  "file": "data/games/368-europa-universalis-iv.json"
+}

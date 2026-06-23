@@ -1,0 +1,25 @@
+{
+  "id": 599,
+  "title_jp": "マフィアII：コンプリート・エディション",
+  "title_en": "Mafia II: Definitive Edition",
+  "developer": "Hangar 13 / D3T",
+  "publisher": "2K Games",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "Open-world action-adventure / crime",
+  "sales_jp": "",
+  "sales_world": "Original Mafia II ~5M; DE delivered free to existing Steam owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Returns the '50s-era organized crime epic to modern PCs; bridge between Mafia I and III.",
+  "slug": "mafia-ii-definitive-edition",
+  "file": "data/games/599-mafia-ii-definitive-edition.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 439,
+  "title_jp": "エイリアン: ダーク ディセント",
+  "title_en": "Aliens: Dark Descent",
+  "developer": "Tindalos Interactive",
+  "publisher": "Focus Entertainment",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox"
+  ],
+  "genre": "Real-time tactics with pause",
+  "sales_jp": "",
+  "sales_world": "500K-1M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Squad-based Aliens tactics with persistent stress/wounds; revitalized the licensed-tactical sub-genre.",
+  "slug": "aliens-dark-descent",
+  "file": "data/games/439-aliens-dark-descent.json"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 800,
+  "title_jp": "X4: ファウンデーションズ",
+  "title_en": "X4: Foundations",
+  "developer": "Egosoft",
+  "publisher": "Egosoft",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Space sandbox sim",
+  "sales_jp": "",
+  "sales_world": "Steam 100K+ at full price; Steam owners 500K-1M with updates and DLC",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The flag-bearer of the long-running X universe — Egosoft sustains it with multi-year content updates (now at 9.00 Empire Update), making it the deepest active space sandbox on PC.",
+  "slug": "x4-foundations",
+  "file": "data/games/800-x4-foundations.json"
+}

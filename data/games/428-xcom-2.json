@@ -1,0 +1,28 @@
+{
+  "id": 428,
+  "title_jp": "XCOM 2",
+  "title_en": "XCOM 2",
+  "developer": "Firaxis Games",
+  "publisher": "2K",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "Turn-based tactics",
+  "sales_jp": "",
+  "sales_world": "Steam owners 5-10M (with War of the Chosen)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Defining modern XCOM-like; War of the Chosen expansion is the gold standard for tactical roguelite campaigns.",
+  "slug": "xcom-2",
+  "file": "data/games/428-xcom-2.json"
+}

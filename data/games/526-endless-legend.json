@@ -1,0 +1,21 @@
+{
+  "id": 526,
+  "title_jp": "Endless Legend",
+  "title_en": "Endless Legend",
+  "developer": "Amplitude Studios",
+  "publisher": "Sega",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "Fantasy 4X turn-based strategy",
+  "sales_jp": "",
+  "sales_world": "Estimated 1.5-3M Steam owners; 85% positive on 9.2K reviews",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Won Best Strategy Game 2014; faction-driven storytelling is still the genre's reference point for narrative 4X.",
+  "slug": "endless-legend",
+  "file": "data/games/526-endless-legend.json"
+}

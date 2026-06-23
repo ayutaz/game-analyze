@@ -1,0 +1,20 @@
+{
+  "id": 587,
+  "title_jp": "ケンシ",
+  "title_en": "Kenshi",
+  "developer": "Lo-Fi Games",
+  "publisher": "Lo-Fi Games",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Open-world squad RPG / sandbox",
+  "sales_jp": "",
+  "sales_world": "3M+ copies sold (May 2026); cult juggernaut",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "12-year solo-dev passion project whose harsh emergent sandbox cemented a 'no-story, all-systems' RPG identity; Kenshi 2 in development.",
+  "slug": "kenshi",
+  "file": "data/games/587-kenshi.json"
+}

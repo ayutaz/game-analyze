@@ -1,0 +1,22 @@
+{
+  "id": 653,
+  "title_jp": "バイオハザード RE:2",
+  "title_en": "RESIDENT EVIL 2 (Remake)",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Survival horror",
+  "sales_jp": "",
+  "sales_world": "16.8M+ lifetime; Capcom's #2 best Steam launch ever (after Monster Hunter: World)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Bestselling RE entry; standard-bearer of Japanese horror remakes on Steam.",
+  "slug": "resident-evil-2-remake",
+  "file": "data/games/653-resident-evil-2-remake.json"
+}

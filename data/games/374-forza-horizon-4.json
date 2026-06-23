@@ -1,0 +1,22 @@
+{
+  "id": 374,
+  "title_jp": "Forza Horizon 4",
+  "title_en": "Forza Horizon 4",
+  "developer": "Playground Games",
+  "publisher": "Xbox Game Studios",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Xbox One",
+    "Xbox Series"
+  ],
+  "genre": "Open-world arcade racing",
+  "sales_jp": "",
+  "sales_world": "~20M players cited (Microsoft 2021); delisted Dec 2024",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "The UK-set entry that broke Horizon into mainstream PC consciousness via Steam in 2021.",
+  "slug": "forza-horizon-4",
+  "file": "data/games/374-forza-horizon-4.json"
+}

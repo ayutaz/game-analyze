@@ -86,7 +86,7 @@ describe('facet.html — initial render', () => {
   it('topbar_rendered', () => {
     const link = win.document.querySelector('#topbar h1 a');
     assert.ok(link, '#topbar should contain a heading link');
-    assert.equal(link.textContent.trim(), '日本／世界のゲーム803本 分析カタログ');
+    assert.equal(link.textContent.trim(), '日本／世界のゲーム 3カテゴリ分析カタログ');
   });
 
   it('renders_803_cards_initially', () => {

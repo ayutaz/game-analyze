@@ -6,7 +6,8 @@
   "publisher": "Cygames",
   "year": 2021,
   "platform": [
-    "Mobile",
+    "iOS",
+    "Android",
     "PC"
   ],
   "genre": "育成SLG/ガチャ",

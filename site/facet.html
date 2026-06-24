@@ -89,7 +89,7 @@
     <div class="layout">
       <aside class="sidebar">
         <h3>検索</h3>
-        <input type="text" class="search-input" id="search" placeholder="タイトル / ジャンル…">
+        <input type="text" class="search-input" id="search" placeholder="タイトル / ジャンル / 開発元…">
 
         <h3>主分類</h3>
         <div id="filter-primary"></div>
@@ -177,7 +177,7 @@
 
       document.getElementById('filter-platform').innerHTML = [...platCounts.entries()]
         .sort((a,b) => b[1]-a[1])
-        .slice(0, 12).map(([p,n]) => `
+        .filter(([_, n]) => n >= 5).map(([p,n]) => `
         <label class="filter-row" data-key="platform" data-val="${p}">
           <span><input type="checkbox"> ${p}</span>
           <span class="count">${n}</span>
@@ -189,11 +189,16 @@
       return games.filter(g => {
         if (state.search) {
           const s = state.search.toLowerCase();
-          const hay = [g.title_jp, g.title_en, g.genre].filter(Boolean).join(' ').toLowerCase();
+          const hay = [
+            g.title_jp, g.title_en, g.genre,
+            g.developer, g.publisher, g.popularity,
+            g.concept, g.target,
+            ...(g.secondary || []),
+          ].filter(Boolean).join(' ').toLowerCase();
           if (!hay.includes(s)) return false;
         }
         if (state.primary.size && !state.primary.has(g.primary)) return false;
-        if (state.axis.size && !state.axis.has(g.social_axis)) return false;
+        if (state.axis.size && (g.primary !== 'EXP' || !state.axis.has(g.social_axis))) return false;
         if (state.decade.size && !state.decade.has(decade(g.year))) return false;
         if (state.platform.size) {
           const ok = (g.platform || []).some(p => state.platform.has(p));

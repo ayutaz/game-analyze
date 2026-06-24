@@ -6,7 +6,8 @@
   "publisher": "スクエニ",
   "year": 2019,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "位置情報RPG",
   "primary": "REW",

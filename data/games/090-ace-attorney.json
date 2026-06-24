@@ -12,6 +12,7 @@
   "genre": "法廷AVG",
   "sales_world": "1100万+",
   "primary": "NAR",
+  "secondary": [],
   "slug": "ace-attorney",
   "file": "data/games/090-ace-attorney.json",
   "concept": "法廷で証拠を提示して「異議あり！」と矛盾を突く裁判アドベンチャー、論理パズルと演出を融合させたカプコンの代表作。",

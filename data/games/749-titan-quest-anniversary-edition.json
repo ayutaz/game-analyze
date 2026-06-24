@@ -8,7 +8,8 @@
   "platform": [
     "PC",
     "consoles",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "ARPG (ancient mythology)",
   "sales_jp": "",

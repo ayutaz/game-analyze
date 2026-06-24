@@ -10,6 +10,7 @@
   ],
   "genre": "パーティバトロワ",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "fall-guys",
   "file": "data/games/039-fall-guys.json",

@@ -6,7 +6,8 @@
   "publisher": "ポケモン",
   "year": 2016,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "位置情報ARPG",
   "sales_world": "5B+ DL",

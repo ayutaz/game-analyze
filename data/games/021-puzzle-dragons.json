@@ -6,7 +6,8 @@
   "publisher": "ガンホー",
   "year": 2012,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "パズルRPG",
   "sales_world": "8000万DL+",

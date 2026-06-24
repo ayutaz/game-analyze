@@ -10,6 +10,7 @@
   ],
   "genre": "MOBA",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "league-of-legends",
   "file": "data/games/036-league-of-legends.json",

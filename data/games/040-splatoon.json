@@ -11,6 +11,7 @@
   "genre": "TPS対戦",
   "sales_world": "5M+",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "splatoon",
   "file": "data/games/040-splatoon.json",

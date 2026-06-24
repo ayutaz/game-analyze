@@ -6,7 +6,8 @@
   "publisher": "Supercell",
   "year": 2016,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "RTカード対戦",
   "primary": "EXP",

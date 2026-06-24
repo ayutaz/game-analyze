@@ -8,7 +8,8 @@
   "platform": [
     "PC",
     "Switch",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "Open-world cultivation sandbox RPG",
   "sales_jp": "",

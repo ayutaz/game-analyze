@@ -6,10 +6,11 @@
   "publisher": "KONAMI",
   "year": 1999,
   "platform": [
-    "AC"
+    "Arcade"
   ],
   "genre": "音ゲー",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "beatmania-iidx",
   "file": "data/games/053-beatmania-iidx.json",

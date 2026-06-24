@@ -150,9 +150,14 @@ describe('facet.html — initial render', () => {
     assert.deepEqual(labels, sorted);
   });
 
-  it('platform_filter_capped_at_12', () => {
-    const rows = win.document.querySelectorAll('#filter-platform .filter-row');
-    assert.ok(rows.length <= 12, `expected <=12 rows, got ${rows.length}`);
+  it('platform_filter_shows_only_counts_5_and_above', () => {
+    const counts = Array.from(
+      win.document.querySelectorAll('#filter-platform .count'),
+    ).map((n) => Number(n.textContent));
+    assert.ok(counts.length >= 12, `expected at least 12 rows after threshold, got ${counts.length}`);
+    for (const n of counts) {
+      assert.ok(n >= 5, `expected each shown platform to have count >= 5, got ${n}`);
+    }
   });
 
   it('platform_counts_descending', () => {
@@ -378,6 +383,19 @@ describe('facet.html — filter interactions', () => {
   });
 
   it('search_narrows_results_case_insensitive', async () => {
+    // Search now spans title + genre + developer + publisher + popularity +
+    // concept + target + secondary, so a card may legitimately match by a
+    // field that isn't rendered on the card (concept/target/popularity).
+    // Compare against the count predicted from the same hay function.
+    const index = await readIndex();
+    const expected = index.games.filter((g) =>
+      [g.title_jp, g.title_en, g.genre, g.developer, g.publisher,
+        g.popularity, g.concept, g.target, ...(g.secondary || [])]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase()
+        .includes('mario')
+    ).length;
     const dom = await bootFacet();
     const win = dom.window;
     try {
@@ -385,21 +403,23 @@ describe('facet.html — filter interactions', () => {
       s.value = 'mario';
       s.dispatchEvent(new win.Event('input', { bubbles: true }));
       await tick(win, 20);
-      const visible = cards(win);
-      assert.ok(visible.length > 0, 'mario should match >0 games');
-      for (const c of visible) {
-        const txt = c.textContent.toLowerCase();
-        assert.ok(
-          txt.includes('mario') || txt.includes('マリオ'),
-          `card without 'mario': ${c.textContent.slice(0, 60)}`,
-        );
-      }
+      assert.equal(cards(win).length, expected);
+      assert.ok(expected > 0, 'mario should match >0 games');
     } finally {
       dom.window.close();
     }
   });
 
   it('search_japanese_token', async () => {
+    const index = await readIndex();
+    const expected = index.games.filter((g) =>
+      [g.title_jp, g.title_en, g.genre, g.developer, g.publisher,
+        g.popularity, g.concept, g.target, ...(g.secondary || [])]
+        .filter(Boolean)
+        .join(' ')
+        .toLowerCase()
+        .includes('ポケモン'.toLowerCase())
+    ).length;
     const dom = await bootFacet();
     const win = dom.window;
     try {
@@ -407,16 +427,8 @@ describe('facet.html — filter interactions', () => {
       s.value = 'ポケモン';
       s.dispatchEvent(new win.Event('input', { bubbles: true }));
       await tick(win, 20);
-      const visible = cards(win);
-      assert.ok(visible.length > 0);
-      for (const c of visible) {
-        assert.ok(
-          c.textContent.includes('ポケモン') ||
-            c.textContent.toLowerCase().includes('pokémon') ||
-            c.textContent.toLowerCase().includes('pokemon'),
-          `card lacked ポケモン: ${c.textContent.slice(0, 80)}`,
-        );
-      }
+      assert.equal(cards(win).length, expected);
+      assert.ok(expected > 0);
     } finally {
       dom.window.close();
     }
@@ -445,7 +457,9 @@ describe('facet.html — filter interactions', () => {
     const expected = index.games.filter(
       (g) =>
         g.primary === 'EXP' &&
-        [(g.title_jp || ''), (g.title_en || ''), (g.genre || '')]
+        [g.title_jp, g.title_en, g.genre, g.developer, g.publisher,
+          g.popularity, g.concept, g.target, ...(g.secondary || [])]
+          .filter(Boolean)
           .join(' ')
           .toLowerCase()
           .includes('マリオ'.toLowerCase()),
@@ -562,6 +576,142 @@ describe('facet.html — filter interactions', () => {
       filterRow(win, 'primary', 'NAR').querySelector('input').click();
       await tick(win, 20);
       assert.equal(cards(win).length, 125);
+    } finally {
+      dom.window.close();
+    }
+  });
+});
+
+// --- Regression tests for the 2026-06-24 bug-hunt fixes -----------------
+
+describe('facet.html — bug-hunt regression', () => {
+  it('puzdra_and_monst_appear_in_2010s_REW_iOS_filter', async () => {
+    // Original bug: platform='Mobile' singleton excluded these from
+    // iOS/Android facets. Fixed by normalizing to ['iOS','Android'].
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      filterRow(win, 'decade', '2010s').querySelector('input').click();
+      filterRow(win, 'primary', 'REW').querySelector('input').click();
+      filterRow(win, 'platform', 'iOS').querySelector('input').click();
+      await tick(win, 20);
+      const titles = Array.from(cards(win)).map((c) => c.textContent);
+      assert.ok(
+        titles.some((t) => t.includes('パズル') && t.includes('ドラゴンズ')),
+        'パズル&ドラゴンズ should appear in 2010s×REW×iOS',
+      );
+      assert.ok(
+        titles.some((t) => t.includes('モンスターストライク')),
+        'モンスターストライク should appear in 2010s×REW×iOS',
+      );
+    } finally {
+      dom.window.close();
+    }
+  });
+
+  it('xbox_series_xs_facet_includes_all_normalized_entries', async () => {
+    // Originally split across Xbox Series / Xbox Series X/S / Xbox Series X|S / XSX.
+    const index = await readIndex();
+    const expected = index.games.filter((g) =>
+      (g.platform || []).includes('Xbox Series X/S'),
+    ).length;
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      const row = filterRow(win, 'platform', 'Xbox Series X/S');
+      assert.ok(row, 'Xbox Series X/S facet row should render');
+      row.querySelector('input').click();
+      await tick(win, 20);
+      assert.equal(cards(win).length, expected);
+      assert.ok(expected >= 150,
+        `expected ~190 Xbox Series X/S titles after normalization, got ${expected}`);
+    } finally {
+      dom.window.close();
+    }
+  });
+
+  it('mac_facet_unified_no_macos_chip', async () => {
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      assert.ok(filterRow(win, 'platform', 'Mac'),
+        "'Mac' facet row should exist");
+      assert.equal(filterRow(win, 'platform', 'macOS'), null,
+        "'macOS' chip should be gone after normalization");
+    } finally {
+      dom.window.close();
+    }
+  });
+
+  it('storefront_steam_chip_not_shown', async () => {
+    // 'Steam'/'GOG'/'Epic Games Store' etc collapsed into PC.
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      for (const v of ['Steam', 'GOG', 'Epic Games Store', 'itch.io']) {
+        assert.equal(filterRow(win, 'platform', v), null,
+          `'${v}' should not appear as its own platform chip`);
+      }
+    } finally {
+      dom.window.close();
+    }
+  });
+
+  it('search_matches_publisher', async () => {
+    // Originally only [title_jp, title_en, genre] was searched; '任天堂' or
+    // 'Square Enix' as publisher names returned ~0 results.
+    const index = await readIndex();
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      const s = win.document.getElementById('search');
+      s.value = '任天堂';
+      s.dispatchEvent(new win.Event('input', { bubbles: true }));
+      await tick(win, 20);
+      // Expect many hits (Nintendo publisher games); upper bound is loose.
+      assert.ok(cards(win).length >= 10,
+        `'任天堂' search should hit publisher field; got ${cards(win).length}`);
+    } finally {
+      dom.window.close();
+    }
+  });
+
+  it('search_matches_developer', async () => {
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      const s = win.document.getElementById('search');
+      s.value = 'FromSoftware';
+      s.dispatchEvent(new win.Event('input', { bubbles: true }));
+      await tick(win, 20);
+      assert.ok(cards(win).length >= 3,
+        `'FromSoftware' should hit developer; got ${cards(win).length}`);
+    } finally {
+      dom.window.close();
+    }
+  });
+
+  it('axis_filter_ignores_non_EXP_games', async () => {
+    // Per CLAUDE.md social_axis is meaningful only for EXP. The fix gates
+    // axis filtering on primary==='EXP' so that selecting 'ソロ' doesn't
+    // erase NAR/REW games that simply lack a social_axis.
+    const index = await readIndex();
+    const expectedSolo = index.games.filter(
+      (g) => g.primary === 'EXP' && g.social_axis === 'ソロ',
+    ).length;
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      filterRow(win, 'axis', 'ソロ').querySelector('input').click();
+      await tick(win, 20);
+      assert.equal(cards(win).length, expectedSolo,
+        `axis='ソロ' alone should yield EXP-only solo titles (${expectedSolo})`);
+      // Confirm: no REW/NAR cards in result.
+      for (const c of cards(win)) {
+        const badge = c.querySelector('.badge');
+        assert.ok(badge && /体験型/.test(badge.textContent),
+          'axis filter must not surface non-EXP cards');
+      }
     } finally {
       dom.window.close();
     }

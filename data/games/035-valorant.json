@@ -7,10 +7,12 @@
   "year": 2020,
   "platform": [
     "PC",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "タクティカルFPS",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "valorant",
   "file": "data/games/035-valorant.json",

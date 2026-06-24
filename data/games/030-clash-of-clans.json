@@ -6,7 +6,8 @@
   "publisher": "Supercell",
   "year": 2012,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "SLG",
   "primary": "REW",

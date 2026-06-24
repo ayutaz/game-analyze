@@ -6,7 +6,8 @@
   "publisher": "First Fun",
   "year": 2023,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "SLG+カジュアル",
   "sales_jp": "2025年国内モバイル年間1位 (vs MS 1.3倍)",

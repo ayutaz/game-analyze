@@ -6,10 +6,12 @@
   "publisher": "Century Games",
   "year": 2023,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "SLG",
   "primary": "REW",
+  "secondary": [],
   "slug": "whiteout-survival",
   "file": "data/games/029-whiteout-survival.json",
   "concept": "氷河期世界で都市を運営、同盟で領土を奪い合う4Xストラテジー。広告とゲームメカニクスのギャップで話題化した収益モデル。",

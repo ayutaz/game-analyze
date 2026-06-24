@@ -6,10 +6,11 @@
   "publisher": "SEGA",
   "year": 2015,
   "platform": [
-    "AC"
+    "Arcade"
   ],
   "genre": "音ゲー",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "chunithm",
   "file": "data/games/055-chunithm.json",

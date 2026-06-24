@@ -11,6 +11,7 @@
   "genre": "サンドボックス",
   "sales_world": "3億+",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "協力",
   "slug": "minecraft",
   "file": "data/games/048-minecraft.json",

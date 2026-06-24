@@ -9,10 +9,11 @@
     "PC",
     "PS5",
     "PS4",
-    "Xbox Series",
+    "Xbox Series X/S",
     "Xbox One",
     "Switch",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "Demolition derby racing",
   "sales_jp": "",

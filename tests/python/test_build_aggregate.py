@@ -166,15 +166,24 @@ class BuildAggregateRealDataTests(unittest.TestCase):
         )
 
     def test_index_row_keys_minimum(self) -> None:
+        # Extended on 2026-06-25 to expose searchable fields (developer,
+        # publisher, genre, popularity, concept, target) so the facet
+        # search box can match on them.
         expected_keys = {
             "id",
             "title_jp",
             "title_en",
+            "developer",
+            "publisher",
             "year",
+            "genre",
             "primary",
             "secondary",
             "social_axis",
             "platform",
+            "popularity",
+            "concept",
+            "target",
             "file",
         }
         for row in self.index["games"]:

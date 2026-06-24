@@ -6,7 +6,8 @@
   "publisher": "ポケモン",
   "year": 2024,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "デジタルTCG/収集",
   "sales_jp": "¥65.0B (2025年・国内3位)",

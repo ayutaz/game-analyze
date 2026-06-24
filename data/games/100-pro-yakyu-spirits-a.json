@@ -6,7 +6,8 @@
   "publisher": "KONAMI",
   "year": 2015,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "野球SLG/ガチャ",
   "primary": "REW",

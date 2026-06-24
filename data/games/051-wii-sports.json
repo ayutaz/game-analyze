@@ -11,6 +11,7 @@
   "genre": "スポーツ",
   "sales_world": "8200万+",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "wii-sports",
   "file": "data/games/051-wii-sports.json",

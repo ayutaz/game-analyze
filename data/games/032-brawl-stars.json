@@ -6,7 +6,8 @@
   "publisher": "Supercell",
   "year": 2018,
   "platform": [
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "MOBA/シューター",
   "primary": "EXP",

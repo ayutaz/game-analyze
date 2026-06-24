@@ -8,7 +8,8 @@
   "platform": [
     "PC",
     "consoles",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "ARPG / roguelike-lite",
   "sales_jp": "",

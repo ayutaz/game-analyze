@@ -7,8 +7,10 @@
   "year": 2014,
   "platform": [
     "PC",
-    "PS3/4",
-    "Xbox 360/One",
+    "PS3",
+    "PS4",
+    "Xbox 360",
+    "Xbox One",
     "iOS"
   ],
   "genre": "Episodic noir adventure",

@@ -8,7 +8,8 @@
   "platform": [
     "PC",
     "Switch",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "CRPG / Star Wars",
   "sales_jp": "",

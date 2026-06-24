@@ -66,11 +66,17 @@ def main(repo_root: Optional[Union[str, Path]] = None) -> None:
             "id": g["id"],
             "title_jp": g["title_jp"],
             "title_en": g.get("title_en"),
+            "developer": g.get("developer"),
+            "publisher": g.get("publisher"),
             "year": g.get("year"),
+            "genre": g.get("genre"),
             "primary": g["primary"],
             "secondary": g.get("secondary", []),
             "social_axis": g.get("social_axis"),
             "platform": g.get("platform", []),
+            "popularity": g.get("popularity"),
+            "concept": g.get("concept"),
+            "target": g.get("target"),
             "file": g.get("file") or f"data/games/{path.name}",
         }
         for path, g in games

@@ -11,6 +11,7 @@
   "genre": "非対称サバイバル",
   "sales_world": "6000万+",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "非対称",
   "slug": "dead-by-daylight",
   "file": "data/games/047-dead-by-daylight.json",

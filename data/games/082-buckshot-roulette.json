@@ -10,6 +10,7 @@
   ],
   "genre": "ホラーパーティ",
   "primary": "EXP",
+  "secondary": [],
   "social_axis": "対戦",
   "slug": "buckshot-roulette",
   "file": "data/games/082-buckshot-roulette.json",

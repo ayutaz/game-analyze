@@ -8,7 +8,8 @@
   "platform": [
     "PC",
     "PS5",
-    "Mobile"
+    "iOS",
+    "Android"
   ],
   "genre": "Magicpunk action MMO (F2P)",
   "sales_jp": "",

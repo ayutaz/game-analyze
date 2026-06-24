@@ -1,0 +1,31 @@
+{
+  "id": 936,
+  "title_jp": "妖怪ウォッチ ぷにぷに",
+  "title_en": "Yo-kai Watch: Puni Puni",
+  "developer": "NHN PlayArt",
+  "publisher": "レベルファイブ",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "パズルRPG",
+  "sales_jp": "2023年通年売上 58.67億円 (2022年比115%)",
+  "sales_world": "世界累計収益 6億ドル超 (2023年7月時点)、累計2,900万DL (2023年9月時点)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "妖怪ウォッチIPの長寿モバイル代表作で10年以上運営継続。2023年の10周年記念施策では前年同期比で収益3倍・DL8倍を記録し、コラボイベントを軸にセルラン上位を維持している。",
+  "slug": "yo-kai-watch-puni-puni",
+  "file": "data/games/936-yo-kai-watch-puni-puni.json",
+  "concept": "妖怪ウォッチのキャラクターを「ぷに」化したスワイプ型マッチ3パズルRPG。盤面をなぞって同色ぷにを繋げて消すアクションで妖怪を召喚・育成し、イベントや限定ガチャで新妖怪を収集していく。",
+  "target": "妖怪ウォッチを通ってきた小学生〜30代のIPファン層と、スワイプ操作で気軽に遊べるコラボ重視のカジュアルパズル課金層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81_%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+    "https://app.famitsu.com/20230810_2116576/",
+    "https://presswalker.jp/press/18243",
+    "https://app.w3g.jp/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81-%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB"
+  ]
+}

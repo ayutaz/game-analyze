@@ -1,0 +1,32 @@
+{
+  "id": 1000,
+  "title_jp": "エイジ・オブ・エンパイア・モバイル",
+  "title_en": "Age of Empires Mobile",
+  "developer": "TiMi Studio Group (Tencent) / World's Edge",
+  "publisher": "Level Infinite (Tencent)",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "4X SLG / RTS Hybrid",
+  "sales_jp": null,
+  "sales_world": "初週 70+ヶ国でストラテジーTop10入り、launch11日で累計DL 400万、2024年10月単月でDL 380万 / IAP $10.7M、2ヶ月でiOS累計収益 $10M到達 (Sensor Tower 2024-2025)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2024年10月17日のグローバル配信初週に70カ国超でストラテジー無料Top10入りし、わずか11日で累計400万DLを突破。TencentがMS World's Edgeと組んだ欧米SLG市場攻略の主力タイトルとして、日本・台湾・韓国を主要収益源にコンスタントなIAP売上を維持している。",
+  "slug": "age-of-empires-mobile",
+  "file": "data/games/1000-age-of-empires-mobile.json",
+  "concept": "不朽のRTS『Age of Empires』IPを、Lords MobileやRise of Kingdoms型の都市建設＋同盟戦争（4X SLG）フォーマットへ大胆に再構築したモバイル戦略ゲーム。プレイヤーは指導者を選び都市を発展させ、文明アップグレード、英雄ガチャ、同盟ベースの大規模PvPを楽しむ。",
+  "target": "Rise of Kingdoms / Lords Mobile / Evony 等の同盟型SLGプレイヤー層と、AoE IPに郷愁を持つ30-40代のRTSファンを横断的に取り込む狙い。長時間運用＋課金成長を許容する欧米・東アジアのコアSLG層が中心。",
+  "_source_urls": [
+    "https://sensortower.com/blog/top-worldwide-mobile-games-by-revenue-and-downloads-october-2024",
+    "https://app.sensortower.com/news-feed/age-of-empires-mobile-hits-10m-all-time-ios-revenue-in-two-months/674d012918c2ed6163740b9c",
+    "https://ageofempires.fandom.com/wiki/Age_of_Empires_Mobile",
+    "https://www.pocketgamer.biz/how-timi-studio-and-worlds-edge-are-adapting-age-of-empires-for-mobile/",
+    "https://www.oreateai.com/blog/age-of-empires-mobile-launches-globally-can-tencent-leverage-classic-ip-to-tap-into-the-overseas-slg-market/43cb6a02cac605c38abe5b2f51218d40"
+  ]
+}

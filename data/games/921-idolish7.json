@@ -1,0 +1,32 @@
+{
+  "id": 921,
+  "title_jp": "アイドリッシュセブン",
+  "title_en": "IDOLiSH7",
+  "developer": "G2 Studios",
+  "publisher": "バンダイナムコオンライン",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズム/育成",
+  "sales_jp": "国内累計600万DL突破（2023年4月時点）、2023年年間売上 約28.88億円（game-i推計）",
+  "sales_world": "グローバル含め累計700万DL超（2024年時点、uptodown他集計）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "女性向けアイドル育成リズムゲームの代表格。長期運営でアニメ3期・舞台・ライブを擁する大型メディアミックスIPに成長し、新衣装ガチャ実装時にApp Storeセールス15位まで急上昇する根強いファンダムを維持。",
+  "slug": "idolish7",
+  "file": "data/games/921-idolish7.json",
+  "concept": "男性アイドル7人（後にTRIGGER／Re:vale／ZOOL等を追加）をマネージャー目線で育成する女性向けリズムゲーム。豪華シナリオと楽曲・限定衣装ガチャを軸に、ライブ・イベント周回でカードを強化・収集する長期運営型リズムRPG。",
+  "target": "2.5次元・男性アイドルコンテンツを好む女性ユーザー、シナリオ重視のソシャゲ層、ライブ／声優イベントまで楽しむアイナナファンダム。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%96%E3%83%B3",
+    "https://app.w3g.jp/%E3%82%A2%E3%82%A4%E3%83%8A%E3%83%8A",
+    "https://gamebiz.jp/news/207199",
+    "https://idolish7.com/",
+    "https://idolish7.miraheze.org/wiki/IDOLiSH7_(Game)"
+  ]
+}

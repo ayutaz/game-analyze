@@ -1,0 +1,32 @@
+{
+  "id": 949,
+  "title_jp": "アイドルマスター SideM GROWING STARS",
+  "title_en": "The Idolmaster SideM Growing Stars",
+  "developer": "バンダイナムコオンライン",
+  "publisher": "バンダイナムコエンターテインメント",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "男性アイドル育成リズム/カードゲーム",
+  "sales_jp": "非公開（具体的なDL数・売上は公表されていない）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "『LIVE ON ST@GE!』からアイドル46名を継承して2021年10月にリリースされた『アイドルマスター SideM』第2世代モバイル。コア層からの熱量は高かったものの2023年4月に運営縮小・同年7月31日にサービス終了が告知され、ライブ機能の不足やイベント設計をめぐり炎上を伴って約1年9か月で幕を閉じた短命タイトル。",
+  "slug": "the-idolmaster-sidem-growing-stars",
+  "file": "data/games/949-the-idolmaster-sidem-growing-stars.json",
+  "concept": "男性声優アイドルユニット『SideM』の46名を擁するブランド継承型モバイル。プロデューサーとなりガチャでカードを集めユニット編成・育成・楽曲リズムを通じて担当アイドルをスター化していくREW型運営アプリ。",
+  "target": "『アイドルマスター SideM』IPの既存P（プロデューサー）層、特に『LIVE ON ST@GE!』からの継続ファンや男性声優アイドルコンテンツに親和性のある女性ファン中心。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BC_SideM_GROWING_STARS",
+    "https://www.famitsu.com/news/202304/04298545.html",
+    "https://www.4gamer.net/games/558/G055849/20230404034/",
+    "https://game.watch.impress.co.jp/docs/news/1491156.html",
+    "https://gamebiz.jp/news/366843"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 980,
+  "title_jp": "王者栄耀（国際版：Honor of Kings）",
+  "title_en": "Honor of Kings (Global)",
+  "developer": "TiMi Studio Group",
+  "publisher": "Tencent / Level Infinite",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "5v5 モバイルMOBA",
+  "sales_jp": null,
+  "sales_world": "全世界DL 5,000万+ (国際版初月, 2024)、生涯累計収益 $13B 超 / 2024年単年 $2.6B (年間世界1位)、2025年H1 $895M (Sensor Tower / Statista)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2024年6月22日に中国版『王者栄耀』を国際展開し、初月で5,000万DLを獲得。2024年に26億ドルを稼ぎ年間世界1位、累計収益は45億ドル超でモバイル史上最高売上MOBAとなった。2025年もH1で8.95億ドル、6月単月で1.43億ドルを記録しSEA中心に日次2.6億MAUに到達 (Sensor Tower, buffget, Statista)。",
+  "slug": "honor-of-kings",
+  "file": "data/games/980-honor-of-kings.json",
+  "concept": "5v5 即時対戦のモバイルMOBA。1試合10〜15分のセッション体験を軸に、英雄(キャラ)解放・スキン課金・ランクマッチ・プロリーグ観戦まで包括し、東南アジア／中華圏で「スマホで完結する正統派MOBA」のスタンダードを築いた。",
+  "target": "スマホでLoL／DotA系の競技MOBAを短時間で楽しみたい東南アジア・中華圏・MENA・南米のプレイヤー、e-sports視聴層、スキン収集を兼ねるカジュアル〜ミドルコア層。",
+  "_source_urls": [
+    "https://sensortower.com/blog/honor-of-kings-expands-globally-with-strong-launch",
+    "https://sensortower.com/blog/honor-of-kings-revenue-4-billion",
+    "https://buffget.com/news/honor-of-kings-revenue-trends-2025-dollar200m-monthly-breakdown-and-global-growth-forecast-1psxuyi",
+    "https://www.statista.com/statistics/1231125/tencent-global-mobile-game-revenue-of-honor-of-kings/",
+    "https://mobilegamer.biz/data-digest-honor-of-kings-western-launch-peak-hits-5bn-monopoly-gos-lucrative-live-op-japan-market-stats-and-more/"
+  ]
+}

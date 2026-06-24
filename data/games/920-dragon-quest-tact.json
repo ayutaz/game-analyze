@@ -1,0 +1,31 @@
+{
+  "id": 920,
+  "title_jp": "ドラゴンクエストタクト",
+  "title_en": "Dragon Quest Tact",
+  "developer": "Aiming",
+  "publisher": "スクウェア・エニックス",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "タクティカルRPG",
+  "sales_jp": "国内累計1,400万DL超 (2021年4月時点)、Sensor Tower調査でスクエニ国内モバイル収益2位 (2021-2023)",
+  "sales_world": "グローバル版は2021年1月配信開始、低収益のため2024年2月29日サービス終了。日本版は継続",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年7月配信開始から初日100万DL、その後500万DLを記録し、2021年4月には国内累計1,400万DLを突破したドラクエ初のシミュレーションRPG。Sensor Towerのデータでは『ドラクエウォーク』に次ぐスクエニ国内モバイルの主力タイトル。",
+  "slug": "dragon-quest-tact",
+  "file": "data/games/920-dragon-quest-tact.json",
+  "concept": "ドラクエシリーズのモンスターをガチャで仲間にしてヘックス戦術バトルで戦わせる、堀井雄二監修の戦略SRPG。スカウト・育成・転生・装備合成のループが軸で、限定モンスター実装イベントが運営の柱。",
+  "target": "歴代ドラクエファンとモバイルガチャ＋戦術SRPGの両方を好む層。シリーズの懐かしいモンスターをコレクションし、毎月のイベントを周回したいライト〜ミドル課金プレイヤー向け。",
+  "_source_urls": [
+    "https://www.famitsu.com/news/202306/30308067.html",
+    "https://sensortower.com/ja/blog/dqchampions-over-10m-dollars-revenue-in-2w-release",
+    "https://dragonquest.fandom.com/wiki/Dragon_Quest_Tact",
+    "https://app.w3g.jp/dragonquest-tact"
+  ]
+}

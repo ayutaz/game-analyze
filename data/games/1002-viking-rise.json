@@ -1,0 +1,33 @@
+{
+  "id": 1002,
+  "title_jp": "ヴァイキング・ライズ",
+  "title_en": "Viking Rise",
+  "developer": "IGG",
+  "publisher": "IGG",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMO SLG / 4X Strategy",
+  "sales_jp": null,
+  "sales_world": "2024年単年でIGGに約HK$700M寄与、月間収益$900K前後 / 月間DL約10万件 (Sensor Tower 2024-2025)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2023年4月15日グローバル配信のIGG新作主力。同社『Lords Mobile』『Doomsday: Last Survivors』と並ぶ三大ストラテジー作品の一つで、2023年は2新作とAPP事業がIGG総売上の40%超を占めるまで成長、2024年はHK$700M規模に拡大した。",
+  "slug": "viking-rise",
+  "file": "data/games/1002-viking-rise.json",
+  "concept": "プレイヤーがヴァイキングの族長となり、ミッドガルドの地で部族を率いて領地建設・英雄育成・同盟戦争を行うリアルタイムMMOストラテジー。北欧神話モチーフのキャラクター・地形3Dレンダリングと「Lords Mobile」譲りの同盟SvS（Server vs Server）戦闘ループが特徴。",
+  "target": "『Lords Mobile』『Rise of Kingdoms』『State of Survival』等の長期型MMOストラテジーを好む欧米中東の中重課金プレイヤー層。北欧神話世界観に惹かれる30-50代男性が主体。",
+  "_source_urls": [
+    "https://vikingrise.igg.com/",
+    "https://www.acnnewswire.com/press-release/english/92495/igg-inc:-viking-rise-and-app-business-achieve-new-highs-in-quarterly-gross-billing",
+    "https://sensortower.com/blog/2024-q1-unified-top-5-vikings%20games-revenue-us-60326f7c241bc16eb88205a5",
+    "https://www.nasdaq.com/press-release/igg-inc-annual-profit-soars-697-hk-580-million-2025-03-27",
+    "https://www.mobygames.com/game/203058/viking-rise/"
+  ]
+}

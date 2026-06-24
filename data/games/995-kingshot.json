@@ -1,0 +1,34 @@
+{
+  "id": 995,
+  "title_jp": "キングショット",
+  "title_en": "Kingshot",
+  "developer": "Century Games Pte. Ltd.",
+  "publisher": "Century Games",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "4X SLG / Idle Survival Strategy",
+  "sales_jp": "2025年5月以降、日本DL数・収益ともに前月比10倍超に急伸（Sensor Tower 2025）",
+  "sales_world": "全世界DL 6,000万超、初年度（2025/2-2026/2）累計収益 $811M、最高月商 $102.2M（2026年1月）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2025年2月のグローバル配信から9ヶ月未満で累計プレイヤー支出$500M超、初年度には$811Mを突破。米国売上Top10、33市場でTop100入りし、Century Gamesを2025年の世界モバイル開発者ランキング首位に押し上げた看板タイトル。",
+  "slug": "kingshot",
+  "file": "data/games/995-kingshot.json",
+  "concept": "中世ファンタジー世界で領主となり、放置で育つ村の再建・タワーディフェンス・同盟戦争・世界マップ征服を融合した4X×アイドルサバイバルSLG。『Whiteout Survival』のフォーマットを中世IPに移植したCentury Gamesの4Xポートフォリオ第二弾。",
+  "target": "『ライズ・オブ・キングダム』『Whiteout Survival』『ステート・オブ・サバイバル』のような長期運営型4X SLGで、放置編成・建設・同盟戦・課金VIPを楽しむ30-50代の戦略系モバイルゲーマー。",
+  "_source_urls": [
+    "https://appfigures.com/resources/insights/kingshot-500m-revenue-century-games",
+    "https://games.gg/news/kingshot-first-year-revenue-tops-811m-amid-player-backlash/",
+    "https://www.pocketgamer.biz/kingshots-first-year-800m-11-months-of-growth-but-backlash-from-whales/",
+    "https://sensortower.com/ja/blog/kingshot-and-whiteout-survival-JP",
+    "https://apps.apple.com/jp/app/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/id6739554056",
+    "https://naavik.co/digest/century-games-4x-portfolio-strategy/"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 931,
+  "title_jp": "アズールレーン",
+  "title_en": "Azur Lane",
+  "developer": "Manjuu / Yongshi",
+  "publisher": "Yostar",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "2D横スクロールシューティング/艦船擬人化育成RPG",
+  "sales_jp": "日本累計DL 1,000万突破（2024年2月、公式告知）",
+  "sales_world": "全世界累計収益 $170M超（Sensor Tower 2018時点、以降アップデートなし）／中国本土累計登録1,000万人超（2020年）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年9月の日本配信直後にDAUランキング国内3位を獲得し、Yostarの日本進出第一弾として艦これ後継の艦船擬人化ジャンルを牽引、2024年に日本累計1,000万DLを突破した長寿運営タイトル。",
+  "slug": "azur-lane",
+  "file": "data/games/931-azur-lane.json",
+  "concept": "第二次大戦の艦艇を美少女キャラ「KAN-SEN」として擬人化し、2D横スクロールSTGの自動戦闘と建造ガチャ・改造・寮舎育成を組み合わせた艦船収集型RPG。低スタミナ消費とオート編成で長期運営にも適した育成サイクルを提供する。",
+  "target": "艦これ系の艦船擬人化や軍艦史に親しむユーザー、美少女キャラ収集と低負荷で長期に遊べるガチャ運営型RPGを好む層、コラボイベント（劇場版コラボ等）目当ての二次元IPファン。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%BC%E3%83%B3",
+    "https://en.wikipedia.org/wiki/Azur_Lane",
+    "https://sensortower.com/blog/azur-lane-revenue",
+    "https://www.pocketgamer.biz/asia-fanfare-helps-yostars-azur-lane-sink-over-170m-in-revenue/",
+    "https://x.com/royaloji/status/1761013658430398638",
+    "https://www.azurlane.jp/news/647"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 966,
+  "title_jp": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+  "title_en": "Love Live! School Idol Festival 2 MIRACLE LIVE!",
+  "developer": "ブシロード",
+  "publisher": "ブシロード",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドルリズムゲーム",
+  "sales_jp": "月商約1億円規模 (2024年1月、サ終決定時点)",
+  "sales_world": "非公開 (2023年4月リリース、2024年3月31日サ終、約1年運営)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "スクフェスシリーズ10周年記念日にリリースされ事前登録50万人を達成、500曲以上の収録を売りにしたが、初期サーバー不安定やUI/譜面の不評、ガチャ排出への不満が重なり収益が伸びず、わずか約1年でサ終。10年続いた『スクフェス』本流ブランドの終焉点となった。",
+  "slug": "love-live-school-idol-festival-2-miracle-live",
+  "file": "data/games/966-love-live-school-idol-festival-2-miracle-live.json",
+  "concept": "μ's・Aqours・虹ヶ咲・Liella! 全楽曲500曲超を1本に集約した「ラブライブ！リズムゲーム完全版」として企画されたガチャ運営型音ゲー。部員（カード）をガチャで集めて編成しライブで高スコアを狙う、シリーズ伝統のフォーマットを継承した。",
+  "target": "スクフェス1から続くラブライブ！シリーズの古参ファンと、μ's〜Liella! までの全グループ横断で推し活したい音ゲー層。リズムゲーム＋カード収集＋イベントランキングを楽しむモバイルガチャゲーマー。",
+  "_source_urls": [
+    "https://www.4gamer.net/games/660/G066056/20240125038/",
+    "https://www.famitsu.com/news/202401/25332331.html",
+    "https://gamebiz.jp/news/367386",
+    "https://gamebiz.jp/news/380837",
+    "https://www.famitsu.com/news/202304/15299704.html",
+    "https://lovelive-sif2.bushimo.jp/news/post-aoio/"
+  ]
+}

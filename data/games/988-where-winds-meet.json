@@ -1,0 +1,33 @@
+{
+  "id": 988,
+  "title_jp": "燕雲十六声",
+  "title_en": "Where Winds Meet",
+  "developer": "Everstone Studio (NetEase)",
+  "publisher": "NetEase Games",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "オープンワールド武侠アクションRPG",
+  "sales_jp": null,
+  "sales_world": "累計モバイル収益 $223.7M（中国 $187M / 海外 $22.1M含む, Sensor Tower 2026/2）、累計プレイヤー8,000万人（2026/2）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "中国モバイル版2025年1月9日、グローバルモバイル版2025年12月12日にローンチ。2026年2月時点で累計プレイヤー8,000万人、モバイル累計収益2.237億ドル（うち中国77%）を達成し、Genshin型武侠オープンワールドとして中国新作モバイル収益首位級に躍り出た。",
+  "slug": "where-winds-meet",
+  "file": "data/games/988-where-winds-meet.json",
+  "concept": "五代十国を舞台に剣戟・軽功・釣り・料理など多彩な江湖体験を提供する基本無料オープンワールド武侠ARPG。ガチャによる武芸書（流派）と装備の収集・育成、シーズン更新と門派加入を主軸に、PCと完全クロスプレイ・クロスプログレッションで遊べる。",
+  "target": "原神／鳴潮型のグローバル基本無料オープンワールドに親しみ、かつ武侠・中華ファンタジー世界観や江湖ロールプレイ（仙人・侠客・職人）に魅力を感じる中華圏中心の20–30代モバイル＋PCプレイヤー。",
+  "_source_urls": [
+    "https://respawn.outlookindia.com/gaming/gaming-news/where-winds-meet-hits-2237m-in-global-mobile-revenue-for-netease",
+    "https://technode.com/2025/12/16/neteases-where-winds-meet-reaches-15-million-global-players-within-first-month/",
+    "https://www.neteasegames.com/news/20251212/37000_1276266.html",
+    "https://en.wikipedia.org/wiki/Where_Winds_Meet"
+  ]
+}

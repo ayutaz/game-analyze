@@ -1,0 +1,33 @@
+{
+  "id": 965,
+  "title_jp": "マギアレコード 魔法少女まどか☆マギカ外伝",
+  "title_en": "Magia Record: Puella Magi Madoka Magica Side Story",
+  "developer": "f4samurai",
+  "publisher": "アニプレックス",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "美少女コマンドRPG（魔法少女スピンオフ）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年8月配信開始時点でApp Store売上ランキング3位を獲得し、当時のFGOを上回る上昇速度で話題に。後にトップセールス1位も記録。約6年9ヶ月運営し2024年7月31日サ終、後継『Magia Exedra（まどドラ）』へ世界観を継承した。",
+  "slug": "magia-record-puella-magi-madoka-magica-side-story",
+  "file": "data/games/965-magia-record-puella-magi-madoka-magica-side-story.json",
+  "concept": "『魔法少女まどか☆マギカ』の世界観を引き継ぎ神浜市を舞台にしたコマンドバトル型ガチャRPG。シリーズ屈指の重厚なメインストーリーと、魔法少女キャラの収集・育成・コネクト連携バトルを軸とする長期運営型ソーシャルRPG。",
+  "target": "『まどか☆マギカ』ファン、美少女キャラの収集・育成を楽しみたいモバイルガチャRPG層、ダークファンタジー寄りの物語を求める層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Magia_Record",
+    "https://www.4gamer.net/games/358/G035840/20240531071/",
+    "https://www.famitsu.com/article/202405/6759",
+    "https://www.oricon.co.jp/news/2329654/full/",
+    "https://www.itmedia.co.jp/news/articles/2405/31/news182.html"
+  ]
+}

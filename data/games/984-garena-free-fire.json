@@ -1,0 +1,31 @@
+{
+  "id": 984,
+  "title_jp": "Garena フリーファイア",
+  "title_en": "Garena Free Fire",
+  "developer": "111dots Studio / Garena",
+  "publisher": "Garena (Sea Group)",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル特化バトルロイヤル",
+  "sales_jp": null,
+  "sales_world": "2024年DL 2.84億・年間収益 $408M、累計収益 $4B超、MAU 100M (2024 Feb)→130M (2025初)、DAU 約33M (Sensor Tower / Business of Apps 2024-2025)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ローエンド Android 端末でも快適に動く軽量設計を武器に、LATAM・東南アジア・インド（BGMI 規制後）で支配的な MAU 1億超のメガヒット級バトロワ。Sensor Tower 集計では 2024 年単年で 2.84 億 DL・$408M の収益を叩き出し、累計収益は 40 億ドルを突破した。",
+  "slug": "garena-free-fire",
+  "file": "data/games/984-garena-free-fire.json",
+  "concept": "10 分以内・50 人マッチに圧縮した軽量モバイル特化バトロワ。キャラ固有スキル＋スキン課金で PUBG・Fortnite が届かない低スペック端末層を最大化し、ガチャ的スキン経済で長期運営。",
+  "target": "ハイエンド端末を持たない新興国（ブラジル・インド・東南アジア）の 10–20 代モバイル FPS 層。短いセッションで友人とボイチャ対戦したいカジュアル競技層。",
+  "_source_urls": [
+    "https://www.businessofapps.com/data/free-fire-statistics/",
+    "https://mobilemarketingreads.com/garena-free-fire-revenue-and-download-statistics/",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/free-fire-player-count",
+    "https://gamedevreports.substack.com/p/sensor-tower-mobile-market-in-2025"
+  ]
+}

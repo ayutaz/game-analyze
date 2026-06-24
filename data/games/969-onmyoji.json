@@ -1,0 +1,33 @@
+{
+  "id": 969,
+  "title_jp": "陰陽師本格幻想RPG",
+  "title_en": "Onmyoji",
+  "developer": "NetEase",
+  "publisher": "NetEase Games",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "和風ターンベースRPG × 式神ガチャ",
+  "sales_jp": "非公開",
+  "sales_world": "全世界DL 2億超、2021年Q1 iOS世界収益ランキング9位（前期比+32%、Sensor Tower）",
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2016年中国でメガヒット、App Store 中国 2016 ベスト10入賞・Facebook 2016 Best Mobile Games選出。全世界累計2億DL超を達成しNetEaseのグローバル代表IPに成長、2021年Q1にはiOS世界収益9位を記録した。",
+  "slug": "onmyoji",
+  "file": "data/games/969-onmyoji.json",
+  "concept": "平安京を舞台に陰陽師となり、安倍晴明らと共に妖怪「式神」を召喚・育成して戦う和風ターンベースRPG。和風アートと豪華声優陣を活かした美麗な式神ガチャと、ギルド戦・PvP・レイドを組み合わせた多層的な長期運営モバイルRPG。",
+  "target": "和風世界観と美麗イラスト・人気声優の式神コレクションを楽しみたいプレイヤー、長期にわたりキャラ育成・編成構築・ギルド活動に時間を投じられるモバイルガチャゲーマー。",
+  "_source_urls": [
+    "https://sensortower.com/android/us/netease-games/app/onmyoji/com.netease.onmyoji.gb",
+    "https://app.sensortower.com/overview/com.netease.onmyoji.gb?country=us",
+    "https://www.prnewswire.com/news-releases/netease-announces-fourth-quarter-and-fiscal-year-2024-unaudited-financial-results-302381212.html",
+    "https://apptopia.com/google-play/app/com.netease.onmyoji.gb/about"
+  ]
+}

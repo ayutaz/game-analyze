@@ -1,0 +1,33 @@
+{
+  "id": 919,
+  "title_jp": "ロマンシング サガ リ・ユニバース",
+  "title_en": "Romancing SaGa Re;univerSe",
+  "developer": "アカツキ",
+  "publisher": "スクウェア・エニックス",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG",
+  "sales_jp": "2022年売上71.3億円、2023年売上64.3億円 (game-i.daa.jp 推計)、累計3,000万DL (2023年9月、アカツキゲームス公式)",
+  "sales_world": "2019年年間収益約1億5,000万ドル (Sensor Tower 2019)、スクエニ FY2020 モバイル/ブラウザ収益約996百万ドルの主力タイトル",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2018年12月配信、1ヶ月で1,000万DL突破、2023年9月に累計3,000万DL到達。2019年は年間収益約1.5億ドルでスクエニ屈指のガチャタイトルとなり、2022年売上71.3億円、2023年も64.3億円と長期運営に成功している。",
+  "slug": "romancing-saga-re-universe",
+  "file": "data/games/919-romancing-saga-re-universe.json",
+  "concept": "『ロマンシング サ・ガ』シリーズ23年ぶりの新作として、歴代キャラクターを2D見下ろし型バトルでガチャ収集・育成する縦持ちスマホRPG。閃き・連携などサガシリーズの戦闘システムを継承しつつ、イベント周回とスタイル(キャラ)強化を主軸に据える。",
+  "target": "サガシリーズの旧作ファンや、ガチャによるキャラ収集と長期育成を楽しむモバイルRPGユーザー、片手で遊べる縦持ちRPGを好む層。",
+  "_source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000115.000097851.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_%E3%82%B5%E3%82%AC_%E3%83%AA%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9",
+    "https://www.pocketgamer.biz/asia/news/73359/square-enix-financials-q4-fy20/",
+    "https://app.sensortower.com/news-feed/square-enix-launches-romancing-saga-reuniverse-on-ios-and-google-play/5ef1efeda15cf70a504d05eb",
+    "https://game-i.daa.jp/?APP%2F1397702917=",
+    "https://www.4gamer.net/games/434/G043482/20181226108/"
+  ]
+}

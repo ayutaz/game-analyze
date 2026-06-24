@@ -1,0 +1,32 @@
+{
+  "id": 1023,
+  "title_jp": "メイプルストーリーM",
+  "title_en": "MapleStory M",
+  "developer": "Nexon",
+  "publisher": "Nexon",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "2023年売上 約8.26億円（2022年比74%、gamebiz/ネクソン決算）",
+  "sales_world": "全世界累計DL 5,000万超、ライフタイム売上 6億ドル超（中国版35日で$55M含む、Sensor Tower 2023）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2016年韓国先行配信、2018年グローバル展開のMapleStory正統モバイル版で、累計5,000万DLを突破。2023年の中国上陸で再加速し、ライフタイム売上は6億ドルを超えNexonモバイル事業の中核タイトルの一つとなった。",
+  "slug": "maplestory-m",
+  "file": "data/games/1023-maplestory-m.json",
+  "concept": "2DドットのMMORPG「メイプルストーリー」をスマホに最適化した正統移植版。横スクロールアクションの爽快感を残しつつ、装備強化・スターフォース・キャラ育成・ギルド戦・ボスレイドといった長期周回要素を中心に据えたモバイルRPG。",
+  "target": "PC版メイプルストーリー経験者のノスタルジー需要層と、スマホで本格的なMMORPG育成・装備収集を楽しみたい20〜40代のコアモバイルRPGユーザー。日本・韓国・台湾・北米・中国の広域市場をカバー。",
+  "_source_urls": [
+    "https://sensortower.com/blog/maplestory-m-revenue",
+    "https://www.pocketgamer.biz/maplestory-m-surpassed-55-million-in-its-first-35-days-on-the-chinese-market/",
+    "https://game-i.daa.jp/?APP%2F1434519042=",
+    "https://mobile.nexon.co.jp/maplestorym/",
+    "https://massivelyop.com/2024/11/13/nexon-q3-2024-dnf-mobile-and-maplestory-propel-nexon-to-record-high-revenues/"
+  ]
+}

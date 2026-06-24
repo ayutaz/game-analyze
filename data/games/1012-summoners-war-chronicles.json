@@ -1,0 +1,32 @@
+{
+  "id": 1012,
+  "title_jp": "サマナーズウォー：クロニクル",
+  "title_en": "Summoners War: Chronicles",
+  "developer": "Com2uS",
+  "publisher": "Com2uS",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": null,
+  "sales_world": "全世界事前登録200万超、グローバルローンチ初日に複数国でDL1位、初動収益10億ウォン(約100億ウォン換算/27日間)。Summoners War IP累計2億DL/$2.7B超 (MMO Culture/GamingPH 2023)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "グローバル累計2億DLを超える「Sky Arena」IPを3D MMORPG化したスピンオフで、2022年3月の韓国先行リリースで初月600万DLを記録、2023年3月にはグローバル170カ国へ展開して事前登録200万件超を集めた。",
+  "slug": "summoners-war-chronicles",
+  "file": "data/games/1012-summoners-war-chronicles.json",
+  "concept": "原作のターン制ガチャRPG「サマナーズウォー」のモンスター召喚・育成・ルーン強化システムをオープンフィールド3D MMORPGへ移植し、モバイルとPC(Steam/Google Play Games)でクロスプレイ可能にしたサ運営型タイトル。",
+  "target": "原作Sky Arenaのキャラ収集・ルーン厳選を楽しんでいた長期ユーザーと、モバイル/PC両対応の手軽なMMORPGでギルド戦・PvP・周回育成を楽しみたい韓国・東南アジア・欧米の中重課金層。",
+  "_source_urls": [
+    "https://mmoculture.com/2022/09/summoners-war-chronicles-com2us-touts-10-billion-korean-won-revenue-in-first-27-days/",
+    "https://gamingph.com/2023/08/com2us-summoners-war-surpasses-200-million-downloads-worldwide/",
+    "https://www.cosmocover.com/newsroom/com2us-confirms-the-global-release-of-mmorpg-summoners-war-chronicles-on-mar-9th/",
+    "https://store.steampowered.com/app/2167580/Summoners_War_Chronicles/"
+  ]
+}

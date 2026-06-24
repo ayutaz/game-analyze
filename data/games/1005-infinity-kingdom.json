@@ -1,0 +1,34 @@
+{
+  "id": 1005,
+  "title_jp": "インフィニティ・キングダム",
+  "title_en": "Infinity Kingdom",
+  "developer": "YOOZOO (Singapore) / GTArcade",
+  "publisher": "YOOZOO Games / GTArcade",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "4X MMO SLG / Cartoon Strategy",
+  "sales_jp": null,
+  "sales_world": "直近月次でApp Store約30k DL / $1M、Google Play約20k DL / $800k（Sensor Tower 2025-2026推定）。Steam版ユーザーレビュー1,189件・好評率53%",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "YOOZOOの海外向け主力SLGとして長期運営され、欧米ストラテジー上位常連。2021年初頭のバトルパス「Kingdom Labors」導入以降に収益が大きく伸びたが、Steam版は近年レビュー評価が低下傾向にある。",
+  "slug": "infinity-kingdom",
+  "file": "data/games/1005-infinity-kingdom.json",
+  "concept": "3D漫画調ビジュアルの4X SLGで、領主としてノーハイムを統治し、クレオパトラやマーリンら50以上の歴史・伝説「イモータル」とドラゴンを集めて他プレイヤーやノーム軍と戦う、アライアンス中心の長期運営型ストラテジー。",
+  "target": "Rise of KingdomsやLords Mobileなどモバイル4X SLGに馴染んだ欧米中心の社会人プレイヤー層。同盟戦・領土争いと、アイコニックな歴史人物キャラの収集・育成を両立したいライト〜ミドル課金層向け。",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/infinity-kingdom/id1487451427",
+    "https://sensortower.com/ios/us/yoozoo-singapore-pte-ltd/app/infinity-kingdom/1487451427",
+    "https://play.google.com/store/apps/details?id=com.gtarcade.ioe.global",
+    "https://store.steampowered.com/app/1573360/Infinity_Kingdom/",
+    "https://infinitykingdom.gtarcade.com/m/en/",
+    "https://sensortower.com/blog/top-mobile-games-by-worldwide-revenue-march-2021"
+  ]
+}

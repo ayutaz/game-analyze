@@ -1,0 +1,34 @@
+{
+  "id": 1025,
+  "title_jp": "エバーソウル",
+  "title_en": "Eversoul",
+  "developer": "Nine Ark",
+  "publisher": "Kakao Games",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "放置系美少女ガチャRPG",
+  "sales_jp": null,
+  "sales_world": "リリース1ヶ月で約$13M売上 (Sensor Tower, 2023年2月)、初週DL 100万突破",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2023年1月の韓国・台湾・グローバル同時ローンチで初週100万DLを達成し、初月売上約1,300万ドル（韓国56.8%、米国17.6%）を記録。Kakao GamesがNIKKEに続く海外向け美少女ガチャ枠として展開したが、JP版は2024年5月配信開始から約1年で2025年8月にサービス終了、グローバル版も2026年6月30日に約3年半で終了が決定している。",
+  "slug": "eversoul",
+  "file": "data/games/1025-eversoul.json",
+  "concept": "6つの陣営に分かれる美少女「ソウル」を召喚・育成し、放置による自動戦闘で資源を獲得しながら編成・PvP・物語を進める韓国産の縦持ち放置×ガチャRPG。Live2D演出と豪華スキルカットインで美少女収集体験を売りにする。",
+  "target": "NIKKEや原神系の美少女ガチャを好む日韓欧米の20-30代男性プレイヤー、放置進行と差し色程度のキャラ物語を両立したいライトミドル層。",
+  "_source_urls": [
+    "https://www.pockettactics.com/eversoul/downloads",
+    "https://pickups.jp/global/54343/",
+    "https://www.4gamer.net/games/603/G060361/20230106045/",
+    "https://gamebiz.jp/news/386814",
+    "https://www.pocketgamer.biz/kakao-games-to-shut-down-eversoul-after-three-years-of-service/",
+    "https://www.invenglobal.com/articles/21426/eversoul-to-end-service-on-june-30"
+  ]
+}

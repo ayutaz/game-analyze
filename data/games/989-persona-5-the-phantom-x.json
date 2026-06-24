@@ -1,0 +1,35 @@
+{
+  "id": 989,
+  "title_jp": "ペルソナ5: ザ・ファントムX",
+  "title_en": "Persona 5: The Phantom X",
+  "developer": "Black Wings Game Studio (Perfect World傘下)",
+  "publisher": "Perfect World (中国・韓国) / Iwplay World (台湾・東南アジア) / Sega (グローバル)",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ターンベースRPG × キャラガチャ（ソーシャルシミュレーション要素あり）",
+  "sales_jp": "不明（2025/6/26グローバル版日本配信、初日DL150万超で日本App Store無料1位）",
+  "sales_world": "グローバル版初日DL150万超、月間iOS新規DL約40万・収益約$700K（Sensor Tower 2025年7月推計）、29th DICE Awards Mobile Game of the Year受賞",
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2024年4月中国オープンβ、2025年6月26日グローバル英語版配信開始で初日DL150万超を記録し日本App Store無料1位。TGA 2025 Best Mobile Gameノミネート、29th DICE Awards Mobile Game of the Year受賞と批評的にも高評価のペルソナ初の本格モバイル展開。",
+  "slug": "persona-5-the-phantom-x",
+  "file": "data/games/989-persona-5-the-phantom-x.json",
+  "concept": "『ペルソナ5』の世界観・UI・楽曲・戦闘システム（1moreや総攻撃）をそのまま継承し、新主人公「永久」を軸に怪盗団キャラをガチャで集めながらコープ／パレス／メメントスをモバイル＆PCで遊ぶ基本無料スピンオフ。",
+  "target": "『ペルソナ5』ファンおよび高クオリティのキャラガチャRPGを求めるモバイルゲーマー。スタイリッシュなアートと長期運営型コンテンツを楽しみたい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Persona_5:_The_Phantom_X",
+    "https://personacentral.com/p5x-the-game-awards/",
+    "https://personacentral.com/persona-worldwide-sales-fy-q1-2026/",
+    "https://revenue.ennead.cc/games/phantom-x",
+    "https://appmedia.jp/app_review/79038131",
+    "https://persona5x.com/news/details/000435ploruwof.html"
+  ]
+}

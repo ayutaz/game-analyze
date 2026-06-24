@@ -1,0 +1,31 @@
+{
+  "id": 1022,
+  "title_jp": "ハンドレッドソウル",
+  "title_en": "Hundred Soul",
+  "developer": "Hound 13",
+  "publisher": "Hound 13",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": null,
+  "sales_world": "韓国先行リリースで1.6M DL超 (Unity blog 2020)、2023年に続編「Hundred Soul: The Last Savior」としてリブート展開",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "韓国Hound 13がUnityで開発したコンソール品質のアクションを謳うモバイルARPG。2018年韓国先行、2019年グローバル展開時にApple/Google両ストアのEditor's Choiceを獲得し、ハイエンドモバイルARPGの代表格として評価された。",
+  "slug": "hundred-soul",
+  "file": "data/games/1022-hundred-soul.json",
+  "concept": "100体以上の装備とFellow(仲間)を切り替えてリアルタイムにアクションする縦持ち寄りハック&スラッシュARPG。HDRレンダリングと精緻なキャラクターアニメで「コンソール級グラフィック」を打ち出し、装備掘り・ガチャ・育成ループでプレイヤーを長期につなぎ留める運営型モバイルRPG。",
+  "target": "スマホで本格アクションを求めるコア寄りのモバイルゲーマー、韓国系ハイエンドARPG(七つの大罪・HIT・Black Desert Mobile等)のファン層、装備ガチャ＋やり込み志向のプレイヤー。",
+  "_source_urls": [
+    "https://blogs.unity3d.com/2020/04/21/hundred-soul-how-hound13-created-a-stunning-mobile-arpg-with-unity/",
+    "https://en.namu.wiki/w/Hundred%20Soul",
+    "https://www.hound13.com/en/",
+    "https://news.qoo-app.com/en/post/100187/hundred-souls-japan-shut-down"
+  ]
+}

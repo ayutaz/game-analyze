@@ -1,0 +1,32 @@
+{
+  "id": 964,
+  "title_jp": "ヴァンガード ZERO",
+  "title_en": "Cardfight!! Vanguard ZERO",
+  "developer": "ブシロード",
+  "publisher": "ブシロード",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "TCG / カードバトルRPG",
+  "sales_jp": "英語版リリース初日売上1000万円突破（2020年4月9日）",
+  "sales_world": "具体的累計DL・収益は非公開",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2019年12月に日本でサービス開始、2020年4月にグローバル英語版を投入し初日1000万円を記録した原作IP『カードファイト!! ヴァンガード』公式スマホアプリ。3年2ヶ月運営の後、2023年6月30日にサービス終了した。",
+  "slug": "cardfight-vanguard-zero",
+  "file": "data/games/964-cardfight-vanguard-zero.json",
+  "concept": "TCG『ヴァンガード』のルールをスマホ向けに最適化したカードバトルRPG。原作初期シリーズの物語をストーリーモードで追体験しつつ、ガチャでカードを集めデッキを構築してオンライン対戦に挑む構成。",
+  "target": "原作アニメ・TCG『ヴァンガード』ファン、紙のカードを買い揃えるハードルなくスマホで本格TCGを遊びたい層、PvPカードゲーム愛好者。",
+  "_source_urls": [
+    "https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_ZERO",
+    "https://vgzero-en.bushiroad.com/news/notice/p853/",
+    "https://en.bushiroad.com/vanguard-zero-now-available-for-mobile/",
+    "https://www.pocketgamer.com/cardfight-vanguard-zero/shut-down/"
+  ]
+}

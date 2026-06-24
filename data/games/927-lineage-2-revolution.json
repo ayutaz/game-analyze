@@ -1,0 +1,34 @@
+{
+  "id": 927,
+  "title_jp": "リネージュ2 レボリューション",
+  "title_en": "Lineage 2: Revolution",
+  "developer": "Netmarble",
+  "publisher": "Netmarble",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "日本市場累計 約$345M（フランチャイズ全体の23%、Sensor Tower 2023）。2017年8月日本サービス開始から48時間で200万DL、事前登録100万突破。",
+  "sales_world": "全世界累計 30.5M DL / 約$1.7B（フランチャイズ売上の43%、Sensor Tower 2023）。Android $1B（61%）/ iOS $678M（39%）。",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年8月23日の日本サービス開始直後にApp Store/Google Play売上ランキング1位を獲得し、矢沢永吉起用のTVCMでも話題に。Netmarble日本売上を前年比122%増へ押し上げた看板タイトル。",
+  "slug": "lineage-2-revolution",
+  "file": "data/games/927-lineage-2-revolution.json",
+  "concept": "Unreal Engine 4で再現された広大なアデン大陸を舞台に、最大200人規模の血盟攻城戦・ワールドレイド・PvPを楽しめるフル3DモバイルMMORPG。装備強化・ガチャ・トランセンデンス成長を回し続けるサ運営型。",
+  "target": "PC版リネージュ2を遊んだ韓国系MMORPGファン、血盟（ギルド）に所属して攻城戦・GvGに長期間コミットしたいハードコア課金層、矢沢永吉CMで興味を持った30-40代の元MMO経験者。",
+  "_source_urls": [
+    "https://sensortower.com/blog/lineage-mobile-games-revenue-4-billion",
+    "https://sensortower.com/blog/lineage-2-revolution-revenue-december-2018",
+    "https://gameworldobserver.com/2023/03/07/lineage-mobile-games-revenue-7-billion",
+    "https://en.wikipedia.org/wiki/Lineage_2:_Revolution",
+    "https://gamebiz.jp/news/218930",
+    "https://app.famitsu.com/20170801_1104677/",
+    "https://lab.appa.pe/2017-10/leneage2.html"
+  ]
+}

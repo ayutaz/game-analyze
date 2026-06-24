@@ -1,0 +1,33 @@
+{
+  "id": 983,
+  "title_jp": "ディアブロ・イモータル",
+  "title_en": "Diablo Immortal",
+  "developer": "Blizzard Entertainment / NetEase",
+  "publisher": "Blizzard Entertainment (西側) / NetEase (中国)",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ハクスラ系MMOアクションRPG",
+  "sales_jp": null,
+  "sales_world": "全世界DL 約3,440万 / 累計モバイル収益 約$404M (Sensor Tower / Statista 2026)、2022年単年で$160.8M、ローンチ8週間で$100M突破、5ヶ月で$300M到達",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "協力",
+  "popularity": "2022年6月に60ヶ国同時ローンチし8週間で1億ドル、5ヶ月で3億ドル(うち中国版1.45億ドル)を売り上げた大型タイトルで、2026年現在も平均DAU 42万人超を維持する。Pay-to-Winと批判されながらモバイルアクションRPGとして異例の累計$404Mを達成した。",
+  "slug": "diablo-immortal",
+  "file": "data/games/983-diablo-immortal.json",
+  "concept": "Diablo III と IV の間を埋める正史ストーリーを舞台に、6クラスのハクスラ周回と装備のレジェンダリージェム強化を軸にしたクロスプレイ対応のフリートゥプレイMMOアクションRPG。ダンジョン・レイド・PvPを最大144人サーバーで遊ぶ。",
+  "target": "PC版Diabloシリーズの既存ファンに加え、スマホでハクスラ周回と装備強化のドーパミンループを味わいたいモバイルRPGユーザー、ギルド単位でPvE/PvPを遊びたいライト〜ミドル層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Diablo_Immortal",
+    "https://www.statista.com/statistics/1325853/diablo-immortal-player-spending-app/",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/diablo-immortal-player-count",
+    "https://sensortower.com/blog/diablo-immortal-mobile-100-million-revenue",
+    "https://activeplayer.io/diablo-immortal/"
+  ]
+}

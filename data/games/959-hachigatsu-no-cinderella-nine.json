@@ -1,0 +1,32 @@
+{
+  "id": 959,
+  "title_jp": "八月のシンデレラナイン",
+  "title_en": "Hachigatsu no Cinderella Nine",
+  "developer": "アカツキゲームス",
+  "publisher": "アカツキゲームス",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC (DMM GAMES)"
+  ],
+  "genre": "青春体験型野球ゲーム（美少女×高校野球育成シミュレーション）",
+  "sales_jp": "シリーズ累計160万DL超（2024年サービス終了時点）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年リリース後シリーズ累計160万DL超を達成し、2019年にはテレビ東京系列でTVアニメ化も実現。7年半の長期運営を経て2024年12月17日にサービス終了、その後オフライン版へ移行した『シンデレラシリーズ』の代表作。",
+  "slug": "hachigatsu-no-cinderella-nine",
+  "file": "data/games/959-hachigatsu-no-cinderella-nine.json",
+  "concept": "「青春×女子高生×高校野球」をテーマに、夢破れた少年少女が女子野球部を立ち上げ女子初の甲子園を目指す物語。プレイヤーはマネージャー兼コーチとして練習・試合・スカウト（ガチャ）で選手を育成する。",
+  "target": "美少女キャラ育成と高校野球青春ストーリーを愛好する男性プレイヤー層、特に長期運営型キャラゲー／アイドル系ソシャゲのファン層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9C%88%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%8A%E3%82%A4%E3%83%B3",
+    "https://gamebiz.jp/news/394259",
+    "https://games.aktsk.jp/news/60746/",
+    "https://www.4gamer.net/games/348/G034854/20241017047/"
+  ]
+}

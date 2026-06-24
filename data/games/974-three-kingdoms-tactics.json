@@ -1,0 +1,33 @@
+{
+  "id": 974,
+  "title_jp": "三国志・戦略版",
+  "title_en": "Three Kingdoms Tactics",
+  "developer": "Qooland (Qookka Games) / 上海簡悦 (Shanghai TCI)",
+  "publisher": "Alibaba Games (灵犀互娯) / コーエーテクモゲームス監修",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "三国志ストラテジー / 大規模同盟SLG (4X / Conquest)",
+  "sales_jp": "非公開（日本版「三國志 真戦」は2021年6月配信、コーエーテクモ監修IPゲームの中核タイトル）",
+  "sales_world": "累計収益 $1.2B超 (Sensor Tower 2022)、全世界DL 1億超。2021年App Store世界5位グロッシング、2020年5月単月収益 $91.7M。中国比率96.2%。",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2019年9月の中国本土ローンチ直後にiOSセールス2位まで上昇し、2021年にはApp Store世界5位の高収益タイトルへ。Sensor Tower集計で累計収益12億ドル超(中国比96%)、全世界DL1億超を達成し、SLGジャンルの覇権タイトルとなった。",
+  "slug": "three-kingdoms-tactics",
+  "file": "data/games/974-three-kingdoms-tactics.json",
+  "concept": "2ヶ月制のシーズン制大規模同盟SLG。最大200人の同盟で領土を切り取り、洛陽と8州の制圧を目指して数百〜数千人規模のリアルタイム攻城戦を繰り広げる。コーエーテクモ『三國志13』のIPと武将データを公式ライセンスで活用し、武将育成・編成と地政学的な同盟外交を両立させた「正統派」SLGとして中国本土のモバイルSLG市場を再定義した。",
+  "target": "三国志IP愛好家、長期運営の大規模同盟PvPに数ヶ月単位でコミットできる戦略SLGプレイヤー、Lords MobileやRise of Kingdoms等の同盟SLGからの乗り換え層、コーエー三國志シリーズの歴史ファン。",
+  "_source_urls": [
+    "https://sensortower.com/blog/three-kingdoms-tactics-revenue-1-billion",
+    "https://gamebiz.jp/?p=292558",
+    "https://gamebiz.jp/news/255286",
+    "https://sangokushi.qookkagames.jp/",
+    "https://www.famitsu.com/news/202104/21216652.html",
+    "https://three-kingdoms-tactics.fandom.com/wiki/Three_Kingdoms_Tactics_Wiki"
+  ]
+}

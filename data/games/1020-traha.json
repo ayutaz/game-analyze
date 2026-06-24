@@ -1,0 +1,33 @@
+{
+  "id": 1020,
+  "title_jp": "TRAHA（トラハ）",
+  "title_en": "TRAHA",
+  "developer": "MOAI Games",
+  "publisher": "Nexon",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイルMMORPG（オープンフィールドRvR）",
+  "sales_jp": null,
+  "sales_world": "事前登録420万人超（韓国、新規IP過去最多）、韓国App Store売上1位 / Google Play 2位獲得（2019-04）。具体的累計収益は非公開。グローバル版は2023-12-27にサービス終了",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2019年4月の韓国リリース時に事前登録420万人を集め、App Store売上1位・Google Play 2位を獲得した大型UE4モバイルMMORPG。リネージュMに匹敵する話題作として注目されたが、運営トラブルで評価が伸び悩み、グローバル版は2023年末にサービス終了、後継のTRAHA Infinityに引き継がれた。",
+  "slug": "traha",
+  "file": "data/games/1020-traha.json",
+  "concept": "UE4で構築されたメガオープンフィールドを舞台に、装備武器でクラスが切り替わる「Infinityクラス」システムと2陣営RvR、生産・採集などライフコンテンツを盛り込んだ本格派モバイルMMORPG。手動操作と大規模ギルド戦を売りにした韓国産AAAスマホMMOの代表格。",
+  "target": "黒い砂漠モバイルやリネージュM等の韓国産ハードコアモバイルMMOを好む層、ギルド戦・PvP・採集生産を長時間遊びたいヘビーゲーマー。日本向けでは本格MMO体験を求めるPC MMO経験者層を狙ったローカライズが行われた。",
+  "_source_urls": [
+    "https://mmoculture.com/2019/02/traha-nexons-ue4-mobile-mmorpg-launches-this-april-in-korea/",
+    "https://gamebiz.jp/news/236898",
+    "https://www.4gamer.net/games/441/G044115/20190216009/",
+    "https://www.famitsu.com/news/202003/26194959.html",
+    "https://gamingonphone.com/news/traha-mmorpg-announces-shut-down-after-traha-infinity-release/",
+    "https://mmoculture.com/2022/07/traha-global-korean-developer-announces-global-one-build-version-of-mobile-mmorpg/"
+  ]
+}

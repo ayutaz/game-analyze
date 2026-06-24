@@ -114,13 +114,13 @@ class BuildAggregateRealDataTests(unittest.TestCase):
         self.assertEqual(set(self.agg.keys()), {"meta", "games"})
 
     def test_aggregate_meta_has_total_titles(self) -> None:
-        self.assertEqual(self.agg["meta"]["total_titles"], 917)
+        self.assertEqual(self.agg["meta"]["total_titles"], 1025)
         self.assertEqual(self.agg["meta"]["total_titles"], len(self.agg["games"]))
 
     def test_aggregate_meta_has_primary_breakdown(self) -> None:
         self.assertEqual(
             self.agg["meta"]["primary_breakdown"],
-            {"EXP": 689, "NAR": 125, "REW": 103},
+            {"EXP": 705, "NAR": 125, "REW": 195},
         )
 
     def test_aggregate_meta_preserves_original_keys(self) -> None:
@@ -157,7 +157,7 @@ class BuildAggregateRealDataTests(unittest.TestCase):
 
     def test_index_total_matches_games_length(self) -> None:
         self.assertEqual(self.index["total"], len(self.index["games"]))
-        self.assertEqual(self.index["total"], 917)
+        self.assertEqual(self.index["total"], 1025)
 
     def test_index_primary_breakdown_matches_aggregate(self) -> None:
         self.assertEqual(

@@ -1,0 +1,32 @@
+{
+  "id": 961,
+  "title_jp": "うたの☆プリンスさまっ♪ Shining Live",
+  "title_en": "Utano Princesama Shining Live",
+  "developer": "KLab",
+  "publisher": "ブロッコリー",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズムアクション（女性向け男性アイドル）",
+  "sales_jp": "200万DL以上（公式記念セット配布時点）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年8月配信から2023年12月26日のサ終まで約6年4ヶ月運営、200万DL達成記念セットが配布されるなどブロッコリーのモバイル中核として安定稼働。サービス終了後はSwitch版『Shining Live for Nintendo Switch』への移植開発と書籍展開が発表され、IP資産としての継承が公式アナウンスされた。",
+  "slug": "utano-princesama-shining-live",
+  "file": "data/games/961-utano-princesama-shining-live.json",
+  "concept": "『うたプリ』のST☆RISH／QUARTET NIGHT／HE★VENSら男性アイドル11人をオリジナル楽曲＋カードガチャ＋衣装着せ替え＋3Dライブで楽しむリズムアクション。譜面プレイでスコアを稼ぎ、ガチャで引いたフォトを編成して限定楽曲・イベントストーリーを攻略する女性向けアイドル運営型ガチャゲー。",
+  "target": "『うたの☆プリンスさまっ♪』本編・アニメ・舞台のファン層（女性向け、20–30代中心）。推しキャラのフォトを集めながら新規書き下ろし楽曲と衣装をスマホで気軽に楽しみたいリズムゲーム＋アイドル育成志向のプレイヤー。",
+  "_source_urls": [
+    "https://www.utapri-shining-live.com/news/231026/",
+    "https://www.famitsu.com/news/202310/26321965.html",
+    "https://www.4gamer.net/games/342/G034274/20231026049/",
+    "https://gamebiz.jp/news/376483",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA"
+  ]
+}

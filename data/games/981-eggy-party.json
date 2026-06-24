@@ -1,0 +1,33 @@
+{
+  "id": 981,
+  "title_jp": "エッグィパーティー",
+  "title_en": "Eggy Party",
+  "developer": "NetEase (Hangzhou Leihuo Studio)",
+  "publisher": "NetEase Games",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "カジュアル・パーティーバトルロイヤル",
+  "sales_jp": null,
+  "sales_world": "累計プレイヤー支出 $750M超 (中国が98%、ピークの2023年は$395.7M / 2024年$183M / 2025年$158.7M、Sensor Tower)。中国MAUは2023年春に6,000万超、後に1億MAU到達(NetEase公式)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2023年春に中国MAU 6,000万超に達しNetEase最多DAUタイトルとなり、その後1億MAUを突破。2023/9にSEA、2024/2に全世界展開。累計プレイヤー支出は7億5,000万ドルを超えたが、収益の98%は中国市場依存。",
+  "slug": "eggy-party",
+  "file": "data/games/981-eggy-party.json",
+  "concept": "「Fall Guys」系のカジュアルパーティーバトロワを中国Z世代向けに最適化し、ぷにぷにのタマゴキャラ・UGCマップ作成・季節イベントを軸に軽量セッション体験を提供。ボイスチャット込みの4人パーティ＋最大32人マッチで「友達と遊ぶ場」として機能する。",
+  "target": "スマホでサクッと友人とワイワイ遊びたい中高生〜大学生、特に中国本土のZ世代女性ユーザー比率が高く、SEAではキュート系カジュアル対戦を求めるライトゲーマー層に支持。",
+  "_source_urls": [
+    "https://gam3s.gg/news/eggy-party-hits-750-million-in-mobile-spending/",
+    "https://www.pocketgamer.biz/eggy-party-cracks-750m-in-mobile-player-spending/",
+    "https://www.statista.com/statistics/1421838/eggy-party-mau-china/",
+    "https://www.neteasegames.com/news/20240227/37000_1140075.html",
+    "https://www.bluestacks.com/blog/news/eggy-party-released-in-sea-regions-en.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 992,
+  "title_jp": "ステート・オブ・サバイバル",
+  "title_en": "State of Survival",
+  "developer": "KingsGroup Holdings (FunPlus傘下、深圳/北京)",
+  "publisher": "KingsGroup (FunPlus)",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ゾンビ世界観 4X SLG",
+  "sales_jp": null,
+  "sales_world": "累計DL 1.37億、累計収益 $1.69B（2021年 $516M ピーク、2025年 $63M / Udonis・Sensor Tower集計）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "累計DL 1.37億、累計収益 16.9億ドル超（2021年ピーク年 5.16億ドル）。中国デベロッパー製モバイル4X SLGの代表格として、Whiteout Survival / Last War登場前の欧米SLG市場を切り拓いた金字塔的タイトル。",
+  "slug": "state-of-survival",
+  "file": "data/games/992-state-of-survival.json",
+  "concept": "ゾンビ・パンデミック後の世界で「セトルメント」を建設・拡張し、生存者を救出・育成しながらギルド（State）単位で他プレイヤーと領土を奪い合う、シティビルド型 4X ストラテジー。Walking Dead等のIPコラボやヒーロー収集レイヤーで欧米モバイルSLGの定型を確立した。",
+  "target": "欧米・東アジアの中重課金モバイルSLG層。基地育成や英雄収集の長期運用を楽しめる成人層を中心に、ギルド戦争（KvK / SvS）で連帯感や競争を求めるソーシャル志向プレイヤー向け。",
+  "_source_urls": [
+    "https://www.blog.udonis.co/statistics/state-of-survival",
+    "https://gameworldobserver.com/2022/09/05/state-of-survival-hits-150-million-downloads",
+    "https://funplus.com/games/state-of-survival/",
+    "https://en.wikipedia.org/wiki/FunPlus"
+  ]
+}

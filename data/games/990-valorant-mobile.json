@@ -1,0 +1,32 @@
+{
+  "id": 990,
+  "title_jp": "VALORANTモバイル(無畏契約)",
+  "title_en": "VALORANT Mobile",
+  "developer": "Riot Games / Lightspeed Studios (Tencent)",
+  "publisher": "Tencent (中国) / Riot Games",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "5v5戦術タクティカルFPS",
+  "sales_jp": null,
+  "sales_world": "中国初日 iOS DL 17万 / 課金 $1M、MAU 5,000万超 (Tencent Q3 2025決算), 事前登録 6,000万以上",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2025年8月19日に中国で正式ローンチし、事前登録6,000万件・初日17万DLと$1M課金・MAU 5,000万超を記録した中国市場2025年最大規模のモバイルローンチ。Riot/Tencentが3年で約2億ドル(15億元)をeスポーツ生態系に投資し、Show Cupや中国ナショナルサーキットを展開している。",
+  "slug": "valorant-mobile",
+  "file": "data/games/990-valorant-mobile.json",
+  "concept": "PC版VALORANTの戦術FPS体験をスマートフォン向けに最適化した5v5キャラクターベースシューター。全18エージェント・7マップ・10モードをローンチ時から開放し、PC版同等の競技性とアビリティ駆動の撃ち合いをモバイル操作で再現する。",
+  "target": "PC版VALORANT/CS系タクティカルFPSのファン、中国のモバイルeスポーツ志向プレイヤー、PUBG Mobile/Call of Duty Mobileに続く競技系FPSを求めるユーザー層。",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/valorant-mobile-is-chinas-most-successful-mobile-launch-of-2025/",
+    "https://wnhub.io/news/other/item-48602",
+    "https://substack.nikopartners.com/p/tencent-to-publish-valorant-mobile",
+    "https://esportsinsider.com/2025/04/valorant-mobile-pre-registration-is-now-open-in-china",
+    "https://valomobile.net/news/valorant-mobile-china-launch"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1017,
+  "title_jp": "二ノ国：Cross Worlds",
+  "title_en": "Ni no Kuni: Cross Worlds",
+  "developer": "Netmarble",
+  "publisher": "Netmarble",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "初月（2021年6月10日〜6月21日の11日間）日本市場で約$45.6M（Sensor Tower）",
+  "sales_world": "ローンチ11日間で全世界$101.3M、launch初年度で推定$500M超（Sensor Tower 2021-2022）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年6月の日韓台先行ローンチから11日間で全世界収益1億ドルを突破し、ポケモンGOやリネージュ2 レボリューションを上回るスピードで話題に。日本市場が初期売上の45%（約4,560万ドル）を占めた。",
+  "slug": "ni-no-kuni-cross-worlds",
+  "file": "data/games/1017-ni-no-kuni-cross-worlds.json",
+  "concept": "スタジオジブリ系のアートディレクションを引き継いだファンタジーMMORPG。5職業のキャラ育成、装備強化、ペット（イマージェン）収集、ギルド戦・領地戦を軸に、ブロックチェーンによるP2E（Play-to-Earn）要素「Asprin / NKT」を組み込んだ国内モバイル発の経済型MMO。",
+  "target": "『二ノ国』IPファンとモバイルMMORPG愛好層、加えてP2E・暗号資産トークン経済に関心を持つアジア圏（日韓台中心）のユーザー。",
+  "_source_urls": [
+    "https://sensortower.com/blog/ni-no-kuni-cross-worlds-100-million-revenue",
+    "https://www.pocketgamer.biz/asia/news/76786/ni-no-kuni-cross-worlds-beats-pokmon-go-to-100-million/",
+    "https://www.animenewsnetwork.com/news/2021-07-01/report-ni-no-kuni-cross-worlds-game-topped-usd100-million-faster-than-pokemon-go-did/.174670"
+  ]
+}

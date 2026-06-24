@@ -1,0 +1,33 @@
+{
+  "id": 1001,
+  "title_jp": "ドゥームズデイ：ラスト・サバイバーズ",
+  "title_en": "Doomsday: Last Survivors",
+  "developer": "IGG (I Got Games)",
+  "publisher": "IGG",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMO SLG / Zombie Survival Strategy",
+  "sales_jp": null,
+  "sales_world": "2023年売上 約HK$700M、2024年 約HK$1B(前年比+50%)、2025年 HK$1.14B(前年比+12%)、2026年初頭月次総売上HK$130Mを記録。ユーザー数約1億(IGG IR 2025/2026)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "IGGの『Lords Mobile』に続く主力MMO SLG。2024年にAttack on Titanコラボで話題を呼び、NYX Game Awards 2023で5部門受賞。リリースから3年目以降も右肩上がりで年間10億香港ドル規模を維持する長寿タイトル。",
+  "slug": "doomsday-last-survivors",
+  "file": "data/games/1001-doomsday-last-survivors.json",
+  "concept": "ゾンビ災厄後の世界でシェルターを建設・拡張し、サバイバーを収集・育成しつつ同盟（ギルド）単位で資源争奪戦を繰り広げる、ハイクオリティ3Dグラフィック志向のMMOストラテジー。タワーディフェンス型のゾンビ討伐パートで操作介入の楽しさも持たせている。",
+  "target": "『State of Survival』『Last Shelter: Survival』『Lords Mobile』など欧米系MMO SLG経験者、ゾンビ題材のサバイバル世界観を好む20-40代のミドル～ヘビーペイヤー層。同盟運営とランキング競争を継続的に楽しめるプレイヤー向け。",
+  "_source_urls": [
+    "https://prwire.com.au/pr/127638/igg-doomsday-last-survivors-achieves-record-high-monthly-gross-billing-of-hk-130-million",
+    "https://statics.9458.com/game/9900/article/2025/03/26/083340_67e40234d4f079996.pdf",
+    "https://dls.igg.com/?lang=jpn",
+    "https://www.phatmansafterschool.com/doomsday/",
+    "https://app.sensortower.com/overview/1552206075?country=US"
+  ]
+}

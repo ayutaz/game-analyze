@@ -1,0 +1,34 @@
+{
+  "id": 1006,
+  "title_jp": "ドラゴンラージャ",
+  "title_en": "Dragon Raja",
+  "developer": "Zulong Games / Archosaur Games",
+  "publisher": "Archosaur Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG / Anime Open-World",
+  "sales_jp": null,
+  "sales_world": "中国版が2024年9月単月で1億元超 (RMB 100M+ / TechNode 2024)。グローバル版はSensor Towerで2026年3月時点でも月間DL・売上が継続計上。",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年2月の北米欧州中東リリース直後に米App Store総合Top10入りし、UE4採用のアニメ調オープンワールドMMOとして話題に。2024年9月時点でも中国版が月商1億元（約20億円）超を記録するなど長期運営でも好調。",
+  "slug": "dragon-raja",
+  "file": "data/games/1006-dragon-raja.json",
+  "concept": "Unreal Engine 4製のアニメ調オープンワールドMMORPG。東京〜シベリアの実在ランドマークを取り込んだ広大な世界で、戦闘・ダンジョン・PvP・バトロワ・カーレース・職業システム・選択肢分岐NPC会話などを詰め込み、キャラクター育成・装備強化・ガチャ的なファッションやコスメ収集を主動機としている。",
+  "target": "高品質3DアニメグラフィックのMMOを求めるスマホ層、原作小説『龍族』ファン、キャラメイクと外見コスメ収集を楽しみたいプレイヤー、グローバルサーバーで多国籍ギルド活動をしたいMMO愛好者。",
+  "_source_urls": [
+    "https://sensortower.com/ios/us/archosaur-games/app/dragon-raja/1459339898",
+    "https://technode.com/2024/10/11/mobile-games-dragon-raja-and-ashes-of-the-kingdom-surpass-rmb-100-million-in-revenue-in-september/",
+    "https://dragonraja.zloong.com/",
+    "https://apps.apple.com/us/app/dragon-raja-anime-mmorpg/id1459339898",
+    "https://play.google.com/store/apps/details?id=com.zloong.eu.dr.gp&hl=en"
+  ]
+}

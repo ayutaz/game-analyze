@@ -1,0 +1,34 @@
+{
+  "id": 945,
+  "title_jp": "あんさんぶるスターズ!!Basic",
+  "title_en": "Ensemble Stars!! Basic",
+  "developer": "Happy Elements (Cacalia Studio)",
+  "publisher": "Happy Elements",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "男性アイドル育成カードゲーム",
+  "sales_jp": "事前登録70万人、リリース初日DL約140万、Basic＋Music合算で2020年12月に累計500万DL突破（Gamerch / 公式X）",
+  "sales_world": "シリーズ累計1600万DL超（2023年7月、Otome.com / Wikipedia）。収益の約70%が日本市場由来",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年3月15日のリニューアル新作として『Music』と同時リリースされ、同年12月にはBasic＋Music合算で累計500万DLを突破。シリーズ累計は2023年7月時点で1600万DLを超え、女性向けアイドル育成IPの最長寿級ヒット作として継続運営中。",
+  "slug": "ensemble-stars-basic",
+  "file": "data/games/945-ensemble-stars-basic.json",
+  "concept": "旧『あんさんぶるスターズ！』のADV/カード収集要素を継承した非リズム型の本編アプリ。豊富なストーリーイベント、★5アイドルカードのスカウト（ガチャ）、プロデュース育成、衣装コーディネートを通じて担当アイドルを「育てて愛でる」ことが中心動機の運営型ソーシャルゲーム。",
+  "target": "夢ノ咲学院のアイドル達を10年来追う女性向けIPファン層と、リズムゲームが苦手でストーリー＆カード収集を腰を据えて楽しみたい既存プレイヤー。担当推しに課金してビジュアル/カードを集めるコレクター志向のユーザーが主軸。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!",
+    "https://en.wikipedia.org/wiki/Ensemble_Stars!",
+    "https://gamerch.com/ensemble-star-basic/entry/207406",
+    "https://x.com/ensemble_stars/status/1336958839468548098",
+    "https://ensemble-stars.jp/game/basic/",
+    "https://otome.com/2025/03/21/ensemble-stars-music-market-analysis/",
+    "https://gamebiz.jp/news/262264"
+  ]
+}

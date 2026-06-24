@@ -1,0 +1,33 @@
+{
+  "id": 1007,
+  "title_jp": "ウォッチャー・オブ・レルム",
+  "title_en": "Watcher of Realms",
+  "developer": "Moonton",
+  "publisher": "Moonton",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "Strategy RPG / Tower Defense Hybrid",
+  "sales_jp": null,
+  "sales_world": "グローバルDL 300万超、2025年通期売上 約$42.3M (Sensor Tower 2025集計、Moonton社内2位)。launch後60日で200万DL・$10M超。",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2023年7月グローバル配信、launch後60日でDL200万・売上$10M超、欧米RPGカテゴリTop50入り。Sensor Tower集計で2025年は約$42.3MをMoontonにもたらしMobile Legendsに次ぐ同社第2の柱に成長。日本では2024年3月28日配信で「100体超のヒーローによる本格TD-RPG」として複数の攻略メディアが特集。",
+  "slug": "watcher-of-realms",
+  "file": "data/games/1007-watcher-of-realms.json",
+  "concept": "5体のヒーローを配置してコアを守る戦略タワーディフェンスとガチャ収集型ヒーローRPGを融合させたモバイルタイトル。100体超のヒーロー、8勢力・30種族のダークファンタジー世界、PvE章節攻略とPvPアリーナ・ギルドレイドを備える。",
+  "target": "AFK Arena / Rise of Kingdoms / Summoners War系のヒーロー収集ガチャRPGを好み、かつタワーディフェンスの配置戦略も楽しみたい中重度モバイルゲーマー。ギルド戦やアリーナ・ボスレイドで腰を据えて遊べる欧米寄りのダークファンタジー嗜好層。",
+  "_source_urls": [
+    "https://sensortower.com/blog/2024-q1-android-top-5-tower%20defense%20games-revenue-europe-6012932d241bc16eb85e0db8",
+    "https://appstorespy.com/android-google-play/com.td.watcherofrealms-trends-revenue-statistics-downloads-ratings",
+    "https://www.watcherofrealms.com/",
+    "https://www.ut-game.com/entry/watcher-of-realms-review",
+    "https://note.com/tekitougame/n/nadf58cde06b4"
+  ]
+}

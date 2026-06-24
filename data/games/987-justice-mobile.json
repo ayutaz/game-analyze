@@ -1,0 +1,35 @@
+{
+  "id": 987,
+  "title_jp": "逆水寒モバイル",
+  "title_en": "Justice Mobile (Sword of Justice)",
+  "developer": "NetEase Thunder Fire Studio",
+  "publisher": "NetEase Games",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "オープンワールド武侠MMORPG",
+  "sales_jp": null,
+  "sales_world": "2023年中国ローンチ後、事前登録4,000万、初5日で2,330万ドル(App Store)、2023年7月単月で約1.13億ドル(Sensor Tower世界3位)、2023年通年で3.58億ドル超、日商150-370万ドル規模 (AppMagic / Sensor Tower 2023)",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "2023年6月30日の中国ローンチ直後にApp Store売上ランキング1位を獲得し、リリース3週間で課金収益4,000万ドル・累計DL600万を突破。NetEase株価を9ヶ月で85%押し上げた同社のフラッグシップヒット。",
+  "slug": "justice-mobile",
+  "file": "data/games/987-justice-mobile.json",
+  "concept": "北宋を舞台にした武侠世界を再現するオープンワールドMMORPGで、生成AIで動的に応答するNPC対話システムや「Pay-to-Winではない」課金設計、レイトレ対応のハイエンドグラフィックを売りに、開発費10億元($140M)を投じた次世代モバイルMMO。",
+  "target": "中国本土の武侠IPファンと、PC級グラフィックのMMOをスマホで遊びたいハードコアMMORPG層。2025年11月の「Sword of Justice」グローバル版以降は日本含む海外のMMO/ガチャ層も射程に。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/373770",
+    "https://36kr.jp/263677/",
+    "https://gameworldobserver.com/2023/07/20/justice-mobile-revenue-netease-budget-140-million",
+    "https://gamedevreports.substack.com/p/a-new-mmorpg-from-netease-justice",
+    "https://www.mmorpg.com/news/netease-launches-sword-of-justice-a-no-pay-to-win-wuxia-fantasy-mmo-with-ai-powered-npcs-2000136545",
+    "https://www.neteasegames.com/jp/news/20251031/37024_1268129.html"
+  ]
+}

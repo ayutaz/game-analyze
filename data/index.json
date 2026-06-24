@@ -1,9 +1,9 @@
 {
   "generated_from": "data/games/*.json",
-  "total": 917,
+  "total": 1025,
   "primary_breakdown": {
-    "EXP": 689,
-    "REW": 103,
+    "EXP": 705,
+    "REW": 195,
     "NAR": 125
   },
   "games": [
@@ -15166,6 +15166,1805 @@
         "Xbox Series X|S"
       ],
       "file": "data/games/917-edge-of-memories.json"
+    },
+    {
+      "id": 918,
+      "title_jp": "FFBE幻影戦争 WAR OF THE VISIONS",
+      "title_en": "War of the Visions: Final Fantasy Brave Exvius",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/918-war-of-the-visions-final-fantasy-brave-exvius.json"
+    },
+    {
+      "id": 919,
+      "title_jp": "ロマンシング サガ リ・ユニバース",
+      "title_en": "Romancing SaGa Re;univerSe",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/919-romancing-saga-re-universe.json"
+    },
+    {
+      "id": 920,
+      "title_jp": "ドラゴンクエストタクト",
+      "title_en": "Dragon Quest Tact",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/920-dragon-quest-tact.json"
+    },
+    {
+      "id": 921,
+      "title_jp": "アイドリッシュセブン",
+      "title_en": "IDOLiSH7",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/921-idolish7.json"
+    },
+    {
+      "id": 922,
+      "title_jp": "Shadowverse（シャドウバース）",
+      "title_en": "Shadowverse",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/922-shadowverse.json"
+    },
+    {
+      "id": 923,
+      "title_jp": "ファイアーエムブレム ヒーローズ",
+      "title_en": "Fire Emblem Heroes",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/923-fire-emblem-heroes.json"
+    },
+    {
+      "id": 924,
+      "title_jp": "どうぶつの森 ポケットキャンプ",
+      "title_en": "Animal Crossing: Pocket Camp",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/924-animal-crossing-pocket-camp.json"
+    },
+    {
+      "id": 925,
+      "title_jp": "スーパーマリオラン",
+      "title_en": "Super Mario Run",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/925-super-mario-run.json"
+    },
+    {
+      "id": 926,
+      "title_jp": "マリオカート ツアー",
+      "title_en": "Mario Kart Tour",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/926-mario-kart-tour.json"
+    },
+    {
+      "id": 927,
+      "title_jp": "リネージュ2 レボリューション",
+      "title_en": "Lineage 2: Revolution",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/927-lineage-2-revolution.json"
+    },
+    {
+      "id": 928,
+      "title_jp": "リネージュM",
+      "title_en": "Lineage M",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/928-lineage-m.json"
+    },
+    {
+      "id": 929,
+      "title_jp": "ポケモンマスターズ EX",
+      "title_en": "Pokémon Masters EX",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/929-pok-mon-masters-ex.json"
+    },
+    {
+      "id": 930,
+      "title_jp": "SINoALICE -シノアリス-",
+      "title_en": "SINoALICE",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/930-sinoalice.json"
+    },
+    {
+      "id": 931,
+      "title_jp": "アズールレーン",
+      "title_en": "Azur Lane",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/931-azur-lane.json"
+    },
+    {
+      "id": 932,
+      "title_jp": "ドラゴンボールZ ドッカンバトル",
+      "title_en": "Dragon Ball Z: Dokkan Battle",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/932-dragon-ball-z-dokkan-battle.json"
+    },
+    {
+      "id": 933,
+      "title_jp": "アナザーエデン 時空を超える猫",
+      "title_en": "Another Eden: The Cat Beyond Time and Space",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC",
+        "Switch"
+      ],
+      "file": "data/games/933-another-eden-the-cat-beyond-time-and-space.json"
+    },
+    {
+      "id": 934,
+      "title_jp": "アイドルマスター ミリオンライブ! シアターデイズ",
+      "title_en": "The Idolm@ster Million Live! Theater Days",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/934-the-idolm-ster-million-live-theater-days.json"
+    },
+    {
+      "id": 935,
+      "title_jp": "PUBG MOBILE",
+      "title_en": "PUBG Mobile",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/935-pubg-mobile.json"
+    },
+    {
+      "id": 936,
+      "title_jp": "妖怪ウォッチ ぷにぷに",
+      "title_en": "Yo-kai Watch: Puni Puni",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/936-yo-kai-watch-puni-puni.json"
+    },
+    {
+      "id": 937,
+      "title_jp": "ドラガリアロスト",
+      "title_en": "Dragalia Lost",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/937-dragalia-lost.json"
+    },
+    {
+      "id": 938,
+      "title_jp": "逆転オセロニア",
+      "title_en": "Reversi Othellonia",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/938-reversi-othellonia.json"
+    },
+    {
+      "id": 939,
+      "title_jp": "スターオーシャン:アナムネシス",
+      "title_en": "Star Ocean: Anamnesis",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/939-star-ocean-anamnesis.json"
+    },
+    {
+      "id": 940,
+      "title_jp": "#コンパス 戦闘摂理解析システム",
+      "title_en": "#Compass: Combat Providence Analysis System",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/940-compass-combat-providence-analysis-system.json"
+    },
+    {
+      "id": 941,
+      "title_jp": "ロックマンX DiVE",
+      "title_en": "Mega Man X DiVE",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/941-mega-man-x-dive.json"
+    },
+    {
+      "id": 942,
+      "title_jp": "ラブライブ！スクールアイドルフェスティバル ALL STARS",
+      "title_en": "Love Live! School Idol Festival ALL STARS",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/942-love-live-school-idol-festival-all-stars.json"
+    },
+    {
+      "id": 943,
+      "title_jp": "A3!（エースリー）",
+      "title_en": "A3! (Act! Addict! Actors!)",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/943-a3.json"
+    },
+    {
+      "id": 944,
+      "title_jp": "スタンドマイヒーローズ PIECE OF TRUTH",
+      "title_en": "Stand My Heroes",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/944-stand-my-heroes.json"
+    },
+    {
+      "id": 945,
+      "title_jp": "あんさんぶるスターズ!!Basic",
+      "title_en": "Ensemble Stars!! Basic",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/945-ensemble-stars-basic.json"
+    },
+    {
+      "id": 946,
+      "title_jp": "うたの☆プリンスさまっ♪ LIVE EMOTION",
+      "title_en": "Uta no Prince-sama Shining Live Emotion",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/946-uta-no-prince-sama-shining-live-emotion.json"
+    },
+    {
+      "id": 947,
+      "title_jp": "IDOLY PRIDE（アイドリープライド）",
+      "title_en": "IDOLY PRIDE",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/947-idoly-pride.json"
+    },
+    {
+      "id": 948,
+      "title_jp": "アイドルマスター SideM LIVE ON ST@GE!",
+      "title_en": "The Idolmaster SideM Live on Stage!",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/948-the-idolmaster-sidem-live-on-stage.json"
+    },
+    {
+      "id": 949,
+      "title_jp": "アイドルマスター SideM GROWING STARS",
+      "title_en": "The Idolmaster SideM Growing Stars",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/949-the-idolmaster-sidem-growing-stars.json"
+    },
+    {
+      "id": 950,
+      "title_jp": "アイドルマスター ポップリンクス",
+      "title_en": "The Idolmaster Pop Links",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/950-the-idolmaster-pop-links.json"
+    },
+    {
+      "id": 951,
+      "title_jp": "アイ★チュウ",
+      "title_en": "i-Chu",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/951-i-chu.json"
+    },
+    {
+      "id": 952,
+      "title_jp": "アイドルランドプリパラ",
+      "title_en": "Idol Land PriPara",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/952-idol-land-pripara.json"
+    },
+    {
+      "id": 953,
+      "title_jp": "D4DJ Groovy Mix（グルミク）",
+      "title_en": "D4DJ Groovy Mix",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/953-d4dj-groovy-mix.json"
+    },
+    {
+      "id": 954,
+      "title_jp": "アサルトリリィ Last Bullet",
+      "title_en": "Assault Lily Last Bullet",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/954-assault-lily-last-bullet.json"
+    },
+    {
+      "id": 955,
+      "title_jp": "咲うアルスノトリア すんっ！",
+      "title_en": "Warau Arsnotoria Sun!",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/955-warau-arsnotoria-sun.json"
+    },
+    {
+      "id": 956,
+      "title_jp": "夢色キャスト",
+      "title_en": "Yumeiro Cast",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/956-yumeiro-cast.json"
+    },
+    {
+      "id": 957,
+      "title_jp": "千銃士:Rhodoknight",
+      "title_en": "Senjushi: Rhodoknight (The Thousand Noble Musketeers: Rhodoknight)",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/957-senjushi-rhodoknight.json"
+    },
+    {
+      "id": 958,
+      "title_jp": "アルゴナビス from BanG Dream! AAside",
+      "title_en": "Argonavis from BanG Dream! AAside",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/958-argonavis-from-bang-dream-aaside.json"
+    },
+    {
+      "id": 959,
+      "title_jp": "八月のシンデレラナイン",
+      "title_en": "Hachigatsu no Cinderella Nine",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC (DMM GAMES)"
+      ],
+      "file": "data/games/959-hachigatsu-no-cinderella-nine.json"
+    },
+    {
+      "id": 960,
+      "title_jp": "あんさんぶるガールズ!!",
+      "title_en": "Ensemble Girls!!",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/960-ensemble-girls.json"
+    },
+    {
+      "id": 961,
+      "title_jp": "うたの☆プリンスさまっ♪ Shining Live",
+      "title_en": "Utano Princesama Shining Live",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/961-utano-princesama-shining-live.json"
+    },
+    {
+      "id": 962,
+      "title_jp": "ツキノパラダイス。",
+      "title_en": "Tsukino Paradise",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/962-tsukino-paradise.json"
+    },
+    {
+      "id": 963,
+      "title_jp": "SHOW BY ROCK!! Fes A Live",
+      "title_en": "Show by Rock!! Fes A Live",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/963-show-by-rock-fes-a-live.json"
+    },
+    {
+      "id": 964,
+      "title_jp": "ヴァンガード ZERO",
+      "title_en": "Cardfight!! Vanguard ZERO",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/964-cardfight-vanguard-zero.json"
+    },
+    {
+      "id": 965,
+      "title_jp": "マギアレコード 魔法少女まどか☆マギカ外伝",
+      "title_en": "Magia Record: Puella Magi Madoka Magica Side Story",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/965-magia-record-puella-magi-madoka-magica-side-story.json"
+    },
+    {
+      "id": 966,
+      "title_jp": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+      "title_en": "Love Live! School Idol Festival 2 MIRACLE LIVE!",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/966-love-live-school-idol-festival-2-miracle-live.json"
+    },
+    {
+      "id": 967,
+      "title_jp": "文豪とアルケミスト",
+      "title_en": "Bungo to Alchemist",
+      "year": 2017,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/967-bungo-to-alchemist.json"
+    },
+    {
+      "id": 968,
+      "title_jp": "夢王国と眠れる100人の王子様",
+      "title_en": "Yume Oukoku to Nemureru 100-nin no Ouji-sama",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/968-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json"
+    },
+    {
+      "id": 969,
+      "title_jp": "陰陽師本格幻想RPG",
+      "title_en": "Onmyoji",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/969-onmyoji.json"
+    },
+    {
+      "id": 970,
+      "title_jp": "パニシング:グレイレイヴン",
+      "title_en": "Punishing: Gray Raven",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/970-punishing-gray-raven.json"
+    },
+    {
+      "id": 971,
+      "title_jp": "スノウブレイク：禁域降臨",
+      "title_en": "Snowbreak: Containment Zone",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "ソロ",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/971-snowbreak-containment-zone.json"
+    },
+    {
+      "id": 972,
+      "title_jp": "無期迷途",
+      "title_en": "Path to Nowhere",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/972-path-to-nowhere.json"
+    },
+    {
+      "id": 973,
+      "title_jp": "ライフアフター",
+      "title_en": "LifeAfter",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/973-lifeafter.json"
+    },
+    {
+      "id": 974,
+      "title_jp": "三国志・戦略版",
+      "title_en": "Three Kingdoms Tactics",
+      "year": 2019,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/974-three-kingdoms-tactics.json"
+    },
+    {
+      "id": 975,
+      "title_jp": "崩壊3rd",
+      "title_en": "Honkai Impact 3rd",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC (Windows)",
+        "macOS"
+      ],
+      "file": "data/games/975-honkai-impact-3rd.json"
+    },
+    {
+      "id": 976,
+      "title_jp": "モバイル・レジェンド:Bang Bang",
+      "title_en": "Mobile Legends: Bang Bang",
+      "year": 2016,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/976-mobile-legends-bang-bang.json"
+    },
+    {
+      "id": 977,
+      "title_jp": "AFKアリーナ",
+      "title_en": "AFK Arena",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/977-afk-arena.json"
+    },
+    {
+      "id": 978,
+      "title_jp": "AFK：ジャーニー",
+      "title_en": "AFK Journey",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/978-afk-journey.json"
+    },
+    {
+      "id": 979,
+      "title_jp": "ラグナロクM：Eternal Love",
+      "title_en": "Ragnarok M: Eternal Love",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/979-ragnarok-m-eternal-love.json"
+    },
+    {
+      "id": 980,
+      "title_jp": "王者栄耀（国際版：Honor of Kings）",
+      "title_en": "Honor of Kings (Global)",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/980-honor-of-kings.json"
+    },
+    {
+      "id": 981,
+      "title_jp": "エッグィパーティー",
+      "title_en": "Eggy Party",
+      "year": 2022,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/981-eggy-party.json"
+    },
+    {
+      "id": 982,
+      "title_jp": "PUBG Mobile / 和平精英",
+      "title_en": "PUBG Mobile / Game for Peace",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/982-pubg-mobile-game-for-peace.json"
+    },
+    {
+      "id": 983,
+      "title_jp": "ディアブロ・イモータル",
+      "title_en": "Diablo Immortal",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/983-diablo-immortal.json"
+    },
+    {
+      "id": 984,
+      "title_jp": "Garena フリーファイア",
+      "title_en": "Garena Free Fire",
+      "year": 2017,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/984-garena-free-fire.json"
+    },
+    {
+      "id": 985,
+      "title_jp": "ライズ・オブ・キングダム ―万国覚醒―",
+      "title_en": "Rise of Kingdoms: Lost Crusade",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/985-rise-of-kingdoms-lost-crusade.json"
+    },
+    {
+      "id": 986,
+      "title_jp": "ナラカ:ブレードポイント モバイル",
+      "title_en": "Naraka: Bladepoint Mobile",
+      "year": 2024,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/986-naraka-bladepoint-mobile.json"
+    },
+    {
+      "id": 987,
+      "title_jp": "逆水寒モバイル",
+      "title_en": "Justice Mobile (Sword of Justice)",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/987-justice-mobile.json"
+    },
+    {
+      "id": 988,
+      "title_jp": "燕雲十六声",
+      "title_en": "Where Winds Meet",
+      "year": 2025,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/988-where-winds-meet.json"
+    },
+    {
+      "id": 989,
+      "title_jp": "ペルソナ5: ザ・ファントムX",
+      "title_en": "Persona 5: The Phantom X",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/989-persona-5-the-phantom-x.json"
+    },
+    {
+      "id": 990,
+      "title_jp": "VALORANTモバイル(無畏契約)",
+      "title_en": "VALORANT Mobile",
+      "year": 2025,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/990-valorant-mobile.json"
+    },
+    {
+      "id": 991,
+      "title_jp": "エイサーゲイザー",
+      "title_en": "Aether Gazer",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/991-aether-gazer.json"
+    },
+    {
+      "id": 992,
+      "title_jp": "ステート・オブ・サバイバル",
+      "title_en": "State of Survival",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/992-state-of-survival.json"
+    },
+    {
+      "id": 993,
+      "title_jp": "トップウォー：Battle Game",
+      "title_en": "Top War: Battle Game",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/993-top-war-battle-game.json"
+    },
+    {
+      "id": 994,
+      "title_jp": "陰陽師アリーナ",
+      "title_en": "Onmyoji Arena",
+      "year": 2018,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/994-onmyoji-arena.json"
+    },
+    {
+      "id": 995,
+      "title_jp": "キングショット",
+      "title_en": "Kingshot",
+      "year": 2025,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/995-kingshot.json"
+    },
+    {
+      "id": 996,
+      "title_jp": "ラストZ：サバイバル",
+      "title_en": "Last Z: Survival Shooter",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/996-last-z-survival-shooter.json"
+    },
+    {
+      "id": 997,
+      "title_jp": "トップヒーローズ：キングダムサーガ",
+      "title_en": "Top Heroes: Kingdom Saga",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/997-top-heroes-kingdom-saga.json"
+    },
+    {
+      "id": 998,
+      "title_jp": "シー・オブ・コンクエスト：パイレーツ・ウォー",
+      "title_en": "Sea of Conquest: Pirate War",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/998-sea-of-conquest-pirate-war.json"
+    },
+    {
+      "id": 999,
+      "title_jp": "ストームショット：アイル・オブ・アドベンチャー",
+      "title_en": "Stormshot: Isle of Adventure",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/999-stormshot-isle-of-adventure.json"
+    },
+    {
+      "id": 1000,
+      "title_jp": "エイジ・オブ・エンパイア・モバイル",
+      "title_en": "Age of Empires Mobile",
+      "year": 2024,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1000-age-of-empires-mobile.json"
+    },
+    {
+      "id": 1001,
+      "title_jp": "ドゥームズデイ：ラスト・サバイバーズ",
+      "title_en": "Doomsday: Last Survivors",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1001-doomsday-last-survivors.json"
+    },
+    {
+      "id": 1002,
+      "title_jp": "ヴァイキング・ライズ",
+      "title_en": "Viking Rise",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1002-viking-rise.json"
+    },
+    {
+      "id": 1003,
+      "title_jp": "コール・オブ・ドラゴンズ",
+      "title_en": "Call of Dragons",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1003-call-of-dragons.json"
+    },
+    {
+      "id": 1004,
+      "title_jp": "WARPATH -武装都市- / ウォーパス",
+      "title_en": "Warpath",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1004-warpath.json"
+    },
+    {
+      "id": 1005,
+      "title_jp": "インフィニティ・キングダム",
+      "title_en": "Infinity Kingdom",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1005-infinity-kingdom.json"
+    },
+    {
+      "id": 1006,
+      "title_jp": "ドラゴンラージャ",
+      "title_en": "Dragon Raja",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1006-dragon-raja.json"
+    },
+    {
+      "id": 1007,
+      "title_jp": "ウォッチャー・オブ・レルム",
+      "title_en": "Watcher of Realms",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1007-watcher-of-realms.json"
+    },
+    {
+      "id": 1008,
+      "title_jp": "エイジ・オブ・オリジンズ",
+      "title_en": "Age of Origins",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1008-age-of-origins.json"
+    },
+    {
+      "id": 1009,
+      "title_jp": "リネージュ2M",
+      "title_en": "Lineage 2M",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1009-lineage-2m.json"
+    },
+    {
+      "id": 1010,
+      "title_jp": "黒い砂漠モバイル",
+      "title_en": "Black Desert Mobile",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1010-black-desert-mobile.json"
+    },
+    {
+      "id": 1011,
+      "title_jp": "オーディン：ヴァルハラ・ライジング",
+      "title_en": "ODIN: Valhalla Rising",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1011-odin-valhalla-rising.json"
+    },
+    {
+      "id": 1012,
+      "title_jp": "サマナーズウォー：クロニクル",
+      "title_en": "Summoners War: Chronicles",
+      "year": 2022,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1012-summoners-war-chronicles.json"
+    },
+    {
+      "id": 1013,
+      "title_jp": "セブンナイツ2",
+      "title_en": "Seven Knights 2",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1013-seven-knights-2.json"
+    },
+    {
+      "id": 1014,
+      "title_jp": "クッキーランキングダム",
+      "title_en": "Cookie Run: Kingdom",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1014-cookie-run-kingdom.json"
+    },
+    {
+      "id": 1015,
+      "title_jp": "クッキーラン：オーブンブレイク",
+      "title_en": "Cookie Run: OvenBreak",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1015-cookie-run-ovenbreak.json"
+    },
+    {
+      "id": 1016,
+      "title_jp": "カートライダー ラッシュプラス",
+      "title_en": "KartRider Rush+",
+      "year": 2020,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1016-kartrider-rush.json"
+    },
+    {
+      "id": 1017,
+      "title_jp": "二ノ国：Cross Worlds",
+      "title_en": "Ni no Kuni: Cross Worlds",
+      "year": 2021,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1017-ni-no-kuni-cross-worlds.json"
+    },
+    {
+      "id": 1018,
+      "title_jp": "カウンターサイド",
+      "title_en": "Counter:Side",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1018-counter-side.json"
+    },
+    {
+      "id": 1019,
+      "title_jp": "V4",
+      "title_en": "V4",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1019-v4.json"
+    },
+    {
+      "id": 1020,
+      "title_jp": "TRAHA（トラハ）",
+      "title_en": "TRAHA",
+      "year": 2019,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1020-traha.json"
+    },
+    {
+      "id": 1021,
+      "title_jp": "A3: STILL ALIVE",
+      "title_en": "A3: Still Alive",
+      "year": 2020,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1021-a3-still-alive.json"
+    },
+    {
+      "id": 1022,
+      "title_jp": "ハンドレッドソウル",
+      "title_en": "Hundred Soul",
+      "year": 2018,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1022-hundred-soul.json"
+    },
+    {
+      "id": 1023,
+      "title_jp": "メイプルストーリーM",
+      "title_en": "MapleStory M",
+      "year": 2016,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1023-maplestory-m.json"
+    },
+    {
+      "id": 1024,
+      "title_jp": "ヒット HIT: Heroes of Incredible Tales",
+      "title_en": "HIT: Heroes of Incredible Tales",
+      "year": 2015,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "file": "data/games/1024-hit-heroes-of-incredible-tales.json"
+    },
+    {
+      "id": 1025,
+      "title_jp": "エバーソウル",
+      "title_en": "Eversoul",
+      "year": 2023,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "file": "data/games/1025-eversoul.json"
     }
   ]
 }

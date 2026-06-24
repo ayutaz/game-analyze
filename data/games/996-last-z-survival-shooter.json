@@ -1,0 +1,32 @@
+{
+  "id": 996,
+  "title_jp": "ラストZ：サバイバル",
+  "title_en": "Last Z: Survival Shooter",
+  "developer": "Florere Game Limited",
+  "publisher": "Florere Game Limited",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "4X SLG / Zombie Survival Shooter",
+  "sales_jp": null,
+  "sales_world": "全世界DL 10,000,000+（Google Play 2026年時点）、月間収益 約$20M（Google Play）+ $24M（App Store）= 約$44M/月（Sensor Tower 2026年3月推計）、2025年4Xストラテジー世界売上4位",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2024年6-7月リリース後、全世界DL1,000万超・月間収益$20-24M規模に到達し、2025年の4Xストラテジー世界売上ランキングで第4位（Last War / Whiteout Survival / Top Heroes に続く）に食い込んだ。10月にはJanuary比15.5倍の伸びを記録し、米国IAP収益Top10 4Xに名を連ねる急成長タイトル。",
+  "slug": "last-z-survival-shooter",
+  "file": "data/games/996-last-z-survival-shooter.json",
+  "concept": "「Last War: Survival」のホーム画面ミニシューター＋4X基地建設＋ギルド戦という勝ちパターンを継承し、ゾンビアポカリプス世界観でリスキンしたフォロワー作。Dodge&Shootのカジュアル広告から本格的なExplore/Expand/Exploit/Exterminateの4X SLGに送客するハイブリッド構造で、レベル上げ・装備強化・同盟戦争の長期周回を主動機とする。",
+  "target": "Last War / Whiteout Survival / State of Survival 等のSurvivor系4XモバイルSLG経験者、ゾンビ・アポカリプスIPに親和性のある30-40代男性課金層。広告で誘引されたカジュアル層をギルド戦・課金パックへ巻き込む、中華系SLGの典型的ユーザー像。",
+  "_source_urls": [
+    "https://sensortower.com/blog/top10-worldwide-mobile-games-revenue-downloads-june-2025",
+    "https://mobilegamer.biz/data-digest-us-and-2025-market-stats-ceo-optimism-decembers-top-games-more/",
+    "https://app.sensortower.com/overview/com.readygo.barrel.gp?country=US",
+    "https://appagg.com/android-games/strategy/last-z-survival-shooter-39304237.html",
+    "https://apps.apple.com/id/app/last-z-survival-shooter/id6503272652"
+  ]
+}

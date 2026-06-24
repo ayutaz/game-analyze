@@ -1,0 +1,34 @@
+{
+  "id": 978,
+  "title_jp": "AFK：ジャーニー",
+  "title_en": "AFK Journey",
+  "developer": "Lilith Games (Farlight 84 Studios)",
+  "publisher": "Lilith Games",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "3D放置型ターンベースRPG",
+  "sales_jp": null,
+  "sales_world": "累計DL約1,800万、半年で収益1.58億ドル、累計収益約1.85億ドル(US 25%/中国19%/韓国15%、Sensor Tower 2024)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2024/3グローバル、8/8アジア展開で月次収益10倍に急増し、韓国・台湾でDLランキング1位を獲得した2024年最大級のグローバルヒット放置型RPG。半年で1.58億ドル、累計1.85億ドルを稼ぐシリーズの最新作。",
+  "slug": "afk-journey",
+  "file": "data/games/978-afk-journey.json",
+  "concept": "『AFKアリーナ』の世界観を継承した3D高品質グラフィックの放置型ターンベースRPG。美麗な英雄ガチャ・収集・育成と、放置で自動進行する戦闘ループを中核に、ストーリー探索とギルド/PvPを組み合わせた次世代AFKゲーム。",
+  "target": "『AFKアリーナ』『原神』など放置/ガチャ系モバイルRPGのプレイヤー、ハイクオリティな3Dビジュアルと低負荷ループを両立した作品を求める20-40代のグローバルライト〜ミドル層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/AFK_Journey",
+    "https://sensortower.com/blog/august-2024-mobile-gaming-recap",
+    "https://maf.ad/en/blog/afk-journey-analysis/",
+    "https://www.pocketgamer.biz/afk-journey-surpasses-150-million-with-asian-market-dominance/",
+    "https://www.gamebusiness.jp/article/2024/12/24/23760.html",
+    "https://news.denfaminicogamer.jp/news/240808j"
+  ]
+}

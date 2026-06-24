@@ -1,0 +1,34 @@
+{
+  "id": 973,
+  "title_jp": "ライフアフター",
+  "title_en": "LifeAfter",
+  "developer": "NetEase",
+  "publisher": "NetEase Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "オープンワールドサバイバル × 採取クラフトMMO",
+  "sales_jp": null,
+  "sales_world": "全世界DL 1億超／登録者 2億人超／推計累計収益 $125M超（うち約97%が中国、Sensor Tower 2019時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "Sensor Tower推計では中国先行リリースから約4ヶ月で全世界1.25億ドルを売り上げ、その後グローバル累計1億DL・登録者2億人超に到達。Google Play 2019「Most Competitive Game」を受賞し、中国・日本・東南アジアで長期運営される代表的サバイバルMMOとなった。",
+  "slug": "lifeafter",
+  "file": "data/games/973-lifeafter.json",
+  "concept": "ウイルスにより文明が崩壊した終末世界で、感染者やミュータントを退けつつ、伐採・採鉱・狩猟・建築・銃器クラフトを積み上げて拠点（荘園）を発展させるオープンワールドサバイバル。キャンプ単位でのMMO的協力と非同期な拠点交流・PvPイベントが噛み合う、モバイル特化のRust／DayZ系体験。",
+  "target": "DayZ／Rust／7 Days to Dieのようなハードめな終末サバイバルをスマホで遊びたい層、ギルド/キャンプ単位での建築・分業・物資交易を楽しみたいMMOプレイヤー、終末世界観のホラー・シリアスな雰囲気を好むユーザー。",
+  "_source_urls": [
+    "https://sensortower.com/blog/lifeafter-revenue",
+    "https://www.pocketgamer.biz/neteases-lifeafter-passes-125-million-in-revenue/",
+    "https://www.neteasegames.com/news/20250331/37000_867951.html",
+    "https://www.lifeafter.jp/",
+    "https://app.famitsu.com/20190418_1442921/"
+  ]
+}

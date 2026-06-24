@@ -1,0 +1,33 @@
+{
+  "id": 1013,
+  "title_jp": "セブンナイツ2",
+  "title_en": "Seven Knights 2",
+  "developer": "Netmarble",
+  "publisher": "Netmarble",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": null,
+  "sales_world": "グローバル400万DL超 (Netmarble公表値, 2021-2022)",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年11月韓国ローンチで初週App Store 1位／Google Play売上2位を獲得し、2021年11月にグローバル12言語で配信開始。前作『セブンナイツ』（全世界6,000万DL）の正式後継3D MMORPGとしてグローバル400万DL超を記録したが、日本版は2026年4月15日にサービス終了予定。",
+  "slug": "seven-knights-2",
+  "file": "data/games/1013-seven-knights-2.json",
+  "concept": "Unreal Engine 4で描かれるシネマティックな3D MMORPG。前作の世界観・キャラクターを引き継ぎつつ、ガチャによる英雄収集と装備強化、ギルド戦・PvPアリーナ・レイドを軸に据えた長期運営型モバイルRPG。後にPCクライアントβ版も提供。",
+  "target": "前作『セブンナイツ』ファンと、ハイクオリティ3Dグラフィックの韓国産モバイルMMORPG（リネージュ2M、二ノ国: Cross Worldsなど）を遊ぶ層。ガチャで好みの英雄を集めて編成・育成し、ギルドで非同期に競い合うプレイヤーが主なターゲット。",
+  "_source_urls": [
+    "https://www.prnewswire.com/news-releases/seven-knights-2-the-long-awaited-sequel-to-netmarbles-original-mobile-rpg-seven-knights-launches-worldwide-301419631.html",
+    "https://7k2.netmarble.com/ja",
+    "https://www.netmarble.co.jp/news/view/1405/1",
+    "https://www.pocketgamer.com/seven-knights-2/netmarble-to-release-seven-knights-2-globally-on-android-and-ios-later-this-year/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1021,
+  "title_jp": "A3: STILL ALIVE",
+  "title_en": "A3: Still Alive",
+  "developer": "Actoz Soft",
+  "publisher": "Netmarble",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "モバイルMMORPG / バトルロイヤル",
+  "sales_jp": null,
+  "sales_world": "全世界DL 200万超 (2020年末時点、Netmarble発表)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年3月に韓国で先行ローンチされ初日Google Play売上トップ10入り、同年11月のグローバル展開後2か月で全世界200万DLを突破。App Store / Google PlayでRPGカテゴリ最高評価を獲得した。",
+  "slug": "a3-still-alive",
+  "file": "data/games/1021-a3-still-alive.json",
+  "concept": "ダークファンタジーのオープンワールドMMORPGに30人対戦のバトルロイヤルモードを統合し、装備強化・ガチャ・ソウルリンカー（収集）育成と非同期PvP・ギルド戦を組み合わせた韓国型モバイルMMOの典型。",
+  "target": "リネージュ系・Lineage2 Revolution系のハードコアな装備強化と課金ガチャを楽しむアジア圏中心のモバイルMMORPGプレイヤー、加えてバトロワ要素でカジュアルPvPも触れたい層。",
+  "_source_urls": [
+    "https://www.globalgamesforum.com/features/a3-still-alive-just-about",
+    "https://netmarble.com/en/survivalgb",
+    "https://gamefragger.com/mobile-gaming/a3-still-alive-netmarbles-new-battle-royale-mobile-title-has-crossed-1-million-downloads-a21773",
+    "https://koreatechtoday.com/netmarbles-a3-still-alive-set-to-release-in-march/",
+    "https://www.shacknews.com/article/120702/a3-still-alive-is-a-new-mmorpg-from-netmarble"
+  ]
+}

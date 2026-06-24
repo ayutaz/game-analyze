@@ -1,0 +1,33 @@
+{
+  "id": 947,
+  "title_jp": "IDOLY PRIDE（アイドリープライド）",
+  "title_en": "IDOLY PRIDE",
+  "developer": "QualiArts（サイバーエージェント子会社）",
+  "publisher": "QualiArts",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドルマネジメントRPG",
+  "sales_jp": "Game-i推定で2022年売上18.4億円、2023年14.4億円",
+  "sales_world": "グローバル版「IDOLY PRIDE: Idol Manager」が2023年配信、累計DL約18万 (Sensor Tower)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年6月24日配信初日にGoogle Play無料ゲーム1位、App Storeでも無料1位/売上26位を獲得。アニメ・コミック・声優ライブを横断するメディアミックス型アイドルIPとして安定したコアファン層を抱え、2024年には2.5周年・3周年キャンペーンでセルラン上位に再浮上した。",
+  "slug": "idoly-pride",
+  "file": "data/games/947-idoly-pride.json",
+  "concept": "急逝した天才アイドル長瀬麻奈の遺志を継ぐ星見プロダクションの新人たちが、Venus Program頂点を目指す群像劇を軸に、3Dライブ・キャラ育成・ガチャ・専用シナリオ周回を組み合わせたアイドルマネジメントRPG。重厚なシナリオと高品質3Dライブ、月のテンペスト・サニーピース・TRINITYAiLE・LizNoir・IIIX等の競合グループ間のドラマで「物語×ガチャ収集」を両立させている。",
+  "target": "アイマス／ラブライブ／バンドリ等の競合長期運営アイドルゲーム経験者で、シナリオ重視かつキャラ育成・3Dライブ鑑賞を楽しみたい層。声優コンテンツ・アニメ・コミック横断のメディアミックスを追えるコアアイドルオタクが中心。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/299119",
+    "https://en.wikipedia.org/wiki/Idoly_Pride",
+    "https://revenue.ennead.cc/games/idoly-pride",
+    "https://www.famitsu.com/article/202412/27818",
+    "https://appmedia.jp/app_review/6578044",
+    "https://cgworld.jp/feature/202107-idolypride.html"
+  ]
+}

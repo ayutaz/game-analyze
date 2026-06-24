@@ -1,0 +1,32 @@
+{
+  "id": 960,
+  "title_jp": "あんさんぶるガールズ!!",
+  "title_en": "Ensemble Girls!!",
+  "developer": "Happy Elements",
+  "publisher": "Happy Elements",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女子高生育成カードゲーム",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2011年GREE版『あんさんぶるガールズ！』のリニューアル版として2016年10月7日にネイティブアプリで再始動したが、約1年4か月後の2018年2月15日にサービス終了。後継作『あんさんぶるスターズ！』の制作ノウハウの源流となった点で語り継がれる作品。",
+  "slug": "ensemble-girls",
+  "file": "data/games/960-ensemble-girls.json",
+  "concept": "日日日がシナリオを担当し、紀崎学園に通う60人超の女子高生たちと友情を育みながら、ガチャで入手した育成カードを合成・強化してイベントを攻略していくシナリオ重視のソーシャルカードゲーム。",
+  "target": "テキスト量の多い女子高生群像劇とキャラクターガチャ・カード育成を両立させたい女性プレイヤー、および同社の後継『あんスタ』ファンが源流として追体験するライト〜ミドル層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA!",
+    "https://gamebiz.jp/news/186854",
+    "https://gamebiz.jp/news/84214",
+    "https://app.famitsu.com/20150918_572412/",
+    "https://www.4gamer.net/games/202/G020275/"
+  ]
+}

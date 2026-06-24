@@ -1,0 +1,32 @@
+{
+  "id": 924,
+  "title_jp": "どうぶつの森 ポケットキャンプ",
+  "title_en": "Animal Crossing: Pocket Camp",
+  "developer": "任天堂／DeNA／エヌディーキューブ",
+  "publisher": "任天堂",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "シミュレーション",
+  "sales_jp": "配信開始9日間の課金収益のうち約86%が日本（Sensor Tower 2017）。F2P期の課金の9割が日本ユーザーで、1DL当たり課金額も突出",
+  "sales_world": "配信6日間で全世界1,500万DL、生涯ダウンロード6,180万超、F2P累計収益$250M超（Sensor Tower）。2024年12月有料化「コンプリート」は初週$2.6M、9日で$3M突破、19カ国有料1位",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年配信のスマホ向けどうぶつの森として6日で世界1,500万DLを記録し、累計DL6,180万・F2P総収益$250M超を達成した日本依存型ヒット作。2024年12月にサ終と同時にバイアウト版「ポケットキャンプ コンプリート」へ移行し、19カ国の有料アプリ1位を獲得した。",
+  "slug": "animal-crossing-pocket-camp",
+  "file": "data/games/924-animal-crossing-pocket-camp.json",
+  "concept": "キャンプ場を舞台に家具・服を集めて動物たちを呼び寄せる箱庭シミュレーション。葉っぱ（リーフチケット）課金とイベント周回で家具・服飾コンプを進める「収集×内装ループ」を、フレンドのキャンプ場訪問など非同期ソーシャル要素で外連にしている。",
+  "target": "据置どうぶつの森ファン、通勤・通学のスキマ時間に内装・コーデを楽しみたい女性プレイヤー、コレクション欲求の強い課金層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E3%81%AE%E6%A3%AE_%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97",
+    "https://sensortower.com/ja/blog/animal-crossing-pocket-camp-jp",
+    "https://sensortower.com/blog/animal-crossing-pocket-camp-250-million-revenue",
+    "https://www.itmedia.co.jp/news/articles/1712/02/news027.html",
+    "https://www.pocketgamer.biz/animal-crossing-pocket-camp-complete-surpasses-3m-with-highest-daily-spend-since-2017/"
+  ]
+}

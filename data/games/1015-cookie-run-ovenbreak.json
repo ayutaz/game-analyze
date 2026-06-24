@@ -1,0 +1,31 @@
+{
+  "id": 1015,
+  "title_jp": "クッキーラン：オーブンブレイク",
+  "title_en": "Cookie Run: OvenBreak",
+  "developer": "Devsisters",
+  "publisher": "Devsisters",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ランアクション",
+  "sales_jp": null,
+  "sales_world": "シリーズ累計DL 8000万超（OvenBreak + Kingdom 合算, 2022時点）／単体DL 4500万超（2022時点）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2016年配信のロングラン横スクロールランナー。2022年時点で累計DL 4500万を突破し、韓国・台湾・タイで App Store の「Game of the Year」を獲得。後継作『クッキーラン：キングダム』のキャラクター原型を築いた基盤タイトル。",
+  "slug": "cookie-run-ovenbreak",
+  "file": "data/games/1015-cookie-run-ovenbreak.json",
+  "concept": "クッキー達がオーブンから脱出して走り続ける横スクロール型ランニングアクション。ジャンプとスライド2ボタン操作の体験を土台に、クッキー／ペット／宝物のガチャ収集とイベント周回、フレンド・ギルドのランキング競争で長期遊びを成立させるハイブリッド設計。",
+  "target": "スマホで気軽に遊べるランゲームを求めるカジュアル層、可愛いキャラクターIPを集めたいコレクター層、ランキングでフレンドとスコアを競いたい非同期PvP志向のプレイヤー。アジア圏（韓国・台湾・タイ・日本）で特に強い支持。",
+  "_source_urls": [
+    "https://www.deconstructoroffun.com/blog/2022/4/24/cookie-run-kingdom",
+    "https://www.4gamer.net/games/361/G036137/20221028032/",
+    "https://www.devsisters.com/en/games/cookierun",
+    "https://sensortower.com/android/us/devsisters-corporation/app/cookie-run-ovenbreak-endless-running-platformer/com.devsisters.gb/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 962,
+  "title_jp": "ツキノパラダイス。",
+  "title_en": "Tsukino Paradise",
+  "developer": "バンダイナムコオンライン",
+  "publisher": "バンダイナムコエンターテインメント",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向けアイドル育成＋リズムLIVE",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "『ツキウタ。』『ツキプロ』IPの初の公式アプリとして2017年4月26日に配信開始、女性向けアイドルジャンルで一定の支持を集めたが、約2年9か月で2020年2月5日にサービス終了した。DL数・売上の公式数値は非開示。",
+  "slug": "tsukino-paradise",
+  "file": "data/games/962-tsukino-paradise.json",
+  "concept": "『ツキウタ。』ベースの架空芸能事務所「ツキノ芸能プロダクション」を舞台に、Six Gravity / Procellarum / SolidS / Growth / SOARA / 劇団アルタイル等37人以上の男性タレントを6ボタンのリズムLIVE＋寮生活コミュ＋育成で楽しむ女性向けスマホアプリ。",
+  "target": "既存の『ツキウタ。』『ツキプロ』ファン層、男性アイドル育成＋音ゲーを好む女性ユーザー、推しキャラとの寮コミュ・カード収集を楽しみたいプレイヤー。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/254988",
+    "https://www.4gamer.net/games/344/G034459/20191206018/",
+    "https://www.bs-log.com/news/game/20191206_1387608.html",
+    "https://tsukipro.fandom.com/wiki/TSUKINO_PARADISE",
+    "https://gamebiz.jp/news/162594"
+  ]
+}

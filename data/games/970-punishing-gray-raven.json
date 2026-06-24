@@ -1,0 +1,33 @@
+{
+  "id": 970,
+  "title_jp": "パニシング:グレイレイヴン",
+  "title_en": "Punishing: Gray Raven",
+  "developer": "Kuro Games",
+  "publisher": "Kuro Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "3Dハイスピードアクション × キャラガチャ",
+  "sales_jp": null,
+  "sales_world": "モバイル累計課金 $159M+ (Sensor Tower 2024末推計), 全世界DL 3000万+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年7月時点で海外DL2000万突破、後に3000万DL超えを記録。日本版は2020年12月リリース時にApp Store/Google Play無料ゲーム1位、セールス TOP30入りを達成。Sensor Tower推計では2024年2月にモバイル売上が月次$16.6Mまで跳ね上がり、累計課金は1.59億ドル超とされる。",
+  "slug": "punishing-gray-raven",
+  "file": "data/games/970-punishing-gray-raven.json",
+  "concept": "ポストアポカリプスの近未来を舞台に、量子化されたキャラクター「構造体」を3体編成し、QTEと回避でつなぐ3Dハイスピード連携アクションを楽しむキャラガチャRPG。コンソール級の演出と硬派なアクション操作をスマホで実現したのが特長。",
+  "target": "原神/崩壊3rd系の美麗3Dアクションガチャを好み、スタイリッシュなコンボや回避アクションでスコアを伸ばしたい層。SF・終末世界観の物語と美少女キャラ収集の双方を楽しみたいモバイルゲーマー向け。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8B%E3%82%B7%E3%83%B3%E3%82%B0:%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%B3",
+    "https://prtimes.jp/main/html/rd/p/000000026.000036746.html",
+    "https://gamebiz.jp/news/283567",
+    "https://sensortower.com/blog/2024-q1-unified-top-5-hack%20and%20slash-revenue-au-60343fc1241bc16eb814eb0f",
+    "https://pgr.kurogames.com/jp/"
+  ]
+}

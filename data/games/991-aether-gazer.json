@@ -1,0 +1,35 @@
+{
+  "id": 991,
+  "title_jp": "エイサーゲイザー",
+  "title_en": "Aether Gazer",
+  "developer": "Xiamen Yongshi Network Technology",
+  "publisher": "Yostar Inc.",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "3D SFアクションRPG × ガチャ",
+  "sales_jp": null,
+  "sales_world": "全世界500万DL以上 (Google Play / App Store 累計), GACHAREVENUE上位常連、月商数百万ドル規模 (Sensor Tower推計, 2024-2025)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "中国版2022/4ローンチ後、グローバル版2023/5に展開し、Honkai Impact 3rd系後継3DアクションとしてGACHAREVENUE上位常連。神話×サイバーパンクの世界観とハイスピード戦闘で東アジア中心に固定ファン層を形成している。",
+  "slug": "aether-gazer",
+  "file": "data/games/991-aether-gazer.json",
+  "concept": "人類の意識をAI「Gaea」にアップロードした近未来ディストピアで、神話モチーフの「Modifier」3人編成スコッドを操作し、コンピュータウイルス「Visbane」と戦う高速ハクスラ型3DアクションRPG。キャラ・武器ガチャと装備育成ループが主軸。",
+  "target": "Honkai Impact 3rd / Punishing Gray Raven / NIKKE 等の3Dガチャアクションを好み、神話×サイバーパンク世界観の美少女キャラ収集と操作スキル両立を楽しみたい中重度モバイルゲーマー。",
+  "_source_urls": [
+    "https://www.bluestacks.com/blog/app-reviews/aether-gazer-review-en.html",
+    "https://news.qoo-app.com/en/post/125251/aether-gazer-cbt-preview",
+    "https://www.pockettactics.com/aether-gazer/release-date",
+    "https://revenue.ennead.cc/revenue",
+    "https://www.gamerbraves.com/pc-client-for-aether-gazer-announced/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AetherGazer",
+    "https://www.similarweb.com/app/google/com.YoStar.AetherGazer/"
+  ]
+}

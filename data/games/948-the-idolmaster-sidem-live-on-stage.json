@@ -1,0 +1,33 @@
+{
+  "id": 948,
+  "title_jp": "アイドルマスター SideM LIVE ON ST@GE!",
+  "title_en": "The Idolmaster SideM Live on Stage!",
+  "developer": "アカツキ",
+  "publisher": "バンダイナムコエンターテインメント",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "男性アイドル育成リズム（ドラマチックアイドル育成ライブゲーム）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "事前登録10万人を突破して2017年8月30日にリリース、男性アイドル315プロダクションをモチーフにした『SideM』IPの中核アプリとして4年間運営された。2021年8月31日にサービス終了したが、同年10月には後継『GROWING STARS』が稼働を引き継ぎ、女性向け男性アイドルアプリの代表格としてシリーズの厚いファンダムを支えた。",
+  "slug": "the-idolmaster-sidem-live-on-stage",
+  "file": "data/games/948-the-idolmaster-sidem-live-on-stage.json",
+  "concept": "『アイマス SideM』の46人（後に拡張）を3DCGで動かす育成型ライブゲーム。プレイヤーは315プロダクションのプロデューサーとして、「スカウト」と呼ぶガチャでアイドルを獲得し、ユニットを編成、お仕事や3Dライブのリズムゲームをこなしてトップアイドルを目指す。キャラ別ストーリーやイベントコミュも本編級のボリュームで実装され、楽曲リズム＋育成＋ガチャ＋物語消費を一体化したアイマス系の典型フォーマット。",
+  "target": "『SideM』IPの担当（推し）アイドルを持つ男性アイドルジャンルの女性ファン、デレステ／ミリシタなど他アイマス系列のリズムゲーから流入したプロデューサー層、3Dライブで担当の歌唱・ダンスを高解像度に体験したい既存コンテンツファンが中心。声優・ライブ・CD・アニメと連動した重課金〜ライト両層を抱えるニッチだが熱量の高いコミュニティ。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_SideM_LIVE_ON_ST@GE!",
+    "https://app.famitsu.com/20210831_1841862/",
+    "https://www.famitsu.com/news/202012/18211591.html",
+    "https://gamebiz.jp/news/284329",
+    "https://idolmaster-official.jp/sidem"
+  ]
+}

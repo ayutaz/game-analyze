@@ -1,0 +1,31 @@
+{
+  "id": 1003,
+  "title_jp": "コール・オブ・ドラゴンズ",
+  "title_en": "Call of Dragons",
+  "developer": "Farlight Games (LEGOU Games / Lilith Games グローバル子会社)",
+  "publisher": "Farlight Games",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMO SLG / High-Fantasy 4X",
+  "sales_jp": null,
+  "sales_world": "2024年Q2 米Android収益ピーク週$2.3M、統合プラットフォームWAU最大1.43M (Sensor Tower 2024)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2023年3月28日にPC/iOS/Androidでグローバル同時配信。欧米ストラテジーTop20常連で、Sensor Tower 推計では2024年Q2に米Android単体週次収益が最大230万ドル、iOS+Android統合のWAUは約143万人規模に到達した。",
+  "slug": "call-of-dragons",
+  "file": "data/games/1003-call-of-dragons.json",
+  "concept": "『ライズ・オブ・キングダム』譲りの388万km²シームレス3DマップでハイファンタジーSLGを展開。英雄ガチャと「アーティファクトスキル」を軸に村を育て、ベヒモスを駆る軍勢でアライアンス戦争を繰り広げる。",
+  "target": "『ライキン』『State of Survival』など長期運営型モバイルSLGのコアプレイヤー層、ファンタジー4X／ハイファンタジー世界観を好む欧米中心の30代以上の重課金ストラテジスト。",
+  "_source_urls": [
+    "https://sensortower.com/blog/2024-q2-unified-top-5-dragon%20games-revenue-uy-6023e501241bc16eb8e453a8",
+    "https://www.globenewswire.com/news-release/2023/03/28/2635868/0/en/Call-of-Dragons-the-New-High-Fantasy-MMO-Conquest-Game-From-Farlight-Games-Is-Now-Available-Globally-on-PC-and-Mobile-Platforms.html",
+    "https://www.pocketgamer.com/call-of-dragons/launch-date/"
+  ]
+}

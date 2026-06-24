@@ -1,0 +1,34 @@
+{
+  "id": 993,
+  "title_jp": "トップウォー：Battle Game",
+  "title_en": "Top War: Battle Game",
+  "developer": "Topwar Studio (River Game / Rivergame)",
+  "publisher": "Topwar Studio (River Game)",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "マージ × 4X SLG（ハイブリッド・ストラテジー）",
+  "sales_jp": null,
+  "sales_world": "グローバル展開90日で1,900万DL・IAP$83M超、累計DL約4,000万（うちUS 7.8M）。2024年は四半期売上$2-3M規模で推移、2026年初時点でも月商$3M・月間DL約60万を維持（Sensor Tower / Yodo1 / Cocos 各種出典）。",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2019年中国リリース後、グローバル展開90日で累計約1,900万DL、その後累計4,000万DL超・累計IAP$83M超を記録。マージ系カジュアル要素と4X SLGを融合させ米国SLG市場の新潮流（後のLast War: Survival等のハイブリッドSLG群）を切り拓いた先駆作とされ、2024年時点でも月商$1M前後を継続している長寿タイトル。",
+  "slug": "top-war-battle-game",
+  "file": "data/games/993-top-war-battle-game.json",
+  "concept": "兵士・建物・兵器を同レベル同士で「マージ」して即座に強化できる手触りの良いカジュアル操作と、領地経営・同盟・サーバー間PvPからなる本格4X SLGを融合させた、ハイブリッドSLGのジャンル定義タイトル。長い待ち時間を排除し、ライト層を4Xの世界へ橋渡しした。",
+  "target": "放置・マージ系のテンポを好むカジュアル層から入り、同盟戦やサーバー間戦争で長期的にリソースと戦力を積み上げたい欧米中心の中重課金SLGプレイヤー。Clash of Kings / Rise of Kingdoms系の同盟戦SLG経験者と、Merge Dragons等のマージゲー出身者の両方を取り込む設計。",
+  "_source_urls": [
+    "https://www.gamerefinery.com/top-war-battle-game-a-quick-glimpse-on-the-4x-strategy-hit/",
+    "https://www.cocos.com/en/post/climbing-the-charts-worldwide-in-2020-top-war-battle-game",
+    "https://www.yodo1.com/transformers-x-top-war-phase-2-breaks-more-records/",
+    "https://sensortower.com/blog/2024-q1-ios-top-5-military%20games-revenue-us-600f8d2b241bc16eb89ce40d",
+    "https://appmagic.rocks/iphone/top-war-battle-game/1479198816/",
+    "https://play.google.com/store/apps/details?id=com.topwar.gp"
+  ]
+}

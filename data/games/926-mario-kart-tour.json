@@ -1,0 +1,33 @@
+{
+  "id": 926,
+  "title_jp": "マリオカート ツアー",
+  "title_en": "Mario Kart Tour",
+  "developer": "DeNA／任天堂",
+  "publisher": "任天堂",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "レーシング",
+  "sales_jp": "全世界DLの28%が日本（Sensor Tower累計レポート時点、約5,600万DL相当）。日本は累計収益で世界2位、シェア28%。",
+  "sales_world": "累計2億DL超 / 累計プレイヤー消費額2億ドル超（Sensor Tower 2022年6月時点）。初週9,000万DL、初月1.239億DL（任天堂モバイル史上最速）。2023年10月で新規コンテンツ追加終了後もサービス継続中。",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "配信初日2,000万・初週9,000万・98日で1.42億DLを記録し、任天堂モバイルアプリ史上最速のヒットとなった。2022年に累計2億DL／2億ドル収益を突破し、米国（37.6%）・日本（28%）・フランス（7.3%）で特に強い。2023年10月以降は新規コース／キャラ／マシン／グライダーの追加を停止したものの、サーバーは現在も稼働中で根強いユーザーが残る。",
+  "slug": "mario-kart-tour",
+  "file": "data/games/926-mario-kart-tour.json",
+  "concept": "『マリオカート』の操作を片手タップ／ドラッグに最適化したスマホ版で、世界の実在都市をモチーフにした「ツアー」が約2週間ごとに切り替わる季節制ライブサービス。ガチャ（パイプ）でドライバー／カート／グライダーを集めて相性ボーナスでスコアを稼ぎ、フレンド・世界のスコアと競う非同期ランキング型レース。後年フレンド対戦やリアルタイムマルチも追加されたが、コアループは「ガチャで強い組み合わせを揃えて高スコアを更新する」収集＋スコアアタックに置かれている。",
+  "target": "外出先の隙間時間で気軽にマリオカートを楽しみたいライト層と、コース別最適キャラを揃えてランキング上位を狙うコレクター／スコアラー。家庭用『マリオカート8 デラックス』を持っていない層、特に北米／中南米／欧州のモバイル中心ユーザーに刺さった。",
+  "_source_urls": [
+    "https://sensortower.com/blog/mario-kart-tour-200-million-downloads",
+    "https://gamesbeat.com/sensor-tower-mario-kart-tour-races-to-200m-downloads-and-200m-revenue/",
+    "https://sensortower.com/blog/mario-kart-tour-first-week",
+    "https://gamebiz.jp/news/250287",
+    "https://gamebiz.jp/news/252238",
+    "https://switchsoku.com/smartphone/92959"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 933,
+  "title_jp": "アナザーエデン 時空を超える猫",
+  "title_en": "Another Eden: The Cat Beyond Time and Space",
+  "developer": "Wright Flyer Studios",
+  "publisher": "Wright Flyer Studios (グリー)",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Switch"
+  ],
+  "genre": "RPG",
+  "sales_jp": "累計1,000万DL突破 (2021年12月時点、グローバル含む)",
+  "sales_world": "グローバル含め累計1,000万DL超 (2021年12月時点)、月次収益 ~$100k規模 (Sensor Tower 2025)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "加藤正人・光田康典という『クロノ・トリガー／クロノ・クロス』スタッフの再集結が話題を呼び、Google Play Best of 2017クリエイティブ大賞を受賞。スタミナ・PvPを排した「シングル特化JRPG」としてコアファンに長期支持され、2019年グローバル展開・2021年Steam版・2026年Switch新作『Another Eden Begins』発表と展開を広げている。",
+  "slug": "another-eden-the-cat-beyond-time-and-space",
+  "file": "data/games/933-another-eden-the-cat-beyond-time-and-space.json",
+  "concept": "スタミナ・PvP・対人要素を一切排した、加藤正人脚本×光田康典音楽による本格シングルプレイヤーJRPG。ガチャによるキャラ収集と長大なメインシナリオ（114章超）が両輪で、過去・現在・未来を行き来する時空横断ストーリーが展開する。",
+  "target": "クロノ・トリガー／クロノ・クロス／ゼノギアス世代のJRPGファン、スマホでも腰を据えてシナリオを読みたい層、ソーシャル要素のないシングル特化ガチャゲーを求めるプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Another_Eden",
+    "https://app.sensortower.com/overview/games.wfs.anothereden?country=US",
+    "https://store.steampowered.com/app/1252600/ANOTHER_EDEN/",
+    "https://automaton-media.com/en/news/another-eden-begins-was-developed-as-a-brand-new-rpg-not-just-a-port-of-the-mobile-game-says-original-series-producer/"
+  ]
+}

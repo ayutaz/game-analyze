@@ -1,0 +1,33 @@
+{
+  "id": 958,
+  "title_jp": "アルゴナビス from BanG Dream! AAside",
+  "title_en": "Argonavis from BanG Dream! AAside",
+  "developer": "DeNA",
+  "publisher": "ブシロード",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズム＋アドベンチャー（男性バンド）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年1月14日配信、約1年で2022年1月31日にサービス終了。バンドリ発の男性バンドプロジェクト初のスマホゲームとして注目を集めたが、ユーザー基盤を確立しきれず短命に終わった。",
+  "slug": "argonavis-from-bang-dream-aaside",
+  "file": "data/games/958-argonavis-from-bang-dream-aaside.json",
+  "concept": "「ARGONAVIS from BanG Dream!」発の男性バンドプロジェクトを軸にした3Dライブ採用のリズム＆アドベンチャーゲーム。アニメ後日譚として全国アマチュアバンドが頂点を競う「ライブ・ロワイヤル・フェス」を描き、ガチャによるカード収集とバンド育成、リズムゲーム周回でイベントランキングを競う非同期型ソーシャル要素を持つ。",
+  "target": "「BanG Dream!」シリーズや男性声優ユニットのファン、Argonavis / GYROAXIA / Fantôme Iris などのバンドを推す女性向けリズムゲームユーザー層。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/337787",
+    "https://www.4gamer.net/games/419/G041947/20211122064/",
+    "https://dena.com/jp/press/4687/",
+    "https://en.wikipedia.org/wiki/From_Argonavis",
+    "https://gamebiz.jp/news/418886"
+  ]
+}

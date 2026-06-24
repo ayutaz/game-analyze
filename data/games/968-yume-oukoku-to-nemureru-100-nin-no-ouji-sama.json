@@ -1,0 +1,32 @@
+{
+  "id": 968,
+  "title_jp": "夢王国と眠れる100人の王子様",
+  "title_en": "Yume Oukoku to Nemureru 100-nin no Ouji-sama",
+  "developer": "ジークレスト",
+  "publisher": "ジークレスト（GMOインターネットグループ）",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向け恋愛パズルRPG",
+  "sales_jp": "全世界1200万DL（2020年11月時点、日本含む 出典: 4Gamer/Gamer.ne.jp）",
+  "sales_world": "全世界1200万DL（2020年11月時点 出典: gamebiz/4Gamer）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2015年3月のiOS配信以来長期運営を続け、2020年11月に全世界累計1200万DLを突破。日本のほか中国・台湾香港マカオ・タイ・韓国でローカライズ展開され、2025年に10周年を迎えた女性向けパズル恋愛ゲームの代表格。",
+  "slug": "yume-oukoku-to-nemureru-100-nin-no-ouji-sama",
+  "file": "data/games/968-yume-oukoku-to-nemureru-100-nin-no-ouji-sama.json",
+  "concept": "3マッチパズルバトルと100人超の王子キャラクター収集・育成・ストーリー解放を組み合わせた女性向けRPG。「夢の世界」を舞台に眠ってしまった王子たちを目覚めさせて夢魔と戦う童話モチーフで、ガチャとイベント周回・恋愛アドベンチャー要素が両輪となる。",
+  "target": "乙女ゲーム・女性向けキャラクターコンテンツのコア層、特に中高生〜20-30代女性ユーザー。童話キャラの擬人化IPやイケメンキャラ収集、軽量パズル＋ガチャの長期運営型モバイルを好む層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A2%E7%8E%8B%E5%9B%BD%E3%81%A8%E7%9C%A0%E3%82%8C%E3%82%8B100%E4%BA%BA%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98",
+    "https://gamebiz.jp/news/281242",
+    "https://www.4gamer.net/games/279/G027961/20201112048/",
+    "https://gamebiz.jp/news/205914",
+    "https://www.gcrest.com/news/post/tag/%E5%A4%A2%E7%8E%8B%E5%9B%BD%E3%81%A8%E7%9C%A0%E3%82%8C%E3%82%8B100%E4%BA%BA%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%90"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 940,
+  "title_jp": "#コンパス 戦闘摂理解析システム",
+  "title_en": "#Compass: Combat Providence Analysis System",
+  "developer": "NHN PlayArt / ドワンゴ",
+  "publisher": "NHN PlayArt",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム3on3 MOBA",
+  "sales_jp": "累計2,000万DL超 / 過去5年（2020-2025）モバイルMOBA収益約2.4億ドル（Sensor Tower 2025）",
+  "sales_world": null,
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2016年12月配信、2020年1月に1,000万DL、2022年10月に1,700万DL、2025年時点で2,000万DLを突破。日本のモバイルMOBAジャンルで圧倒的トップシェアを誇り、過去5年間の収益はブロスタの約2倍となる2.4億ドルを記録した。",
+  "slug": "compass-combat-providence-analysis-system",
+  "file": "data/games/940-compass-combat-providence-analysis-system.json",
+  "concept": "スマホで遊べる3vs3のリアルタイムMOBA。スプリンター／アタッカー／ガンナー／タンクの4クラスに分かれたヒーローを操作し、ポータルキーの確保を競う約3分の短時間バトルに、カードによるスキル発動と豊富なボカロP／アニメコラボキャラを組み合わせた日本産MOBA。",
+  "target": "ニコニコ動画文化やボカロ／アニメコラボに親しむ10〜20代を中心としたZ世代プレイヤー、スマホでサクッと対戦したいライト〜ミドルコアMOBAファン、好きなIPのキャラを操作したいコラボ目当て層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%EF%BC%83%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9_%E6%88%A6%E9%97%98%E6%91%82%E7%90%86%E8%A7%A3%E6%9E%90%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+    "https://sensortower.com/ja/blog/compass-stand-outs-in-japan-mobile-moba",
+    "https://en.wikipedia.org/wiki/Compass_(video_game)",
+    "https://app.w3g.jp/combat-providence-analysis-system"
+  ]
+}

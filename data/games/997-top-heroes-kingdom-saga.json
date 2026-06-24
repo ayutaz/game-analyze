@@ -1,0 +1,33 @@
+{
+  "id": 997,
+  "title_jp": "トップヒーローズ：キングダムサーガ",
+  "title_en": "Top Heroes: Kingdom Saga",
+  "developer": "River Game HK Limited（中国）",
+  "publisher": "River Game",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "4X SLG / Idle Card Hybrid（ストラテジーRPG）",
+  "sales_jp": null,
+  "sales_world": "全世界5,000万DL超、2024年海外売上1億ドル超（AppMagic）、2025年上半期収益$107.3M（Sensor Tower）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2024年に海外売上1億ドルを突破し、2025年上半期だけで$107.3Mを稼いだ4X SLGのダークホース。Last War / Whiteout Survivalと並ぶ「アイドルカード×4X」融合ジャンルの代表格としてグローバルチャート上位を維持している。",
+  "slug": "top-heroes-kingdom-saga",
+  "file": "data/games/997-top-heroes-kingdom-saga.json",
+  "concept": "領地建設・英雄編成・同盟戦からなる伝統的なモバイル4X SLGに、放置収集・カードガチャ要素を融合したハイブリッド。短時間のアイドルRPGループで進行し、終盤は同盟非同期PvPで競う構造で「軽い手触りの4X」として参入障壁を下げた点が差別化要因。",
+  "target": "Rise of Kingdoms / Top War / Whiteout Survival等の本格4X SLGを長時間遊ぶのは重いが、ヒーロー収集と放置進行で気軽に楽しみたい中課金〜廃課金層。30〜40代男性中心のグローバル市場（北米・欧州・東南アジア）。",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/top-heroes-kingdom-saga/id6450953550",
+    "https://www.rivergame.net/topheroes/en/home.html",
+    "https://www.pocketgamer.biz/the-top-grossing-mobile-games-of-2025/",
+    "https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-october-2025",
+    "https://longportapp.com/en/news/225809519"
+  ]
+}

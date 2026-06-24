@@ -1,0 +1,33 @@
+{
+  "id": 957,
+  "title_jp": "千銃士:Rhodoknight",
+  "title_en": "Senjushi: Rhodoknight (The Thousand Noble Musketeers: Rhodoknight)",
+  "developer": "マーベラス",
+  "publisher": "マーベラス",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "貴銃士育成RPG（女性向け擬人化）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "前作『千銃士』ファン層を引き継いだ女性向け擬人化IPの続編アプリ。2021年11月24日のリリースから約2年5ヶ月で2024年4月4日にサービス終了し、ストーリー未完のままクローズしたものの、Switch移植版『千銃士 Rhodoknight』として2026年2月に完結編が発売される異例の救済展開で再注目を集めた。",
+  "slug": "senjushi-rhodoknight",
+  "file": "data/games/957-senjushi-rhodoknight.json",
+  "concept": "名銃が人の姿を得た「貴銃士」を士官学校生徒の主人公が呼び覚まし、共に戦い育成する女性向け擬人化育成RPG。ガチャによる貴銃士獲得、絆深め、ストーリー消費を組み合わせた長期運営型のソーシャルゲームとして設計された。",
+  "target": "前作『千銃士』からの女性ファン層と、擬人化キャラ×イケメン男性声優陣の関係性を楽しむ女性向けソーシャルゲームユーザー。ガチャ収集と推しキャラ育成、シナリオ追体験を両立したい層。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/382662",
+    "https://www.4gamer.net/games/497/G049771/20240304037/",
+    "https://www.famitsu.com/article/202410/21120",
+    "https://news-rose.marv.jp/article/24166",
+    "https://www.animenewsnetwork.com/news/2024-03-05/the-thousand-noble-musketeers-rhodoknight-game-ends-service/.208320",
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E9%8A%83%E5%A3%AB"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 967,
+  "title_jp": "文豪とアルケミスト",
+  "title_en": "Bungo to Alchemist",
+  "developer": "EXNOA (DMM GAMES)",
+  "publisher": "DMM GAMES",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "育成シミュレーション（女性向け文豪擬人化）",
+  "sales_jp": "累計登録ユーザー160万超（DMM公式発表）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2016年ブラウザ版・2017年スマホ版配信の女性向け文豪擬人化育成ゲームで、累計登録ユーザー160万人超。舞台化・2020年TVアニメ化・小説化等のメディアミックスで長期運営を継続している。",
+  "slug": "bungo-to-alchemist",
+  "file": "data/games/967-bungo-to-alchemist.json",
+  "concept": "夏目漱石・宮沢賢治など実在の文豪を「アルケミスト」が転生させ、潜書システムで獲得・育成し、文学作品を侵蝕する敵「侵蝕者」と戦う刀剣乱舞型の女性向け擬人化ガチャ育成RPG。文豪同士の組み合わせや作品傾向に応じた育成・収集が中核ループ。",
+  "target": "乙女ゲーム／女性向け擬人化IP（刀剣乱舞・あんスタ等）を好む10代後半〜30代女性層。文学・近代文豪・青空文庫に親和性のある読書好きユーザーを新規開拓した点が特徴。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%96%87%E8%B1%AA%E3%81%A8%E3%82%A2%E3%83%AB%E3%82%B1%E3%83%9F%E3%82%B9%E3%83%88",
+    "https://bungo.dmmgames.com/",
+    "https://play.google.com/store/apps/details?id=com.dmmgames.bunal",
+    "https://en.wikipedia.org/wiki/Bungo_and_Alchemist"
+  ]
+}

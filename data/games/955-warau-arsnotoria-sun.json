@@ -1,0 +1,34 @@
+{
+  "id": 955,
+  "title_jp": "咲うアルスノトリア すんっ！",
+  "title_en": "Warau Arsnotoria Sun!",
+  "developer": "NextNinja",
+  "publisher": "グッドスマイルカンパニー",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "美少女育成RPG",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "ニトロプラス20周年記念タイトルとして2021年3月配信、2022年7-9月にLIDENFILMS制作でTVアニメ化されメディアミックス展開したが、ガチャの渋さや収益面の課題から2023年3月31日にサービス終了（運営期間約2年）。",
+  "slug": "warau-arsnotoria-sun",
+  "file": "data/games/955-warau-arsnotoria-sun.json",
+  "concept": "ニトロプラス×グッスマ×NextNinjaの三社共同プロジェクト。中世魔法書「アルス・ノトリア」をモチーフに、魔法学園で学ぶ五芒星の少女たち（ペンタグラム）を育成・編成し、オートバトル＋スキル指示のリアルタイム戦闘で進めるシジル（装備）ガチャ型RPG。",
+  "target": "ニトロプラス系の重厚な世界観と可憐な美少女ビジュアルのギャップを楽しみたい層、虚淵玄ら原作スタッフのファン、キャラ育成・収集系モバイルRPGプレイヤー。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%92%B2%E3%81%86_%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%8E%E3%83%88%E3%83%AA%E3%82%A2",
+    "https://gamebiz.jp/news/359052",
+    "https://www.4gamer.net/games/476/G047628/20221031046/",
+    "https://dengekionline.com/articles/156621/",
+    "https://www.arsnotoria.jp/",
+    "https://dengekionline.com/articles/71129/",
+    "https://altema.jp/arsnotoria/"
+  ]
+}

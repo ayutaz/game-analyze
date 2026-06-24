@@ -1,0 +1,31 @@
+{
+  "id": 979,
+  "title_jp": "ラグナロクM：Eternal Love",
+  "title_en": "Ragnarok M: Eternal Love",
+  "developer": "XINDONG / Dream Square",
+  "publisher": "Gravity (グローバル) / Tencent (中国)",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "クラシックMMORPG",
+  "sales_jp": null,
+  "sales_world": "累計2,400万DL、30ヶ国でApp Store/Google Play売上1位。Gravity Q4 2018売上を$94.5Mに押し上げ、ピーク時月商$50M（東南アジア単体、PocketGamer.biz / Seeking Alpha 2019）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2018年10月31日の東南アジア同時公開で初週270万DL超を記録し、タイ・インドネシア・フィリピン・シンガポールなど30ヶ国でストア売上1位を獲得。ピーク時には東南アジア単独で月商$50Mに達し、親会社Gravityの四半期売上を$94.5Mまで押し上げた。",
+  "slug": "ragnarok-m-eternal-love",
+  "file": "data/games/979-ragnarok-m-eternal-love.json",
+  "concept": "PC版『ラグナロクオンライン』の世界観・キャラ・BGMをモバイル向けに3D化したクラシック志向のMMORPG。ジョブ育成・カード収集・ペット・ギルド戦・ミニライフ要素（料理・釣り）を詰め込み、原作ファンの郷愁とモバイル世代の手軽さを両立した「ガチャ＋育成＋装備強化」中心の長期運営型RPG。",
+  "target": "PC版ラグナロクオンライン世代の懐古層と、東南アジア・台湾・香港を中心とした若年MMORPGプレイヤー。コミュニティとギルド活動を楽しみたい層向け。",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/asia/interview/71542/southeast-asia-powered-gravitys-ragnarok-m-to-50-million-a-month/",
+    "https://seekingalpha.com/article/4249731-gravity-co-ltd-q4-2018-was-a-record-quarter-still-the-best-is-yet-to-come",
+    "https://www.globenewswire.com/news-release/2018/11/06/1645929/0/en/Ragnarok-M-Eternal-Love-marks-No-1-on-Google-Play-in-Three-Countries-followed-by-Apple-Store.html",
+    "https://app.famitsu.com/20190513_1453062/"
+  ]
+}

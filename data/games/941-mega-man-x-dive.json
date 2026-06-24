@@ -1,0 +1,33 @@
+{
+  "id": 941,
+  "title_jp": "ロックマンX DiVE",
+  "title_en": "Mega Man X DiVE",
+  "developer": "カプコン台湾",
+  "publisher": "カプコン",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "事前登録10万超、日本配信直後にApp Store売上ランキング40位→28位まで上昇（gamebiz 2020）",
+  "sales_world": "サービス期間中にカプコンモバイル売上を約47億円（約US$45M）押し上げたと報告（2021年度）。2023年9月にアジア・日本版終了、2024年7月に北米欧州版終了",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "ロックマンXシリーズ初の本格モバイル展開として注目を集め、リリース直後にApp Store売上ランキング上位に食い込み、Sクラスキャラ「オメガ」追加時にもトップ30入り。約3年でオンライン版はサービス終了し、買い切り型のオフライン版（Steam/iOS/Android）に移行した。",
+  "slug": "mega-man-x-dive",
+  "file": "data/games/941-mega-man-x-dive.json",
+  "concept": "歴代ロックマンシリーズの100体超のキャラを収集・育成し、900以上のステージを攻略するガチャ型アクションRPG。横スクロールに加え全方向シューティング視点も持ち、ハンタープログラム（キャラ）と武器ガチャ、PvP・協力レイドも実装した多機能モバイルタイトル。",
+  "target": "ロックマン/ロックマンXシリーズの長年のファンと、キャラ収集・武器ガチャを楽しみたいモバイルアクション好き。歴代ボスやヒロインのifコラボを愛でるノスタルジー層が中心。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3X_DiVE",
+    "https://www.famitsu.com/news/202306/07305221.html",
+    "https://gamebiz.jp/news/279812",
+    "https://gamebiz.jp/news/283453",
+    "https://www.4gamer.net/games/470/G047075/20230613011/",
+    "https://en.wikipedia.org/wiki/Mega_Man_X_Dive"
+  ]
+}

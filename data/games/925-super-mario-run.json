@@ -1,0 +1,32 @@
+{
+  "id": 925,
+  "title_jp": "スーパーマリオラン",
+  "title_en": "Super Mario Run",
+  "developer": "任天堂",
+  "publisher": "任天堂",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションランナー",
+  "sales_jp": "国内DL約2,000万（全世界の約10%、Nintendo 2017年10月時点）",
+  "sales_world": "全世界DL3.8億超、累計収益約$96.6M（Sensor Tower 2024年時点）。発売4日で4,000万DL、2017年10月までに2億DL突破。",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2016年12月のiOS配信初日にポケモンGOを超える285万DLを記録し、4日で4,000万DLという史上最速ペースを達成。最終的に全世界3.8億DL超を獲得した任天堂初の本格スマホゲームだが、買い切り$9.99モデルが課金文化と噛み合わず、収益面では任天堂が「許容できる利益水準には達していない」と公言した作品でもある。",
+  "slug": "super-mario-run",
+  "file": "data/games/925-super-mario-run.json",
+  "concept": "マリオが自動で右に走り続け、タップだけでジャンプ・空中アクションを操る片手プレイ特化のオートランナー。買い切り型（前半無料／フル解除$9.99）でガチャを排し、ワールドツアー／キノピオラリー／リミックス10など複数モードで他プレイヤーのスコアやキノピオ獲得を非同期で競う設計。",
+  "target": "スマホで手軽にマリオを遊びたいライト層と、課金ガチャに疲れたコンソールゲーマー。片手・短時間プレイ可能でファミリーにも訴求するが、買い切り価格設定からコア寄りのマリオファンが中心購買層となった。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Mario_Run",
+    "https://sensortower.com/blog/super-mario-run-60-million-revenue",
+    "https://www.gamespot.com/articles/super-mario-run-hits-200-million-downloads-but-nin/1100-6454506/",
+    "https://www.nintendolife.com/news/2017/10/super_mario_run_passes_200_million_downloads_as_nintendo_seeks_mobile_success",
+    "https://sensortower.com/blog/super-mario-run-first-day"
+  ]
+}

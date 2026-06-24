@@ -1,0 +1,34 @@
+{
+  "id": 977,
+  "title_jp": "AFKアリーナ",
+  "title_en": "AFK Arena",
+  "developer": "Lilith Games",
+  "publisher": "Lilith Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "放置型ターンベース編成RPG",
+  "sales_jp": "日本年間売上 約13.26億円(2022) → 9.43億円(2023)。2020年7月リリース直後にApp Storeセールス最高8位",
+  "sales_world": "全世界DL4500万+ / 累計課金15億ドル超(中国32%) / 2020年1月単月105.4M USD / AFKシリーズ後継のJourneyも$185M超",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2019年グローバル配信開始から放置RPGブームを牽引し、累計DL4500万・累計課金15億ドル超を記録した代表作。2020年7月の日本配信時もApp Store無料1位を1週間維持、セールス最高8位の大ヒットとなった。",
+  "slug": "afk-arena",
+  "file": "data/games/977-afk-arena.json",
+  "concept": "放置中も自動戦闘でアイテムと経験値が貯まり続ける「放置型」を主軸に、英雄ガチャ・編成・属性相性・装備強化・ギルド戦・タワー攻略を組み合わせた、手軽さと収集の中毒性を両立したファンタジーRPG。",
+  "target": "英雄収集と編成パズルを楽しみたいライト〜ミドル層、毎日短時間で報酬を回収しながら長期的にキャラを育てたいモバイルRPGプレイヤー。",
+  "_source_urls": [
+    "https://sensortower.com/blog/august-2024-mobile-gaming-recap",
+    "https://app.sensortower.com/overview/com.lilithgame.hgame.gp?country=US",
+    "https://gamebiz.jp/news/270876",
+    "https://gamebiz.jp/news/270368",
+    "https://app.w3g.jp/afk-arena",
+    "https://afk-jp.lilith.com/"
+  ]
+}

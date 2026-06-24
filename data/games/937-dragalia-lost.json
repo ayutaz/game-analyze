@@ -1,0 +1,33 @@
+{
+  "id": 937,
+  "title_jp": "ドラガリアロスト",
+  "title_en": "Dragalia Lost",
+  "developer": "Cygames",
+  "publisher": "任天堂 / Cygames",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "初月売上 約40億円規模、全世界収益の約半数を日本が占める（任天堂IR / Sensor Tower）",
+  "sales_world": "全世界DL 約420万、累計収益 約1.662億ドル（Sensor Tower 2022 サ終時点集計）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "任天堂とCygamesの初共同開発タイトルとして2018年9月に日米台港澳で配信、初月推定収益$28M・1年で$106M・累計$166M超を稼ぎ任天堂モバイル第3位の収益作品となったが、2022年11月にサービス終了した。",
+  "slug": "dragalia-lost",
+  "file": "data/games/937-dragalia-lost.json",
+  "concept": "竜と契約した王子と仲間がリアルタイム4人協力で挑むタクティカルアクションRPG。ガチャで竜と従者（アダベンチャラー）を集め、レイドイベント周回と装備強化で編成を磨き上げる、Cygames流ハイクオリティ運営型モバイルRPG。",
+  "target": "グラブル／プリコネRファンと、Nintendo IPに親和性のあるコンシューマ寄りプレイヤー層。スマホで本格アクションRPGとガチャ収集を両立したいユーザーに向けた、海外（特に北米）も同時展開のグローバルガチャゲー受容層。",
+  "_source_urls": [
+    "https://sensortower.com/blog/dragalia-lost-revenue-100-million",
+    "https://mobilegamer.biz/nintendo-to-close-dragalia-lost-after-4-2m-installs-and-166-2m-in-revenue/",
+    "https://sensortower.com/blog/dragalia-lost-fires-up-106-million-in-its-first-year",
+    "https://support.nintendo.com/jp/information/2022/0830.html",
+    "https://gamebiz.jp/news/223519"
+  ]
+}

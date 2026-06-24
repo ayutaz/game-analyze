@@ -1,0 +1,32 @@
+{
+  "id": 976,
+  "title_jp": "モバイル・レジェンド:Bang Bang",
+  "title_en": "Mobile Legends: Bang Bang",
+  "developer": "Moonton (上海月光、ByteDance傘下)",
+  "publisher": "Moonton",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "5v5モバイルMOBA",
+  "sales_jp": "日本では正式サービス未展開で配信規模は限定的、公開数値なし",
+  "sales_world": "累計DL15億超、MAU110M超(Moonton 2025公表)、2024年年間IAP $194.99M / 2025年 $158.2M (Sensor Tower)、2025年6月単月8.3M DL(モバイルMOBA世界1位)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2025年時点でMAU110M超、累計DL15億超、139ヶ国展開でグローバル最大級のモバイルMOBA。MPLは2024年に視聴時間累計10億時間突破でLoL Worldsを上回り、東南アジア(フィリピン・インドネシア・マレーシア)では国民的esportsとして圧倒的シェアを誇る。",
+  "slug": "mobile-legends-bang-bang",
+  "file": "data/games/976-mobile-legends-bang-bang.json",
+  "concept": "スマホで手軽に遊べる5v5の本格MOBA。10分前後の短時間マッチと簡素化された操作で、PC MOBA(LoL/Dota2)の競技体験をモバイルに最適化。150種超のヒーローと頻繁なコラボ(Hunter×Hunter等)で長期運営している。",
+  "target": "PC環境やスペックの高い端末を持たない東南アジア・中東・中南米のモバイルゲーマー、競技性のあるチーム対戦を求めるプレイヤー、ローカルesportsシーンを応援する観戦層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mobile_Legends:_Bang_Bang",
+    "https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-may-2025",
+    "https://esportsinsider.com/2025/12/mlbb-esports-2025-key-moments-of-the-year",
+    "https://www.prnewswire.com/news-releases/mobile-legends-bang-bang-charts-global-ambitions-with-five-region-esports-overhaul-m8-world-championship-breaks-ground-in-turkiye-and-thailand-302672193.html",
+    "https://coopboardgames.com/online-gaming/mobile-legends-bang-bang/"
+  ]
+}

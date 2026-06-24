@@ -1,0 +1,34 @@
+{
+  "id": 972,
+  "title_jp": "無期迷途",
+  "title_en": "Path to Nowhere",
+  "developer": "AISNO Games",
+  "publisher": "AISNO Games",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイムタワーディフェンスSRPG × キャラガチャ",
+  "sales_jp": null,
+  "sales_world": "グローバル事前登録200万超、配信3日で100万DL突破、Google Play 500万+DL（2024年時点）。具体的な累計収益は非公開だがGACHAREVENUE上位常連。",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2022年10月27日にグローバル配信、事前登録200万・配信3日で100万DL超を記録し、Google Play 500万DL+に到達。GACHAREVENUEの売上ランキング上位常連で、アークナイツの後継的ダーク戦略RPGとしてSNSで「Sinner」キャラ人気が定着している。",
+  "slug": "path-to-nowhere",
+  "file": "data/games/972-path-to-nowhere.json",
+  "concept": "プレイヤーは特殊機関MBCCの長官として、暴走した「Sinner」たちを鎖で束ねながらリアルタイムTDで指揮するダーク戦略RPG。キャラはガチャで獲得・育成し、社会派ディストピアの物語と組み合わさる。",
+  "target": "アークナイツ的なリアルタイムTD×ガチャを好み、ダークでスタイリッシュなキャラデザと社会派ストーリーに惹かれる中〜重課金層のスマホゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Path_to_Nowhere",
+    "https://news.qoo-app.com/en/post/124222/path-to-nowhere-launch-oct-27",
+    "https://www.kongbakpao.com/path-to-nowhere-global-release-now-live/",
+    "https://revenue.ennead.cc/revenue",
+    "https://sakuranbochan.com/muki_review/",
+    "https://ptn.aisnogames.com/"
+  ]
+}

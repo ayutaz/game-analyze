@@ -1,0 +1,33 @@
+{
+  "id": 971,
+  "title_jp": "スノウブレイク：禁域降臨",
+  "title_en": "Snowbreak: Containment Zone",
+  "developer": "Seasun Games (Kingsoft傘下)",
+  "publisher": "Seasun Games (Amazing Seasun Games)",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "TPSアクションRPG × キャラガチャ",
+  "sales_jp": null,
+  "sales_world": "iOS単体累計収益 1,000万ドル超 (Sensor Tower 2024年8月時点)、事前登録250万超、PC・iOS・Androidクロスプレイ対応",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2023年7月20日にPC・iOS・Androidで同時グローバル公開され、事前登録250万を突破。Sensor TowerによればiOS単体で累計1,000万ドル超を売上げ、原神系3DアクションRPG市場の代替として一定の固定ファン層を獲得。2026年現在も2.5周年「時の還り人」アップデートで運営継続中。",
+  "slug": "snowbreak-containment-zone",
+  "file": "data/games/971-snowbreak-containment-zone.json",
+  "concept": "Unreal Engine 4製のセクシー美少女×SF世界観TPSアクションRPG。キャラガチャと武器ガチャでオペレーター（女性キャラ）を集め、三人称シューティング操作で銃撃・スキル・コンボを織り交ぜたPvEミッションを周回する。ピックアップ排出率0.7%／80連天井のガチャ設計で、ビルド育成と限定キャラ獲得が主動機。",
+  "target": "原神・鳴潮など3DアクションRPGガチャに慣れた層、特にTPS操作とセクシー寄りキャラデザインを好む18歳以上の中〜重課金プレイヤー。クロスプレイでPCの精密エイムとモバイルの手軽さを両立したいユーザー。",
+  "_source_urls": [
+    "https://app.sensortower.com/news-feed/snowbreak-containment-zone-hits-10m-all-time-revenue-on-ios/66cbe66ad9e252113d1f4871",
+    "https://store.steampowered.com/app/2668080/Snowbreak_Containment_Zone/",
+    "https://snowbreak.amazingseasun.com/",
+    "https://automaton-media.com/articles/newsjp/snowbreak-20260129-413947/",
+    "https://wikiwiki.jp/snowbreak/FAQ"
+  ]
+}

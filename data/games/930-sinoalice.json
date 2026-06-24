@@ -1,0 +1,33 @@
+{
+  "id": 930,
+  "title_jp": "SINoALICE -シノアリス-",
+  "title_en": "SINoALICE",
+  "developer": "ポケラボ",
+  "publisher": "スクウェア・エニックス",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ダークファンタジーRPG（ガチャ）",
+  "sales_jp": "国内ユーザー数500万人突破 (2019年7月時点)",
+  "sales_world": "全世界累計収益 約3.4億ドル超 (Sensor Tower / GamerBraves 2023年9月時点)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "ヨコオタロウディレクションのダークファンタジーガチャRPG。2017年6月配信、Social Game Info年間ヒット作1位を獲得し、国内500万DL・全世界累計収益3.4億ドル超を記録した。日本版は2024年1月、グローバル版は2023年11月にサービス終了。",
+  "slug": "sinoalice",
+  "file": "data/games/930-sinoalice.json",
+  "concept": "童話のキャラクター達が「自身の物語の作者の復活」を願い殺し合うダークファンタジー。武器を組み合わせた装備ビルドと、ギルド対抗のリアルタイム協力＆ランキング戦「コロシアム」が中核を成すガチャRPG。",
+  "target": "ヨコオタロウ作品（NieR等）のダークな世界観を好む層、童話モチーフのキャラクターを集めて育てたいガチャRPGユーザー、ギルド戦による非同期協力・対抗を楽しむモバイル層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%B9",
+    "https://en.wikipedia.org/wiki/SINoALICE",
+    "https://gamebiz.jp/news/376415",
+    "https://gamebiz.jp/news/380752",
+    "https://www.gamerbraves.com/sinoalice-global-announces-end-of-service-this-november/",
+    "https://www.pocketgamer.biz/news/82308/square-enixs-sinoalice-global-will-reach-end-of-service-this-november/"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 935,
+  "title_jp": "PUBG MOBILE",
+  "title_en": "PUBG Mobile",
+  "developer": "Tencent LightSpeed & Quantum Studio",
+  "publisher": "Tencent Games (日本配信: PUBG Corp.)",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤルTPS",
+  "sales_jp": "国内2,000万DL突破 (2021年11月時点、PUBG MOBILE公式)",
+  "sales_world": "全世界DL 10億超 (2021)、累計モバイル収益 100億ドル超 (Sensor Tower 2024、Game for Peace含む)、2024年単年で国際版1.1B USD・101M DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2018年5月16日に日本配信開始、24時間で150万DL・App Store/Google Play無料1位を獲得し、同年8月までに国内500万DL、2021年11月までに2,000万DLを達成。世界では2021年に10億DLを突破し、累計収益は中国版Game for Peaceを含めて100億ドル超（Sensor Tower 2024）に到達したモバイルバトロワの代表格。",
+  "slug": "pubg-mobile",
+  "file": "data/games/935-pubg-mobile.json",
+  "concept": "最大100人が孤島に降下し、収縮する安全エリア内で武器と物資を奪い合い最後の1人/1チームを目指す、PC版PUBGをスマホ向けに最適化したバトルロイヤルTPS。タッチ操作でも遊べる射撃UIとマッチング軽量化により、モバイル市場でバトロワを定着させた。",
+  "target": "スマホで対戦シューターを遊びたい10〜30代のFPS/TPSユーザー、PC版PUBGやFortniteのモバイル代替を求めるカジュアル〜中堅プレイヤー、友人とスクワッドでボイスチャットしながら遊ぶ層。",
+  "_source_urls": [
+    "https://app.famitsu.com/20180518_1294992/",
+    "https://prtimes.jp/main/html/rd/p/000000023.000033688.html",
+    "https://www.4gamer.net/games/402/G040281/20210430123/",
+    "https://www.businessofapps.com/data/pubg-mobile-statistics/",
+    "https://www.gamelight.io/news/pubg-mobile-tops-$10-billion-in-revenue"
+  ]
+}

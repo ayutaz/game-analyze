@@ -1,0 +1,34 @@
+{
+  "id": 946,
+  "title_jp": "うたの☆プリンスさまっ♪ LIVE EMOTION",
+  "title_en": "Uta no Prince-sama Shining Live Emotion",
+  "developer": "ブロッコリー",
+  "publisher": "ブロッコリー",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズムアクション（女性向け男性アイドル）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2023年12月にサ終した『Shining Live』の後継として2024年6月12日に正式リリース。池袋駅でのリリース記念広告やテーマソングCDなど大規模プロモーションが展開され、ST☆RISH/QUARTET NIGHT/HE★VENS計18名のキャストを擁する『うたプリ』IPの最新モバイル展開として女性向けリズム/アイドル市場で安定したファンベースを維持している。",
+  "slug": "uta-no-prince-sama-shining-live-emotion",
+  "file": "data/games/946-uta-no-prince-sama-shining-live-emotion.json",
+  "concept": "3Dで動く18名のアイドルのライブMVを鑑賞しながらリズムを刻み、衣装変更・ガチャによるカード収集と個別ストーリーで推し活を深める女性向けアイドル育成リズムゲーム。本編／個別／イベントの多層ストーリーと、振付を考える仕草まで描写した3Dライブが軸。",
+  "target": "『うたプリ』シリーズの長期ファン層（20代-30代女性中心）と、前作『Shining Live』からの継続ユーザー、ST☆RISH/QUARTET NIGHT/HE★VENSの推しキャラを擁する女性向けアイドルコンテンツ愛好層。",
+  "_source_urls": [
+    "https://www.utapri.com/app/live_emotion/",
+    "https://news.denfaminicogamer.jp/news/2406122f",
+    "https://app.famitsu.com/20240612_2245138/",
+    "https://digitalpr.jp/r_detail.php?release_id=89227",
+    "https://gamebiz.jp/news/387598",
+    "https://play.google.com/store/apps/details?id=jp.co.broccoli.utapri.liveemotion"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 994,
+  "title_jp": "陰陽師アリーナ",
+  "title_en": "Onmyoji Arena",
+  "developer": "NetEase",
+  "publisher": "NetEase Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "5v5モバイルMOBA（陰陽師IP）",
+  "sales_jp": null,
+  "sales_world": "全世界DL約930万、直近30日DL約2.6万・米Google Play月間収益約$30K（Sensor Tower 2024）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2018年に中国発でグローバル展開した陰陽師IPの5v5 MOBA。Honor of KingsやMobile Legendsの牙城には食い込めず累計DLは1000万未満だが、ルーンフリー設計と和風美術で固定ファン層を獲得しているニッチ作品。",
+  "slug": "onmyoji-arena",
+  "file": "data/games/994-onmyoji-arena.json",
+  "concept": "人気RPG『陰陽師』の式神たちを操作キャラとして再構成した5v5モバイルMOBA。従来MOBAのルーンシステムを廃した「陰陽道」システムによりキャラ性能をフラット化し、操作と戦術判断で勝敗が決まる対戦体験を提供する。",
+  "target": "陰陽師IPファンと、Honor of Kings/MLBBより手軽でキャラ課金パワー差の小さいモバイルMOBAを求める東アジア中心のPvPプレイヤー層。",
+  "_source_urls": [
+    "https://sensortower.com/blog/2024-q1-ios-top-5-moba-revenue-au-6040a6f5241bc16eb8a537f2",
+    "https://app.sensortower.com/overview/com.netease.g78na.gb?country=US",
+    "https://apps.apple.com/jp/app/onmyoji-arena/id1343073274",
+    "https://www.onmyojiarena.us/"
+  ]
+}

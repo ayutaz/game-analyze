@@ -1,0 +1,33 @@
+{
+  "id": 953,
+  "title_jp": "D4DJ Groovy Mix（グルミク）",
+  "title_en": "D4DJ Groovy Mix",
+  "developer": "Donuts",
+  "publisher": "ブシロード / Donuts",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "DJリズムゲーム",
+  "sales_jp": "配信1ヶ月で777,777DL突破（2020年11月）、App Storeゲーム売上ランキング最高11位",
+  "sales_world": "グローバル版（EN/繁体字中文）含む多言語展開。繁体字版は2024/5/25にサ終",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "ブシロード発のメディアミックス「D4DJ」を支える基幹アプリで、配信1ヶ月で777,777DLを達成しApp Storeゲーム売上11位を記録。2026年時点で5.5周年を迎え、累計900曲超を擁する大型DJリズムゲームとして運営継続中（2024年にIP・運営権がブシロードからDONUTSへ移管）。",
+  "slug": "d4dj-groovy-mix",
+  "file": "data/games/953-d4dj-groovy-mix.json",
+  "concept": "少女たちのDJユニットを描くアドベンチャーパートと、オリジナル曲・アニソン・ボカロ・J-POPカバーを繋ぐメドレー形式リズムゲームを融合。星4・SPメンバーをガチャで集めて編成しイベントランキングを走る、典型的なキャラクター運営型音ゲー。",
+  "target": "D4DJアニメ・声優ユニットのファン、女性キャラクター×音楽IPに親しむ層、バンドリ／プロセカに次ぐ第三のキャラ音ゲーを求めるリズムゲームプレイヤー。",
+  "_source_urls": [
+    "https://www.4gamer.net/games/456/G045645/20201124051/",
+    "https://d4dj.fandom.com/wiki/D4DJ_Groovy_Mix",
+    "https://en.wikipedia.org/wiki/D4DJ",
+    "https://d4dj-groovymix.jp/",
+    "https://www.donuts.ne.jp/products/games/news/251229_d4dj_2026newyear/"
+  ]
+}

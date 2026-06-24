@@ -1,0 +1,33 @@
+{
+  "id": 975,
+  "title_jp": "崩壊3rd",
+  "title_en": "Honkai Impact 3rd",
+  "developer": "miHoYo",
+  "publisher": "miHoYo / HoYoverse (Cognosphere)",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC (Windows)",
+    "macOS"
+  ],
+  "genre": "3Dハイスピードアクション × キャラガチャRPG",
+  "sales_jp": "日本リリース11日で100万DL突破 (2017/02 リリース)",
+  "sales_world": "2018/03時点で全世界累計3500万DL、2017/06時点で登録2200万・累計収益11億元超、累計モバイル収益10億ドル超 (Sensor Tower 2024)",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "中国2016/10リリース後、日本・グローバルへ展開しmiHoYo初の世界的ヒットとなったハイエンド3Dアクションガチャ。原神以前のmiHoYo主力IPとして長期運営され、2024年には「Part 2」でオープンワールド要素を導入し再活性化した。",
+  "slug": "honkai-impact-3rd",
+  "file": "data/games/975-honkai-impact-3rd.json",
+  "concept": "最大3名のヴァルキリー（女性キャラ）をリアルタイムに切り替えながら戦う爽快な3Dハック＆スラッシュアクションに、キャラ・装備（聖痕）ガチャと豊富な周回イベントを組み合わせた基本無料モバイルRPG。ストーリーも長期にわたり展開され、Honkaiユニバースの中核を成す。",
+  "target": "スタイリッシュな美少女キャラを操る高難度アクションを求める中高生〜30代のアニメ・モバイルゲーマー層、特にキャラ性能・コスチューム・聖痕コンプを楽しむヘビーガチャ層と、原神以前からのmiHoYo IPファン。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Honkai_Impact_3rd",
+    "https://app.sensortower.com/news-feed/honkai-impact-3rd-has-a-major-update-leading-to-a-surge-in-revenue/65e69d8e0f34dd24c11b33b6",
+    "https://revenue.ennead.cc/games/honkai-impact"
+  ]
+}

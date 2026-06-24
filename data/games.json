@@ -1,7 +1,7 @@
 {
   "meta": {
     "generated": "2026-06-23",
-    "total_titles": 917,
+    "total_titles": 1025,
     "categories": {
       "EXP": "体験型 — gameplay-driven, especially with social interaction",
       "NAR": "物語型 — narrative-driven",
@@ -26,8 +26,8 @@
       "https://kamigame.jp/gaming/35459.html"
     ],
     "primary_breakdown": {
-      "EXP": 689,
-      "REW": 103,
+      "EXP": 705,
+      "REW": 195,
       "NAR": 125
     }
   },
@@ -21241,6 +21241,3433 @@
       "concept": "Edge of Eternity の世界 Heryon を継ぐ姉妹作。主人公 Eline がパーティーメンバー Ysoris・Kanta と協力し、世界を蝕む「コラプション（腐食）」を断つため自らその力を制御する旅に出るアクションJRPG。",
       "target": "クロノ・クロス／聖剣伝説／ゼノブレイド系の色鮮やかな世界観と、現代アクションRPGの手触りを両立した中規模 JRPG を求める欧米・日本のJRPGファン。",
       "slug": "edge-of-memories"
+    },
+    {
+      "id": 918,
+      "title_jp": "FFBE幻影戦争 WAR OF THE VISIONS",
+      "title_en": "War of the Visions: Final Fantasy Brave Exvius",
+      "developer": "gumi",
+      "publisher": "スクウェア・エニックス",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "シミュレーションRPG",
+      "sales_jp": "2023年売上 約25.04億円(前年比-70%, game-i推計)、2019-2022年累計で数百億円規模",
+      "sales_world": "全世界累計2,400万DL超(2023年8月時点, スクウェア・エニックス公式)",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2019年11月14日に日本配信、当日App Store売上ランキング20位を獲得。2023年8月時点で全世界累計2,400万DLを突破。ただし2023年の日本売上は約25億円と前年比70%減で右肩下がりが続き、グローバル版は2025年5月29日、日本版は2026年5月28日にサービス終了予定。",
+      "slug": "war-of-the-visions-final-fantasy-brave-exvius",
+      "concept": "FFBE世界観を継承し、FFTactics系のクォータービュー戦術SRPG戦闘に、キャラ／ビジョンカードのガチャ収集と育成を組み合わせたモバイル本格SRPG。PvPアリーナとギルドバトルで非同期の競争要素も持つ。",
+      "target": "FFタクティクス／FFBE経験者で本格戦術SRPGをスマホで遊びたい層、ガチャでFFキャラを集めて育成・編成最適化を楽しみたいFFファン。",
+      "_source_urls": [
+        "https://app.w3g.jp/wotv_ffbe",
+        "https://www.pocketgamer.biz/square-enix-to-shut-down-war-of-the-visions-final-fantasy-brave-exvius-after-five-years/",
+        "https://www.siliconera.com/war-of-the-visions-final-fantasy-brave-exvius-shutting-down/",
+        "https://gamebiz.jp/news/273343",
+        "https://play.google.com/store/apps/details?id=com.square_enix.WOTVffbejp"
+      ]
+    },
+    {
+      "id": 919,
+      "title_jp": "ロマンシング サガ リ・ユニバース",
+      "title_en": "Romancing SaGa Re;univerSe",
+      "developer": "アカツキ",
+      "publisher": "スクウェア・エニックス",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "RPG",
+      "sales_jp": "2022年売上71.3億円、2023年売上64.3億円 (game-i.daa.jp 推計)、累計3,000万DL (2023年9月、アカツキゲームス公式)",
+      "sales_world": "2019年年間収益約1億5,000万ドル (Sensor Tower 2019)、スクエニ FY2020 モバイル/ブラウザ収益約996百万ドルの主力タイトル",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2018年12月配信、1ヶ月で1,000万DL突破、2023年9月に累計3,000万DL到達。2019年は年間収益約1.5億ドルでスクエニ屈指のガチャタイトルとなり、2022年売上71.3億円、2023年も64.3億円と長期運営に成功している。",
+      "slug": "romancing-saga-re-universe",
+      "concept": "『ロマンシング サ・ガ』シリーズ23年ぶりの新作として、歴代キャラクターを2D見下ろし型バトルでガチャ収集・育成する縦持ちスマホRPG。閃き・連携などサガシリーズの戦闘システムを継承しつつ、イベント周回とスタイル(キャラ)強化を主軸に据える。",
+      "target": "サガシリーズの旧作ファンや、ガチャによるキャラ収集と長期育成を楽しむモバイルRPGユーザー、片手で遊べる縦持ちRPGを好む層。",
+      "_source_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000115.000097851.html",
+        "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_%E3%82%B5%E3%82%AC_%E3%83%AA%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9",
+        "https://www.pocketgamer.biz/asia/news/73359/square-enix-financials-q4-fy20/",
+        "https://app.sensortower.com/news-feed/square-enix-launches-romancing-saga-reuniverse-on-ios-and-google-play/5ef1efeda15cf70a504d05eb",
+        "https://game-i.daa.jp/?APP%2F1397702917=",
+        "https://www.4gamer.net/games/434/G043482/20181226108/"
+      ]
+    },
+    {
+      "id": 920,
+      "title_jp": "ドラゴンクエストタクト",
+      "title_en": "Dragon Quest Tact",
+      "developer": "Aiming",
+      "publisher": "スクウェア・エニックス",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "タクティカルRPG",
+      "sales_jp": "国内累計1,400万DL超 (2021年4月時点)、Sensor Tower調査でスクエニ国内モバイル収益2位 (2021-2023)",
+      "sales_world": "グローバル版は2021年1月配信開始、低収益のため2024年2月29日サービス終了。日本版は継続",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年7月配信開始から初日100万DL、その後500万DLを記録し、2021年4月には国内累計1,400万DLを突破したドラクエ初のシミュレーションRPG。Sensor Towerのデータでは『ドラクエウォーク』に次ぐスクエニ国内モバイルの主力タイトル。",
+      "slug": "dragon-quest-tact",
+      "concept": "ドラクエシリーズのモンスターをガチャで仲間にしてヘックス戦術バトルで戦わせる、堀井雄二監修の戦略SRPG。スカウト・育成・転生・装備合成のループが軸で、限定モンスター実装イベントが運営の柱。",
+      "target": "歴代ドラクエファンとモバイルガチャ＋戦術SRPGの両方を好む層。シリーズの懐かしいモンスターをコレクションし、毎月のイベントを周回したいライト〜ミドル課金プレイヤー向け。",
+      "_source_urls": [
+        "https://www.famitsu.com/news/202306/30308067.html",
+        "https://sensortower.com/ja/blog/dqchampions-over-10m-dollars-revenue-in-2w-release",
+        "https://dragonquest.fandom.com/wiki/Dragon_Quest_Tact",
+        "https://app.w3g.jp/dragonquest-tact"
+      ]
+    },
+    {
+      "id": 921,
+      "title_jp": "アイドリッシュセブン",
+      "title_en": "IDOLiSH7",
+      "developer": "G2 Studios",
+      "publisher": "バンダイナムコオンライン",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズム/育成",
+      "sales_jp": "国内累計600万DL突破（2023年4月時点）、2023年年間売上 約28.88億円（game-i推計）",
+      "sales_world": "グローバル含め累計700万DL超（2024年時点、uptodown他集計）",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "女性向けアイドル育成リズムゲームの代表格。長期運営でアニメ3期・舞台・ライブを擁する大型メディアミックスIPに成長し、新衣装ガチャ実装時にApp Storeセールス15位まで急上昇する根強いファンダムを維持。",
+      "slug": "idolish7",
+      "concept": "男性アイドル7人（後にTRIGGER／Re:vale／ZOOL等を追加）をマネージャー目線で育成する女性向けリズムゲーム。豪華シナリオと楽曲・限定衣装ガチャを軸に、ライブ・イベント周回でカードを強化・収集する長期運営型リズムRPG。",
+      "target": "2.5次元・男性アイドルコンテンツを好む女性ユーザー、シナリオ重視のソシャゲ層、ライブ／声優イベントまで楽しむアイナナファンダム。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%96%E3%83%B3",
+        "https://app.w3g.jp/%E3%82%A2%E3%82%A4%E3%83%8A%E3%83%8A",
+        "https://gamebiz.jp/news/207199",
+        "https://idolish7.com/",
+        "https://idolish7.miraheze.org/wiki/IDOLiSH7_(Game)"
+      ]
+    },
+    {
+      "id": 922,
+      "title_jp": "Shadowverse（シャドウバース）",
+      "title_en": "Shadowverse",
+      "developer": "Cygames",
+      "publisher": "Cygames",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "デジタルカードゲーム（TCG）",
+      "sales_jp": "国内収益は累計 $400M超推定（Sensor Tower / app.w3g.jp 集計、2016-2024年累計）",
+      "sales_world": "全世界累計DL 2,200万超、iOS収益は配信2週間で$10M到達（Sensor Tower 2016）、累計収益$500M前後と推定",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2016年配信のCygames代表的デジタルTCG。累計プレイヤー2,200万人超を記録し、RAGEを中心とした国内最大級のeスポーツシーンを形成。2025年に続編『Shadowverse: Worlds Beyond』へ移行し、2026年6月30日に原作はサービス終了予定。",
+      "slug": "shadowverse",
+      "concept": "アニメ調の美麗カードと「進化」システムで差別化した日本産デジタルTCG。1試合10分前後で完結し、PvPランクマッチを中心に競技性とコレクションの両輪を提供する。",
+      "target": "遊戯王・ハースストーンに親しんだTCGファンと、Cygames系IP（プリコネ／ウマ娘）から流入するアニメ調ビジュアル好きの国内モバイル/PCゲーマー。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Shadowverse",
+        "https://app.sensortower.com/news-feed/cygames-shadowverse-hits-10m-ios-revenue-in-two-weeks/6862620168db820e137d05fb",
+        "https://app.w3g.jp/shadowverse",
+        "https://rage-esports.jp/shadowverse/",
+        "https://www.4gamer.net/games/760/G076035/20250630007/"
+      ]
+    },
+    {
+      "id": 923,
+      "title_jp": "ファイアーエムブレム ヒーローズ",
+      "title_en": "Fire Emblem Heroes",
+      "developer": "インテリジェントシステムズ／任天堂",
+      "publisher": "任天堂",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "シミュレーションRPG",
+      "sales_jp": "日本市場で累計約$540.6M（全体の約54%、Sensor Tower 2022年時点）",
+      "sales_world": "累計収益 約$1.3B（2025年2月時点、Sensor Tower）／リリース1年で約$2.95億",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "任天堂モバイルで唯一の10億ドル超タイトルとなり、2025年2月の8周年時点で累計13億ドル近くを記録。日本市場が売上の半分超を占める長期運営型ガチャゲーの代表格。",
+      "slug": "fire-emblem-heroes",
+      "concept": "「ファイアーエムブレム」歴代キャラを召喚（ガチャ）し、6×8マスのスマホ最適化されたSRPGバトルで育成・編成して戦うキャラクター収集型SRPG。アリーナ・闘技場・飛空城など非同期PvPと、シーズン制の難関ステージで継続課金を促す設計。",
+      "target": "歴代FEファンとSRPG好き、推しキャラを集めて凸って育てるガチャRPG層。長期サービスに付き合うコア課金プレイヤーが収益の中心。",
+      "_source_urls": [
+        "https://sensortower.com/blog/fire-emblem-heroes-one-billion-revenue",
+        "https://kotaku.com/fire-emblem-heroes-profits-revenue-nintendo-billion-app-1849134777",
+        "https://www.mobilemarketingreads.com/fire-emblem-heroes-revenue-and-player-statistics/"
+      ]
+    },
+    {
+      "id": 924,
+      "title_jp": "どうぶつの森 ポケットキャンプ",
+      "title_en": "Animal Crossing: Pocket Camp",
+      "developer": "任天堂／DeNA／エヌディーキューブ",
+      "publisher": "任天堂",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "シミュレーション",
+      "sales_jp": "配信開始9日間の課金収益のうち約86%が日本（Sensor Tower 2017）。F2P期の課金の9割が日本ユーザーで、1DL当たり課金額も突出",
+      "sales_world": "配信6日間で全世界1,500万DL、生涯ダウンロード6,180万超、F2P累計収益$250M超（Sensor Tower）。2024年12月有料化「コンプリート」は初週$2.6M、9日で$3M突破、19カ国有料1位",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年配信のスマホ向けどうぶつの森として6日で世界1,500万DLを記録し、累計DL6,180万・F2P総収益$250M超を達成した日本依存型ヒット作。2024年12月にサ終と同時にバイアウト版「ポケットキャンプ コンプリート」へ移行し、19カ国の有料アプリ1位を獲得した。",
+      "slug": "animal-crossing-pocket-camp",
+      "concept": "キャンプ場を舞台に家具・服を集めて動物たちを呼び寄せる箱庭シミュレーション。葉っぱ（リーフチケット）課金とイベント周回で家具・服飾コンプを進める「収集×内装ループ」を、フレンドのキャンプ場訪問など非同期ソーシャル要素で外連にしている。",
+      "target": "据置どうぶつの森ファン、通勤・通学のスキマ時間に内装・コーデを楽しみたい女性プレイヤー、コレクション欲求の強い課金層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%86%E3%81%B6%E3%81%A4%E3%81%AE%E6%A3%AE_%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97",
+        "https://sensortower.com/ja/blog/animal-crossing-pocket-camp-jp",
+        "https://sensortower.com/blog/animal-crossing-pocket-camp-250-million-revenue",
+        "https://www.itmedia.co.jp/news/articles/1712/02/news027.html",
+        "https://www.pocketgamer.biz/animal-crossing-pocket-camp-complete-surpasses-3m-with-highest-daily-spend-since-2017/"
+      ]
+    },
+    {
+      "id": 925,
+      "title_jp": "スーパーマリオラン",
+      "title_en": "Super Mario Run",
+      "developer": "任天堂",
+      "publisher": "任天堂",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アクションランナー",
+      "sales_jp": "国内DL約2,000万（全世界の約10%、Nintendo 2017年10月時点）",
+      "sales_world": "全世界DL3.8億超、累計収益約$96.6M（Sensor Tower 2024年時点）。発売4日で4,000万DL、2017年10月までに2億DL突破。",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2016年12月のiOS配信初日にポケモンGOを超える285万DLを記録し、4日で4,000万DLという史上最速ペースを達成。最終的に全世界3.8億DL超を獲得した任天堂初の本格スマホゲームだが、買い切り$9.99モデルが課金文化と噛み合わず、収益面では任天堂が「許容できる利益水準には達していない」と公言した作品でもある。",
+      "slug": "super-mario-run",
+      "concept": "マリオが自動で右に走り続け、タップだけでジャンプ・空中アクションを操る片手プレイ特化のオートランナー。買い切り型（前半無料／フル解除$9.99）でガチャを排し、ワールドツアー／キノピオラリー／リミックス10など複数モードで他プレイヤーのスコアやキノピオ獲得を非同期で競う設計。",
+      "target": "スマホで手軽にマリオを遊びたいライト層と、課金ガチャに疲れたコンソールゲーマー。片手・短時間プレイ可能でファミリーにも訴求するが、買い切り価格設定からコア寄りのマリオファンが中心購買層となった。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Super_Mario_Run",
+        "https://sensortower.com/blog/super-mario-run-60-million-revenue",
+        "https://www.gamespot.com/articles/super-mario-run-hits-200-million-downloads-but-nin/1100-6454506/",
+        "https://www.nintendolife.com/news/2017/10/super_mario_run_passes_200_million_downloads_as_nintendo_seeks_mobile_success",
+        "https://sensortower.com/blog/super-mario-run-first-day"
+      ]
+    },
+    {
+      "id": 926,
+      "title_jp": "マリオカート ツアー",
+      "title_en": "Mario Kart Tour",
+      "developer": "DeNA／任天堂",
+      "publisher": "任天堂",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "レーシング",
+      "sales_jp": "全世界DLの28%が日本（Sensor Tower累計レポート時点、約5,600万DL相当）。日本は累計収益で世界2位、シェア28%。",
+      "sales_world": "累計2億DL超 / 累計プレイヤー消費額2億ドル超（Sensor Tower 2022年6月時点）。初週9,000万DL、初月1.239億DL（任天堂モバイル史上最速）。2023年10月で新規コンテンツ追加終了後もサービス継続中。",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "配信初日2,000万・初週9,000万・98日で1.42億DLを記録し、任天堂モバイルアプリ史上最速のヒットとなった。2022年に累計2億DL／2億ドル収益を突破し、米国（37.6%）・日本（28%）・フランス（7.3%）で特に強い。2023年10月以降は新規コース／キャラ／マシン／グライダーの追加を停止したものの、サーバーは現在も稼働中で根強いユーザーが残る。",
+      "slug": "mario-kart-tour",
+      "concept": "『マリオカート』の操作を片手タップ／ドラッグに最適化したスマホ版で、世界の実在都市をモチーフにした「ツアー」が約2週間ごとに切り替わる季節制ライブサービス。ガチャ（パイプ）でドライバー／カート／グライダーを集めて相性ボーナスでスコアを稼ぎ、フレンド・世界のスコアと競う非同期ランキング型レース。後年フレンド対戦やリアルタイムマルチも追加されたが、コアループは「ガチャで強い組み合わせを揃えて高スコアを更新する」収集＋スコアアタックに置かれている。",
+      "target": "外出先の隙間時間で気軽にマリオカートを楽しみたいライト層と、コース別最適キャラを揃えてランキング上位を狙うコレクター／スコアラー。家庭用『マリオカート8 デラックス』を持っていない層、特に北米／中南米／欧州のモバイル中心ユーザーに刺さった。",
+      "_source_urls": [
+        "https://sensortower.com/blog/mario-kart-tour-200-million-downloads",
+        "https://gamesbeat.com/sensor-tower-mario-kart-tour-races-to-200m-downloads-and-200m-revenue/",
+        "https://sensortower.com/blog/mario-kart-tour-first-week",
+        "https://gamebiz.jp/news/250287",
+        "https://gamebiz.jp/news/252238",
+        "https://switchsoku.com/smartphone/92959"
+      ]
+    },
+    {
+      "id": 927,
+      "title_jp": "リネージュ2 レボリューション",
+      "title_en": "Lineage 2: Revolution",
+      "developer": "Netmarble",
+      "publisher": "Netmarble",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": "日本市場累計 約$345M（フランチャイズ全体の23%、Sensor Tower 2023）。2017年8月日本サービス開始から48時間で200万DL、事前登録100万突破。",
+      "sales_world": "全世界累計 30.5M DL / 約$1.7B（フランチャイズ売上の43%、Sensor Tower 2023）。Android $1B（61%）/ iOS $678M（39%）。",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年8月23日の日本サービス開始直後にApp Store/Google Play売上ランキング1位を獲得し、矢沢永吉起用のTVCMでも話題に。Netmarble日本売上を前年比122%増へ押し上げた看板タイトル。",
+      "slug": "lineage-2-revolution",
+      "concept": "Unreal Engine 4で再現された広大なアデン大陸を舞台に、最大200人規模の血盟攻城戦・ワールドレイド・PvPを楽しめるフル3DモバイルMMORPG。装備強化・ガチャ・トランセンデンス成長を回し続けるサ運営型。",
+      "target": "PC版リネージュ2を遊んだ韓国系MMORPGファン、血盟（ギルド）に所属して攻城戦・GvGに長期間コミットしたいハードコア課金層、矢沢永吉CMで興味を持った30-40代の元MMO経験者。",
+      "_source_urls": [
+        "https://sensortower.com/blog/lineage-mobile-games-revenue-4-billion",
+        "https://sensortower.com/blog/lineage-2-revolution-revenue-december-2018",
+        "https://gameworldobserver.com/2023/03/07/lineage-mobile-games-revenue-7-billion",
+        "https://en.wikipedia.org/wiki/Lineage_2:_Revolution",
+        "https://gamebiz.jp/news/218930",
+        "https://app.famitsu.com/20170801_1104677/",
+        "https://lab.appa.pe/2017-10/leneage2.html"
+      ]
+    },
+    {
+      "id": 928,
+      "title_jp": "リネージュM",
+      "title_en": "Lineage M",
+      "developer": "NCSOFT",
+      "publisher": "エヌ・シー・ジャパン",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": "日本DL約24.5万（Sensor Tower 2019時点で全世界の約3%）、日本市場収益は累計約$410M（全世界収益の23.6%、Sensor Tower 2019時点）",
+      "sales_world": "全世界DL約820万、累計プレイヤー収益約$2.3B（Sensor Tower 2019時点）。リネージュフランチャイズ全体でモバイル累計$7B超（2023年Sensor Tower）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "協力",
+      "popularity": "2019年5月29日の日本配信前に事前登録150万人を突破し、リリース直後にApp Store / Google Playのセールス上位に食い込んだ。日本ではARPUが極めて高い重課金型MMOとして定着し、長期にわたりセールス100位前後を維持している。",
+      "slug": "lineage-m",
+      "concept": "PC版『リネージュ』をスマホで忠実再現したハードコアMMORPG。血盟（ギルド）に所属して攻城戦・狩り場争奪・PK・希少装備の強化に時間と金銭を投じる、いわゆる「リネージュ系」体験をモバイルで提供する。",
+      "target": "PC版リネージュ経験者・韓国型MMORPGに親和性のある30〜50代のハードコアMMO層。装備強化や血盟運営に長時間と高額課金を許容できる重課金プレイヤーが中心。",
+      "_source_urls": [
+        "https://sensortower.com/blog/lineage-mobile-games-revenue-4-billion",
+        "https://venturebeat.com/2019/10/15/sensor-tower-lineage-franchise-bags-over-4-billion-on-mobile/",
+        "https://gameworldobserver.com/2023/03/07/lineage-mobile-games-revenue-7-billion",
+        "https://gamebiz.jp/news/199741",
+        "https://lineagem-jp.com/",
+        "https://game-i.daa.jp/?%E3%82%AC%E3%83%81%E3%83%A3%E5%88%86%E6%9E%90%2FLineage+M%28%E3%83%AA%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5M%29="
+      ]
+    },
+    {
+      "id": 929,
+      "title_jp": "ポケモンマスターズ EX",
+      "title_en": "Pokémon Masters EX",
+      "developer": "DeNA",
+      "publisher": "株式会社ポケモン",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "RPG",
+      "sales_jp": "2023年売上 27.4億円（2022年35.97億円から減少, w3g 推計）",
+      "sales_world": "初年度収益 $75M / 初年度DL 2,270万、2023年4月時点で全世界累計5,000万DL突破（Sensor Tower / ポケモン公式）",
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "配信4日で全世界1,000万DL・1,000万ドルを達成したスタートダッシュ型のヒット作。初年度に約7,500万ドルを稼ぎ、2023年4月には累計5,000万DLを突破した長期運営タイトルで、現在もイベント周期と歴代トレーナー実装で月数百万ドル規模の収益を維持している。",
+      "slug": "pok-mon-masters-ex",
+      "concept": "歴代シリーズのトレーナー×ポケモンを「バディーズ」として収集・育成し、3vs3のリアルタイムバトルで戦う本格RPG。フェス限定バディーズや週次イベントを軸とした典型的な日本型ガチャ運営。",
+      "target": "歴代トレーナー（カスミ、シロナ、N など）に思い入れがあるポケモン古参ファンと、キャラ収集型のガチャRPGを長期で遊ぶライト〜ミドル課金層。",
+      "_source_urls": [
+        "https://sensortower.com/blog/pokemon-masters-revenue-75-million",
+        "https://app.w3g.jp/pokemon-masters-ex",
+        "https://app.famitsu.com/20220428_1945434/",
+        "https://pocketmonsters.net/news/4343"
+      ]
+    },
+    {
+      "id": 930,
+      "title_jp": "SINoALICE -シノアリス-",
+      "title_en": "SINoALICE",
+      "developer": "ポケラボ",
+      "publisher": "スクウェア・エニックス",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "ダークファンタジーRPG（ガチャ）",
+      "sales_jp": "国内ユーザー数500万人突破 (2019年7月時点)",
+      "sales_world": "全世界累計収益 約3.4億ドル超 (Sensor Tower / GamerBraves 2023年9月時点)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "ヨコオタロウディレクションのダークファンタジーガチャRPG。2017年6月配信、Social Game Info年間ヒット作1位を獲得し、国内500万DL・全世界累計収益3.4億ドル超を記録した。日本版は2024年1月、グローバル版は2023年11月にサービス終了。",
+      "slug": "sinoalice",
+      "concept": "童話のキャラクター達が「自身の物語の作者の復活」を願い殺し合うダークファンタジー。武器を組み合わせた装備ビルドと、ギルド対抗のリアルタイム協力＆ランキング戦「コロシアム」が中核を成すガチャRPG。",
+      "target": "ヨコオタロウ作品（NieR等）のダークな世界観を好む層、童話モチーフのキャラクターを集めて育てたいガチャRPGユーザー、ギルド戦による非同期協力・対抗を楽しむモバイル層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%B9",
+        "https://en.wikipedia.org/wiki/SINoALICE",
+        "https://gamebiz.jp/news/376415",
+        "https://gamebiz.jp/news/380752",
+        "https://www.gamerbraves.com/sinoalice-global-announces-end-of-service-this-november/",
+        "https://www.pocketgamer.biz/news/82308/square-enixs-sinoalice-global-will-reach-end-of-service-this-november/"
+      ]
+    },
+    {
+      "id": 931,
+      "title_jp": "アズールレーン",
+      "title_en": "Azur Lane",
+      "developer": "Manjuu / Yongshi",
+      "publisher": "Yostar",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "2D横スクロールシューティング/艦船擬人化育成RPG",
+      "sales_jp": "日本累計DL 1,000万突破（2024年2月、公式告知）",
+      "sales_world": "全世界累計収益 $170M超（Sensor Tower 2018時点、以降アップデートなし）／中国本土累計登録1,000万人超（2020年）",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年9月の日本配信直後にDAUランキング国内3位を獲得し、Yostarの日本進出第一弾として艦これ後継の艦船擬人化ジャンルを牽引、2024年に日本累計1,000万DLを突破した長寿運営タイトル。",
+      "slug": "azur-lane",
+      "concept": "第二次大戦の艦艇を美少女キャラ「KAN-SEN」として擬人化し、2D横スクロールSTGの自動戦闘と建造ガチャ・改造・寮舎育成を組み合わせた艦船収集型RPG。低スタミナ消費とオート編成で長期運営にも適した育成サイクルを提供する。",
+      "target": "艦これ系の艦船擬人化や軍艦史に親しむユーザー、美少女キャラ収集と低負荷で長期に遊べるガチャ運営型RPGを好む層、コラボイベント（劇場版コラボ等）目当ての二次元IPファン。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%BC%E3%83%B3",
+        "https://en.wikipedia.org/wiki/Azur_Lane",
+        "https://sensortower.com/blog/azur-lane-revenue",
+        "https://www.pocketgamer.biz/asia-fanfare-helps-yostars-azur-lane-sink-over-170m-in-revenue/",
+        "https://x.com/royaloji/status/1761013658430398638",
+        "https://www.azurlane.jp/news/647"
+      ]
+    },
+    {
+      "id": 932,
+      "title_jp": "ドラゴンボールZ ドッカンバトル",
+      "title_en": "Dragon Ball Z: Dokkan Battle",
+      "developer": "アカツキ",
+      "publisher": "バンダイナムコエンターテインメント",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "パズル/RPG (すごろく型ボードバトル)",
+      "sales_jp": "日本累計収益 約18億ドル/全体の約60% (Sensor Tower 2021年〜2023年集計)",
+      "sales_world": "全世界累計DL 3.5億超 (2021年8月), 累計収益 37億ドル超/約4,984億円 (Sensor Tower 2023年1月時点), 累計プレイヤー支出 30億ドル突破 (Sensor Tower 2021年)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年8月に全世界累計DL3.5億を突破し、2023年1月時点で世界累計収益は約37億ドル(約4,984億円)に到達。日本が売上全体の約56〜60%を占めバンダイナムコのモバイル最大級のドル箱IPで、2025年の10周年施策でも国内App Store売上ランキング首位を連発した。",
+      "slug": "dragon-ball-z-dokkan-battle",
+      "concept": "マス目を回って同色気力玉を繋ぐ「すごろく型パズルバトル」で原作シーンを再現し、ガチャで入手したキャラを覚醒・LR化していくドラゴンボール公式ガチャRPG。周年・コラボ限定キャラと潜在能力解放による長期育成ループが核。",
+      "target": "ドラゴンボール世代の30〜40代を中心に、推しキャラのLR/EZA(極限Z覚醒)を狙ってガチャと周回を10年単位で続ける長期重課金層と、コラボ・周年キャンペーンで戻ってくる回遊ユーザー。",
+      "_source_urls": [
+        "https://sensortower.com/blog/dragon-ball-z-dokkan-battle-3-billion-revenue",
+        "https://sensortower.com/ja/blog/dragonballz-dokkan-battle-over-3-billion-revenue",
+        "https://gamebiz.jp/news/332112",
+        "https://gamebiz.jp/news/364909",
+        "https://gamebiz.jp/news/401307"
+      ]
+    },
+    {
+      "id": 933,
+      "title_jp": "アナザーエデン 時空を超える猫",
+      "title_en": "Another Eden: The Cat Beyond Time and Space",
+      "developer": "Wright Flyer Studios",
+      "publisher": "Wright Flyer Studios (グリー)",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC",
+        "Switch"
+      ],
+      "genre": "RPG",
+      "sales_jp": "累計1,000万DL突破 (2021年12月時点、グローバル含む)",
+      "sales_world": "グローバル含め累計1,000万DL超 (2021年12月時点)、月次収益 ~$100k規模 (Sensor Tower 2025)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "加藤正人・光田康典という『クロノ・トリガー／クロノ・クロス』スタッフの再集結が話題を呼び、Google Play Best of 2017クリエイティブ大賞を受賞。スタミナ・PvPを排した「シングル特化JRPG」としてコアファンに長期支持され、2019年グローバル展開・2021年Steam版・2026年Switch新作『Another Eden Begins』発表と展開を広げている。",
+      "slug": "another-eden-the-cat-beyond-time-and-space",
+      "concept": "スタミナ・PvP・対人要素を一切排した、加藤正人脚本×光田康典音楽による本格シングルプレイヤーJRPG。ガチャによるキャラ収集と長大なメインシナリオ（114章超）が両輪で、過去・現在・未来を行き来する時空横断ストーリーが展開する。",
+      "target": "クロノ・トリガー／クロノ・クロス／ゼノギアス世代のJRPGファン、スマホでも腰を据えてシナリオを読みたい層、ソーシャル要素のないシングル特化ガチャゲーを求めるプレイヤー。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Another_Eden",
+        "https://app.sensortower.com/overview/games.wfs.anothereden?country=US",
+        "https://store.steampowered.com/app/1252600/ANOTHER_EDEN/",
+        "https://automaton-media.com/en/news/another-eden-begins-was-developed-as-a-brand-new-rpg-not-just-a-port-of-the-mobile-game-says-original-series-producer/"
+      ]
+    },
+    {
+      "id": 934,
+      "title_jp": "アイドルマスター ミリオンライブ! シアターデイズ",
+      "title_en": "The Idolm@ster Million Live! Theater Days",
+      "developer": "バンダイナムコスタジオ",
+      "publisher": "バンダイナムコエンターテインメント",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズム/育成",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年6月29日リリース以降、8周年（2025年）を迎えるアイマス系列の長期運営リズムゲーム。52週連続CDリリースや周年ライブ、企業コラボ等で活発に展開し、2023年にアニメ放送も実現した。",
+      "slug": "the-idolm-ster-million-live-theater-days",
+      "concept": "765プロ「ミリオンスターズ」52人のアイドルをガチャと育成で集め、3Dモデルによるライブ演出とリズムゲームで楽しむ長期運営アイドル育成アプリ。イベント周回・限定SSRガチャ・コミュ閲覧が中心ループ。",
+      "target": "アイマスIPファンと、デレステ・シャニマス等と並ぶ女性アイドル育成・ガチャ・コミュ消費を求めるプレイヤー。担当アイドルへの長期的な投資と周年ライブ参加までを含むコミュニティ志向ユーザー。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96!_%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA",
+        "https://millionlive-theaterdays.idolmaster-official.jp/",
+        "https://www.famitsu.com/article/202507/48202",
+        "https://gamebiz.jp/news/408232"
+      ]
+    },
+    {
+      "id": 935,
+      "title_jp": "PUBG MOBILE",
+      "title_en": "PUBG Mobile",
+      "developer": "Tencent LightSpeed & Quantum Studio",
+      "publisher": "Tencent Games (日本配信: PUBG Corp.)",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "バトルロイヤルTPS",
+      "sales_jp": "国内2,000万DL突破 (2021年11月時点、PUBG MOBILE公式)",
+      "sales_world": "全世界DL 10億超 (2021)、累計モバイル収益 100億ドル超 (Sensor Tower 2024、Game for Peace含む)、2024年単年で国際版1.1B USD・101M DL",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2018年5月16日に日本配信開始、24時間で150万DL・App Store/Google Play無料1位を獲得し、同年8月までに国内500万DL、2021年11月までに2,000万DLを達成。世界では2021年に10億DLを突破し、累計収益は中国版Game for Peaceを含めて100億ドル超（Sensor Tower 2024）に到達したモバイルバトロワの代表格。",
+      "slug": "pubg-mobile",
+      "concept": "最大100人が孤島に降下し、収縮する安全エリア内で武器と物資を奪い合い最後の1人/1チームを目指す、PC版PUBGをスマホ向けに最適化したバトルロイヤルTPS。タッチ操作でも遊べる射撃UIとマッチング軽量化により、モバイル市場でバトロワを定着させた。",
+      "target": "スマホで対戦シューターを遊びたい10〜30代のFPS/TPSユーザー、PC版PUBGやFortniteのモバイル代替を求めるカジュアル〜中堅プレイヤー、友人とスクワッドでボイスチャットしながら遊ぶ層。",
+      "_source_urls": [
+        "https://app.famitsu.com/20180518_1294992/",
+        "https://prtimes.jp/main/html/rd/p/000000023.000033688.html",
+        "https://www.4gamer.net/games/402/G040281/20210430123/",
+        "https://www.businessofapps.com/data/pubg-mobile-statistics/",
+        "https://www.gamelight.io/news/pubg-mobile-tops-$10-billion-in-revenue"
+      ]
+    },
+    {
+      "id": 936,
+      "title_jp": "妖怪ウォッチ ぷにぷに",
+      "title_en": "Yo-kai Watch: Puni Puni",
+      "developer": "NHN PlayArt",
+      "publisher": "レベルファイブ",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "パズルRPG",
+      "sales_jp": "2023年通年売上 58.67億円 (2022年比115%)",
+      "sales_world": "世界累計収益 6億ドル超 (2023年7月時点)、累計2,900万DL (2023年9月時点)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "妖怪ウォッチIPの長寿モバイル代表作で10年以上運営継続。2023年の10周年記念施策では前年同期比で収益3倍・DL8倍を記録し、コラボイベントを軸にセルラン上位を維持している。",
+      "slug": "yo-kai-watch-puni-puni",
+      "concept": "妖怪ウォッチのキャラクターを「ぷに」化したスワイプ型マッチ3パズルRPG。盤面をなぞって同色ぷにを繋げて消すアクションで妖怪を召喚・育成し、イベントや限定ガチャで新妖怪を収集していく。",
+      "target": "妖怪ウォッチを通ってきた小学生〜30代のIPファン層と、スワイプ操作で気軽に遊べるコラボ重視のカジュアルパズル課金層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81_%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+        "https://app.famitsu.com/20230810_2116576/",
+        "https://presswalker.jp/press/18243",
+        "https://app.w3g.jp/%E5%A6%96%E6%80%AA%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81-%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB"
+      ]
+    },
+    {
+      "id": 937,
+      "title_jp": "ドラガリアロスト",
+      "title_en": "Dragalia Lost",
+      "developer": "Cygames",
+      "publisher": "任天堂 / Cygames",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "初月売上 約40億円規模、全世界収益の約半数を日本が占める（任天堂IR / Sensor Tower）",
+      "sales_world": "全世界DL 約420万、累計収益 約1.662億ドル（Sensor Tower 2022 サ終時点集計）",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "任天堂とCygamesの初共同開発タイトルとして2018年9月に日米台港澳で配信、初月推定収益$28M・1年で$106M・累計$166M超を稼ぎ任天堂モバイル第3位の収益作品となったが、2022年11月にサービス終了した。",
+      "slug": "dragalia-lost",
+      "concept": "竜と契約した王子と仲間がリアルタイム4人協力で挑むタクティカルアクションRPG。ガチャで竜と従者（アダベンチャラー）を集め、レイドイベント周回と装備強化で編成を磨き上げる、Cygames流ハイクオリティ運営型モバイルRPG。",
+      "target": "グラブル／プリコネRファンと、Nintendo IPに親和性のあるコンシューマ寄りプレイヤー層。スマホで本格アクションRPGとガチャ収集を両立したいユーザーに向けた、海外（特に北米）も同時展開のグローバルガチャゲー受容層。",
+      "_source_urls": [
+        "https://sensortower.com/blog/dragalia-lost-revenue-100-million",
+        "https://mobilegamer.biz/nintendo-to-close-dragalia-lost-after-4-2m-installs-and-166-2m-in-revenue/",
+        "https://sensortower.com/blog/dragalia-lost-fires-up-106-million-in-its-first-year",
+        "https://support.nintendo.com/jp/information/2022/0830.html",
+        "https://gamebiz.jp/news/223519"
+      ]
+    },
+    {
+      "id": 938,
+      "title_jp": "逆転オセロニア",
+      "title_en": "Reversi Othellonia",
+      "developer": "DeNA",
+      "publisher": "DeNA",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "対戦パズル / リアルタイム対戦TCG",
+      "sales_jp": "累計3,500万DL突破(2023年7月)、DeNA初のノンIPで月商10億円超え、2023年年商29.16億円(game-i推計)",
+      "sales_world": null,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2016年配信開始からサービス10年目に突入、国内累計3,500万DLを誇るDeNAの看板タイトル。eスポーツ大会「オセロニアンの宴」やプロリーグ展開でコミュニティ主導の長期運営に成功した稀有なオリジナルIPモバイル対戦ゲーム。",
+      "slug": "reversi-othellonia",
+      "concept": "オセロのシンプルなルールに、攻撃・回復・カウンターなどの効果を持つ「駒キャラ」によるTCG要素を融合させたリアルタイム1on1対戦ゲーム。HPを削り合い、相手のHPを0にした方が勝利するため「負けている時ほど大逆転できる」ドラマチックなバトル設計が特徴。",
+      "target": "短時間でじっくり頭を使う対戦が好きなプレイヤー、デッキ構築の戦略性を楽しみたいTCGファン、オセロという誰でも理解できる土台から入れる戦略バトル好き。e-sports/コミュニティ志向のプレイヤーにも訴求。",
+      "_source_urls": [
+        "https://markelabo.com/n/n622d6b39176e",
+        "https://gamebiz.jp/news/197399",
+        "https://dena.com/jp/news/3506a/",
+        "https://app.w3g.jp/%E9%80%86%E8%BB%A2%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%8B%E3%82%A2",
+        "https://othellonia.com/"
+      ]
+    },
+    {
+      "id": 939,
+      "title_jp": "スターオーシャン:アナムネシス",
+      "title_en": "Star Ocean: Anamnesis",
+      "developer": "tri-Ace",
+      "publisher": "スクウェア・エニックス",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "事前登録53万人、配信半年で500万DL突破（2017年）",
+      "sales_world": "全世界DL累計1000万超、Google Play単体で初年度1000万ドル超の収益（Sensor Tower 2018）。日本版2021年6月24日サービス終了、グローバル版は2019年11月5日終了",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "popularity": "シリーズ20周年記念のオールスター集結型モバイルRPGとして話題を集め、事前登録53万人・配信半年で500万DLを達成。Sensor Towerによれば全世界Google Playだけで早期に1000万ドル収益を突破したが、グローバル版は2019年・日本版は2021年にサービス終了し、現在はオフライン版のみが提供されている。",
+      "slug": "star-ocean-anamnesis",
+      "concept": "スターオーシャン本編のキャンセルボーナスやステップ回避といったアクションバトルを継承しつつ、シリーズ歴代キャラを召喚（ガチャ）で集めて編成し、最大4人のオンライン協力プレイでミッションを攻略するキャラ収集×アクションRPG。20周年記念のオールスターIP活用ガチャゲーム。",
+      "target": "スターオーシャンシリーズのファンと、歴代キャラを集めて育てたい収集型モバイルRPG層。さらにマルチでアクション系PvEを楽しみたいプレイヤー。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3:%E3%82%A2%E3%83%8A%E3%83%A0%E3%83%8D%E3%82%B7%E3%82%B9",
+        "https://en.wikipedia.org/wiki/Star_Ocean:_Anamnesis",
+        "https://www.famitsu.com/news/202104/22218629.html",
+        "https://app.sensortower.com/news-feed/square-enix-rpg-star-ocean-anamnesis-just-made-its-first-10-million-worldwide-on-google-play/5a11ba9a5652a74bdc789f61",
+        "https://cache.sqex-bridge.jp/jp/ja/guest/information/76251"
+      ]
+    },
+    {
+      "id": 940,
+      "title_jp": "#コンパス 戦闘摂理解析システム",
+      "title_en": "#Compass: Combat Providence Analysis System",
+      "developer": "NHN PlayArt / ドワンゴ",
+      "publisher": "NHN PlayArt",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リアルタイム3on3 MOBA",
+      "sales_jp": "累計2,000万DL超 / 過去5年（2020-2025）モバイルMOBA収益約2.4億ドル（Sensor Tower 2025）",
+      "sales_world": null,
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2016年12月配信、2020年1月に1,000万DL、2022年10月に1,700万DL、2025年時点で2,000万DLを突破。日本のモバイルMOBAジャンルで圧倒的トップシェアを誇り、過去5年間の収益はブロスタの約2倍となる2.4億ドルを記録した。",
+      "slug": "compass-combat-providence-analysis-system",
+      "concept": "スマホで遊べる3vs3のリアルタイムMOBA。スプリンター／アタッカー／ガンナー／タンクの4クラスに分かれたヒーローを操作し、ポータルキーの確保を競う約3分の短時間バトルに、カードによるスキル発動と豊富なボカロP／アニメコラボキャラを組み合わせた日本産MOBA。",
+      "target": "ニコニコ動画文化やボカロ／アニメコラボに親しむ10〜20代を中心としたZ世代プレイヤー、スマホでサクッと対戦したいライト〜ミドルコアMOBAファン、好きなIPのキャラを操作したいコラボ目当て層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%EF%BC%83%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9_%E6%88%A6%E9%97%98%E6%91%82%E7%90%86%E8%A7%A3%E6%9E%90%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0",
+        "https://sensortower.com/ja/blog/compass-stand-outs-in-japan-mobile-moba",
+        "https://en.wikipedia.org/wiki/Compass_(video_game)",
+        "https://app.w3g.jp/combat-providence-analysis-system"
+      ]
+    },
+    {
+      "id": 941,
+      "title_jp": "ロックマンX DiVE",
+      "title_en": "Mega Man X DiVE",
+      "developer": "カプコン台湾",
+      "publisher": "カプコン",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": "事前登録10万超、日本配信直後にApp Store売上ランキング40位→28位まで上昇（gamebiz 2020）",
+      "sales_world": "サービス期間中にカプコンモバイル売上を約47億円（約US$45M）押し上げたと報告（2021年度）。2023年9月にアジア・日本版終了、2024年7月に北米欧州版終了",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "ロックマンXシリーズ初の本格モバイル展開として注目を集め、リリース直後にApp Store売上ランキング上位に食い込み、Sクラスキャラ「オメガ」追加時にもトップ30入り。約3年でオンライン版はサービス終了し、買い切り型のオフライン版（Steam/iOS/Android）に移行した。",
+      "slug": "mega-man-x-dive",
+      "concept": "歴代ロックマンシリーズの100体超のキャラを収集・育成し、900以上のステージを攻略するガチャ型アクションRPG。横スクロールに加え全方向シューティング視点も持ち、ハンタープログラム（キャラ）と武器ガチャ、PvP・協力レイドも実装した多機能モバイルタイトル。",
+      "target": "ロックマン/ロックマンXシリーズの長年のファンと、キャラ収集・武器ガチャを楽しみたいモバイルアクション好き。歴代ボスやヒロインのifコラボを愛でるノスタルジー層が中心。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3X_DiVE",
+        "https://www.famitsu.com/news/202306/07305221.html",
+        "https://gamebiz.jp/news/279812",
+        "https://gamebiz.jp/news/283453",
+        "https://www.4gamer.net/games/470/G047075/20230613011/",
+        "https://en.wikipedia.org/wiki/Mega_Man_X_Dive"
+      ]
+    },
+    {
+      "id": 942,
+      "title_jp": "ラブライブ！スクールアイドルフェスティバル ALL STARS",
+      "title_en": "Love Live! School Idol Festival ALL STARS",
+      "developer": "KLab",
+      "publisher": "ブシロード",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズム/育成RPG",
+      "sales_jp": "配信翌日100万DL、2019年10月15日に300万ユーザー突破（ブシモ公式リリース）",
+      "sales_world": "具体的な累計収益は非公開（2023年6月30日サービス終了）",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "配信翌日に100万DLを突破し、2019年10月には300万ユーザーに到達したラブライブ！シリーズ初の本格3Dリズム育成RPG。μ's／Aqours／虹ヶ咲の三世代27人を同じ学園に集結させる公式パラレル設定で大きな話題を呼んだ。",
+      "slug": "love-live-school-idol-festival-all-stars",
+      "concept": "3Dライブ演出のリズムゲームに、デッキ編成・スクールアイドル育成・ストーリー消費を組み合わせたガチャ運営型アイドルRPG。9人編成のチームを組みカード強化・スキル特化・属性相性で高スコアを狙う、非同期ランキング型の運営タイトル。",
+      "target": "ラブライブ！三世代のファン、無印スクフェスからの移行プレイヤー、アイドル育成・カード収集と3Dライブ視聴の両方を楽しみたい層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!_%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB_ALL_STARS",
+        "https://app.famitsu.com/20190926_1516855/",
+        "https://game.mirai-media.net/allstars/",
+        "https://lovelive-as.bushimo.jp/",
+        "https://70okugame.com/seruran/%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%BF"
+      ]
+    },
+    {
+      "id": 943,
+      "title_jp": "A3!（エースリー）",
+      "title_en": "A3! (Act! Addict! Actors!)",
+      "developer": "リベル・エンタテインメント",
+      "publisher": "リベル・エンタテインメント",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "イケメン役者育成シミュレーション／ガチャ系アドベンチャー",
+      "sales_jp": "配信2週間で150万DL突破、周年時App Store売上7〜10位（gamebiz 2021）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年1月の配信開始から約2週間で150万DLを突破し、周年や限定スカウト開催時にはApp Store売上ランキングでTOP10〜15入りを繰り返す女性向けモバイルゲームの定番タイトル。リベル・エンタテインメント22年12月期売上43億円のうち主力プロダクトとして牽引している。",
+      "slug": "a3",
+      "concept": "劇団「MANKAI Company」の総監督として24人のイケメン劇団員をスカウト・育成し、季節ごとの公演を作り上げていく演劇シミュレーション。SR/SSRブロマイドのガチャ（スカウト）と練習による育成、シナリオ読破が三本柱で、周年・季節イベントごとの限定スカウトが課金の主動機となる。",
+      "target": "2.5次元舞台・乙女ゲーム文脈の女性ユーザーが中心。推しキャラのブロマイド・限定衣装の収集と、フルボイスの劇団員ストーリー消費を両立したい層に支持される長期運営型タイトル。",
+      "_source_urls": [
+        "https://www.a3-liber.jp/",
+        "https://gamebiz.jp/news/286425",
+        "https://gamebiz.jp/news/257409",
+        "https://gamebiz.jp/news/366797",
+        "https://en.wikipedia.org/wiki/A3!",
+        "https://play.google.com/store/apps/details?id=jp.co.liberent.mankai"
+      ]
+    },
+    {
+      "id": 944,
+      "title_jp": "スタンドマイヒーローズ PIECE OF TRUTH",
+      "title_en": "Stand My Heroes",
+      "developer": "coly",
+      "publisher": "coly",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "女性向けシナリオ×パズルRPG（イケメン捜査官×恋愛アドベンチャー）",
+      "sales_jp": "2023年売上 約8.99億円、2022年 約10.94億円（game-i 推計）",
+      "sales_world": "累計300万DL超（2019年TVアニメ化時点、coly発表）",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2016年9月配信開始、累計200万DL→2019年に300万DL突破。同年TVアニメ『スタンドマイヒーローズ PIECE OF TRUTH』が放送され女性向けタイトルとして高い知名度を獲得。2022年には大型リニューアルでメインストーリー第二部を開始し長期運営を継続している。",
+      "slug": "stand-my-heroes",
+      "concept": "麻薬取締官の新人女性主人公が、警視庁・裏社会など各分野の30人超のイケメンたちと事件を追う本格サスペンスシナリオを、Live2Dキャラ演出と3マッチパズルバトルで楽しむ女性向け乙女ゲーム。シナリオ消費とキャラガチャ・育成・イベント周回が両輪。",
+      "target": "20〜30代の女性ユーザー、乙女ゲーム／声優ファン層、シリアスなサスペンス物語を好む層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA",
+        "https://gamebiz.jp/news/168585",
+        "https://gamebiz.jp/news/333331",
+        "https://game-i.daa.jp/?APP%2F1121898899=",
+        "https://stand-myheroes.com/"
+      ]
+    },
+    {
+      "id": 945,
+      "title_jp": "あんさんぶるスターズ!!Basic",
+      "title_en": "Ensemble Stars!! Basic",
+      "developer": "Happy Elements (Cacalia Studio)",
+      "publisher": "Happy Elements",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "男性アイドル育成カードゲーム",
+      "sales_jp": "事前登録70万人、リリース初日DL約140万、Basic＋Music合算で2020年12月に累計500万DL突破（Gamerch / 公式X）",
+      "sales_world": "シリーズ累計1600万DL超（2023年7月、Otome.com / Wikipedia）。収益の約70%が日本市場由来",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年3月15日のリニューアル新作として『Music』と同時リリースされ、同年12月にはBasic＋Music合算で累計500万DLを突破。シリーズ累計は2023年7月時点で1600万DLを超え、女性向けアイドル育成IPの最長寿級ヒット作として継続運営中。",
+      "slug": "ensemble-stars-basic",
+      "concept": "旧『あんさんぶるスターズ！』のADV/カード収集要素を継承した非リズム型の本編アプリ。豊富なストーリーイベント、★5アイドルカードのスカウト（ガチャ）、プロデュース育成、衣装コーディネートを通じて担当アイドルを「育てて愛でる」ことが中心動機の運営型ソーシャルゲーム。",
+      "target": "夢ノ咲学院のアイドル達を10年来追う女性向けIPファン層と、リズムゲームが苦手でストーリー＆カード収集を腰を据えて楽しみたい既存プレイヤー。担当推しに課金してビジュアル/カードを集めるコレクター志向のユーザーが主軸。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!",
+        "https://en.wikipedia.org/wiki/Ensemble_Stars!",
+        "https://gamerch.com/ensemble-star-basic/entry/207406",
+        "https://x.com/ensemble_stars/status/1336958839468548098",
+        "https://ensemble-stars.jp/game/basic/",
+        "https://otome.com/2025/03/21/ensemble-stars-music-market-analysis/",
+        "https://gamebiz.jp/news/262264"
+      ]
+    },
+    {
+      "id": 946,
+      "title_jp": "うたの☆プリンスさまっ♪ LIVE EMOTION",
+      "title_en": "Uta no Prince-sama Shining Live Emotion",
+      "developer": "ブロッコリー",
+      "publisher": "ブロッコリー",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズムアクション（女性向け男性アイドル）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2023年12月にサ終した『Shining Live』の後継として2024年6月12日に正式リリース。池袋駅でのリリース記念広告やテーマソングCDなど大規模プロモーションが展開され、ST☆RISH/QUARTET NIGHT/HE★VENS計18名のキャストを擁する『うたプリ』IPの最新モバイル展開として女性向けリズム/アイドル市場で安定したファンベースを維持している。",
+      "slug": "uta-no-prince-sama-shining-live-emotion",
+      "concept": "3Dで動く18名のアイドルのライブMVを鑑賞しながらリズムを刻み、衣装変更・ガチャによるカード収集と個別ストーリーで推し活を深める女性向けアイドル育成リズムゲーム。本編／個別／イベントの多層ストーリーと、振付を考える仕草まで描写した3Dライブが軸。",
+      "target": "『うたプリ』シリーズの長期ファン層（20代-30代女性中心）と、前作『Shining Live』からの継続ユーザー、ST☆RISH/QUARTET NIGHT/HE★VENSの推しキャラを擁する女性向けアイドルコンテンツ愛好層。",
+      "_source_urls": [
+        "https://www.utapri.com/app/live_emotion/",
+        "https://news.denfaminicogamer.jp/news/2406122f",
+        "https://app.famitsu.com/20240612_2245138/",
+        "https://digitalpr.jp/r_detail.php?release_id=89227",
+        "https://gamebiz.jp/news/387598",
+        "https://play.google.com/store/apps/details?id=jp.co.broccoli.utapri.liveemotion"
+      ]
+    },
+    {
+      "id": 947,
+      "title_jp": "IDOLY PRIDE（アイドリープライド）",
+      "title_en": "IDOLY PRIDE",
+      "developer": "QualiArts（サイバーエージェント子会社）",
+      "publisher": "QualiArts",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アイドルマネジメントRPG",
+      "sales_jp": "Game-i推定で2022年売上18.4億円、2023年14.4億円",
+      "sales_world": "グローバル版「IDOLY PRIDE: Idol Manager」が2023年配信、累計DL約18万 (Sensor Tower)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年6月24日配信初日にGoogle Play無料ゲーム1位、App Storeでも無料1位/売上26位を獲得。アニメ・コミック・声優ライブを横断するメディアミックス型アイドルIPとして安定したコアファン層を抱え、2024年には2.5周年・3周年キャンペーンでセルラン上位に再浮上した。",
+      "slug": "idoly-pride",
+      "concept": "急逝した天才アイドル長瀬麻奈の遺志を継ぐ星見プロダクションの新人たちが、Venus Program頂点を目指す群像劇を軸に、3Dライブ・キャラ育成・ガチャ・専用シナリオ周回を組み合わせたアイドルマネジメントRPG。重厚なシナリオと高品質3Dライブ、月のテンペスト・サニーピース・TRINITYAiLE・LizNoir・IIIX等の競合グループ間のドラマで「物語×ガチャ収集」を両立させている。",
+      "target": "アイマス／ラブライブ／バンドリ等の競合長期運営アイドルゲーム経験者で、シナリオ重視かつキャラ育成・3Dライブ鑑賞を楽しみたい層。声優コンテンツ・アニメ・コミック横断のメディアミックスを追えるコアアイドルオタクが中心。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/299119",
+        "https://en.wikipedia.org/wiki/Idoly_Pride",
+        "https://revenue.ennead.cc/games/idoly-pride",
+        "https://www.famitsu.com/article/202412/27818",
+        "https://appmedia.jp/app_review/6578044",
+        "https://cgworld.jp/feature/202107-idolypride.html"
+      ]
+    },
+    {
+      "id": 948,
+      "title_jp": "アイドルマスター SideM LIVE ON ST@GE!",
+      "title_en": "The Idolmaster SideM Live on Stage!",
+      "developer": "アカツキ",
+      "publisher": "バンダイナムコエンターテインメント",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "男性アイドル育成リズム（ドラマチックアイドル育成ライブゲーム）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "事前登録10万人を突破して2017年8月30日にリリース、男性アイドル315プロダクションをモチーフにした『SideM』IPの中核アプリとして4年間運営された。2021年8月31日にサービス終了したが、同年10月には後継『GROWING STARS』が稼働を引き継ぎ、女性向け男性アイドルアプリの代表格としてシリーズの厚いファンダムを支えた。",
+      "slug": "the-idolmaster-sidem-live-on-stage",
+      "concept": "『アイマス SideM』の46人（後に拡張）を3DCGで動かす育成型ライブゲーム。プレイヤーは315プロダクションのプロデューサーとして、「スカウト」と呼ぶガチャでアイドルを獲得し、ユニットを編成、お仕事や3Dライブのリズムゲームをこなしてトップアイドルを目指す。キャラ別ストーリーやイベントコミュも本編級のボリュームで実装され、楽曲リズム＋育成＋ガチャ＋物語消費を一体化したアイマス系の典型フォーマット。",
+      "target": "『SideM』IPの担当（推し）アイドルを持つ男性アイドルジャンルの女性ファン、デレステ／ミリシタなど他アイマス系列のリズムゲーから流入したプロデューサー層、3Dライブで担当の歌唱・ダンスを高解像度に体験したい既存コンテンツファンが中心。声優・ライブ・CD・アニメと連動した重課金〜ライト両層を抱えるニッチだが熱量の高いコミュニティ。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_SideM_LIVE_ON_ST@GE!",
+        "https://app.famitsu.com/20210831_1841862/",
+        "https://www.famitsu.com/news/202012/18211591.html",
+        "https://gamebiz.jp/news/284329",
+        "https://idolmaster-official.jp/sidem"
+      ]
+    },
+    {
+      "id": 949,
+      "title_jp": "アイドルマスター SideM GROWING STARS",
+      "title_en": "The Idolmaster SideM Growing Stars",
+      "developer": "バンダイナムコオンライン",
+      "publisher": "バンダイナムコエンターテインメント",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "男性アイドル育成リズム/カードゲーム",
+      "sales_jp": "非公開（具体的なDL数・売上は公表されていない）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "『LIVE ON ST@GE!』からアイドル46名を継承して2021年10月にリリースされた『アイドルマスター SideM』第2世代モバイル。コア層からの熱量は高かったものの2023年4月に運営縮小・同年7月31日にサービス終了が告知され、ライブ機能の不足やイベント設計をめぐり炎上を伴って約1年9か月で幕を閉じた短命タイトル。",
+      "slug": "the-idolmaster-sidem-growing-stars",
+      "concept": "男性声優アイドルユニット『SideM』の46名を擁するブランド継承型モバイル。プロデューサーとなりガチャでカードを集めユニット編成・育成・楽曲リズムを通じて担当アイドルをスター化していくREW型運営アプリ。",
+      "target": "『アイドルマスター SideM』IPの既存P（プロデューサー）層、特に『LIVE ON ST@GE!』からの継続ファンや男性声優アイドルコンテンツに親和性のある女性ファン中心。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BC_SideM_GROWING_STARS",
+        "https://www.famitsu.com/news/202304/04298545.html",
+        "https://www.4gamer.net/games/558/G055849/20230404034/",
+        "https://game.watch.impress.co.jp/docs/news/1491156.html",
+        "https://gamebiz.jp/news/366843"
+      ]
+    },
+    {
+      "id": 950,
+      "title_jp": "アイドルマスター ポップリンクス",
+      "title_en": "The Idolmaster Pop Links",
+      "developer": "バンダイナムコエンターテインメント",
+      "publisher": "バンダイナムコエンターテインメント",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "ライブパズル＋アイドル育成",
+      "sales_jp": "配信開始1ヶ月で100万DL突破 (2021年2月時点)",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "アイマス15周年記念タイトルとして765PRO/シンデレラ/ミリオン/SideM/シャニマスの5ブランドが集結したシリーズ初のパズル形式アプリ。2021年1月21日配信開始、2022年7月21日サ終で1年半運営という短命に終わった。",
+      "slug": "the-idolmaster-pop-links",
+      "concept": "5ブランド横断のオリジナルユニットを編成し、パズル操作でライブを成功させてアイドルを育成・収集するブランド横断型ガチャアプリ。",
+      "target": "アイマスシリーズ全ブランドのプロデューサー層と、軽めのパズル操作で複数IPのアイドル交流を楽しみたいライト〜ミドル課金層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%83%9D%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9",
+        "https://automaton-media.com/articles/newsjp/20220420-199699/",
+        "https://gamebiz.jp/news/347769",
+        "https://www.famitsu.com/news/202204/20258873.html"
+      ]
+    },
+    {
+      "id": 951,
+      "title_jp": "アイ★チュウ",
+      "title_en": "i-Chu",
+      "developer": "リベル・エンタテインメント",
+      "publisher": "リベル・エンタテインメント",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "男性アイドル育成リズム＋恋愛ノベル",
+      "sales_jp": "累計100万DL突破（2017年1月時点、ファンミーティングで発表）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2015年6月のAndroid配信、7月のiOS配信開始から人気を集め、2017年1月のファンミーティングで累計100万DLを突破した。アエリアグループ傘下リベル・エンタテインメントの代表IPとしてアエリアの株価にも影響する規模に成長したが、2020年7月6日にオンラインサービス終了、後継『アイ★チュウ Étoile Stage』も2021年6月30日で短命に終わった。",
+      "slug": "i-chu",
+      "concept": "17人の男子高校生たちがトップアイドル「エトワール」を目指す姿を、ガチャでのカード収集とイベント周回によるアイドル育成、リズムゲームによるライブ再現、そしてキャラクターごとに紡がれる恋愛ノベルパートで描く男性アイドル育成リズムゲーム。",
+      "target": "推しの男性アイドルを応援・育成し、限定SSR・覚醒衣装を集めながらキャラクターごとの恋愛ストーリーを味わいたい女性ファン層。あんスタ・うたプリ・アイナナと並ぶ女性向け男性アイドルジャンルのファン。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E2%98%85%E3%83%81%E3%83%A5%E3%82%A6",
+        "https://www.i-chu.jp/info/news/2020/7390/",
+        "https://gamebiz.jp/news/294945",
+        "https://www.ichu-es.jp/news/20210430-1106/"
+      ]
+    },
+    {
+      "id": 952,
+      "title_jp": "アイドルランドプリパラ",
+      "title_en": "Idol Land PriPara",
+      "developer": "シンソフィア",
+      "publisher": "タカラトミーアーツ",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "バーチャルアイドルライフ／コーデ・ライブ系ソーシャルゲーム",
+      "sales_jp": "非公開（音楽ゲーム無料DLランキング平均76位、最高63位／APPLION・iDayo.jp 2024集計）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年発表から2年以上の延期を経て2023年8月17日にようやくリリースされ、リリース直後はアクセス集中で入場制限がかかるほどの旧プリパラファンの待望感を集めた。2024年7月にはタカラトミーアーツからマギシステムへ運営移管され、IPの長期運営フェーズに入っている。",
+      "slug": "idol-land-pripara",
+      "concept": "解散したアーケード筐体『プリパラ』の世界観をスマホ上の「アイドルランド」というテーマパークとして再構築し、自分のマイキャラでコーデ収集・ライブ・他プレイヤーとの非同期交流を楽しむアイドル運営ソシャゲ。コーデガチャと育成イベント周回が中核ループ。",
+      "target": "アーケード版プリパラ・プリチャン世代の旧ファンと、その下の世代の女児・10代ユーザー。コーデ収集と推しキャラ運営を楽しみたいライト〜ミドル課金層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9",
+        "https://www.takaratomy-arts.co.jp/specials/pripara-game/idolland/",
+        "https://www.4gamer.net/games/542/G054214/20230807013/",
+        "https://www.4gamer.net/games/542/G054214/20230808031/",
+        "https://www.famitsu.com/news/202308/17313555.html",
+        "https://www.takaratomy-arts.co.jp/specials/pripara-game/idolland/news/22/",
+        "https://appmedia.jp/app_review/77128337",
+        "https://applion.jp/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9/android-jp.co.takaratomy_arts.idolland/rank/"
+      ]
+    },
+    {
+      "id": 953,
+      "title_jp": "D4DJ Groovy Mix（グルミク）",
+      "title_en": "D4DJ Groovy Mix",
+      "developer": "Donuts",
+      "publisher": "ブシロード / Donuts",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "DJリズムゲーム",
+      "sales_jp": "配信1ヶ月で777,777DL突破（2020年11月）、App Storeゲーム売上ランキング最高11位",
+      "sales_world": "グローバル版（EN/繁体字中文）含む多言語展開。繁体字版は2024/5/25にサ終",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "ブシロード発のメディアミックス「D4DJ」を支える基幹アプリで、配信1ヶ月で777,777DLを達成しApp Storeゲーム売上11位を記録。2026年時点で5.5周年を迎え、累計900曲超を擁する大型DJリズムゲームとして運営継続中（2024年にIP・運営権がブシロードからDONUTSへ移管）。",
+      "slug": "d4dj-groovy-mix",
+      "concept": "少女たちのDJユニットを描くアドベンチャーパートと、オリジナル曲・アニソン・ボカロ・J-POPカバーを繋ぐメドレー形式リズムゲームを融合。星4・SPメンバーをガチャで集めて編成しイベントランキングを走る、典型的なキャラクター運営型音ゲー。",
+      "target": "D4DJアニメ・声優ユニットのファン、女性キャラクター×音楽IPに親しむ層、バンドリ／プロセカに次ぐ第三のキャラ音ゲーを求めるリズムゲームプレイヤー。",
+      "_source_urls": [
+        "https://www.4gamer.net/games/456/G045645/20201124051/",
+        "https://d4dj.fandom.com/wiki/D4DJ_Groovy_Mix",
+        "https://en.wikipedia.org/wiki/D4DJ",
+        "https://d4dj-groovymix.jp/",
+        "https://www.donuts.ne.jp/products/games/news/251229_d4dj_2026newyear/"
+      ]
+    },
+    {
+      "id": 954,
+      "title_jp": "アサルトリリィ Last Bullet",
+      "title_en": "Assault Lily Last Bullet",
+      "developer": "ポケラボ",
+      "publisher": "ブシロード",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "美少女コマンドバトルRPG",
+      "sales_jp": "App Store売上ランキング最高21位、3周年付近で28位（game-i / gamebiz 2024-2025）",
+      "sales_world": "海外版『Last Bullet W』2024年5月配信〜2025年11月サービス終了、Sensor Tower推定月商 約$20k（2024年9月時点）",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年1月20日のリリースで事前登録30万人を突破し、配信2日後にApp Store売上ランキング40位、3周年付近の2024年3月には28位まで再浮上するなど安定した運営を継続。2024年5月にはSo-net Taiwan運営で『Assault Lily Last Bullet W』として英・韓・中（簡繁）対応の海外版を配信したが、2025年11月にサービス終了している。",
+      "slug": "assault-lily-last-bullet",
+      "concept": "アニメ『アサルトリリィ BOUQUET』と連動する百合×コマンドバトルRPG。ガーデン（学園）の少女「リリィ」を編成し、CHARM（武器）と神様（スキル）を組み合わせて怪異「ヒュージ」と戦うガチャ運営型ゲーム。",
+      "target": "アサルトリリィIPおよび百合・美少女キャラ運営型RPGのファン。シャフト制作アニメや舞台演劇とのメディアミックスを追いかける層と、長期育成・ガチャ収集を楽しむモバイルRPGプレイヤー。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/286828",
+        "https://gamebiz.jp/news/284674",
+        "https://gamebiz.jp/news/291652",
+        "https://gamebiz.jp/news/289574",
+        "https://game-i.daa.jp/?cmd=app_record&apid=1508070051",
+        "https://assaultlily.fandom.com/wiki/Assault_Lily_Last_Bullet",
+        "https://gamingph.com/2024/05/bonding-x-bishojo-gvg-global-release-of-assault-lily-last-bullet-w-set-out-on-a-new-adventure-build-unwavering-bonds-with-the-lilies/"
+      ]
+    },
+    {
+      "id": 955,
+      "title_jp": "咲うアルスノトリア すんっ！",
+      "title_en": "Warau Arsnotoria Sun!",
+      "developer": "NextNinja",
+      "publisher": "グッドスマイルカンパニー",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "美少女育成RPG",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "ニトロプラス20周年記念タイトルとして2021年3月配信、2022年7-9月にLIDENFILMS制作でTVアニメ化されメディアミックス展開したが、ガチャの渋さや収益面の課題から2023年3月31日にサービス終了（運営期間約2年）。",
+      "slug": "warau-arsnotoria-sun",
+      "concept": "ニトロプラス×グッスマ×NextNinjaの三社共同プロジェクト。中世魔法書「アルス・ノトリア」をモチーフに、魔法学園で学ぶ五芒星の少女たち（ペンタグラム）を育成・編成し、オートバトル＋スキル指示のリアルタイム戦闘で進めるシジル（装備）ガチャ型RPG。",
+      "target": "ニトロプラス系の重厚な世界観と可憐な美少女ビジュアルのギャップを楽しみたい層、虚淵玄ら原作スタッフのファン、キャラ育成・収集系モバイルRPGプレイヤー。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E5%92%B2%E3%81%86_%E3%82%A2%E3%83%AB%E3%82%B9%E3%83%8E%E3%83%88%E3%83%AA%E3%82%A2",
+        "https://gamebiz.jp/news/359052",
+        "https://www.4gamer.net/games/476/G047628/20221031046/",
+        "https://dengekionline.com/articles/156621/",
+        "https://www.arsnotoria.jp/",
+        "https://dengekionline.com/articles/71129/",
+        "https://altema.jp/arsnotoria/"
+      ]
+    },
+    {
+      "id": 956,
+      "title_jp": "夢色キャスト",
+      "title_en": "Yumeiro Cast",
+      "developer": "セガゲームス / マイネット",
+      "publisher": "セガゲームス",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "女性向けミュージカルリズムゲーム（乙女ゲーム）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "セガ初の本格乙女ゲームとして2015年9月配信、約3年4か月運営後の2019年1月にサ終。サ終から5年半後の2024年9月にアーカイブアプリ『TAKE A CURTAIN CALL』が配信され、根強いファン基盤の存在を示した。",
+      "slug": "yumeiro-cast",
+      "concept": "ミュージカル劇団「夢色カンパニー」に脚本家として入団し、7人のキャスト＋ライバル劇団5人と劇団を盛り上げる「恋するミュージカルリズムゲーム」。セガ×ランティスが手がけ、畑亜貴楽曲とフルボイスのストーリー、キャラ強化＆衣装ガチャ、ライブ形式のリズムパートを組み合わせた構成。",
+      "target": "乙女ゲーム＆アイドル／2.5次元舞台ファンの女性層。声優目当てのリズム＋ノベル＋キャラ育成を緩く楽しみたい層に支持され、舞台化・CD・コミカライズも展開した。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E5%A4%A2%E8%89%B2%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88",
+        "https://www.4gamer.net/games/312/G031283/20181109128/",
+        "https://sega.co.jp/release/240930_1.html",
+        "https://dengekionline.com/article/202405/4573",
+        "https://www.sega.jp/game/detail/ycast-tcc/"
+      ]
+    },
+    {
+      "id": 957,
+      "title_jp": "千銃士:Rhodoknight",
+      "title_en": "Senjushi: Rhodoknight (The Thousand Noble Musketeers: Rhodoknight)",
+      "developer": "マーベラス",
+      "publisher": "マーベラス",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "貴銃士育成RPG（女性向け擬人化）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "前作『千銃士』ファン層を引き継いだ女性向け擬人化IPの続編アプリ。2021年11月24日のリリースから約2年5ヶ月で2024年4月4日にサービス終了し、ストーリー未完のままクローズしたものの、Switch移植版『千銃士 Rhodoknight』として2026年2月に完結編が発売される異例の救済展開で再注目を集めた。",
+      "slug": "senjushi-rhodoknight",
+      "concept": "名銃が人の姿を得た「貴銃士」を士官学校生徒の主人公が呼び覚まし、共に戦い育成する女性向け擬人化育成RPG。ガチャによる貴銃士獲得、絆深め、ストーリー消費を組み合わせた長期運営型のソーシャルゲームとして設計された。",
+      "target": "前作『千銃士』からの女性ファン層と、擬人化キャラ×イケメン男性声優陣の関係性を楽しむ女性向けソーシャルゲームユーザー。ガチャ収集と推しキャラ育成、シナリオ追体験を両立したい層。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/382662",
+        "https://www.4gamer.net/games/497/G049771/20240304037/",
+        "https://www.famitsu.com/article/202410/21120",
+        "https://news-rose.marv.jp/article/24166",
+        "https://www.animenewsnetwork.com/news/2024-03-05/the-thousand-noble-musketeers-rhodoknight-game-ends-service/.208320",
+        "https://ja.wikipedia.org/wiki/%E5%8D%83%E9%8A%83%E5%A3%AB"
+      ]
+    },
+    {
+      "id": 958,
+      "title_jp": "アルゴナビス from BanG Dream! AAside",
+      "title_en": "Argonavis from BanG Dream! AAside",
+      "developer": "DeNA",
+      "publisher": "ブシロード",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズム＋アドベンチャー（男性バンド）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年1月14日配信、約1年で2022年1月31日にサービス終了。バンドリ発の男性バンドプロジェクト初のスマホゲームとして注目を集めたが、ユーザー基盤を確立しきれず短命に終わった。",
+      "slug": "argonavis-from-bang-dream-aaside",
+      "concept": "「ARGONAVIS from BanG Dream!」発の男性バンドプロジェクトを軸にした3Dライブ採用のリズム＆アドベンチャーゲーム。アニメ後日譚として全国アマチュアバンドが頂点を競う「ライブ・ロワイヤル・フェス」を描き、ガチャによるカード収集とバンド育成、リズムゲーム周回でイベントランキングを競う非同期型ソーシャル要素を持つ。",
+      "target": "「BanG Dream!」シリーズや男性声優ユニットのファン、Argonavis / GYROAXIA / Fantôme Iris などのバンドを推す女性向けリズムゲームユーザー層。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/337787",
+        "https://www.4gamer.net/games/419/G041947/20211122064/",
+        "https://dena.com/jp/press/4687/",
+        "https://en.wikipedia.org/wiki/From_Argonavis",
+        "https://gamebiz.jp/news/418886"
+      ]
+    },
+    {
+      "id": 959,
+      "title_jp": "八月のシンデレラナイン",
+      "title_en": "Hachigatsu no Cinderella Nine",
+      "developer": "アカツキゲームス",
+      "publisher": "アカツキゲームス",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC (DMM GAMES)"
+      ],
+      "genre": "青春体験型野球ゲーム（美少女×高校野球育成シミュレーション）",
+      "sales_jp": "シリーズ累計160万DL超（2024年サービス終了時点）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年リリース後シリーズ累計160万DL超を達成し、2019年にはテレビ東京系列でTVアニメ化も実現。7年半の長期運営を経て2024年12月17日にサービス終了、その後オフライン版へ移行した『シンデレラシリーズ』の代表作。",
+      "slug": "hachigatsu-no-cinderella-nine",
+      "concept": "「青春×女子高生×高校野球」をテーマに、夢破れた少年少女が女子野球部を立ち上げ女子初の甲子園を目指す物語。プレイヤーはマネージャー兼コーチとして練習・試合・スカウト（ガチャ）で選手を育成する。",
+      "target": "美少女キャラ育成と高校野球青春ストーリーを愛好する男性プレイヤー層、特に長期運営型キャラゲー／アイドル系ソシャゲのファン層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9C%88%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%83%8A%E3%82%A4%E3%83%B3",
+        "https://gamebiz.jp/news/394259",
+        "https://games.aktsk.jp/news/60746/",
+        "https://www.4gamer.net/games/348/G034854/20241017047/"
+      ]
+    },
+    {
+      "id": 960,
+      "title_jp": "あんさんぶるガールズ!!",
+      "title_en": "Ensemble Girls!!",
+      "developer": "Happy Elements",
+      "publisher": "Happy Elements",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "女子高生育成カードゲーム",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2011年GREE版『あんさんぶるガールズ！』のリニューアル版として2016年10月7日にネイティブアプリで再始動したが、約1年4か月後の2018年2月15日にサービス終了。後継作『あんさんぶるスターズ！』の制作ノウハウの源流となった点で語り継がれる作品。",
+      "slug": "ensemble-girls",
+      "concept": "日日日がシナリオを担当し、紀崎学園に通う60人超の女子高生たちと友情を育みながら、ガチャで入手した育成カードを合成・強化してイベントを攻略していくシナリオ重視のソーシャルカードゲーム。",
+      "target": "テキスト量の多い女子高生群像劇とキャラクターガチャ・カード育成を両立させたい女性プレイヤー、および同社の後継『あんスタ』ファンが源流として追体験するライト〜ミドル層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA!",
+        "https://gamebiz.jp/news/186854",
+        "https://gamebiz.jp/news/84214",
+        "https://app.famitsu.com/20150918_572412/",
+        "https://www.4gamer.net/games/202/G020275/"
+      ]
+    },
+    {
+      "id": 961,
+      "title_jp": "うたの☆プリンスさまっ♪ Shining Live",
+      "title_en": "Utano Princesama Shining Live",
+      "developer": "KLab",
+      "publisher": "ブロッコリー",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リズムアクション（女性向け男性アイドル）",
+      "sales_jp": "200万DL以上（公式記念セット配布時点）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年8月配信から2023年12月26日のサ終まで約6年4ヶ月運営、200万DL達成記念セットが配布されるなどブロッコリーのモバイル中核として安定稼働。サービス終了後はSwitch版『Shining Live for Nintendo Switch』への移植開発と書籍展開が発表され、IP資産としての継承が公式アナウンスされた。",
+      "slug": "utano-princesama-shining-live",
+      "concept": "『うたプリ』のST☆RISH／QUARTET NIGHT／HE★VENSら男性アイドル11人をオリジナル楽曲＋カードガチャ＋衣装着せ替え＋3Dライブで楽しむリズムアクション。譜面プレイでスコアを稼ぎ、ガチャで引いたフォトを編成して限定楽曲・イベントストーリーを攻略する女性向けアイドル運営型ガチャゲー。",
+      "target": "『うたの☆プリンスさまっ♪』本編・アニメ・舞台のファン層（女性向け、20–30代中心）。推しキャラのフォトを集めながら新規書き下ろし楽曲と衣装をスマホで気軽に楽しみたいリズムゲーム＋アイドル育成志向のプレイヤー。",
+      "_source_urls": [
+        "https://www.utapri-shining-live.com/news/231026/",
+        "https://www.famitsu.com/news/202310/26321965.html",
+        "https://www.4gamer.net/games/342/G034274/20231026049/",
+        "https://gamebiz.jp/news/376483",
+        "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA"
+      ]
+    },
+    {
+      "id": 962,
+      "title_jp": "ツキノパラダイス。",
+      "title_en": "Tsukino Paradise",
+      "developer": "バンダイナムコオンライン",
+      "publisher": "バンダイナムコエンターテインメント",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "女性向けアイドル育成＋リズムLIVE",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "『ツキウタ。』『ツキプロ』IPの初の公式アプリとして2017年4月26日に配信開始、女性向けアイドルジャンルで一定の支持を集めたが、約2年9か月で2020年2月5日にサービス終了した。DL数・売上の公式数値は非開示。",
+      "slug": "tsukino-paradise",
+      "concept": "『ツキウタ。』ベースの架空芸能事務所「ツキノ芸能プロダクション」を舞台に、Six Gravity / Procellarum / SolidS / Growth / SOARA / 劇団アルタイル等37人以上の男性タレントを6ボタンのリズムLIVE＋寮生活コミュ＋育成で楽しむ女性向けスマホアプリ。",
+      "target": "既存の『ツキウタ。』『ツキプロ』ファン層、男性アイドル育成＋音ゲーを好む女性ユーザー、推しキャラとの寮コミュ・カード収集を楽しみたいプレイヤー。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/254988",
+        "https://www.4gamer.net/games/344/G034459/20191206018/",
+        "https://www.bs-log.com/news/game/20191206_1387608.html",
+        "https://tsukipro.fandom.com/wiki/TSUKINO_PARADISE",
+        "https://gamebiz.jp/news/162594"
+      ]
+    },
+    {
+      "id": 963,
+      "title_jp": "SHOW BY ROCK!! Fes A Live",
+      "title_en": "Show by Rock!! Fes A Live",
+      "developer": "スクウェア・エニックス",
+      "publisher": "サンリオ",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "バンドリズムゲーム（けもの×美少女）",
+      "sales_jp": "DL 100万突破（2020年3月、配信開始4日で達成）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年3月12日リリース、App Storeゲーム売上ランキング最高35位・無料1位を獲得し、配信4日で100万DLを達成。約2年8ヶ月の運営後、2022年11月30日にサービス終了しオフライン版へ移行した、スクウェア・エニックス×サンリオ協業の音ゲー。",
+      "slug": "show-by-rock-fes-a-live",
+      "concept": "サンリオの「SHOW BY ROCK!!」IPを使い、けものミュージシャン少女たちのバンド活動とライブを楽しむ縦持ち音ゲー。ガチャでカード（メンバー）を集めて編成し、ストーリーとライブイベントを周回することで報酬と限定衣装を獲得する、典型的なIP×ライブ型モバイル運営作。",
+      "target": "原作アニメ「SHOW BY ROCK!!」シリーズおよびサンリオキャラ・けもの擬人化美少女が好きなファン層、ガルパ／デレステ／バンドリ系の縦持ち音ゲーで推し活＋カード収集を楽しみたい層。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/360929",
+        "https://dengekionline.com/articles/151817/",
+        "https://www.4gamer.net/games/487/G048724/20220929120/",
+        "https://gamebiz.jp/?p=262208",
+        "https://info.showbyrock-fes.com/inc/news/report/202209-1541.html"
+      ]
+    },
+    {
+      "id": 964,
+      "title_jp": "ヴァンガード ZERO",
+      "title_en": "Cardfight!! Vanguard ZERO",
+      "developer": "ブシロード",
+      "publisher": "ブシロード",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "TCG / カードバトルRPG",
+      "sales_jp": "英語版リリース初日売上1000万円突破（2020年4月9日）",
+      "sales_world": "具体的累計DL・収益は非公開",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2019年12月に日本でサービス開始、2020年4月にグローバル英語版を投入し初日1000万円を記録した原作IP『カードファイト!! ヴァンガード』公式スマホアプリ。3年2ヶ月運営の後、2023年6月30日にサービス終了した。",
+      "slug": "cardfight-vanguard-zero",
+      "concept": "TCG『ヴァンガード』のルールをスマホ向けに最適化したカードバトルRPG。原作初期シリーズの物語をストーリーモードで追体験しつつ、ガチャでカードを集めデッキを構築してオンライン対戦に挑む構成。",
+      "target": "原作アニメ・TCG『ヴァンガード』ファン、紙のカードを買い揃えるハードルなくスマホで本格TCGを遊びたい層、PvPカードゲーム愛好者。",
+      "_source_urls": [
+        "https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_ZERO",
+        "https://vgzero-en.bushiroad.com/news/notice/p853/",
+        "https://en.bushiroad.com/vanguard-zero-now-available-for-mobile/",
+        "https://www.pocketgamer.com/cardfight-vanguard-zero/shut-down/"
+      ]
+    },
+    {
+      "id": 965,
+      "title_jp": "マギアレコード 魔法少女まどか☆マギカ外伝",
+      "title_en": "Magia Record: Puella Magi Madoka Magica Side Story",
+      "developer": "f4samurai",
+      "publisher": "アニプレックス",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "美少女コマンドRPG（魔法少女スピンオフ）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2017年8月配信開始時点でApp Store売上ランキング3位を獲得し、当時のFGOを上回る上昇速度で話題に。後にトップセールス1位も記録。約6年9ヶ月運営し2024年7月31日サ終、後継『Magia Exedra（まどドラ）』へ世界観を継承した。",
+      "slug": "magia-record-puella-magi-madoka-magica-side-story",
+      "concept": "『魔法少女まどか☆マギカ』の世界観を引き継ぎ神浜市を舞台にしたコマンドバトル型ガチャRPG。シリーズ屈指の重厚なメインストーリーと、魔法少女キャラの収集・育成・コネクト連携バトルを軸とする長期運営型ソーシャルRPG。",
+      "target": "『まどか☆マギカ』ファン、美少女キャラの収集・育成を楽しみたいモバイルガチャRPG層、ダークファンタジー寄りの物語を求める層。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Magia_Record",
+        "https://www.4gamer.net/games/358/G035840/20240531071/",
+        "https://www.famitsu.com/article/202405/6759",
+        "https://www.oricon.co.jp/news/2329654/full/",
+        "https://www.itmedia.co.jp/news/articles/2405/31/news182.html"
+      ]
+    },
+    {
+      "id": 966,
+      "title_jp": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+      "title_en": "Love Live! School Idol Festival 2 MIRACLE LIVE!",
+      "developer": "ブシロード",
+      "publisher": "ブシロード",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アイドルリズムゲーム",
+      "sales_jp": "月商約1億円規模 (2024年1月、サ終決定時点)",
+      "sales_world": "非公開 (2023年4月リリース、2024年3月31日サ終、約1年運営)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "スクフェスシリーズ10周年記念日にリリースされ事前登録50万人を達成、500曲以上の収録を売りにしたが、初期サーバー不安定やUI/譜面の不評、ガチャ排出への不満が重なり収益が伸びず、わずか約1年でサ終。10年続いた『スクフェス』本流ブランドの終焉点となった。",
+      "slug": "love-live-school-idol-festival-2-miracle-live",
+      "concept": "μ's・Aqours・虹ヶ咲・Liella! 全楽曲500曲超を1本に集約した「ラブライブ！リズムゲーム完全版」として企画されたガチャ運営型音ゲー。部員（カード）をガチャで集めて編成しライブで高スコアを狙う、シリーズ伝統のフォーマットを継承した。",
+      "target": "スクフェス1から続くラブライブ！シリーズの古参ファンと、μ's〜Liella! までの全グループ横断で推し活したい音ゲー層。リズムゲーム＋カード収集＋イベントランキングを楽しむモバイルガチャゲーマー。",
+      "_source_urls": [
+        "https://www.4gamer.net/games/660/G066056/20240125038/",
+        "https://www.famitsu.com/news/202401/25332331.html",
+        "https://gamebiz.jp/news/367386",
+        "https://gamebiz.jp/news/380837",
+        "https://www.famitsu.com/news/202304/15299704.html",
+        "https://lovelive-sif2.bushimo.jp/news/post-aoio/"
+      ]
+    },
+    {
+      "id": 967,
+      "title_jp": "文豪とアルケミスト",
+      "title_en": "Bungo to Alchemist",
+      "developer": "EXNOA (DMM GAMES)",
+      "publisher": "DMM GAMES",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "育成シミュレーション（女性向け文豪擬人化）",
+      "sales_jp": "累計登録ユーザー160万超（DMM公式発表）",
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2016年ブラウザ版・2017年スマホ版配信の女性向け文豪擬人化育成ゲームで、累計登録ユーザー160万人超。舞台化・2020年TVアニメ化・小説化等のメディアミックスで長期運営を継続している。",
+      "slug": "bungo-to-alchemist",
+      "concept": "夏目漱石・宮沢賢治など実在の文豪を「アルケミスト」が転生させ、潜書システムで獲得・育成し、文学作品を侵蝕する敵「侵蝕者」と戦う刀剣乱舞型の女性向け擬人化ガチャ育成RPG。文豪同士の組み合わせや作品傾向に応じた育成・収集が中核ループ。",
+      "target": "乙女ゲーム／女性向け擬人化IP（刀剣乱舞・あんスタ等）を好む10代後半〜30代女性層。文学・近代文豪・青空文庫に親和性のある読書好きユーザーを新規開拓した点が特徴。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E6%96%87%E8%B1%AA%E3%81%A8%E3%82%A2%E3%83%AB%E3%82%B1%E3%83%9F%E3%82%B9%E3%83%88",
+        "https://bungo.dmmgames.com/",
+        "https://play.google.com/store/apps/details?id=com.dmmgames.bunal",
+        "https://en.wikipedia.org/wiki/Bungo_and_Alchemist"
+      ]
+    },
+    {
+      "id": 968,
+      "title_jp": "夢王国と眠れる100人の王子様",
+      "title_en": "Yume Oukoku to Nemureru 100-nin no Ouji-sama",
+      "developer": "ジークレスト",
+      "publisher": "ジークレスト（GMOインターネットグループ）",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "女性向け恋愛パズルRPG",
+      "sales_jp": "全世界1200万DL（2020年11月時点、日本含む 出典: 4Gamer/Gamer.ne.jp）",
+      "sales_world": "全世界1200万DL（2020年11月時点 出典: gamebiz/4Gamer）",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2015年3月のiOS配信以来長期運営を続け、2020年11月に全世界累計1200万DLを突破。日本のほか中国・台湾香港マカオ・タイ・韓国でローカライズ展開され、2025年に10周年を迎えた女性向けパズル恋愛ゲームの代表格。",
+      "slug": "yume-oukoku-to-nemureru-100-nin-no-ouji-sama",
+      "concept": "3マッチパズルバトルと100人超の王子キャラクター収集・育成・ストーリー解放を組み合わせた女性向けRPG。「夢の世界」を舞台に眠ってしまった王子たちを目覚めさせて夢魔と戦う童話モチーフで、ガチャとイベント周回・恋愛アドベンチャー要素が両輪となる。",
+      "target": "乙女ゲーム・女性向けキャラクターコンテンツのコア層、特に中高生〜20-30代女性ユーザー。童話キャラの擬人化IPやイケメンキャラ収集、軽量パズル＋ガチャの長期運営型モバイルを好む層。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E5%A4%A2%E7%8E%8B%E5%9B%BD%E3%81%A8%E7%9C%A0%E3%82%8C%E3%82%8B100%E4%BA%BA%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%98",
+        "https://gamebiz.jp/news/281242",
+        "https://www.4gamer.net/games/279/G027961/20201112048/",
+        "https://gamebiz.jp/news/205914",
+        "https://www.gcrest.com/news/post/tag/%E5%A4%A2%E7%8E%8B%E5%9B%BD%E3%81%A8%E7%9C%A0%E3%82%8C%E3%82%8B100%E4%BA%BA%E3%81%AE%E7%8E%8B%E5%AD%90%E6%A7%90"
+      ]
+    },
+    {
+      "id": 969,
+      "title_jp": "陰陽師本格幻想RPG",
+      "title_en": "Onmyoji",
+      "developer": "NetEase",
+      "publisher": "NetEase Games",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "和風ターンベースRPG × 式神ガチャ",
+      "sales_jp": "非公開",
+      "sales_world": "全世界DL 2億超、2021年Q1 iOS世界収益ランキング9位（前期比+32%、Sensor Tower）",
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2016年中国でメガヒット、App Store 中国 2016 ベスト10入賞・Facebook 2016 Best Mobile Games選出。全世界累計2億DL超を達成しNetEaseのグローバル代表IPに成長、2021年Q1にはiOS世界収益9位を記録した。",
+      "slug": "onmyoji",
+      "concept": "平安京を舞台に陰陽師となり、安倍晴明らと共に妖怪「式神」を召喚・育成して戦う和風ターンベースRPG。和風アートと豪華声優陣を活かした美麗な式神ガチャと、ギルド戦・PvP・レイドを組み合わせた多層的な長期運営モバイルRPG。",
+      "target": "和風世界観と美麗イラスト・人気声優の式神コレクションを楽しみたいプレイヤー、長期にわたりキャラ育成・編成構築・ギルド活動に時間を投じられるモバイルガチャゲーマー。",
+      "_source_urls": [
+        "https://sensortower.com/android/us/netease-games/app/onmyoji/com.netease.onmyoji.gb",
+        "https://app.sensortower.com/overview/com.netease.onmyoji.gb?country=us",
+        "https://www.prnewswire.com/news-releases/netease-announces-fourth-quarter-and-fiscal-year-2024-unaudited-financial-results-302381212.html",
+        "https://apptopia.com/google-play/app/com.netease.onmyoji.gb/about"
+      ]
+    },
+    {
+      "id": 970,
+      "title_jp": "パニシング:グレイレイヴン",
+      "title_en": "Punishing: Gray Raven",
+      "developer": "Kuro Games",
+      "publisher": "Kuro Games",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "3Dハイスピードアクション × キャラガチャ",
+      "sales_jp": null,
+      "sales_world": "モバイル累計課金 $159M+ (Sensor Tower 2024末推計), 全世界DL 3000万+",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年7月時点で海外DL2000万突破、後に3000万DL超えを記録。日本版は2020年12月リリース時にApp Store/Google Play無料ゲーム1位、セールス TOP30入りを達成。Sensor Tower推計では2024年2月にモバイル売上が月次$16.6Mまで跳ね上がり、累計課金は1.59億ドル超とされる。",
+      "slug": "punishing-gray-raven",
+      "concept": "ポストアポカリプスの近未来を舞台に、量子化されたキャラクター「構造体」を3体編成し、QTEと回避でつなぐ3Dハイスピード連携アクションを楽しむキャラガチャRPG。コンソール級の演出と硬派なアクション操作をスマホで実現したのが特長。",
+      "target": "原神/崩壊3rd系の美麗3Dアクションガチャを好み、スタイリッシュなコンボや回避アクションでスコアを伸ばしたい層。SF・終末世界観の物語と美少女キャラ収集の双方を楽しみたいモバイルゲーマー向け。",
+      "_source_urls": [
+        "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8B%E3%82%B7%E3%83%B3%E3%82%B0:%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%B3",
+        "https://prtimes.jp/main/html/rd/p/000000026.000036746.html",
+        "https://gamebiz.jp/news/283567",
+        "https://sensortower.com/blog/2024-q1-unified-top-5-hack%20and%20slash-revenue-au-60343fc1241bc16eb814eb0f",
+        "https://pgr.kurogames.com/jp/"
+      ]
+    },
+    {
+      "id": 971,
+      "title_jp": "スノウブレイク：禁域降臨",
+      "title_en": "Snowbreak: Containment Zone",
+      "developer": "Seasun Games (Kingsoft傘下)",
+      "publisher": "Seasun Games (Amazing Seasun Games)",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "TPSアクションRPG × キャラガチャ",
+      "sales_jp": null,
+      "sales_world": "iOS単体累計収益 1,000万ドル超 (Sensor Tower 2024年8月時点)、事前登録250万超、PC・iOS・Androidクロスプレイ対応",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "ソロ",
+      "popularity": "2023年7月20日にPC・iOS・Androidで同時グローバル公開され、事前登録250万を突破。Sensor TowerによればiOS単体で累計1,000万ドル超を売上げ、原神系3DアクションRPG市場の代替として一定の固定ファン層を獲得。2026年現在も2.5周年「時の還り人」アップデートで運営継続中。",
+      "slug": "snowbreak-containment-zone",
+      "concept": "Unreal Engine 4製のセクシー美少女×SF世界観TPSアクションRPG。キャラガチャと武器ガチャでオペレーター（女性キャラ）を集め、三人称シューティング操作で銃撃・スキル・コンボを織り交ぜたPvEミッションを周回する。ピックアップ排出率0.7%／80連天井のガチャ設計で、ビルド育成と限定キャラ獲得が主動機。",
+      "target": "原神・鳴潮など3DアクションRPGガチャに慣れた層、特にTPS操作とセクシー寄りキャラデザインを好む18歳以上の中〜重課金プレイヤー。クロスプレイでPCの精密エイムとモバイルの手軽さを両立したいユーザー。",
+      "_source_urls": [
+        "https://app.sensortower.com/news-feed/snowbreak-containment-zone-hits-10m-all-time-revenue-on-ios/66cbe66ad9e252113d1f4871",
+        "https://store.steampowered.com/app/2668080/Snowbreak_Containment_Zone/",
+        "https://snowbreak.amazingseasun.com/",
+        "https://automaton-media.com/articles/newsjp/snowbreak-20260129-413947/",
+        "https://wikiwiki.jp/snowbreak/FAQ"
+      ]
+    },
+    {
+      "id": 972,
+      "title_jp": "無期迷途",
+      "title_en": "Path to Nowhere",
+      "developer": "AISNO Games",
+      "publisher": "AISNO Games",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "リアルタイムタワーディフェンスSRPG × キャラガチャ",
+      "sales_jp": null,
+      "sales_world": "グローバル事前登録200万超、配信3日で100万DL突破、Google Play 500万+DL（2024年時点）。具体的な累計収益は非公開だがGACHAREVENUE上位常連。",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2022年10月27日にグローバル配信、事前登録200万・配信3日で100万DL超を記録し、Google Play 500万DL+に到達。GACHAREVENUEの売上ランキング上位常連で、アークナイツの後継的ダーク戦略RPGとしてSNSで「Sinner」キャラ人気が定着している。",
+      "slug": "path-to-nowhere",
+      "concept": "プレイヤーは特殊機関MBCCの長官として、暴走した「Sinner」たちを鎖で束ねながらリアルタイムTDで指揮するダーク戦略RPG。キャラはガチャで獲得・育成し、社会派ディストピアの物語と組み合わさる。",
+      "target": "アークナイツ的なリアルタイムTD×ガチャを好み、ダークでスタイリッシュなキャラデザと社会派ストーリーに惹かれる中〜重課金層のスマホゲーマー。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Path_to_Nowhere",
+        "https://news.qoo-app.com/en/post/124222/path-to-nowhere-launch-oct-27",
+        "https://www.kongbakpao.com/path-to-nowhere-global-release-now-live/",
+        "https://revenue.ennead.cc/revenue",
+        "https://sakuranbochan.com/muki_review/",
+        "https://ptn.aisnogames.com/"
+      ]
+    },
+    {
+      "id": 973,
+      "title_jp": "ライフアフター",
+      "title_en": "LifeAfter",
+      "developer": "NetEase",
+      "publisher": "NetEase Games",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "オープンワールドサバイバル × 採取クラフトMMO",
+      "sales_jp": null,
+      "sales_world": "全世界DL 1億超／登録者 2億人超／推計累計収益 $125M超（うち約97%が中国、Sensor Tower 2019時点）",
+      "primary": "EXP",
+      "secondary": [
+        "REW",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "popularity": "Sensor Tower推計では中国先行リリースから約4ヶ月で全世界1.25億ドルを売り上げ、その後グローバル累計1億DL・登録者2億人超に到達。Google Play 2019「Most Competitive Game」を受賞し、中国・日本・東南アジアで長期運営される代表的サバイバルMMOとなった。",
+      "slug": "lifeafter",
+      "concept": "ウイルスにより文明が崩壊した終末世界で、感染者やミュータントを退けつつ、伐採・採鉱・狩猟・建築・銃器クラフトを積み上げて拠点（荘園）を発展させるオープンワールドサバイバル。キャンプ単位でのMMO的協力と非同期な拠点交流・PvPイベントが噛み合う、モバイル特化のRust／DayZ系体験。",
+      "target": "DayZ／Rust／7 Days to Dieのようなハードめな終末サバイバルをスマホで遊びたい層、ギルド/キャンプ単位での建築・分業・物資交易を楽しみたいMMOプレイヤー、終末世界観のホラー・シリアスな雰囲気を好むユーザー。",
+      "_source_urls": [
+        "https://sensortower.com/blog/lifeafter-revenue",
+        "https://www.pocketgamer.biz/neteases-lifeafter-passes-125-million-in-revenue/",
+        "https://www.neteasegames.com/news/20250331/37000_867951.html",
+        "https://www.lifeafter.jp/",
+        "https://app.famitsu.com/20190418_1442921/"
+      ]
+    },
+    {
+      "id": 974,
+      "title_jp": "三国志・戦略版",
+      "title_en": "Three Kingdoms Tactics",
+      "developer": "Qooland (Qookka Games) / 上海簡悦 (Shanghai TCI)",
+      "publisher": "Alibaba Games (灵犀互娯) / コーエーテクモゲームス監修",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "三国志ストラテジー / 大規模同盟SLG (4X / Conquest)",
+      "sales_jp": "非公開（日本版「三國志 真戦」は2021年6月配信、コーエーテクモ監修IPゲームの中核タイトル）",
+      "sales_world": "累計収益 $1.2B超 (Sensor Tower 2022)、全世界DL 1億超。2021年App Store世界5位グロッシング、2020年5月単月収益 $91.7M。中国比率96.2%。",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2019年9月の中国本土ローンチ直後にiOSセールス2位まで上昇し、2021年にはApp Store世界5位の高収益タイトルへ。Sensor Tower集計で累計収益12億ドル超(中国比96%)、全世界DL1億超を達成し、SLGジャンルの覇権タイトルとなった。",
+      "slug": "three-kingdoms-tactics",
+      "concept": "2ヶ月制のシーズン制大規模同盟SLG。最大200人の同盟で領土を切り取り、洛陽と8州の制圧を目指して数百〜数千人規模のリアルタイム攻城戦を繰り広げる。コーエーテクモ『三國志13』のIPと武将データを公式ライセンスで活用し、武将育成・編成と地政学的な同盟外交を両立させた「正統派」SLGとして中国本土のモバイルSLG市場を再定義した。",
+      "target": "三国志IP愛好家、長期運営の大規模同盟PvPに数ヶ月単位でコミットできる戦略SLGプレイヤー、Lords MobileやRise of Kingdoms等の同盟SLGからの乗り換え層、コーエー三國志シリーズの歴史ファン。",
+      "_source_urls": [
+        "https://sensortower.com/blog/three-kingdoms-tactics-revenue-1-billion",
+        "https://gamebiz.jp/?p=292558",
+        "https://gamebiz.jp/news/255286",
+        "https://sangokushi.qookkagames.jp/",
+        "https://www.famitsu.com/news/202104/21216652.html",
+        "https://three-kingdoms-tactics.fandom.com/wiki/Three_Kingdoms_Tactics_Wiki"
+      ]
+    },
+    {
+      "id": 975,
+      "title_jp": "崩壊3rd",
+      "title_en": "Honkai Impact 3rd",
+      "developer": "miHoYo",
+      "publisher": "miHoYo / HoYoverse (Cognosphere)",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC (Windows)",
+        "macOS"
+      ],
+      "genre": "3Dハイスピードアクション × キャラガチャRPG",
+      "sales_jp": "日本リリース11日で100万DL突破 (2017/02 リリース)",
+      "sales_world": "2018/03時点で全世界累計3500万DL、2017/06時点で登録2200万・累計収益11億元超、累計モバイル収益10億ドル超 (Sensor Tower 2024)",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "中国2016/10リリース後、日本・グローバルへ展開しmiHoYo初の世界的ヒットとなったハイエンド3Dアクションガチャ。原神以前のmiHoYo主力IPとして長期運営され、2024年には「Part 2」でオープンワールド要素を導入し再活性化した。",
+      "slug": "honkai-impact-3rd",
+      "concept": "最大3名のヴァルキリー（女性キャラ）をリアルタイムに切り替えながら戦う爽快な3Dハック＆スラッシュアクションに、キャラ・装備（聖痕）ガチャと豊富な周回イベントを組み合わせた基本無料モバイルRPG。ストーリーも長期にわたり展開され、Honkaiユニバースの中核を成す。",
+      "target": "スタイリッシュな美少女キャラを操る高難度アクションを求める中高生〜30代のアニメ・モバイルゲーマー層、特にキャラ性能・コスチューム・聖痕コンプを楽しむヘビーガチャ層と、原神以前からのmiHoYo IPファン。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Honkai_Impact_3rd",
+        "https://app.sensortower.com/news-feed/honkai-impact-3rd-has-a-major-update-leading-to-a-surge-in-revenue/65e69d8e0f34dd24c11b33b6",
+        "https://revenue.ennead.cc/games/honkai-impact"
+      ]
+    },
+    {
+      "id": 976,
+      "title_jp": "モバイル・レジェンド:Bang Bang",
+      "title_en": "Mobile Legends: Bang Bang",
+      "developer": "Moonton (上海月光、ByteDance傘下)",
+      "publisher": "Moonton",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "5v5モバイルMOBA",
+      "sales_jp": "日本では正式サービス未展開で配信規模は限定的、公開数値なし",
+      "sales_world": "累計DL15億超、MAU110M超(Moonton 2025公表)、2024年年間IAP $194.99M / 2025年 $158.2M (Sensor Tower)、2025年6月単月8.3M DL(モバイルMOBA世界1位)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2025年時点でMAU110M超、累計DL15億超、139ヶ国展開でグローバル最大級のモバイルMOBA。MPLは2024年に視聴時間累計10億時間突破でLoL Worldsを上回り、東南アジア(フィリピン・インドネシア・マレーシア)では国民的esportsとして圧倒的シェアを誇る。",
+      "slug": "mobile-legends-bang-bang",
+      "concept": "スマホで手軽に遊べる5v5の本格MOBA。10分前後の短時間マッチと簡素化された操作で、PC MOBA(LoL/Dota2)の競技体験をモバイルに最適化。150種超のヒーローと頻繁なコラボ(Hunter×Hunter等)で長期運営している。",
+      "target": "PC環境やスペックの高い端末を持たない東南アジア・中東・中南米のモバイルゲーマー、競技性のあるチーム対戦を求めるプレイヤー、ローカルesportsシーンを応援する観戦層。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Mobile_Legends:_Bang_Bang",
+        "https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-may-2025",
+        "https://esportsinsider.com/2025/12/mlbb-esports-2025-key-moments-of-the-year",
+        "https://www.prnewswire.com/news-releases/mobile-legends-bang-bang-charts-global-ambitions-with-five-region-esports-overhaul-m8-world-championship-breaks-ground-in-turkiye-and-thailand-302672193.html",
+        "https://coopboardgames.com/online-gaming/mobile-legends-bang-bang/"
+      ]
+    },
+    {
+      "id": 977,
+      "title_jp": "AFKアリーナ",
+      "title_en": "AFK Arena",
+      "developer": "Lilith Games",
+      "publisher": "Lilith Games",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "放置型ターンベース編成RPG",
+      "sales_jp": "日本年間売上 約13.26億円(2022) → 9.43億円(2023)。2020年7月リリース直後にApp Storeセールス最高8位",
+      "sales_world": "全世界DL4500万+ / 累計課金15億ドル超(中国32%) / 2020年1月単月105.4M USD / AFKシリーズ後継のJourneyも$185M超",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2019年グローバル配信開始から放置RPGブームを牽引し、累計DL4500万・累計課金15億ドル超を記録した代表作。2020年7月の日本配信時もApp Store無料1位を1週間維持、セールス最高8位の大ヒットとなった。",
+      "slug": "afk-arena",
+      "concept": "放置中も自動戦闘でアイテムと経験値が貯まり続ける「放置型」を主軸に、英雄ガチャ・編成・属性相性・装備強化・ギルド戦・タワー攻略を組み合わせた、手軽さと収集の中毒性を両立したファンタジーRPG。",
+      "target": "英雄収集と編成パズルを楽しみたいライト〜ミドル層、毎日短時間で報酬を回収しながら長期的にキャラを育てたいモバイルRPGプレイヤー。",
+      "_source_urls": [
+        "https://sensortower.com/blog/august-2024-mobile-gaming-recap",
+        "https://app.sensortower.com/overview/com.lilithgame.hgame.gp?country=US",
+        "https://gamebiz.jp/news/270876",
+        "https://gamebiz.jp/news/270368",
+        "https://app.w3g.jp/afk-arena",
+        "https://afk-jp.lilith.com/"
+      ]
+    },
+    {
+      "id": 978,
+      "title_jp": "AFK：ジャーニー",
+      "title_en": "AFK Journey",
+      "developer": "Lilith Games (Farlight 84 Studios)",
+      "publisher": "Lilith Games",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "3D放置型ターンベースRPG",
+      "sales_jp": null,
+      "sales_world": "累計DL約1,800万、半年で収益1.58億ドル、累計収益約1.85億ドル(US 25%/中国19%/韓国15%、Sensor Tower 2024)",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2024/3グローバル、8/8アジア展開で月次収益10倍に急増し、韓国・台湾でDLランキング1位を獲得した2024年最大級のグローバルヒット放置型RPG。半年で1.58億ドル、累計1.85億ドルを稼ぐシリーズの最新作。",
+      "slug": "afk-journey",
+      "concept": "『AFKアリーナ』の世界観を継承した3D高品質グラフィックの放置型ターンベースRPG。美麗な英雄ガチャ・収集・育成と、放置で自動進行する戦闘ループを中核に、ストーリー探索とギルド/PvPを組み合わせた次世代AFKゲーム。",
+      "target": "『AFKアリーナ』『原神』など放置/ガチャ系モバイルRPGのプレイヤー、ハイクオリティな3Dビジュアルと低負荷ループを両立した作品を求める20-40代のグローバルライト〜ミドル層。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/AFK_Journey",
+        "https://sensortower.com/blog/august-2024-mobile-gaming-recap",
+        "https://maf.ad/en/blog/afk-journey-analysis/",
+        "https://www.pocketgamer.biz/afk-journey-surpasses-150-million-with-asian-market-dominance/",
+        "https://www.gamebusiness.jp/article/2024/12/24/23760.html",
+        "https://news.denfaminicogamer.jp/news/240808j"
+      ]
+    },
+    {
+      "id": 979,
+      "title_jp": "ラグナロクM：Eternal Love",
+      "title_en": "Ragnarok M: Eternal Love",
+      "developer": "XINDONG / Dream Square",
+      "publisher": "Gravity (グローバル) / Tencent (中国)",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "クラシックMMORPG",
+      "sales_jp": null,
+      "sales_world": "累計2,400万DL、30ヶ国でApp Store/Google Play売上1位。Gravity Q4 2018売上を$94.5Mに押し上げ、ピーク時月商$50M（東南アジア単体、PocketGamer.biz / Seeking Alpha 2019）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2018年10月31日の東南アジア同時公開で初週270万DL超を記録し、タイ・インドネシア・フィリピン・シンガポールなど30ヶ国でストア売上1位を獲得。ピーク時には東南アジア単独で月商$50Mに達し、親会社Gravityの四半期売上を$94.5Mまで押し上げた。",
+      "slug": "ragnarok-m-eternal-love",
+      "concept": "PC版『ラグナロクオンライン』の世界観・キャラ・BGMをモバイル向けに3D化したクラシック志向のMMORPG。ジョブ育成・カード収集・ペット・ギルド戦・ミニライフ要素（料理・釣り）を詰め込み、原作ファンの郷愁とモバイル世代の手軽さを両立した「ガチャ＋育成＋装備強化」中心の長期運営型RPG。",
+      "target": "PC版ラグナロクオンライン世代の懐古層と、東南アジア・台湾・香港を中心とした若年MMORPGプレイヤー。コミュニティとギルド活動を楽しみたい層向け。",
+      "_source_urls": [
+        "https://www.pocketgamer.biz/asia/interview/71542/southeast-asia-powered-gravitys-ragnarok-m-to-50-million-a-month/",
+        "https://seekingalpha.com/article/4249731-gravity-co-ltd-q4-2018-was-a-record-quarter-still-the-best-is-yet-to-come",
+        "https://www.globenewswire.com/news-release/2018/11/06/1645929/0/en/Ragnarok-M-Eternal-Love-marks-No-1-on-Google-Play-in-Three-Countries-followed-by-Apple-Store.html",
+        "https://app.famitsu.com/20190513_1453062/"
+      ]
+    },
+    {
+      "id": 980,
+      "title_jp": "王者栄耀（国際版：Honor of Kings）",
+      "title_en": "Honor of Kings (Global)",
+      "developer": "TiMi Studio Group",
+      "publisher": "Tencent / Level Infinite",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "5v5 モバイルMOBA",
+      "sales_jp": null,
+      "sales_world": "全世界DL 5,000万+ (国際版初月, 2024)、生涯累計収益 $13B 超 / 2024年単年 $2.6B (年間世界1位)、2025年H1 $895M (Sensor Tower / Statista)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2024年6月22日に中国版『王者栄耀』を国際展開し、初月で5,000万DLを獲得。2024年に26億ドルを稼ぎ年間世界1位、累計収益は45億ドル超でモバイル史上最高売上MOBAとなった。2025年もH1で8.95億ドル、6月単月で1.43億ドルを記録しSEA中心に日次2.6億MAUに到達 (Sensor Tower, buffget, Statista)。",
+      "slug": "honor-of-kings",
+      "concept": "5v5 即時対戦のモバイルMOBA。1試合10〜15分のセッション体験を軸に、英雄(キャラ)解放・スキン課金・ランクマッチ・プロリーグ観戦まで包括し、東南アジア／中華圏で「スマホで完結する正統派MOBA」のスタンダードを築いた。",
+      "target": "スマホでLoL／DotA系の競技MOBAを短時間で楽しみたい東南アジア・中華圏・MENA・南米のプレイヤー、e-sports視聴層、スキン収集を兼ねるカジュアル〜ミドルコア層。",
+      "_source_urls": [
+        "https://sensortower.com/blog/honor-of-kings-expands-globally-with-strong-launch",
+        "https://sensortower.com/blog/honor-of-kings-revenue-4-billion",
+        "https://buffget.com/news/honor-of-kings-revenue-trends-2025-dollar200m-monthly-breakdown-and-global-growth-forecast-1psxuyi",
+        "https://www.statista.com/statistics/1231125/tencent-global-mobile-game-revenue-of-honor-of-kings/",
+        "https://mobilegamer.biz/data-digest-honor-of-kings-western-launch-peak-hits-5bn-monopoly-gos-lucrative-live-op-japan-market-stats-and-more/"
+      ]
+    },
+    {
+      "id": 981,
+      "title_jp": "エッグィパーティー",
+      "title_en": "Eggy Party",
+      "developer": "NetEase (Hangzhou Leihuo Studio)",
+      "publisher": "NetEase Games",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "カジュアル・パーティーバトルロイヤル",
+      "sales_jp": null,
+      "sales_world": "累計プレイヤー支出 $750M超 (中国が98%、ピークの2023年は$395.7M / 2024年$183M / 2025年$158.7M、Sensor Tower)。中国MAUは2023年春に6,000万超、後に1億MAU到達(NetEase公式)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2023年春に中国MAU 6,000万超に達しNetEase最多DAUタイトルとなり、その後1億MAUを突破。2023/9にSEA、2024/2に全世界展開。累計プレイヤー支出は7億5,000万ドルを超えたが、収益の98%は中国市場依存。",
+      "slug": "eggy-party",
+      "concept": "「Fall Guys」系のカジュアルパーティーバトロワを中国Z世代向けに最適化し、ぷにぷにのタマゴキャラ・UGCマップ作成・季節イベントを軸に軽量セッション体験を提供。ボイスチャット込みの4人パーティ＋最大32人マッチで「友達と遊ぶ場」として機能する。",
+      "target": "スマホでサクッと友人とワイワイ遊びたい中高生〜大学生、特に中国本土のZ世代女性ユーザー比率が高く、SEAではキュート系カジュアル対戦を求めるライトゲーマー層に支持。",
+      "_source_urls": [
+        "https://gam3s.gg/news/eggy-party-hits-750-million-in-mobile-spending/",
+        "https://www.pocketgamer.biz/eggy-party-cracks-750m-in-mobile-player-spending/",
+        "https://www.statista.com/statistics/1421838/eggy-party-mau-china/",
+        "https://www.neteasegames.com/news/20240227/37000_1140075.html",
+        "https://www.bluestacks.com/blog/news/eggy-party-released-in-sea-regions-en.html"
+      ]
+    },
+    {
+      "id": 982,
+      "title_jp": "PUBG Mobile / 和平精英",
+      "title_en": "PUBG Mobile / Game for Peace",
+      "developer": "Lightspeed & Quantum Studios (Tencent)",
+      "publisher": "Tencent / Krafton",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "バトルロイヤルFPS/TPS",
+      "sales_jp": null,
+      "sales_world": "累計DL17.5億・累計収益150億ドル超 (Sensor Tower 2026/1)、2025年年間収益12億ドル、MAU 1.13億 (2025/6)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2026年1月時点で累計DL約17.5億、累計収益150億ドル超。2025年は年間12億ドル稼ぎ、月間アクティブ約1.13億・DAU約2400万を維持する世界最大級のモバイルシューター。",
+      "slug": "pubg-mobile-game-for-peace",
+      "concept": "100人参加のバトルロイヤルをスマホで本格再現したFPS/TPS。中国版「和平精英」はPUBG本編が版号取得できず、規制対応のため別タイトル化された事実上の同一作で、Tencentのモバイル収益柱として君臨する。",
+      "target": "スマホで本格的なシューター対戦をしたい競技志向プレイヤー、PCシューターをモバイルで遊びたい若年層、中国国内の若年男性ユーザー層。",
+      "_source_urls": [
+        "https://sensortower.com/blog/pubg-mobile-8-billion-revenue",
+        "https://www.blog.udonis.co/mobile-marketing/mobile-games/tencent",
+        "https://pubg.fandom.com/wiki/Game_for_Peace",
+        "https://rec0ded88.com/statistics/pubg-mobile/"
+      ]
+    },
+    {
+      "id": 983,
+      "title_jp": "ディアブロ・イモータル",
+      "title_en": "Diablo Immortal",
+      "developer": "Blizzard Entertainment / NetEase",
+      "publisher": "Blizzard Entertainment (西側) / NetEase (中国)",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ハクスラ系MMOアクションRPG",
+      "sales_jp": null,
+      "sales_world": "全世界DL 約3,440万 / 累計モバイル収益 約$404M (Sensor Tower / Statista 2026)、2022年単年で$160.8M、ローンチ8週間で$100M突破、5ヶ月で$300M到達",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "協力",
+      "popularity": "2022年6月に60ヶ国同時ローンチし8週間で1億ドル、5ヶ月で3億ドル(うち中国版1.45億ドル)を売り上げた大型タイトルで、2026年現在も平均DAU 42万人超を維持する。Pay-to-Winと批判されながらモバイルアクションRPGとして異例の累計$404Mを達成した。",
+      "slug": "diablo-immortal",
+      "concept": "Diablo III と IV の間を埋める正史ストーリーを舞台に、6クラスのハクスラ周回と装備のレジェンダリージェム強化を軸にしたクロスプレイ対応のフリートゥプレイMMOアクションRPG。ダンジョン・レイド・PvPを最大144人サーバーで遊ぶ。",
+      "target": "PC版Diabloシリーズの既存ファンに加え、スマホでハクスラ周回と装備強化のドーパミンループを味わいたいモバイルRPGユーザー、ギルド単位でPvE/PvPを遊びたいライト〜ミドル層。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Diablo_Immortal",
+        "https://www.statista.com/statistics/1325853/diablo-immortal-player-spending-app/",
+        "https://www.blog.udonis.co/mobile-marketing/mobile-games/diablo-immortal-player-count",
+        "https://sensortower.com/blog/diablo-immortal-mobile-100-million-revenue",
+        "https://activeplayer.io/diablo-immortal/"
+      ]
+    },
+    {
+      "id": 984,
+      "title_jp": "Garena フリーファイア",
+      "title_en": "Garena Free Fire",
+      "developer": "111dots Studio / Garena",
+      "publisher": "Garena (Sea Group)",
+      "year": 2017,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "モバイル特化バトルロイヤル",
+      "sales_jp": null,
+      "sales_world": "2024年DL 2.84億・年間収益 $408M、累計収益 $4B超、MAU 100M (2024 Feb)→130M (2025初)、DAU 約33M (Sensor Tower / Business of Apps 2024-2025)",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "ローエンド Android 端末でも快適に動く軽量設計を武器に、LATAM・東南アジア・インド（BGMI 規制後）で支配的な MAU 1億超のメガヒット級バトロワ。Sensor Tower 集計では 2024 年単年で 2.84 億 DL・$408M の収益を叩き出し、累計収益は 40 億ドルを突破した。",
+      "slug": "garena-free-fire",
+      "concept": "10 分以内・50 人マッチに圧縮した軽量モバイル特化バトロワ。キャラ固有スキル＋スキン課金で PUBG・Fortnite が届かない低スペック端末層を最大化し、ガチャ的スキン経済で長期運営。",
+      "target": "ハイエンド端末を持たない新興国（ブラジル・インド・東南アジア）の 10–20 代モバイル FPS 層。短いセッションで友人とボイチャ対戦したいカジュアル競技層。",
+      "_source_urls": [
+        "https://www.businessofapps.com/data/free-fire-statistics/",
+        "https://mobilemarketingreads.com/garena-free-fire-revenue-and-download-statistics/",
+        "https://www.blog.udonis.co/mobile-marketing/mobile-games/free-fire-player-count",
+        "https://gamedevreports.substack.com/p/sensor-tower-mobile-market-in-2025"
+      ]
+    },
+    {
+      "id": 985,
+      "title_jp": "ライズ・オブ・キングダム ―万国覚醒―",
+      "title_en": "Rise of Kingdoms: Lost Crusade",
+      "developer": "Lilith Games",
+      "publisher": "Lilith Games",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "4Xリアルタイム文明ストラテジー（MMO SLG）",
+      "sales_jp": null,
+      "sales_world": "全世界累計収益 35億ドル超、累計DL 1億超、年間ピーク 6.26億ドル(2020年)、米国25.6%・中国14.4%・韓国12.6%の収益シェア (Sensor Tower 2024-05)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2024年5月時点で全世界累計収益35億ドル超（Sensor Tower）、累計DLは1億を突破し、米国（25.6%）・中国（14.4%）・韓国（12.6%）が三大市場。2020年の年間収益6.26億ドルでピークを記録し、その後も2025年Q2に週次最大100万ドル規模を維持する長寿モバイルSLG。",
+      "slug": "rise-of-kingdoms-lost-crusade",
+      "concept": "中国・ローマ・日本・ドイツなど11文明から選択し、自国の都市を発展させながら同じサーバーの数千人プレイヤーと同盟・領土戦・要塞戦を行う、シームレスマップ採用の4XリアルタイムMMOストラテジー。英雄ガチャと装備・才能ツリー育成、KvK（王国間戦争）イベントが長期課金ループを駆動する。",
+      "target": "Clash of KingsやState of Survival、エボニーなど海外発モバイルSLGに馴染んだ20〜40代の重課金層と、文明・歴史IPが好きな戦略ゲーマー。1日複数回の建設・採集・連盟行動をこなせるコア向けで、KvK期は社会人〜リタイア層が中心の同盟ベース運営。",
+      "_source_urls": [
+        "https://mobidictum.com/rise-of-kingdoms-3-5-billion-global-revenue/",
+        "https://app2top.com/news/analysts-revenue-from-rise-of-kingdoms-exceeded-3-5-billion-267142.html",
+        "https://sensortower.com/blog/2025-q2-unified-top-5-historical%20games-revenue-us-60188699241bc16eb8409802",
+        "https://app.sensortower.com/overview/1354260888?country=US"
+      ]
+    },
+    {
+      "id": 986,
+      "title_jp": "ナラカ:ブレードポイント モバイル",
+      "title_en": "Naraka: Bladepoint Mobile",
+      "developer": "24 Entertainment (NetEase傘下 / NetEase 24 Studio)",
+      "publisher": "NetEase Games",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "近接武術バトルロイヤル",
+      "sales_jp": null,
+      "sales_world": "事前登録4,000万超、2024/7/25中国独占ローンチ初月課金推計¥9億元(約$130M)、ローンチ後4ヶ月で新規ユーザー5,000万、Goldman Sachs予測初年度中国だけで¥64億元(約$880M)、PC版未経験ユーザーが70%",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2024年中国モバイル市場最大級のローンチの一つで、初月課金約$130M・初年度予測$880M(中国のみ)とNetEaseのQ3売上成長を牽引した。App Storeフリーランキング首位を獲得し、新規モバイル層が7割を占めた。",
+      "slug": "naraka-bladepoint-mobile",
+      "concept": "PC版『永劫無間』のIPをモバイルへ完全再構築した近接武術バトルロイヤル。鉤縄(飛索)による空中機動とパリィ中心の冷兵器格闘を、タッチ操作向けに最適化しソロ/トリオで競う。",
+      "target": "PC版経験者だけでなく、スマホで本格アクションPvPを求める中国アクション・武侠ファン層。PUBG Mobileや荒野行動で物足りなくなった近接戦闘志向のバトロワプレイヤー。",
+      "_source_urls": [
+        "https://gameworldobserver.com/2024/07/24/naraka-bladepoint-mobile-revenue-880-million-in-china",
+        "https://en.wikipedia.org/wiki/Naraka:_Bladepoint",
+        "https://www.enduins.com/news/naraka-bladepoint-mobile-launching-in-china-on-july-25-2024",
+        "https://www.globalgamesforum.com/news/top-trending-mobile-games-of-july",
+        "https://www.benzinga.com/news/24/07/39936355/neteases-naraka-bladepoint-mobile-game-launch-boosts-stock-ahead"
+      ]
+    },
+    {
+      "id": 987,
+      "title_jp": "逆水寒モバイル",
+      "title_en": "Justice Mobile (Sword of Justice)",
+      "developer": "NetEase Thunder Fire Studio",
+      "publisher": "NetEase Games",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "オープンワールド武侠MMORPG",
+      "sales_jp": null,
+      "sales_world": "2023年中国ローンチ後、事前登録4,000万、初5日で2,330万ドル(App Store)、2023年7月単月で約1.13億ドル(Sensor Tower世界3位)、2023年通年で3.58億ドル超、日商150-370万ドル規模 (AppMagic / Sensor Tower 2023)",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "協力",
+      "popularity": "2023年6月30日の中国ローンチ直後にApp Store売上ランキング1位を獲得し、リリース3週間で課金収益4,000万ドル・累計DL600万を突破。NetEase株価を9ヶ月で85%押し上げた同社のフラッグシップヒット。",
+      "slug": "justice-mobile",
+      "concept": "北宋を舞台にした武侠世界を再現するオープンワールドMMORPGで、生成AIで動的に応答するNPC対話システムや「Pay-to-Winではない」課金設計、レイトレ対応のハイエンドグラフィックを売りに、開発費10億元($140M)を投じた次世代モバイルMMO。",
+      "target": "中国本土の武侠IPファンと、PC級グラフィックのMMOをスマホで遊びたいハードコアMMORPG層。2025年11月の「Sword of Justice」グローバル版以降は日本含む海外のMMO/ガチャ層も射程に。",
+      "_source_urls": [
+        "https://gamebiz.jp/news/373770",
+        "https://36kr.jp/263677/",
+        "https://gameworldobserver.com/2023/07/20/justice-mobile-revenue-netease-budget-140-million",
+        "https://gamedevreports.substack.com/p/a-new-mmorpg-from-netease-justice",
+        "https://www.mmorpg.com/news/netease-launches-sword-of-justice-a-no-pay-to-win-wuxia-fantasy-mmo-with-ai-powered-npcs-2000136545",
+        "https://www.neteasegames.com/jp/news/20251031/37024_1268129.html"
+      ]
+    },
+    {
+      "id": 988,
+      "title_jp": "燕雲十六声",
+      "title_en": "Where Winds Meet",
+      "developer": "Everstone Studio (NetEase)",
+      "publisher": "NetEase Games",
+      "year": 2025,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "オープンワールド武侠アクションRPG",
+      "sales_jp": null,
+      "sales_world": "累計モバイル収益 $223.7M（中国 $187M / 海外 $22.1M含む, Sensor Tower 2026/2）、累計プレイヤー8,000万人（2026/2）",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "中国モバイル版2025年1月9日、グローバルモバイル版2025年12月12日にローンチ。2026年2月時点で累計プレイヤー8,000万人、モバイル累計収益2.237億ドル（うち中国77%）を達成し、Genshin型武侠オープンワールドとして中国新作モバイル収益首位級に躍り出た。",
+      "slug": "where-winds-meet",
+      "concept": "五代十国を舞台に剣戟・軽功・釣り・料理など多彩な江湖体験を提供する基本無料オープンワールド武侠ARPG。ガチャによる武芸書（流派）と装備の収集・育成、シーズン更新と門派加入を主軸に、PCと完全クロスプレイ・クロスプログレッションで遊べる。",
+      "target": "原神／鳴潮型のグローバル基本無料オープンワールドに親しみ、かつ武侠・中華ファンタジー世界観や江湖ロールプレイ（仙人・侠客・職人）に魅力を感じる中華圏中心の20–30代モバイル＋PCプレイヤー。",
+      "_source_urls": [
+        "https://respawn.outlookindia.com/gaming/gaming-news/where-winds-meet-hits-2237m-in-global-mobile-revenue-for-netease",
+        "https://technode.com/2025/12/16/neteases-where-winds-meet-reaches-15-million-global-players-within-first-month/",
+        "https://www.neteasegames.com/news/20251212/37000_1276266.html",
+        "https://en.wikipedia.org/wiki/Where_Winds_Meet"
+      ]
+    },
+    {
+      "id": 989,
+      "title_jp": "ペルソナ5: ザ・ファントムX",
+      "title_en": "Persona 5: The Phantom X",
+      "developer": "Black Wings Game Studio (Perfect World傘下)",
+      "publisher": "Perfect World (中国・韓国) / Iwplay World (台湾・東南アジア) / Sega (グローバル)",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ターンベースRPG × キャラガチャ（ソーシャルシミュレーション要素あり）",
+      "sales_jp": "不明（2025/6/26グローバル版日本配信、初日DL150万超で日本App Store無料1位）",
+      "sales_world": "グローバル版初日DL150万超、月間iOS新規DL約40万・収益約$700K（Sensor Tower 2025年7月推計）、29th DICE Awards Mobile Game of the Year受賞",
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2024年4月中国オープンβ、2025年6月26日グローバル英語版配信開始で初日DL150万超を記録し日本App Store無料1位。TGA 2025 Best Mobile Gameノミネート、29th DICE Awards Mobile Game of the Year受賞と批評的にも高評価のペルソナ初の本格モバイル展開。",
+      "slug": "persona-5-the-phantom-x",
+      "concept": "『ペルソナ5』の世界観・UI・楽曲・戦闘システム（1moreや総攻撃）をそのまま継承し、新主人公「永久」を軸に怪盗団キャラをガチャで集めながらコープ／パレス／メメントスをモバイル＆PCで遊ぶ基本無料スピンオフ。",
+      "target": "『ペルソナ5』ファンおよび高クオリティのキャラガチャRPGを求めるモバイルゲーマー。スタイリッシュなアートと長期運営型コンテンツを楽しみたい層。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Persona_5:_The_Phantom_X",
+        "https://personacentral.com/p5x-the-game-awards/",
+        "https://personacentral.com/persona-worldwide-sales-fy-q1-2026/",
+        "https://revenue.ennead.cc/games/phantom-x",
+        "https://appmedia.jp/app_review/79038131",
+        "https://persona5x.com/news/details/000435ploruwof.html"
+      ]
+    },
+    {
+      "id": 990,
+      "title_jp": "VALORANTモバイル(無畏契約)",
+      "title_en": "VALORANT Mobile",
+      "developer": "Riot Games / Lightspeed Studios (Tencent)",
+      "publisher": "Tencent (中国) / Riot Games",
+      "year": 2025,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "5v5戦術タクティカルFPS",
+      "sales_jp": null,
+      "sales_world": "中国初日 iOS DL 17万 / 課金 $1M、MAU 5,000万超 (Tencent Q3 2025決算), 事前登録 6,000万以上",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2025年8月19日に中国で正式ローンチし、事前登録6,000万件・初日17万DLと$1M課金・MAU 5,000万超を記録した中国市場2025年最大規模のモバイルローンチ。Riot/Tencentが3年で約2億ドル(15億元)をeスポーツ生態系に投資し、Show Cupや中国ナショナルサーキットを展開している。",
+      "slug": "valorant-mobile",
+      "concept": "PC版VALORANTの戦術FPS体験をスマートフォン向けに最適化した5v5キャラクターベースシューター。全18エージェント・7マップ・10モードをローンチ時から開放し、PC版同等の競技性とアビリティ駆動の撃ち合いをモバイル操作で再現する。",
+      "target": "PC版VALORANT/CS系タクティカルFPSのファン、中国のモバイルeスポーツ志向プレイヤー、PUBG Mobile/Call of Duty Mobileに続く競技系FPSを求めるユーザー層。",
+      "_source_urls": [
+        "https://www.pocketgamer.biz/valorant-mobile-is-chinas-most-successful-mobile-launch-of-2025/",
+        "https://wnhub.io/news/other/item-48602",
+        "https://substack.nikopartners.com/p/tencent-to-publish-valorant-mobile",
+        "https://esportsinsider.com/2025/04/valorant-mobile-pre-registration-is-now-open-in-china",
+        "https://valomobile.net/news/valorant-mobile-china-launch"
+      ]
+    },
+    {
+      "id": 991,
+      "title_jp": "エイサーゲイザー",
+      "title_en": "Aether Gazer",
+      "developer": "Xiamen Yongshi Network Technology",
+      "publisher": "Yostar Inc.",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "3D SFアクションRPG × ガチャ",
+      "sales_jp": null,
+      "sales_world": "全世界500万DL以上 (Google Play / App Store 累計), GACHAREVENUE上位常連、月商数百万ドル規模 (Sensor Tower推計, 2024-2025)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "中国版2022/4ローンチ後、グローバル版2023/5に展開し、Honkai Impact 3rd系後継3DアクションとしてGACHAREVENUE上位常連。神話×サイバーパンクの世界観とハイスピード戦闘で東アジア中心に固定ファン層を形成している。",
+      "slug": "aether-gazer",
+      "concept": "人類の意識をAI「Gaea」にアップロードした近未来ディストピアで、神話モチーフの「Modifier」3人編成スコッドを操作し、コンピュータウイルス「Visbane」と戦う高速ハクスラ型3DアクションRPG。キャラ・武器ガチャと装備育成ループが主軸。",
+      "target": "Honkai Impact 3rd / Punishing Gray Raven / NIKKE 等の3Dガチャアクションを好み、神話×サイバーパンク世界観の美少女キャラ収集と操作スキル両立を楽しみたい中重度モバイルゲーマー。",
+      "_source_urls": [
+        "https://www.bluestacks.com/blog/app-reviews/aether-gazer-review-en.html",
+        "https://news.qoo-app.com/en/post/125251/aether-gazer-cbt-preview",
+        "https://www.pockettactics.com/aether-gazer/release-date",
+        "https://revenue.ennead.cc/revenue",
+        "https://www.gamerbraves.com/pc-client-for-aether-gazer-announced/",
+        "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AetherGazer",
+        "https://www.similarweb.com/app/google/com.YoStar.AetherGazer/"
+      ]
+    },
+    {
+      "id": 992,
+      "title_jp": "ステート・オブ・サバイバル",
+      "title_en": "State of Survival",
+      "developer": "KingsGroup Holdings (FunPlus傘下、深圳/北京)",
+      "publisher": "KingsGroup (FunPlus)",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ゾンビ世界観 4X SLG",
+      "sales_jp": null,
+      "sales_world": "累計DL 1.37億、累計収益 $1.69B（2021年 $516M ピーク、2025年 $63M / Udonis・Sensor Tower集計）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "累計DL 1.37億、累計収益 16.9億ドル超（2021年ピーク年 5.16億ドル）。中国デベロッパー製モバイル4X SLGの代表格として、Whiteout Survival / Last War登場前の欧米SLG市場を切り拓いた金字塔的タイトル。",
+      "slug": "state-of-survival",
+      "concept": "ゾンビ・パンデミック後の世界で「セトルメント」を建設・拡張し、生存者を救出・育成しながらギルド（State）単位で他プレイヤーと領土を奪い合う、シティビルド型 4X ストラテジー。Walking Dead等のIPコラボやヒーロー収集レイヤーで欧米モバイルSLGの定型を確立した。",
+      "target": "欧米・東アジアの中重課金モバイルSLG層。基地育成や英雄収集の長期運用を楽しめる成人層を中心に、ギルド戦争（KvK / SvS）で連帯感や競争を求めるソーシャル志向プレイヤー向け。",
+      "_source_urls": [
+        "https://www.blog.udonis.co/statistics/state-of-survival",
+        "https://gameworldobserver.com/2022/09/05/state-of-survival-hits-150-million-downloads",
+        "https://funplus.com/games/state-of-survival/",
+        "https://en.wikipedia.org/wiki/FunPlus"
+      ]
+    },
+    {
+      "id": 993,
+      "title_jp": "トップウォー：Battle Game",
+      "title_en": "Top War: Battle Game",
+      "developer": "Topwar Studio (River Game / Rivergame)",
+      "publisher": "Topwar Studio (River Game)",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "マージ × 4X SLG（ハイブリッド・ストラテジー）",
+      "sales_jp": null,
+      "sales_world": "グローバル展開90日で1,900万DL・IAP$83M超、累計DL約4,000万（うちUS 7.8M）。2024年は四半期売上$2-3M規模で推移、2026年初時点でも月商$3M・月間DL約60万を維持（Sensor Tower / Yodo1 / Cocos 各種出典）。",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2019年中国リリース後、グローバル展開90日で累計約1,900万DL、その後累計4,000万DL超・累計IAP$83M超を記録。マージ系カジュアル要素と4X SLGを融合させ米国SLG市場の新潮流（後のLast War: Survival等のハイブリッドSLG群）を切り拓いた先駆作とされ、2024年時点でも月商$1M前後を継続している長寿タイトル。",
+      "slug": "top-war-battle-game",
+      "concept": "兵士・建物・兵器を同レベル同士で「マージ」して即座に強化できる手触りの良いカジュアル操作と、領地経営・同盟・サーバー間PvPからなる本格4X SLGを融合させた、ハイブリッドSLGのジャンル定義タイトル。長い待ち時間を排除し、ライト層を4Xの世界へ橋渡しした。",
+      "target": "放置・マージ系のテンポを好むカジュアル層から入り、同盟戦やサーバー間戦争で長期的にリソースと戦力を積み上げたい欧米中心の中重課金SLGプレイヤー。Clash of Kings / Rise of Kingdoms系の同盟戦SLG経験者と、Merge Dragons等のマージゲー出身者の両方を取り込む設計。",
+      "_source_urls": [
+        "https://www.gamerefinery.com/top-war-battle-game-a-quick-glimpse-on-the-4x-strategy-hit/",
+        "https://www.cocos.com/en/post/climbing-the-charts-worldwide-in-2020-top-war-battle-game",
+        "https://www.yodo1.com/transformers-x-top-war-phase-2-breaks-more-records/",
+        "https://sensortower.com/blog/2024-q1-ios-top-5-military%20games-revenue-us-600f8d2b241bc16eb89ce40d",
+        "https://appmagic.rocks/iphone/top-war-battle-game/1479198816/",
+        "https://play.google.com/store/apps/details?id=com.topwar.gp"
+      ]
+    },
+    {
+      "id": 994,
+      "title_jp": "陰陽師アリーナ",
+      "title_en": "Onmyoji Arena",
+      "developer": "NetEase",
+      "publisher": "NetEase Games",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "5v5モバイルMOBA（陰陽師IP）",
+      "sales_jp": null,
+      "sales_world": "全世界DL約930万、直近30日DL約2.6万・米Google Play月間収益約$30K（Sensor Tower 2024）",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2018年に中国発でグローバル展開した陰陽師IPの5v5 MOBA。Honor of KingsやMobile Legendsの牙城には食い込めず累計DLは1000万未満だが、ルーンフリー設計と和風美術で固定ファン層を獲得しているニッチ作品。",
+      "slug": "onmyoji-arena",
+      "concept": "人気RPG『陰陽師』の式神たちを操作キャラとして再構成した5v5モバイルMOBA。従来MOBAのルーンシステムを廃した「陰陽道」システムによりキャラ性能をフラット化し、操作と戦術判断で勝敗が決まる対戦体験を提供する。",
+      "target": "陰陽師IPファンと、Honor of Kings/MLBBより手軽でキャラ課金パワー差の小さいモバイルMOBAを求める東アジア中心のPvPプレイヤー層。",
+      "_source_urls": [
+        "https://sensortower.com/blog/2024-q1-ios-top-5-moba-revenue-au-6040a6f5241bc16eb8a537f2",
+        "https://app.sensortower.com/overview/com.netease.g78na.gb?country=US",
+        "https://apps.apple.com/jp/app/onmyoji-arena/id1343073274",
+        "https://www.onmyojiarena.us/"
+      ]
+    },
+    {
+      "id": 995,
+      "title_jp": "キングショット",
+      "title_en": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "publisher": "Century Games",
+      "year": 2025,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "4X SLG / Idle Survival Strategy",
+      "sales_jp": "2025年5月以降、日本DL数・収益ともに前月比10倍超に急伸（Sensor Tower 2025）",
+      "sales_world": "全世界DL 6,000万超、初年度（2025/2-2026/2）累計収益 $811M、最高月商 $102.2M（2026年1月）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2025年2月のグローバル配信から9ヶ月未満で累計プレイヤー支出$500M超、初年度には$811Mを突破。米国売上Top10、33市場でTop100入りし、Century Gamesを2025年の世界モバイル開発者ランキング首位に押し上げた看板タイトル。",
+      "slug": "kingshot",
+      "concept": "中世ファンタジー世界で領主となり、放置で育つ村の再建・タワーディフェンス・同盟戦争・世界マップ征服を融合した4X×アイドルサバイバルSLG。『Whiteout Survival』のフォーマットを中世IPに移植したCentury Gamesの4Xポートフォリオ第二弾。",
+      "target": "『ライズ・オブ・キングダム』『Whiteout Survival』『ステート・オブ・サバイバル』のような長期運営型4X SLGで、放置編成・建設・同盟戦・課金VIPを楽しむ30-50代の戦略系モバイルゲーマー。",
+      "_source_urls": [
+        "https://appfigures.com/resources/insights/kingshot-500m-revenue-century-games",
+        "https://games.gg/news/kingshot-first-year-revenue-tops-811m-amid-player-backlash/",
+        "https://www.pocketgamer.biz/kingshots-first-year-800m-11-months-of-growth-but-backlash-from-whales/",
+        "https://sensortower.com/ja/blog/kingshot-and-whiteout-survival-JP",
+        "https://apps.apple.com/jp/app/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/id6739554056",
+        "https://naavik.co/digest/century-games-4x-portfolio-strategy/"
+      ]
+    },
+    {
+      "id": 996,
+      "title_jp": "ラストZ：サバイバル",
+      "title_en": "Last Z: Survival Shooter",
+      "developer": "Florere Game Limited",
+      "publisher": "Florere Game Limited",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "4X SLG / Zombie Survival Shooter",
+      "sales_jp": null,
+      "sales_world": "全世界DL 10,000,000+（Google Play 2026年時点）、月間収益 約$20M（Google Play）+ $24M（App Store）= 約$44M/月（Sensor Tower 2026年3月推計）、2025年4Xストラテジー世界売上4位",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2024年6-7月リリース後、全世界DL1,000万超・月間収益$20-24M規模に到達し、2025年の4Xストラテジー世界売上ランキングで第4位（Last War / Whiteout Survival / Top Heroes に続く）に食い込んだ。10月にはJanuary比15.5倍の伸びを記録し、米国IAP収益Top10 4Xに名を連ねる急成長タイトル。",
+      "slug": "last-z-survival-shooter",
+      "concept": "「Last War: Survival」のホーム画面ミニシューター＋4X基地建設＋ギルド戦という勝ちパターンを継承し、ゾンビアポカリプス世界観でリスキンしたフォロワー作。Dodge&Shootのカジュアル広告から本格的なExplore/Expand/Exploit/Exterminateの4X SLGに送客するハイブリッド構造で、レベル上げ・装備強化・同盟戦争の長期周回を主動機とする。",
+      "target": "Last War / Whiteout Survival / State of Survival 等のSurvivor系4XモバイルSLG経験者、ゾンビ・アポカリプスIPに親和性のある30-40代男性課金層。広告で誘引されたカジュアル層をギルド戦・課金パックへ巻き込む、中華系SLGの典型的ユーザー像。",
+      "_source_urls": [
+        "https://sensortower.com/blog/top10-worldwide-mobile-games-revenue-downloads-june-2025",
+        "https://mobilegamer.biz/data-digest-us-and-2025-market-stats-ceo-optimism-decembers-top-games-more/",
+        "https://app.sensortower.com/overview/com.readygo.barrel.gp?country=US",
+        "https://appagg.com/android-games/strategy/last-z-survival-shooter-39304237.html",
+        "https://apps.apple.com/id/app/last-z-survival-shooter/id6503272652"
+      ]
+    },
+    {
+      "id": 997,
+      "title_jp": "トップヒーローズ：キングダムサーガ",
+      "title_en": "Top Heroes: Kingdom Saga",
+      "developer": "River Game HK Limited（中国）",
+      "publisher": "River Game",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "4X SLG / Idle Card Hybrid（ストラテジーRPG）",
+      "sales_jp": null,
+      "sales_world": "全世界5,000万DL超、2024年海外売上1億ドル超（AppMagic）、2025年上半期収益$107.3M（Sensor Tower）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2024年に海外売上1億ドルを突破し、2025年上半期だけで$107.3Mを稼いだ4X SLGのダークホース。Last War / Whiteout Survivalと並ぶ「アイドルカード×4X」融合ジャンルの代表格としてグローバルチャート上位を維持している。",
+      "slug": "top-heroes-kingdom-saga",
+      "concept": "領地建設・英雄編成・同盟戦からなる伝統的なモバイル4X SLGに、放置収集・カードガチャ要素を融合したハイブリッド。短時間のアイドルRPGループで進行し、終盤は同盟非同期PvPで競う構造で「軽い手触りの4X」として参入障壁を下げた点が差別化要因。",
+      "target": "Rise of Kingdoms / Top War / Whiteout Survival等の本格4X SLGを長時間遊ぶのは重いが、ヒーロー収集と放置進行で気軽に楽しみたい中課金〜廃課金層。30〜40代男性中心のグローバル市場（北米・欧州・東南アジア）。",
+      "_source_urls": [
+        "https://apps.apple.com/us/app/top-heroes-kingdom-saga/id6450953550",
+        "https://www.rivergame.net/topheroes/en/home.html",
+        "https://www.pocketgamer.biz/the-top-grossing-mobile-games-of-2025/",
+        "https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-october-2025",
+        "https://longportapp.com/en/news/225809519"
+      ]
+    },
+    {
+      "id": 998,
+      "title_jp": "シー・オブ・コンクエスト：パイレーツ・ウォー",
+      "title_en": "Sea of Conquest: Pirate War",
+      "developer": "FunPlus International AG",
+      "publisher": "FunPlus",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMO SLG / Pirate Strategy",
+      "sales_jp": null,
+      "sales_world": "ソフトローンチ期に登録1億達成、Q1 2024で週次収益$26K→$826Kへ急成長、Q2 2024 WAUピーク1.2M (Sensor Tower / FunPlus 公式発表)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "FunPlusの『State of Survival』『Guns of Glory』に続く戦略系SLG主力タイトルで、ソフトローンチ段階で登録1億を突破し、2024年1月のグローバル正式版以降は急上昇モバイルSLGとして話題化。Q2 2024には週次アクティブが100万を超える規模に達した。",
+      "slug": "sea-of-conquest-pirate-war",
+      "concept": "広大な海洋を舞台にしたAAA級ピレーツMMO SLG。船体カスタマイズ・船員ガチャ・基地建設・艦隊運営に、海戦・港湾占領・サーバー横断のシーズン戦を組み合わせ、ギルド（同盟）間の領土争奪を主軸とする長期運営型ストラテジー。",
+      "target": "『State of Survival』『Rise of Kingdoms』『King of Avalon』などの欧米向けMMO SLG経験者と、海賊・大航海テーマを好む30〜50代の男性ライト〜ミドル課金層。",
+      "_source_urls": [
+        "https://funplus.com/games/sea-of-conquest/",
+        "https://www.gamespress.com/FUNPLUS-LAUNCHES-SEA-OF-CONQUEST-PIRATE-WAR-AFTER-HITTING-100M-DOWNLOA",
+        "https://sensortower.com/blog/2024-q1-unified-top-5-pirate%20games-revenue-us-6023ec24241bc16eb8fd52e3",
+        "https://sensortower.com/blog/2024-q2-unified-top-5-pirate%20games-revenue-es-6023ec24241bc16eb8fd52e3",
+        "https://apps.apple.com/us/app/sea-of-conquest-pirate-war/id6463715971",
+        "https://play.google.com/store/apps/details?id=com.seaofconquest.global"
+      ]
+    },
+    {
+      "id": 999,
+      "title_jp": "ストームショット：アイル・オブ・アドベンチャー",
+      "title_en": "Stormshot: Isle of Adventure",
+      "developer": "FunPlus International AG",
+      "publisher": "FunPlus",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "SLG / Adventure Strategy Hybrid",
+      "sales_jp": null,
+      "sales_world": "月間 約60K DL / 月商 約$3M（iOS $2M + Android $1M、Sensor Tower 2024-2025推計）。FunPlus主要収益源の一つとして欧米ストラテジーTop10常連",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2023-2024年にかけて欧米モバイル広告で大量露出され、ストラテジー収益ランキング常連に定着。日本でもApp Store総合上位入りすることがありポイ活案件としても定番化している",
+      "slug": "stormshot-isle-of-adventure",
+      "concept": "「アングリーバード風の物理パズル射撃」と「拠点建設＋同盟戦のSLG」を二重構造で組み合わせた海賊・宝探しテーマのハイブリッド作品。パズル進行で資源を獲得し、それを拠点強化と同盟戦に注ぎ込むループで長期課金を引き出す設計",
+      "target": "広告経由で流入するライト〜ミドル層と、SLG経験者の同盟プレイヤーの両方を狙う。パズルで気軽に遊び始めつつ、拠点育成・同盟戦・ランキング報酬で長く課金させる「ハイブリッド導線」型のプレイヤー層が中心",
+      "_source_urls": [
+        "https://funplus.com/games/stormshot_isle_of_adventure/",
+        "https://apps.apple.com/us/app/stormshot-isle-of-adventure/id6443388218",
+        "https://play.google.com/store/apps/details?id=com.sivona.stormshot.e",
+        "https://app.sensortower.com/overview/6443388218?country=us",
+        "https://store.steampowered.com/app/2554670/Stormshot/",
+        "https://www.levelwinner.com/stormshot-isle-of-adventure-guide-tips-tricks-strategies/",
+        "https://en.wikipedia.org/wiki/FunPlus"
+      ]
+    },
+    {
+      "id": 1000,
+      "title_jp": "エイジ・オブ・エンパイア・モバイル",
+      "title_en": "Age of Empires Mobile",
+      "developer": "TiMi Studio Group (Tencent) / World's Edge",
+      "publisher": "Level Infinite (Tencent)",
+      "year": 2024,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "4X SLG / RTS Hybrid",
+      "sales_jp": null,
+      "sales_world": "初週 70+ヶ国でストラテジーTop10入り、launch11日で累計DL 400万、2024年10月単月でDL 380万 / IAP $10.7M、2ヶ月でiOS累計収益 $10M到達 (Sensor Tower 2024-2025)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2024年10月17日のグローバル配信初週に70カ国超でストラテジー無料Top10入りし、わずか11日で累計400万DLを突破。TencentがMS World's Edgeと組んだ欧米SLG市場攻略の主力タイトルとして、日本・台湾・韓国を主要収益源にコンスタントなIAP売上を維持している。",
+      "slug": "age-of-empires-mobile",
+      "concept": "不朽のRTS『Age of Empires』IPを、Lords MobileやRise of Kingdoms型の都市建設＋同盟戦争（4X SLG）フォーマットへ大胆に再構築したモバイル戦略ゲーム。プレイヤーは指導者を選び都市を発展させ、文明アップグレード、英雄ガチャ、同盟ベースの大規模PvPを楽しむ。",
+      "target": "Rise of Kingdoms / Lords Mobile / Evony 等の同盟型SLGプレイヤー層と、AoE IPに郷愁を持つ30-40代のRTSファンを横断的に取り込む狙い。長時間運用＋課金成長を許容する欧米・東アジアのコアSLG層が中心。",
+      "_source_urls": [
+        "https://sensortower.com/blog/top-worldwide-mobile-games-by-revenue-and-downloads-october-2024",
+        "https://app.sensortower.com/news-feed/age-of-empires-mobile-hits-10m-all-time-ios-revenue-in-two-months/674d012918c2ed6163740b9c",
+        "https://ageofempires.fandom.com/wiki/Age_of_Empires_Mobile",
+        "https://www.pocketgamer.biz/how-timi-studio-and-worlds-edge-are-adapting-age-of-empires-for-mobile/",
+        "https://www.oreateai.com/blog/age-of-empires-mobile-launches-globally-can-tencent-leverage-classic-ip-to-tap-into-the-overseas-slg-market/43cb6a02cac605c38abe5b2f51218d40"
+      ]
+    },
+    {
+      "id": 1001,
+      "title_jp": "ドゥームズデイ：ラスト・サバイバーズ",
+      "title_en": "Doomsday: Last Survivors",
+      "developer": "IGG (I Got Games)",
+      "publisher": "IGG",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMO SLG / Zombie Survival Strategy",
+      "sales_jp": null,
+      "sales_world": "2023年売上 約HK$700M、2024年 約HK$1B(前年比+50%)、2025年 HK$1.14B(前年比+12%)、2026年初頭月次総売上HK$130Mを記録。ユーザー数約1億(IGG IR 2025/2026)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "IGGの『Lords Mobile』に続く主力MMO SLG。2024年にAttack on Titanコラボで話題を呼び、NYX Game Awards 2023で5部門受賞。リリースから3年目以降も右肩上がりで年間10億香港ドル規模を維持する長寿タイトル。",
+      "slug": "doomsday-last-survivors",
+      "concept": "ゾンビ災厄後の世界でシェルターを建設・拡張し、サバイバーを収集・育成しつつ同盟（ギルド）単位で資源争奪戦を繰り広げる、ハイクオリティ3Dグラフィック志向のMMOストラテジー。タワーディフェンス型のゾンビ討伐パートで操作介入の楽しさも持たせている。",
+      "target": "『State of Survival』『Last Shelter: Survival』『Lords Mobile』など欧米系MMO SLG経験者、ゾンビ題材のサバイバル世界観を好む20-40代のミドル～ヘビーペイヤー層。同盟運営とランキング競争を継続的に楽しめるプレイヤー向け。",
+      "_source_urls": [
+        "https://prwire.com.au/pr/127638/igg-doomsday-last-survivors-achieves-record-high-monthly-gross-billing-of-hk-130-million",
+        "https://statics.9458.com/game/9900/article/2025/03/26/083340_67e40234d4f079996.pdf",
+        "https://dls.igg.com/?lang=jpn",
+        "https://www.phatmansafterschool.com/doomsday/",
+        "https://app.sensortower.com/overview/1552206075?country=US"
+      ]
+    },
+    {
+      "id": 1002,
+      "title_jp": "ヴァイキング・ライズ",
+      "title_en": "Viking Rise",
+      "developer": "IGG",
+      "publisher": "IGG",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMO SLG / 4X Strategy",
+      "sales_jp": null,
+      "sales_world": "2024年単年でIGGに約HK$700M寄与、月間収益$900K前後 / 月間DL約10万件 (Sensor Tower 2024-2025)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2023年4月15日グローバル配信のIGG新作主力。同社『Lords Mobile』『Doomsday: Last Survivors』と並ぶ三大ストラテジー作品の一つで、2023年は2新作とAPP事業がIGG総売上の40%超を占めるまで成長、2024年はHK$700M規模に拡大した。",
+      "slug": "viking-rise",
+      "concept": "プレイヤーがヴァイキングの族長となり、ミッドガルドの地で部族を率いて領地建設・英雄育成・同盟戦争を行うリアルタイムMMOストラテジー。北欧神話モチーフのキャラクター・地形3Dレンダリングと「Lords Mobile」譲りの同盟SvS（Server vs Server）戦闘ループが特徴。",
+      "target": "『Lords Mobile』『Rise of Kingdoms』『State of Survival』等の長期型MMOストラテジーを好む欧米中東の中重課金プレイヤー層。北欧神話世界観に惹かれる30-50代男性が主体。",
+      "_source_urls": [
+        "https://vikingrise.igg.com/",
+        "https://www.acnnewswire.com/press-release/english/92495/igg-inc:-viking-rise-and-app-business-achieve-new-highs-in-quarterly-gross-billing",
+        "https://sensortower.com/blog/2024-q1-unified-top-5-vikings%20games-revenue-us-60326f7c241bc16eb88205a5",
+        "https://www.nasdaq.com/press-release/igg-inc-annual-profit-soars-697-hk-580-million-2025-03-27",
+        "https://www.mobygames.com/game/203058/viking-rise/"
+      ]
+    },
+    {
+      "id": 1003,
+      "title_jp": "コール・オブ・ドラゴンズ",
+      "title_en": "Call of Dragons",
+      "developer": "Farlight Games (LEGOU Games / Lilith Games グローバル子会社)",
+      "publisher": "Farlight Games",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMO SLG / High-Fantasy 4X",
+      "sales_jp": null,
+      "sales_world": "2024年Q2 米Android収益ピーク週$2.3M、統合プラットフォームWAU最大1.43M (Sensor Tower 2024)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2023年3月28日にPC/iOS/Androidでグローバル同時配信。欧米ストラテジーTop20常連で、Sensor Tower 推計では2024年Q2に米Android単体週次収益が最大230万ドル、iOS+Android統合のWAUは約143万人規模に到達した。",
+      "slug": "call-of-dragons",
+      "concept": "『ライズ・オブ・キングダム』譲りの388万km²シームレス3DマップでハイファンタジーSLGを展開。英雄ガチャと「アーティファクトスキル」を軸に村を育て、ベヒモスを駆る軍勢でアライアンス戦争を繰り広げる。",
+      "target": "『ライキン』『State of Survival』など長期運営型モバイルSLGのコアプレイヤー層、ファンタジー4X／ハイファンタジー世界観を好む欧米中心の30代以上の重課金ストラテジスト。",
+      "_source_urls": [
+        "https://sensortower.com/blog/2024-q2-unified-top-5-dragon%20games-revenue-uy-6023e501241bc16eb8e453a8",
+        "https://www.globenewswire.com/news-release/2023/03/28/2635868/0/en/Call-of-Dragons-the-New-High-Fantasy-MMO-Conquest-Game-From-Farlight-Games-Is-Now-Available-Globally-on-PC-and-Mobile-Platforms.html",
+        "https://www.pocketgamer.com/call-of-dragons/launch-date/"
+      ]
+    },
+    {
+      "id": 1004,
+      "title_jp": "WARPATH -武装都市- / ウォーパス",
+      "title_en": "Warpath",
+      "developer": "Lilith Games",
+      "publisher": "Lilith Games",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "RTS / SLG (WW2 Military Strategy)",
+      "sales_jp": null,
+      "sales_world": "全世界累計DL3000万本超(PC+モバイル合算, 2023年8月時点, Lilith Games公式発表)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年11月のグローバル配信後、欧米App Storeで一時DLランキングTop3入りし、2023年8月時点で全世界累計DL3000万本超を達成。iOSで4.6/5(20万件以上)の高評価を獲得。",
+      "slug": "warpath",
+      "concept": "第二次大戦を舞台に、ティーガーなど実在兵器100種以上を集めて編成する基地建設×リアルタイム戦闘のSLG。同盟（ギルド）戦と資源収奪を軸に長期運営される、ライキン系の戦争SLG。",
+      "target": "「Rise of Kingdoms」「State of Survival」などSLG系ストラテジーを遊ぶ大人男性層、ミリタリー/WW2兵器ファン、サーバー対抗戦に時間とお金を投じる重課金プレイヤー。",
+      "_source_urls": [
+        "https://www.pocketgamer.biz/lilith-games-warpath-crosses-30-million-downloads-globally/",
+        "https://www.globenewswire.com/news-release/2023/08/17/2727301/0/en/Critically-Acclaimed-Military-Strategy-Game-Warpath-Surpasses-30-Million-Global-Downloads-Across-PC-and-Mobile.html",
+        "https://gamingonphone.com/news/warpath-the-ww2-strategy-game-surpasses-30-million-downloads-globally/",
+        "https://warpath-jp.lilith.com/",
+        "https://chinagamenews.net/market-info-719/"
+      ]
+    },
+    {
+      "id": 1005,
+      "title_jp": "インフィニティ・キングダム",
+      "title_en": "Infinity Kingdom",
+      "developer": "YOOZOO (Singapore) / GTArcade",
+      "publisher": "YOOZOO Games / GTArcade",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "4X MMO SLG / Cartoon Strategy",
+      "sales_jp": null,
+      "sales_world": "直近月次でApp Store約30k DL / $1M、Google Play約20k DL / $800k（Sensor Tower 2025-2026推定）。Steam版ユーザーレビュー1,189件・好評率53%",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "YOOZOOの海外向け主力SLGとして長期運営され、欧米ストラテジー上位常連。2021年初頭のバトルパス「Kingdom Labors」導入以降に収益が大きく伸びたが、Steam版は近年レビュー評価が低下傾向にある。",
+      "slug": "infinity-kingdom",
+      "concept": "3D漫画調ビジュアルの4X SLGで、領主としてノーハイムを統治し、クレオパトラやマーリンら50以上の歴史・伝説「イモータル」とドラゴンを集めて他プレイヤーやノーム軍と戦う、アライアンス中心の長期運営型ストラテジー。",
+      "target": "Rise of KingdomsやLords Mobileなどモバイル4X SLGに馴染んだ欧米中心の社会人プレイヤー層。同盟戦・領土争いと、アイコニックな歴史人物キャラの収集・育成を両立したいライト〜ミドル課金層向け。",
+      "_source_urls": [
+        "https://apps.apple.com/us/app/infinity-kingdom/id1487451427",
+        "https://sensortower.com/ios/us/yoozoo-singapore-pte-ltd/app/infinity-kingdom/1487451427",
+        "https://play.google.com/store/apps/details?id=com.gtarcade.ioe.global",
+        "https://store.steampowered.com/app/1573360/Infinity_Kingdom/",
+        "https://infinitykingdom.gtarcade.com/m/en/",
+        "https://sensortower.com/blog/top-mobile-games-by-worldwide-revenue-march-2021"
+      ]
+    },
+    {
+      "id": 1006,
+      "title_jp": "ドラゴンラージャ",
+      "title_en": "Dragon Raja",
+      "developer": "Zulong Games / Archosaur Games",
+      "publisher": "Archosaur Games",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG / Anime Open-World",
+      "sales_jp": null,
+      "sales_world": "中国版が2024年9月単月で1億元超 (RMB 100M+ / TechNode 2024)。グローバル版はSensor Towerで2026年3月時点でも月間DL・売上が継続計上。",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年2月の北米欧州中東リリース直後に米App Store総合Top10入りし、UE4採用のアニメ調オープンワールドMMOとして話題に。2024年9月時点でも中国版が月商1億元（約20億円）超を記録するなど長期運営でも好調。",
+      "slug": "dragon-raja",
+      "concept": "Unreal Engine 4製のアニメ調オープンワールドMMORPG。東京〜シベリアの実在ランドマークを取り込んだ広大な世界で、戦闘・ダンジョン・PvP・バトロワ・カーレース・職業システム・選択肢分岐NPC会話などを詰め込み、キャラクター育成・装備強化・ガチャ的なファッションやコスメ収集を主動機としている。",
+      "target": "高品質3DアニメグラフィックのMMOを求めるスマホ層、原作小説『龍族』ファン、キャラメイクと外見コスメ収集を楽しみたいプレイヤー、グローバルサーバーで多国籍ギルド活動をしたいMMO愛好者。",
+      "_source_urls": [
+        "https://sensortower.com/ios/us/archosaur-games/app/dragon-raja/1459339898",
+        "https://technode.com/2024/10/11/mobile-games-dragon-raja-and-ashes-of-the-kingdom-surpass-rmb-100-million-in-revenue-in-september/",
+        "https://dragonraja.zloong.com/",
+        "https://apps.apple.com/us/app/dragon-raja-anime-mmorpg/id1459339898",
+        "https://play.google.com/store/apps/details?id=com.zloong.eu.dr.gp&hl=en"
+      ]
+    },
+    {
+      "id": 1007,
+      "title_jp": "ウォッチャー・オブ・レルム",
+      "title_en": "Watcher of Realms",
+      "developer": "Moonton",
+      "publisher": "Moonton",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "Strategy RPG / Tower Defense Hybrid",
+      "sales_jp": null,
+      "sales_world": "グローバルDL 300万超、2025年通期売上 約$42.3M (Sensor Tower 2025集計、Moonton社内2位)。launch後60日で200万DL・$10M超。",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2023年7月グローバル配信、launch後60日でDL200万・売上$10M超、欧米RPGカテゴリTop50入り。Sensor Tower集計で2025年は約$42.3MをMoontonにもたらしMobile Legendsに次ぐ同社第2の柱に成長。日本では2024年3月28日配信で「100体超のヒーローによる本格TD-RPG」として複数の攻略メディアが特集。",
+      "slug": "watcher-of-realms",
+      "concept": "5体のヒーローを配置してコアを守る戦略タワーディフェンスとガチャ収集型ヒーローRPGを融合させたモバイルタイトル。100体超のヒーロー、8勢力・30種族のダークファンタジー世界、PvE章節攻略とPvPアリーナ・ギルドレイドを備える。",
+      "target": "AFK Arena / Rise of Kingdoms / Summoners War系のヒーロー収集ガチャRPGを好み、かつタワーディフェンスの配置戦略も楽しみたい中重度モバイルゲーマー。ギルド戦やアリーナ・ボスレイドで腰を据えて遊べる欧米寄りのダークファンタジー嗜好層。",
+      "_source_urls": [
+        "https://sensortower.com/blog/2024-q1-android-top-5-tower%20defense%20games-revenue-europe-6012932d241bc16eb85e0db8",
+        "https://appstorespy.com/android-google-play/com.td.watcherofrealms-trends-revenue-statistics-downloads-ratings",
+        "https://www.watcherofrealms.com/",
+        "https://www.ut-game.com/entry/watcher-of-realms-review",
+        "https://note.com/tekitougame/n/nadf58cde06b4"
+      ]
+    },
+    {
+      "id": 1008,
+      "title_jp": "エイジ・オブ・オリジンズ",
+      "title_en": "Age of Origins",
+      "developer": "Camel Games",
+      "publisher": "Camel Games",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "4X SLG / Zombie Apocalypse Strategy",
+      "sales_jp": null,
+      "sales_world": "全世界DL 7000万〜1億超、累計収益 約$1B (Sensor Tower / Camel Games公表 2024)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2018年9月リリースの中国系MMO SLGロングセラーで、累計DLは7000万〜1億超、生涯収益は約$1B規模と推定される(Sensor Tower 2024)。米国SLG市場では長年Top100常連で、月商$10M超を維持する世界規模の課金ヒット作。",
+      "slug": "age-of-origins",
+      "concept": "ゾンビが蔓延した終末世界で司令官として都市を再建し、施設建設・技術研究・将軍ガチャ・部隊強化を進めながら同盟を組んで他サーバーや他プレイヤーと戦う4X型ゾンビMMO SLG。タワーディフェンス要素も組み込み、State of Survival系の先駆けとして長期運営されている。",
+      "target": "同盟戦・キングダム間PvPに数ヶ月〜数年単位で没入できる中重課金SLG層、Lords Mobile / State of Survival / Top Heroesなど中国系MMO SLGを遊ぶ国際的プレイヤー。日本ではコア層が中心で、欧米・北米市場での人気が突出している。",
+      "_source_urls": [
+        "https://app.sensortower.com/overview/com.camelgames.aoz?country=US",
+        "https://www.camelgames.com/game/ageoforigins",
+        "https://toucharcade.com/2022/03/04/age-of-z-origins-redeem-code-iphone-ipad-android/",
+        "https://www.kemogames.com/article/new16"
+      ]
+    },
+    {
+      "id": 1009,
+      "title_jp": "リネージュ2M",
+      "title_en": "Lineage 2M",
+      "developer": "NCsoft",
+      "publisher": "NCsoft",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": "日本は2021年4月にプレイヤー数100万人突破、2023年の年間売上は約10億円規模に縮小（gamebiz/W3G）",
+      "sales_world": "2019年11月韓国ローンチ初日売上130億ウォン、リリース3か月で全世界収益1.52億ドル突破（Sensor Tower）。2024年Q2でも422億ウォン、2025年Q2は東南アジア展開で480億ウォン（前期比+27%）と長期的に収益柱",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "韓国モバイルMMOブームを決定づけた巨大IP拡張で、Unreal Engine 4採用によりモバイルMMOのグラフィック基準を引き上げた。日本でも2021年に大型プロモを展開し、セルラン上位常連となった。",
+      "slug": "lineage-2m",
+      "concept": "PCの『リネージュII』を基盤に、攻城戦と血盟（ギルド）を中心とした大規模PvPと装備強化・課金アイテムによるパワーカーブをモバイル＋PC同時プレイで展開する、いわゆる「リネージュライク」課金型MMORPG。",
+      "target": "韓国・台湾・日本の30〜40代を中心とした重課金MMOプレイヤー層と、血盟運営や攻城戦などギルド政治・PvPを長期に楽しむハードコアモバイルRPGユーザー。",
+      "_source_urls": [
+        "https://sensortower.com/blog/lineage-2-m-revenue-150-million",
+        "https://pocketgamer.biz/asia/news/72575/lineage-2-m-152-million-usd-in-three-months",
+        "https://www.pocketgamer.biz/ncsoft-profit-bounces-back-with-59-of-revenue-on-mobile-but-not-all-lineage-games-are-thriving/",
+        "https://about.ncsoft.com/en/news/article/news_update_250812",
+        "https://gamebiz.jp/news/259702",
+        "https://app.w3g.jp/lineage2m",
+        "https://lineage2m.ncsoft.jp/"
+      ]
+    },
+    {
+      "id": 1010,
+      "title_jp": "黒い砂漠モバイル",
+      "title_en": "Black Desert Mobile",
+      "developer": "Pearl Abyss",
+      "publisher": "Pearl Abyss",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": null,
+      "sales_world": "全世界DL累計1億超、Black Desertシリーズ累計収益$1.5B超 (PocketGamer.biz / TheGamer, 2020-2024)",
+      "primary": "REW",
+      "secondary": [],
+      "social_axis": "非同期",
+      "popularity": "2019年Google Play最優秀ゲーム賞を受賞し、ローンチ2か月で2000万DLを突破。グローバル累計1億DLを超え、Pearl Abyssのモバイル売上の柱として年間数億ドル規模を維持している。",
+      "slug": "black-desert-mobile",
+      "concept": "PC版『黒い砂漠』のオープンワールドMMORPG体験をスマートフォン向けに最適化し、美麗グラフィックとリアルタイムアクション戦闘、装備強化・キャラクター育成・拠点経営を片手操作で楽しめる本格モバイルMMO。",
+      "target": "PC MMO経験者や本格派RPGを通勤・スキマ時間にも続けたい20-40代男性、キャラビルドと装備強化に時間と課金を投下できるコアプレイヤー、ギルド戦・拠点戦のPvPMMO志向層。",
+      "_source_urls": [
+        "https://www.pocketgamer.biz/black-desert-mobile-reaches-20-million-installs-series-crosses-15-billion-revenue/",
+        "https://www.thegamer.com/black-desert-mobile-one-billion-revenue/",
+        "https://mmos.com/news/black-desert-online-q1-2024-earnings",
+        "https://massivelyop.com/2025/11/13/pearl-abyss-q3-2025-black-deserts-comeback-generated-a-34-year-over-year-revenue-boost/"
+      ]
+    },
+    {
+      "id": 1011,
+      "title_jp": "オーディン：ヴァルハラ・ライジング",
+      "title_en": "ODIN: Valhalla Rising",
+      "developer": "Lionheart Studio",
+      "publisher": "Kakao Games",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": "日本サーバーは2023年6月リリース、Sensor Towerでセルラン上位常連だが具体売上非公開",
+      "sales_world": "韓国リリース初期180日で約3.5億ドル、月商ピーク47百万ドル、累計収益9億ドル超 (2023年7月時点)、Kakao Games全体収益の25%を占める主力タイトル",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年6月韓国リリース初日にLineage Mを抜いてGoogle Play売上1位を奪取し、3カ月以上連続で韓国App Store・Google Play両方のセールスランキング1位を維持、17週連続Google Play売上1位を記録した次世代モバイルMMOの象徴的作品。2023年6月に日本サーバーも開設され、Kakao Gamesの主力IPとして累計9億ドル超の収益を稼ぐ。",
+      "slug": "odin-valhalla-rising",
+      "concept": "北欧神話世界をUnreal Engine 4でフォトリアルに描いた次世代モバイルMMORPG。シームレスなオープンワールド、巨大ボスレイド、ギルド間の大規模PvP・攻城戦を備え、装備強化・トランスフォーム収集・キャラ育成課金が中核ループとなるリネージュ型韓国MMOの代表格。",
+      "target": "リネージュM・黒い砂漠モバイルなど韓国型ハイエンドMMOに慣れた重課金プレイヤー、北欧神話・ダークファンタジー世界観を好む層、ギルド戦・攻城戦で他プレイヤーと競い合いたい競技志向のMMOユーザー。",
+      "_source_urls": [
+        "https://hc.games/odin-valhalla-rising-revenue-exceeds-900-million/",
+        "https://www.gamerbraves.com/odin-valhalla-rising-publisher-kakao-games-surpassed-4-billion-earning-in-user-spending/",
+        "https://www.famitsu.com/news/202304/28301351.html",
+        "https://mmoculture.com/2022/07/odin-valhalla-rising-kakao-games-takes-control-of-developer-valued-at-usd-3-billion/",
+        "https://game-i.daa.jp/?cmd=app_record&apid=6444820791"
+      ]
+    },
+    {
+      "id": 1012,
+      "title_jp": "サマナーズウォー：クロニクル",
+      "title_en": "Summoners War: Chronicles",
+      "developer": "Com2uS",
+      "publisher": "Com2uS",
+      "year": 2022,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": null,
+      "sales_world": "全世界事前登録200万超、グローバルローンチ初日に複数国でDL1位、初動収益10億ウォン(約100億ウォン換算/27日間)。Summoners War IP累計2億DL/$2.7B超 (MMO Culture/GamingPH 2023)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "グローバル累計2億DLを超える「Sky Arena」IPを3D MMORPG化したスピンオフで、2022年3月の韓国先行リリースで初月600万DLを記録、2023年3月にはグローバル170カ国へ展開して事前登録200万件超を集めた。",
+      "slug": "summoners-war-chronicles",
+      "concept": "原作のターン制ガチャRPG「サマナーズウォー」のモンスター召喚・育成・ルーン強化システムをオープンフィールド3D MMORPGへ移植し、モバイルとPC(Steam/Google Play Games)でクロスプレイ可能にしたサ運営型タイトル。",
+      "target": "原作Sky Arenaのキャラ収集・ルーン厳選を楽しんでいた長期ユーザーと、モバイル/PC両対応の手軽なMMORPGでギルド戦・PvP・周回育成を楽しみたい韓国・東南アジア・欧米の中重課金層。",
+      "_source_urls": [
+        "https://mmoculture.com/2022/09/summoners-war-chronicles-com2us-touts-10-billion-korean-won-revenue-in-first-27-days/",
+        "https://gamingph.com/2023/08/com2us-summoners-war-surpasses-200-million-downloads-worldwide/",
+        "https://www.cosmocover.com/newsroom/com2us-confirms-the-global-release-of-mmorpg-summoners-war-chronicles-on-mar-9th/",
+        "https://store.steampowered.com/app/2167580/Summoners_War_Chronicles/"
+      ]
+    },
+    {
+      "id": 1013,
+      "title_jp": "セブンナイツ2",
+      "title_en": "Seven Knights 2",
+      "developer": "Netmarble",
+      "publisher": "Netmarble",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": null,
+      "sales_world": "グローバル400万DL超 (Netmarble公表値, 2021-2022)",
+      "primary": "REW",
+      "secondary": [
+        "EXP",
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年11月韓国ローンチで初週App Store 1位／Google Play売上2位を獲得し、2021年11月にグローバル12言語で配信開始。前作『セブンナイツ』（全世界6,000万DL）の正式後継3D MMORPGとしてグローバル400万DL超を記録したが、日本版は2026年4月15日にサービス終了予定。",
+      "slug": "seven-knights-2",
+      "concept": "Unreal Engine 4で描かれるシネマティックな3D MMORPG。前作の世界観・キャラクターを引き継ぎつつ、ガチャによる英雄収集と装備強化、ギルド戦・PvPアリーナ・レイドを軸に据えた長期運営型モバイルRPG。後にPCクライアントβ版も提供。",
+      "target": "前作『セブンナイツ』ファンと、ハイクオリティ3Dグラフィックの韓国産モバイルMMORPG（リネージュ2M、二ノ国: Cross Worldsなど）を遊ぶ層。ガチャで好みの英雄を集めて編成・育成し、ギルドで非同期に競い合うプレイヤーが主なターゲット。",
+      "_source_urls": [
+        "https://www.prnewswire.com/news-releases/seven-knights-2-the-long-awaited-sequel-to-netmarbles-original-mobile-rpg-seven-knights-launches-worldwide-301419631.html",
+        "https://7k2.netmarble.com/ja",
+        "https://www.netmarble.co.jp/news/view/1405/1",
+        "https://www.pocketgamer.com/seven-knights-2/netmarble-to-release-seven-knights-2-globally-on-android-and-ios-later-this-year/"
+      ]
+    },
+    {
+      "id": 1014,
+      "title_jp": "クッキーランキングダム",
+      "title_en": "Cookie Run: Kingdom",
+      "developer": "Devsisters",
+      "publisher": "Devsisters",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ガチャRPG/王国経営",
+      "sales_jp": null,
+      "sales_world": "累計DL 1.5億超 (2021/6時点), 累計収益 約$498M (Sensor Tower 2025), BTSコラボやKPop Demon Huntersコラボで2025年だけで$97M",
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年初リリース後2か月で1000万DL、同年6月までに累計1.5億DLを記録した韓国産ガチャRPGの代表作。BTSコラボ「Braver Together」(2022年10月〜2023年1月)でTikTokバイラル化しDevsistersの株価を急騰させ、生涯収益は約5億ドル(2025年時点)を突破した。",
+      "slug": "cookie-run-kingdom",
+      "concept": "クッキーキャラクターをガチャで集め、王国を建築・装飾しながらPvE/PvP/ギルド戦を周回するクロスジャンルのモバイルガチャRPG。シリーズ既存IPの可愛らしい世界観を活かし、収集・育成・建設・物語消費・対戦を一本に束ねた韓国産ライブサービスの代表例。",
+      "target": "ガチャ系ソシャゲのコレクション/育成ループを好む10〜30代女性層を中心に、IPコラボ(BTS, KPop Demon Hunters)経由で流入したK-POPファン、王国経営系シミュレーション好き、ライト〜ミドル課金のグローバルプレイヤー。",
+      "_source_urls": [
+        "https://en.wikipedia.org/wiki/Cookie_Run:_Kingdom",
+        "https://www.blog.udonis.co/statistics/cookie-run-kingdom",
+        "https://www.deconstructoroffun.com/blog/2022/4/24/cookie-run-kingdom",
+        "https://naavik.co/deep-dives/cookie-run-kingdom/",
+        "https://sensortower.com/ios/us/devsisters/app/cookie-run-kingdom/1509450845/"
+      ]
+    },
+    {
+      "id": 1015,
+      "title_jp": "クッキーラン：オーブンブレイク",
+      "title_en": "Cookie Run: OvenBreak",
+      "developer": "Devsisters",
+      "publisher": "Devsisters",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "ランアクション",
+      "sales_jp": null,
+      "sales_world": "シリーズ累計DL 8000万超（OvenBreak + Kingdom 合算, 2022時点）／単体DL 4500万超（2022時点）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2016年配信のロングラン横スクロールランナー。2022年時点で累計DL 4500万を突破し、韓国・台湾・タイで App Store の「Game of the Year」を獲得。後継作『クッキーラン：キングダム』のキャラクター原型を築いた基盤タイトル。",
+      "slug": "cookie-run-ovenbreak",
+      "concept": "クッキー達がオーブンから脱出して走り続ける横スクロール型ランニングアクション。ジャンプとスライド2ボタン操作の体験を土台に、クッキー／ペット／宝物のガチャ収集とイベント周回、フレンド・ギルドのランキング競争で長期遊びを成立させるハイブリッド設計。",
+      "target": "スマホで気軽に遊べるランゲームを求めるカジュアル層、可愛いキャラクターIPを集めたいコレクター層、ランキングでフレンドとスコアを競いたい非同期PvP志向のプレイヤー。アジア圏（韓国・台湾・タイ・日本）で特に強い支持。",
+      "_source_urls": [
+        "https://www.deconstructoroffun.com/blog/2022/4/24/cookie-run-kingdom",
+        "https://www.4gamer.net/games/361/G036137/20221028032/",
+        "https://www.devsisters.com/en/games/cookierun",
+        "https://sensortower.com/android/us/devsisters-corporation/app/cookie-run-ovenbreak-endless-running-platformer/com.devsisters.gb/"
+      ]
+    },
+    {
+      "id": 1016,
+      "title_jp": "カートライダー ラッシュプラス",
+      "title_en": "KartRider Rush+",
+      "developer": "Nexon",
+      "publisher": "Nexon",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "レーシング",
+      "sales_jp": null,
+      "sales_world": "グローバル先行2週間で1,000万DL、初週6,000万DL規模、レース系モバイルでトップグロス約$169M (2020/4-2021/3, Sensor Tower)、Crazy Racing KartRider/QQ Speed合算で生涯収益$1.5B",
+      "primary": "EXP",
+      "secondary": [
+        "REW"
+      ],
+      "social_axis": "対戦",
+      "popularity": "2020年5月の先行リリース2週間で1,000万DLを記録し、レーシング系モバイル市場でMario Kart Tourと並ぶトップグロス級に到達。東アジア（韓国・中国・東南アジア）で特に強い人気を維持している。",
+      "slug": "kartrider-rush",
+      "concept": "NexonのPC人気タイトル「クレイジーレーシング カートライダー」をモバイルに正統移植したカジュアル競技レーサー。アイテム戦／スピード戦のリアルタイム8人マルチ対戦と、カート・キャラクターのコレクション＆カスタマイズを軸にする。",
+      "target": "PCカートライダーの原作ファンを中心に、東アジア圏のカジュアル競技レーシング志向のモバイルプレイヤー、対戦と収集の両方を求める若年〜30代ライト〜ミドル層。",
+      "_source_urls": [
+        "https://www.pocketgamer.biz/kartrider-rush-plus-10-million-global-downloads/",
+        "https://sensortower.com/blog/mario-kart-tour-200-million-downloads",
+        "https://app.sensortower.com/news-feed/kartrider-rushs-latest-desert-update-quintuples-revenue/65dc07fec62752505aac3a52",
+        "https://appmagic.rocks/google-play/kartrider-rush-/com.nexon.kart"
+      ]
+    },
+    {
+      "id": 1017,
+      "title_jp": "二ノ国：Cross Worlds",
+      "title_en": "Ni no Kuni: Cross Worlds",
+      "developer": "Netmarble",
+      "publisher": "Netmarble",
+      "year": 2021,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": "初月（2021年6月10日〜6月21日の11日間）日本市場で約$45.6M（Sensor Tower）",
+      "sales_world": "ローンチ11日間で全世界$101.3M、launch初年度で推定$500M超（Sensor Tower 2021-2022）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2021年6月の日韓台先行ローンチから11日間で全世界収益1億ドルを突破し、ポケモンGOやリネージュ2 レボリューションを上回るスピードで話題に。日本市場が初期売上の45%（約4,560万ドル）を占めた。",
+      "slug": "ni-no-kuni-cross-worlds",
+      "concept": "スタジオジブリ系のアートディレクションを引き継いだファンタジーMMORPG。5職業のキャラ育成、装備強化、ペット（イマージェン）収集、ギルド戦・領地戦を軸に、ブロックチェーンによるP2E（Play-to-Earn）要素「Asprin / NKT」を組み込んだ国内モバイル発の経済型MMO。",
+      "target": "『二ノ国』IPファンとモバイルMMORPG愛好層、加えてP2E・暗号資産トークン経済に関心を持つアジア圏（日韓台中心）のユーザー。",
+      "_source_urls": [
+        "https://sensortower.com/blog/ni-no-kuni-cross-worlds-100-million-revenue",
+        "https://www.pocketgamer.biz/asia/news/76786/ni-no-kuni-cross-worlds-beats-pokmon-go-to-100-million/",
+        "https://www.animenewsnetwork.com/news/2021-07-01/report-ni-no-kuni-cross-worlds-game-topped-usd100-million-faster-than-pokemon-go-did/.174670"
+      ]
+    },
+    {
+      "id": 1018,
+      "title_jp": "カウンターサイド",
+      "title_en": "Counter:Side",
+      "developer": "Studio BB (Studiobside)",
+      "publisher": "Nexon",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "ガチャRPG（ストラテジー/タワーディフェンス系）",
+      "sales_jp": null,
+      "sales_world": null,
+      "primary": "REW",
+      "secondary": [
+        "NAR",
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "韓国では2020年2月のローンチ直後にGoogle Play / App Store両ストアの人気ランキングで1位を獲得し、日本版は2021年12月のリリース前に事前登録70万件を突破。Steam版もリリースされクロスプラットフォームで一定のコアファン層を獲得したが、日本版は2026年8月26日にサービス終了を発表している。",
+      "slug": "counter-side",
+      "concept": "現代都市を舞台に「侵食現象」と呼ばれる怪異と戦うストラテジック・タワーディフェンスRPG。100体超のキャラクター（カウンター）をガチャで集め、リアルタイムに編成・出撃させて防衛戦を行う。サブカル系2Dガチャの世界観と韓国産特有のシリアスな現代SFストーリーを融合させている。",
+      "target": "アズールレーン／ブルアカ／アークナイツのような2Dキャラクター収集ガチャを好み、加えてリアルタイムストラテジー的な編成・操作要素も楽しみたい韓国・日本のコアサブカル層。世界観に骨太なSFストーリーを求めるプレイヤー向け。",
+      "_source_urls": [
+        "https://www.pockettactics.com/counter-side/release-date",
+        "https://www.pocketgamer.com/counter-side/futuristic-jrpg-from-nexon-japan-launch/",
+        "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CounterSide",
+        "https://gamebiz.jp/news/338635",
+        "https://store.steampowered.com/app/1976440/CounterSide/",
+        "https://www.4gamer.net/games/490/G049044/"
+      ]
+    },
+    {
+      "id": 1019,
+      "title_jp": "V4",
+      "title_en": "V4",
+      "developer": "NAT Games",
+      "publisher": "Nexon",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": null,
+      "sales_world": "韓国リリース初週でApp Store売上1位・Google Play売上3位、具体的な累計DL・収益は非公開",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2019年11月の韓国リリース直後にApp Store売上1位・Google Play売上3位を獲得し、新作モバイルゲームの中で1日平均プレイ時間6.24時間とトップ。2020年大韓民国ゲーム大賞で大賞を受賞、2020年下半期に台湾・香港・マカオ、続いてグローバル展開（iOS/Android/PC）を実施したNexon系列のヒット作。",
+      "slug": "v4",
+      "concept": "Unreal Engine 4による高品質グラフィックを売りにしたクロスサーバー型モバイルMMORPG。サーバー間の壁を越えて他プレイヤーとフィールドで遭遇・PvP・ギルド戦が行える「インターサーバー」を最大の差別化要素とし、装備強化・ガチャ・キャラ育成・レイドで長期周回させる韓国系MMOの王道設計。",
+      "target": "韓国型ハイエンドモバイルMMO（リネージュM、ブラックデザートモバイル等）の課金ガチャ＋強化サイクルを好む20-40代のヘビーゲーマー層。クロスサーバーでのギルド対戦・大規模PvP・トップランカー競争に時間と金銭を投じることを厭わないプレイヤー、およびUE4ベースのグラフィカルなMMOをスマホでも遊びたい層。",
+      "_source_urls": [
+        "https://www.koreaherald.com/article/2188314",
+        "https://www.koreaherald.com/view.php?ud=20190908000114",
+        "https://massivelyop.com/2020/06/18/nexons-mobile-mmorpg-v4-will-launch-in-the-west-for-pc-and-mobile-this-year/",
+        "https://massivelyop.com/2020/06/26/nexons-mobile-and-pc-mmorpg-v4-opens-up-for-global-pre-registration/",
+        "https://www.gamespress.com/Nexon-Launches-Mobile-MMORPG-V4-in-Taiwan-Hong-Kong-and-Macau",
+        "https://www.nexongames.co.kr/en/game/v4_en.php"
+      ]
+    },
+    {
+      "id": 1020,
+      "title_jp": "TRAHA（トラハ）",
+      "title_en": "TRAHA",
+      "developer": "MOAI Games",
+      "publisher": "Nexon",
+      "year": 2019,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "モバイルMMORPG（オープンフィールドRvR）",
+      "sales_jp": null,
+      "sales_world": "事前登録420万人超（韓国、新規IP過去最多）、韓国App Store売上1位 / Google Play 2位獲得（2019-04）。具体的累計収益は非公開。グローバル版は2023-12-27にサービス終了",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2019年4月の韓国リリース時に事前登録420万人を集め、App Store売上1位・Google Play 2位を獲得した大型UE4モバイルMMORPG。リネージュMに匹敵する話題作として注目されたが、運営トラブルで評価が伸び悩み、グローバル版は2023年末にサービス終了、後継のTRAHA Infinityに引き継がれた。",
+      "slug": "traha",
+      "concept": "UE4で構築されたメガオープンフィールドを舞台に、装備武器でクラスが切り替わる「Infinityクラス」システムと2陣営RvR、生産・採集などライフコンテンツを盛り込んだ本格派モバイルMMORPG。手動操作と大規模ギルド戦を売りにした韓国産AAAスマホMMOの代表格。",
+      "target": "黒い砂漠モバイルやリネージュM等の韓国産ハードコアモバイルMMOを好む層、ギルド戦・PvP・採集生産を長時間遊びたいヘビーゲーマー。日本向けでは本格MMO体験を求めるPC MMO経験者層を狙ったローカライズが行われた。",
+      "_source_urls": [
+        "https://mmoculture.com/2019/02/traha-nexons-ue4-mobile-mmorpg-launches-this-april-in-korea/",
+        "https://gamebiz.jp/news/236898",
+        "https://www.4gamer.net/games/441/G044115/20190216009/",
+        "https://www.famitsu.com/news/202003/26194959.html",
+        "https://gamingonphone.com/news/traha-mmorpg-announces-shut-down-after-traha-infinity-release/",
+        "https://mmoculture.com/2022/07/traha-global-korean-developer-announces-global-one-build-version-of-mobile-mmorpg/"
+      ]
+    },
+    {
+      "id": 1021,
+      "title_jp": "A3: STILL ALIVE",
+      "title_en": "A3: Still Alive",
+      "developer": "Actoz Soft",
+      "publisher": "Netmarble",
+      "year": 2020,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "モバイルMMORPG / バトルロイヤル",
+      "sales_jp": null,
+      "sales_world": "全世界DL 200万超 (2020年末時点、Netmarble発表)",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2020年3月に韓国で先行ローンチされ初日Google Play売上トップ10入り、同年11月のグローバル展開後2か月で全世界200万DLを突破。App Store / Google PlayでRPGカテゴリ最高評価を獲得した。",
+      "slug": "a3-still-alive",
+      "concept": "ダークファンタジーのオープンワールドMMORPGに30人対戦のバトルロイヤルモードを統合し、装備強化・ガチャ・ソウルリンカー（収集）育成と非同期PvP・ギルド戦を組み合わせた韓国型モバイルMMOの典型。",
+      "target": "リネージュ系・Lineage2 Revolution系のハードコアな装備強化と課金ガチャを楽しむアジア圏中心のモバイルMMORPGプレイヤー、加えてバトロワ要素でカジュアルPvPも触れたい層。",
+      "_source_urls": [
+        "https://www.globalgamesforum.com/features/a3-still-alive-just-about",
+        "https://netmarble.com/en/survivalgb",
+        "https://gamefragger.com/mobile-gaming/a3-still-alive-netmarbles-new-battle-royale-mobile-title-has-crossed-1-million-downloads-a21773",
+        "https://koreatechtoday.com/netmarbles-a3-still-alive-set-to-release-in-march/",
+        "https://www.shacknews.com/article/120702/a3-still-alive-is-a-new-mmorpg-from-netmarble"
+      ]
+    },
+    {
+      "id": 1022,
+      "title_jp": "ハンドレッドソウル",
+      "title_en": "Hundred Soul",
+      "developer": "Hound 13",
+      "publisher": "Hound 13",
+      "year": 2018,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": null,
+      "sales_world": "韓国先行リリースで1.6M DL超 (Unity blog 2020)、2023年に続編「Hundred Soul: The Last Savior」としてリブート展開",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "韓国Hound 13がUnityで開発したコンソール品質のアクションを謳うモバイルARPG。2018年韓国先行、2019年グローバル展開時にApple/Google両ストアのEditor's Choiceを獲得し、ハイエンドモバイルARPGの代表格として評価された。",
+      "slug": "hundred-soul",
+      "concept": "100体以上の装備とFellow(仲間)を切り替えてリアルタイムにアクションする縦持ち寄りハック&スラッシュARPG。HDRレンダリングと精緻なキャラクターアニメで「コンソール級グラフィック」を打ち出し、装備掘り・ガチャ・育成ループでプレイヤーを長期につなぎ留める運営型モバイルRPG。",
+      "target": "スマホで本格アクションを求めるコア寄りのモバイルゲーマー、韓国系ハイエンドARPG(七つの大罪・HIT・Black Desert Mobile等)のファン層、装備ガチャ＋やり込み志向のプレイヤー。",
+      "_source_urls": [
+        "https://blogs.unity3d.com/2020/04/21/hundred-soul-how-hound13-created-a-stunning-mobile-arpg-with-unity/",
+        "https://en.namu.wiki/w/Hundred%20Soul",
+        "https://www.hound13.com/en/",
+        "https://news.qoo-app.com/en/post/100187/hundred-souls-japan-shut-down"
+      ]
+    },
+    {
+      "id": 1023,
+      "title_jp": "メイプルストーリーM",
+      "title_en": "MapleStory M",
+      "developer": "Nexon",
+      "publisher": "Nexon",
+      "year": 2016,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "MMORPG",
+      "sales_jp": "2023年売上 約8.26億円（2022年比74%、gamebiz/ネクソン決算）",
+      "sales_world": "全世界累計DL 5,000万超、ライフタイム売上 6億ドル超（中国版35日で$55M含む、Sensor Tower 2023）",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2016年韓国先行配信、2018年グローバル展開のMapleStory正統モバイル版で、累計5,000万DLを突破。2023年の中国上陸で再加速し、ライフタイム売上は6億ドルを超えNexonモバイル事業の中核タイトルの一つとなった。",
+      "slug": "maplestory-m",
+      "concept": "2DドットのMMORPG「メイプルストーリー」をスマホに最適化した正統移植版。横スクロールアクションの爽快感を残しつつ、装備強化・スターフォース・キャラ育成・ギルド戦・ボスレイドといった長期周回要素を中心に据えたモバイルRPG。",
+      "target": "PC版メイプルストーリー経験者のノスタルジー需要層と、スマホで本格的なMMORPG育成・装備収集を楽しみたい20〜40代のコアモバイルRPGユーザー。日本・韓国・台湾・北米・中国の広域市場をカバー。",
+      "_source_urls": [
+        "https://sensortower.com/blog/maplestory-m-revenue",
+        "https://www.pocketgamer.biz/maplestory-m-surpassed-55-million-in-its-first-35-days-on-the-chinese-market/",
+        "https://game-i.daa.jp/?APP%2F1434519042=",
+        "https://mobile.nexon.co.jp/maplestorym/",
+        "https://massivelyop.com/2024/11/13/nexon-q3-2024-dnf-mobile-and-maplestory-propel-nexon-to-record-high-revenues/"
+      ]
+    },
+    {
+      "id": 1024,
+      "title_jp": "ヒット HIT: Heroes of Incredible Tales",
+      "title_en": "HIT: Heroes of Incredible Tales",
+      "developer": "NAT Games",
+      "publisher": "Nexon",
+      "year": 2015,
+      "platform": [
+        "iOS",
+        "Android"
+      ],
+      "genre": "アクションRPG",
+      "sales_jp": null,
+      "sales_world": "全世界DL 約2500万 (2016年時点, MMO Culture)。韓国ローンチ1週間で100万DL突破、両ストア売上1位を獲得しNexonのQ3/Q4 FY16売上を牽引",
+      "primary": "REW",
+      "secondary": [
+        "EXP"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2015年11月韓国ローンチで1週間100万DLを達成しGoogle Play / App Store両売上1位を獲得、2016年大韓民国ゲーム大賞で大統領賞（大賞）と国産ゲーム最優秀賞を受賞。Unreal Engine 4採用のハイエンドモバイルACTとして韓国モバイルRPG市場に「グラフィック競争」の波を作った象徴的タイトル。",
+      "slug": "hit-heroes-of-incredible-tales",
+      "concept": "Unreal Engine 4のフォトリアル表現と60fpsアクションをスマホで実現したハック&スラッシュRPG。4キャラクターを切り替えながら高速コンボとスキル演出でモンスターを薙ぎ払い、装備強化・キャラ育成・PvPアリーナ・レイドで長期にわたり戦力を積み上げる、いわゆる「韓国型」モバイルACT MMOの源流。",
+      "target": "据置機並みのグラフィックを片手で味わいたいハイエンドスマホ層と、装備厳選・強化・アリーナランキング詰めにのめり込めるMMORPG経験者。日々のスタミナ消費と週末イベントを回し続ける時間投入型プレイヤー向け。",
+      "_source_urls": [
+        "https://mmoculture.com/2016/11/heroes-of-incredible-tales-mobile-rpg-gets-top-prize-in-game-awards/",
+        "https://www.businesswire.com/news/home/20160707005319/en/NEXON-and-Nat-Games-Launch-Heroes-of-Incredible-Tales-HIT-the-Unreal-Engine-4-Powered-Action-RPG-on-Mobile-Devices-Worldwide",
+        "https://venturebeat.com/games/nexons-hit-heroes-of-incredible-tales-is-going-mobile-across-the-globe/",
+        "http://www.pocketgamer.biz/asia/news/64408/nexon-financials-q3-fy16/",
+        "https://mmos.com/review/heroes-of-incredible-tales"
+      ]
+    },
+    {
+      "id": 1025,
+      "title_jp": "エバーソウル",
+      "title_en": "Eversoul",
+      "developer": "Nine Ark",
+      "publisher": "Kakao Games",
+      "year": 2023,
+      "platform": [
+        "iOS",
+        "Android",
+        "PC"
+      ],
+      "genre": "放置系美少女ガチャRPG",
+      "sales_jp": null,
+      "sales_world": "リリース1ヶ月で約$13M売上 (Sensor Tower, 2023年2月)、初週DL 100万突破",
+      "primary": "REW",
+      "secondary": [
+        "NAR"
+      ],
+      "social_axis": "非同期",
+      "popularity": "2023年1月の韓国・台湾・グローバル同時ローンチで初週100万DLを達成し、初月売上約1,300万ドル（韓国56.8%、米国17.6%）を記録。Kakao GamesがNIKKEに続く海外向け美少女ガチャ枠として展開したが、JP版は2024年5月配信開始から約1年で2025年8月にサービス終了、グローバル版も2026年6月30日に約3年半で終了が決定している。",
+      "slug": "eversoul",
+      "concept": "6つの陣営に分かれる美少女「ソウル」を召喚・育成し、放置による自動戦闘で資源を獲得しながら編成・PvP・物語を進める韓国産の縦持ち放置×ガチャRPG。Live2D演出と豪華スキルカットインで美少女収集体験を売りにする。",
+      "target": "NIKKEや原神系の美少女ガチャを好む日韓欧米の20-30代男性プレイヤー、放置進行と差し色程度のキャラ物語を両立したいライトミドル層。",
+      "_source_urls": [
+        "https://www.pockettactics.com/eversoul/downloads",
+        "https://pickups.jp/global/54343/",
+        "https://www.4gamer.net/games/603/G060361/20230106045/",
+        "https://gamebiz.jp/news/386814",
+        "https://www.pocketgamer.biz/kakao-games-to-shut-down-eversoul-after-three-years-of-service/",
+        "https://www.invenglobal.com/articles/21426/eversoul-to-end-service-on-june-30"
+      ]
     }
   ]
 }

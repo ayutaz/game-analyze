@@ -1,0 +1,33 @@
+{
+  "id": 963,
+  "title_jp": "SHOW BY ROCK!! Fes A Live",
+  "title_en": "Show by Rock!! Fes A Live",
+  "developer": "スクウェア・エニックス",
+  "publisher": "サンリオ",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バンドリズムゲーム（けもの×美少女）",
+  "sales_jp": "DL 100万突破（2020年3月、配信開始4日で達成）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年3月12日リリース、App Storeゲーム売上ランキング最高35位・無料1位を獲得し、配信4日で100万DLを達成。約2年8ヶ月の運営後、2022年11月30日にサービス終了しオフライン版へ移行した、スクウェア・エニックス×サンリオ協業の音ゲー。",
+  "slug": "show-by-rock-fes-a-live",
+  "file": "data/games/963-show-by-rock-fes-a-live.json",
+  "concept": "サンリオの「SHOW BY ROCK!!」IPを使い、けものミュージシャン少女たちのバンド活動とライブを楽しむ縦持ち音ゲー。ガチャでカード（メンバー）を集めて編成し、ストーリーとライブイベントを周回することで報酬と限定衣装を獲得する、典型的なIP×ライブ型モバイル運営作。",
+  "target": "原作アニメ「SHOW BY ROCK!!」シリーズおよびサンリオキャラ・けもの擬人化美少女が好きなファン層、ガルパ／デレステ／バンドリ系の縦持ち音ゲーで推し活＋カード収集を楽しみたい層。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/360929",
+    "https://dengekionline.com/articles/151817/",
+    "https://www.4gamer.net/games/487/G048724/20220929120/",
+    "https://gamebiz.jp/?p=262208",
+    "https://info.showbyrock-fes.com/inc/news/report/202209-1541.html"
+  ]
+}

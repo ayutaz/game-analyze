@@ -1,0 +1,33 @@
+{
+  "id": 943,
+  "title_jp": "A3!（エースリー）",
+  "title_en": "A3! (Act! Addict! Actors!)",
+  "developer": "リベル・エンタテインメント",
+  "publisher": "リベル・エンタテインメント",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "イケメン役者育成シミュレーション／ガチャ系アドベンチャー",
+  "sales_jp": "配信2週間で150万DL突破、周年時App Store売上7〜10位（gamebiz 2021）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年1月の配信開始から約2週間で150万DLを突破し、周年や限定スカウト開催時にはApp Store売上ランキングでTOP10〜15入りを繰り返す女性向けモバイルゲームの定番タイトル。リベル・エンタテインメント22年12月期売上43億円のうち主力プロダクトとして牽引している。",
+  "slug": "a3",
+  "file": "data/games/943-a3.json",
+  "concept": "劇団「MANKAI Company」の総監督として24人のイケメン劇団員をスカウト・育成し、季節ごとの公演を作り上げていく演劇シミュレーション。SR/SSRブロマイドのガチャ（スカウト）と練習による育成、シナリオ読破が三本柱で、周年・季節イベントごとの限定スカウトが課金の主動機となる。",
+  "target": "2.5次元舞台・乙女ゲーム文脈の女性ユーザーが中心。推しキャラのブロマイド・限定衣装の収集と、フルボイスの劇団員ストーリー消費を両立したい層に支持される長期運営型タイトル。",
+  "_source_urls": [
+    "https://www.a3-liber.jp/",
+    "https://gamebiz.jp/news/286425",
+    "https://gamebiz.jp/news/257409",
+    "https://gamebiz.jp/news/366797",
+    "https://en.wikipedia.org/wiki/A3!",
+    "https://play.google.com/store/apps/details?id=jp.co.liberent.mankai"
+  ]
+}

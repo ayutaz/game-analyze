@@ -39,8 +39,9 @@ SOCIAL_AXES_SET = set(SOCIAL_AXES)
 # Slug grammar: lowercase ASCII alphanumerics joined by single hyphens.
 SLUG_RE = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 
-# Filename grammar: "{id:03d}-{slug}.json"
-FILENAME_RE = re.compile(r"^(?P<id>\d{3})-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.json$")
+# Filename grammar: "{id:03d}-{slug}.json"  (zero-padded to 3 digits, but IDs
+# above 999 naturally extend to 4 digits without leading zeros).
+FILENAME_RE = re.compile(r"^(?P<id>\d{3,})-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.json$")
 
 # Expected hard-invariants. The catalog was expanded on 2026-06-23 from 99 to
 # 200 titles by adding 101 Japan-popular 2020+ games (Slot #56 also filled to
@@ -56,11 +57,18 @@ FILENAME_RE = re.compile(r"^(?P<id>\d{3})-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.js
 # 2023–2026 indie releases (都市伝説解体センター, SANABI, Magical Girl Witch
 # Trials, Nine Sols, 8番のりば, ENDER MAGNOLIA, Manor Lords, Frostpunk 2,
 # Slay the Princess, In Stars and Time, Indika, 1000xRESIST, Lorelei and the
-# Laser Eyes, etc.). The ID range 1..917 is now contiguous.
-EXPECTED_TOTAL = 917
-EXPECTED_PRIMARY_COUNTS = {"EXP": 689, "NAR": 125, "REW": 103}
+# Laser Eyes, etc.). On 2026-06-24 a fifth wave of 108 Japanese mobile games
+# released since 2015 (ID 918..1025) was added via a 20-angle ultracode
+# discover + per-entry enrich Workflow (5 JP angles completed; 15 global/CN/KR
+# angles dropped to rate limit and are deferred). Covers Dragon Ball Z Dokkan
+# Battle, Fire Emblem Heroes, 遊戯王マスターデュエル, ポケポケ, Pokémon
+# Masters EX, シャドウバース, ロマサガRS, FFBE 幻影戦争, ドラクエタクト,
+# どうぶつの森ポケキャン, SINoALICE, Lineage M, アイドリッシュセブン, ミリシタ,
+# アズールレーン etc. The ID range 1..1025 is now contiguous.
+EXPECTED_TOTAL = 1025
+EXPECTED_PRIMARY_COUNTS = {"EXP": 705, "NAR": 125, "REW": 195}
 EXPECTED_MISSING_IDS: set = set()
-EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..917 inclusive
+EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..1025 inclusive
 
 REQUIRED_KEYS = ("id", "title_jp", "primary", "slug", "file")
 
@@ -78,6 +86,98 @@ SOCIAL_AXIS_NON_EXP_ALLOWLIST: set = {
     (30, "clash-of-clans"),
     (65, "dq-walk"),
     (99, "powerful-pro-baseball-series"),
+    (918, "war-of-the-visions-final-fantasy-brave-exvius"),
+    (919, "romancing-saga-re-universe"),
+    (920, "dragon-quest-tact"),
+    (921, "idolish7"),
+    (923, "fire-emblem-heroes"),
+    (924, "animal-crossing-pocket-camp"),
+    (926, "mario-kart-tour"),
+    (927, "lineage-2-revolution"),
+    (928, "lineage-m"),
+    (929, "pok-mon-masters-ex"),
+    (930, "sinoalice"),
+    (931, "azur-lane"),
+    (932, "dragon-ball-z-dokkan-battle"),
+    (933, "another-eden-the-cat-beyond-time-and-space"),
+    (934, "the-idolm-ster-million-live-theater-days"),
+    (936, "yo-kai-watch-puni-puni"),
+    (937, "dragalia-lost"),
+    (939, "star-ocean-anamnesis"),
+    (941, "mega-man-x-dive"),
+    (942, "love-live-school-idol-festival-all-stars"),
+    (943, "a3"),
+    (944, "stand-my-heroes"),
+    (945, "ensemble-stars-basic"),
+    (946, "uta-no-prince-sama-shining-live-emotion"),
+    (947, "idoly-pride"),
+    (948, "the-idolmaster-sidem-live-on-stage"),
+    (949, "the-idolmaster-sidem-growing-stars"),
+    (950, "the-idolmaster-pop-links"),
+    (951, "i-chu"),
+    (952, "idol-land-pripara"),
+    (953, "d4dj-groovy-mix"),
+    (954, "assault-lily-last-bullet"),
+    (955, "warau-arsnotoria-sun"),
+    (956, "yumeiro-cast"),
+    (957, "senjushi-rhodoknight"),
+    (958, "argonavis-from-bang-dream-aaside"),
+    (959, "hachigatsu-no-cinderella-nine"),
+    (960, "ensemble-girls"),
+    (961, "utano-princesama-shining-live"),
+    (962, "tsukino-paradise"),
+    (963, "show-by-rock-fes-a-live"),
+    (964, "cardfight-vanguard-zero"),
+    (965, "magia-record-puella-magi-madoka-magica-side-story"),
+    (966, "love-live-school-idol-festival-2-miracle-live"),
+    (967, "bungo-to-alchemist"),
+    (968, "yume-oukoku-to-nemureru-100-nin-no-ouji-sama"),
+    (969, "onmyoji"),
+    (970, "punishing-gray-raven"),
+    (971, "snowbreak-containment-zone"),
+    (972, "path-to-nowhere"),
+    (975, "honkai-impact-3rd"),
+    (977, "afk-arena"),
+    (978, "afk-journey"),
+    (979, "ragnarok-m-eternal-love"),
+    (983, "diablo-immortal"),
+    (985, "rise-of-kingdoms-lost-crusade"),
+    (987, "justice-mobile"),
+    (988, "where-winds-meet"),
+    (989, "persona-5-the-phantom-x"),
+    (991, "aether-gazer"),
+    (992, "state-of-survival"),
+    (993, "top-war-battle-game"),
+    (995, "kingshot"),
+    (996, "last-z-survival-shooter"),
+    (997, "top-heroes-kingdom-saga"),
+    (998, "sea-of-conquest-pirate-war"),
+    (999, "stormshot-isle-of-adventure"),
+    (1000, "age-of-empires-mobile"),
+    (1001, "doomsday-last-survivors"),
+    (1002, "viking-rise"),
+    (1003, "call-of-dragons"),
+    (1004, "warpath"),
+    (1005, "infinity-kingdom"),
+    (1006, "dragon-raja"),
+    (1007, "watcher-of-realms"),
+    (1008, "age-of-origins"),
+    (1009, "lineage-2m"),
+    (1010, "black-desert-mobile"),
+    (1011, "odin-valhalla-rising"),
+    (1012, "summoners-war-chronicles"),
+    (1013, "seven-knights-2"),
+    (1014, "cookie-run-kingdom"),
+    (1015, "cookie-run-ovenbreak"),
+    (1017, "ni-no-kuni-cross-worlds"),
+    (1018, "counter-side"),
+    (1019, "v4"),
+    (1020, "traha"),
+    (1021, "a3-still-alive"),
+    (1022, "hundred-soul"),
+    (1023, "maplestory-m"),
+    (1024, "hit-heroes-of-incredible-tales"),
+    (1025, "eversoul"),
 }
 
 # Current set of authored deep-analysis Markdown files. Most games do not
@@ -464,9 +564,9 @@ class MarkdownConsistencyTests(unittest.TestCase):
                          f"extra {sorted(distinct_ids - EXPECTED_ID_RANGE)}")
 
     def test_readme_count_consistent(self):
-        # Expect README §2 to mention the canonical 917-title figure.
-        self.assertRegex(self.readme_md, r"917\s*本",
-                         "README.md should reference '917本' somewhere (集計サマリ)")
+        # Expect README §2 to mention the canonical 1025-title figure.
+        self.assertRegex(self.readme_md, r"1025\s*本",
+                         "README.md should reference '1025本' somewhere (集計サマリ)")
 
 
 if __name__ == "__main__":  # pragma: no cover - manual runner

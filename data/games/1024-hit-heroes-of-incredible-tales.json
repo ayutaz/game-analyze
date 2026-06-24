@@ -1,0 +1,32 @@
+{
+  "id": 1024,
+  "title_jp": "ヒット HIT: Heroes of Incredible Tales",
+  "title_en": "HIT: Heroes of Incredible Tales",
+  "developer": "NAT Games",
+  "publisher": "Nexon",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": null,
+  "sales_world": "全世界DL 約2500万 (2016年時点, MMO Culture)。韓国ローンチ1週間で100万DL突破、両ストア売上1位を獲得しNexonのQ3/Q4 FY16売上を牽引",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2015年11月韓国ローンチで1週間100万DLを達成しGoogle Play / App Store両売上1位を獲得、2016年大韓民国ゲーム大賞で大統領賞（大賞）と国産ゲーム最優秀賞を受賞。Unreal Engine 4採用のハイエンドモバイルACTとして韓国モバイルRPG市場に「グラフィック競争」の波を作った象徴的タイトル。",
+  "slug": "hit-heroes-of-incredible-tales",
+  "file": "data/games/1024-hit-heroes-of-incredible-tales.json",
+  "concept": "Unreal Engine 4のフォトリアル表現と60fpsアクションをスマホで実現したハック&スラッシュRPG。4キャラクターを切り替えながら高速コンボとスキル演出でモンスターを薙ぎ払い、装備強化・キャラ育成・PvPアリーナ・レイドで長期にわたり戦力を積み上げる、いわゆる「韓国型」モバイルACT MMOの源流。",
+  "target": "据置機並みのグラフィックを片手で味わいたいハイエンドスマホ層と、装備厳選・強化・アリーナランキング詰めにのめり込めるMMORPG経験者。日々のスタミナ消費と週末イベントを回し続ける時間投入型プレイヤー向け。",
+  "_source_urls": [
+    "https://mmoculture.com/2016/11/heroes-of-incredible-tales-mobile-rpg-gets-top-prize-in-game-awards/",
+    "https://www.businesswire.com/news/home/20160707005319/en/NEXON-and-Nat-Games-Launch-Heroes-of-Incredible-Tales-HIT-the-Unreal-Engine-4-Powered-Action-RPG-on-Mobile-Devices-Worldwide",
+    "https://venturebeat.com/games/nexons-hit-heroes-of-incredible-tales-is-going-mobile-across-the-globe/",
+    "http://www.pocketgamer.biz/asia/news/64408/nexon-financials-q3-fy16/",
+    "https://mmos.com/review/heroes-of-incredible-tales"
+  ]
+}

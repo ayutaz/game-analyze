@@ -1,0 +1,31 @@
+{
+  "id": 1016,
+  "title_jp": "カートライダー ラッシュプラス",
+  "title_en": "KartRider Rush+",
+  "developer": "Nexon",
+  "publisher": "Nexon",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "レーシング",
+  "sales_jp": null,
+  "sales_world": "グローバル先行2週間で1,000万DL、初週6,000万DL規模、レース系モバイルでトップグロス約$169M (2020/4-2021/3, Sensor Tower)、Crazy Racing KartRider/QQ Speed合算で生涯収益$1.5B",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2020年5月の先行リリース2週間で1,000万DLを記録し、レーシング系モバイル市場でMario Kart Tourと並ぶトップグロス級に到達。東アジア（韓国・中国・東南アジア）で特に強い人気を維持している。",
+  "slug": "kartrider-rush",
+  "file": "data/games/1016-kartrider-rush.json",
+  "concept": "NexonのPC人気タイトル「クレイジーレーシング カートライダー」をモバイルに正統移植したカジュアル競技レーサー。アイテム戦／スピード戦のリアルタイム8人マルチ対戦と、カート・キャラクターのコレクション＆カスタマイズを軸にする。",
+  "target": "PCカートライダーの原作ファンを中心に、東アジア圏のカジュアル競技レーシング志向のモバイルプレイヤー、対戦と収集の両方を求める若年〜30代ライト〜ミドル層。",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/kartrider-rush-plus-10-million-global-downloads/",
+    "https://sensortower.com/blog/mario-kart-tour-200-million-downloads",
+    "https://app.sensortower.com/news-feed/kartrider-rushs-latest-desert-update-quintuples-revenue/65dc07fec62752505aac3a52",
+    "https://appmagic.rocks/google-play/kartrider-rush-/com.nexon.kart"
+  ]
+}

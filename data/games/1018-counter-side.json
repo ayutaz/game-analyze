@@ -1,0 +1,35 @@
+{
+  "id": 1018,
+  "title_jp": "カウンターサイド",
+  "title_en": "Counter:Side",
+  "developer": "Studio BB (Studiobside)",
+  "publisher": "Nexon",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ガチャRPG（ストラテジー/タワーディフェンス系）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "韓国では2020年2月のローンチ直後にGoogle Play / App Store両ストアの人気ランキングで1位を獲得し、日本版は2021年12月のリリース前に事前登録70万件を突破。Steam版もリリースされクロスプラットフォームで一定のコアファン層を獲得したが、日本版は2026年8月26日にサービス終了を発表している。",
+  "slug": "counter-side",
+  "file": "data/games/1018-counter-side.json",
+  "concept": "現代都市を舞台に「侵食現象」と呼ばれる怪異と戦うストラテジック・タワーディフェンスRPG。100体超のキャラクター（カウンター）をガチャで集め、リアルタイムに編成・出撃させて防衛戦を行う。サブカル系2Dガチャの世界観と韓国産特有のシリアスな現代SFストーリーを融合させている。",
+  "target": "アズールレーン／ブルアカ／アークナイツのような2Dキャラクター収集ガチャを好み、加えてリアルタイムストラテジー的な編成・操作要素も楽しみたい韓国・日本のコアサブカル層。世界観に骨太なSFストーリーを求めるプレイヤー向け。",
+  "_source_urls": [
+    "https://www.pockettactics.com/counter-side/release-date",
+    "https://www.pocketgamer.com/counter-side/futuristic-jrpg-from-nexon-japan-launch/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/CounterSide",
+    "https://gamebiz.jp/news/338635",
+    "https://store.steampowered.com/app/1976440/CounterSide/",
+    "https://www.4gamer.net/games/490/G049044/"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 932,
+  "title_jp": "ドラゴンボールZ ドッカンバトル",
+  "title_en": "Dragon Ball Z: Dokkan Battle",
+  "developer": "アカツキ",
+  "publisher": "バンダイナムコエンターテインメント",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "パズル/RPG (すごろく型ボードバトル)",
+  "sales_jp": "日本累計収益 約18億ドル/全体の約60% (Sensor Tower 2021年〜2023年集計)",
+  "sales_world": "全世界累計DL 3.5億超 (2021年8月), 累計収益 37億ドル超/約4,984億円 (Sensor Tower 2023年1月時点), 累計プレイヤー支出 30億ドル突破 (Sensor Tower 2021年)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年8月に全世界累計DL3.5億を突破し、2023年1月時点で世界累計収益は約37億ドル(約4,984億円)に到達。日本が売上全体の約56〜60%を占めバンダイナムコのモバイル最大級のドル箱IPで、2025年の10周年施策でも国内App Store売上ランキング首位を連発した。",
+  "slug": "dragon-ball-z-dokkan-battle",
+  "file": "data/games/932-dragon-ball-z-dokkan-battle.json",
+  "concept": "マス目を回って同色気力玉を繋ぐ「すごろく型パズルバトル」で原作シーンを再現し、ガチャで入手したキャラを覚醒・LR化していくドラゴンボール公式ガチャRPG。周年・コラボ限定キャラと潜在能力解放による長期育成ループが核。",
+  "target": "ドラゴンボール世代の30〜40代を中心に、推しキャラのLR/EZA(極限Z覚醒)を狙ってガチャと周回を10年単位で続ける長期重課金層と、コラボ・周年キャンペーンで戻ってくる回遊ユーザー。",
+  "_source_urls": [
+    "https://sensortower.com/blog/dragon-ball-z-dokkan-battle-3-billion-revenue",
+    "https://sensortower.com/ja/blog/dragonballz-dokkan-battle-over-3-billion-revenue",
+    "https://gamebiz.jp/news/332112",
+    "https://gamebiz.jp/news/364909",
+    "https://gamebiz.jp/news/401307"
+  ]
+}

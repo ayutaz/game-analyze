@@ -1,0 +1,33 @@
+{
+  "id": 956,
+  "title_jp": "夢色キャスト",
+  "title_en": "Yumeiro Cast",
+  "developer": "セガゲームス / マイネット",
+  "publisher": "セガゲームス",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向けミュージカルリズムゲーム（乙女ゲーム）",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "セガ初の本格乙女ゲームとして2015年9月配信、約3年4か月運営後の2019年1月にサ終。サ終から5年半後の2024年9月にアーカイブアプリ『TAKE A CURTAIN CALL』が配信され、根強いファン基盤の存在を示した。",
+  "slug": "yumeiro-cast",
+  "file": "data/games/956-yumeiro-cast.json",
+  "concept": "ミュージカル劇団「夢色カンパニー」に脚本家として入団し、7人のキャスト＋ライバル劇団5人と劇団を盛り上げる「恋するミュージカルリズムゲーム」。セガ×ランティスが手がけ、畑亜貴楽曲とフルボイスのストーリー、キャラ強化＆衣装ガチャ、ライブ形式のリズムパートを組み合わせた構成。",
+  "target": "乙女ゲーム＆アイドル／2.5次元舞台ファンの女性層。声優目当てのリズム＋ノベル＋キャラ育成を緩く楽しみたい層に支持され、舞台化・CD・コミカライズも展開した。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A2%E8%89%B2%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88",
+    "https://www.4gamer.net/games/312/G031283/20181109128/",
+    "https://sega.co.jp/release/240930_1.html",
+    "https://dengekionline.com/article/202405/4573",
+    "https://www.sega.jp/game/detail/ycast-tcc/"
+  ]
+}

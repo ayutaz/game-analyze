@@ -1,0 +1,35 @@
+{
+  "id": 952,
+  "title_jp": "アイドルランドプリパラ",
+  "title_en": "Idol Land PriPara",
+  "developer": "シンソフィア",
+  "publisher": "タカラトミーアーツ",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バーチャルアイドルライフ／コーデ・ライブ系ソーシャルゲーム",
+  "sales_jp": "非公開（音楽ゲーム無料DLランキング平均76位、最高63位／APPLION・iDayo.jp 2024集計）",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年発表から2年以上の延期を経て2023年8月17日にようやくリリースされ、リリース直後はアクセス集中で入場制限がかかるほどの旧プリパラファンの待望感を集めた。2024年7月にはタカラトミーアーツからマギシステムへ運営移管され、IPの長期運営フェーズに入っている。",
+  "slug": "idol-land-pripara",
+  "file": "data/games/952-idol-land-pripara.json",
+  "concept": "解散したアーケード筐体『プリパラ』の世界観をスマホ上の「アイドルランド」というテーマパークとして再構築し、自分のマイキャラでコーデ収集・ライブ・他プレイヤーとの非同期交流を楽しむアイドル運営ソシャゲ。コーデガチャと育成イベント周回が中核ループ。",
+  "target": "アーケード版プリパラ・プリチャン世代の旧ファンと、その下の世代の女児・10代ユーザー。コーデ収集と推しキャラ運営を楽しみたいライト〜ミドル課金層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9",
+    "https://www.takaratomy-arts.co.jp/specials/pripara-game/idolland/",
+    "https://www.4gamer.net/games/542/G054214/20230807013/",
+    "https://www.4gamer.net/games/542/G054214/20230808031/",
+    "https://www.famitsu.com/news/202308/17313555.html",
+    "https://www.takaratomy-arts.co.jp/specials/pripara-game/idolland/news/22/",
+    "https://appmedia.jp/app_review/77128337",
+    "https://applion.jp/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9/android-jp.co.takaratomy_arts.idolland/rank/"
+  ]
+}

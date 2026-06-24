@@ -1,0 +1,33 @@
+{
+  "id": 922,
+  "title_jp": "Shadowverse（シャドウバース）",
+  "title_en": "Shadowverse",
+  "developer": "Cygames",
+  "publisher": "Cygames",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "デジタルカードゲーム（TCG）",
+  "sales_jp": "国内収益は累計 $400M超推定（Sensor Tower / app.w3g.jp 集計、2016-2024年累計）",
+  "sales_world": "全世界累計DL 2,200万超、iOS収益は配信2週間で$10M到達（Sensor Tower 2016）、累計収益$500M前後と推定",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2016年配信のCygames代表的デジタルTCG。累計プレイヤー2,200万人超を記録し、RAGEを中心とした国内最大級のeスポーツシーンを形成。2025年に続編『Shadowverse: Worlds Beyond』へ移行し、2026年6月30日に原作はサービス終了予定。",
+  "slug": "shadowverse",
+  "file": "data/games/922-shadowverse.json",
+  "concept": "アニメ調の美麗カードと「進化」システムで差別化した日本産デジタルTCG。1試合10分前後で完結し、PvPランクマッチを中心に競技性とコレクションの両輪を提供する。",
+  "target": "遊戯王・ハースストーンに親しんだTCGファンと、Cygames系IP（プリコネ／ウマ娘）から流入するアニメ調ビジュアル好きの国内モバイル/PCゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadowverse",
+    "https://app.sensortower.com/news-feed/cygames-shadowverse-hits-10m-ios-revenue-in-two-weeks/6862620168db820e137d05fb",
+    "https://app.w3g.jp/shadowverse",
+    "https://rage-esports.jp/shadowverse/",
+    "https://www.4gamer.net/games/760/G076035/20250630007/"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 999,
+  "title_jp": "ストームショット：アイル・オブ・アドベンチャー",
+  "title_en": "Stormshot: Isle of Adventure",
+  "developer": "FunPlus International AG",
+  "publisher": "FunPlus",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "SLG / Adventure Strategy Hybrid",
+  "sales_jp": null,
+  "sales_world": "月間 約60K DL / 月商 約$3M（iOS $2M + Android $1M、Sensor Tower 2024-2025推計）。FunPlus主要収益源の一つとして欧米ストラテジーTop10常連",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2023-2024年にかけて欧米モバイル広告で大量露出され、ストラテジー収益ランキング常連に定着。日本でもApp Store総合上位入りすることがありポイ活案件としても定番化している",
+  "slug": "stormshot-isle-of-adventure",
+  "file": "data/games/999-stormshot-isle-of-adventure.json",
+  "concept": "「アングリーバード風の物理パズル射撃」と「拠点建設＋同盟戦のSLG」を二重構造で組み合わせた海賊・宝探しテーマのハイブリッド作品。パズル進行で資源を獲得し、それを拠点強化と同盟戦に注ぎ込むループで長期課金を引き出す設計",
+  "target": "広告経由で流入するライト〜ミドル層と、SLG経験者の同盟プレイヤーの両方を狙う。パズルで気軽に遊び始めつつ、拠点育成・同盟戦・ランキング報酬で長く課金させる「ハイブリッド導線」型のプレイヤー層が中心",
+  "_source_urls": [
+    "https://funplus.com/games/stormshot_isle_of_adventure/",
+    "https://apps.apple.com/us/app/stormshot-isle-of-adventure/id6443388218",
+    "https://play.google.com/store/apps/details?id=com.sivona.stormshot.e",
+    "https://app.sensortower.com/overview/6443388218?country=us",
+    "https://store.steampowered.com/app/2554670/Stormshot/",
+    "https://www.levelwinner.com/stormshot-isle-of-adventure-guide-tips-tricks-strategies/",
+    "https://en.wikipedia.org/wiki/FunPlus"
+  ]
+}

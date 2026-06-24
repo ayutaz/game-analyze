@@ -1,0 +1,33 @@
+{
+  "id": 942,
+  "title_jp": "ラブライブ！スクールアイドルフェスティバル ALL STARS",
+  "title_en": "Love Live! School Idol Festival ALL STARS",
+  "developer": "KLab",
+  "publisher": "ブシロード",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズム/育成RPG",
+  "sales_jp": "配信翌日100万DL、2019年10月15日に300万ユーザー突破（ブシモ公式リリース）",
+  "sales_world": "具体的な累計収益は非公開（2023年6月30日サービス終了）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "配信翌日に100万DLを突破し、2019年10月には300万ユーザーに到達したラブライブ！シリーズ初の本格3Dリズム育成RPG。μ's／Aqours／虹ヶ咲の三世代27人を同じ学園に集結させる公式パラレル設定で大きな話題を呼んだ。",
+  "slug": "love-live-school-idol-festival-all-stars",
+  "file": "data/games/942-love-live-school-idol-festival-all-stars.json",
+  "concept": "3Dライブ演出のリズムゲームに、デッキ編成・スクールアイドル育成・ストーリー消費を組み合わせたガチャ運営型アイドルRPG。9人編成のチームを組みカード強化・スキル特化・属性相性で高スコアを狙う、非同期ランキング型の運営タイトル。",
+  "target": "ラブライブ！三世代のファン、無印スクフェスからの移行プレイヤー、アイドル育成・カード収集と3Dライブ視聴の両方を楽しみたい層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96!_%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB_ALL_STARS",
+    "https://app.famitsu.com/20190926_1516855/",
+    "https://game.mirai-media.net/allstars/",
+    "https://lovelive-as.bushimo.jp/",
+    "https://70okugame.com/seruran/%E3%82%B9%E3%82%AF%E3%82%B9%E3%82%BF"
+  ]
+}

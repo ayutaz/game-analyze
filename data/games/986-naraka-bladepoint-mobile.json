@@ -1,0 +1,32 @@
+{
+  "id": 986,
+  "title_jp": "ナラカ:ブレードポイント モバイル",
+  "title_en": "Naraka: Bladepoint Mobile",
+  "developer": "24 Entertainment (NetEase傘下 / NetEase 24 Studio)",
+  "publisher": "NetEase Games",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "近接武術バトルロイヤル",
+  "sales_jp": null,
+  "sales_world": "事前登録4,000万超、2024/7/25中国独占ローンチ初月課金推計¥9億元(約$130M)、ローンチ後4ヶ月で新規ユーザー5,000万、Goldman Sachs予測初年度中国だけで¥64億元(約$880M)、PC版未経験ユーザーが70%",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2024年中国モバイル市場最大級のローンチの一つで、初月課金約$130M・初年度予測$880M(中国のみ)とNetEaseのQ3売上成長を牽引した。App Storeフリーランキング首位を獲得し、新規モバイル層が7割を占めた。",
+  "slug": "naraka-bladepoint-mobile",
+  "file": "data/games/986-naraka-bladepoint-mobile.json",
+  "concept": "PC版『永劫無間』のIPをモバイルへ完全再構築した近接武術バトルロイヤル。鉤縄(飛索)による空中機動とパリィ中心の冷兵器格闘を、タッチ操作向けに最適化しソロ/トリオで競う。",
+  "target": "PC版経験者だけでなく、スマホで本格アクションPvPを求める中国アクション・武侠ファン層。PUBG Mobileや荒野行動で物足りなくなった近接戦闘志向のバトロワプレイヤー。",
+  "_source_urls": [
+    "https://gameworldobserver.com/2024/07/24/naraka-bladepoint-mobile-revenue-880-million-in-china",
+    "https://en.wikipedia.org/wiki/Naraka:_Bladepoint",
+    "https://www.enduins.com/news/naraka-bladepoint-mobile-launching-in-china-on-july-25-2024",
+    "https://www.globalgamesforum.com/news/top-trending-mobile-games-of-july",
+    "https://www.benzinga.com/news/24/07/39936355/neteases-naraka-bladepoint-mobile-game-launch-boosts-stock-ahead"
+  ]
+}

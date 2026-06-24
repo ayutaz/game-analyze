@@ -1,0 +1,31 @@
+{
+  "id": 1008,
+  "title_jp": "エイジ・オブ・オリジンズ",
+  "title_en": "Age of Origins",
+  "developer": "Camel Games",
+  "publisher": "Camel Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "4X SLG / Zombie Apocalypse Strategy",
+  "sales_jp": null,
+  "sales_world": "全世界DL 7000万〜1億超、累計収益 約$1B (Sensor Tower / Camel Games公表 2024)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2018年9月リリースの中国系MMO SLGロングセラーで、累計DLは7000万〜1億超、生涯収益は約$1B規模と推定される(Sensor Tower 2024)。米国SLG市場では長年Top100常連で、月商$10M超を維持する世界規模の課金ヒット作。",
+  "slug": "age-of-origins",
+  "file": "data/games/1008-age-of-origins.json",
+  "concept": "ゾンビが蔓延した終末世界で司令官として都市を再建し、施設建設・技術研究・将軍ガチャ・部隊強化を進めながら同盟を組んで他サーバーや他プレイヤーと戦う4X型ゾンビMMO SLG。タワーディフェンス要素も組み込み、State of Survival系の先駆けとして長期運営されている。",
+  "target": "同盟戦・キングダム間PvPに数ヶ月〜数年単位で没入できる中重課金SLG層、Lords Mobile / State of Survival / Top Heroesなど中国系MMO SLGを遊ぶ国際的プレイヤー。日本ではコア層が中心で、欧米・北米市場での人気が突出している。",
+  "_source_urls": [
+    "https://app.sensortower.com/overview/com.camelgames.aoz?country=US",
+    "https://www.camelgames.com/game/ageoforigins",
+    "https://toucharcade.com/2022/03/04/age-of-z-origins-redeem-code-iphone-ipad-android/",
+    "https://www.kemogames.com/article/new16"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 950,
+  "title_jp": "アイドルマスター ポップリンクス",
+  "title_en": "The Idolmaster Pop Links",
+  "developer": "バンダイナムコエンターテインメント",
+  "publisher": "バンダイナムコエンターテインメント",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ライブパズル＋アイドル育成",
+  "sales_jp": "配信開始1ヶ月で100万DL突破 (2021年2月時点)",
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "アイマス15周年記念タイトルとして765PRO/シンデレラ/ミリオン/SideM/シャニマスの5ブランドが集結したシリーズ初のパズル形式アプリ。2021年1月21日配信開始、2022年7月21日サ終で1年半運営という短命に終わった。",
+  "slug": "the-idolmaster-pop-links",
+  "file": "data/games/950-the-idolmaster-pop-links.json",
+  "concept": "5ブランド横断のオリジナルユニットを編成し、パズル操作でライブを成功させてアイドルを育成・収集するブランド横断型ガチャアプリ。",
+  "target": "アイマスシリーズ全ブランドのプロデューサー層と、軽めのパズル操作で複数IPのアイドル交流を楽しみたいライト〜ミドル課金層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%83%9D%E3%83%83%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B9",
+    "https://automaton-media.com/articles/newsjp/20220420-199699/",
+    "https://gamebiz.jp/news/347769",
+    "https://www.famitsu.com/news/202204/20258873.html"
+  ]
+}

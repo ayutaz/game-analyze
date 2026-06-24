@@ -1,0 +1,32 @@
+{
+  "id": 938,
+  "title_jp": "逆転オセロニア",
+  "title_en": "Reversi Othellonia",
+  "developer": "DeNA",
+  "publisher": "DeNA",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "対戦パズル / リアルタイム対戦TCG",
+  "sales_jp": "累計3,500万DL突破(2023年7月)、DeNA初のノンIPで月商10億円超え、2023年年商29.16億円(game-i推計)",
+  "sales_world": null,
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2016年配信開始からサービス10年目に突入、国内累計3,500万DLを誇るDeNAの看板タイトル。eスポーツ大会「オセロニアンの宴」やプロリーグ展開でコミュニティ主導の長期運営に成功した稀有なオリジナルIPモバイル対戦ゲーム。",
+  "slug": "reversi-othellonia",
+  "file": "data/games/938-reversi-othellonia.json",
+  "concept": "オセロのシンプルなルールに、攻撃・回復・カウンターなどの効果を持つ「駒キャラ」によるTCG要素を融合させたリアルタイム1on1対戦ゲーム。HPを削り合い、相手のHPを0にした方が勝利するため「負けている時ほど大逆転できる」ドラマチックなバトル設計が特徴。",
+  "target": "短時間でじっくり頭を使う対戦が好きなプレイヤー、デッキ構築の戦略性を楽しみたいTCGファン、オセロという誰でも理解できる土台から入れる戦略バトル好き。e-sports/コミュニティ志向のプレイヤーにも訴求。",
+  "_source_urls": [
+    "https://markelabo.com/n/n622d6b39176e",
+    "https://gamebiz.jp/news/197399",
+    "https://dena.com/jp/news/3506a/",
+    "https://app.w3g.jp/%E9%80%86%E8%BB%A2%E3%82%AA%E3%82%BB%E3%83%AD%E3%83%8B%E3%82%A2",
+    "https://othellonia.com/"
+  ]
+}

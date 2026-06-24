@@ -1,0 +1,35 @@
+{
+  "id": 954,
+  "title_jp": "アサルトリリィ Last Bullet",
+  "title_en": "Assault Lily Last Bullet",
+  "developer": "ポケラボ",
+  "publisher": "ブシロード",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "美少女コマンドバトルRPG",
+  "sales_jp": "App Store売上ランキング最高21位、3周年付近で28位（game-i / gamebiz 2024-2025）",
+  "sales_world": "海外版『Last Bullet W』2024年5月配信〜2025年11月サービス終了、Sensor Tower推定月商 約$20k（2024年9月時点）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年1月20日のリリースで事前登録30万人を突破し、配信2日後にApp Store売上ランキング40位、3周年付近の2024年3月には28位まで再浮上するなど安定した運営を継続。2024年5月にはSo-net Taiwan運営で『Assault Lily Last Bullet W』として英・韓・中（簡繁）対応の海外版を配信したが、2025年11月にサービス終了している。",
+  "slug": "assault-lily-last-bullet",
+  "file": "data/games/954-assault-lily-last-bullet.json",
+  "concept": "アニメ『アサルトリリィ BOUQUET』と連動する百合×コマンドバトルRPG。ガーデン（学園）の少女「リリィ」を編成し、CHARM（武器）と神様（スキル）を組み合わせて怪異「ヒュージ」と戦うガチャ運営型ゲーム。",
+  "target": "アサルトリリィIPおよび百合・美少女キャラ運営型RPGのファン。シャフト制作アニメや舞台演劇とのメディアミックスを追いかける層と、長期育成・ガチャ収集を楽しむモバイルRPGプレイヤー。",
+  "_source_urls": [
+    "https://gamebiz.jp/news/286828",
+    "https://gamebiz.jp/news/284674",
+    "https://gamebiz.jp/news/291652",
+    "https://gamebiz.jp/news/289574",
+    "https://game-i.daa.jp/?cmd=app_record&apid=1508070051",
+    "https://assaultlily.fandom.com/wiki/Assault_Lily_Last_Bullet",
+    "https://gamingph.com/2024/05/bonding-x-bishojo-gvg-global-release-of-assault-lily-last-bullet-w-set-out-on-a-new-adventure-build-unwavering-bonds-with-the-lilies/"
+  ]
+}

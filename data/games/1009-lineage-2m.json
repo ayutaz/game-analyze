@@ -1,0 +1,35 @@
+{
+  "id": 1009,
+  "title_jp": "リネージュ2M",
+  "title_en": "Lineage 2M",
+  "developer": "NCsoft",
+  "publisher": "NCsoft",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "日本は2021年4月にプレイヤー数100万人突破、2023年の年間売上は約10億円規模に縮小（gamebiz/W3G）",
+  "sales_world": "2019年11月韓国ローンチ初日売上130億ウォン、リリース3か月で全世界収益1.52億ドル突破（Sensor Tower）。2024年Q2でも422億ウォン、2025年Q2は東南アジア展開で480億ウォン（前期比+27%）と長期的に収益柱",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "韓国モバイルMMOブームを決定づけた巨大IP拡張で、Unreal Engine 4採用によりモバイルMMOのグラフィック基準を引き上げた。日本でも2021年に大型プロモを展開し、セルラン上位常連となった。",
+  "slug": "lineage-2m",
+  "file": "data/games/1009-lineage-2m.json",
+  "concept": "PCの『リネージュII』を基盤に、攻城戦と血盟（ギルド）を中心とした大規模PvPと装備強化・課金アイテムによるパワーカーブをモバイル＋PC同時プレイで展開する、いわゆる「リネージュライク」課金型MMORPG。",
+  "target": "韓国・台湾・日本の30〜40代を中心とした重課金MMOプレイヤー層と、血盟運営や攻城戦などギルド政治・PvPを長期に楽しむハードコアモバイルRPGユーザー。",
+  "_source_urls": [
+    "https://sensortower.com/blog/lineage-2-m-revenue-150-million",
+    "https://pocketgamer.biz/asia/news/72575/lineage-2-m-152-million-usd-in-three-months",
+    "https://www.pocketgamer.biz/ncsoft-profit-bounces-back-with-59-of-revenue-on-mobile-but-not-all-lineage-games-are-thriving/",
+    "https://about.ncsoft.com/en/news/article/news_update_250812",
+    "https://gamebiz.jp/news/259702",
+    "https://app.w3g.jp/lineage2m",
+    "https://lineage2m.ncsoft.jp/"
+  ]
+}

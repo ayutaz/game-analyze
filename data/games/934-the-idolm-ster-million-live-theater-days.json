@@ -1,0 +1,32 @@
+{
+  "id": 934,
+  "title_jp": "アイドルマスター ミリオンライブ! シアターデイズ",
+  "title_en": "The Idolm@ster Million Live! Theater Days",
+  "developer": "バンダイナムコスタジオ",
+  "publisher": "バンダイナムコエンターテインメント",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズム/育成",
+  "sales_jp": null,
+  "sales_world": null,
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2017年6月29日リリース以降、8周年（2025年）を迎えるアイマス系列の長期運営リズムゲーム。52週連続CDリリースや周年ライブ、企業コラボ等で活発に展開し、2023年にアニメ放送も実現した。",
+  "slug": "the-idolm-ster-million-live-theater-days",
+  "file": "data/games/934-the-idolm-ster-million-live-theater-days.json",
+  "concept": "765プロ「ミリオンスターズ」52人のアイドルをガチャと育成で集め、3Dモデルによるライブ演出とリズムゲームで楽しむ長期運営アイドル育成アプリ。イベント周回・限定SSRガチャ・コミュ閲覧が中心ループ。",
+  "target": "アイマスIPファンと、デレステ・シャニマス等と並ぶ女性アイドル育成・ガチャ・コミュ消費を求めるプレイヤー。担当アイドルへの長期的な投資と周年ライブ参加までを含むコミュニティ志向ユーザー。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96!_%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%83%87%E3%82%A4%E3%82%BA",
+    "https://millionlive-theaterdays.idolmaster-official.jp/",
+    "https://www.famitsu.com/article/202507/48202",
+    "https://gamebiz.jp/news/408232"
+  ]
+}

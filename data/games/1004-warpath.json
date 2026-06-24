@@ -1,0 +1,33 @@
+{
+  "id": 1004,
+  "title_jp": "WARPATH -武装都市- / ウォーパス",
+  "title_en": "Warpath",
+  "developer": "Lilith Games",
+  "publisher": "Lilith Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "RTS / SLG (WW2 Military Strategy)",
+  "sales_jp": null,
+  "sales_world": "全世界累計DL3000万本超(PC+モバイル合算, 2023年8月時点, Lilith Games公式発表)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2020年11月のグローバル配信後、欧米App Storeで一時DLランキングTop3入りし、2023年8月時点で全世界累計DL3000万本超を達成。iOSで4.6/5(20万件以上)の高評価を獲得。",
+  "slug": "warpath",
+  "file": "data/games/1004-warpath.json",
+  "concept": "第二次大戦を舞台に、ティーガーなど実在兵器100種以上を集めて編成する基地建設×リアルタイム戦闘のSLG。同盟（ギルド）戦と資源収奪を軸に長期運営される、ライキン系の戦争SLG。",
+  "target": "「Rise of Kingdoms」「State of Survival」などSLG系ストラテジーを遊ぶ大人男性層、ミリタリー/WW2兵器ファン、サーバー対抗戦に時間とお金を投じる重課金プレイヤー。",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/lilith-games-warpath-crosses-30-million-downloads-globally/",
+    "https://www.globenewswire.com/news-release/2023/08/17/2727301/0/en/Critically-Acclaimed-Military-Strategy-Game-Warpath-Surpasses-30-Million-Global-Downloads-Across-PC-and-Mobile.html",
+    "https://gamingonphone.com/news/warpath-the-ww2-strategy-game-surpasses-30-million-downloads-globally/",
+    "https://warpath-jp.lilith.com/",
+    "https://chinagamenews.net/market-info-719/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 923,
+  "title_jp": "ファイアーエムブレム ヒーローズ",
+  "title_en": "Fire Emblem Heroes",
+  "developer": "インテリジェントシステムズ／任天堂",
+  "publisher": "任天堂",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "日本市場で累計約$540.6M（全体の約54%、Sensor Tower 2022年時点）",
+  "sales_world": "累計収益 約$1.3B（2025年2月時点、Sensor Tower）／リリース1年で約$2.95億",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "任天堂モバイルで唯一の10億ドル超タイトルとなり、2025年2月の8周年時点で累計13億ドル近くを記録。日本市場が売上の半分超を占める長期運営型ガチャゲーの代表格。",
+  "slug": "fire-emblem-heroes",
+  "file": "data/games/923-fire-emblem-heroes.json",
+  "concept": "「ファイアーエムブレム」歴代キャラを召喚（ガチャ）し、6×8マスのスマホ最適化されたSRPGバトルで育成・編成して戦うキャラクター収集型SRPG。アリーナ・闘技場・飛空城など非同期PvPと、シーズン制の難関ステージで継続課金を促す設計。",
+  "target": "歴代FEファンとSRPG好き、推しキャラを集めて凸って育てるガチャRPG層。長期サービスに付き合うコア課金プレイヤーが収益の中心。",
+  "_source_urls": [
+    "https://sensortower.com/blog/fire-emblem-heroes-one-billion-revenue",
+    "https://kotaku.com/fire-emblem-heroes-profits-revenue-nintendo-billion-app-1849134777",
+    "https://www.mobilemarketingreads.com/fire-emblem-heroes-revenue-and-player-statistics/"
+  ]
+}

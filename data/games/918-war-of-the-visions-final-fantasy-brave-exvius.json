@@ -1,0 +1,34 @@
+{
+  "id": 918,
+  "title_jp": "FFBE幻影戦争 WAR OF THE VISIONS",
+  "title_en": "War of the Visions: Final Fantasy Brave Exvius",
+  "developer": "gumi",
+  "publisher": "スクウェア・エニックス",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "2023年売上 約25.04億円(前年比-70%, game-i推計)、2019-2022年累計で数百億円規模",
+  "sales_world": "全世界累計2,400万DL超(2023年8月時点, スクウェア・エニックス公式)",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2019年11月14日に日本配信、当日App Store売上ランキング20位を獲得。2023年8月時点で全世界累計2,400万DLを突破。ただし2023年の日本売上は約25億円と前年比70%減で右肩下がりが続き、グローバル版は2025年5月29日、日本版は2026年5月28日にサービス終了予定。",
+  "slug": "war-of-the-visions-final-fantasy-brave-exvius",
+  "file": "data/games/918-war-of-the-visions-final-fantasy-brave-exvius.json",
+  "concept": "FFBE世界観を継承し、FFTactics系のクォータービュー戦術SRPG戦闘に、キャラ／ビジョンカードのガチャ収集と育成を組み合わせたモバイル本格SRPG。PvPアリーナとギルドバトルで非同期の競争要素も持つ。",
+  "target": "FFタクティクス／FFBE経験者で本格戦術SRPGをスマホで遊びたい層、ガチャでFFキャラを集めて育成・編成最適化を楽しみたいFFファン。",
+  "_source_urls": [
+    "https://app.w3g.jp/wotv_ffbe",
+    "https://www.pocketgamer.biz/square-enix-to-shut-down-war-of-the-visions-final-fantasy-brave-exvius-after-five-years/",
+    "https://www.siliconera.com/war-of-the-visions-final-fantasy-brave-exvius-shutting-down/",
+    "https://gamebiz.jp/news/273343",
+    "https://play.google.com/store/apps/details?id=com.square_enix.WOTVffbejp"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 985,
+  "title_jp": "ライズ・オブ・キングダム ―万国覚醒―",
+  "title_en": "Rise of Kingdoms: Lost Crusade",
+  "developer": "Lilith Games",
+  "publisher": "Lilith Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "4Xリアルタイム文明ストラテジー（MMO SLG）",
+  "sales_jp": null,
+  "sales_world": "全世界累計収益 35億ドル超、累計DL 1億超、年間ピーク 6.26億ドル(2020年)、米国25.6%・中国14.4%・韓国12.6%の収益シェア (Sensor Tower 2024-05)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2024年5月時点で全世界累計収益35億ドル超（Sensor Tower）、累計DLは1億を突破し、米国（25.6%）・中国（14.4%）・韓国（12.6%）が三大市場。2020年の年間収益6.26億ドルでピークを記録し、その後も2025年Q2に週次最大100万ドル規模を維持する長寿モバイルSLG。",
+  "slug": "rise-of-kingdoms-lost-crusade",
+  "file": "data/games/985-rise-of-kingdoms-lost-crusade.json",
+  "concept": "中国・ローマ・日本・ドイツなど11文明から選択し、自国の都市を発展させながら同じサーバーの数千人プレイヤーと同盟・領土戦・要塞戦を行う、シームレスマップ採用の4XリアルタイムMMOストラテジー。英雄ガチャと装備・才能ツリー育成、KvK（王国間戦争）イベントが長期課金ループを駆動する。",
+  "target": "Clash of KingsやState of Survival、エボニーなど海外発モバイルSLGに馴染んだ20〜40代の重課金層と、文明・歴史IPが好きな戦略ゲーマー。1日複数回の建設・採集・連盟行動をこなせるコア向けで、KvK期は社会人〜リタイア層が中心の同盟ベース運営。",
+  "_source_urls": [
+    "https://mobidictum.com/rise-of-kingdoms-3-5-billion-global-revenue/",
+    "https://app2top.com/news/analysts-revenue-from-rise-of-kingdoms-exceeded-3-5-billion-267142.html",
+    "https://sensortower.com/blog/2025-q2-unified-top-5-historical%20games-revenue-us-60188699241bc16eb8409802",
+    "https://app.sensortower.com/overview/1354260888?country=US"
+  ]
+}

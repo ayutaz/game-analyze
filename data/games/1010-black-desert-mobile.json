@@ -1,0 +1,29 @@
+{
+  "id": 1010,
+  "title_jp": "黒い砂漠モバイル",
+  "title_en": "Black Desert Mobile",
+  "developer": "Pearl Abyss",
+  "publisher": "Pearl Abyss",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": null,
+  "sales_world": "全世界DL累計1億超、Black Desertシリーズ累計収益$1.5B超 (PocketGamer.biz / TheGamer, 2020-2024)",
+  "primary": "REW",
+  "secondary": [],
+  "social_axis": "非同期",
+  "popularity": "2019年Google Play最優秀ゲーム賞を受賞し、ローンチ2か月で2000万DLを突破。グローバル累計1億DLを超え、Pearl Abyssのモバイル売上の柱として年間数億ドル規模を維持している。",
+  "slug": "black-desert-mobile",
+  "file": "data/games/1010-black-desert-mobile.json",
+  "concept": "PC版『黒い砂漠』のオープンワールドMMORPG体験をスマートフォン向けに最適化し、美麗グラフィックとリアルタイムアクション戦闘、装備強化・キャラクター育成・拠点経営を片手操作で楽しめる本格モバイルMMO。",
+  "target": "PC MMO経験者や本格派RPGを通勤・スキマ時間にも続けたい20-40代男性、キャラビルドと装備強化に時間と課金を投下できるコアプレイヤー、ギルド戦・拠点戦のPvPMMO志向層。",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/black-desert-mobile-reaches-20-million-installs-series-crosses-15-billion-revenue/",
+    "https://www.thegamer.com/black-desert-mobile-one-billion-revenue/",
+    "https://mmos.com/news/black-desert-online-q1-2024-earnings",
+    "https://massivelyop.com/2025/11/13/pearl-abyss-q3-2025-black-deserts-comeback-generated-a-34-year-over-year-revenue-boost/"
+  ]
+}

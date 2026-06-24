@@ -1,0 +1,34 @@
+{
+  "id": 998,
+  "title_jp": "シー・オブ・コンクエスト：パイレーツ・ウォー",
+  "title_en": "Sea of Conquest: Pirate War",
+  "developer": "FunPlus International AG",
+  "publisher": "FunPlus",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMO SLG / Pirate Strategy",
+  "sales_jp": null,
+  "sales_world": "ソフトローンチ期に登録1億達成、Q1 2024で週次収益$26K→$826Kへ急成長、Q2 2024 WAUピーク1.2M (Sensor Tower / FunPlus 公式発表)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "FunPlusの『State of Survival』『Guns of Glory』に続く戦略系SLG主力タイトルで、ソフトローンチ段階で登録1億を突破し、2024年1月のグローバル正式版以降は急上昇モバイルSLGとして話題化。Q2 2024には週次アクティブが100万を超える規模に達した。",
+  "slug": "sea-of-conquest-pirate-war",
+  "file": "data/games/998-sea-of-conquest-pirate-war.json",
+  "concept": "広大な海洋を舞台にしたAAA級ピレーツMMO SLG。船体カスタマイズ・船員ガチャ・基地建設・艦隊運営に、海戦・港湾占領・サーバー横断のシーズン戦を組み合わせ、ギルド（同盟）間の領土争奪を主軸とする長期運営型ストラテジー。",
+  "target": "『State of Survival』『Rise of Kingdoms』『King of Avalon』などの欧米向けMMO SLG経験者と、海賊・大航海テーマを好む30〜50代の男性ライト〜ミドル課金層。",
+  "_source_urls": [
+    "https://funplus.com/games/sea-of-conquest/",
+    "https://www.gamespress.com/FUNPLUS-LAUNCHES-SEA-OF-CONQUEST-PIRATE-WAR-AFTER-HITTING-100M-DOWNLOA",
+    "https://sensortower.com/blog/2024-q1-unified-top-5-pirate%20games-revenue-us-6023ec24241bc16eb8fd52e3",
+    "https://sensortower.com/blog/2024-q2-unified-top-5-pirate%20games-revenue-es-6023ec24241bc16eb8fd52e3",
+    "https://apps.apple.com/us/app/sea-of-conquest-pirate-war/id6463715971",
+    "https://play.google.com/store/apps/details?id=com.seaofconquest.global"
+  ]
+}

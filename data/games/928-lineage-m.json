@@ -1,0 +1,33 @@
+{
+  "id": 928,
+  "title_jp": "リネージュM",
+  "title_en": "Lineage M",
+  "developer": "NCSOFT",
+  "publisher": "エヌ・シー・ジャパン",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "日本DL約24.5万（Sensor Tower 2019時点で全世界の約3%）、日本市場収益は累計約$410M（全世界収益の23.6%、Sensor Tower 2019時点）",
+  "sales_world": "全世界DL約820万、累計プレイヤー収益約$2.3B（Sensor Tower 2019時点）。リネージュフランチャイズ全体でモバイル累計$7B超（2023年Sensor Tower）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "協力",
+  "popularity": "2019年5月29日の日本配信前に事前登録150万人を突破し、リリース直後にApp Store / Google Playのセールス上位に食い込んだ。日本ではARPUが極めて高い重課金型MMOとして定着し、長期にわたりセールス100位前後を維持している。",
+  "slug": "lineage-m",
+  "file": "data/games/928-lineage-m.json",
+  "concept": "PC版『リネージュ』をスマホで忠実再現したハードコアMMORPG。血盟（ギルド）に所属して攻城戦・狩り場争奪・PK・希少装備の強化に時間と金銭を投じる、いわゆる「リネージュ系」体験をモバイルで提供する。",
+  "target": "PC版リネージュ経験者・韓国型MMORPGに親和性のある30〜50代のハードコアMMO層。装備強化や血盟運営に長時間と高額課金を許容できる重課金プレイヤーが中心。",
+  "_source_urls": [
+    "https://sensortower.com/blog/lineage-mobile-games-revenue-4-billion",
+    "https://venturebeat.com/2019/10/15/sensor-tower-lineage-franchise-bags-over-4-billion-on-mobile/",
+    "https://gameworldobserver.com/2023/03/07/lineage-mobile-games-revenue-7-billion",
+    "https://gamebiz.jp/news/199741",
+    "https://lineagem-jp.com/",
+    "https://game-i.daa.jp/?%E3%82%AC%E3%83%81%E3%83%A3%E5%88%86%E6%9E%90%2FLineage+M%28%E3%83%AA%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A5M%29="
+  ]
+}

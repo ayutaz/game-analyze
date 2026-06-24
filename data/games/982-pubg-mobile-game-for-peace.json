@@ -1,0 +1,31 @@
+{
+  "id": 982,
+  "title_jp": "PUBG Mobile / 和平精英",
+  "title_en": "PUBG Mobile / Game for Peace",
+  "developer": "Lightspeed & Quantum Studios (Tencent)",
+  "publisher": "Tencent / Krafton",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤルFPS/TPS",
+  "sales_jp": null,
+  "sales_world": "累計DL17.5億・累計収益150億ドル超 (Sensor Tower 2026/1)、2025年年間収益12億ドル、MAU 1.13億 (2025/6)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2026年1月時点で累計DL約17.5億、累計収益150億ドル超。2025年は年間12億ドル稼ぎ、月間アクティブ約1.13億・DAU約2400万を維持する世界最大級のモバイルシューター。",
+  "slug": "pubg-mobile-game-for-peace",
+  "file": "data/games/982-pubg-mobile-game-for-peace.json",
+  "concept": "100人参加のバトルロイヤルをスマホで本格再現したFPS/TPS。中国版「和平精英」はPUBG本編が版号取得できず、規制対応のため別タイトル化された事実上の同一作で、Tencentのモバイル収益柱として君臨する。",
+  "target": "スマホで本格的なシューター対戦をしたい競技志向プレイヤー、PCシューターをモバイルで遊びたい若年層、中国国内の若年男性ユーザー層。",
+  "_source_urls": [
+    "https://sensortower.com/blog/pubg-mobile-8-billion-revenue",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/tencent",
+    "https://pubg.fandom.com/wiki/Game_for_Peace",
+    "https://rec0ded88.com/statistics/pubg-mobile/"
+  ]
+}

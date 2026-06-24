@@ -1,0 +1,33 @@
+{
+  "id": 1011,
+  "title_jp": "オーディン：ヴァルハラ・ライジング",
+  "title_en": "ODIN: Valhalla Rising",
+  "developer": "Lionheart Studio",
+  "publisher": "Kakao Games",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "日本サーバーは2023年6月リリース、Sensor Towerでセルラン上位常連だが具体売上非公開",
+  "sales_world": "韓国リリース初期180日で約3.5億ドル、月商ピーク47百万ドル、累計収益9億ドル超 (2023年7月時点)、Kakao Games全体収益の25%を占める主力タイトル",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2021年6月韓国リリース初日にLineage Mを抜いてGoogle Play売上1位を奪取し、3カ月以上連続で韓国App Store・Google Play両方のセールスランキング1位を維持、17週連続Google Play売上1位を記録した次世代モバイルMMOの象徴的作品。2023年6月に日本サーバーも開設され、Kakao Gamesの主力IPとして累計9億ドル超の収益を稼ぐ。",
+  "slug": "odin-valhalla-rising",
+  "file": "data/games/1011-odin-valhalla-rising.json",
+  "concept": "北欧神話世界をUnreal Engine 4でフォトリアルに描いた次世代モバイルMMORPG。シームレスなオープンワールド、巨大ボスレイド、ギルド間の大規模PvP・攻城戦を備え、装備強化・トランスフォーム収集・キャラ育成課金が中核ループとなるリネージュ型韓国MMOの代表格。",
+  "target": "リネージュM・黒い砂漠モバイルなど韓国型ハイエンドMMOに慣れた重課金プレイヤー、北欧神話・ダークファンタジー世界観を好む層、ギルド戦・攻城戦で他プレイヤーと競い合いたい競技志向のMMOユーザー。",
+  "_source_urls": [
+    "https://hc.games/odin-valhalla-rising-revenue-exceeds-900-million/",
+    "https://www.gamerbraves.com/odin-valhalla-rising-publisher-kakao-games-surpassed-4-billion-earning-in-user-spending/",
+    "https://www.famitsu.com/news/202304/28301351.html",
+    "https://mmoculture.com/2022/07/odin-valhalla-rising-kakao-games-takes-control-of-developer-valued-at-usd-3-billion/",
+    "https://game-i.daa.jp/?cmd=app_record&apid=6444820791"
+  ]
+}

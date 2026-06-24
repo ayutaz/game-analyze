@@ -1,0 +1,32 @@
+{
+  "id": 944,
+  "title_jp": "スタンドマイヒーローズ PIECE OF TRUTH",
+  "title_en": "Stand My Heroes",
+  "developer": "coly",
+  "publisher": "coly",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向けシナリオ×パズルRPG（イケメン捜査官×恋愛アドベンチャー）",
+  "sales_jp": "2023年売上 約8.99億円、2022年 約10.94億円（game-i 推計）",
+  "sales_world": "累計300万DL超（2019年TVアニメ化時点、coly発表）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2016年9月配信開始、累計200万DL→2019年に300万DL突破。同年TVアニメ『スタンドマイヒーローズ PIECE OF TRUTH』が放送され女性向けタイトルとして高い知名度を獲得。2022年には大型リニューアルでメインストーリー第二部を開始し長期運営を継続している。",
+  "slug": "stand-my-heroes",
+  "file": "data/games/944-stand-my-heroes.json",
+  "concept": "麻薬取締官の新人女性主人公が、警視庁・裏社会など各分野の30人超のイケメンたちと事件を追う本格サスペンスシナリオを、Live2Dキャラ演出と3マッチパズルバトルで楽しむ女性向け乙女ゲーム。シナリオ消費とキャラガチャ・育成・イベント周回が両輪。",
+  "target": "20〜30代の女性ユーザー、乙女ゲーム／声優ファン層、シリアスなサスペンス物語を好む層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%9E%E3%82%A4%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA",
+    "https://gamebiz.jp/news/168585",
+    "https://gamebiz.jp/news/333331",
+    "https://game-i.daa.jp/?APP%2F1121898899=",
+    "https://stand-myheroes.com/"
+  ]
+}

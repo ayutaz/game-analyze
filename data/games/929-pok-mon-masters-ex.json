@@ -1,0 +1,32 @@
+{
+  "id": 929,
+  "title_jp": "ポケモンマスターズ EX",
+  "title_en": "Pokémon Masters EX",
+  "developer": "DeNA",
+  "publisher": "株式会社ポケモン",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG",
+  "sales_jp": "2023年売上 27.4億円（2022年35.97億円から減少, w3g 推計）",
+  "sales_world": "初年度収益 $75M / 初年度DL 2,270万、2023年4月時点で全世界累計5,000万DL突破（Sensor Tower / ポケモン公式）",
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": "非同期",
+  "popularity": "配信4日で全世界1,000万DL・1,000万ドルを達成したスタートダッシュ型のヒット作。初年度に約7,500万ドルを稼ぎ、2023年4月には累計5,000万DLを突破した長期運営タイトルで、現在もイベント周期と歴代トレーナー実装で月数百万ドル規模の収益を維持している。",
+  "slug": "pok-mon-masters-ex",
+  "file": "data/games/929-pok-mon-masters-ex.json",
+  "concept": "歴代シリーズのトレーナー×ポケモンを「バディーズ」として収集・育成し、3vs3のリアルタイムバトルで戦う本格RPG。フェス限定バディーズや週次イベントを軸とした典型的な日本型ガチャ運営。",
+  "target": "歴代トレーナー（カスミ、シロナ、N など）に思い入れがあるポケモン古参ファンと、キャラ収集型のガチャRPGを長期で遊ぶライト〜ミドル課金層。",
+  "_source_urls": [
+    "https://sensortower.com/blog/pokemon-masters-revenue-75-million",
+    "https://app.w3g.jp/pokemon-masters-ex",
+    "https://app.famitsu.com/20220428_1945434/",
+    "https://pocketmonsters.net/news/4343"
+  ]
+}

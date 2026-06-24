@@ -1,0 +1,24 @@
+{
+  "id": 873,
+  "title_jp": "ラットピア",
+  "title_en": "Ratopia",
+  "developer": "Cassel Games",
+  "publisher": "Cassel Games",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "2D横スクロール経済シミュレーション／都市建設サバイバル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "韓国インディー Cassel Games による2D横スクロール型ネズミ国家経営シム。Oxygen Not Included＋Terraria＋政治経済シムというユニーク融合で、税制・通貨発行・市民の不満反乱まで扱う深い経済設計が Rimworld / Dwarf Fortress 系コア層に刺さり、2023年11月の早期アクセス開始直後から Steam で「圧倒的に好評」を獲得。2025年5月に正式1.0リリース。",
+  "concept": "プレイヤーは女王ネズミとして地下に都市を掘り広げ、市民の労働・税制・通貨流通・公共政策まで設計しながら持続可能な経済社会を構築する2D横スクロール型コロニーシム。",
+  "target": "Rimworld / Dwarf Fortress / Oxygen Not Included を遊び込み、戦闘より「制度設計と経済バランス」に没頭したい管理系シム愛好家。",
+  "slug": "ratopia",
+  "file": "data/games/873-ratopia.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 832,
+  "title_jp": "ノー、アイム・ノット・ア・ヒューマン",
+  "title_en": "No, I'm not a Human",
+  "developer": "Trioskaz",
+  "publisher": "Critical Reflex",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Visitor-Discrimination Psychological Horror / Anomaly-Spotting",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Mouthwashingと同じCritical Reflex配給による2025年最大級のインディーNARホラーの一つ。Papers, Please系の選別メカニクスをホラーに昇華し、Steamデモ版から圧倒的高評価とストリーマー人気を獲得した。",
+  "concept": "終末世界の自宅で来訪者を歯・目・指など7つの異常サインで識別し、人間か擬態Visitorかを判断して招き入れるか追い払うかを選ぶPapers, Please系の心理ホラー・アノマリースポッティングゲーム。判断を誤れば家族や自分が餌食となり、複数のエンディングへと分岐する。",
+  "target": "Papers, Please / Mouthwashing / Buckshot Roulette など選別判断型ホラーや心理サスペンスを好む層、Chilla's Art系の日常侵食型ホラー愛好者、Critical Reflex作品のフォロワー。",
+  "slug": "no-im-not-a-human",
+  "file": "data/games/832-no-im-not-a-human.json"
+}

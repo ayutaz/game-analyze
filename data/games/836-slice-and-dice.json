@@ -1,0 +1,26 @@
+{
+  "id": 836,
+  "title_jp": "Slice & Dice",
+  "title_en": "Slice & Dice",
+  "developer": "tann (Tom Carlson)",
+  "publisher": "tann",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Tactical Dice Roguelike",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "5体パーティーの専用ダイスを毎ターン振り、出目の組み合わせで戦術を組み立てる中毒性の高いローグライト。128ヒーロー／474アイテム／18ゲームモードという個人開発離れしたボリュームと、Steam 96%超の圧倒的高評価でモバイル長期人気作からPCへ波及した。",
+  "concept": "5人パーティーの専用ダイスを振り、20階層のモンスターを攻略するターン制ダイス・ローグライト。リロールと出目選択で戦術を組む頭脳系。",
+  "target": "Into the Breach / FTL / Dicey Dungeons などの戦術ローグライト愛好家、個人開発インディーの密度を好むコア層。",
+  "slug": "slice-and-dice",
+  "file": "data/games/836-slice-and-dice.json"
+}

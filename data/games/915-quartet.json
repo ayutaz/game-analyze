@@ -1,0 +1,29 @@
+{
+  "id": 915,
+  "title_jp": "Quartet (クァルテット)",
+  "title_en": "Quartet",
+  "developer": "Something Classic Games",
+  "publisher": "Something Classic Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "クラシック・ターン制 JRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Shadows of Adam の開発元 Something Classic Games が手掛ける、16bit SNES JRPG ノスタルジア＋現代 QoL の正統派ターン制 RPG。4 つのストーリーを任意順でプレイし最終的に 8 キャラ合流という構成が話題化し、RPGamer・RPGFan 等で高評価。2025/8/26 PC リリース、2026/5 Switch、PS4/PS5 続く。",
+  "concept": "FF/SaGa の文法を 16bit ピクセルで愚直に再現したクラシック JRPG。4 主人公の独立した物語を任意順で進め、20-30 時間かけて 8 人パーティへ合流する独特の構成。戦闘は 4 名展開＋4 名リザーブの即時スワップ制。",
+  "target": "90 年代 SNES JRPG（FF V/VI、クロノ・トリガー、ロマサガ）に親しんだ 30-40 代コアファン、および Chained Echoes / Sea of Stars に続くレトロ JRPG 復興の流れを追うインディー RPG ファン層。",
+  "slug": "quartet",
+  "file": "data/games/915-quartet.json"
+}

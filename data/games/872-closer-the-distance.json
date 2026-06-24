@@ -1,0 +1,27 @@
+{
+  "id": 872,
+  "title_jp": "クローザー・ザ・ディスタンス",
+  "title_en": "Closer the Distance",
+  "developer": "Osmotic Studios",
+  "publisher": "Skybound Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Narrative Life Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Orwellの開発元Osmotic Studiosによる「死別と家族の再生」をテーマにした群像ライフシム。小さな村で姉を喪った遺族たちの感情と関係性を導く繊細な筆致が高く評価され、ナラティブゲーム愛好家から批評的成功を収めた。",
+  "concept": "事故で亡くなった姉の意思が残された家族・恋人・友人の心に寄り添い、感情と願いを誘導することで小さな村のコミュニティが喪失からどう立ち直るかを描く群像ライフシム。",
+  "target": "Spiritfarer や Disco Elysium のような感情駆動型ナラティブを好む大人のプレイヤー、グリーフや家族をテーマにした文芸的作品に関心のある層。",
+  "slug": "closer-the-distance",
+  "file": "data/games/872-closer-the-distance.json"
+}

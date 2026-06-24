@@ -1,0 +1,29 @@
+{
+  "id": 807,
+  "title_jp": "エンダーマグノリア: ブルームインザミスト",
+  "title_en": "Ender Magnolia: Bloom in the Mist",
+  "developer": "Adglobe / Live Wire",
+  "publisher": "Binary Haze Interactive",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "Metroidvania / 2D Action",
+  "sales_jp": "—",
+  "sales_world": "Steam owners 1M+ (estimated), 全機種累計100万本超を公式発表",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作 Ender Lilies の正統続編としてEAから世界的に高評価を維持し、2025年1月の正式リリース時点でSteam「圧倒的に好評」(95%超)、発売直後にSteam同時接続トップ20入り。Binding Force コラボ DLC や Nintendo Switch / Xbox 同時展開で国産ダーク幻想メトロイドヴァニアの代表格となった。",
+  "concept": "前作 Ender Lilies の世界観を継承するダーク幻想2Dメトロイドヴァニア。霧に覆われた人形たちの王国を旅し、敵を浄化して仲間にする「ホムンクルス」システムを軸に、繊細なピアノ／ストリングス楽曲と陰鬱な美術で描く後継作。",
+  "target": "Ender Lilies / Hollow Knight / Blasphemous など高難度ダーク系メトロイドヴァニア愛好家、繊細なピアノ楽曲と幻想美術を求める和ゲーインディーファン層。",
+  "slug": "ender-magnolia-bloom-in-the-mist",
+  "file": "data/games/807-ender-magnolia-bloom-in-the-mist.json"
+}

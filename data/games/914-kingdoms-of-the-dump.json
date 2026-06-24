@@ -1,0 +1,26 @@
+{
+  "id": 914,
+  "title_jp": "キングダムズ・オブ・ザ・ダンプ",
+  "title_en": "Kingdoms of the Dump",
+  "developer": "Roach Games / Dream Sloth Games",
+  "publisher": "Roach Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "SNES風グリッドターン制JRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2025年11月18日にKickstarter発の長期開発を経てリリースされた、清掃員2人が立ち上げたインディーJRPG。Steamユーザー評価93%好評（940件超）で、SNES期JRPGへのオマージュと「3x3グリッド戦闘＋タイムドヒット＋ランダムエンカウント無し」という現代的アレンジが評価された。",
+  "concept": "ゴミ王国を旅する『トラッシュ・カン・ナイト』ダスティン・ビンズリーが「5つ半の王国」を救うSNES風JRPG。マリオRPG風タイムドヒットと3x3グリッド戦術（罠・属性タイル・距離リスク報酬）を融合。",
+  "target": "Chrono Trigger / Super Mario RPG / Paper Mario世代の16bit JRPGノスタルジア層と、Chained Echoes以降の「現代QoL付きクラシックJRPG」インディーを追うコアRPGファン。",
+  "slug": "kingdoms-of-the-dump",
+  "file": "data/games/914-kingdoms-of-the-dump.json"
+}

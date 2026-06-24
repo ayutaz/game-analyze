@@ -1,0 +1,29 @@
+{
+  "id": 865,
+  "title_jp": "メディテラネア・インフェルノ",
+  "title_en": "Mediterranea Inferno",
+  "developer": "Eyeguys / Lorenzo Redaelli",
+  "publisher": "Santa Ragione",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "Visual Novel / Surreal Narrative Adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Milky Way Prince の Lorenzo Redaelli による2作目。post-COVID のイタリアで再会した3人のクィアな若者たちが「Mirages（蜃気楼）」を巡り堕ちていく超現実的ビジュアルノベルで、Dolce&Gabbana 風コラージュ美術と Dante 的構成が高く評価され、2023年屈指のインディーVNとして批評家に絶賛された。",
+  "concept": "パンデミック後のイタリア南部プーリアで再会した3人の若者が、超自然的な「Mirages」と契約しながら7日間の堕落と幻惑を経験する、ダンテ『神曲』地獄篇に着想を得たクィア・サーリアル・ビジュアルノベル。",
+  "target": "アートハウス系インディーVN愛好家、クィア・ナラティブ・LGBTQ+テーマに関心のある層、Milky Way Prince ファン、批評的・実験的な物語表現を求める成人プレイヤー。",
+  "slug": "mediterranea-inferno",
+  "file": "data/games/865-mediterranea-inferno.json"
+}

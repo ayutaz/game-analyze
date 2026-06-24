@@ -1,0 +1,25 @@
+{
+  "id": 805,
+  "title_jp": "和階堂真の事件簿 TRILOGY DELUXE",
+  "title_en": "Detective Wakaido's Case Files TRILOGY DELUXE",
+  "developer": "墓場文庫 (Hakaba Bunko)",
+  "publisher": "room6",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "短編推理アドベンチャー（ドット絵ミステリーADV）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "スマホで人気を博した「1時間で1話遊べる文庫本サイズの推理ADV」三部作に新エピソード「指切館の殺人」を追加した決定版として2023年10月19日にSwitch/Steamで配信。AUTOMATON・電撃・ファミ通・4Gamer等が一斉に紹介し、墓場文庫の名を国内インディー推理ADVシーンに広めた基盤作となった。",
+  "concept": "ドット絵×ハードボイルド音楽で描かれる、刑事・和階堂真が短い事件を解く「文庫本サイズ」の推理ADV三部作＋新作の決定版。1話約1時間で完結し、推理に失敗してもライフを失わない手軽さが特徴。",
+  "target": "本格〜新本格推理小説の雰囲気を短時間で味わいたいライトミステリーファン、ドット絵インディーADV愛好層、ノベルゲーム/逆裁系の推理パートが好きなプレイヤー。",
+  "slug": "detective-wakaido-trilogy-deluxe",
+  "file": "data/games/805-detective-wakaido-trilogy-deluxe.json"
+}

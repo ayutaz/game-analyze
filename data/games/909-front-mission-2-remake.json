@@ -1,0 +1,30 @@
+{
+  "id": 909,
+  "title_jp": "フロントミッション セカンド リメイク",
+  "title_en": "Front Mission 2: Remake",
+  "developer": "Forever Entertainment / Storm Trident",
+  "publisher": "Forever Entertainment",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "戦術ターン制メカSRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1期の隠れた名作SRPG『フロントミッション2』(1997)を、Wanzer改造のカスタマイズ性とリアルタイム要素を残しつつ、UI・カメラ視点を現代化してフルリメイク。前作『1st Remake』で賛否分かれた挙動を改善し、2024年のSNES/PS1リメイク潮流の中で硬派なSRPGファン層から評価された。",
+  "concept": "クーデターに巻き込まれた3つの部隊の視点で描かれる重厚な政治劇SRPG。Wanzer(人型機動兵器)のパーツ単位ダメージとカスタマイズを核に、行動ポイント制とリンクシステムによるリアルタイム介入が緊張感を生む。",
+  "target": "PS1期スクウェアSRPGに思い入れのある往年のファン、フロントミッション・シリーズ愛好家、メカ・カスタマイズ系SRPG(スパロボ・ダマスカスギア等)を好む層。",
+  "slug": "front-mission-2-remake",
+  "file": "data/games/909-front-mission-2-remake.json"
+}

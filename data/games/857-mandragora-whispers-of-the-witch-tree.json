@@ -1,0 +1,28 @@
+{
+  "id": 857,
+  "title_jp": "マンドラゴラ：ウィスパーズ・オブ・ザ・ウィッチツリー",
+  "title_en": "Mandragora: Whispers of the Witch Tree",
+  "developer": "Primal Game Studio",
+  "publisher": "Knights Peak",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S",
+    "Switch"
+  ],
+  "genre": "Metroidvania / Soulslike ARPG（2.5Dダークファンタジー）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2022年Kickstarterで成功した期待作が2025年4月にローンチ。Vampire: The Masquerade – Bloodlinesの脚本家Brian Mitsodaが物語監修を務め、メトロイドヴァニア探索＋Soulslike戦闘＋6クラスのビルド構築という三位一体設計で、Steamで79%の好評を獲得した。",
+  "concept": "2.5Dの絵画調ダークファンタジー世界で、メトロイドヴァニア型のシームレスな探索とSoulslike流の重い手応えの戦闘、そして6種のクラス／スキルツリーによるRPGビルドを融合させた約40時間級のアクションRPG。",
+  "target": "Hollow KnightやBlasphemousの2D探索体験と、Soulslike的な歯ごたえあるボス戦、さらにビルド構築の自由度を一本で味わいたいプレイヤー。Bloodlines系の暗く重い物語に惹かれる層にも響く。",
+  "slug": "mandragora-whispers-of-the-witch-tree",
+  "file": "data/games/857-mandragora-whispers-of-the-witch-tree.json"
+}

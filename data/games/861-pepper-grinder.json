@@ -1,0 +1,23 @@
+{
+  "id": 861,
+  "title_jp": "ペッパーグラインダー",
+  "title_en": "Pepper Grinder",
+  "developer": "Ahr Ech",
+  "publisher": "Devolver Digital",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "2D Action-Platformer",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "巨大ドリル\"ペッパー\"で地中を泳ぐように掘り進む独特のロコモーションが高評価。1人開発ながら2024年プラットフォーマーの隠れた名作として複数メディアの年間ベストにランクイン。",
+  "concept": "ドリルで地面に潜り、慣性を活かして地中を泳ぎ、勢いそのまま空中へ飛び出す——掘削＝移動という新感覚2Dアクション。",
+  "target": "短時間で濃密な手触りのインディーアクションを求める2D platformer愛好家、Devolver系小品ファン。",
+  "slug": "pepper-grinder",
+  "file": "data/games/861-pepper-grinder.json"
+}

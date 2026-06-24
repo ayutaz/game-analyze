@@ -51,11 +51,16 @@ FILENAME_RE = re.compile(r"^(?P<id>\d{3})-(?P<slug>[a-z0-9]+(?:-[a-z0-9]+)*)\.js
 # (ID 304..803) was added via a 22-angle ultracode + deep-research Workflow
 # (discover → local dedup → heuristic quality filter) covering Western CRPG,
 # Grand Strategy/4X, RTS, MMO, FPS, ARPG, sim, sandbox, VN/doujin, classic PC.
-# The ID range 1..803 is now contiguous.
-EXPECTED_TOTAL = 803
-EXPECTED_PRIMARY_COUNTS = {"EXP": 603, "NAR": 100, "REW": 100}
+# On 2026-06-24 a fourth wave of 114 recent indies (ID 804..917) was added via
+# a 12-angle ultracode discover + per-entry enrich Workflow covering
+# 2023–2026 indie releases (都市伝説解体センター, SANABI, Magical Girl Witch
+# Trials, Nine Sols, 8番のりば, ENDER MAGNOLIA, Manor Lords, Frostpunk 2,
+# Slay the Princess, In Stars and Time, Indika, 1000xRESIST, Lorelei and the
+# Laser Eyes, etc.). The ID range 1..917 is now contiguous.
+EXPECTED_TOTAL = 917
+EXPECTED_PRIMARY_COUNTS = {"EXP": 689, "NAR": 125, "REW": 103}
 EXPECTED_MISSING_IDS: set = set()
-EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..803 inclusive
+EXPECTED_ID_RANGE = set(range(1, EXPECTED_TOTAL + 1))  # 1..917 inclusive
 
 REQUIRED_KEYS = ("id", "title_jp", "primary", "slug", "file")
 
@@ -459,9 +464,9 @@ class MarkdownConsistencyTests(unittest.TestCase):
                          f"extra {sorted(distinct_ids - EXPECTED_ID_RANGE)}")
 
     def test_readme_count_consistent(self):
-        # Expect README §2 to mention the canonical 803-title figure.
-        self.assertRegex(self.readme_md, r"803\s*本",
-                         "README.md should reference '803本' somewhere (集計サマリ)")
+        # Expect README §2 to mention the canonical 917-title figure.
+        self.assertRegex(self.readme_md, r"917\s*本",
+                         "README.md should reference '917本' somewhere (集計サマリ)")
 
 
 if __name__ == "__main__":  # pragma: no cover - manual runner

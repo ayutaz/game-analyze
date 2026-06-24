@@ -1,0 +1,29 @@
+{
+  "id": 853,
+  "title_jp": "ザ・ラスト・フェイス",
+  "title_en": "The Last Faith",
+  "developer": "Kumi Souls Games",
+  "publisher": "Playstack",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "Metroidvania / Soulslike Action",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Bloodborne×Castlevaniaを掲げたゴシック2Dメトロイドヴァニアとして2023年11月にリリースされ、Steamレビュー4,000件超で「非常に好評」を維持。2023年下半期のスリーパーヒットとしてインディー層から熱狂的に支持された。",
+  "concept": "ゴシックホラー世界を舞台にした2Dメトロイドヴァニア×ソウルライク。ブラッドボーン直系のダークな雰囲気とカステルヴァニアの探索性を融合し、銃と剣を組み合わせた手応えのある戦闘を提供する。",
+  "target": "Bloodborne・Hollow Knight・Blasphemousを愛するゴシックホラー＆メトロイドヴァニア好き。歯ごたえのある2Dソウルライク探索を求めるコアプレイヤー層。",
+  "slug": "the-last-faith",
+  "file": "data/games/853-the-last-faith.json"
+}

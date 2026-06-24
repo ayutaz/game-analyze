@@ -1,0 +1,24 @@
+{
+  "id": 818,
+  "title_jp": "シェイプ オブ ドリームス",
+  "title_en": "Shape of Dreams",
+  "developer": "Lizard Smoothie",
+  "publisher": "NEOWIZ",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アクションローグライト × MOBA",
+  "sales_jp": "—",
+  "sales_world": "初週30万本、世界100万本級",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "韓国の現役大学生2人で創業した4人体制インディー Lizard Smoothie の初作品で、2025年9月のSteamリリース後24時間で10万本、初週30万本、最大同接約4.6万人を記録。MOBA的なヒーロー設計とローグライトのビルド構築・最大4人協力を融合した独自性が評価され、SANABIに続くNEOWIZパブリッシュ枠としてK-indie boomを象徴する一作となった。",
+  "concept": "夢の世界を舞台に、MOBA風8体のヒーローの「記憶」をローグライト的に編集してビルドを組み上げ、ソロまたは最大4人協力で弾幕アクションに挑むハイブリッド設計。",
+  "target": "Hadesなどローグライトを遊び尽くしたコアプレイヤー、MOBAのキャラ個性を協力PvEで味わいたい層、フレンドと短時間セッションで盛り上がりたいPCゲーマー。",
+  "slug": "shape-of-dreams",
+  "file": "data/games/818-shape-of-dreams.json"
+}

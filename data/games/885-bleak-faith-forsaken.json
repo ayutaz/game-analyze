@@ -1,0 +1,28 @@
+{
+  "id": 885,
+  "title_jp": "ブリーク・フェイス：フォーセイクン",
+  "title_en": "Bleak Faith: Forsaken",
+  "developer": "Archangel Studios",
+  "publisher": "Archangel Studios",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "Open-World Soulslike Action RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Kickstarter発、セルビアの超少人数チームが手掛けた野心的なオープンワールド・ソウルライク。荒削りな仕上がりながら、広大でシームレスなマップと終末的アンビエンスの圧倒的スケール感、そして「FromSoftware作品のAIモーションを使った」と話題になった件で2023年カルト的注目を集めた。",
+  "concept": "広漠とした崩壊世界をシームレスに探索する、インディー製オープンワールド・ソウルライク。少人数開発ゆえの粗を、息詰まる空気感と建築的スケールで覆い隠す異形作。",
+  "target": "ソウルライクの硬派戦闘とSF/ダークファンタジー融合の終末美術に惹かれるコアプレイヤー層。荒削りでも野心的なインディーを発掘したい層。",
+  "slug": "bleak-faith-forsaken",
+  "file": "data/games/885-bleak-faith-forsaken.json"
+}

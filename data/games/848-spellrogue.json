@@ -1,0 +1,24 @@
+{
+  "id": 848,
+  "title_jp": "SpellRogue",
+  "title_en": "SpellRogue",
+  "developer": "Guidelight Games",
+  "publisher": "Ghost Ship Publishing",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ダイス・カード組み合わせローグライク・デッキビルダー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Slay the Spire 系の戦略性に「ダイスを振って属性マナを生成し、カード（スペル）と組み合わせる」という独自レイヤーを足した意欲作。2024年に早期アクセス開始、2025年4月に 1.0 リリースしてレビュー評価も好調、Astrea: Six-Sided Oracles と並んで「ダイスデッキビルダー」サブジャンルを代表する一本として評価されている。",
+  "concept": "ダイスを振って元素マナを生成し、350種以上のスペルカードから毎ラン構築するターン制ローグライク・デッキビルダー。4人の魔法使いから選び70以上のエンカウントを攻略する。",
+  "target": "Slay the Spire / Astrea / Dicey Dungeons など、カードまたはダイスを使ったソロ用ローグライク・デッキビルダーを好む戦略・運要素両天秤型のプレイヤー。",
+  "slug": "spellrogue",
+  "file": "data/games/848-spellrogue.json"
+}

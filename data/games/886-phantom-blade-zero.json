@@ -1,0 +1,25 @@
+{
+  "id": 886,
+  "title_jp": "ファントム・ブレード・ゼロ",
+  "title_en": "Phantom Blade Zero",
+  "developer": "S-Game (S-GAME / Soulframe Studio)",
+  "publisher": "S-Game",
+  "year": 2026,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "Wuxia Action / Soulslike (Kungfupunk)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Black Myth: Wukongに続く中国製アクション第三波の最有力候補として、武侠・スチームパンク・サイバーパンクを融合した独自ジャンル「Kungfupunk」を提唱。Sekiro級のハイスピード剣戟と高品質グラフィックスがState of PlayやIGN等で繰り返し取り上げられ、Steamウィッシュリスト上位常連となっている。",
+  "concept": "武侠 × スチームパンク × サイバーパンク=「Kungfupunk」を掲げる、Sekiroライクなテンポを持つアクションRPG。1980年代香港カンフー映画と現代ソウルライクの動的剣戟を融合する。",
+  "target": "Sekiro/Wo Long/Black Myth: Wukongを愛するハードコアアクション勢、武侠世界観や香港映画文化への憧憬を持つ層、中華圏発AAAアクションの動向を追うコアゲーマー。",
+  "slug": "phantom-blade-zero",
+  "file": "data/games/886-phantom-blade-zero.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 890,
+  "title_jp": "ダーク・アワーズ",
+  "title_en": "Dark Hours",
+  "developer": "Piece of Cake studios",
+  "publisher": "Piece of Cake studios",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "Co-op heist horror",
+  "sales_jp": "—",
+  "sales_world": "500,000+本（2026年）",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "パリ拠点のPiece of Cake studiosが2024年10月にSteam早期アクセス投入、2025年10月正式版、2026年4月にPS5/Xbox Series版を展開。Phasmophobia×Payday系の1-4人co-op heist horrorとして、2024年Halloween前後のco-op horror熱の中で配信者経由で伸び、累計50万本超を記録。",
+  "concept": "強盗中に超常現象が発動し、敵対するエンティティから脱出しながらheistを完遂する1-4人co-op horror。5つのマップ、8体のモンスター、50種以上のガジェットで毎回展開が変わる設計。",
+  "target": "Phasmophobia / Lethal Company / Payday 3 を遊んだco-op horror愛好層、配信向けにワイワイ騒げるパーティ系horrorを求めるプレイヤー。",
+  "slug": "dark-hours",
+  "file": "data/games/890-dark-hours.json"
+}

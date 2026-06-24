@@ -1,0 +1,27 @@
+{
+  "id": 855,
+  "title_jp": "テイルズ オブ ケンゼラ：ザウ",
+  "title_en": "Tales of Kenzera: Zau",
+  "developer": "Surgent Studios",
+  "publisher": "Electronic Arts (EA Originals)",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S",
+    "Switch"
+  ],
+  "genre": "2.5D Metroidvania / アクションプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "俳優Abubakar Salim（『Raised by Wolves』『Assassin's Creed Origins』のバエク役）が亡き父への追悼として企画し主演・脚本も務めた個人的作品で、EA Originals経由でAAAパブが小規模ナラティブ作品に投資した珍しい事例として注目された。バントゥー神話を正面から扱う稀有なメトロイドヴァニアとして文化的にも評価が高い。",
+  "concept": "バントゥー神話を題材にした2.5Dメトロイドヴァニア。シャーマンの少年ザウが亡き父の魂を取り戻すため、月と太陽の仮面を使い分けて旅をする物語アクション。",
+  "target": "悲嘆・喪失をテーマにしたパーソナルな物語を求めるプレイヤー、Hollow Knight/Ori系のメトロイドヴァニア愛好家、アフリカ文化・神話に関心のある層。",
+  "slug": "tales-of-kenzera-zau",
+  "file": "data/games/855-tales-of-kenzera-zau.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 828,
+  "title_jp": "スリッターヘッド",
+  "title_en": "Slitterhead",
+  "developer": "Bokeh Game Studio",
+  "publisher": "Bokeh Game Studio",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S"
+  ],
+  "genre": "Action Body Horror",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "サイレントヒル／サイレンの父・外山圭一郎が率いる新スタジオ Bokeh Game Studio の初作で、90年代香港九龍城をモチーフにした他者憑依型アクションホラーとして発表時から国内外で大きな注目を集めた。賛否両論の評価ながら、インディーAAスケールで「外山らしい湿度の高い東アジア的ホラー」を成立させた2024年の重要作として批評・同人で議論を呼んだ。",
+  "concept": "霊的存在「憑鬼（ヒョウキ）」となって人間に憑依しながら、人間に擬態する怪物スリッターヘッドを血の刃で討つ、九龍を舞台にしたボディホラー・アクション。",
+  "target": "サイレン／サイレントヒルなど外山圭一郎作品のファン、東アジア的湿度のあるホラー世界観を求めるプレイヤー、インディーAAスケールの作家性の強いアクションを好む層。",
+  "slug": "slitterhead",
+  "file": "data/games/828-slitterhead.json"
+}

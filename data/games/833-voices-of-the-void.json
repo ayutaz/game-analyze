@@ -1,0 +1,24 @@
+{
+  "id": 833,
+  "title_jp": "ヴォイセス・オブ・ザ・ボイド",
+  "title_en": "Voices of the Void",
+  "developer": "mrdrnose (EternityDev)",
+  "publisher": "mrdrnose (self-published, itch.io)",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "SCP-like / Slow-burn Cosmic Horror / Job Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "独りで信号を受信・解析する「業務」のループの裏で、SCP 的異変が静かに進行する独特の遅効性ホラーが配信文化と相性が良く、Twitch / YouTube の長尺実況で日本にも浸透したカルト人気作。itch.io 無料配布ながら累計 DL は数百万規模に達したと報じられる。",
+  "concept": "スイスの山中にある電波天文台で、独り SETI 信号を受信・解読しながら宇宙の異変と向き合う「仕事シム × コズミックホラー」。SCP 参照と Half-Life 時代のレトロ表現で、画面の外側で起こる「生きた異変」を待つ恐怖を体現。",
+  "target": "SCP Foundation・Half-Life・Stalker 等のレトロ PC ホラー文脈を共有するプレイヤー、長時間プレイで微細な異変を探すスローバーン・ホラー愛好者、配信視聴者層。",
+  "slug": "voices-of-the-void",
+  "file": "data/games/833-voices-of-the-void.json"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 824,
+  "title_jp": "ワールド・オブ・ホラー",
+  "title_en": "World of Horror",
+  "developer": "Panstasz (Paweł Koźmiński)",
+  "publisher": "Ysbryd Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "1-bit Roguelite Cosmic Horror RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "伊藤潤二とH.P.ラブクラフトを掛け合わせた、初代Macintoshを思わせる1-bitドット絵のターン制ローグライト。歯科医を辞めたポーランドの個人開発者Paweł Koźmińskiが約10年かけて完成させ、SIGGRAPH等でも言及されるアート系ホラーの代表作として高評価を獲得した。",
+  "concept": "1980年代の日本の海辺の町を舞台に、迫りくる旧支配者の覚醒までに5つの謎を解く、1-bitアートのターン制クトゥルフ系ローグライト。",
+  "target": "伊藤潤二・ラブクラフトのコズミックホラー愛好者、レトロPC美学好き、毎回異なる怪異と遭遇するローグライト的反復を楽しめるソロプレイヤー。",
+  "slug": "world-of-horror",
+  "file": "data/games/824-world-of-horror.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 843,
+  "title_jp": "LONESTAR",
+  "title_en": "LONESTAR",
+  "developer": "Math Tide",
+  "publisher": "Thermite Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "SFローグライク・デッキビルダー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "FTLの宇宙船運用感とSlay the Spireのデッキ構築を融合させた戦術ローグライト。Early Access期から「Very Positive」評価を維持し、2025年4月の1.0アップデートで Cobalt Core と並ぶ2025年SFデッキビルダーの注目作となった。",
+  "concept": "宇宙船クルーをカードで指揮し、銀河の犯罪者を追う賞金稼ぎとなる戦術ローグライト・デッキビルダー。船・ユニット・トレジャーの組合せで毎回異なるシナジーを構築する。",
+  "target": "FTLやSlay the Spire愛好者、SF世界観での戦術的デッキ構築と手強いボス戦を求めるソロ志向のローグライトファン。",
+  "slug": "lonestar",
+  "file": "data/games/843-lonestar.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 814,
+  "title_jp": "祈風 Inorikaze",
+  "title_en": "Inorikaze",
+  "developer": "Twilight -日月之境- / Astrolabe Draft (觀象草圖)",
+  "publisher": "Astrolabe Draft (觀象草圖)",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Touhou doujin visual novel / adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Steamで「圧倒的に好評」（406件中99%が高評価）を獲得した東方Project公認二次創作の同人ビジュアルノベル。繁体字中国語のみという狭い言語サポートにも関わらず、東方同人シーン発のSteamヒット作として国際的に名が知られる。",
+  "concept": "東方Project二次創作の同人ノベルゲーム。守矢一家が諏訪を離れ幻想郷へ移り住み、天狗との戦いを経て「信仰と絆」を取り戻していく物語を、20人超の東方キャラと7ルートのマルチエンディングで描く。",
+  "target": "東方Projectファン、特に守矢神社（諏訪子・神奈子・早苗）周辺のキャラクターと、信仰・家族・絆をテーマにした重めの群像劇ノベルを9〜12時間じっくり読みたい中華圏／日本の同人愛好層。",
+  "slug": "inorikaze",
+  "file": "data/games/814-inorikaze.json"
+}

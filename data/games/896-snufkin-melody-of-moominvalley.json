@@ -1,0 +1,31 @@
+{
+  "id": 896,
+  "title_jp": "スナフキン：ムーミン谷のメロディ",
+  "title_en": "Snufkin: Melody of Moominvalley",
+  "developer": "Hyper Games",
+  "publisher": "Raw Fury",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Cozy Musical Adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Sigur Rós書き下ろし楽曲と原作トーベ・ヤンソンの世界観を融合した北欧IP発のコージーゲーム。Steamで「圧倒的に好評」評価を獲得し、Netflix版／Apple Arcade版も配信される多プラットフォーム展開で2024年のコージーゲームの代表作の一つとされている。",
+  "concept": "Sigur Rósの音楽とともにムーミン谷を旅し、自然の調和を取り戻すコージーな音楽アドベンチャー。スナフキンが主人公となり、フィールドの音色と対話で「公園化」を企む新興企業に静かに抵抗していく。",
+  "target": "ムーミンIPファン、Sigur Rós／北欧音楽好き、A Short Hike や Cozy Grove のようなゆるやかな探索ゲームを好む層。短時間でリラックスしたい大人向けインディー。",
+  "slug": "snufkin-melody-of-moominvalley",
+  "file": "data/games/896-snufkin-melody-of-moominvalley.json"
+}

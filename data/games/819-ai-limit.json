@@ -1,0 +1,25 @@
+{
+  "id": 819,
+  "title_jp": "AI LIMIT 無限機兵",
+  "title_en": "AI LIMIT",
+  "developer": "Sense Games",
+  "publisher": "CE-Asia",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "アニメ調Soulslikeアクション RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PlayStation China Hero Project 出身の中国系インディー Soulslike として 2025年3月27日に PC/PS5 で同時発売。Steam で「非常に好評」を獲得し、レビュー総数 3.5万件超（簡体字中国語が約 1.5万、日本語も上位）と中華圏・日本で大きな存在感を示した。",
+  "concept": "終末世界「天井」で機兵少女アリサが死と再構築を繰り返しながら文明崩壊の真相を探る、アニメ調ビジュアルと SF 終末観を融合した Soulslike アクション RPG。",
+  "target": "Wukong 後の中国系 Soulslike ブームを追いつつ、AAA ではなく中規模インディー価格帯（$34.99）でアニメ調 ARPG を求めるソウルライク愛好者層。",
+  "slug": "ai-limit",
+  "file": "data/games/819-ai-limit.json"
+}

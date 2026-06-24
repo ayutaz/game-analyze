@@ -1,0 +1,25 @@
+{
+  "id": 815,
+  "title_jp": "SANABI (サナビ)",
+  "title_en": "SANABI",
+  "developer": "Wonder Potion",
+  "publisher": "NEOWIZ",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "2Dサイバーパンク・グラップリングアクション",
+  "sales_jp": "—",
+  "sales_world": "約82万本 (Steam推定)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "韓国の大学生5人チーム制作のK-indie代表作。義手のチェーンを使った高速グラップリングアクションと、父娘の絆を描く情緒的なシナリオが評価され、Steamで「圧倒的に好評」（4万超レビュー）。Famitsu/4Gamerでも特集され、日本のレビュアーからもGOTY級評価を得た。",
+  "concept": "サイバーパンクの廃墟都市を義手のチェーンで縦横無尽に駆け抜ける、爽快感と情緒の両立を狙った2Dグラップリング・プラットフォーマー。",
+  "target": "スタイリッシュな2Dアクションを求めるコアゲーマー、そして「父と娘」「贖罪」をテーマにした骨太な物語を味わいたいインディー好き層。",
+  "slug": "sanabi",
+  "file": "data/games/815-sanabi.json"
+}

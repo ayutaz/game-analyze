@@ -1,0 +1,29 @@
+{
+  "id": 823,
+  "title_jp": "ザ・コーマ2B：カタコンベ",
+  "title_en": "The Coma 2B: Catacomb",
+  "developer": "Devespresso Games (Dvora Studio)",
+  "publisher": "Headup Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "2D survival horror adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "韓国学園ホラー『The Coma』シリーズの最新作（『Vicious Sisters』の前日譚）として2024年10月25日にPC・Switch・PS5/PS4・Xbox Series/Oneでマルチプラットフォーム同日発売。韓国インディーの代表格Devespresso（現Dvora Studio）がHeadup配給で世界市場に継続展開し、韓国産2Dホラーの持続成功例として注目された。",
+  "concept": "Sehwa高校から地下のDokaebi Marketへ続く異界「The Coma」を舞台に、追いかけ回しと隠匿を軸にした韓国産2Dサバイバルホラーアドベンチャー。シリーズの物語をつなぐ橋渡し作。",
+  "target": "韓国産ホラー漫画調のビジュアルとシリーズ世界観に親しんだ2Dインディーホラー／逃走サバイバル系のファン層。",
+  "slug": "the-coma-2b-catacomb",
+  "file": "data/games/823-the-coma-2b-catacomb.json"
+}

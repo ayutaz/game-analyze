@@ -1,0 +1,27 @@
+{
+  "id": 834,
+  "title_jp": "バックパックヒーロー",
+  "title_en": "Backpack Hero",
+  "developer": "Jaspel",
+  "publisher": "Different Tales",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Inventory-management Roguelite Deckbuilder",
+  "sales_jp": "—",
+  "sales_world": "Steam owners 500K-1M (estimated)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Kickstarterで35万ドル超を集めた話題作。リュックの中にアイテムを配置するパズル要素とローグライトデッキビルドを融合した独創性で、2023年11月の1.0リリース後「整理整頓ロード」として高評価を獲得した。",
+  "concept": "リュックサックのマス目にアイテムを配置する整理整頓パズルと、ローグライトデッキビルドを融合した革新的な戦略ゲーム。",
+  "target": "Slay the Spire系のローグライトデッキビルドファンと、インベントリ管理やパズル要素を好むプレイヤー層。",
+  "slug": "backpack-hero",
+  "file": "data/games/834-backpack-hero.json"
+}

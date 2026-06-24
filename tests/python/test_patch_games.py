@@ -123,12 +123,13 @@ class PatchesAgainstRealTreeTests(unittest.TestCase):
     def test_data_ids_have_patches_or_documented_missing(self) -> None:
         # Allowlist of ids that are intentionally NOT in PATCHES.
         # The 2026-06 expansion (#56 + #101..#200) added 101 games, the
-        # subsequent 2020+ indie expansion (#201..#303) added 103 games, and
-        # the third PC-games expansion (#304..#803) added 500 PC titles. None
-        # of these waves use the legacy PATCHES dict (which was tailored to
-        # the original 99 games) — they write concept/target/etc. directly
+        # subsequent 2020+ indie expansion (#201..#303) added 103 games, the
+        # third PC-games expansion (#304..#803) added 500 PC titles, and the
+        # fourth wave (#804..#917) added 114 recent indies. None of these
+        # waves use the legacy PATCHES dict (which was tailored to the
+        # original 99 games) — they write concept/target/etc. directly
         # into their JSON.
-        allowlist: set[int] = {56} | set(range(101, 804))
+        allowlist: set[int] = {56} | set(range(101, 918))
         for rid in self.real_ids:
             if rid in allowlist:
                 continue
@@ -208,7 +209,7 @@ class PatchMainBehaviorTests(unittest.TestCase):
                 )
 
     def test_main_runs_on_full_real_tree_copy(self) -> None:
-        # As of 2026-06 the data tree no longer has any gaps in 1..803, so
+        # As of 2026-06 the data tree no longer has any gaps in 1..917, so
         # main() should run cleanly over a copy with no "missing" warnings
         # for in-range PATCHES ids.
         with tempfile.TemporaryDirectory() as td:

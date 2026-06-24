@@ -1,0 +1,28 @@
+{
+  "id": 898,
+  "title_jp": "ボタニー・マナー",
+  "title_en": "Botany Manor",
+  "developer": "Balloon Studios",
+  "publisher": "Whitethorn Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X|S",
+    "iOS"
+  ],
+  "genre": "Cozy first-person puzzle / Botanical exploration",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1890年の英国植物学者アラベラ・グリーンを演じ、忘れられた植物を蘇らせる一人称コージーパズル。Day-1 Xbox Game Pass + Netflix版（モバイル）+ Epic無料配布で大規模配信され、ガーデニング系コージーゲームの代表格として評価された。",
+  "concept": "手紙・絵画・標本ノートから手掛かりを集め、屋敷の各部屋で枯れかけた植物を発芽させる、暴力なしの植物学ミステリーパズル。",
+  "target": "Unpacking や A Short Hike のような穏やかな短編体験を好む層、ガーデニング・自然観察・絵本的アートに惹かれるプレイヤー。",
+  "slug": "botany-manor",
+  "file": "data/games/898-botany-manor.json"
+}

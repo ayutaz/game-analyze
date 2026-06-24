@@ -1,0 +1,24 @@
+{
+  "id": 846,
+  "title_jp": "Nordhold",
+  "title_en": "Nordhold",
+  "developer": "Stunforger Studio",
+  "publisher": "Stunforger Studio",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Roguelite Tower Defense Deckbuilder",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2025年Steam早期アクセスでリリースされ、ターンベース建築×TD×ローグライトの組み合わせと高いリプレイ性で「非常に好評」評価を獲得。北欧神話モチーフとデッキビルド要素の融合がインディーTDファンの注目を集めた。",
+  "concept": "北欧神話世界を舞台にした、ターンベース建築×タワーディフェンス×デッキビルド型ローグライト。マップ上に拠点を築きながら敵の波を撃退する戦略パズル。",
+  "target": "タワーディフェンスとデッキ構築型ローグライトの両方を好むPCゲーマー。Slay the Spire や Vampire Survivors 系のリプレイ志向プレイヤー、北欧神話世界観のファン。",
+  "slug": "nordhold",
+  "file": "data/games/846-nordhold.json"
+}

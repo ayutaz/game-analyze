@@ -1,0 +1,24 @@
+{
+  "id": 821,
+  "title_jp": "ロストキャッスル2",
+  "title_en": "Lost Castle 2",
+  "developer": "Hunter Studio",
+  "publisher": "Hunter Studio",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "2Dベルトスクロール・ローグライトアクション（協力プレイ対応 beat'em up roguelite）",
+  "sales_jp": "—",
+  "sales_world": "700,000本以上（Steam EA期間中、2024-07〜2026-06）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "2024年7月Steam Early Access開始後、Triple-i Initiative経由で英語圏・日本双方に紹介され「Very Positive」を獲得。最大4人協力プレイ可能なダーク2Dベルスク×ローグライトとして中国インディーの存在感を示し、1.0ローンチ時には同接21,326人のピークを記録した。",
+  "concept": "前作Lost Castleで築いた手描きダーク2Dアクションの基盤を拡張し、ビルド多様性とアイテム合成、最大4人協力でのリプレイ性を強化した中国産ベルスクローグライトの代表作。",
+  "target": "Dead Cells / Hadesでローグライトに親しみ、さらに友人と気軽に協力プレイできるダーク寄りのベルスクを求めるアジア圏・英語圏のインディーアクション愛好者層。",
+  "slug": "lost-castle-2",
+  "file": "data/games/821-lost-castle-2.json"
+}

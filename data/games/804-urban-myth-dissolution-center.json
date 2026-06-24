@@ -1,0 +1,25 @@
+{
+  "id": 804,
+  "title_jp": "都市伝説解体センター",
+  "title_en": "Urban Myth Dissolution Center",
+  "developer": "Hakaba Bunko (墓場文庫)",
+  "publisher": "Shueisha Games (集英社ゲームズ)",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Mystery Adventure / Pixel ADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "集英社ゲームクリエイターズCAMP発の墓場文庫が放った2025年最大級の国産インディーヒット。Steam/Switch同時配信で発売直後から国内インディーチャート上位を独占し、グッズ・小説・コミカライズへの多メディア展開に発展した。",
+  "concept": "墓場文庫が手がける連続ドラマ形式の都市伝説調査ピクセルADV。SNS情報やネット掲示板を駆使し、依頼人の抱える怪異現象を「解体」していく一話完結の物語が連なる、令和の都市伝説エンターテインメント。",
+  "target": "『街』『428』系のオムニバス群像劇ADVや、SIREN・流行り神のような現代日本ホラーを愛好する層。ピクセルアートのインディーADVに馴染みのある20-30代と、都市伝説・ネットロアを題材にしたドラマを好む読者層。",
+  "slug": "urban-myth-dissolution-center",
+  "file": "data/games/804-urban-myth-dissolution-center.json"
+}

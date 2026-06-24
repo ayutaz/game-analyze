@@ -1,0 +1,24 @@
+{
+  "id": 809,
+  "title_jp": "東京Necro 死街譚",
+  "title_en": "Tokyo Necro",
+  "developer": "Nitroplus",
+  "publisher": "JAST USA",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サイバーパンク・サイエンスフィクション ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "2016年に日本でリリースされたニトロプラスのSFビジュアルノベルが、7年越しにJAST USAから2023年3月13日にSteam/GOG/JAST Storeで英語版を配信開始。深見真原案・下村悠脚本の重厚な世界観と『沙耶の唄』『鬼哭街』の系譜を受け継ぐ陰惨なサイバーパンク描写が海外VNコミュニティで話題となった。",
+  "concept": "死者が「リビングデッド」として街を徘徊する近未来の東京を舞台に、武術で死人を狩る民間組織「烏住リビングデッドストーカー事務所」を巡る重厚なSF活劇ノベル。",
+  "target": "ニトロプラス系の硬派なSF/サイバーパンクVN（鬼哭街・沙耶の唄）を好む海外含むVNファン層、特に長文重量級ノベルを読み込む層。",
+  "slug": "tokyo-necro",
+  "file": "data/games/809-tokyo-necro.json"
+}

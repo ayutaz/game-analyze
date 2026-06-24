@@ -1,0 +1,24 @@
+{
+  "id": 888,
+  "title_jp": "メイジ・アリーナ",
+  "title_en": "Mage Arena",
+  "developer": "jrsjams",
+  "publisher": "jrsjams",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Voice-controlled PvP magic combat / Multiplayer action",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2025年7月24日にSteam Early Accessで$3という超低価格で登場し、マイクに向かって呪文を唱えて打ち合うSorcerer vs Warlockの3vs3 PvPがTikTok/Twitchで爆発的にバズった。voice-as-input + 配信映え + 友人とのワイワイ感が噛み合い、2025年後半の voice-control 系インディーの代表例として配信ランキングを席巻した。",
+  "concept": "マイクに呪文を叫ぶ「声入力」の魔法戦闘を$3で実装した、配信映え特化のオンラインPvPパーティーゲーム。",
+  "target": "友人ボイチャでバカ騒ぎしたいSteamプレイヤーと、リアクション動画を求めるTwitch/TikTok視聴者層。",
+  "slug": "mage-arena",
+  "file": "data/games/888-mage-arena.json"
+}

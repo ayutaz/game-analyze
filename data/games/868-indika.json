@@ -1,0 +1,26 @@
+{
+  "id": 868,
+  "title_jp": "インディカ",
+  "title_en": "Indika",
+  "developer": "Odd Meter",
+  "publisher": "11 bit studios",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Narrative Adventure / Surreal Third-Person",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "19世紀末ロシアを舞台に、若い修道女が悪魔と旅をするシュールな物語アドベンチャー。This War of Mine / Frostpunk の 11 bit studios がパブリッシュする 2024 年の批評家好評作で、「陰鬱なリアリズムと不条理なおとぎ話」が融合した独特な物語表現が高く評価された。",
+  "concept": "信仰・罪・疎外をテーマに、悪魔を道連れにする若き修道女インディカの内省的な旅を、章ごとに異なる視覚スタイルとレトロ風ミニゲームで描くシュール・ナラティブ。",
+  "target": "物語重視のアートゲーム好き、Pathologic / Mundaun / Disco Elysium 系の重い文学的ゲームを好む層。",
+  "slug": "indika",
+  "file": "data/games/868-indika.json"
+}

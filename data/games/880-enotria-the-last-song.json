@@ -1,0 +1,26 @@
+{
+  "id": 880,
+  "title_jp": "エノトリア：ザ・ラスト・ソング",
+  "title_en": "Enotria: The Last Song",
+  "developer": "Jyamma Games",
+  "publisher": "Jyamma Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "Soulslike Action RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "イタリア・ルネサンスとコメディア・デッラルテを下敷きにした独自世界観と、戦闘中にマスク（ビルド）を切り替えるアクションで差別化したソウルライク。発売直後はパフォーマンス・バグ問題で評価が割れたが、太陽の眩しい地中海風アートと独自舞台設定で2024年のインディー注目作の一つに数えられた。",
+  "concept": "イタリア発、コメディア・デッラルテのマスク文化を戦闘システムに組み込んだ「明るい色彩のソウルライク」。",
+  "target": "SEKIRO/Lies of P/Lords of the Fallen 等のソウルライクを愛好し、新興スタジオの野心作や非北欧的なアートディレクションを求めるアクションRPGファン。",
+  "slug": "enotria-the-last-song",
+  "file": "data/games/880-enotria-the-last-song.json"
+}

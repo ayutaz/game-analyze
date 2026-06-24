@@ -1,0 +1,25 @@
+{
+  "id": 829,
+  "title_jp": "ディカーネーション",
+  "title_en": "Decarnation",
+  "developer": "Atelier QDB",
+  "publisher": "Shiro Unlimited",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Pixel Psychological Horror Adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "David Lynch / 今敏ライクな夢のロジックと手描きピクセル×身体崩壊表現で、2023年のインディー芸術系ホラーの代表格として国内外メディアに取り上げられた。Shiro Unlimited配給、IGFやIndie Megaboothで注目され、Switch版同時リリースで日本のホラーアドベンチャー層にも届いた一本。",
+  "concept": "1990年パリを舞台に、キャバレー歌手Gloriaの内面崩壊を手描きピクセルで描くシュルレアル心理ホラー・アドベンチャー。David Lynchや今敏作品の影響を公言した「身体・記憶・他者性」の解体劇。",
+  "target": "David Lynch / 今敏 / Silent Hill的なシュルレアル心理ホラーを愛好する層、Faith・Lorelei and the Laser Eyes・The Cat Lady系のアートゲームを掘るプレイヤー。",
+  "slug": "decarnation",
+  "file": "data/games/829-decarnation.json"
+}

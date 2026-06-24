@@ -1,0 +1,25 @@
+{
+  "id": 916,
+  "title_jp": "スレッズ・オブ・タイム",
+  "title_en": "Threads of Time",
+  "developer": "Riyo Games",
+  "publisher": "Humble Games",
+  "year": 2026,
+  "platform": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "genre": "時間旅行テーマ ピクセルアート 2.5D ターン制 JRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "「Square Enix が作らない Chrono Trigger 後継」と SNS／メディアで称される 2026 年最注目のインディー JRPG。Unreal Engine 5 製の 2.5D ピクセルアートと、タイムラインを操作するターン制コンボシステムが Day of the Devs / Humble Games Showcase で繰り返し話題化。",
+  "concept": "原始時代から遠未来まで時を渡るパーティが、Chrono Trigger 直系のチェーンコンボとタイムラインギミックを駆使して戦う、Unreal Engine 5 製の 2.5D ピクセルアート ターン制 JRPG。",
+  "target": "Chrono Trigger / FF6 / Octopath Traveler を原体験に持ち、Chained Echoes・Sea of Stars 系の「16/32bit JRPG ノスタルジア＋現代 QoL」インディーを追う 30-40 代 JRPG ファン。",
+  "slug": "threads-of-time",
+  "file": "data/games/916-threads-of-time.json"
+}

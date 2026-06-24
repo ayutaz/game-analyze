@@ -1,0 +1,27 @@
+{
+  "id": 871,
+  "title_jp": "超探偵事件簿 レインコード",
+  "title_en": "Master Detective Archives: Rain Code",
+  "developer": "Too Kyo Games / Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2023,
+  "platform": [
+    "Switch",
+    "PS5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "genre": "Mystery Adventure / Visual Novel",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "ダンガンロンパシリーズの中核スタッフ（小高和剛・小松崎類・高田雅史）が再集結したTooKyo Games原作のミステリーADVとして2023年Switch独占で大きな注目を集め、2024年のPlus版でPS5/PC/Xboxへ展開し国際的にも話題化した。",
+  "concept": "雨が降り止まぬ「カナイ区」を舞台に、死神少女シーリと契約した記憶喪失の探偵見習い・ユーマが、超能力を持つ「超探偵」たちと共に「謎迷宮」という異界化された事件現場で真相を暴く、ダークファンタジー・ミステリーADV。",
+  "target": "ダンガンロンパや逆転裁判系のミステリーADVファン、ビジュアルノベル愛好家、ダークな世界観と推理アクションを好む20-30代プレイヤー層。",
+  "slug": "master-detective-archives-rain-code",
+  "file": "data/games/871-master-detective-archives-rain-code.json"
+}

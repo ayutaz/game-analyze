@@ -1,0 +1,24 @@
+{
+  "id": 902,
+  "title_jp": "シナバニー",
+  "title_en": "Cinnabunny",
+  "developer": "Reky Studios",
+  "publisher": "Reky Studios",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Cozy bakery life sim (co-op)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Steam で 96% 好評（398 件以上）の評価を獲得した、うさぎがパン屋を営むスプリットスクリーン・ローカル協力対応のコージーライフシム。鳥観察（30種＋実音）・キノコ採集（40種）・住人交流など多彩なアクティビティと、パートナーと並んで遊べる癒し系設計が SNS のコージーゲーマー層で話題に。",
+  "concept": "うさぎ達の村でベーカリーを営みつつ、鳥観察・キノコ採集・住人との関係構築を楽しむ、スプリットスクリーン対応のコージーライフシム。Animal Crossing と Stardew Valley に着想を得た優しい世界観。",
+  "target": "カップル／家族／友人とソファで並んで遊びたいコージーゲーマー。激しい競争のない、ゆるやかな進行と装飾・収集を好む層。",
+  "slug": "cinnabunny",
+  "file": "data/games/902-cinnabunny.json"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 899,
+  "title_jp": "タバーン・トーク",
+  "title_en": "Tavern Talk",
+  "developer": "Gentle Troll Entertainment",
+  "publisher": "Gentle Troll Entertainment",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Cozy Fantasy Visual Novel / Tavern Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "D&D風ファンタジー世界の酒場店主としてドリンクを調合し、冒険者たちの噂話や運命を聞き出すコージーVN。TRPG文化圏とコージーゲーマーが交差するニッチで欧米メディア・配信者から高い評価を獲得した。",
+  "concept": "魔法の酒場「Wood & Web」の店主となり、ドリンクを調合し冒険者たちの相談に乗ることで彼らのクエストの結末を左右する、選択肢主導のコージーファンタジーVN。",
+  "target": "D&D・クリティカルロール等のTRPG文化に親しむ20-30代と、Coffee Talk系のコージー会話シムを愛好する欧米プレイヤー層。",
+  "slug": "tavern-talk",
+  "file": "data/games/899-tavern-talk.json"
+}

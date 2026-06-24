@@ -1,0 +1,29 @@
+{
+  "id": 830,
+  "title_jp": "マイ・フレンドリー・ネイバーフッド",
+  "title_en": "My Friendly Neighborhood",
+  "developer": "John & Evan Szymanski (DreadXP)",
+  "publisher": "DreadXP",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "Survival Horror (PS1-style / Puppet Horror)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Iron Lung の David Szymanski の兄弟（John & Evan）が制作した RE-like サバイバルホラーで、「狂ったセサミストリート」のTVスタジオでマペットの口を縫って無力化する独自メカニクスが話題に。グロを抑えつつ本格的なリソース管理と探索を備え、「マペット×バイオハザード」という新境地を開拓した。",
+  "concept": "人気子供番組のセサミストリート風スタジオを舞台にした、レトロPSスタイルのサバイバルホラー。敵対するマペットを倒すのではなく、口を縫って無力化するという独自のメカニクスを持つ。",
+  "target": "バイオハザード等の古典サバイバルホラー愛好家、PS1風レトロホラー好き、Iron Lung などインディーホラーをフォローする層、ユニークなコンセプトのホラーを求めるストリーマー視聴者層。",
+  "slug": "my-friendly-neighborhood",
+  "file": "data/games/830-my-friendly-neighborhood.json"
+}

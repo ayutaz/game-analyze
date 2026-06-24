@@ -1,0 +1,26 @@
+{
+  "id": 891,
+  "title_jp": "パーティーアニマルズ",
+  "title_en": "Party Animals",
+  "developer": "Recreate Games",
+  "publisher": "Source Technology",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "Physics-based Party Brawler",
+  "sales_jp": "—",
+  "sales_world": "Steam同接13万人超（2023年9月）、Game Pass経由含めローンチ週で数百万プレイヤー規模",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2023年9月20日の正式リリース直後にSteam同時接続数13万人超を記録し、2023年最大級のパーティーゲームローンチの一つに。Xbox同日対応とGame Pass初日投入で爆発的に普及、Gang Beastsの後継として配信・パーティ需要を取り込んだ。",
+  "concept": "Gang Beats系の物理エンジン駆使したコミカル格闘パーティゲーム。ふわふわの動物キャラがリングや障害物だらけのステージで殴り合い・投げ合いを繰り広げる。",
+  "target": "友人やオンラインで気軽にワイワイ笑いながら遊びたいライト層、配信・実況映えを求めるストリーマー、Fall Guys / Gang Beats系のパーティゲームファン。",
+  "slug": "party-animals",
+  "file": "data/games/891-party-animals.json"
+}

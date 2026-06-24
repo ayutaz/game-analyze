@@ -1,0 +1,29 @@
+{
+  "id": 850,
+  "title_jp": "Bo: パス・オブ・ザ・ティールロータス",
+  "title_en": "Bo: Path of the Teal Lotus",
+  "developer": "Squid Shock Studios",
+  "publisher": "Humble Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "Metroidvania / 2.5D Action-Platformer",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "日本の妖怪・民話をモチーフにした手描き2.5Dアートが「2024年屈指のビジュアル」と評され、Hollow Knight直系の流麗なロコモーションと空中コンボで Metroidvania ファンから高い評価を獲得。Humble Games配給で各種GOTYビジュアル賞のノミネートを受けた。",
+  "concept": "天から落ちた「天上の子（ソーリアン）」が、日本の妖怪伝承の世界を旅する手描き2.5Dメトロイドヴァニア。傘や扇を使った空中ダッシュ／壁反射などのロコモーションを軸に、和風フォークロアの世界を流麗に駆け抜ける。",
+  "target": "Hollow Knight / Ori シリーズを愛好するメトロイドヴァニア・コアプレイヤー、和風アートや浮世絵調ビジュアルを好む層、アクションの操作感重視のプラットフォーマー愛好家。",
+  "slug": "bo-path-of-the-teal-lotus",
+  "file": "data/games/850-bo-path-of-the-teal-lotus.json"
+}

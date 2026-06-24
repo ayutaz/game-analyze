@@ -1,0 +1,27 @@
+{
+  "id": 813,
+  "title_jp": "不思議の幻想郷 -FORESIGHT-",
+  "title_en": "Touhou Genso Wanderer -FORESIGHT-",
+  "developer": "AQUASTYLE",
+  "publisher": "Phoenixx",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "Roguelike Dungeon Crawler",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "同人発IP「東方Project」の公認二次創作として10年以上続く「不思議の幻想郷」シリーズの最新作で、シリーズ累計でコンソール商業流通まで届いた代表例。先読みシステム「FORESIGHT」でローグライクの理不尽さを緩和し、シリーズファンと不思議のダンジョン系プレイヤー双方から支持を集めている。",
+  "concept": "AQUASTYLE開発の東方Project公認二次創作ローグライク「不思議の幻想郷」シリーズ最新作。未来予知（FORESIGHT）能力で先読みしながらダンジョンを攻略する、不思議のダンジョン系の進化形。",
+  "target": "東方Projectファン、トルネコ／風来のシレン系ローグライク愛好者、同人ゲーム文化に親しんだ層。",
+  "slug": "touhou-genso-wanderer-foresight",
+  "file": "data/games/813-touhou-genso-wanderer-foresight.json"
+}

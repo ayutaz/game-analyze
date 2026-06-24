@@ -1,0 +1,30 @@
+{
+  "id": 911,
+  "title_jp": "ルナーク",
+  "title_en": "LUNARK",
+  "developer": "Canari Games (Johan Vinet)",
+  "publisher": "WayForward",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "シネマティック・ピクセル・プラットフォーマー / SFアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Flashback / Another World / Prince of Persia 系の 90 年代シネマティック・プラットフォーマーを、当時と同じ実写ロトスコープ＋ピクセルアニメ手法で 2023 年に現代復刻した一人開発インディー。WayForward 配給・Limited Run Games 物理版・Steam 84%好評で、ピクセルアート復権文脈と「失われたジャンルの復刻」潮流の参照点として評価された。",
+  "concept": "クーリエの主人公 Leo が走り・跳び・掴まり・転がり・撃ちながら、ディストピア都市から異星の森までを駆け抜けるロトスコープ・アニメーション仕立ての横スクロール・アクションアドベンチャー。Another World / Flashback への現代版オマージュ。",
+  "target": "Flashback / Prince of Persia / Out of This World 等 90 年代シネマティック・プラットフォーマーを通った 30-40 代ゲーマーと、ピクセルアート＆ロトスコープ表現を愛好するインディーファン。短尺 5-6 時間で「あの頃の手触り」を味わいたい層。",
+  "slug": "lunark",
+  "file": "data/games/911-lunark.json"
+}

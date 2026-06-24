@@ -1,0 +1,25 @@
+{
+  "id": 806,
+  "title_jp": "魔法少女ノ魔女裁判",
+  "title_en": "Magical Girl Witch Trials",
+  "developer": "Re,AER & Acacia",
+  "publisher": "Re,AER / CIRCLE LINE GAMES",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Mystery adventure / 法廷ADV",
+  "sales_jp": "—",
+  "sales_world": "300,000+ (Steam, 2025-11時点)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "2025年7月18日のSteamリリース約3日で3万本、4ヶ月で30万本超を達成し「圧倒的に好評」を維持。2024年クラウドファンディング成功によるフルボイス化、ダンガンロンパ／逆転裁判系の本格法廷ADVを和製インディーで再構築した点が口コミでバズり、Steam日本売上ランキング3位入りした。",
+  "concept": "監獄島に集められた13人の魔法少女たちが「魔女裁判」を通じて仲間に紛れた魔女を暴く、推理×議論型のミステリーADV。",
+  "target": "ダンガンロンパ／逆転裁判系の法廷・デスゲームADVを愛好する層、シナリオ重視の和製インディー読者層。",
+  "slug": "magical-girl-witch-trials",
+  "file": "data/games/806-magical-girl-witch-trials.json"
+}

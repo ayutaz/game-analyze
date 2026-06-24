@@ -1,0 +1,28 @@
+{
+  "id": 811,
+  "title_jp": "Sea Fantasy / シーファンタジー",
+  "title_en": "Sea Fantasy",
+  "developer": "METASLA",
+  "publisher": "METASLA",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox"
+  ],
+  "genre": "Fishing Action RPG / 2D Open-World",
+  "sales_jp": "—",
+  "sales_world": "10K+ (Steam 1週目)",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "釣りで世界を救うという独創的なコンセプトの2D国産インディーARPGで、Steamで「非常に好評」（86%／567レビュー）を獲得し1週目で1万本超を販売。BitSummit / TGS で繰り返し露出した後、2025年1月のPC版発売を皮切りにSwitch（6月）、PS5（10月）、Xbox（7月）と多機種展開した。",
+  "concept": "100種以上の不思議な海洋生物「シーアズ」を釣り上げ、その素材で釣り竿・装備をクラフトしながら、船で広大なピクセル世界を旅して世界の滅亡を阻止する2D異世界釣りオープンワールドARPG。",
+  "target": "『MOTHER』や『聖剣伝説』系のレトロ感を愛する2D JRPGファン、釣りゲーム愛好家、収集・クラフト要素を含む和製インディーRPGに関心のある層。",
+  "slug": "sea-fantasy",
+  "file": "data/games/811-sea-fantasy.json"
+}

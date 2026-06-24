@@ -1,0 +1,28 @@
+{
+  "id": 883,
+  "title_jp": "アブソルム",
+  "title_en": "Absolum",
+  "developer": "Guard Crush Games / Supamonks",
+  "publisher": "Dotemu",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Switch"
+  ],
+  "genre": "Beat'em Up Roguelite",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Streets of Rage 4で評価を確立したGuard Crushが手掛ける2025年話題作。手描きアートと深いコンボシステム、Hades型のメタ進行、ローカル/オンライン2人協力プレイで「2025年ベスト級ベルトスクロール」と高評価を獲得した。",
+  "concept": "Streets of Rage 4のGuard Crush Gamesが手がけるファンタジー版ベルトスクロールアクション×ローグライト。Hadesライクなメタ進行と精密なコンボシステムを融合した協力アクション。",
+  "target": "Streets of Rage 4やHadesを愛好するベルトスクロール/ローグライトファン、精密なコンボアクションを好むコアゲーマー、協力プレイで腕を競いたい2人組プレイヤー。",
+  "slug": "absolum",
+  "file": "data/games/883-absolum.json"
+}

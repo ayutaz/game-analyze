@@ -1,0 +1,29 @@
+{
+  "id": 854,
+  "title_jp": "ライカ：エイジド・スルー・ブラッド",
+  "title_en": "Laika: Aged Through Blood",
+  "developer": "Brainwash Gang",
+  "publisher": "Headup Publishing",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "Motorvania / 2D Action Platformer",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "バイクで疾走しながらトリックで弾を撃ち分ける独自の「モータヴァニア」アクションと、西部劇×ポストアポカリプスの陰鬱な母娘物語が高評価。2023年のインディーカルトヒットとして口コミで広がった。",
+  "concept": "部族復讐譚を背景に、二輪バイクの慣性と銃撃を融合させた2Dメトロイドヴァニア。",
+  "target": "硬派な2Dアクションと重い物語を同時に味わいたいインディー好き層。",
+  "slug": "laika-aged-through-blood",
+  "file": "data/games/854-laika-aged-through-blood.json"
+}

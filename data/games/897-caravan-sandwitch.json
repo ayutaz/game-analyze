@@ -1,0 +1,27 @@
+{
+  "id": 897,
+  "title_jp": "キャラバン・サンドウィッチ",
+  "title_en": "Caravan SandWitch",
+  "developer": "Studio Plane Toast",
+  "publisher": "Dear Villagers",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Switch",
+    "Xbox Series X/S"
+  ],
+  "genre": "Cozy open-world exploration / adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "フランス発インディーで、プロヴァンス風砂漠と地中海文化を SF に落とし込んだ独自の絵作りと、戦闘なし10-15時間で姉を探すコージーな探索体験が高く評価され、2024年の複数 GOTY リストやインディー注目作リストに掲載された。",
+  "concept": "プロヴァンス風の砂漠化した惑星を舞台に、姉の足跡を辿りバン1台で旅する戦闘なしのコージーオープンワールド・アドベンチャー。地中海文化と SF が融合した独自の世界観を持つ。",
+  "target": "戦闘や緊張感のない癒し系オープンワールドを好み、Sable や A Short Hike のような探索＋会話中心のコージーゲームに惹かれる層。",
+  "slug": "caravan-sandwitch",
+  "file": "data/games/897-caravan-sandwitch.json"
+}

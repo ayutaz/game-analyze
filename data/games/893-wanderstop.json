@@ -1,0 +1,26 @@
+{
+  "id": 893,
+  "title_jp": "ワンダーストップ",
+  "title_en": "Wanderstop",
+  "developer": "Ivy Road",
+  "publisher": "Annapurna Interactive",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Cozy narrative tea shop sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "The Stanley ParableのDavey Wreden率いるIvy Roadの最終作で、Annapurna Interactive配給。コージーゲームに「燃え尽き」と「自己受容」という重いテーマを持ち込み、ナラティブ系コージーの最高峰として高評価を獲得。スタジオは2026年3月閉鎖予定。",
+  "concept": "燃え尽きた元戦士が森の奥にあるお茶屋を手伝いながら自分自身と向き合うコージー・ナラティブシム。お茶を淹れて客を見送るループを通じて「変わらないこと」と「自己受容」を描く。",
+  "target": "The Stanley Parableファン、ナラティブゲーム愛好家、燃え尽き症候群やメンタルヘルスのテーマに共感する大人のプレイヤー、コージーゲームに深い物語を求める層。",
+  "slug": "wanderstop",
+  "file": "data/games/893-wanderstop.json"
+}

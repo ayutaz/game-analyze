@@ -1,0 +1,27 @@
+{
+  "id": 844,
+  "title_jp": "Dungeon Clawler",
+  "title_en": "Dungeon Clawler",
+  "developer": "Stray Fawn Studio",
+  "publisher": "Stray Fawn Studio",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Claw-machine Roguelike Deckbuilder",
+  "sales_jp": "—",
+  "sales_world": "Steam同接ピーク 約4,000人 / 早期アクセス開始から半年で 「Very Positive」9,000件超レビュー（Steam 2025前半時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "UFOキャッチャー（クレーンゲーム）の物理操作とローグライト・デッキビルドを融合させた発想が新鮮で、2024年12月の早期アクセス開始以降、配信者の手元映えする「掴む快感」と相まってインディー界隈で爆発的に話題化。Steamでは「非常に好評」を維持し、Switch 版も2025年に発売されてカジュアル層にも浸透した。",
+  "concept": "クレーンゲームでアイテムを掴んでデッキを組むローグライト・デッキビルダー。Slay the Spire 的な構築ループに「物理ドラフト」の偶然性と手触りを足した一作。",
+  "target": "Slay the Spire / Balatro 系のローグライト・デッキビルダー愛好家、配信映えするインディー奇ゲーを好む層、ガチャ／クレーン的なランダム獲得快感を楽しむカジュアル層。",
+  "slug": "dungeon-clawler",
+  "file": "data/games/844-dungeon-clawler.json"
+}

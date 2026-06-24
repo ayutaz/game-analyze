@@ -1,0 +1,27 @@
+{
+  "id": 825,
+  "title_jp": "スティル・ウェイクス・ザ・ディープ",
+  "title_en": "Still Wakes the Deep",
+  "developer": "The Chinese Room",
+  "publisher": "Secret Mode",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S",
+    "Switch 2"
+  ],
+  "genre": "First-person Narrative Horror / Walking Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Dear Esther / Everybody's Gone to the Rapture の The Chinese Room がインディー規模に回帰した話題作で、発売初日 Game Pass / PS Plus に同梱され MetaCritic 75-80 台のレビューを獲得。スコットランド訛りの声優演技と1970年代石油リグの密閉感、コズミックホラー演出が「Alien: Isolation の閉塞 + SOMA の哲学」と評され、ナラティブホラー文脈で繰り返し言及される。",
+  "concept": "1975年の北海石油掘削リグを舞台にした一人称ナラティブホラー。Lovecraft的な異形生物に追われながら、閉塞した鉄塔の中をスコットランド人作業員ケイズとして脱出を試みる、戦闘なしの「逃走と探索」型サバイバル体験。",
+  "target": "Amnesia / SOMA / Alien: Isolation 系の戦闘なしストーリーホラーを好む層、Chinese Room の旧作 (Dear Esther / Rapture) ファン、コズミックホラー・閉所恐怖モチーフを楽しむナラティブゲーマー。",
+  "slug": "still-wakes-the-deep",
+  "file": "data/games/825-still-wakes-the-deep.json"
+}

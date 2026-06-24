@@ -1,0 +1,24 @@
+{
+  "id": 887,
+  "title_jp": "スーパーマーケット・トゥゲザー",
+  "title_en": "Supermarket Together",
+  "developer": "DeadDevsTellNoLies",
+  "publisher": "DeadDevsTellNoLies",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Co-op Management Sim / Party",
+  "sales_jp": "—",
+  "sales_world": "—（F2P、Steam同時接続ピーク約4万、累計プレイヤー数百万規模と推定）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "2024年8月にプロモほぼゼロでリリースされ、最大16人co-op＋F2PというフックでSteamの同時接続トップ圏に急浮上。匿名チーム製インディーが配信文化と相性の良いシム+パーティ性で一気にバズった2024年下半期の象徴的事例。",
+  "concept": "Supermarket Simulatorの世界観を16人協力プレイ＋基本無料で振り切ったco-op管理シム。レジ打ち・品出し・万引き対応・値付けをチームで分担しながら騒がしい店を回す。",
+  "target": "Lethal CompanyやPartyAnimals的な大人数co-opで馬鹿騒ぎしたい配信者・フレンドグループ。経営シムをガチで詰めるより、役割分担と事故をネタにできるカジュアル層。",
+  "slug": "supermarket-together",
+  "file": "data/games/887-supermarket-together.json"
+}

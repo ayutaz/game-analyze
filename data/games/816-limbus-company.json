@@ -1,0 +1,26 @@
+{
+  "id": 816,
+  "title_jp": "リンバスカンパニー",
+  "title_en": "Limbus Company",
+  "developer": "Project Moon",
+  "publisher": "Project Moon",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Gacha turn-based RPG / management",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "",
+  "popularity": "Lobotomy Corporation / Library of Ruina の正統続編にあたるダークファンタジー基本無料ガチャ。インディースタジオが運営するF2P Steam＋モバイル作品として例外的成功を収め、世界観の深さと文学モチーフ（ダンテ『神曲』の12人の罪人）で熱狂的なファン層を獲得した。",
+  "concept": "Lobotomy Corp 世界観を継ぐダークファンタジー基本無料ガチャ。ダンテ『神曲』をモチーフにした12人の「罪人（Sinner）」を率いて異形の都市を旅するターン制RPG。",
+  "target": "Project Moon 過去作（Lobotomy Corp / Library of Ruina）の世界観に惹かれた濃いファン層、および重厚な文学的ナラティブを求めるガチャ／キャラ収集層。",
+  "slug": "limbus-company",
+  "file": "data/games/816-limbus-company.json"
+}

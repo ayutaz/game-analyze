@@ -1,7 +1,7 @@
 # 日本／世界市場の有名ゲーム — 3カテゴリ分類カタログ
 
-本リポジトリは、国内（日本）および世界市場で発売・配信され、一定規模の販売・DL本数を記録した、または SNS でバズった有名ゲーム計 **803本** を、以下3つの分類軸で整理した分析カタログです。
-1985–2026年を網羅し、2026年6月に **2020年以降の人気作 101本を一括追加** して 200本へ、続いて **2020年以降に国内外で 20万本超を売り上げたインディー作品 103本を一括追加** して 303本へ、さらに **PC ゲーム 500本（西洋 CRPG、グランドストラテジー、RTS、MMO、FPS、ARPG、シム、サンドボックス、VN・同人、クラシック PC ほか）を一括追加** して 803本に拡張しました。
+本リポジトリは、国内（日本）および世界市場で発売・配信され、一定規模の販売・DL本数を記録した、または SNS でバズった有名ゲーム計 **917本** を、以下3つの分類軸で整理した分析カタログです。
+1985–2026年を網羅し、2026年6月に **2020年以降の人気作 101本を一括追加** して 200本へ、続いて **2020年以降に国内外で 20万本超を売り上げたインディー作品 103本を一括追加** して 303本へ、さらに **PC ゲーム 500本（西洋 CRPG、グランドストラテジー、RTS、MMO、FPS、ARPG、シム、サンドボックス、VN・同人、クラシック PC ほか）を一括追加** して 803本へ、続いて **2023–2026年の最新インディーゲーム 114本（『都市伝説解体センター』『SANABI』『Magical Girl Witch Trials』『Nine Sols』『Animal Well 派生』『Lethal Company 系』『Vampire Survivors 系』など）を ultracode + deep-research ワークフローで一括追加** して 917本に拡張しました。
 
 ---
 
@@ -30,12 +30,12 @@
 
 ## 2. 集計サマリ
 
-- **総タイトル数**: **803本**（`data/games.json` 基準、ID 1–803 が連続稼働）
+- **総タイトル数**: **917本**（`data/games.json` 基準、ID 1–917 が連続稼働）
 - **主分類の内訳**（`data/games.json` 集計）:
-  - 体験型 (EXP): **603本**
-  - 物語型 (NAR): **100本**
-  - 報酬型 (REW): **100本**
-- **体験型の「他者軸」内訳**: ソロ 426 / 対戦 95 / 協力 62 / 非同期 4 / 非対称 4 / 観戦 3 / 未設定 9（既存99本のうち未設定が残る）
+  - 体験型 (EXP): **689本**
+  - 物語型 (NAR): **125本**
+  - 報酬型 (REW): **103本**
+- **体験型の「他者軸」内訳**: ソロ 501 / 対戦 97 / 協力 69 / 非同期 5 / 非対称 5 / 観戦 3 / 未設定 9（既存99本のうち未設定が残る）
 - **プラットフォーム分布**: PC (Steam/GOG/Epic) を主軸に、Switch / Switch 2 / PS4 / PS5 / Xbox One / Xbox Series / 3DS / Wii / iOS / Android / Arcade / Multi
 - **時代分布**: 1985–2019 = 高比率（PC 古典含む） / 2020–2026 = 多数（2020+ メジャー101本＋2020+ インディー103本、2026年6月時点のスナップショット）
 
@@ -82,13 +82,14 @@
 4. **インディーズ／配信文化との結びつき**：Overcooked、Among Us、Vampire Survivors、Phasmophobia、Buckshot Roulette、8番出口、Splatoon 3、ポケポケなどが配信／SNSバズ駆動でユーザーを獲得。
 5. **2020年以降のインディー躍進（ID 201–303）**：本カタログでは Valheim (1200万本+)、Inscryption、Loop Hero、Tunic、Pizza Tower、Pacific Drive、PEAK、Sons of the Forest (1390万本+ Steam)、Disco Elysium: The Final Cut、Citizen Sleeper、Slay the Princess、Mouthwashing など 103本 のインディーを追加収録。ローグライト・デッキ構築 (Inscryption, Loop Hero, Cobalt Core, Wildfrost, Monster Train 2)、協力ホラー (Phasmophobia, Lethal Company, R.E.P.O., Demonologist, DEVOUR)、サバイバル・クラフト (Valheim, Sons of the Forest, Enshrouded, V Rising, Core Keeper)、コージーシム (Dredge, Spiritfarer, Strange Horticulture, Coral Island, Sun Haven)、ナラティブ／VN (Disco Elysium, Citizen Sleeper, NORCO, In Stars and Time, Slay the Princess, Chained Echoes)、日本産インディー (ENDER LILIES, ASTLIBRA Revision, PARANORMASIGHT, Refind Self, BOKURA, HoloCure) などジャンルを網羅。
 6. **PC ゲーム大規模拡張（ID 304–803、計 500 本）**：本カタログは長らく Switch／モバイル中心だったが、**ultracode + deep-research ワークフロー**（22 並列 discover エージェント、1271 raw 候補 → 1140 dedup → 500 採用）で PC エコシステムを補強。**Western CRPG** (Mass Effect 2/3、Pillars of Eternity 1/2、Wasteland 3、Pathfinder Kingmaker/Wrath、Tyranny、KOTOR 1/2、Skyrim、Fallout 3/NV/4)、**Grand Strategy / 4X** (Civilization VI/V、Crusader Kings 3、Europa Universalis IV、Stellaris、Total War Warhammer 1/2/3、Three Kingdoms)、**RTS / MOBA** (StarCraft 2、Age of Empires II/IV、Company of Heroes 3、DOTA 2)、**MMO** (World of Warcraft Classic Era/Retail、Lost Ark、ESO、Black Desert、Tower of Fantasy)、**FPS** (Counter-Strike 2、Modern Warfare、Hunt: Showdown、Hell Let Loose、Squad、Insurgency Sandstorm、Tarkov)、**ARPG** (Path of Exile 1/2、Last Epoch、Grim Dawn、Torchlight 1/2)、**シム** (Cities: Skylines 1/2、Factorio、Microsoft Flight Simulator、ETS 2、Football Manager 各年版)、**サンドボックス・サバイバル** (RimWorld、Kenshi、Rust、ARK、Conan Exiles、Project Zomboid)、**クラシック・没入型** (Half-Life 1/2、Portal 1/2、Bioshock 1/2/Infinite、Dishonored 1/2、Deus Ex 各作、Hitman WOA、Outer Worlds)、**ナラティブ／走るシム** (Firewatch、Edith Finch、Stanley Parable Ultra Deluxe、Disco Elysium 派生)、**メトロイドヴァニア** (Ori 1/2、Bloodstained、Axiom Verge 1/2、Blasphemous 1/2)、**ローグライク** (FTL、Into the Breach、Slay the Spire 1、Dead Cells、Enter the Gungeon、Rogue Legacy 1/2、Caves of Qud)、**VN・同人** (Tsukihime Remake、Fate/stay night Réalta Nua、Umineko、ATRI、Doki Doki Literature Club、Higurashi Hou)、**レース／スポーツ** (Forza Horizon 4/5、Assetto Corsa Competizione、iRacing、F1 25、NBA 2K25)、**タワーディフェンス／パズル** (Tetris Effect、Baba Is You、Talos Principle 1/2、Antichamber、SpaceChem、Opus Magnum)、**アジア発 PC** (Naraka: Bladepoint、Once Human、Snowbreak、Punishing Gray Raven、Yakuza 0/Like a Dragon)。これにより EXP 603 / NAR 100 / REW 100 と PC 主軸ジャンル網羅性が大幅に向上した。
+7. **最新インディー追補（ID 804–917、計 114 本）**：『都市伝説解体センター』『SANABI』『Magical Girl Witch Trials』が未収録だった反省から、**12 並列 discover + 個別 enrich の ultracode ワークフロー**で 2023–2026 年のインディーシーンを補強（169 raw → 既存 803 とローカル dedup → 114 採用）。**日本同人/インディー** (都市伝説解体センター、和階堂真の事件簿 TRILOGY DELUXE、魔法少女ノ魔女裁判、Tokyo Necro、CRYMACHINA、ENDER MAGNOLIA、Shadow Corridor 2、Sea Fantasy、Inorikaze、百英雄伝)、**韓国・東アジア** (SANABI、Limbus Company、Detective Dotson、Once Human、Sangokushi 系)、**ホラー** (FAITH: The Unholy Trinity Chapter III、World of Horror、Voices of the Void、Buckshot Roulette 派生)、**ローグライト** (Backpack Hero、Wildfrost、Ratopia、Tiny Rogues、Halls of Torment、20 Minutes Till Dawn、Megabonk、Slice & Dice、Boneraiser Minions)、**メトロイドヴァニア** (Nine Sols、Prince of Persia: The Lost Crown、Ultros、Bo: Path of the Teal Lotus、Crypt Custodian、Voidwrought)、**ナラティブ／VN** (Slay the Princess、Roadwarden、In Stars and Time、Tactical Breach Wizards、Indika、1000xRESIST、Lorelei and the Laser Eyes、Thank Goodness You're Here!、Botany Manor、Tales of Kenzera: ZAU、Venba)、**シム／経営** (Manor Lords、Frostpunk 2、Farthest Frontier、Outpath、Songs of Conquest、Tiny Bookshop)、**マルチプレイヤー協力** (Schedule I、Peak、Webfishing、Mor Phaaning Door)、**アクション／ソウルライク** (Khazan: The First Berserker、Enotria: The Last Song)、**コージー** (Coral Island、Fields of Mistria、Sun Haven 派生、Bear and Breakfast 続編)。EXP 689 / NAR 125 / REW 103 となり、2023–2026 の現行インディーシーンの網羅性が大幅に向上した。
 
 ---
 
 ## 4. ファイル構成
 
 - `README.md` — 本書（全体サマリ・カテゴリ定義・集計）
-- `games-catalog.md` — 全803本のマスターテーブル（既存99本＋2020年以降追加101本＋2020年以降インディー103本＋PC 拡張500本の4部構成）
+- `games-catalog.md` — 全917本のマスターテーブル（既存99本＋2020年以降追加101本＋2020年以降インディー103本＋PC 拡張500本＋最新インディー追補114本の5部構成）
 - `category-experience.md` — 体験型ゲーム一覧と「他者軸」分析
 - `category-narrative.md` — 物語型ゲーム一覧
 - `category-reward.md` — 報酬型ゲーム一覧

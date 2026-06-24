@@ -1,0 +1,26 @@
+{
+  "id": 907,
+  "title_jp": "タイニー・ガーデン",
+  "title_en": "Tiny Garden",
+  "developer": "Ao Norte",
+  "publisher": "Super Rare Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Cozy miniature farming / life sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "90年代Polly Pocket風クラムシェル玩具内でクランクを回して作物を育てるミニチュア農業ゲーム。Kickstarterを開始1時間で達成し、時間制限・昼夜サイクル・ストレスを排した「物理玩具的ノスタルジー」設計と、玩具に込められた手紙を読み解く静かな物語性がコージーゲーム界隈で評価された。2025年4月Steam、2026年2月Switch展開。",
+  "concept": "手のひらサイズのクラムシェル玩具の中で野菜と花を育て、収穫物を家具と交換して半分の空間を飾る、時間制限なしのミニチュア・ガーデニング体験。前の持ち主たちの手紙が物語の層を成す。",
+  "target": "Stardew Valley系より更に低ストレスな「触る玩具」体験を求める層、90年代Polly Pocket世代のノスタルジー層、短時間で完結するコージーゲーム愛好者。",
+  "slug": "tiny-garden",
+  "file": "data/games/907-tiny-garden.json"
+}

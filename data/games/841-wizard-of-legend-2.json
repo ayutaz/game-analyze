@@ -1,0 +1,24 @@
+{
+  "id": 841,
+  "title_jp": "Wizard of Legend 2",
+  "title_en": "Wizard of Legend 2",
+  "developer": "Dead Mage / Contingent99",
+  "publisher": "Humble Games",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Action Roguelite (Co-op)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "2018年の名作Wizard of Legendの3D続編としてカルト人気を引き継ぎ、Steam早期アクセス開始直後に同接ピークで注目を集めた。連続呪文チェイン×Co-opの爽快感がストリーマーにも好評。",
+  "concept": "前作Wizard of Legendの世界観を3Dに刷新し、最大4人協力（早期アクセス時は2人）で連続呪文コンボを叩き込むアクションローグライト続編。",
+  "target": "前作経験者と、Hades系のスタイリッシュアクションローグライトをフレンドと協力で遊びたい層。",
+  "slug": "wizard-of-legend-2",
+  "file": "data/games/841-wizard-of-legend-2.json"
+}

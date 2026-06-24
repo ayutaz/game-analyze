@@ -1,0 +1,26 @@
+{
+  "id": 917,
+  "title_jp": "エッジ・オブ・メモリーズ",
+  "title_en": "Edge of Memories",
+  "developer": "Midgar Studio",
+  "publisher": "NACON",
+  "year": 2026,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "アクションJRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Edge of Eternity を手がけたフランス Midgar Studio が NACON 主導で開発する欧州発インディーJRPG。FFXV のコンバットデザイナー横山光輝、ゼノブレイドのキャラデザイン風間雷太といった JRPG ベテランが参画し、聖剣伝説 / Trials of Mana を想起させる色彩設計と Kingdom Hearts II 風の高速コンボアクションで欧州インディーJRPG の新潮流を象徴している。",
+  "concept": "Edge of Eternity の世界 Heryon を継ぐ姉妹作。主人公 Eline がパーティーメンバー Ysoris・Kanta と協力し、世界を蝕む「コラプション（腐食）」を断つため自らその力を制御する旅に出るアクションJRPG。",
+  "target": "クロノ・クロス／聖剣伝説／ゼノブレイド系の色鮮やかな世界観と、現代アクションRPGの手触りを両立した中規模 JRPG を求める欧米・日本のJRPGファン。",
+  "slug": "edge-of-memories",
+  "file": "data/games/917-edge-of-memories.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 884,
+  "title_jp": "バニッシャーズ：ゴースト・オブ・ニューエデン",
+  "title_en": "Banishers: Ghosts of New Eden",
+  "developer": "Don't Nod",
+  "publisher": "Focus Entertainment",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Action RPG (Souls-adjacent)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Life is Strange / Vampyr で知られる Don't Nod が手掛ける17世紀ニューイングランド（新大陸植民地時代）を舞台にしたゴーストハンター ARPG。ソウルライク調のアクション戦闘と、ゴーストの運命を「昇華・解放・呪う」プレイヤーの倫理選択が物語に深く絡む構造で評価された。",
+  "concept": "愛するパートナーを蘇生させるか、無数の亡霊を救済するか——殺された Banisher が選ぶ、二人の運命と植民地の呪いを巡る三人称アクション RPG。",
+  "target": "Don't Nod の物語性と、Souls / God of War 系のシリアスなアクションを両立させたいシングルプレイヤー RPG ファン。",
+  "slug": "banishers-ghosts-of-new-eden",
+  "file": "data/games/884-banishers-ghosts-of-new-eden.json"
+}

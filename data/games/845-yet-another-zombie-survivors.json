@@ -1,0 +1,24 @@
+{
+  "id": 845,
+  "title_jp": "Yet Another Zombie Survivors",
+  "title_en": "Yet Another Zombie Survivors",
+  "developer": "Awesome Games Studio",
+  "publisher": "Awesome Games Studio",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Roguelite Auto-Shooter (Squad-based Survivors-like)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "3人スクワッドのクラス組合せとビルド構築で「Vampire Survivors系の戦術派」として2023-2024年に定着。Steam Early Accessで非常に好評を維持し、VS系のサブジャンル成熟を示す代表作の一つ。",
+  "concept": "3人のスクワッドを同時操作し、クラス相性とスキル組合せで波状の敵を捌くVampire Survivors系オートシューター。",
+  "target": "Vampire Survivorsをやり込んだ後に、より戦略的・編成的な深みを求めるロガライト/オートシュータープレイヤー。",
+  "slug": "yet-another-zombie-survivors",
+  "file": "data/games/845-yet-another-zombie-survivors.json"
+}

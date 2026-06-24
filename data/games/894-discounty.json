@@ -1,0 +1,27 @@
+{
+  "id": 894,
+  "title_jp": "ディスカウンティ",
+  "title_en": "Discounty",
+  "developer": "Crinkle Cut Games",
+  "publisher": "PQube",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "Narrative Supermarket Management Sim / Cozy Life Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Wholesome Direct 2025 の目玉として発表され、Supermarket Simulator のメカニクスに Stardew Valley 系のナラティブ・住民関係性を組み合わせた点が話題。PC/Switch/PS5/Xbox 4プラットフォーム同時発売とパブリッシャー PQube の後押しで cozy 系ジャンル内で高い注目を集めた。",
+  "concept": "叔母から引き継いだ町外れの小さなディスカウントスーパーを切り盛りし、商品仕入れ・棚出し・レジ打ち・住民との関係構築を通じて寂れたBlomkest町を再生させる、15-20時間のナラティブ寄りショップ経営シム。",
+  "target": "Stardew Valley、Moonlighter、Supermarket Simulator、Coffee Talk のような「経営×住民交流」系コージーシムが好きなプレイヤー層。寝る前に1〜2時間まったり遊びたい層に刺さる。",
+  "slug": "discounty",
+  "file": "data/games/894-discounty.json"
+}

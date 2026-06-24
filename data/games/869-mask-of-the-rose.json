@@ -1,0 +1,26 @@
+{
+  "id": 869,
+  "title_jp": "マスク・オブ・ザ・ローズ",
+  "title_en": "Mask of the Rose",
+  "developer": "Failbetter Games",
+  "publisher": "Failbetter Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch"
+  ],
+  "genre": "Visual Novel / Dating Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "Fallen London 世界観のヴィクトリアン・ゴシック VN／恋愛 ADV プリクエルとして注目。Failbetter らしい濃密な文章と分岐恋愛が評価される一方、時間圧の強い当初設計が賛否を呼びローンチ後にパッチ調整された経緯がある。",
+  "concept": "ロンドンが地底に「堕ちた」直後の混沌期を舞台に、容疑者となった同居人を救いつつ恋愛や陰謀を選び取るヴィクトリアン・ゴシック・ノベル＋ロマンス ADV。",
+  "target": "Fallen London / Sunless Sea 等の Failbetter 文学的世界観の読者、文章主体の VN・乙女／恋愛 ADV を好む英語圏インディー層。",
+  "slug": "mask-of-the-rose",
+  "file": "data/games/869-mask-of-the-rose.json"
+}

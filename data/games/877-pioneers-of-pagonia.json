@@ -1,0 +1,24 @@
+{
+  "id": 877,
+  "title_jp": "パイオニアズ・オブ・パゴニア",
+  "title_en": "Pioneers of Pagonia",
+  "developer": "Envision Entertainment",
+  "publisher": "Envision Entertainment",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "City Builder / Sim Management",
+  "sales_jp": "—",
+  "sales_world": "Steam owners 200K-500K (EA)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "The Settlers原作者Volker Wertich率いる新スタジオによる「真のSettlers後継」を目指したインディー。早期アクセス開始時から旧Settlersファンを掴み、シリーズ系譜を継承するインディー作品として注目を集めている。",
+  "concept": "中世ファンタジー世界で経済チェーンを自動化しながら島々を開拓する、Settlers系譜のチル系シティビルダー。",
+  "target": "旧Settlersファン、Anno / Banished など経済シミュ・コロニービルダー愛好家。",
+  "slug": "pioneers-of-pagonia",
+  "file": "data/games/877-pioneers-of-pagonia.json"
+}

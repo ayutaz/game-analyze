@@ -1,0 +1,29 @@
+{
+  "id": 870,
+  "title_jp": "ストレンジ・アンティクィティーズ",
+  "title_en": "Strange Antiquities",
+  "developer": "Bad Viking",
+  "publisher": "Iceberg Interactive",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Mac"
+  ],
+  "genre": "Cozy Occult Puzzle / Narrative Adventure",
+  "sales_jp": "—",
+  "sales_world": "100K+ (Steam+Switch, 2026-05時点 / Steam gross ~$1.6M)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Strange Horticultureの精神的続編として、オカルト骨董店を舞台に「資料を読み解いて正体を特定する」捜査型パズルを継承。Steam 96% Positive / OpenCritic 91パーセンタイルと高評価で、2026年5月時点で10万本超を売り上げ、2020年代コージーナラティブ続編の代表的成功例となった。",
+  "concept": "薄暗いオカルト骨董店の店員として、客が持ち込む呪い・怪異の相談に対し、店内の書物と遺物を照合して「正解の品」を渡していくリーディング推理パズル。",
+  "target": "Strange Horticulture / Return of the Obra Dinn / Case of the Golden Idol 系の「読んで推理する」ADVを好む層、コージーかつダークな雰囲気を求めるソロプレイヤー。",
+  "slug": "strange-antiquities",
+  "file": "data/games/870-strange-antiquities.json"
+}

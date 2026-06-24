@@ -1,0 +1,24 @@
+{
+  "id": 892,
+  "title_jp": "タイニー・ブックショップ",
+  "title_en": "Tiny Bookshop",
+  "developer": "neoludic games",
+  "publisher": "neoludic games",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Cozy shop management / Life sim",
+  "sales_jp": "—",
+  "sales_world": "300,000+ (発売3ヶ月)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Wholesome Direct 2024 出展で注目を集め、海辺の町で移動式古本屋を営むコージーな経営シムとして発売後3ヶ月で30万本超えを達成。Steam で Overwhelmingly Positive 評価を獲得し、コージーシム新潮流の代表作として広く支持された。",
+  "concept": "移動式キャラバンで海辺の町を巡りながら古本屋を営む、ナラティブ重視のコージー経営シム。本の仕入れ・陳列・接客を通じて町の住人たちの物語に触れていく。",
+  "target": "Stardew Valley や Unpacking のようなコージーゲームを好む層、本好き・スローライフ志向のプレイヤー、短時間でも癒される体験を求める大人層。",
+  "slug": "tiny-bookshop",
+  "file": "data/games/892-tiny-bookshop.json"
+}

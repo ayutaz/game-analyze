@@ -1,0 +1,27 @@
+{
+  "id": 852,
+  "title_jp": "ヴォイドロウト",
+  "title_en": "Voidwrought",
+  "developer": "Powersnake",
+  "publisher": "Kwalee",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Metroidvania / Cosmic Horror Action-Platformer",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ラヴクラフト風コズミックホラー世界を手描き2Dで描いた本格メトロイドヴァニアで、50以上のレリック/ソウルを組み合わせるビルド構築と祠（シュライン）建設システムが好評。Hollow Knight: Silksong 待ちの代替作品として2024年10月の発売時に大きな注目を集め、Steamでは「やや好評」を獲得した。",
+  "concept": "ラヴクラフト的コズミックホラーの異界を手描き2Dで探索する、レリック/ソウルによるビルド構築型メトロイドヴァニア。約10時間のタイトな尺で探索・戦闘・プラットフォーミングを凝縮している。",
+  "target": "Hollow Knight / Blasphemous など本格派2Dメトロイドヴァニアを好み、暗鬱な世界観とビルド構築の自由度を楽しみたいソロプレイヤー層。",
+  "slug": "voidwrought",
+  "file": "data/games/852-voidwrought.json"
+}

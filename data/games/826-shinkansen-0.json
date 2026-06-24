@@ -1,0 +1,24 @@
+{
+  "id": 826,
+  "title_jp": "新幹線 0号",
+  "title_en": "Shinkansen 0",
+  "developer": "Chilla's Art",
+  "publisher": "Chilla's Art",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Anomaly-spotting Horror / Walking Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Chilla's Art作品の中でも「プロット・物語重視」と評価された異色作で、新幹線という日常空間を舞台にした8番出口系ループ構造がバズ。Vtuber実況・海外ホラーストリーマー双方で配信が伸び、Steamでも高評価を獲得。",
+  "concept": "Chilla's Artによる8番出口系の異変探しホラー。新幹線車両を1号車から8号車まで進む構造で、異変があれば引き返し、なければ次の車両へ進む二択ループを採用。",
+  "target": "8番出口系の異変探しループが好きなプレイヤー、Chilla's Artの和製ジャパニーズ・ミニマル・ホラーのファン層、ホラー配信を視聴・実況する層。",
+  "slug": "shinkansen-0",
+  "file": "data/games/826-shinkansen-0.json"
+}

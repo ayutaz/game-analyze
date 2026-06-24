@@ -1,0 +1,25 @@
+{
+  "id": 900,
+  "title_jp": "エヴァーディープ・オーロラ",
+  "title_en": "Everdeep Aurora",
+  "developer": "Nautilus Games",
+  "publisher": "Ysbryd Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Cozy Digging Adventure / Non-combat Exploration",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "16bit風ピクセルアートで描かれる、隕石衝突後の地下世界を母を探して掘り進むネコ少女のアドベンチャー。戦闘なしの穏やかな探索とMr. Sun氏（OPUS シリーズ）のチームの新作という点で、Wholesome Direct 2025で大きく取り上げられ注目を集めた。",
+  "concept": "隕石が落ちた後の地下世界を、行方不明の母を探してネコの少女シェルビーが掘り進む、戦闘のないコージーな探索アドベンチャー。",
+  "target": "Stardew Valley や OPUS、A Short Hike が好きな、穏やかで物語性のあるピクセルアート探索を求めるプレイヤー層。",
+  "slug": "everdeep-aurora",
+  "file": "data/games/900-everdeep-aurora.json"
+}

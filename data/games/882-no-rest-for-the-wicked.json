@@ -1,0 +1,26 @@
+{
+  "id": 882,
+  "title_jp": "ノー・レスト・フォー・ザ・ウィキッド",
+  "title_en": "No Rest for the Wicked",
+  "developer": "Moon Studios",
+  "publisher": "Private Division",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Isometric Soulslike Action RPG",
+  "sales_jp": "—",
+  "sales_world": "Steam early access 1M+ copies (est. 2024)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Ori シリーズで知られる Moon Studios 初の本格アクション RPG として 2024 年 4 月の Steam 早期アクセス開始時に大きな話題を呼び、絵画的な手描きアイソメトリック背景と Souls 譲りの重量級戦闘、拠点づくり要素を融合したハイブリッド設計が高く評価された。",
+  "concept": "手描きアイソメトリック世界で「Soulslike の重量級戦闘」と「町の再建・クラフト」を融合させた、Moon Studios 流の硬派アクション RPG。",
+  "target": "Ori の美術に惹かれた層と、Dark Souls / Elden Ring の歯ごたえある戦闘を望むコア ARPG プレイヤー層。",
+  "slug": "no-rest-for-the-wicked",
+  "file": "data/games/882-no-rest-for-the-wicked.json"
+}

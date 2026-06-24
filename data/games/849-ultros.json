@@ -1,0 +1,26 @@
+{
+  "id": 849,
+  "title_jp": "ウルトロス",
+  "title_en": "Ultros",
+  "developer": "Hadoque",
+  "publisher": "Kepler Interactive",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "Metroidvania / Psychedelic Action",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hotline Miami のアートディレクター El Huervo が描く極彩色サイケデリック2Dビジュアルと、時間ループ＋園芸（栽培）要素を組み込んだメトロイドヴァニアという独自設計で注目。2024年でもっとも視覚的に特異な作品の一つとして欧米メディアに広く取り上げられた。",
+  "concept": "時間ループする宇宙子宮「Sarcophagus」を舞台に、園芸で果実を育て自らの能力をビルドし直すサイケデリック・メトロイドヴァニア。",
+  "target": "独特なアートスタイルと実験的なゲーム構造を好む海外インディー嗜好層、Hollow Knight や Hyper Light Drifter 系の探索アクションを求めるプレイヤー。",
+  "slug": "ultros",
+  "file": "data/games/849-ultros.json"
+}

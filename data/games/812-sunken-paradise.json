@@ -1,0 +1,22 @@
+{
+  "id": 812,
+  "title_jp": "沈める楽園",
+  "title_en": "Sunken Paradise",
+  "developer": "匙投げ部 (Sajinage-bu)",
+  "publisher": "わくわくゲームズ (Waku Waku Games)",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル / マルチエンディングノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": "",
+  "popularity": "ひとりサークル『匙投げ部』制作の同人ノベルがわくわくゲームズの仲介でSteam商業化された事例。「主人公の少女が必ず死ぬ」というセンセーショナルな前提と瀬戸内海の架空孤島「楽日島」を舞台にした最期の一日描写が電ファミ・gamebiz・IndieGamesJapan等で紹介され、同人ノベルがSteamで成立する流れを象徴する小品として注目された。",
+  "concept": "ミオとナギサという二人の少女のいずれかを選び、入水自殺を遂げる「最期の一日」を辿るマルチエンディングノベル。結末は固定だが、そこへ至る過程は選択で分岐する。",
+  "target": "エモーショナルな結末固定型ナラティブを好む同人ノベル読者、Steam上のジャパニーズインディーVNファン。自傷・自殺・性暴力等の重いテーマに耐性のあるシリアス志向のプレイヤー層。",
+  "slug": "sunken-paradise",
+  "file": "data/games/812-sunken-paradise.json"
+}

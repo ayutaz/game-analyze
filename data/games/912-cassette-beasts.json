@@ -1,0 +1,30 @@
+{
+  "id": 912,
+  "title_jp": "カセットビースト",
+  "title_en": "Cassette Beasts",
+  "developer": "Bytten Studio",
+  "publisher": "Raw Fury",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "モンスター捕獲ターン制RPG（ピクセルアート・オープンワールド）",
+  "sales_jp": "—",
+  "sales_world": "100万本超（Raw Fury 2024発表）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": "",
+  "popularity": "GBC期モンスター系JRPGへのオマージュにタイプ融合（Fusion）システムを組み合わせ、ローカル協力プレイとオープンワールド探索を備えた「2023年のポケライク決定版」として高評価。Steam の「圧倒的に好評」、Raw Fury 発表で100万本超のヒットとなりインディーポケライクの代表格に。",
+  "concept": "カセットテープに怪物を録音して使役する、レトロJRPG感覚のモダン・モンスターコレクトRPG。タイプ融合と二人乗り戦闘で戦術に新味を加えた。",
+  "target": "ポケモン／真・女神転生／ドラクエモンスターズなど旧世代モンスター捕獲RPGを愛するゲーマー、レトロピクセル＋現代QoLを求めるインディーRPGファン。",
+  "slug": "cassette-beasts",
+  "file": "data/games/912-cassette-beasts.json"
+}

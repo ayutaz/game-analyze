@@ -1,0 +1,27 @@
+{
+  "id": 862,
+  "title_jp": "バーサークボーイ",
+  "title_en": "Berserk Boy",
+  "developer": "BerserkBoy Games",
+  "publisher": "SMG Studio",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X|S",
+    "Xbox One"
+  ],
+  "genre": "Action-Platformer / Metroidvania-lite",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "ロックマン×ソニック×メトロイドヴァニアの16bitリバイバルとして2024年3月6日にSteam/Switchで発売、Steamレビュー97%『圧倒的好評』を獲得。OpenCriticでも88%の批評家が推薦する2024年トップクラスのアクションプラットフォーマー。",
+  "concept": "雷・炎・氷・風・土の5フォームに変身して高速戦闘と探索を楽しむ、16bit風ピクセルアートのアクション・プラットフォーマー＋ライトなメトロイドヴァニア。",
+  "target": "ロックマンX世代、ソニック・シャンティ等の高速2Dアクション好き、近年の16bitリバイバル系インディーを追うファン層。",
+  "slug": "berserk-boy",
+  "file": "data/games/862-berserk-boy.json"
+}

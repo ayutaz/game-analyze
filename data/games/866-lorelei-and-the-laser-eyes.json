@@ -1,0 +1,26 @@
+{
+  "id": 866,
+  "title_jp": "Lorelei and the Laser Eyes（ロレライ・アンド・ザ・レーザー・アイズ）",
+  "title_en": "Lorelei and the Laser Eyes",
+  "developer": "Simogo",
+  "publisher": "Annapurna Interactive",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5"
+  ],
+  "genre": "Narrative Puzzle / Mystery Adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "『Sayonara Wild Hearts』のSimogoがAnnapurna配給で送る方向転換作で、Twin Peaks的怪奇譚にメタ謎解きを編み込んだ独自世界観が海外メディアで絶賛され、IGF 2025のExcellence in Narrative部門にノミネートされるなどインディー謎解きの新指標として話題になった。",
+  "concept": "白黒モノクロームのシュルレアリスム美術館を舞台に、150以上の記号・言語パズルを解き明かしながら失踪と惨劇の真相に迫る一人称ミステリー・パズルアドベンチャー。",
+  "target": "『Return of the Obra Dinn』『The Witness』『Outer Wilds』のような知識ベースのパズル＆ミステリーを好み、David LynchやJorge Luis Borgesなど不条理芸術文脈にも親しむゲーマー。",
+  "slug": "lorelei-and-the-laser-eyes",
+  "file": "data/games/866-lorelei-and-the-laser-eyes.json"
+}

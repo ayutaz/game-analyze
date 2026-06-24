@@ -1,0 +1,27 @@
+{
+  "id": 839,
+  "title_jp": "Peglin",
+  "title_en": "Peglin",
+  "developer": "Red Nexus Games",
+  "publisher": "Red Nexus Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Pachinko Roguelike Deckbuilder",
+  "sales_jp": "—",
+  "sales_world": "Steam owners 1-2M（推定）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PeggleとSlay the Spireを掛け合わせた発想で「物理デッキビルダー」という独自ジャンルを確立。早期アクセスから高評価を維持し、モバイル移植やSwitch版でも好調なインディーヒットとなった。",
+  "concept": "Peggleの物理パチンコ落下とSlay the Spire式デッキ構築を融合したローグライト。オーブ＝カードを集め、ペグを破壊してダメージを与える独自設計。",
+  "target": "Slay the Spire系デッキビルダー愛好者と、Peggleのような物理アクションを好むカジュアル層の双方に刺さるクロスオーバー層。",
+  "slug": "peglin",
+  "file": "data/games/839-peglin.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 808,
+  "title_jp": "Shadow Corridor 2 雨ノ四葩",
+  "title_en": "Shadow Corridor 2: Mourning",
+  "developer": "kyaro",
+  "publisher": "kyaro",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Japanese stealth horror / 徘徊型ホラー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "和製徘徊ホラー『影廊 -Shadow Corridor-』の正統続編で、ランダム生成迷宮にカルタ（御札）システムによるリスク／リワード調整を加えた一作。Steam では Very Positive 評価を獲得し、国内 VTuber・ホラー実況者の配信を通じて 2024 年の和ホラーインディー復権の象徴的タイトルとして話題化した。",
+  "concept": "毎回構造が変わる和風の屋敷・参道・坑道を、御札（カルタ）で危険と引き換えに能力を得ながら徘徊する一人称ステルスホラー。",
+  "target": "『影廊』『零』『SIREN』など和製ホラーの徘徊・隠れる緊張感を好むプレイヤー、配信向けの怖がり実況コンテンツを求める視聴者層。",
+  "slug": "shadow-corridor-2-mourning",
+  "file": "data/games/808-shadow-corridor-2-mourning.json"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 822,
+  "title_jp": "エターナイツ",
+  "title_en": "Eternights",
+  "developer": "Studio Sai",
+  "publisher": "Studio Sai",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "アクションRPG × デートシム",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "韓国系米国人クリエイター Jae Hyung Lee 率いる Studio Sai（Seattle拠点）による個人寄りインディーで、ペルソナ式の昼パート（学園恋愛・絆育成）と夜パートのアクションRPGをポストアポカリプス設定で融合させ「終末ペルソナ」と話題化。K-indie DNA を日本式キャラRPG文法に翻訳した稀有な作家性で Steam で好評を獲得した。",
+  "concept": "終末世界を舞台に、デートシムと剣戟アクションRPGを統合した「Apocalypse Persona」型ハイブリッド。",
+  "target": "ペルソナ系のキャラ絆システムとアニメ調のシネマティック演出を好み、短尺で濃いインディーRPG体験を求めるプレイヤー。",
+  "slug": "eternights",
+  "file": "data/games/822-eternights.json"
+}

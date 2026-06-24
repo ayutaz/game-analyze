@@ -1,0 +1,27 @@
+{
+  "id": 859,
+  "title_jp": "Neva（ネバ）",
+  "title_en": "Neva",
+  "developer": "Nomada Studio",
+  "publisher": "Devolver Digital",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Action-Platformer / Atmospheric",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『GRIS』のNomada Studioによる新作で、息を呑む手描きアートと感情的なストーリーテリングが各メディアで絶賛。2024年The Game Awardsでアートディレクション部門にノミネートされ、アートゲームの新たな到達点として話題になった。",
+  "concept": "少女と相棒の狼\"Neva\"が四季の移ろいの中で絆を深めながら、荒廃していく幻想世界を旅する叙情的な2Dアクション・プラットフォーマー。",
+  "target": "『GRIS』『Journey』『Ori』など叙情的アートゲームを愛するプレイヤー、感情を揺さぶる短時間の物語体験を求める層。",
+  "slug": "neva",
+  "file": "data/games/859-neva.json"
+}

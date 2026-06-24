@@ -1,0 +1,29 @@
+{
+  "id": 903,
+  "title_jp": "ハウンティ",
+  "title_en": "Hauntii",
+  "developer": "Moonloop Games",
+  "publisher": "Firestoke",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "Cozy twin-stick ghost adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2色パレットの手描きアートと印象的なサウンドトラックで独自の世界観を確立し、Annapurna Interactive 配給の小品としてレビューサイトで高評価を獲得。オブジェクトに憑依するユニークな探索メカニクスがインディー界隈で注目された。",
+  "concept": "2色パレットの手描きアートで描かれる、オブジェクトに憑依しながら来世を旅する小さなお化けのツインスティック・アドベンチャー。",
+  "target": "手描きアートやアトモスフェリックな世界観を好むインディーゲーム愛好家、Annapurna 系作品のファン、コージーながらも探索と戦闘のあるアドベンチャーを求めるプレイヤー。",
+  "slug": "hauntii",
+  "file": "data/games/903-hauntii.json"
+}

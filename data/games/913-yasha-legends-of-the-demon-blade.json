@@ -1,0 +1,28 @@
+{
+  "id": 913,
+  "title_jp": "夜叉 〜レジェンド・オブ・ザ・デモン・ブレード〜",
+  "title_en": "Yasha: Legends of the Demon Blade",
+  "developer": "7QUARK",
+  "publisher": "Game Source Entertainment",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "ピクセル和風アクションローグライトRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "江戸期日本の妖怪伝承を浮世絵調ピクセルアートで描き、不死の忍シグレ／鬼の使者サラ／鬼武者タケトラの3主人公を切替えるアクション・ローグライトとして2025年5月のインディー注目作に。台湾7QUARKの和風美術と歯応えあるコンボ戦闘が海外メディアで高評価を獲得した。",
+  "concept": "浮世絵×ピクセルアートで描く江戸日本を舞台に、3主人公の物語を切替えて戦う2D和風アクション・ローグライト。",
+  "target": "Dead Cells / Hades 系ローグライト愛好家と、和風妖怪・侍・忍者の世界観に惹かれるアクションRPGファン。",
+  "slug": "yasha-legends-of-the-demon-blade",
+  "file": "data/games/913-yasha-legends-of-the-demon-blade.json"
+}

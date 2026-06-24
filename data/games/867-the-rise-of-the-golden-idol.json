@@ -1,0 +1,31 @@
+{
+  "id": 867,
+  "title_jp": "ライズ・オブ・ザ・ゴールデン・アイドル",
+  "title_en": "The Rise of the Golden Idol",
+  "developer": "Color Gray Games",
+  "publisher": "Playstack",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "iOS",
+    "Android"
+  ],
+  "genre": "Detective Puzzle / Deduction Adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "前作『The Case of the Golden Idol』の高評価を引き継ぐ続編で、2024年最も称賛された演繹パズルの一つ。Netflix Gamesでモバイル版が launch 同日配信され、購読者がスマホで遊べる点でも話題に。",
+  "concept": "『The Case of the Golden Idol』の続編。1970年代を舞台に、20の独立した推理パズルが一つの壮大な謎を形成する演繹推理アドベンチャー。",
+  "target": "前作ファンと、Return of the Obra Dinn / Her Story 系の演繹アドベンチャー愛好家。Netflix Games経由でモバイルからも入りやすい。",
+  "slug": "the-rise-of-the-golden-idol",
+  "file": "data/games/867-the-rise-of-the-golden-idol.json"
+}

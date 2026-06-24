@@ -1,0 +1,27 @@
+{
+  "id": 864,
+  "title_jp": "1000xレジスト",
+  "title_en": "1000xRESIST",
+  "developer": "Sunset Visitor",
+  "publisher": "Fellow Traveller",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "Narrative Adventure / Sci-Fi",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "バンクーバー在住の4人組（演劇・パフォーマンス出身）が制作したSF物語ADV。ディアスポラ、世代間トラウマ、パンデミック後社会を扱った作家性で高い評価を受け、ビデオゲームとして史上初めてPeabody Awardを受賞したことで話題に。",
+  "concept": "クローン少女「シスター」たちが、唯一の「オリジナル」アイコちゃんの記憶を追体験しながら、人類滅亡後の世界で千年にわたる支配と反抗の物語を紡ぐSF物語ADV。",
+  "target": "Disco ElysiumやKentucky Route Zeroのような文学・演劇志向の物語ゲームを好む層、ディアスポラ／アジア系移民の世代間体験を描いた作品に関心のある層。",
+  "slug": "1000xresist",
+  "file": "data/games/864-1000xresist.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 889,
+  "title_jp": "ロックダウン・プロトコル",
+  "title_en": "LOCKDOWN Protocol",
+  "developer": "Mirage Creative Lab",
+  "publisher": "Mirage Creative Lab",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "FPS Social Deduction",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "非対称",
+  "popularity": "Among Usを一人称視点・タスク制FPSへ翻案した最大16人のソーシャル・ディダクションで、2024年Early Access開始から配信者コミュニティで人気化。Voiceチャットと共有ロビーで生まれる嘘と推理の生々しさが評価され、Liar's BarやR.E.P.O.と並ぶ2024-2025年のsocial-deduction復権の中核となった。",
+  "concept": "Among Usを一人称FPSで再構築した16人マルチプレイヤー・ソーシャル・ディダクション。タスク制ステーションを舞台にインポスターと乗組員が嘘と銃で対峙する。",
+  "target": "Among Us / Liar's Bar / R.E.P.O.系のボイスチャット推理パーティーを好む配信者・友人グループ層。FPS操作に抵抗のないPCゲーマー向け。",
+  "slug": "lockdown-protocol",
+  "file": "data/games/889-lockdown-protocol.json"
+}

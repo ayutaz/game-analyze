@@ -1,0 +1,29 @@
+{
+  "id": 910,
+  "title_jp": "マト・アノマリーズ",
+  "title_en": "Mato Anomalies",
+  "developer": "Arrowiz",
+  "publisher": "Prime Matter",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "ターン制JRPG / ビジュアルノベル・ハイブリッド",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "ネオフューチャリスティック旧上海「マト」を舞台にした探偵×シャーマンのバディ調査ものとして、Shadow Hearts 系オカルトJRPG＋Persona風VNハイブリッドの座組がカルト的注目を集めた。Metacritic 60点台と評価は割れたが、アニメ調イラスト＋ピクセル風ダンジョン＋マインドハック・カードバトルという独自構成がインディーJRPG好事家の間で話題化した。",
+  "concept": "擬似的な旧上海を再構築したネオフューチャー都市マトを舞台に、探偵ドクと退魔師ガムが「アノマリー（異常）」と呼ばれるダンジョン化現象を調査するターン制RPG＋VN。会話劇とダンジョン探索を切り替えながら、心の中に潜入する「マインドハック」カードゲームで真相に迫る。",
+  "target": "Shadow Hearts / The World Ends with You / Persona 系のシティ探索JRPGや、東洋オカルト・ノワール世界観が好きなVN寄りのJRPGファン。短〜中尺（20-30時間）で完結するシングルプレイRPGを探すコアプレイヤー層。",
+  "slug": "mato-anomalies",
+  "file": "data/games/910-mato-anomalies.json"
+}

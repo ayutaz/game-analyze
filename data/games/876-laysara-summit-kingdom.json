@@ -1,0 +1,29 @@
+{
+  "id": 876,
+  "title_jp": "レイサラ：サミット・キングダム",
+  "title_en": "Laysara: Summit Kingdom",
+  "developer": "Quite OK Games",
+  "publisher": "Future Friends Games / Quite OK Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "Mountain city-builder / Management sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ポーランドの小規模スタジオQuite OK Gamesによるヒマラヤ風山岳都市ビルダー。3階級制の社会構造、雪崩・ロープ橋・ヤク輸送など垂直軸を活かした建築メカニクスが「Anno + Banished + 高度差」の新機軸として評価され、2024年早期アクセス開始時にSteam同時接続958人ピーク、2026年2月の1.0正式リリースでコンソール展開と15ミッションキャンペーンを追加。Steam「非常に好評」81%。",
+  "concept": "ヒマラヤ風の急峻な山肌に都市を建てる垂直軸の街づくりシム。3階級（平民・商人・僧侶）の住区を高度別に配置し、雪崩・物流・信仰経済を解きながら山頂寺院を目指す。",
+  "target": "Anno・Banished・Against the Stormなどの中量級シティビルダー愛好家、地形パズルとロジスティクス最適化を楽しむソロプレイヤー。",
+  "slug": "laysara-summit-kingdom",
+  "file": "data/games/876-laysara-summit-kingdom.json"
+}

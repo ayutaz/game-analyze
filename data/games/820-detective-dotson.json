@@ -1,0 +1,26 @@
+{
+  "id": 820,
+  "title_jp": "ディテクティブ・ドットソン",
+  "title_en": "Detective Dotson",
+  "developer": "Masala Games",
+  "publisher": "Masala Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Xbox Series X|S",
+    "Switch"
+  ],
+  "genre": "ボリウッド調コージー・ミステリーアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "インド発インディーとして初めて本格的にXbox Play Anywhere対応を実現したミステリーアドベンチャー。ストリートクリケットやボリウッド・ダンスバトルなどインド文化のミニゲームを取り込み、Pixar/EA/Prana 出身者によるスタジオが「現代インドのインディー文化輸出」枠の象徴として国際メディアで広く取り上げられた。",
+  "concept": "ボリウッドスターを夢見る青年ドットソンが父の謎の死を機に探偵となり、色彩豊かなインドの街を舞台に4つの事件を解いていく2D/3Dハイブリッドのコージー・ミステリー。",
+  "target": "トロピカル/エスニックな世界観のアドベンチャーゲームを好むプレイヤー、Disco Elysium や Return of the Obra Dinn のような物語駆動型インディー探偵もの愛好者、そしてインド・南アジア文化に関心のあるグローバルなインディーゲームファン。",
+  "slug": "detective-dotson",
+  "file": "data/games/820-detective-dotson.json"
+}

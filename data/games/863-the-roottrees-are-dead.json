@@ -1,0 +1,24 @@
+{
+  "id": 863,
+  "title_jp": "ザ・ルートツリーズ・アー・デッド",
+  "title_en": "The Roottrees are Dead",
+  "developer": "Jeremy Johnston / Evil Trout (Robin Ward)",
+  "publisher": "Robin Ward",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Detective / Investigation ADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2023年に無料ゲームジャム作品としてAI生成アートで公開され絶賛、2025年1月に手描きポートレートとボイス付きシネマティクスで完全リマスター版がSteam発売。PC Gamer UKに「exceptional detective game」と評され、Obra Dinn / Golden Idol系演繹ゲームの新定番として好評。",
+  "concept": "1990年代の家系図を調査して、亡くなったルートツリー家の正当な相続人を特定する演繹型ミステリーADV。Wikipedia風データベースと写真を駆使し、プレイヤー自身の推理力だけで真実に迫る。",
+  "target": "Return of the Obra Dinn / The Case of the Golden Idol を完走したミステリー・演繹ゲーム愛好家、家系図やリサーチ系パズルが好きなアドベンチャーゲームファン。",
+  "slug": "the-roottrees-are-dead",
+  "file": "data/games/863-the-roottrees-are-dead.json"
+}

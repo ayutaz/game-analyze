@@ -1,0 +1,24 @@
+{
+  "id": 878,
+  "title_jp": "プランB：テラフォーム",
+  "title_en": "Plan B: Terraform",
+  "developer": "Gaddy Games",
+  "publisher": "Gaddy Games",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Sci-fi Terraforming / Supply-chain Management Sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『Dig or Die』で25万本超を売ったソロ開発者の新作で、ヘックス惑星×物流最適化×大気・海洋シミュレーションという珍しい組み合わせがFactorio／Mindustry好きの間で話題に。Steamで「圧倒的に好評」を維持し、テラフォーミングsim系の隠れ名作として広がった。",
+  "concept": "ヘックス分割された惑星表面上に輸送網と工場チェーンを敷設し、大気組成・気温・海洋を制御してテラフォーミングを進めるサプライチェーン系シミュレーション。",
+  "target": "Factorio／Mindustry／Terra Invicta／Per Aspera のような自動化＋テラフォーミング系を好む、最適化と長期プランニングが好きなPCシム層。",
+  "slug": "plan-b-terraform",
+  "file": "data/games/878-plan-b-terraform.json"
+}

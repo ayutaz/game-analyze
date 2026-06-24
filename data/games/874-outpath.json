@@ -1,0 +1,24 @@
+{
+  "id": 874,
+  "title_jp": "Outpath (アウトパス)",
+  "title_en": "Outpath",
+  "developer": "David Moralejo Sánchez",
+  "publisher": "David Moralejo Sánchez",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Crafting / Clicker / Automation",
+  "sales_jp": "—",
+  "sales_world": "Steam owners 200K-500K (推定)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ソロ開発者がクラフト・クリッカー・自動化を融合させた変則ジャンルがForager / Satisfactory層に刺さり、無料前日譚『Outpath: First Journey』のwishlist戦略でEarly Access開始時に同接1万超を記録した近年型インディー成功例。",
+  "concept": "小さな浮遊島でリソースを集め、自動化で工場を拡張し、新たな島をアンロックしていくクラフト＋クリッカー＋自動化の融合型サンドボックス。",
+  "target": "Forager・Satisfactory・Dyson Sphere Programなどの自動化／クラフト系を好み、短いセッションでも進捗感を得られるクリッカー要素も歓迎するインディーサンドボックス愛好者。",
+  "slug": "outpath",
+  "file": "data/games/874-outpath.json"
+}

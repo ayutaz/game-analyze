@@ -1,0 +1,25 @@
+{
+  "id": 840,
+  "title_jp": "Shogun Showdown",
+  "title_en": "Shogun Showdown",
+  "developer": "Roboatino",
+  "publisher": "Roboatino",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Turn-based Deckbuilder Roguelite",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2024年9月の1.0リリース後、ピクセルアートと1次元グリッドの妙技、Into the Breach風の完全先読み戦闘が批評家から絶賛。Steam「非常に好評」を維持し、ターン制デッキビルド勢から高評価を集めている。",
+  "concept": "1次元グリッド上で刀剣チャンバラを繰り広げる、Into the Breach風先読み×デッキビルドのターン制ローグライト。",
+  "target": "Into the Breachや Slay the Spire 系のターン制ローグライト愛好家、和風ピクセルアートと先読みパズル戦闘を好むコアゲーマー。",
+  "slug": "shogun-showdown",
+  "file": "data/games/840-shogun-showdown.json"
+}

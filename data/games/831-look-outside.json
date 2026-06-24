@@ -1,0 +1,24 @@
+{
+  "id": 831,
+  "title_jp": "ルック・アウトサイド",
+  "title_en": "Look Outside",
+  "developer": "Francis Coulombe (FrankieSmileShow)",
+  "publisher": "Devolver Digital",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Survival Horror RPG (turn-based)",
+  "sales_jp": "—",
+  "sales_world": "200,000+ (2025-10時点、Gamalytic推定 ~330K)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2025年3月21日にDevolver Digitalがサプライズ・ドロップしたピクセルアート×ターン制サバイバルホラーRPG。「外を見た者がモンスターに変わる」設定の一棟アパート閉所サバイバルで、1989年『スウィートホーム』を下敷きにしたレトロ感とOMORI系の選択分岐・グロテスクなモンスターデザインが評価され、OpenCriticで批評家推薦率94%、Steamで「圧倒的に好評」、発売半年で20万本超を達成した。",
+  "concept": "外を覗くと怪物化する「外の何か」が起きた4階建てアパートで、主人公サムが住人と関わりながら脱出を試みるピクセルアート×ターン制サバイバルホラーRPG。",
+  "target": "『スウィートホーム』『OMORI』『LISA』系のレトロRPG×サイコホラーを好むインディーホラーRPG/JRPGファン、Chilla's Art系の日常侵食型ホラー愛好者。",
+  "slug": "look-outside",
+  "file": "data/games/831-look-outside.json"
+}

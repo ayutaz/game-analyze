@@ -1,0 +1,27 @@
+{
+  "id": 856,
+  "title_jp": "コンスタンス",
+  "title_en": "Constance",
+  "developer": "Blue Backpack",
+  "publisher": "ByteRockers' Games / PARCO GAMES",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "Metroidvania / 2D Action Adventure",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "手描き2Dメトロイドヴァニアで、絵筆を武器にしたペイント変身アクションと『Hollow Knight × Celeste』級のタイトなプラットフォーミングが評価され、2025年11月のSteam発売前にウィッシュリスト25万超、OpenCritic批評家97%推奨を獲得したサプライズヒット。リード開発者の燃え尽き体験を投影した、不安・抑うつ・孤独をテーマにする「メンタルヘルスを描くメトロイドヴァニア」として注目された。",
+  "concept": "絵筆を握る画家コンスタンスが、自身の崩れゆく心象世界（色彩豊かだが朽ちていく内面）から脱出を目指す手描き2Dメトロイドヴァニア。ペイント変身による壁登り・空中ダッシュなど絵筆ベースの探索とリズム重視のシビアなボス戦が特徴。",
+  "target": "『Hollow Knight』のタイトな探索戦闘と『Celeste』の高密度プラットフォーミングを好む2Dアクション層、および燃え尽きやメンタルヘルスを扱うナラティブインディーに関心のある層。",
+  "slug": "constance",
+  "file": "data/games/856-constance.json"
+}

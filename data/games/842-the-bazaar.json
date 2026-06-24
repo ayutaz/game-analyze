@@ -1,0 +1,24 @@
+{
+  "id": 842,
+  "title_jp": "The Bazaar",
+  "title_en": "The Bazaar",
+  "developer": "Tempo",
+  "publisher": "Tempo",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Asynchronous PvP Auto-battler / Roguelike Deckbuilder",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "元Hearthstoneプロ Reynad（Tempo Storm創設者）が約7年をかけて開発した「マルチプレイヤー版 Slay the Spire」。2024年クローズドβ・2025年3月オープンβを経て2025年8月13日にSteamで正式リリース、F2Pから$45のプレミアムモデルへの移行と当初の課金設計を巡る炎上・修正でTwitch配信文化と直結する形で大きな話題となった。",
+  "concept": "ショップフェーズでアイテムを買い揃え、対戦相手のビルドのスナップショットと非同期で自動戦闘させる、PvE探索とPvPランクが融合したオートバトラー・ローグライト・デッキビルダー。",
+  "target": "Hearthstone Battlegrounds / TFT / Slay the Spire / Super Auto Pets を遊んできた配信視聴層およびオートバトラー競技プレイヤー。",
+  "slug": "the-bazaar",
+  "file": "data/games/842-the-bazaar.json"
+}

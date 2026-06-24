@@ -1,0 +1,24 @@
+{
+  "id": 875,
+  "title_jp": "ファウンドリー",
+  "title_en": "FOUNDRY",
+  "developer": "Channel 3 Entertainment",
+  "publisher": "Paradox Interactive (Paradox Arc)",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "First-person voxel factory automation / sandbox sim",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Klei出身（Oxygen Not Included / Don't Starve Together）の元開発者が立ち上げたカナダ＋オーストリアの少人数スタジオが、Satisfactory／Factorioの系譜にvoxel地形＋FPS視点という独自軸を加えた自動化サンドボックスとして2024年5月にParadox Arc配給で早期アクセス開始。2023年Steam Next Festのデモ＋itch.ioアルファで10万人規模のプレイヤーを集め、自動化ジャンルの2024年注目作として話題に。",
+  "concept": "voxelで自由に地形を削り掘り、FPS視点で歩き回りながら工場を組み立てる「自分の手でラインを引く」感覚に特化した一人称ファクトリービルダー。SatisfactoryとMinecraftの中間に位置する自動化サンドボックス。",
+  "target": "Factorio／Satisfactory／Dyson Sphere Programなど自動化ジャンルを遊び尽くしたPCプレイヤー、voxel工作とロジスティクス最適化を同時に味わいたい設計型サンドボックス層。ソロ深掘りでも最大4人協力でも遊べる。",
+  "slug": "foundry",
+  "file": "data/games/875-foundry.json"
+}

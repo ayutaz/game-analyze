@@ -1,0 +1,27 @@
+{
+  "id": 810,
+  "title_jp": "CRYMACHINA（クライマキナ）",
+  "title_en": "CRYMACHINA",
+  "developer": "Aquria / FuRyu",
+  "publisher": "FuRyu / NIS America",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "Action RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "国産AA級ARPG『Crystar -クライスタ-』のスタッフ（作曲・ディレクター・脚本）が再集結した精神的続編。ポストアポカリプス世界で「人間になりたいメカニカル少女」を操るスタイリッシュ3DアクションがSteamで Very Positive（85% 686件以上）を獲得し、北米/欧州含めニッチながら堅実な海外支持を得た。",
+  "concept": "滅亡後の地球で、機械の体に魂を移植された少女たちが「真の人間性」を取り戻すために戦うポストアポカリプスARPG。Crystarの陰鬱で耽美な世界観をSF・メカニカル方向に再構築した一作。",
+  "target": "Crystarのファン、国産ダーク系ジュブナイル/耽美ARPG（NieR、エルシャダイ、ドラッグオンドラグーン系列）を好む層、AA級和ゲーARPGを掘るコア海外ファン層。",
+  "slug": "crymachina",
+  "file": "data/games/810-crymachina.json"
+}

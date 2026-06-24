@@ -1,0 +1,24 @@
+{
+  "id": 837,
+  "title_jp": "Tiny Rogues",
+  "title_en": "Tiny Rogues",
+  "developer": "RubyDev (Matthew Whyndham)",
+  "publisher": "RubyDev",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Bullet-hell Roguelite Dungeon Crawler",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "個人開発ながらEarly Access開始直後からSteamで圧倒的好評を維持し、弾幕アクション×デッキ構築的ビルドの中毒性で配信・SNSで話題化。34クラス500装備による組み合わせ爆発が「次の周」を引き出すロングテール人気を持つ。",
+  "concept": "Enter the Gungeonライクな弾幕アクションにSlay the Spire風のビルド構築と装備ドロップを融合させたミニチュア・ローグライト。34クラス・500以上の装備でランごとに異なる弾幕ビルドを組み上げる。",
+  "target": "Enter the Gungeon・Vampire Survivors・Slay the Spire等のローグライト/弾幕/ビルド構築好き。短時間で1ラン回せて装備シナジー探索に没頭したいソロプレイヤー。",
+  "slug": "tiny-rogues",
+  "file": "data/games/837-tiny-rogues.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 838,
+  "title_jp": "Megabonk",
+  "title_en": "Megabonk",
+  "developer": "Vedinad",
+  "publisher": "Vedinad",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "3D ローグライト・サバイバーズライク",
+  "sales_jp": "—",
+  "sales_world": "Steam同接ピーク約17万人（2025年9月）／発売後数週間で推定100万本超",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2025年9月18日にSteamで早期アクセスリリースされた個人開発の3D Vampire Survivors系ローグライト。発売直後にストリーマー経由でバイラル化し、垂直に伸びるステージ構造、ミーム的なキャラクター造形（巨大ハンマーを振るうデフォルメキャラ）、テンポの良いビルド構築が話題となり、Steam同接17万人超を記録した。",
+  "concept": "2D見下ろしが主流だったVS系を3D空間に再構築し、敵の波を縦横に駆け回りながら殲滅する高速ローグライト。短時間ランとミーム性で「次のVampire Survivors」と評される。",
+  "target": "Vampire Survivors / Brotato / Halls of Torment 系のオートシューター好き、ストリーマー文化に乗りやすいPCゲーマー、短時間で強くなる快感を求めるプレイヤー。",
+  "slug": "megabonk",
+  "file": "data/games/838-megabonk.json"
+}

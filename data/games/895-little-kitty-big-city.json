@@ -1,0 +1,29 @@
+{
+  "id": 895,
+  "title_jp": "リトル・キティ ビッグ・シティ",
+  "title_en": "Little Kitty, Big City",
+  "developer": "Double Dagger Studio",
+  "publisher": "Double Dagger Studio",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "Xbox Series X/S",
+    "Xbox One",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "Cozy open-world adventure / cat sandbox",
+  "sales_jp": "—",
+  "sales_world": "~1M+ (推定、Game Pass プレイ数含む)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "元Valveのデザイナー Matt T. Wood率いる小規模スタジオによる「迷子の子猫が街を冒険して家に帰る」コージーアドベンチャー。Xbox Game Pass / PC Game Pass 同時投入と、ストリーマー・SNSでの猫動画的バズで2024年5月のリリース直後から大ヒットし、Stray後のネコゲーム需要を捉えた代表作となった。",
+  "concept": "小さな子猫の視点で都市を彷徨い、住人を手助けしたり悪戯したりしながら家路を目指す、低ストレスの3Dオープンワールド・サンドボックス。",
+  "target": "Stray・あつ森系のコージーゲーム愛好者、猫好き、短時間で完走できる癒し系インディーを探すライト層、ストリーミング配信視聴者。",
+  "slug": "little-kitty-big-city",
+  "file": "data/games/895-little-kitty-big-city.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 881,
+  "title_jp": "フリントロック：ジ・シージ・オブ・ドーン",
+  "title_en": "Flintlock: The Siege of Dawn",
+  "developer": "A44 Games",
+  "publisher": "Kepler Interactive",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "Open-World Soulslike Action RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Ashenを手掛けたA44 Gamesの新作で、火縄銃・斧・魔法（フォックスの相棒エンキ）を組み合わせた3軸戦闘がElden Ring寄りの軽量オープンワールドソウルライクとして注目。発売がElden Ring DLC（Shadow of the Erdtree）直後となり話題が分散したものの、Day1からGame Pass入りでプレイヤー数を確保した。",
+  "concept": "銃と斧と魔法をリズミカルに繋ぐ「ガンソウル」型コンバットを核にした、コンパクトでテンポの良いオープンワールドソウルライク。",
+  "target": "死にゲーの達成感は欲しいがフロムソフトウェア系の重さは敬遠したい層、Ashenのアートスタイルを評価したプレイヤー、Game Pass経由でAA級アクションを試したいユーザー。",
+  "slug": "flintlock-the-siege-of-dawn",
+  "file": "data/games/881-flintlock-the-siege-of-dawn.json"
+}

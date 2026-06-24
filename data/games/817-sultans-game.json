@@ -1,0 +1,24 @@
+{
+  "id": 817,
+  "title_jp": "スルタンのゲーム",
+  "title_en": "Sultan's Game",
+  "developer": "Double Cross Studio",
+  "publisher": "2P Games",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ナラティブ・カードRPG / 資源管理アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "1,000,000+ (Steam, 2025年7月時点)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "2025年3月30日のSteam早期アクセス発売後、48時間で10万本、初週で25万本、7月までに100万本を突破した中国インディー史上最大級のヒット。性的支配・近親・同性関係などのタブーを正面から扱う千夜一夜物語モチーフのテキスト主導RPGで、「indie no more」と評され中国インディーの輸出転換点となった。",
+  "concept": "毎週4種類のカード（淫欲・奢侈・征服・殺戮）を引き、サルタンの残酷なゲームを生き延びる資源管理ナラティブRPG。選択次第で忠臣にも王殺しにも、邪神召喚者にもなる分岐物語。",
+  "target": "ダークでタブーなテーマを許容できるテキストアドベンチャー／カード型RPG愛好者、Disco Elysium や Cultist Simulator のような重厚な選択ナラティブを好む層。",
+  "slug": "sultans-game",
+  "file": "data/games/817-sultans-game.json"
+}

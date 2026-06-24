@@ -1,0 +1,25 @@
+{
+  "id": 901,
+  "title_jp": "カマエル：カエルの楽園",
+  "title_en": "Kamaeru: A Frog Refuge",
+  "developer": "Humble Reeds",
+  "publisher": "Armor Games Studios",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "Cozy frog sanctuary sim / Collection",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": "",
+  "popularity": "100種類超のカエル柄パターンを集めるブリード＆コレクションループがコージーゲーマーに刺さり、Steam で高評価を獲得。湿地再生というエコ要素と写真撮影モードがTwitter/Tumblr系のコミュニティで話題になった。",
+  "concept": "湿地を再生してカエルを育て、写真撮影しながら100種類以上の柄パターンを集めるブリーディング中心のコージーコレクションシム。",
+  "target": "コージーゲーム愛好家、収集・ブリーディング系（あつ森・どうぶつしょうぎ的）の癒し体験を求める層、写真撮影モード好き。",
+  "slug": "kamaeru-a-frog-refuge",
+  "file": "data/games/901-kamaeru-a-frog-refuge.json"
+}

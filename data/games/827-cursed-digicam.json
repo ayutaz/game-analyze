@@ -1,0 +1,24 @@
+{
+  "id": 827,
+  "title_jp": "呪われたデジカメ",
+  "title_en": "Cursed Digicam",
+  "developer": "Chilla's Art",
+  "publisher": "Chilla's Art",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "Photographic Horror / Japanese Mundane Horror",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Chilla's Artが本作でUE5に移行し「同スタジオ過去最高のグラフィック」と評価された、夜の公園で恋人の霊を撮影するFatal Frame系フォトホラー。日本の日常恐怖（Chilla's Art系）+ フォークホラー復権の流れを象徴する一作として配信者・実況界隈で注目を集めた。",
+  "concept": "夜の公園を歩きながらデジカメで恋人の霊を捉えていく、Fatal Frame系の写真撮影ホラー。Chilla's ArtのUE5移行第一弾として、これまでのPS1風ローファイ路線から一転、現代的なリアル質感の日本ホラーへと進化した。",
+  "target": "Chilla's Art作品のファン、零（Fatal Frame）系フォトホラーの愛好者、Japanese mundane horror / 都市伝説実況を好む配信視聴者層。",
+  "slug": "cursed-digicam",
+  "file": "data/games/827-cursed-digicam.json"
+}

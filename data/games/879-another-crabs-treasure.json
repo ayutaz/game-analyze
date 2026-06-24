@@ -1,0 +1,27 @@
+{
+  "id": 879,
+  "title_jp": "アナザークラブズトレジャー",
+  "title_en": "Another Crab's Treasure",
+  "developer": "Aggro Crab",
+  "publisher": "Aggro Crab",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "genre": "Underwater Soulslike Action-Adventure",
+  "sales_jp": "—",
+  "sales_world": "1M+ (Steam, 2024)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ヤドカリ主人公が海洋ゴミを「殻」として装備する奇抜なコンセプトと、難易度を細かく調整できるアクセシビリティ機能がSNSでバイラル化。発売1ヶ月でSteamだけで100万本超の販売を記録し、インディーソウルライクの代表例として高評価を得た。",
+  "concept": "ヤドカリの少年クラブが故郷を取り戻すため、ゴミだらけの海底世界を貝殻装備で戦い抜く海中ソウルライク。",
+  "target": "ソウルライクを遊びたいが超高難易度に怯んでいた層、可愛い見た目とブラックユーモアを両立した作品を求めるインディーファン。",
+  "slug": "another-crabs-treasure",
+  "file": "data/games/879-another-crabs-treasure.json"
+}

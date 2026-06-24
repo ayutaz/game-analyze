@@ -1,0 +1,23 @@
+{
+  "id": 858,
+  "title_jp": "バイオニックベイ",
+  "title_en": "Bionic Bay",
+  "developer": "Mureena Oy / Psychoflow Studio",
+  "publisher": "Kepler Interactive",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5"
+  ],
+  "genre": "Puzzle Platformer (Physics-Based)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "緻密なピクセルアートと物理演算ベースの「Swap（オブジェクトと位置交換）」「ChronoLag（時間減速）」「重力反転」「テレキネシス」を組み合わせた精密プラットフォーマー。グローバルリーダーボードを使ったオンラインレース機能でスピードラン界隈に火を付け、2025年4月発売直後から「Inside以来の物理パズル進化形」として高評価を獲得した。",
+  "concept": "古代バイオメカニカル世界を脱出する科学者を操る、Swap/ChronoLag/重力反転の物理ギミックを駆使する2Dパズルプラットフォーマー。",
+  "target": "Limbo/Inside系の重厚な雰囲気ピクセル・プラットフォーマーやN++のような精密操作ゲームのファン、スピードラン愛好家。",
+  "slug": "bionic-bay",
+  "file": "data/games/858-bionic-bay.json"
+}

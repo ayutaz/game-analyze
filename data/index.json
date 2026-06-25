@@ -3027,9 +3027,7 @@
       "popularity": "昼ダイブ夜寿司屋のループ、日本文化リスペクトでSNS拡散",
       "concept": "昼は海中ダイブで魚を捕り、夜は寿司屋を経営する二層ループ型インディー。アクション・経営・ローグライト要素を短時間サイクルに圧縮し、ジャパニーズカルチャーを誇張表現で再構成した韓国産ハイブリッド。",
       "target": "20-40代のインディー好き、寿司・日本食文化に親しむ国内外プレイヤー。短時間で区切れる携帯機プレイを好むSwitchユーザー層と相性が良い。",
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/135-dave-the-diver.json"
     },
     {
@@ -3270,9 +3268,7 @@
       "popularity": "中国産AAAの社会現象、Steam同接250万",
       "concept": "中国神話「西遊記」を原典としたシングルプレイ・ソウルライク系アクション。中国産初の本格AAAタイトルとして、フォトリアル映像と東洋意匠の融合で世界市場に参入した。",
       "target": "20-40代のコアアクションファン、特にソウルライクや中国・東洋ファンタジー文脈を好む層。海外比率が高く国内はPC勢中心。",
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/145-black-myth-wukong.json"
     },
     {
@@ -4220,9 +4216,7 @@
       "popularity": "20世紀レトロ美術と英語音声、女性向け雰囲気ガチャの新潮流",
       "concept": "中国Bluepochによる「20世紀各年代を旅する神秘主義RPG」。アール・デコ調ビジュアルと英語ボイスを軸に、HoYoverse以外の中国ガチャに地歩を築いた雰囲気特化型。",
       "target": "20-30代、特に女性層とアート・洋画・オカルト趣味を好むサブカル層。HoYoverse以外のガチャを探す層。",
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/185-reverse-1999.json"
     },
     {
@@ -4246,9 +4240,7 @@
       "popularity": "著名アーティスト起用の楽曲とイラストで話題化",
       "concept": "放置系RPGに著名ボカロP・アーティストのキャラ別楽曲とイラストを組み合わせた「楽曲ガチャ」型タイトル。低操作負荷のオートバトルと収集要素で、世界観・キャラ消費を主軸に据える。",
       "target": "放置系・キャラ収集系モバイルゲーム経験のある18-34歳が中心（全体の70%超）。ボカロ・サブカル系音楽ファンや、低拘束で美少女キャラを集めたい層。",
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/186-memento-mori.json"
     },
     {
@@ -8407,9 +8399,7 @@
       "popularity": "Funcom's flagship survival sandbox; massive base-building and slavery/thrall systems set a new mature-survival benchmark.",
       "concept": null,
       "target": null,
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/352-conan-exiles.json"
     },
     {
@@ -9240,9 +9230,7 @@
       "popularity": "Atmospheric bayou bounty-hunter extraction shooter; the longest-running successful extraction FPS besides Tarkov.",
       "concept": null,
       "target": null,
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/386-hunt-showdown-1896.json"
     },
     {
@@ -11775,9 +11763,7 @@
       "popularity": "Remaster of the 'But can it run Crysis?' GPU-melter that defined a generation of PC benchmarking.",
       "concept": null,
       "target": null,
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/490-crysis-remastered.json"
     },
     {
@@ -13491,9 +13477,7 @@
       "popularity": "Quantic Dream's defining branching crime drama, ported to PC in 2019 via Epic, Steam 2020 — a foundational interactive film.",
       "concept": null,
       "target": null,
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/561-heavy-rain.json"
     },
     {
@@ -16787,9 +16771,7 @@
       "popularity": "The most-funded crowdfunded project in history; despite never releasing, runs a persistent universe with hundreds of thousands of paying players.",
       "concept": null,
       "target": null,
-      "tags": [
-        "indie"
-      ],
+      "tags": [],
       "file": "data/games/697-star-citizen.json"
     },
     {

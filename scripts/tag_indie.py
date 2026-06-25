@@ -271,6 +271,15 @@ MAJOR_PUBLISHERS_RAW = [
     "Gearbox Publishing",
     "Frontier Developments",
     "Behaviour Interactive",
+    # self-published だが規模・予算が AAA 相当で indie とは呼べない単発スタジオ
+    "Game Science",          # 黒神話：悟空（予算 ~$70M、Tencent 出資）
+    "Bluepoch",              # リバース：1999（中華中堅、$300M+）
+    "Bank of Innovation",    # メメントモリ（東証上場、$180M+）
+    "MINTROCKET", "Mintrocket",  # デイヴ・ザ・ダイバー（Nexon 内部レーベル）
+    "Funcom",                # Conan Exiles / Dune Awakening（Tencent 子会社）
+    "Crytek",                # Crysis / Hunt: Showdown（CryEngine 開発元、AAA）
+    "Quantic Dream",         # Heavy Rain / Detroit（NetEase 子会社）
+    "Cloud Imperium Games",  # Star Citizen（クラファン $1B+、AAA）
 ]
 
 # インディー専門 publisher（allowlist）— 配下作品は indie とみなす

@@ -1,0 +1,31 @@
+{
+  "id": 1943,
+  "title_jp": "星空のメモリア -Wish upon a shooting star-",
+  "title_en": "Hoshizora no Memoria -Wish upon a Shooting Star-",
+  "developer": "FAVORITE",
+  "publisher": "FAVORITE",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "中堅エロゲメーカー FAVORITE の代表作。シナリオライター中弘の評価が高く、2ch ベストエロゲ 2009 で 5 位を獲得。ファンディスク・コンプリート版・HD リマスター・英語版（Sekai Project / Steam 2017）と長期間にわたり再販されている。",
+  "concept": "高校の天文部を舞台にした学園恋愛 AVN。星にまつわる願いと記憶をモチーフに、ヒロインたちとの交流と過去の回想を幻想的なファンタジー仕立てで描く。",
+  "target": "PC アダルトビジュアルノベルを嗜む 18 歳以上の男性プレイヤー。学園もの・天文・幼馴染・ファンタジー要素のあるしっとり系シナリオを好む層。",
+  "slug": "hoshizora-no-memoria-wish-upon-a-shooting-star",
+  "file": "data/games/1943-hoshizora-no-memoria-wish-upon-a-shooting-star.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%A9%BA%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2_-Wish_upon_a_shooting_star-",
+    "https://en.wikipedia.org/wiki/Hoshizora_no_Memoria",
+    "https://store.steampowered.com/app/715580/Hoshizora_no_Memoria_Wish_upon_a_Shooting_Star_HD/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/HoshizoraNoMemoria"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

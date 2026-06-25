@@ -1,0 +1,39 @@
+{
+  "id": 1152,
+  "title_jp": "Sky 星を紡ぐ子どもたち",
+  "title_en": "Sky: Children of the Light",
+  "developer": "thatgamecompany",
+  "publisher": "thatgamecompany",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "PC",
+    "Mac"
+  ],
+  "genre": "ソーシャル・アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "300M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "『風ノ旅ビト』thatgamecompany 制作の MMO 風ソーシャルアドベンチャーで、5 年で累計 2.6 億 DL、2025 年には 3 億 DL を突破。見知らぬプレイヤーと無言で手を繋ぎ蝋燭を分け合う優しい体験が SNS で話題となり、シーズンごとに有名 IP（さよならジュピター、宮崎駿風の世界観等）とコラボして長期運営している。",
+  "concept": "争いのない世界で見知らぬ他者と手を繋ぎ、光（蝋燭）を分け合って空を旅する MMO 風ソーシャルアドベンチャー。テキストではなく身振りと音楽だけでコミュニケーションし、優しさを贈り合うこと自体がゲームの目的になっている。",
+  "target": "10-40 代の男女、特に女性層と非ゲーマー層、ライトな共感型コミュニケーションを求める層。『風ノ旅ビト』の体験をスマホで持ち歩きたい層、競争のない癒し系オンライン体験を求める層。",
+  "slug": "sky-children-of-the-light",
+  "file": "data/games/1152-sky-children-of-the-light.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sky:_Children_of_the_Light",
+    "https://www.kitguru.net/gaming/mustafa-mahmoud/sky-children-of-the-light-surpasses-300-million-downloads-as-thatgamecompany-celebrates-20th-anniversary/",
+    "https://ja.wikipedia.org/wiki/Sky_%E6%98%9F%E3%82%92%E7%B4%A1%E3%81%90%E5%AD%90%E3%81%A9%E3%82%82%E3%81%9F%E3%81%A1",
+    "https://gamemakers.jp/article/2024_09_24_75663/",
+    "https://ipmag.skettt.com/detail/thatgamecompany-interview"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

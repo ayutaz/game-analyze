@@ -1,0 +1,30 @@
+{
+  "id": 1577,
+  "title_jp": "ゴッド・オブ・ウォーII 終焉への序曲",
+  "title_en": "God of War II",
+  "developer": "SCE Santa Monica",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2007,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー / ハック&スラッシュ",
+  "sales_jp": "—",
+  "sales_world": "4.24M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS2 末期の集大成として「PS2 ハードの限界を引き出した」と絶賛された一作。海外メディアでも GOTY 級評価を受け、PS2 世代を象徴するハイエンドアクションとして語り継がれている。",
+  "concept": "ギリシャ神話を舞台に、神々への復讐に燃えるクレイトスを操作してオリンポスに挑むハック&スラッシュ。クイックタイムイベントを絡めた残虐な決め技と巨大なボス戦、シネマティックな演出を融合させた「シネマティック・アクション」のテンプレートを完成させた。",
+  "target": "PS2 世代の硬派アクション好き、神話・ダークファンタジー題材に惹かれる成人男性層、過剰なまでの暴力表現とスケール感を好むコアゲーマー。",
+  "slug": "god-of-war-ii",
+  "file": "data/games/1577-god-of-war-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/God_of_War_II",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BCII_%E7%B5%82%E7%84%89%E3%81%B8%E3%81%AE%E5%BA%8F%E6%9B%B2",
+    "https://www.vgchartz.com/game/6078/god-of-war-ii/",
+    "https://www.famitsu.com/game/title/1339/reviews"
+  ]
+}

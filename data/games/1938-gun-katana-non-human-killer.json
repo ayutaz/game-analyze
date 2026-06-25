@@ -1,0 +1,32 @@
+{
+  "id": 1938,
+  "title_jp": "GUN-KATANA -Non Human Killer-",
+  "title_en": "Gun-Katana: Non Human Killer",
+  "developer": "Black Cyc",
+  "publisher": "Black Cyc",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "FPSアクション×アダルトアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "アダルトゲーム初のFPSアクションを謳い、ガンと刀を一人称視点で振るう異色作として話題に。ブラックサイクの実験的タイトルとして語り継がれている。",
+  "concept": "「NON-HUMAN」と呼ばれる人型生命体を狩る戦闘員「Slayer」となり、銃と刀を融合させた一人称アクションでバトルを繰り広げる。アドベンチャーパートで物語を進め、FPSパートで実際に戦うハイブリッド構成。",
+  "target": "ブラックサイク作品やダーク系アダルトADVを好む層、加えてエロゲでありながらアクションを遊びたいニッチな男性ユーザー層。",
+  "slug": "gun-katana-non-human-killer",
+  "file": "data/games/1938-gun-katana-non-human-killer.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/GUN-KATANA%EF%BC%88%E9%8A%83%E5%88%80%EF%BC%89_%E2%80%95Non-Human-Killer%E2%80%95",
+    "https://gamefaqs.gamespot.com/pc/939605-gun-katana-non-human-killer",
+    "https://www.vgchartz.com/game/51584/gun-katana-non-human-killer/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

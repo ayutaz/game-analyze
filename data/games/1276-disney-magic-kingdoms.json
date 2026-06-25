@@ -1,0 +1,36 @@
+{
+  "id": 1276,
+  "title_jp": "ディズニー マジックキングダム",
+  "title_en": "Disney Magic Kingdoms",
+  "developer": "Gameloft",
+  "publisher": "Gameloft",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "テーマパーク経営シミュレーション/コレクション",
+  "sales_jp": "200万DL+ (2017年4月時点)",
+  "sales_world": "100M+ DL / 累計収益 $200M 規模",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ディズニー/ピクサーの人気キャラクターと有名アトラクションを「自分のパーク」に呼び寄せて並べていく公式 IP モバイル。新作映画公開に合わせたイベント更新で長期運営。",
+  "slug": "disney-magic-kingdoms",
+  "file": "data/games/1276-disney-magic-kingdoms.json",
+  "concept": "Gameloft 公式の F2P テーマパーク経営シム。ディズニー/ピクサー作品のキャラとアトラクションを解放・配置して自分だけの Magic Kingdom を作り、イベントで限定キャラを集めるコレクション主導のループ。",
+  "target": "10-40代のディズニー/ピクサー IP ファン、特に女性層と親子層。重課金 PvP よりもキャラ収集とパーク装飾の自己表現を楽しみたい層に強い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Disney_Magic_Kingdoms",
+    "https://venturebeat.com/games/disney-magic-kingdoms-has-over-114-million-in-revenue-70-million-downloads/",
+    "https://www.gameloft.com/newsroom/disney-magic-kingdoms-reaches-100-million-in-revenue-4304",
+    "https://www.gamer.ne.jp/news/201704170034/",
+    "https://www.disney.co.jp/games/dmkd"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

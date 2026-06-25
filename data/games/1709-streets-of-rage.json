@@ -1,0 +1,26 @@
+{
+  "id": 1709,
+  "title_jp": "ベア・ナックル 怒りの鉄拳",
+  "title_en": "Streets of Rage",
+  "developer": "Sega",
+  "publisher": "Sega",
+  "year": 1991,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ベルトスクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "2.6M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "メガドライブ初期のキラータイトルの一つ。古代祐三のクラブミュージック調 BGM と 2 人協力プレイで「ファイナルファイト」に対抗する家庭用ベルトスクロールの代表作となり、後年シリーズ化・リバイバル（Streets of Rage 4）へつながる原点として再評価されている。",
+  "concept": "暴力に支配された街を 3 人のうちいずれかの元刑事キャラで歩き、ストリートの不良・ヤクザを殴り倒していくベルトスクロール格闘アクション。「2 人同時プレイ」と古代祐三のテクノ BGM をフックに、家庭用機でアーケード級の爽快感を体験させることをコンセプトとする。",
+  "target": "メガドライブを所有していた当時の中高生男子層が中核。アーケードのベルトスクロール（ファイナルファイト等）を家で 2 人協力で遊びたかった層、および 90 年代 16-bit リバイバル文脈で再評価する現代のレトロゲーマー。",
+  "slug": "streets-of-rage",
+  "file": "data/games/1709-streets-of-rage.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Streets_of_Rage",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A2%E3%83%BB%E3%83%8A%E3%83%83%E3%82%AF%E3%83%AB_%E6%80%92%E3%82%8A%E3%81%AE%E9%89%84%E6%8B%B3"
+  ]
+}

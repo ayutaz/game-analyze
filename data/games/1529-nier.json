@@ -1,0 +1,31 @@
+{
+  "id": 1529,
+  "title_jp": "ニーア レプリカント / ゲシュタルト",
+  "title_en": "NieR",
+  "developer": "Cavia",
+  "publisher": "Square Enix",
+  "year": 2010,
+  "platform": [
+    "PS3",
+    "Xbox 360"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "134K+",
+  "sales_world": "500K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "横尾太郎のディレクションによるカルト的人気作。周回プレイで明らかになる多重エンディング構造と、岡部啓一の音楽が一部熱狂的ファンを生み、後の『NieR:Automata』大ヒットへの伏線となった。",
+  "slug": "nier",
+  "file": "data/games/1529-nier.json",
+  "concept": "「人類が滅びかけた遠未来で、病に侵された妹（娘）を救うために旅する男」を主軸に、周回ごとに視点と情報が書き換わるメタ構造の物語型アクションRPG。日本ではPS3版『レプリカント』（若い兄）とXbox360版『ゲシュタルト』（壮年の父）の二本立てで発売された。",
+  "target": "シナリオ・音楽・世界観重視のJRPGファン、特に救いのない物語や哲学的テーマに惹かれる20-40代層。後年『NieR:Automata』から入って原典を遡るファンも多い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Nier",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%82%A2_%E3%82%B2%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AB%E3%83%88/%E3%83%AC%E3%83%97%E3%83%AA%E3%82%AB%E3%83%B3%E3%83%88",
+    "https://www.famitsu.com/news/202004/22196863.html",
+    "https://www.jp.square-enix.com/company/ja/news/2010/html/b5feb52271a1b78a72c6e53ce04ba1c8.html"
+  ]
+}

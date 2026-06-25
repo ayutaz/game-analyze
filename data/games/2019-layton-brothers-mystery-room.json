@@ -1,0 +1,31 @@
+{
+  "id": 2019,
+  "title_jp": "レイトンブラザーズ・ミステリールーム",
+  "title_en": "Layton Brothers: Mystery Room",
+  "developer": "Level-5",
+  "publisher": "Level-5",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "推理アドベンチャー/パズル",
+  "sales_jp": "—",
+  "sales_world": "1M+ downloads",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "レイトン教授シリーズ初のスマホ専用スピンオフとして話題化。エルシャール・レイトンの息子アルフェンディと新人捜査官ルーシーが密室事件を解くスコットランドヤード「ミステリールーム」課を舞台に、章ごと課金で配信。国内外で 100 万 DL を突破した。",
+  "concept": "レイトン教授シリーズの世界観を引き継いだ密室事件特化型の推理アドベンチャー。証拠収集→推理→尋問の 3 段階で犯人を追い詰める章構成のミステリーで、iOS / Android にフィットするタッチ操作と短い 1 話完結ストーリーに再設計されている。",
+  "target": "レイトン教授シリーズのファン、推理小説／ミステリードラマ好きの層、通勤通学のスキマ時間に章単位で物語を楽しみたいスマホユーザー。",
+  "slug": "layton-brothers-mystery-room",
+  "file": "data/games/2019-layton-brothers-mystery-room.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Layton_Brothers:_Mystery_Room",
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%E3%83%BB%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0",
+    "https://www.layton.jp/sp/mysteryroom/",
+    "https://apps.apple.com/us/app/layton-brothers-mystery-room/id640517092"
+  ]
+}

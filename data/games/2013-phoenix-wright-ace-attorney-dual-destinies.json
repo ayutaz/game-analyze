@@ -1,0 +1,35 @@
+{
+  "id": 2013,
+  "title_jp": "逆転裁判5",
+  "title_en": "Phoenix Wright: Ace Attorney - Dual Destinies",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2013,
+  "platform": [
+    "3DS",
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "法廷ビジュアルノベル/アドベンチャー",
+  "sales_jp": "250K+ (初週)",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ブランク7年を経たナンバリング復活作。3DSでフル3D化・成歩堂復帰・新キャラ希月心音の「ココロスコープ」導入で話題となり、日本初週25万本超で週間1位を獲得した。",
+  "concept": "成歩堂龍一が弁護士に復帰し、新人弁護士・希月心音と共に「暗黒の法曹界」と呼ばれる時代の難事件に挑む法廷ADV。心音の能力で証人の感情のゆらぎを読み取る「ココロスコープ」が新システム。",
+  "target": "シリーズファンと、ミステリ・推理ADV好きの10-40代男女。アニメ調キャラと法廷バトルの掛け合いを物語として楽しみたい層。",
+  "slug": "phoenix-wright-ace-attorney-dual-destinies",
+  "file": "data/games/2013-phoenix-wright-ace-attorney-dual-destinies.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Dual_Destinies",
+    "https://www.vgchartz.com/game/74844/phoenix-wright-ace-attorney-dual-destinies/",
+    "https://capcom.fandom.com/wiki/Phoenix_Wright:_Ace_Attorney_-_Dual_Destinies"
+  ]
+}

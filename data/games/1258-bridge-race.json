@@ -1,0 +1,31 @@
+{
+  "id": 1258,
+  "title_jp": "ブリッジレース",
+  "title_en": "Bridge Race",
+  "developer": "Garawell Games",
+  "publisher": "Supersonic Studios (Unity)",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "ハイパーカジュアル/レース",
+  "sales_jp": "—",
+  "sales_world": "600M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "非同期",
+  "popularity": "data.ai 集計で 2021・2022 年の世界最多 DL ハイパーカジュアルゲームに。iOS / Google Play 双方で米国 1 位を獲得し、累計 6 億 DL 超を記録。",
+  "concept": "色付きブロックを集めて自分の橋を架け、相手より先に頂上を目指すラストマン・スタンディング型ハイパーカジュアル。短時間で完結する 3D 競争レースに「ブロック収集→橋掛け→相手から奪う」の三位一体ループを組み込んだ点が新規性。",
+  "target": "スマホで数分の隙間時間に遊びたいライト層・通勤通学層。広告ベースで誰でも無料で触れるため、コアゲーマーよりも非ゲーマー層・低年齢層が中心。",
+  "slug": "bridge-race",
+  "file": "data/games/1258-bridge-race.json",
+  "_source_urls": [
+    "https://blog.unity.com/games/bridge-race-becomes-most-downloaded-hyper-casual-game-with-supersonic",
+    "https://supersonic.com/learn/case-studies/bridge-race",
+    "https://www.pocketgamer.biz/interview/76529/bridge-race-supersonic/",
+    "https://play.google.com/store/apps/details?id=com.Garawell.BridgeRace&hl=en_US",
+    "https://apps.apple.com/jp/app/bridge-race/id1543845882"
+  ]
+}

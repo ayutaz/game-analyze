@@ -1,0 +1,32 @@
+{
+  "id": 2044,
+  "title_jp": "√Letter ルートレター Last Answer",
+  "title_en": "Root Letter: Last Answer",
+  "developer": "Kadokawa Games",
+  "publisher": "Kadokawa Games / PQube",
+  "year": 2018,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ミステリーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown (シリーズ 500K+ の一部)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "島根県全面協力のご当地ミステリー第1作のリメイク。実写ドラマモード（出演者90名）追加と『解明編』4本の新規シナリオで再注目を集めた。",
+  "concept": "15年前の文通相手を探して島根県出雲を巡るミステリーアドベンチャー。原作のイラスト版に加え、実写映像で構成された『ドラマモード』と物語の後日譚『解明編』を新規収録したリマスター。",
+  "target": "ビジュアルノベル・ご当地ミステリー好きの大人向け層。原作未プレイ層に加え、実写映像によるドラマ的演出に惹かれるサスペンス・推理ファン。",
+  "slug": "root-letter-last-answer",
+  "file": "data/games/2044-root-letter-last-answer.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Root_Letter",
+    "https://www.gematsu.com/2018/09/root-letter-last-answer-first-details-screenshots",
+    "https://www.4gamer.net/games/429/G042902/20181124008/",
+    "https://www.r-letter.com/",
+    "https://store.playstation.com/ja-jp/product/JP0117-CUSA13748_00-ROOTLETTERLAST00"
+  ]
+}

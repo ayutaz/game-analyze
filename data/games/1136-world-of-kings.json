@@ -1,0 +1,35 @@
+{
+  "id": 1136,
+  "title_jp": "World of Kings",
+  "title_en": "World of Kings",
+  "developer": "ZLOONG Games",
+  "publisher": "ZLOONG Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG（西洋ファンタジー）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "中国 ZLOONG が手掛けた World of Warcraft インスパイア型のスマホ MMORPG。Unity 製シームレスマップ 26km² と 6 種族 30 上位クラス、20v20 バトルグラウンドやギルド戦を売りに 2019 年 5 月にグローバル配信。",
+  "slug": "world-of-kings",
+  "file": "data/games/1136-world-of-kings.json",
+  "concept": "PC MMO の体験（種族・クラス選択、レイド、PvP バトルグラウンド、ギルド戦）をそのままスマホに移植した「ポケット WoW」的なフル機能 MMORPG。シームレスな広大マップとパーティ・レイド・大規模 PvP を片手で回せることが価値。",
+  "target": "World of Warcraft や黒い砂漠など PC MMO 経験者で、スマホでも本格的なレイド・PvP・ギルド戦を楽しみたい 20-40 代男性層が中心。中華・東南アジア・欧米英語圏で広く配信されたが日本国内では小規模。",
+  "_source_urls": [
+    "https://wok.zloong.com/",
+    "https://play.google.com/store/apps/details?id=com.zloong.eu.wok&hl=en",
+    "https://mmos.com/review/world-of-kings",
+    "https://massivelyop.com/2019/05/14/mobile-mmorpg-world-of-kings-enters-open-beta-on-may-30/",
+    "https://apps.apple.com/us/app/world-of-kings/id1459341091"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

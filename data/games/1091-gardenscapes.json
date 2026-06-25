@@ -1,0 +1,37 @@
+{
+  "id": 1091,
+  "title_jp": "ガーデンスケイプ",
+  "title_en": "Gardenscapes",
+  "developer": "Playrix",
+  "publisher": "Playrix",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac",
+    "Browser"
+  ],
+  "genre": "マッチ3パズル/庭園デコレーション",
+  "sales_jp": "—",
+  "sales_world": "600M+ DL / 累計$3B+ 収益",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "執事オースティンと荒れた庭園を修復するマッチ3パズルが世界的に大ヒット。Facebookが2016年のGame of the Yearに選出し、配信初日にApp Storeで100万DL超を記録。誤解を招くファルス広告（pull-the-pin型）でSNS論争を巻き起こしつつ、累計DL6億超・累計収益30億ドル超に到達した。",
+  "concept": "「マッチ3パズルをクリアするとコインが貯まり、それを使って荒れ果てた屋敷の庭園を少しずつ蘇らせる」というメタ進行型カジュアルゲーム。パズルそのものの面白さと、装飾・収集による所有欲を二重化したことで、女性層・非ゲーマー層を一気に取り込んだPlayrix Scapesシリーズの代表作。",
+  "target": "30-50代女性を中心としたカジュアル層、特にスマホでスキマ時間に達成感を得たいユーザー。マッチ3パズルの「揃える快感」と庭園デコレーションの「飾る楽しさ」をセットで味わいたい層に強い。",
+  "slug": "gardenscapes",
+  "file": "data/games/1091-gardenscapes.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Gardenscapes:_New_Acres",
+    "https://sensortower.com/blog/gardenscapes-three-billion-revenue",
+    "https://www.businessofapps.com/data/gardenscapes-statistics/",
+    "https://ja.wikipedia.org/wiki/Gardenscapes"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

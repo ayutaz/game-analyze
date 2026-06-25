@@ -1,0 +1,33 @@
+{
+  "id": 2096,
+  "title_jp": "ランス・クエスト",
+  "title_en": "Rance Quest",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルト3DダンジョンRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ランスシリーズ本編第8作（Rance VIII）として2011年に発売。戦国ランスの直接的続編で、2012年に追加要素を加えた「ランス・クエスト マグナム」、2021年には MangaGamer による公式英訳版が発売され国外でも認知が広がった。",
+  "concept": "シルにかけられた呪いを解く手がかりを求めて大陸に戻ったランスが、多数の仲間キャラクターを率いて3Dダンジョンを攻略する一人称視点ターン制RPG。戦国ランスや闘神都市3の要素を取り込み、大量のクエストとキャラクター個別ストーリーで構成されている。",
+  "target": "ランスシリーズ既存ファンとアリスソフトファンを中心とした18禁PCゲーム層。キャラクター収集と仲間育成、長時間のダンジョン探索RPGを好む成人男性プレイヤー向け。",
+  "slug": "rance-quest",
+  "file": "data/games/2096-rance-quest.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://alicesoft.miraheze.org/wiki/Rance_Quest"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

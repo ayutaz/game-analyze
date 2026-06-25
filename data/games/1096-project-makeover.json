@@ -1,0 +1,36 @@
+{
+  "id": 1096,
+  "title_jp": "プロジェクト・メイクオーバー",
+  "title_en": "Project Makeover",
+  "developer": "Magic Tavern",
+  "publisher": "Magic Tavern",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/メイクオーバー・カジュアル",
+  "sales_jp": "—",
+  "sales_world": "210M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "マッチ3パズルとメイクオーバー（ファッション/インテリア改造）を融合させ、2020年11月リリース直後に160か国以上で無料パズル&シミュレーションランキング1位を獲得。SNSやアプリ内広告での「ダメ男を改造する」誇張広告が話題化し、累計2.1億DL超のメガヒットに。",
+  "concept": "match-3パズルで通貨を稼ぎ、ダサい依頼人のファッション・ヘア・メイク・部屋をビフォーアフター式に改造していくカジュアルゲーム。パズルの達成感と「ビフォーアフター」のカタルシスをループ化し、選択式ストーリーで物語も楽しめる。",
+  "target": "20-40代女性中心、ライトカジュアル層。スキマ時間にパズルを解きながら、ファッションコーデやインテリア改造で自己表現したい層、リアリティ番組系のメイクオーバーが好きな層に強く刺さる。",
+  "slug": "project-makeover",
+  "file": "data/games/1096-project-makeover.json",
+  "_source_urls": [
+    "https://www.magictavern.com/",
+    "https://www.projectmakeover.com/faq/",
+    "https://play.google.com/store/apps/details?id=com.bgg.jump",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/project-makeover-advertising",
+    "https://dengekionline.com/articles/72884/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

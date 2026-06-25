@@ -1,0 +1,34 @@
+{
+  "id": 1692,
+  "title_jp": "アースワーム・ジム2",
+  "title_en": "Earthworm Jim 2",
+  "developer": "Shiny Entertainment",
+  "publisher": "Playmates Interactive",
+  "year": 1995,
+  "platform": [
+    "Mega Drive",
+    "SNES",
+    "PC",
+    "Saturn",
+    "PS1",
+    "GBA"
+  ],
+  "genre": "ラン＆ガン／2D アクション・プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "前作の人気を継承し、90 年代スーパーヒーロー級カートゥーン演出と理不尽なシュールギャグで「主人公がミミズ」という奇抜さがそのままウケた続編。仔犬を救うパズル面 ‘Puppy Love’ など各ステージのジャンル切り替えが当時の批評家から絶賛され、16bit 末期を代表する 2D アクションとして語り継がれる。",
+  "concept": "重火器を装備したスーパーヒーロー・ミミズ「ジム」が婚約者プリンセス・ホワット＆ホエア・ホワット・ナウを救うため、ステージごとに完全にジャンルが入れ替わる（横スクロール／落下ゲーム／ゲームショー風など）ナンセンス・ラン＆ガン続編。狂気のアートワークと豊富な仕掛けで「次のステージで何が来るか分からない驚き」を売りにする。",
+  "target": "16bit 機ネイティブ世代（当時 10-20 代）、シュールギャグや 90 年代カートゥーン文化が好きな層、シビアな 2D アクションを腕試しで遊びたいレトロ／インディー寄りプレイヤー。",
+  "slug": "earthworm-jim-2",
+  "file": "data/games/1692-earthworm-jim-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Earthworm_Jim_2",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%A0%E3%82%B8%E3%83%A02",
+    "https://www.mobygames.com/game/373/earthworm-jim-2/",
+    "https://store.steampowered.com/app/38490/Earthworm_Jim_2/",
+    "https://vc.sega.jp/vc_ewj2/"
+  ]
+}

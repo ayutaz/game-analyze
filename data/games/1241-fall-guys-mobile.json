@@ -1,0 +1,31 @@
+{
+  "id": 1241,
+  "title_jp": "フォールガイズ モバイル",
+  "title_en": "Fall Guys Mobile",
+  "developer": "Mediatonic",
+  "publisher": "Epic Games",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "パーティーバトルロイヤル/アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2024年8月16日、モバイル版「Epic Games Store」のローンチタイトルとして配信開始。Androidは全世界、iOSはEU圏内(AltStore PAL含む)で展開され、PC/コンソールとフルクロスプレイ対応した点が話題に。",
+  "concept": "最大数十人が障害物コースを走り抜けゴールを目指す、ゆるカワ系パーティーバトルロイヤルのモバイル展開。基本プレイ無料でラウンドごとに脱落していくシンプルな競争性と、PC/PS/Xbox/Switch とのクロスプレイによって「いつでもどこでも友達と遊べる」体験を再構築した。",
+  "target": "短時間でワイワイ遊びたいライト〜ミドル層、PC/コンソール版の既存プレイヤーで外出先でも遊びたい層、ガッツリした FPS バトロワは苦手だが対戦の緊張感は楽しみたいカジュアル層。",
+  "slug": "fall-guys-mobile",
+  "file": "data/games/1241-fall-guys-mobile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fall_Guys",
+    "https://www.fallguys.com/ja/news/fall-guys-mobile",
+    "https://www.famitsu.com/article/202408/14428",
+    "https://news.denfaminicogamer.jp/news/2408162h"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2094,
+  "title_jp": "ランスVI -ゼス崩壊-",
+  "title_en": "Rance VI: Collapse of Zeth",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2004,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ターン制ダンジョン探索RPG/アダルトゲーム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ランスシリーズの新時代を切り開いたナンバリング第9作。キャラごとに「行動可能回数」を制限するユニークなパーティ運用システムと、魔法国家ゼスを舞台にした政治劇で長年語り継がれる代表作。2016年にはMangaGamerが英語版を発売し国際的にも認知された。",
+  "concept": "ターン制ダンジョン探索RPGに「同一キャラのダンジョン内行動回数制限」というリソース管理を組み合わせ、戦略的なパーティ編成を強いるアダルトRPG。鬼畜王ランス以降の本流シリーズ世界観をリブートする位置付け。",
+  "target": "ランスシリーズの長期ファン、和製ダンジョンRPGとアダルトADVを両方好む20-40代男性PCゲーマー層。",
+  "slug": "rance-vi-collapse-of-zeth",
+  "file": "data/games/2094-rance-vi-collapse-of-zeth.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Rance_VI:_The_Collapse_of_Zeth",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://ricedigital.co.uk/the-history-of-lewd-rance-vi-collapse-of-zeth/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

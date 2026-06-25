@@ -1,0 +1,30 @@
+{
+  "id": 1237,
+  "title_jp": "FAU-G ドミネーション",
+  "title_en": "FAU-G: Domination",
+  "developer": "Dot9 Games / nCore Games",
+  "publisher": "nCore Games (India)",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "5v5 マルチプレイヤー FPS / ミリタリーシューター",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL（FAU-G シリーズ累計）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PUBG Mobile India 禁止後の国産代替として注目を集めた FAU-G シリーズの 5v5 FPS 派生。2024 年末にクローズドベータ、WAVES 2025 で正式ローンチし、Akshay Kumar の Bharat Ke Veer 連動チャリティと Bharat League e スポーツ大会で話題化した。",
+  "concept": "ムンバイ・チェンナイ・ジャイサルメル・デリーなど実在のインド都市をモチーフにした 5v5 ミリタリー FPS。Team Deathmatch / Sniper / Weapon Domination など複数モードと 40 種超の武器、キャラ固有スキルを組み合わせるヒーローシューター寄りの構成。",
+  "target": "BGMI / Call of Duty Mobile / Free Fire を遊ぶインドのモバイル FPS 層、特に国産タイトルや軍隊・愛国モチーフに親和性の高い 16-30 代男性プレイヤー。",
+  "slug": "fau-g-domination",
+  "file": "data/games/1237-fau-g-domination.json",
+  "_source_urls": [
+    "https://gamingonphone.com/news/fau-g-domination-launches-on-android-delivering-a-competitive-military-fps-experience/",
+    "https://www.mysmartprice.com/gear/gaming/gaming-news/dot-9-games-launches-fau-g-domination-launches-for-android/",
+    "https://gamingonphone.com/news/fau-g-domination-launches-fau-g-bharat-league-with-a-massive-prize-pool-now-available-on-ios",
+    "https://www.animationxpress.com/games/fau-g-domination-gets-closed-beta-release-date-for-android/",
+    "http://faugdomination.com/"
+  ]
+}

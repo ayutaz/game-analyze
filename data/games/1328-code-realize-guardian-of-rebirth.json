@@ -1,0 +1,31 @@
+{
+  "id": 1328,
+  "title_jp": "Code:Realize ～創世の姫君～",
+  "title_en": "Code: Realize ~Guardian of Rebirth~",
+  "developer": "Otomate / Idea Factory",
+  "publisher": "Aksys Games (NA/EU), Idea Factory (JP)",
+  "year": 2014,
+  "platform": [
+    "PS Vita",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "アルセーヌ・ルパンやヴァン・ヘルシングなど文学・歴史上の英雄を集めたスチームパンク・ロンドンが乙女ゲーマー界で話題化。ファンディスク2作とTVアニメ化（2017年）で長期コンテンツに成長し、Switch/PS4移植で英語圏オトメコミュニティでも定番化した。",
+  "concept": "毒に触れたものすべてを溶かす令嬢カーディアが、怪盗ルパンら紳士たちと「Code:Realize」と呼ばれるテロ計画に立ち向かうスチームパンク乙女ADV。歴史・文学上の人物を恋愛対象として組み上げたキャラクター造形と、世界観の濃さで支持を獲得した。",
+  "target": "10代後半～30代女性を中心とした乙女ゲームファン。スチームパンク・19世紀ロンドンの世界観や、ルパン／ヴァン・ヘルシング／フランケンシュタイン等の文学キャラ攻略に惹かれる層。",
+  "slug": "code-realize-guardian-of-rebirth",
+  "file": "data/games/1328-code-realize-guardian-of-rebirth.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/Code:Realize_%E3%80%9C%E5%89%B5%E4%B8%96%E3%81%AE%E5%A7%AB%E5%90%9B%E3%80%9C",
+    "https://en.wikipedia.org/wiki/Code:_Realize",
+    "https://www.otomate.jp/code-realize/",
+    "https://www.4gamer.net/games/251/G025164/",
+    "https://www.aksysgames.com/code-realize-guardian-of-rebirth/"
+  ]
+}

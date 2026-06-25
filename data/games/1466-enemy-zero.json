@@ -1,0 +1,34 @@
+{
+  "id": 1466,
+  "title_jp": "エネミー・ゼロ",
+  "title_en": "Enemy Zero",
+  "developer": "WARP",
+  "publisher": "WARP",
+  "year": 1997,
+  "platform": [
+    "Saturn",
+    "PC"
+  ],
+  "genre": "サバイバルホラー/アドベンチャー（音響探知FPS）",
+  "sales_jp": "0.27M",
+  "sales_world": "0.6M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1996年3月の制作発表会で飯野賢治がPSからセガサターンへの突如の移行を宣言した「エネミー・ゼロ事件」が業界を震撼させ社会的事件化。姿の見えない敵を音だけで探知するという尖ったゲーム性と全編FMVの映画的演出で話題に。",
+  "concept": "宇宙船内で「見えない敵」を音響レーダーの周波数だけを頼りに探知し、限られた弾薬で戦うサバイバルホラーFPS。映画的なFMVと組み合わさり、緊張感と演出を全面に押し出した飯野賢治の作家性の塊。",
+  "target": "1990年代後半のセガサターン保有層、ホラー・SF映画好きの大人ゲーマー、飯野賢治（Dの食卓）作品のファン、音と緊張感主体の実験的ゲームを好む層。",
+  "slug": "enemy-zero",
+  "file": "data/games/1466-enemy-zero.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Enemy_Zero",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%BC%E3%83%AD",
+    "https://www.4gamer.net/games/999/G999903/20251007046/",
+    "https://www.timeextension.com/games/saturn/enemy_zero"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

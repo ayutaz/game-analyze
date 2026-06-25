@@ -1,0 +1,33 @@
+{
+  "id": 1084,
+  "title_jp": "ロイヤルマッチ",
+  "title_en": "Royal Match",
+  "developer": "Dream Games",
+  "publisher": "Dream Games",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "カジュアル/マッチ3パズル",
+  "sales_jp": "—",
+  "sales_world": "$6B+ IAP累計 (2025年5月時点) / 月間収益 $130M前後",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "popularity": "2024年に Candy Crush Saga を抜きマッチ3パズルジャンルの世界首位に到達。2025年は世界モバイル収益ランキングで3位前後を維持し、累計 IAP 60億ドル超を突破した。",
+  "concept": "「キング・ロバートの城を修復する」物語ラッパーを被せたマッチ3パズル。ステージクリア型の進行に城の装飾・装飾品アンロックを重ね、広告を極力使わず IAP のみで回す純度の高い収益設計が特徴。",
+  "target": "30-50代の女性層を中心とした非ゲーマー寄りのカジュアル層。短時間でストレス解消したい層、コレクション要素と進行感を同時に味わいたい層。",
+  "slug": "royal-match",
+  "file": "data/games/1084-royal-match.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Royal_Match",
+    "https://gaming.news/news/2025-05-20/user-spending-in-mobile-puzzle-game-royal-match-surpasses-6-billion/",
+    "https://sensortower.com/blog/royal-match-surpasses-candy-crush-saga-in-revenue-and-downloads-for-the",
+    "https://www.dreamgames.com/games/royal-match"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

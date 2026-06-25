@@ -1,0 +1,30 @@
+{
+  "id": 1569,
+  "title_jp": "天誅 紅",
+  "title_en": "Tenchu: Fatal Shadows",
+  "developer": "K2 LLC",
+  "publisher": "From Software / Sega",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ステルスアクション/忍者",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "天誅シリーズ初の女性くノ一 W 主人公（彩女・凛）と、新アクション『忍殺乱舞』『死体運び』を導入した第 4 作。葉隠れの里壊滅を巡るダークな復讐譚として、ニッチながらコアな忍者ステルス層に支持された。",
+  "concept": "屋根裏・物陰からの暗殺を主軸にした和風ステルスアクション。敵に発見されずに『忍殺』を決める快感と、二人のくノ一の物語をオムニバス的に並走させるシリーズ流の作劇を組み合わせる。",
+  "target": "PS1 期からの天誅シリーズファン、メタルギア／スプリンターセル系のステルス愛好家、和風・忍者モチーフを好む 20-40 代男性層。",
+  "slug": "tenchu-fatal-shadows",
+  "file": "data/games/1569-tenchu-fatal-shadows.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tenchu:_Fatal_Shadows",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%AA%85_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.fromsoftware.jp/jp/detail.html?csm=079",
+    "https://www.vgchartz.com/game/2352/tenchu-fatal-shadows/"
+  ]
+}

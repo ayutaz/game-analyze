@@ -1,0 +1,31 @@
+{
+  "id": 1813,
+  "title_jp": "ROSE GUNS DAYS Season 2",
+  "title_en": "Rose Guns Days Season 2",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ハードボイルド",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "竜騎士07が「ひぐらし」「うみねこ」に続いて手がけたハードボイルド・サウンドノベル第2弾。1947年を舞台に Primavera と Caleb ファミリーの抗争がクライマックスを迎え、同人ゲームながらコミケ83で発売されファンを熱狂させた。",
+  "concept": "戦後日本を舞台に「敗戦国の誇りと再生」を描くシリーズ第2幕。竜騎士07が脚本を一手に担い、マフィア・ナイトクラブ・人種抗争を題材にしたハードボイルド・サウンドノベルとして、選択肢ではなく物語そのものを「読む」体験に特化している。",
+  "target": "竜騎士07作品の既存ファン、特にひぐらし／うみねこから入ってきたサウンドノベル愛好層。重厚な政治劇・群像劇を腰を据えて読みたい20-40代の読書系ゲーマー。",
+  "slug": "rose-guns-days-season-2",
+  "file": "data/games/1813-rose-guns-days-season-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rose_Guns_Days",
+    "https://07th-expansion.fandom.com/wiki/Rose_Guns_Days:_Season_2",
+    "https://wiki.whentheycry.org/wiki/Rose_Guns_Days",
+    "https://07th-expansion.net/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

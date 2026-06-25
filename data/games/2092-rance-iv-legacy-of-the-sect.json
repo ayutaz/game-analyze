@@ -1,0 +1,33 @@
+{
+  "id": 2092,
+  "title_jp": "ランスIV -教団の遺産-",
+  "title_en": "Rance IV: Legacy of the Sect",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 1993,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ターン制ダンジョン探索RPG（アダルト）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1993年12月11日にPC-98 HDD専用ソフトとして発売されたランスシリーズ第4弾。天空都市イラーピュを舞台にした大ボリュームのダンジョン探索RPGで、後年アリスソフト公式によってフリーウェア化、有志による英語パッチも公開され海外コミュニティでも語り継がれている。",
+  "concept": "ランスシリーズ第4作。空中都市イラーピュに送り込まれたランス一行が、ヘルマン帝国の陰謀と古代闘神ウプシロンを巡る教団の遺産を追うパーティ編成型ターン制RPG。1日に行動できる歩数・戦闘数を制限する時間管理システムでリソース配分の駆け引きを強調する。",
+  "target": "PC-98時代のアリスソフト／ランスシリーズを通ってきた成人男性ユーザー、レトロJRPG・ダンジョン探索好き、シリーズ全体の世界観を追体験したいファン層。",
+  "slug": "rance-iv-legacy-of-the-sect",
+  "file": "data/games/2092-rance-iv-legacy-of-the-sect.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/Rance_IV_-%E6%95%99%E5%9B%A3%E3%81%AE%E9%81%BA%E7%94%A3-",
+    "https://alicesoft.miraheze.org/wiki/Rance_IV:_The_Legacy_of_the_Sect",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://x.com/alice_soft/status/1813136817543340198"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

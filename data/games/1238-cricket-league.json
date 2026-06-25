@@ -1,0 +1,33 @@
+{
+  "id": 1238,
+  "title_jp": "クリケット・リーグ",
+  "title_en": "Cricket League",
+  "developer": "Miniclip",
+  "publisher": "Miniclip",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム対戦クリケット",
+  "sales_jp": "—",
+  "sales_world": "220M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "3〜5分で終わる 2 オーバー制のリアルタイム PvP クリケットとして、特にインド・パキスタン・バングラ圏でスポーツアプリ DL ランキング 1 位を獲得。累計 2.2 億 DL・1 日 25 万 DL ペースで継続成長。",
+  "concept": "Miniclip が 8 Ball Pool で培った「3〜5 分で 1 試合終わるカジュアル PvP」フォーマットをクリケットに適用したリアルタイム対戦ゲーム。Mumbai / Karachi / Dubai / Melbourne など 8 スタジアム、25 体超のキャラクター、Doosra・Sling・In/Out Swing 等の球種選択で短時間でも戦略性が出る設計。",
+  "target": "南アジア（インド / パキスタン / バングラデシュ）を中心に、通勤・休憩のスキマ時間でクリケット PvP をしたい 10〜40 代男性層。2G/3G 回線でも動く軽量設計で新興国スマホユーザーに広くリーチ。",
+  "slug": "cricket-league",
+  "file": "data/games/1238-cricket-league.json",
+  "_source_urls": [
+    "https://www.miniclip.com/games/cricket-league",
+    "https://apps.apple.com/us/app/cricket-league/id1580603339",
+    "https://www.appbrain.com/app/cricket-league/com.miniclip.cricketleague"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

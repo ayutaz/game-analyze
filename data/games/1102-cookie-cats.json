@@ -1,0 +1,33 @@
+{
+  "id": 1102,
+  "title_jp": "クッキーキャッツ",
+  "title_en": "Cookie Cats",
+  "developer": "Tactile Games",
+  "publisher": "Tactile Games",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/カジュアル",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "デンマーク Tactile Games が運営するロングセラーのマッチ3パズル。5匹の音楽好きな猫キャラクター（Rita / Smokey / Berry / Ziggy / Belle）と、データサイエンス教育で頻出する『ゲートA/Bテスト』題材としても世界的に有名になった。",
+  "concept": "同じ色のクッキーを繋いで消すマッチ3パズルに、5匹のバンド猫のかわいさと『次のステージへ進む』ロードマップ進行を組み合わせたカジュアル収集型ゲーム。短時間プレイ × ライフ制 × 段階解放で典型的なフリー・トゥ・プレイ構造を持つ。",
+  "target": "通勤・スキマ時間にプレイしたい 20-50 代のカジュアル層、特に女性ユーザーと猫好き層。Candy Crush 系を遊び尽くした人の次の選択肢としても訴求。",
+  "slug": "cookie-cats",
+  "file": "data/games/1102-cookie-cats.json",
+  "_source_urls": [
+    "https://tactilegames.com/games/cookie-cats/",
+    "https://apps.apple.com/us/app/cookie-cats/id1078297893",
+    "https://play.google.com/store/apps/details?id=dk.tactile.cookiecats&hl=en"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

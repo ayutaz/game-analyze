@@ -1,0 +1,31 @@
+{
+  "id": 1808,
+  "title_jp": "黄金夢想曲 X",
+  "title_en": "Ougon Musou Kyoku X",
+  "developer": "07th Expansion",
+  "publisher": "Alchemist",
+  "year": 2011,
+  "platform": [
+    "Xbox 360"
+  ],
+  "genre": "2D対戦格闘（タッグバトル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "同人格闘『黄金夢想曲』の Xbox 360 移植版として 2011 年 10 月に Alchemist から発売。ジョージ・ローザを追加キャラとして実装し、原作 PC 版にあった東方アレンジを差し替えた家庭用版として、うみねこファンと同人格ゲファンの両方で話題になった。",
+  "concept": "竜騎士07／07th Expansion の『うみねこのなく頃に』キャラを使った 2D タッグ式対戦格闘。原作の議論バトル「赤き真実／青き真実」をシステム化したメタワールド・ファイティングで、Xbox 360 版ではオンライン対戦と追加キャラ（ジョージ・ローザ）を備える。",
+  "target": "『うみねこのなく頃に』ファンと同人 2D 格ゲー（メルブラ／ヒサウィズ系）愛好層の重なる地帯。家庭用機でうみねこ格ゲーをオフライン／オンラインで遊びたかった層に向けた一作。",
+  "slug": "ougon-musou-kyoku-x",
+  "file": "data/games/1808-ougon-musou-kyoku-x.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Umineko:_Golden_Fantasia",
+    "https://ja.wikipedia.org/wiki/%E9%BB%84%E9%87%91%E5%A4%A2%E6%83%B3%E6%9B%B2",
+    "https://gamefaqs.gamespot.com/xbox360/627559-ougon-musou-kyoku-x",
+    "https://07th-expansion.fandom.com/wiki/Golden_Fantasia",
+    "https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B1%E3%83%9F%E3%82%B9%E3%83%88-%E9%BB%84%E9%87%91%E5%A4%A2%E6%83%B3%E6%9B%B2X-Xbox360/dp/B005B7F5RA"
+  ]
+}

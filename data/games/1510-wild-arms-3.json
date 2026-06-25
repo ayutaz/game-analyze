@@ -1,0 +1,31 @@
+{
+  "id": 1510,
+  "title_jp": "ワイルドアームズ アドヴァンスドサード",
+  "title_en": "Wild Arms 3",
+  "developer": "Media.Vision",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2002,
+  "platform": [
+    "PS2",
+    "PS4"
+  ],
+  "genre": "西部劇テイストJRPG/ターン制コマンドRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ初の3D化と荒野を舞台にした西部劇RPGとして話題に。2016年にPS2クラシックスとしてPS4で復刻配信され、長期的に再評価が続く。",
+  "concept": "「荒野（Filgaia）」を舞台にARM（古代銃器）を操る4人のドリフターが世界を巡るターン制JRPG。マップは荒野上を任意の方向に歩き、地名を「ひらめき」で発見するなど西部劇要素を全面に押し出した独自体験を提供する。",
+  "target": "クラシックなターン制JRPGを好む20-40代のプレイヤー、西部劇・ガンアクションの世界観を好む層、PS2世代のSCE製JRPGをリアルタイム/復刻で追ってきたファン。",
+  "slug": "wild-arms-3",
+  "file": "data/games/1510-wild-arms-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wild_Arms_3",
+    "https://www.vgchartz.com/game/2670/wild-arms-3/",
+    "https://store.playstation.com/en-us/product/UP9000-CUSA02197_00-SCUS972030000001/",
+    "https://wildarms.fandom.com/wiki/Wild_Arms_3"
+  ]
+}

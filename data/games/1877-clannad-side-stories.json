@@ -1,0 +1,28 @@
+{
+  "id": 1877,
+  "title_jp": "CLANNAD Side Stories",
+  "title_en": "Clannad Side Stories",
+  "developer": "Key",
+  "publisher": "Sekai Project / Visual Arts",
+  "year": 2017,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/サイドストーリー集",
+  "sales_jp": "—",
+  "sales_world": "100K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 不朽の名作『CLANNAD』の本編やアニメで描かれなかった 16 編のサイドストーリー（原作『光見守る坂道で』）を Sekai Project が英訳・Steam リリース。海外ファンから「正典の隙間を埋める必読の補完」として高評価（Very Positive 87%）。",
+  "concept": "光坂高校の脇役たちと本編キャラの「描かれなかった日常」を線形シナリオで描くサイドストーリー集。本編 / After Story を読み終えた読者向けの後日譚・並行エピソード補完として位置づけられている。",
+  "target": "本編『CLANNAD』および『〜AFTER STORY〜』を既読・既視聴で、町と登場人物への愛着が深い 20-40 代の Key ファン。物語の余韻を延長したい層に刺さる。",
+  "slug": "clannad-side-stories",
+  "file": "data/games/1877-clannad-side-stories.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/420100/CLANNAD_Side_Stories/",
+    "https://www.animenewsnetwork.com/daily-briefs/2016-06-03/sekai-project-releases-clannad-side-stories-game-on-pc/.102819",
+    "https://steamspy.com/app/420100",
+    "https://www.inside-games.jp/article/2021/05/20/132414.html"
+  ]
+}

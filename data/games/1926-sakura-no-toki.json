@@ -1,0 +1,31 @@
+{
+  "id": 1926,
+  "title_jp": "サクラノ刻",
+  "title_en": "Sakura no Toki",
+  "developer": "Makura",
+  "publisher": "Makura",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "前作『サクラノ詩』の続編として 2017 年の予告から約 6 年待たれた末に 2023 年 2 月発売。Moe Game Award 2023 大賞・シナリオ賞・グラフィック賞ほか主要部門を席巻し、Getchu 2023 美少女ゲーム大賞でも総合 1 位を獲得した。",
+  "concept": "前作『サクラノ詩』の数年後、美術教師となった草薙直哉を主役に「芸術の再生」を主題として描く長編伝奇ノベル。SCA-自と Makura の代名詞ともいえる重厚な思想的テキストと弓張学園の世界観を継承する正統続編。",
+  "target": "前作『サクラノ詩』を読み終えたコアな伝奇・思想系ノベル読者層、いわゆる『ロマンチカルノベル』を求める 20-40 代男性 PC ゲーマー。SCA-自ファン、芸術や哲学を題材にしたテキスト重視ノベルを愛好する層。",
+  "slug": "sakura-no-toki",
+  "file": "data/games/1926-sakura-no-toki.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%8E%E5%88%BB",
+    "https://www.igdb.com/games/sakura-no-toki-sakura-no-mori-no-shita-wo-ayumu",
+    "https://noisypixel.net/sakura-no-uta-toki-english-translations-announced/",
+    "https://glitchwave.com/game/sakura-no-toki-sakura-no-mori-no-shita-o-ayumu/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1157,
+  "title_jp": "デュエットナイトアビス",
+  "title_en": "Duet Night Abyss",
+  "developer": "Pan Studio",
+  "publisher": "Hero Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールドアクションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "ガチャ・スタミナ廃止のF2PアクションRPGとして話題化し、グローバル事前登録1,500万件超を達成。2025年10月28日のグローバル配信開始で大きな注目を集めた。",
+  "concept": "近接と遠距離を切り替えるデュアル戦闘と、デュアル主人公の物語構造を備えたファンタジー世界アトラシアのオープンワールドARPG。キャラクター・武器ガチャを撤廃し「思想（Thoughts）」収集による解放方式を採用、サービス型ゲームの収益構造に対するアンチテーゼを打ち出している。",
+  "target": "原神/鳴潮/崩スタなど中国系オープンワールドARPGを遊ぶ層のうち、ガチャやスタミナ制度に疲弊しているプレイヤー。物語と戦闘体験を中心に据えたF2P MMO/協力ARPGを求める20-30代男女。",
+  "slug": "duet-night-abyss",
+  "file": "data/games/1157-duet-night-abyss.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Duet_Night_Abyss",
+    "https://store.steampowered.com/app/3950020/Duet_Night_Abyss/",
+    "https://automaton-media.com/articles/newsjp/duet-night-abyss-20251028-363748/",
+    "https://www.rpgsite.net/news/18268-duet-night-abyss-launches-on-october-28-for-mobile-devices-pc-gacha-style-banners-for-characters-weapons-remove",
+    "https://www.enduins.com/news/duet-night-abyss-surpasses-15-million-pre-registrations"
+  ]
+}

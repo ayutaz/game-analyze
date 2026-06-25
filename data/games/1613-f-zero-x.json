@@ -1,0 +1,27 @@
+{
+  "id": 1613,
+  "title_jp": "F-ZERO X",
+  "title_en": "F-Zero X",
+  "developer": "Nintendo EAD",
+  "publisher": "Nintendo",
+  "year": 1998,
+  "platform": [
+    "N64"
+  ],
+  "genre": "高速反重力レース",
+  "sales_jp": "0.10M",
+  "sales_world": "1.15M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "60fps を死守した N64 屈指の高速レース。30 機による接触アタック・デスレースで対戦コミュニティが盛り上がった。",
+  "concept": "シリーズ初の 3D 化作品。フレームレートを 60fps に固定するためテクスチャ表現を削ぎ、30 機が時速 1500km で殴り合うデスマッチ寄りの反重力レースに振り切った位置付け。",
+  "target": "アーケード／高難度レースを好む N64 ユーザーと、4 人対戦・デスレースでワイワイ遊びたい層。F-ZERO シリーズの硬派路線を支持するコアファン。",
+  "slug": "f-zero-x",
+  "file": "data/games/1613-f-zero-x.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/F-Zero_X",
+    "https://www.vgchartz.com/game/696/f-zero-x",
+    "https://ja.wikipedia.org/wiki/F-ZERO%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  ]
+}

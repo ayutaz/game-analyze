@@ -1,0 +1,38 @@
+{
+  "id": 1074,
+  "title_jp": "Block Strike",
+  "title_en": "Block Strike",
+  "developer": "Rexet Studio",
+  "publisher": "Rexet Studio",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "ブロックグラフィックの3Dマルチプレイヤー FPS",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Minecraft 風のブロックグラフィックに Counter-Strike 風の対戦 FPS を組み合わせた基本無料モバイルシューターとして世界で 5,000 万 DL 超を達成。20 以上のゲームモード、50 以上のマップ、武器・キャラスキンの収集要素で長期運営。",
+  "concept": "ブロック調のローポリ世界で Team Deathmatch やゾンビサバイバルなど 20+ モードを遊べる、軽量・カジュアル寄りのマルチプレイヤー対戦 FPS。スキン収集とクラン機能でリテンションを支える。",
+  "target": "Minecraft 世代のティーン〜20 代男性、ロースペック端末でも遊べるモバイル対戦 FPS を求める層、Counter-Strike 系の競技プレイをカジュアルに楽しみたい層。",
+  "slug": "block-strike",
+  "file": "data/games/1074-block-strike.json",
+  "_source_urls": [
+    "https://block-strike.fandom.com/wiki/Rexet_Studio",
+    "https://play.google.com/store/apps/details?id=com.shootergamesonline.blockstrike&hl=en_US",
+    "https://apps.apple.com/us/app/block-strike-online-shooter/id1481910817",
+    "https://www.rexet.studio/",
+    "https://rawg.io/games/block-strike-fps-shooter"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

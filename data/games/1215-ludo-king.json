@@ -1,0 +1,31 @@
+{
+  "id": 1215,
+  "title_jp": "ルドー・キング",
+  "title_en": "Ludo King",
+  "developer": "Gametion Technologies",
+  "publisher": "Gametion (India)",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Browser"
+  ],
+  "genre": "ボードゲーム/オンライン対戦",
+  "sales_jp": "—",
+  "sales_world": "1B+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "インド発の Ludo（パチシ系ボード）アプリ。2020 年のコロナ禍で爆発的に伸び、ピーク時 DAU 3,200 万・MAU 1.42 億を記録し、2024 年にインド産モバイルゲームとして初めて Play ストア累計 10 億 DL を突破した。",
+  "concept": "古代インドのボードゲーム「パチシ」を現代のスマホ向けに無料リメイクし、ローカル対戦・オンラインマルチ・CPU 戦・友人ルーム招待を 1 本にまとめたカジュアル Ludo アプリ。広告と少額課金で運営される完全フリーミアム設計。",
+  "target": "インドおよび南アジア圏を中心とした非ゲーマー層・家族プレイ層。低スペック端末や弱い回線でも気軽に遊べるカジュアル志向のユーザー、伝統ボードゲームを誰かと共有したいライト層に強い。",
+  "slug": "ludo-king",
+  "file": "data/games/1215-ludo-king.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ludo_King",
+    "https://www.pocketgamer.biz/ludo-king-surpasses-one-billion-play-store-downloads-in-meteoric-moment-for-indian-games-industry/",
+    "https://www.gamemakers.com/p/ludo-king-indias-king-of-downloads",
+    "https://www.gametion.com/ludoking.html"
+  ]
+}

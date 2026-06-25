@@ -1,0 +1,31 @@
+{
+  "id": 1505,
+  "title_jp": "ペルソナ4",
+  "title_en": "Persona 4",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 2008,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ジュブナイル・ジャンクションRPG/学園×ミステリー×ペルソナ召喚",
+  "sales_jp": "300K+",
+  "sales_world": "700K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "テレビ番組内の異世界「マヨナカテレビ」と田舎町の連続殺人事件を1年かけて解く学園ミステリーが熱狂的支持を獲得し、後にアニメ化・格闘ゲーム化・Vita版『P4G』展開へと広がりシリーズの転換点となった。",
+  "concept": "片田舎の高校生になりきって1年間の学園生活と仲間との絆を育てながら、霧の街で連続殺人事件の犯人をテレビの中の異世界で追う、カレンダー進行型ストーリー特化JRPG。",
+  "target": "10代後半～30代を中心に、学園ものと群像劇・ミステリーが好きなプレイヤー、シリーズの『3』で入ったストーリー重視RPGファン、声優・キャラクター文化に親しんだ層。",
+  "slug": "persona-4",
+  "file": "data/games/1505-persona-4.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Persona_4",
+    "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A4",
+    "https://www.siliconera.com/well-how-many-copies-did-persona-4-and-devil-survivor-sell/",
+    "https://www.vgchartz.com/game/24780/shin-megami-tensei-persona-4/"
+  ]
+}

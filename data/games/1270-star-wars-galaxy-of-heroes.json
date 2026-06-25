@@ -1,0 +1,32 @@
+{
+  "id": 1270,
+  "title_jp": "スター・ウォーズ／銀河の英雄",
+  "title_en": "Star Wars: Galaxy of Heroes",
+  "developer": "Capital Games",
+  "publisher": "EA",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターンベース・コレクションRPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "$1.4B+ 累計（2021時点、100M DL）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "スター・ウォーズIPの主要キャラを網羅したターン制ガチャRPGとして長期運営。EAモバイル屈指のヒットで、累計100M DL・$1.4B超収益、2024年単年でも約$88Mを稼ぐ長寿タイトル。",
+  "concept": "映画・ドラマ（マンダロリアン、バッド・バッチ等）横断のキャラクターを集めて編成し、ターンベースのPvE・PvP（アリーナ／ギルド戦／領地戦）で勝ち抜くコレクションRPG。スター・ウォーズの「あのキャラとあのキャラを並べたい」を成立させる装置。",
+  "target": "スター・ウォーズIPファンと、長期運営型ガチャRPGで毎日育成・編成を回したい20-50代コア層。海外比率が圧倒的に高いが、日本でも攻略ブログ・ギルド文化が定着している。",
+  "slug": "star-wars-galaxy-of-heroes",
+  "file": "data/games/1270-star-wars-galaxy-of-heroes.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Wars:_Galaxy_of_Heroes",
+    "https://www.pocketgamer.biz/star-wars-galaxy-of-heroes-14-billion-dollars-100-million-downloads/",
+    "https://sensortower.com/blog/star-wars-mobile-game-revenue-one-billion",
+    "https://www.statista.com/statistics/1089405/star-wars-galaxy-of-heroes-player-spending/",
+    "https://www.ea.com/en/games/starwars/galaxy-of-heroes"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2060,
+  "title_jp": "FLOWERS 秋篇",
+  "title_en": "Flowers -Le volume sur Automne-",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / JAST USA",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS Vita"
+  ],
+  "genre": "百合アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "全寮制カトリック女学院を舞台にした百合ADV「FLOWERS」シリーズ第3作（秋篇）。生徒会長・八代弓鶴と幼馴染の副会長・小紋ねりねの関係を描き、2020年JAST USA英訳でSteam展開し国内外の百合VNファンに広く認知された。",
+  "concept": "Innocent Greyの「四季」百合ビジュアルノベル第3章。シリーズ通底の重厚なミステリー要素と寮制女学院の静謐な空気を維持しつつ、視点を蘇芳から弓鶴へ移し、過去のすれ違いと現在の心の機微を読ませる物語特化型の純百合作品。",
+  "target": "百合・少女小説・寮もの・繊細な人間関係描写を好む大人の女性層およびビジュアルノベルファン。FLOWERS春篇・夏篇のプレイヤーが続編として手に取ることを前提とした層。",
+  "slug": "flowers-le-volume-sur-automne",
+  "file": "data/games/2060-flowers-le-volume-sur-automne.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Flowers_(video_game_series)",
+    "https://ja.wikipedia.org/wiki/FLOWERS_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.prot.co.jp/psv/flowers3/introduction.html",
+    "https://store.steampowered.com/news/app/1238730/view/4396027342306272513"
+  ]
+}

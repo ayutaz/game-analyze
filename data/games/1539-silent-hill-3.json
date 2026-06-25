@@ -1,0 +1,30 @@
+{
+  "id": 1539,
+  "title_jp": "サイレントヒル3",
+  "title_en": "Silent Hill 3",
+  "developer": "Team Silent (Konami Computer Entertainment Tokyo)",
+  "publisher": "Konami",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "PC"
+  ],
+  "genre": "サバイバルホラー/アドベンチャー",
+  "sales_jp": "67,424本 (PS2 初動)",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ1作目の直接的続編として「ヘザー」を主人公に据え、ショッピングモール・地下鉄・裏世界へと展開する閉鎖空間ホラーが熱狂的支持を獲得。Metacritic 85点・ファミ通33/40点でゴールド殿堂入り、サイレントヒル神話の中核として今も語り継がれる。",
+  "slug": "silent-hill-3",
+  "file": "data/games/1539-silent-hill-3.json",
+  "concept": "前作『サイレントヒル』の直接的続編として、カルト教団に狙われる少女ヘザーの「自宅への帰還」を軸に、現実と裏世界が反転する街を踏破する一人称的ホラー。鬱屈した心象風景と肉感的なクリーチャーデザインで「読ませる/見せる」恐怖を確立した。",
+  "target": "10代後半〜40代の海外/国内ホラーゲーム愛好家、心理描写・象徴主義の強いストーリーを好む層、PS2 期サバイバルホラー世代。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Silent_Hill_3",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB3",
+    "https://archive.townofsilenthill.com/sh3/jp/"
+  ]
+}

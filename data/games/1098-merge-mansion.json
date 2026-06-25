@@ -1,0 +1,35 @@
+{
+  "id": 1098,
+  "title_jp": "マージマンション",
+  "title_en": "Merge Mansion",
+  "developer": "Metacore",
+  "publisher": "Metacore",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マージパズル/ストーリー",
+  "sales_jp": "—",
+  "sales_world": "65M+ DL / $800M+ revenue",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "謎めいた『おばあちゃん』マディーを軸にしたミステリー仕立ての広告クリエイティブが SNS で話題化。リリース 5 年で全世界 6,500 万 DL／生涯売上 8 億ドル超を達成し、2026 年 5 月には Supercell が Metacore を買収。",
+  "concept": "古い洋館を舞台に、アイテムを 3 つ重ねて新しいオブジェクトを作る『マージパズル』に、祖母マディーと孫娘マディソンを巡るミステリー物語を組み合わせたカジュアルゲーム。短時間プレイのループにエピソード型のストーリー解放報酬を載せた長期運営型サービス。",
+  "target": "30-50 代の女性カジュアルユーザーが中心。家事や仕事の合間にスマホで遊びたい層、物語を少しずつ進めながらコレクション欲を満たしたい層に強い。",
+  "slug": "merge-mansion",
+  "file": "data/games/1098-merge-mansion.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://www.gamesmarket.global/fifth-anniversary-metacores-merge-mansion-with-more-than-dollar700-million-in-revenue-after-five-years-d637f659709480d20a95acfaaf3e5b0b/",
+    "https://www.pocketgamer.biz/metacore-celebrates-double-milestones-for-merge-mansion/",
+    "https://prtimes.jp/main/html/rd/p/000000011.000128813.html",
+    "https://w3g.jp/merge-mansion"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

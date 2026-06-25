@@ -1,0 +1,34 @@
+{
+  "id": 1032,
+  "title_jp": "Paladins Strike",
+  "title_en": "Paladins Strike",
+  "developer": "Hi-Rez Studios",
+  "publisher": "Hi-Rez Studios",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "トップダウン型MOBA/ヒーローシューター",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PC版『Paladins』のキャラクター・世界観をモバイル向けトップダウンMOBAに翻案。2017年豪州ソフトローンチを経て2018年5月にグローバル配信、Hi-Rez初の本格スマホ向け対戦作として注目されたが、コミュニティ維持に失敗し2020年〜2021年にサービス終了。",
+  "concept": "PC版Paladinsのチャンピオンをそのまま使える、5v5のトップダウン視点MOBA/ヒーローシューター。短時間マッチ・スキル主導のチーム戦闘をモバイルで再現し、PC IP のキャラ愛着とスマホの手軽さを橋渡しすることを狙った。",
+  "target": "PC版Paladinsのファンと、Vainglory・Mobile Legends等のモバイルMOBAプレイヤー。短時間で対戦したい英語圏中心のFPS/MOBA愛好層が主ターゲットだった。",
+  "slug": "paladins-strike",
+  "file": "data/games/1032-paladins-strike.json",
+  "_source_urls": [
+    "https://paladins.fandom.com/wiki/Paladins_Strike",
+    "https://www.pocketgamer.biz/news/66878/hi-rez-studios-soft-launches-paladins-strike/",
+    "https://www.androidpolice.com/2018/04/26/hi-rez-studios-mobile-moba-paladins-strike-available-worldwide/",
+    "https://mmos.com/review/paladins-strike"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

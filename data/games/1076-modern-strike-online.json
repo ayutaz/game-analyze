@@ -1,0 +1,32 @@
+{
+  "id": 1076,
+  "title_jp": "Modern Strike Online",
+  "title_en": "Modern Strike Online",
+  "developer": "Azur Interactive Games",
+  "publisher": "Azur Interactive Games",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オンライン FPS / PvP シューター",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL (Google Play)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Counter-Strike を模したモバイル PvP FPS として全世界 1 億 DL 超、5v5 のチーム対戦・爆破ルール等で長期運営。70 種以上の武器とキャラクター育成、5,000 万人以上のオンラインプレイヤーを擁する。",
+  "concept": "PC 品質のグラフィックを掲げた本格派モバイル FPS で、Team Deathmatch / Bomb / Search and Defuse 等の Counter-Strike 系ルールをスマホで提供する PvP オンラインシューター。",
+  "target": "10-30 代男性中心のモバイル FPS 層。CS:GO や CoD Mobile のような対戦 FPS をスマホで遊びたいライト〜ミドルコアプレイヤー。",
+  "slug": "modern-strike-online",
+  "file": "data/games/1076-modern-strike-online.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.gamedevltd.modernstrike",
+    "https://apps.apple.com/us/app/modern-strike-online-war-fps/id1197441484",
+    "https://www.igdb.com/games/modern-strike-online",
+    "https://en.namu.wiki/w/Modern%20Strike%20Online"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

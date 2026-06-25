@@ -1,0 +1,30 @@
+{
+  "id": 2050,
+  "title_jp": "かまいたちの夜 輪廻彩声",
+  "title_en": "Banshee's Last Cry / Kamaitachi no Yoru: Rinne Saisei",
+  "developer": "Chunsoft / 5pb.",
+  "publisher": "Chunsoft / 5pb. / Aksys Games",
+  "year": 1994,
+  "platform": [
+    "PS Vita",
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "サウンドノベル/ミステリーアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown (シリーズ累計100万本超とされる名作)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1994年スーパーファミコン版『かまいたちの夜』の完全リメイク。シルエット表現を廃しイラストレーター有葉による新キャラ作画と新キャストを採用、さらに『ひぐらしのなく頃に』竜騎士07が追加シナリオを書き下ろし、往年のファンと新規層の双方を巻き込んだ。",
+  "concept": "雪山ペンションを舞台にした殺人ミステリーを「読み進めて選択する」サウンドノベルの金字塔リメイク。原作シナリオ＋追加分岐＋新規アートで90年代の名作を令和の表現で再構築した一本。",
+  "target": "30-50代のSFC版経験者と、本格ミステリー・新本格小説を好む読書層。アクション操作が苦手で、文字とBGMによる没入型ホラー体験を求めるプレイヤー。",
+  "slug": "kamaitachi-no-yoru-rinne-saisei",
+  "file": "data/games/2050-kamaitachi-no-yoru-rinne-saisei.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BE%E3%81%84%E3%81%9F%E3%81%A1%E3%81%AE%E5%A4%9C_%E8%BC%AA%E5%BB%BB%E5%BD%A9%E5%A3%B0",
+    "https://en.wikipedia.org/wiki/Banshee's_Last_Cry",
+    "https://game.mages.co.jp/product/533/"
+  ]
+}

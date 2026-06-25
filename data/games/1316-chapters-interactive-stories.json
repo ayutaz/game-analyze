@@ -1,0 +1,35 @@
+{
+  "id": 1316,
+  "title_jp": "Chapters: Interactive Stories",
+  "title_en": "Chapters: Interactive Stories",
+  "developer": "Crazy Maple Studio",
+  "publisher": "Crazy Maple Studio",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "インタラクティブ・ノベル/恋愛ADV",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL (iOS/Android)",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "全世界 150 ヵ国以上で 1 億 DL を超えるモバイル向け選択肢型ノベルの代表格。Episode 系と並ぶ海外女性向け恋愛 IF アプリで、米国 App Store のブック/恋愛カテゴリで長期にわたり上位。",
+  "concept": "「自分が主人公の物語を、選択肢で動かす」をテーマにした選択肢型インタラクティブ・ノベル。ロマンス／ドラマ／ファンタジー中心のストーリーを章単位で配信し、衣装やプレミアム選択肢をチケット/ダイヤで購入する F2P モデル。",
+  "target": "10〜30 代の海外女性層が中心で、ロマンス小説・恋愛ドラマ・YA ファンタジーが好きなライト読者層。日本では英語学習や海外ロマンス嗜好のユーザーにリーチ。",
+  "slug": "chapters-interactive-stories",
+  "file": "data/games/1316-chapters-interactive-stories.json",
+  "_source_urls": [
+    "https://publishingperspectives.com/2017/11/crazy-maple-studio-introduces-chapters-interactive-stories/",
+    "https://sensortower.com/ios/us/crazy-maple-studio-inc/app/chapters-interactive-stories/1277029359/",
+    "https://play.google.com/store/apps/details?id=com.mars.avgchapters",
+    "https://apps.apple.com/jp/app/chapters-interactive-stories/id1277029359",
+    "https://crazymaplestudios.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

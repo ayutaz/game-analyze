@@ -1,0 +1,35 @@
+{
+  "id": 1242,
+  "title_jp": "ヒルクライムレース",
+  "title_en": "Hill Climb Racing",
+  "developer": "Fingersoft",
+  "publisher": "Fingersoft",
+  "year": 2012,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "物理演算ドライブ/カジュアルレーシング",
+  "sales_jp": "—",
+  "sales_world": "2B+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2026年1月にオリジナル単体で全世界2,000,000,000ダウンロードを突破した、Fingersoft発のロングラン物理演算ドライブゲーム。リリースから10年以上経った今も日刊400万人が遊ぶ現役カジュアルヒット。",
+  "slug": "hill-climb-racing",
+  "file": "data/games/1242-hill-climb-racing.json",
+  "concept": "でこぼこの丘陵を、ニュートン坊やと名付けられたドライバーが各種車両で駆け抜ける物理演算ドライブゲーム。燃料切れ・首ケガ転倒までの到達距離とコイン回収を競い、稼いだコインで車体パーツや新ステージを解放する。",
+  "target": "スマホで短時間にサクッと遊びたい全年齢のカジュアル層。直感的な2ボタン操作（アクセル／ブレーキ）と物理コメディ要素で、子供から大人、通勤通学のスキマ時間ユーザーまで広く刺さる。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hill_Climb_Racing",
+    "https://fingersoft.com/news/2026/01/15/hill-climb-racing-breaks-a-new-record-2-billion-downloads/",
+    "https://www.pocketgamer.biz/fingersofts-hill-climb-racing-passes-2bn-downloads-worldwide/",
+    "https://play.google.com/store/apps/details?id=com.fingersoft.hillclimb&hl=en_US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

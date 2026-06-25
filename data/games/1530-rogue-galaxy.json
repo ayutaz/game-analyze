@@ -1,0 +1,31 @@
+{
+  "id": 1530,
+  "title_jp": "ローグギャラクシー",
+  "title_en": "Rogue Galaxy",
+  "developer": "Level-5",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "約27万本（初週23.7万本＋DC版2.9万本）",
+  "sales_world": "600K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "レベルファイブが3年以上かけて当時最大規模で開発した宇宙海賊ARPG。発売週には日本で週間1位（23.7万本）を記録するも、SCEが期待した100万本には届かず、レイトン教授前夜の同社にとってのターニング作品となった。",
+  "concept": "シームレスに繋がるフィールドでリアルタイム戦闘を行う宇宙冒険アクションRPG。武器合成・ファクトリー・昆虫バトルなど多層のサブシステムを束ね、惑星を巡る王道スペースオペラを「遊びの密度」で押し切る構成。",
+  "target": "PS2世代のJRPGファン、特に『ドラゴンクエストVIII』『ダーククロニクル』など Level-5 のアクション寄りRPGを好む層。やり込み志向で武器育成・ファクトリーなどの周辺要素を遊び尽くしたいプレイヤー。",
+  "slug": "rogue-galaxy",
+  "file": "data/games/1530-rogue-galaxy.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rogue_Galaxy",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%B0%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC",
+    "https://www.level5.co.jp/products/intro/roguegalaxy/index.html",
+    "https://game.watch.impress.co.jp/docs/20051207/rogue.htm"
+  ]
+}

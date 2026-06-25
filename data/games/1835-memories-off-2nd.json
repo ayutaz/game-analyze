@@ -1,0 +1,33 @@
+{
+  "id": 1835,
+  "title_jp": "メモリーズオフ2nd",
+  "title_en": "Memories Off 2nd",
+  "developer": "KID",
+  "publisher": "KID / MAGES.",
+  "year": 2001,
+  "platform": [
+    "Dreamcast",
+    "PS1",
+    "PC",
+    "PS2",
+    "PSP",
+    "iOS"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "KID 黄金期を代表する恋愛 ADV シリーズの 2 作目。前作から 2 年後の世界を描き、複数ヒロイン分岐と「切ない選択」で泣きゲー文脈に位置づけられ、Dreamcast/PS1 同時発売後に PC・PS2・PSP・iOS へと長期間ポートが続いた。",
+  "concept": "前作の 2 年後を舞台に、主人公・南雲一輝が新たなヒロインたちとの出会いと過去の恋人との関係に揺れる恋愛 ADV。選択肢で結末が分岐し、明るさより「すれ違いと喪失」を描く KID 流の切ないノベル体験を提供する。",
+  "target": "10 代後半〜30 代の男性恋愛 ADV プレイヤー、特に Kanon/AIR/ToHeart 等の泣きゲー文脈に親しんだ層と、KID 系列（メモオフ・Ever17・Infinity）の継続ファン。",
+  "slug": "memories-off-2nd",
+  "file": "data/games/1835-memories-off-2nd.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Memories_Off_2nd",
+    "https://memoriesoff.jp/historia/titles/2/",
+    "https://store.steampowered.com/app/679520/Memories_Off_2nd/",
+    "https://memoriesoff.jp/psp/2nd/"
+  ]
+}

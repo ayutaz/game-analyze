@@ -1,0 +1,31 @@
+{
+  "id": 1028,
+  "title_jp": "リーグ・オブ・レジェンド: ワイルドリフト",
+  "title_en": "League of Legends: Wild Rift",
+  "developer": "Riot Games",
+  "publisher": "Riot Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MOBA（5v5モバイル）",
+  "sales_jp": "—",
+  "sales_world": "150M+ DL / $1B+ 収益",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PC版LoLの5v5サモナーズリフトをモバイル/コンソール向けに再設計した正統派MOBA。2020年10月の日本・韓国・東南アジア先行βから3年で全世界1.11億DL・消費者支出10億ドルを突破し、特に中国市場が牽引した。",
+  "concept": "PC版LoLの戦略性とチャンピオン体験を15-20分のスマホ向け試合に凝縮した「いつでもどこでも遊べるLoL」。タッチ操作に最適化したスキルショットとアイテムビルドで、本家のIPと競技性をモバイルへ移植している。",
+  "target": "PC版LoLのファン層に加え、Mobile Legends / Pokémon UNITE / Honor of Kings 等のモバイルMOBAを遊ぶ10-30代の競技志向プレイヤー。タッチ操作で本格的なチーム戦略を求めるアジア圏ユーザーが中心。",
+  "slug": "league-of-legends-wild-rift",
+  "file": "data/games/1028-league-of-legends-wild-rift.json",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/league-of-legends-wild-rift-reaches-lofty-1-billion-across-111-million-downloads/",
+    "https://prtimes.jp/main/html/rd/p/000000170.000011276.html",
+    "https://wildrift.leagueoflegends.com/en-us/",
+    "https://www.statista.com/statistics/1269309/league-of-legends-wild-rift-global-app-downloads/"
+  ]
+}

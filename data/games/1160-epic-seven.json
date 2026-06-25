@@ -1,0 +1,33 @@
+{
+  "id": 1160,
+  "title_jp": "Epic Seven (エピックセブン)",
+  "title_en": "Epic Seven",
+  "developer": "Super Creative",
+  "publisher": "Smilegate Megaport",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "アニメティック収集型RPG",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL / 累計 $650M+ 収益（2023年8月時点）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "全世界2000万ユーザー規模のアニメ調収集RPG。日本では2022年に運営が Yostar から Smilegate Megaport へ移管後も限定★5英雄ピックアップで App Store 売上ランキング 13 位に急上昇するなど根強い課金層を持つ。",
+  "concept": "ハイクオリティな 2D アニメ演出と縦長フル CG カットインで魅せる「アニメティック RPG」を標榜する英雄収集型ガチャ RPG。シナリオ・ストーリー・ボイス付きキャラ育成と PvP / 同盟戦を組み合わせる。",
+  "target": "アニメ風美麗 2D キャラと長期育成を好む 20-30 代男女、特に韓国・日本・米国・東南アジアのアニメ調ガチャ RPG ファン層。Smilegate IP のキャラクター造形と PvP の競技性を重視するコアな課金プレイヤー。",
+  "slug": "epic-seven",
+  "file": "data/games/1160-epic-seven.json",
+  "_source_urls": [
+    "https://www.4gamer.net/games/365/G036572/20220331015/",
+    "https://www.famitsu.com/news/202203/31256661.html",
+    "https://gamebiz.jp/news/270038",
+    "https://en.wikipedia.org/wiki/Smilegate",
+    "https://sensortower.com/ios/us/smilegate-megaport/app/epic-seven/1322399438/"
+  ]
+}

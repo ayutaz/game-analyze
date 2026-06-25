@@ -1,0 +1,31 @@
+{
+  "id": 1867,
+  "title_jp": "Summer Pockets",
+  "title_en": "Summer Pockets",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "iOS",
+    "Android"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key の集大成として 2018 年に PC で発売、Getchu 月間 1 位・年間 3 位、Japanese Amazon PC ゲーム 12 週連続 1 位。Steam では 98% 圧倒的に好評の長寿タイトルとして英語圏でも高評価。",
+  "concept": "瀬戸内の離島「鳥白島」を舞台に、夏休みを過ごす少年と少女たちの出会い・別れ・喪失を描く Key 王道のジュブナイル系恋愛ビジュアルノベル。Kanon / AIR / CLANNAD 譜系の「泣きゲー」フォーマットを現代的にアップデートした作品。",
+  "target": "Key 作品（Kanon / AIR / CLANNAD / Little Busters!）のファン層、ジュブナイル・泣きゲー志向のビジュアルノベル愛好者、夏の郷愁・喪失と再生のドラマを物語として味わいたい層。",
+  "slug": "summer-pockets",
+  "file": "data/games/1867-summer-pockets.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Summer_Pockets",
+    "https://store.steampowered.com/app/897220/Summer_Pockets/",
+    "https://www.gematsu.com/2018/12/romance-visual-novel-summer-pockets-coming-to-switch-in-spring-2019-in-japan"
+  ]
+}

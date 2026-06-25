@@ -1,0 +1,33 @@
+{
+  "id": 1979,
+  "title_jp": "AMNESIA",
+  "title_en": "Amnesia: Memories",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2011,
+  "platform": [
+    "PSP",
+    "PS Vita",
+    "PC",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "150K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "オトメイトを代表する乙女ゲームの一つで、2011 年 PSP 発売後にファンディスク・続編・アニメ化・ドラマ CD・舞台化まで広がり、海外でも Idea Factory International から英訳版が展開された定番作。",
+  "concept": "記憶を失ったヒロインが、5 つのパラレルワールド（ハート／スペード／クローバー／ダイヤ／ジョーカー）を通じて自分の正体と恋人を取り戻していくマルチエンディング型ミステリー恋愛アドベンチャー。",
+  "target": "10-30 代の女性プレイヤーを中心とした乙女ゲーム層。複数ルートのループ構造とミステリー仕立てを楽しみたいビジュアルノベル愛好層にも刺さる。",
+  "slug": "amnesia-memories",
+  "file": "data/games/1979-amnesia-memories.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Amnesia_(2011_video_game)",
+    "https://www.otomate.jp/amnesia/",
+    "https://www.gematsu.com/games/amnesia-memories",
+    "https://www.otomate-p.jp/game/game-91/"
+  ]
+}

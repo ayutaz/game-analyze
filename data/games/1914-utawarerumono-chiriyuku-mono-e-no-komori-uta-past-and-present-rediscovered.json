@@ -1,0 +1,33 @@
+{
+  "id": 1914,
+  "title_jp": "うたわれるもの 散りゆく者への子守唄",
+  "title_en": "Utawarerumono: Chiriyuku Mono e no Komori Uta (Past and Present Rediscovered)",
+  "developer": "AQUAPLUS",
+  "publisher": "AQUAPLUS / DMM / Shiravune",
+  "year": 2026,
+  "platform": [
+    "PS5",
+    "Switch",
+    "PC"
+  ],
+  "genre": "シミュレーションRPG/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ原点「散りゆく者への子守唄」を含むうたわれるもの三部作および前日譚 Monochrome Mobius を束ねた 2026 年版ワールドワイド再リリース。PS5 / Switch 2 / Steam 同時発売で英語・中国語にも初対応し、海外ファンが長年待望していた完全パッケージとして話題に。",
+  "concept": "原作 2002 年の SRPG アドベンチャー「散りゆく者への子守唄」を 2018 年 HD リメイクの 3D 戦闘システムごと包括し、Steam では「Past and Present Rediscovered」名義で全シリーズを縦断する物語パッケージとして再構成。トゥスクル建国譚を世界中のプレイヤーがネイティブ言語で読み直せる「シリーズ完結記念盤」と位置づけられている。",
+  "target": "和風ファンタジー/SRPGアドベンチャー好きの 30-50 代男性層に加え、Monochrome Mobius から入って原点の物語を辿りたい海外ファン、シリーズ完結を見届けたい既存のうたわれるものファン。",
+  "slug": "utawarerumono-chiriyuku-mono-e-no-komori-uta-past-and-present-rediscovered",
+  "file": "data/games/1914-utawarerumono-chiriyuku-mono-e-no-komori-uta-past-and-present-rediscovered.json",
+  "_source_urls": [
+    "https://aquaplus.jp/uta/chiri/",
+    "https://shiravune.com/archives/10610",
+    "https://www.gematsu.com/2025/11/utawarerumono-shiro-e-no-michishirube-confirmed-for-ps5-switch-2-and-pc",
+    "https://www.rpgsite.net/games/2311-utawarerumono-past-and-present-rediscovered",
+    "https://store.steampowered.com/app/1151450/"
+  ]
+}

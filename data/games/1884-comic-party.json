@@ -1,0 +1,32 @@
+{
+  "id": 1884,
+  "title_jp": "こみっくパーティー",
+  "title_en": "Comic Party",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 1999,
+  "platform": [
+    "PC",
+    "Dreamcast",
+    "PSP"
+  ],
+  "genre": "恋愛アドベンチャー+同人誌制作シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "コミケ（同人誌即売会）をテーマにした稀有な恋愛AVG+SLGとして話題化。Leaf 黄金期（To Heart 直後）の代表作の一つで、後にアニメ化2期＋PSP/DC 移植まで展開。",
+  "concept": "高校生・千堂可憐が同人誌即売会「Comic Party」に巻き込まれ、漫画家として成長していく恋愛AVG+月次スケジュールSLG。原稿の進捗・売上・ヒロインとの関係が全てプレイヤーの時間配分で決まる。",
+  "target": "1999年前後の Leaf／葉鍵系恋愛ADVファン、コミケ・同人誌文化に親しみのある10代後半〜30代のオタク男性層。",
+  "slug": "comic-party",
+  "file": "data/games/1884-comic-party.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Comic_Party",
+    "https://ja.wikipedia.org/wiki/%E3%81%93%E3%81%BF%E3%81%A3%E3%81%8F%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC",
+    "https://leaf.aquaplus.jp/product/cp/",
+    "https://aquaplus.fandom.com/wiki/Comic_Party"
+  ]
+}

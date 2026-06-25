@@ -1,0 +1,28 @@
+{
+  "id": 1713,
+  "title_jp": "ファンタシースターIII 時の継承者",
+  "title_en": "Phantasy Star III: Generations of Doom",
+  "developer": "Sega",
+  "publisher": "Sega",
+  "year": 1990,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "RPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "結婚相手によって主人公の子・孫世代に物語が分岐する「世代継承システム」を採用し、3世代にわたる壮大なサーガが話題に。シリーズ内では賛否が分かれた異色作だが、独自の分岐構造で長く語られる。",
+  "concept": "プレイヤーの結婚選択により次世代の主人公・能力・ストーリーが変化する「世代継承」が中核。3世代を通じて4通りのエンディングを迎える、当時としては野心的な分岐型RPG。",
+  "target": "メガドライブ世代の中高生〜大人のRPGファン、特にファンタシースターシリーズを追ってきたプレイヤーや、分岐・マルチエンディングに惹かれる物語派ユーザー。",
+  "slug": "phantasy-star-iii-generations-of-doom",
+  "file": "data/games/1713-phantasy-star-iii-generations-of-doom.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phantasy_Star_III:_Generations_of_Doom",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B7%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BCIII_%E6%99%82%E3%81%AE%E7%B6%99%E6%89%BF%E8%80%85"
+  ]
+}

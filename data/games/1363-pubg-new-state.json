@@ -1,0 +1,31 @@
+{
+  "id": 1363,
+  "title_jp": "PUBG: NEW STATE (NEW STATE MOBILE)",
+  "title_en": "PUBG: New State",
+  "developer": "PUBG Studios",
+  "publisher": "Krafton",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/TPS",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "リリース後わずか5日で全世界2,000万DL、約1ヶ月で4,000万DL、2021年12月時点で5,000万DL超を達成。日本/韓国/米国/ドイツ/サウジアラビア含む165ヶ国以上のApp Store/Google Play で首位を獲得し、公式アンバサダー渡辺直美のPR映像も話題となった。",
+  "concept": "PUBG世界の2051年・近未来「TROI」を舞台にした次世代モバイル特化バトルロイヤル。ドローン・回収車両・グレネードランチャー等の新ガジェットと武器カスタマイズで、原作PUBG MOBILEとは差別化されたよりSF寄り・タクティカルな100人バトロワを志向。",
+  "target": "PUBG MOBILEの飽和を感じたコアバトロワ層、近未来SF設定/武器カスタマイズを好む10-30代男性プレイヤー、モバイルで本格TPSを求める層。",
+  "slug": "pubg-new-state",
+  "file": "data/games/1363-pubg-new-state.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/New_State_Mobile",
+    "https://press.krafton.com/KRAFTON-OFFICIALLY-LAUNCHES-PUBG-NEW-STATE-GLOBALLY",
+    "https://doope.jp/2021/11121587.html",
+    "https://esportsnewsjapan.jp/%E3%80%90news%E3%80%91%E3%80%8Epubg-new-state%E3%80%8F%E5%85%A8%E4%B8%96%E7%95%8C4000%E4%B8%87%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%AA%81%E7%A0%B4%EF%BC%81%E5%85%AC%E5%BC%8F/"
+  ]
+}

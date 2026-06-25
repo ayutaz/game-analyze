@@ -1,0 +1,32 @@
+{
+  "id": 1119,
+  "title_jp": "Evony: The King's Return",
+  "title_en": "Evony: The King's Return",
+  "developer": "TG Inc. (Top Games)",
+  "publisher": "TG Inc.",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "リアルタイムストラテジー/MMO城下町建設",
+  "sales_jp": "—",
+  "sales_world": "$355M+/年 (2023)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「ピンを抜くパズル」広告で世界中に拡散し、累計3億DL超・2023年単年で$355M超を売り上げた長寿RTS。日本でもトリンドル玲奈起用のTVCMで認知拡大。",
+  "concept": "三国志11を正式ライセンスした「都市建設×領主同盟戦」のリアルタイムストラテジーMMO。資源を集めて城を強化し、ワールド規模のサーバー間戦争と外交を長期運営で楽しませる。",
+  "target": "30-50代の重課金志向ストラテジー好き、世界中のプレイヤーと同盟を組んで長期間遊びたい層、広告に釣られて入ってきたカジュアル層からのコア転換層。",
+  "slug": "evony-the-kings-return",
+  "file": "data/games/1119-evony-the-kings-return.json",
+  "_source_urls": [
+    "https://topgamevony.wixsite.com/home/post/tpis-evony-tkr-reached-over-355m-in-2023",
+    "https://app.w3g.jp/evony-the-kings-return",
+    "https://www.famitsu.com/news/202207/01265581.html",
+    "https://finance.yahoo.com/news/things-know-evony-king-return-171500094.html"
+  ]
+}

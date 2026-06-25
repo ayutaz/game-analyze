@@ -1,0 +1,30 @@
+{
+  "id": 1445,
+  "title_jp": "クラッシュ・バンディクー2 コルテックスの逆襲！",
+  "title_en": "Crash Bandicoot 2: Cortex Strikes Back",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1997,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3Dアクション/プラットフォーマー",
+  "sales_jp": "1.10M",
+  "sales_world": "7.58M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1 期 Naughty Dog 黄金時代の代表作で、日本では西洋開発タイトルとして異例の 110 万本超を記録。シリーズ累計 11.5M を牽引した最大ヒット作で、現在も「Sony 1st/2nd party 制作の西洋タイトルとして日本歴代最多販売」の座を保持している。",
+  "slug": "crash-bandicoot-2-cortex-strikes-back",
+  "file": "data/games/1445-crash-bandicoot-2-cortex-strikes-back.json",
+  "concept": "前作のステージ選択型から「ワープルーム」を介したハブ構造に進化させた 3D プラットフォーマー。スピンアタック・スライディング・腹ばい・ジャンプを組み合わせた精密操作で、奥行き／横スクロール／追跡型などバリエーション豊かなステージを攻略し、隠しジェムや色付きジェム獲得を目指す体験設計。",
+  "target": "PS1 世代を中心とした全年齢層のアクションゲーマー。当時の日本では西洋キャラ嫌悪を超えてキッズ〜ファミリー層にも浸透し、「日本人にも遊びやすい西洋アクション」の代表として親しまれた。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AF%E3%83%BC2_%E3%82%B3%E3%83%AB%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E9%80%86%E8%A5%B2!",
+    "https://crashynews.wordpress.com/2020/12/14/list-of-unit-sales-for-crash-bandicoot-games-available-sources-ongoing/",
+    "https://www.neogaf.com/threads/26-years-later-crash-bandicoot-2-cortex-strikes-back-is-still-sonys-best-selling-western-developed-1st-2nd-party-exclusive-of-all-time-in-japan.1649385/"
+  ]
+}

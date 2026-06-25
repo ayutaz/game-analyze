@@ -1,0 +1,34 @@
+{
+  "id": 1603,
+  "title_jp": "ドライバー3",
+  "title_en": "Driv3r",
+  "developer": "Reflections Interactive",
+  "publisher": "Atari",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC",
+    "GBA"
+  ],
+  "genre": "オープンワールド型カーアクション/TPS",
+  "sales_jp": "—",
+  "sales_world": "2.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "欧米で初回出荷 250 万本を記録しシリーズ累計 1,200 万本に到達した話題作。一方で発売直後に高評価レビューを巡る『Driv3rgate』騒動が発生し、ゲームメディアの倫理問題として長く語られた。",
+  "concept": "Driver シリーズ第 3 作。FBI 潜入捜査官タナーとなり、マイアミ・ニース・イスタンブールという 3 都市の広大なオープンワールドを舞台に、高級車専門の国際窃盗団を追う 3D カーアクション。徒歩での銃撃戦も導入し、GTA 系オープンワールド犯罪アクションへの対抗を狙った。",
+  "target": "GTA 系の犯罪オープンワールドや、映画的なカーチェイス・スタント演出を好む 10 代後半〜30 代の男性プレイヤー、および Driver / Driver 2 から続くシリーズファン。",
+  "slug": "driv3r",
+  "file": "data/games/1603-driv3r.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Driver_3",
+    "https://ja.wikipedia.org/wiki/DRIV3R",
+    "https://dengekionline.com/data/news/2004/7/23/032cc4c22d4605a152077c5bae944a98.html",
+    "https://game.watch.impress.co.jp/docs/20040723/driv3r.htm",
+    "https://www.mobygames.com/game/13723/driv3r/"
+  ]
+}

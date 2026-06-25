@@ -1,0 +1,42 @@
+{
+  "id": 1722,
+  "title_jp": "コミックスゾーン",
+  "title_en": "Comix Zone",
+  "developer": "Sega Technical Institute",
+  "publisher": "Sega",
+  "year": 1995,
+  "platform": [
+    "Mega Drive",
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch",
+    "PS4",
+    "PS3",
+    "PS2",
+    "PSP",
+    "Xbox One",
+    "Xbox 360",
+    "Wii",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ベルトスクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「漫画のコマを飛び移って戦う」という独創的な演出が話題を呼んだメガドライブ末期のカルト名作。後年のセガレトロ系コンピレーションに必ず収録され、ジャンル史を語る際にも参照される。",
+  "concept": "主人公の漫画家が自作コミックの世界に閉じ込められ、コマからコマへとページをめくりながら格闘するベルトスクロールアクション。フキダシ・描き文字・破れる紙面など、漫画そのものを操作する演出が最大の個性。",
+  "target": "メガドライブ世代のレトロゲームファン、アメコミやコミック表現のビジュアルが好きな層、歯ごたえあるベルトスクロールを短時間で味わいたいコアアクションプレイヤー。",
+  "slug": "comix-zone",
+  "file": "data/games/1722-comix-zone.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Comix_Zone",
+    "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BE%E3%83%BC%E3%83%B3",
+    "https://www.sega.jp/mdmini/soft/comix-zone.html",
+    "https://game.watch.impress.co.jp/docs/feature/1207663.html",
+    "https://www.mobygames.com/game/3300/comix-zone/"
+  ]
+}

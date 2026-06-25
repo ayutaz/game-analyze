@@ -1,0 +1,32 @@
+{
+  "id": 1840,
+  "title_jp": "YU-NO この世の果てで恋を唄う少女",
+  "title_en": "YU-NO: A Girl Who Chants Love at the Bound of this World",
+  "developer": "MAGES.",
+  "publisher": "MAGES. / Spike Chunsoft",
+  "year": 2017,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "Switch",
+    "PC"
+  ],
+  "genre": "アドベンチャー/伝奇SFビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1996年原作の伝説的伝奇SF ADV を 2017 年に MAGES. がフルリメイク。発売初週で 4 万本超を記録し、Spike Chunsoft による英語版世界配信（2019）でも海外マニア層に再評価された。",
+  "concept": "並行世界を物理的に「跳躍」する宝玉システムでマルチエンディングを横断する、伝奇 SF × ハードな物語性を両立した古典 ADV のリメイク。中盤までの並行世界編と、終盤の地球外編という二段構成で「世界の選択」を物語化する。",
+  "target": "1990 年代美少女ゲーム黄金期を知る 30–50 代男性 ADV ファンと、Steins;Gate などの MAGES. 系作品から伝奇 ADV の源流を遡って体験したい層。",
+  "slug": "yu-no-a-girl-who-chants-love-at-the-bound-of-this-world",
+  "file": "data/games/1840-yu-no-a-girl-who-chants-love-at-the-bound-of-this-world.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/YU-NO:_A_Girl_Who_Chants_Love_at_the_Bound_of_this_World",
+    "https://store.steampowered.com/app/912450/YUNO_A_girl_who_chants_love_at_the_bound_of_this_world/",
+    "https://www.spike-chunsoft.com/YU-NO/",
+    "https://yu-no.jp/",
+    "https://www.4gamer.net/games/445/G044584/20190802131/"
+  ]
+}

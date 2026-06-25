@@ -1,0 +1,32 @@
+{
+  "id": 1292,
+  "title_jp": "レゴ スター・ウォーズ：キャストアウェイ",
+  "title_en": "LEGO Star Wars: Castaways",
+  "developer": "Gameloft Montreal",
+  "publisher": "Gameloft",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Mac"
+  ],
+  "genre": "ソーシャル・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Apple Arcade 独占の『レゴ スター・ウォーズ』初オンライン・ソーシャル作品として 2021 年 11 月 19 日に配信。最大 4 人でミステリアスな島を探検する協力プレイが話題となり、2022 Pocket Gamer Awards『Best Family Game』にノミネートされた。",
+  "concept": "プレイヤーは自作のレゴ・ミニフィグとして謎の島に漂着した「キャストアウェイ」となり、他プレイヤーと協力してクエスト・戦闘・レース・建築コンテスト・スター・ウォーズ名場面の追体験ミニゲームを進める、初のオンライン・ソーシャル型レゴ スター・ウォーズ。",
+  "target": "レゴ／スター・ウォーズ両方のファミリー層、Apple Arcade 加入者、子どもと一緒に短時間の協力プレイを楽しみたい親子層、ミニフィグのカスタマイズを SNS で共有したいライトプレイヤー。",
+  "slug": "lego-star-wars-castaways",
+  "file": "data/games/1292-lego-star-wars-castaways.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Lego_Star_Wars:_Castaways",
+    "https://www.gameloft.com/for-brands/news/lego-star-warstm-castaways-now-available-exclusively-apple-arcade",
+    "https://apps.apple.com/jp/app/lego-star-wars-castaways/id1474344996",
+    "https://www.gamer.ne.jp/news/202111250043/",
+    "https://toucharcade.com/2021/11/19/lego-star-wars-castaways-download-apple-arcade-out-now-clap-hanz-golf-angry-birds-zen-pinball-multiplayer-funko-spire-blast-outlanders-2021/"
+  ]
+}

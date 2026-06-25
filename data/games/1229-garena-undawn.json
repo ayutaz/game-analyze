@@ -1,0 +1,33 @@
+{
+  "id": 1229,
+  "title_jp": "Garena アンドウン",
+  "title_en": "Garena Undawn",
+  "developer": "LightSpeed Studios (Tencent)",
+  "publisher": "Garena / Tencent",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド終末ゾンビサバイバル RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Tencent / LightSpeed が約 10 億元（約 1.4 億ドル）を投じた AAA 級モバイル/PC ゾンビサバイバル。Will Smith を起用した実写トレーラーで話題化し、東南アジアでは Garena が、グローバルでは Level Infinite が配信。日本配信前の事前登録 100 万人突破も、2024 年 3 月の Reuters 報道では月商 28.7 万ドルで「大コケ」と評された。",
+  "slug": "garena-undawn",
+  "file": "data/games/1229-garena-undawn.json",
+  "concept": "PUBG MOBILE 開発の LightSpeed Studios による Unreal Engine 4 製オープンワールド終末サバイバル RPG。空腹/水分/体力/気分など多数のステータスを管理しながら資源採集・クラフト・拠点建築・PvE/PvP を行うシームレスな広大マップが売り。",
+  "target": "PUBG / Free Fire 経由のシューター層、Day Z / Rust 系オープンワールドサバイバル好き、ゾンビ題材のシネマティックなソロ/協力 RPG を求める 10〜30 代モバイル/PC ゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Undawn",
+    "https://store.steampowered.com/app/1881700/Undawn/?l=japanese",
+    "https://www.levelinfinite.com/ja/game/undawn/",
+    "https://www.4gamer.net/games/561/G056136/20230615008/",
+    "https://tencentjapan.com/pressrelease/1633/"
+  ]
+}

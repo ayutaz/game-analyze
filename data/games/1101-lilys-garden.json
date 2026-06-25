@@ -1,0 +1,34 @@
+{
+  "id": 1101,
+  "title_jp": "リリーズガーデン",
+  "title_en": "Lily's Garden",
+  "developer": "Tactile Games",
+  "publisher": "Tactile Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "タップパズル/ガーデン改装ナラティブ",
+  "sales_jp": "—",
+  "sales_world": "70M+ DL / 累計$517M+（data.ai 推計）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "デンマーク Tactile Games 発の世界的ヒット。「広告と中身が違う」と話題になった独特の実写風キャラクター広告と、ガーデニング×タップブラスト×昼ドラ的ストーリーの組み合わせで 70M DL / $517M 超を達成。",
+  "concept": "都会から田舎の大叔母の屋敷に戻った主人公リリーが、隣接同色タイルをタップで消すブラスト型パズルを解いて星を貯め、荒れ果てた庭と屋敷を少しずつ改装していく。改装の節目で個性的なキャラクターたちが絡む昼ドラ調のストーリーが進む、パズル×ナラティブ×収集の融合タイトル。",
+  "target": "20-50代の女性層を中心としたカジュアル層、Gardenscapes/Homescapes 系の改装パズルや昼ドラ的ストーリーが好きなプレイヤー。スキマ時間に短時間プレイしたい層。",
+  "slug": "lilys-garden",
+  "file": "data/games/1101-lilys-garden.json",
+  "_source_urls": [
+    "https://tactilegames.com/games/lilys-garden/",
+    "https://www.pocketgamer.biz/how-tactile-games-made-marketing-and-diversity-core-to-lilys-gardens-500-million-success/",
+    "https://apps.apple.com/jp/app/%E3%83%AA%E3%83%AA%E3%83%BC%E3%81%AE-%E3%82%AC%E3%83%BC%E3%83%87%E3%83%8B%E3%83%B3%E3%82%B0%E5%A4%A7%E4%BD%9C%E6%88%A6/id1437783446",
+    "https://play.google.com/store/apps/details?id=dk.tactile.lilysgarden"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

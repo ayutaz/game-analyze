@@ -1,0 +1,29 @@
+{
+  "id": 1467,
+  "title_jp": "グランド・セフト・オート",
+  "title_en": "Grand Theft Auto",
+  "developer": "DMA Design",
+  "publisher": "ASC Games / Take-Two Interactive",
+  "year": 1997,
+  "platform": [
+    "PC",
+    "PS1",
+    "Game Boy"
+  ],
+  "genre": "見下ろし型クライムアクション/オープンワールド",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "見下ろし2Dで都市を自由に走り回り、車を奪い犯罪を重ねるという反社会的な遊びが当時の英米メディアで大論争を呼び、シリーズ伝説の出発点となった。",
+  "concept": "架空のリバティシティ・サンアンドレアス・ベガスを舞台に、犯罪組織からのミッションをこなしてスコアを稼ぐ見下ろし型クライムアクション。決まった目的地を持たず「街の中で何をやっても許される」開放感が以後のシリーズの基盤を作った。",
+  "target": "PC/PS1 世代のティーン〜大人男性ゲーマー。アーケード的なドライブ＆アクションを好み、ブラックユーモアと反権威的な世界観に惹かれるプレイヤー層。",
+  "slug": "grand-theft-auto",
+  "file": "data/games/1467-grand-theft-auto.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grand_Theft_Auto_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%BB%E3%83%95%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88",
+    "https://note.com/j1n1/n/n3363d2978d41"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1503,
+  "title_jp": "ファイナルファンタジーXII",
+  "title_en": "Final Fantasy XII",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "RPG（シームレスバトル/ガンビット制）",
+  "sales_jp": "2.38M+",
+  "sales_world": "6.1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "PS2 末期の超大作 FF。発売 2 週で日本 238 万本、累計 600 万本超。ゾディアックエイジで PS4/Switch/Xbox/PC に展開し再評価された。",
+  "slug": "final-fantasy-xii",
+  "file": "data/games/1503-final-fantasy-xii.json",
+  "concept": "イヴァリースを舞台にした political fantasy。シームレスフィールドとガンビット（AI 行動マクロ）で「物語を進めながら戦闘を半自動化する」FF として、ナンバリングの中でも異色のシステム志向作品。",
+  "target": "FF シリーズ追従層、特に重厚な政治劇・世界観を読み込みたい大人向け JRPG ファン。MMO 的なシームレス戦闘とビルド構築を楽しみたい層にも刺さる。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Final_Fantasy_XII",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCXII",
+    "https://www.vgchartz.com/game/765/final-fantasy-xii/",
+    "https://www.rpgsite.net/feature/19887-final-fantasy-xii-zodiac-age-pc-vs-ps5-switch-2-xbox-ff12-best-version-today"
+  ]
+}

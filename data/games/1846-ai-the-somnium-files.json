@@ -1,0 +1,34 @@
+{
+  "id": 1846,
+  "title_jp": "AI: ソムニウム ファイル",
+  "title_en": "AI: The Somnium Files",
+  "developer": "Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2019,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PC",
+    "Xbox One"
+  ],
+  "genre": "アドベンチャー/ミステリー(サイコ・サスペンス)",
+  "sales_jp": "—",
+  "sales_world": "300K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "打越鋼太郎(極限脱出)新作として海外ADVファンに刺さり、メタクリ高評価。Switchの年間ベスト12位入りし続編・スピンオフへ展開。",
+  "slug": "ai-the-somnium-files",
+  "file": "data/games/1846-ai-the-somnium-files.json",
+  "concept": "義眼AI「アイボゥ」を相棒に夢の中(ソムニウム)へダイブして連続猟奇殺人を解くサイコ・ミステリーADV。会話パートと夢パズルを行き来する打越節の分岐シナリオが核。",
+  "target": "999/ZERO ESCAPE シリーズなど打越作品のファン、テキスト密度の高い海外型ミステリーADVを好む20-40代。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/AI:_The_Somnium_Files",
+    "https://ja.wikipedia.org/wiki/AI:_%E3%82%BD%E3%83%A0%E3%83%8B%E3%82%A6%E3%83%A0_%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB",
+    "https://www.spike-chunsoft.co.jp/pages/ai/top.html",
+    "https://store.steampowered.com/app/948740/AI_The_Somnium_Files/",
+    "https://www.4gamer.net/games/426/G042601/20250523063/"
+  ]
+}

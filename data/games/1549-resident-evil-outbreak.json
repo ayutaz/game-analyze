@@ -1,0 +1,30 @@
+{
+  "id": 1549,
+  "title_jp": "バイオハザード アウトブレイク",
+  "title_en": "Resident Evil Outbreak",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サバイバルホラー/オンライン協力アクション",
+  "sales_jp": "—",
+  "sales_world": "1.45M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "シリーズ初のオンラインマルチプレイに対応。一般市民として 8 人のキャラクターから 3 人パーティで RACCOON CITY を生き延びる協力プレイ体験が、PS2 期のオンライン家庭用ゲームの先駆として強烈に記憶された。",
+  "concept": "ラクーンシティ事件を一般市民の視点から描く 5 つの短編シナリオを、最大 4 人オンライン or AI 同行 3 人で攻略する協力型サバイバルホラー。ウイルス感染ゲージや会話制限など、協力に独特の緊張感を持ち込んだスピンオフ。",
+  "target": "バイオハザード本編ファンに加え、PS2 のネットワークアダプタを所有していたオンラインゲーム黎明期のプレイヤー層。協力プレイでホラーを共有したい 20-30 代男性中心。",
+  "slug": "resident-evil-outbreak",
+  "file": "data/games/1549-resident-evil-outbreak.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Resident_Evil_Outbreak",
+    "https://www.capcom.co.jp/ir/english/business/million.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89_%E3%82%A2%E3%82%A6%E3%83%88%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF",
+    "https://www.famitsu.com/article/202512/60072"
+  ]
+}

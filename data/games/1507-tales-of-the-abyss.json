@@ -1,0 +1,31 @@
+{
+  "id": 1507,
+  "title_jp": "テイルズ オブ ジ アビス",
+  "title_en": "Tales of the Abyss",
+  "developer": "Namco Tales Studio",
+  "publisher": "Bandai Namco",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "3DS"
+  ],
+  "genre": "アクションRPG（マザーシップタイトル）",
+  "sales_jp": "約56万本（PS2、2006年末）",
+  "sales_world": "734K+ (PS2 worldwide 2007時点)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "テイルズ オブ シリーズ10周年記念作として2005年に PS2 で発売され、ルークの「生まれてきてすみません」をはじめとする重厚な物語と FOF 連携を活用したフリーランバトルで高い評価を獲得。2011 年の 3DS リマスター移植やアニメ化を通じて、テイルズシリーズ屈指の名作 RPG として今も語り継がれる。",
+  "concept": "「正義とは何か」「贖罪」をテーマにしたシリアスな群像劇を、FOF（フィールド・オブ・フォニム）と自由移動バトルを核にした 3D アクション RPG で描く 10 周年記念作。主人公ルークの成長と転落、そして再生の物語を 60 時間以上かけて辿らせる。",
+  "target": "10代後半〜30代のJRPGファン、特にストーリー重視のテイルズ系列ファン。重厚な物語と王道アクション RPG の両立を求めるプレイヤー層。",
+  "slug": "tales-of-the-abyss",
+  "file": "data/games/1507-tales-of-the-abyss.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_the_Abyss",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%B8_%E3%82%A2%E3%83%93%E3%82%B9",
+    "https://www.bandainamcoent.co.jp/cs/list/talesoftheabyss/",
+    "https://kopenguin.com/post-68525/"
+  ]
+}

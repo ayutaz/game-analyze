@@ -1,0 +1,40 @@
+{
+  "id": 1648,
+  "title_jp": "ロマンシング サ・ガ3",
+  "title_en": "Romancing SaGa 3",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1995,
+  "platform": [
+    "SNES",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "PC",
+    "PS Vita",
+    "iOS",
+    "Android"
+  ],
+  "genre": "フリーシナリオRPG",
+  "sales_jp": "1.3M",
+  "sales_world": "1.3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "SFC末期に130万本出荷でロマサガ史上最高セールス。2019年に8プラットフォーム同時HDリマスターで再評価され、トマエ火山ボストン他の閃き戦闘とフリーシナリオが再びSNSで語られた。",
+  "concept": "8人の主人公から選び世界を自由に巡るフリーシナリオRPGの完成形。閃きシステムによる即興的なバトル構築と、術法・陣形・マスコンバットの自由度で「自分だけの周回」を作らせる体験型RPG。",
+  "target": "SFC世代のJRPGファン、サガシリーズの自由度と高難度バトルを愛好する層、リマスターで初体験する20-40代のレトロJRPG好き。",
+  "slug": "romancing-saga-3",
+  "file": "data/games/1648-romancing-saga-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Romancing_SaGa_3",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_%E3%82%B5%E3%83%BB%E3%82%AC3",
+    "https://store.steampowered.com/app/952540",
+    "https://mantan-web.jp/article/20180920dog00m200007000c.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

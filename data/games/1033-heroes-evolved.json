@@ -1,0 +1,33 @@
+{
+  "id": 1033,
+  "title_jp": "Heroes Evolved",
+  "title_en": "Heroes Evolved",
+  "developer": "R2Games / NetDragon",
+  "publisher": "R2Games",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "5v5 MOBA",
+  "sales_jp": "—",
+  "sales_world": "20M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "DotA/LoL 系の本格 5v5 MOBA をスマホでそのまま遊べる軽量タイトルとして 2017 年にグローバル展開し、120 以上のヒーローと iOS/Android/PC クロスプレイで一定のユーザー基盤を獲得。PC 版はサ終したがモバイル版は NetDragon 体制で運営継続。",
+  "slug": "heroes-evolved",
+  "file": "data/games/1033-heroes-evolved.json",
+  "concept": "League of Legends / Dota 2 のフォーマットをそのままモバイル端末に持ち込んだ 5v5 ハードコア MOBA。1 試合 15-20 分のレーン戦・ジャングル・タワー破壊を、ピンポイント操作とアイテムビルドの自由度で再現する。",
+  "target": "PC MOBA 経験者でスマホでも本格的なレーン戦をしたい 10-30 代男性中心。Mobile Legends / Arena of Valor を遊び尽くしてより硬派な操作感を求める MOBA マニア層。",
+  "_source_urls": [
+    "https://www.prnewswire.com/news-releases/heroes-evolved-the-hottest-5v5-moba-on-mobile-is-now-available-globally-300438602.html",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HeroesEvolved",
+    "https://apps.apple.com/us/app/heroes-evolved/id1173388413",
+    "https://www.mobygames.com/game/87630/heroes-evolved/",
+    "https://www.steamspy.com/app/534820"
+  ]
+}

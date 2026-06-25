@@ -1,0 +1,30 @@
+{
+  "id": 1798,
+  "title_jp": "ひぐらしデイブレイク",
+  "title_en": "Higurashi Daybreak",
+  "developer": "Twilight Frontier",
+  "publisher": "07th Expansion",
+  "year": 2006,
+  "platform": [
+    "PC",
+    "PSP"
+  ],
+  "genre": "同人 3D 対戦アクション/サードパーソンシューター",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "『ひぐらしのなく頃に』キャラクターを操作してガンダム VS シリーズ風の 2 vs 2 で戦える同人格闘シューターとして、コミケと PSP 移植（2008、Alchemist 販売）を経て話題に。",
+  "concept": "黄昏フロンティアによる 07th Expansion 公認の同人 3D 対戦アクション。原作キャラを 2 vs 2 のチーム戦で操作し、ネットプレイ対応で対人戦が楽しめる「キャラゲー×対戦シューター」のハイブリッド。",
+  "target": "『ひぐらしのなく頃に』ファンと、東方系黄昏フロンティア作品（メルブラ・非想天則等）を遊ぶ同人対戦コミュニティ層。原作を読み終えた後にキャラを操作したい層に強い。",
+  "slug": "higurashi-daybreak",
+  "file": "data/games/1798-higurashi-daybreak.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Higurashi_Daybreak",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_Daybreak",
+    "https://www.mobygames.com/game/48921/higurashi-daybreak/"
+  ]
+}

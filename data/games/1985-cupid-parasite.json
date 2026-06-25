@@ -1,0 +1,29 @@
+{
+  "id": 1985,
+  "title_jp": "キューピットパラサイト",
+  "title_en": "Cupid Parasite",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2020,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「恋の女神キューピッドが地上で恋愛コンサルとして働く」というラブコメ寄りの設定が乙女ゲーマー界隈で話題化。2021 年の西洋ローカライズで英語圏オトメコミュニティでも好評を得て、2023 年のファンディスク『Sweet and Spicy Darling』、2026 年の Steam 移植発表（Idea Factory が 2018 年以来となる乙女 PC 移植）でも継続的に注目された。",
+  "concept": "「恋の女神キューピッドが地上に降りて恋愛コンサル会社で働く」というファンタジー・ラブコメ設定の乙女ビジュアルノベル。シリアスより軽妙なロマコメ調を全面に押し出し、5 人のクセ強めの「手強い独身男性（パラサイト5）」を恋愛させていく筋立てが特徴。",
+  "target": "10-30 代の女性、特に乙女ゲーム経験者で重い和風シリアスより洋風コメディタッチを好む層。海外オトメファンにも刺さりやすい入門寄り作品。",
+  "slug": "cupid-parasite",
+  "file": "data/games/1985-cupid-parasite.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Cupid_Parasite",
+    "https://www.animenewsnetwork.com/news/2021-09-22/otomate-cupid-parasite-switch-game-launches-in-west-in-november/.177694",
+    "https://otomekitten.com/2026/04/22/otome-game-cupid-parasite-is-coming-to-steam-in-2026/",
+    "https://game8.co/articles/latest/cupid-parasites-steam-port-marks-idea-factorys-first-otome-pc-port-since-2018"
+  ]
+}

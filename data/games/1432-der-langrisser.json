@@ -1,0 +1,33 @@
+{
+  "id": 1432,
+  "title_jp": "デア ラングリッサー",
+  "title_en": "Der Langrisser",
+  "developer": "NCS / Career Soft",
+  "publisher": "Masaya",
+  "year": 1997,
+  "platform": [
+    "SNES",
+    "PS1"
+  ],
+  "genre": "シミュレーションRPG / 戦略RPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "うるし原智志による艶やかなキャラクターデザインと、4 ルート（光・帝国・闇・独立軍）に分岐するマルチシナリオが当時のSRPGとして画期的で、SFC期SRPGの傑作として現在まで語り継がれる。1997年のPS1版『ラングリッサーI&II』バンドルや、後のスマホ版『ラングリッサー モバイル』復刻でも本作シナリオが基幹を成す。",
+  "concept": "メガドライブ版『ラングリッサーII』をベースに再構築した、指揮官＋傭兵部隊で戦うクラスチェンジ型SRPG。プレイヤーの選択でシナリオが4勢力に分岐し、70 を超えるステージと60以上のクラスチェンジで周回プレイ前提の戦略体験を提供する。",
+  "target": "20-40代のSRPGファン、特に『ファイアーエムブレム』『スーパーロボット大戦』と並ぶ90年代SRPG黄金期を体験したい層。マルチエンディング・周回プレイ・キャラクター育成を組み合わせた重厚な戦略ゲームを求めるプレイヤー。",
+  "slug": "der-langrisser",
+  "file": "data/games/1432-der-langrisser.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Der_Langrisser",
+    "https://en.wikipedia.org/wiki/Langrisser",
+    "https://www.mobygames.com/game/15016/langrisser-i-ii/",
+    "https://www.famitsu.com/games/t/3509/",
+    "https://superfamicom.org/info/der-langrisser",
+    "https://www.srpg.academy/langrisser/langrisser-dramatic-edition-and-other-l2-ports/"
+  ]
+}

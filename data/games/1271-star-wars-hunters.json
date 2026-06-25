@@ -1,0 +1,32 @@
+{
+  "id": 1271,
+  "title_jp": "スター・ウォーズ：ハンターズ",
+  "title_en": "Star Wars: Hunters",
+  "developer": "NaturalMotion / BossAlien",
+  "publisher": "Zynga",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アリーナバトル/4v4 TPS",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Zynga × Lucasfilm Games による Star Wars 公式 F2P アリーナシューター。2021 ソフトローンチから 3 年延期を経て 2024-06-04 に Switch / iOS / Android で正式リリースされたが、商業的に振るわず 2025-10-01 にサービス終了が発表され話題になった。",
+  "concept": "スター・ウォーズ世界の銀河大戦後を舞台にした 4v4 リアルタイム対戦アリーナ。ジェダイ・バウンティハンター・ウーキー・ドロイドなど多彩なハンターを操作し、TPS アクションでチーム戦するのが核。",
+  "target": "Star Wars IP ファンと、Overwatch / Apex 等ヒーローアリーナ対戦をモバイル / Switch で気軽に遊びたい 10-30 代。Switch でクロスプレイ対応を狙ったコンソール志向のモバイル層が想定された。",
+  "slug": "star-wars-hunters",
+  "file": "data/games/1271-star-wars-hunters.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Wars:_Hunters",
+    "https://www.zynga.com/blog/zynga-launches-star-wars-hunters-on-nintendo-switch-mobile-devices/",
+    "https://gamebiz.jp/news/402481",
+    "https://automaton-media.com/articles/newsjp/star-wars-hunters-20250315-331689/"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1266,
+  "title_jp": "マーベル オールスターバトル",
+  "title_en": "Marvel Contest of Champions",
+  "developer": "Kabam Games",
+  "publisher": "Kabam",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Arcade"
+  ],
+  "genre": "対戦アクション/格闘（基本無料）",
+  "sales_jp": "—",
+  "sales_world": "$2B+ 累計 / 2024年 $128.6M / 2018年ピーク $264.5M / 世界累計 3 億 DL 超",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Marvel 300 体超のチャンピオンを集めて育成・進化させる横スクロール対戦格闘。Kabam 史上最速で $100M に到達し、累計 $2B を突破した長期運営タイトルで、Apple Editor's Choice / Google Play Best Game of the Year 受賞歴あり。2025 年に Steam 版もリリースされ PC へ展開。",
+  "concept": "Marvel ヒーロー／ヴィランを 1v1 のスマホ格闘で操作できる「キャラ収集×軽量格闘」ハイブリッド。レアリティと階位（ランク）を上げるガチャ・育成ループが中心で、戦闘自体はタップ＆スワイプの軽量操作で誰でも触れる。",
+  "target": "Marvel IP に思い入れのある 10-40 代男性層、海外コミックヒーローのコレクション欲を満たしたい層。日本では Disney/Marvel ファンと格闘ガチャ層の交点に位置するニッチ。",
+  "slug": "marvel-contest-of-champions",
+  "file": "data/games/1266-marvel-contest-of-champions.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Marvel_Contest_of_Champions",
+    "https://www.pocketgamer.biz/marvel-contest-of-champions-to-launch-on-pc-after-making-2bn-on-mobile/",
+    "https://www.disney.co.jp/games/mcoc",
+    "https://prtimes.jp/main/html/rd/p/000002241.000007736.html",
+    "https://apps.apple.com/jp/app/marvel-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%88%E3%83%AB/id896112560"
+  ]
+}

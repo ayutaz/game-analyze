@@ -1,0 +1,30 @@
+{
+  "id": 1699,
+  "title_jp": "重装機兵ヴァルケン",
+  "title_en": "Cybernator",
+  "developer": "NCS / Masaya",
+  "publisher": "Konami / NCS",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2D メカアクション/ラン&ガン",
+  "sales_jp": "10,782",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "重厚なロボット操作感と硬派なミリタリーSF演出で「SNES屈指の名作メカアクション」として国内外で再評価が続く。Next Generation誌や Super Play誌でも歴代SNESベストに選出。",
+  "slug": "cybernator",
+  "file": "data/games/1699-cybernator.json",
+  "concept": "宇宙世紀風のミリタリーSFを背景に、慣性のあるアサルトスーツを操って戦うサイドビュー2Dアクション。武器選択・盾の角度調整・推進ジャンプといった操作の重みが「兵器を駆る」感覚を作り上げる。",
+  "target": "硬派なメカ・SF・ミリタリードラマを好む層、SNES黄金期の重厚な2Dアクションを志向するレトロゲーマー、ガンダム/フロントミッション系の世界観を好むプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Assault_Suits_Valken",
+    "https://konami.fandom.com/wiki/Assault_Suits_Valken",
+    "https://www.mobygames.com/game/11879/cybernator/",
+    "https://superfamicom.org/info/assault-suits-valken"
+  ]
+}

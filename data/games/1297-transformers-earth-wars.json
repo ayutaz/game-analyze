@@ -1,0 +1,32 @@
+{
+  "id": 1297,
+  "title_jp": "トランスフォーマー：アース・ウォーズ",
+  "title_en": "Transformers: Earth Wars",
+  "developer": "Space Ape Games",
+  "publisher": "Hasbro / Space Ape",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイムストラテジー/基地建設",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL（配信初週時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Hasbro 公式の人気 IP「トランスフォーマー」を題材に、Clash of Clans 系の基地建設＋RTS をオートボット vs ディセプティコンの陣営戦に落とし込んだ作品。配信開始 1 週間で全世界 100 万 DL を突破し話題に。",
+  "concept": "Optimus Prime や Megatron など歴代キャラを 100 体以上集めて編成し、アライアンス（同盟）でリアルタイムに基地を攻撃・防衛する陣営対抗型 RTS。Clash of Clans 系の land-grab ループを「変形ロボット同盟戦」に翻案したのが特徴。",
+  "target": "トランスフォーマーの長年ファン（30-50 代男性）と、Clash of Clans / Boom Beach 系の基地建設 RTS を遊ぶライトストラテジー層。同盟チャットで仲間と協力したいモバイルゲーマー。",
+  "slug": "transformers-earth-wars",
+  "file": "data/games/1297-transformers-earth-wars.json",
+  "_source_urls": [
+    "https://www.prnewswire.com/news-releases/hasbro-backflip-studios-and-space-ape-games-bring-the-fight-home-with-transformers-earth-wars-game-coming-to-ios-and-android-in-select-markets-spring-2016-300218061.html",
+    "https://news.tfw2005.com/2016/06/02/transformers-earth-wars-mobile-game-live-316372",
+    "https://tfwiki.net/wiki/Transformers:_Earth_Wars",
+    "https://www.4gamer.net/games/344/G034476/",
+    "https://apps.apple.com/jp/app/transformers-earth-wars/id1058526204"
+  ]
+}

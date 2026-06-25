@@ -1,0 +1,26 @@
+{
+  "id": 1678,
+  "title_jp": "星のカービィ3",
+  "title_en": "Kirby's Dream Land 3",
+  "developer": "HAL Laboratory",
+  "publisher": "Nintendo",
+  "year": 1997,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2D アクション",
+  "sales_jp": "—",
+  "sales_world": "0.97M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "SNES 末期のクレヨン調パステルアートと、グーイ／動物フレンズ（リック・カイン・クー＋ナゴ・ピッチ・チュチュ）×コピー能力の組み合わせ爆発が評価され、後年 VC・Switch Online で再評価。",
+  "concept": "コピー能力 8 種と動物フレンズ 6 体の掛け算で 50 通り超のアクションを生む、SNES 最後期の 2D アクション。2P でグーイを操作する協力プレイも搭載。",
+  "target": "カービィシリーズのファン、SNES 後期のドット絵・パステルアートを愛好する層、低難度で気軽に遊びたい親子・初心者ゲーマー。",
+  "slug": "kirbys-dream-land-3",
+  "file": "data/games/1678-kirbys-dream-land-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kirby%27s_Dream_Land_3",
+    "https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A33"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1885,
+  "title_jp": "うたわれるもの",
+  "title_en": "Utawarerumono",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "タクティカル RPG/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2002 年に Leaf から PC アダルトゲームとして発売され、和風ファンタジーの重厚な世界観と仮面の謎を巡る物語で熱狂的支持を獲得。後に PS2/PSP/PS4/Vita へ全年齢移植され、シリーズ累計 100 万本超えへと発展した原点。",
+  "concept": "「仮面の青年ハクオロが記憶を失ったまま部族を率い、戦と政の中で世界の秘密に近づく」和風ファンタジー TRPG＋ビジュアルノベル。マス目戦闘と長尺の物語パートを交互に進める構成で、章末ごとに種族・国家規模が拡張していく語り口が特徴。",
+  "target": "重厚な長編和風ファンタジーを腰を据えて読みたい 20-40 代男性中心の VN/SRPG ファン層。Leaf 作品やアクアプラス系の文芸的物語を好む層に強く刺さる。",
+  "slug": "utawarerumono",
+  "file": "data/games/1885-utawarerumono.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9F%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE",
+    "https://en.wikipedia.org/wiki/Utawarerumono",
+    "https://aquaplus.jp/uta/",
+    "https://leaf.aquaplus.jp/"
+  ]
+}

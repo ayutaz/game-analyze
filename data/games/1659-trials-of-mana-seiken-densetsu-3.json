@@ -1,0 +1,36 @@
+{
+  "id": 1659,
+  "title_jp": "聖剣伝説3",
+  "title_en": "Trials of Mana / Seiken Densetsu 3",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1995,
+  "platform": [
+    "SNES",
+    "Switch",
+    "PS4",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "約80万本 (SFC版)",
+  "sales_world": "1M+ (リメイク累計)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1995年スーパーファミコン後期の名作として高い評価を獲得し、6人の主人公から3人を選ぶ分岐シナリオとリアルタイムアクション戦闘がカルト的人気を呼んだ。2020年の3Dリメイク『Trials of Mana』が全世界100万本超を達成し、世代を超えて再評価された。",
+  "concept": "6人の主人公から3人を選んでパーティを組み、選んだ顔ぶれで物語と最終ボスが分岐するマルチシナリオ型のアクションRPG。リアルタイム戦闘と必殺技演出、クラスチェンジによる成長分岐が体験の核を成す。",
+  "target": "スーパーファミコン世代のJRPGファン、アクションRPGで歯ごたえと演出を求める層、リメイク版から入る30-40代のレトロJRPG愛好家やマナシリーズのファン。",
+  "slug": "trials-of-mana-seiken-densetsu-3",
+  "file": "data/games/1659-trials-of-mana-seiken-densetsu-3.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC3",
+    "https://en.wikipedia.org/wiki/Trials_of_Mana_(2020_video_game)",
+    "https://press.na.square-enix.com/TRIALS-OF-MANA-SURPASSES-ONE-MILLION-SHIPMENTS-AND-DIGITAL-SALES-WORLD",
+    "https://www.jp.square-enix.com/archive/seiken3/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

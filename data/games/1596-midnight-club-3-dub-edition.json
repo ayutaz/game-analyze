@@ -1,0 +1,32 @@
+{
+  "id": 1596,
+  "title_jp": "ミッドナイトクラブ3 DUBエディション",
+  "title_en": "Midnight Club 3: DUB Edition",
+  "developer": "Rockstar San Diego",
+  "publisher": "Rockstar Games",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PSP"
+  ],
+  "genre": "アーケードレーシング/ストリート",
+  "sales_jp": "—",
+  "sales_world": "4.6M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "実在ホイール・パーツメーカー（DUB Magazine 提携）を多数収録したカスタマイズの自由度と、サンディエゴ／アトランタ／デトロイト／東京の4都市オープンワールドが当時話題に。HIPHOP/ロック中心のサウンドトラックも人気を後押しした。",
+  "concept": "実車をベースに無段階チューニング＆ドレスアップして公道レースを勝ち抜く、Rockstar San Diego 製のアーケード派ストリートレーサー。DUB 文化を前面に押し出した自由なカスタマイズと、4都市オープンワールドでのアウトロー的レースが核。",
+  "target": "ストリートカルチャー／アメ車・JDM チューン好きの 10-30 代男性層、Need for Speed Underground 系や GTA を好むユーザー。レース上達とビジュアル自己表現の両方を楽しみたい層。",
+  "slug": "midnight-club-3-dub-edition",
+  "file": "data/games/1596-midnight-club-3-dub-edition.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Midnight_Club_3:_Dub_Edition",
+    "https://ja.wikipedia.org/wiki/Midnight_Club_3:DUB_Edition",
+    "https://www.rockstargames.com/games/midnightclub3",
+    "https://www.vgchartz.com/game/1351/midnight-club-3-dub-edition/"
+  ]
+}

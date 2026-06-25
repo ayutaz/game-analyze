@@ -1,0 +1,30 @@
+{
+  "id": 1497,
+  "title_jp": "ディスクワールド ノワール",
+  "title_en": "Discworld Noir",
+  "developer": "Perfect Entertainment",
+  "publisher": "GT Interactive",
+  "year": 1999,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "ポイント＆クリック・アドベンチャー（フィルム・ノワール）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "テリー・プラチェット原作ディスクワールド世界を舞台にした唯一の探偵アドベンチャーで、ノートパッド式の手がかり管理システムが後の謎解きADVに影響を与えたカルト的名作。欧州のみ発売・GTインタラクティブ破綻で未北米化という幻のタイトルとして語り継がれている。",
+  "concept": "アンク・モルポルクの私立探偵リュートンを操作し、『カサブランカ』『マルタの鷹』等の古典フィルム・ノワールをディスクワールド流のブラックユーモアでパロディする会話＆推理アドベンチャー。後半は人狼に変身して匂いを追う独自ギミックが加わる。",
+  "target": "テリー・プラチェット読者と古典アドベンチャーファン、フィルム・ノワール愛好家。物語・会話・雰囲気を堪能したい大人のADVプレイヤー層。",
+  "slug": "discworld-noir",
+  "file": "data/games/1497-discworld-noir.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Discworld_Noir",
+    "https://www.mobygames.com/game/1411/discworld-noir/",
+    "https://discworld.fandom.com/wiki/Discworld_Noir"
+  ]
+}

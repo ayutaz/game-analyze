@@ -1,0 +1,33 @@
+{
+  "id": 1421,
+  "title_jp": "ゼノギアス",
+  "title_en": "Xenogears",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "RPG（巨大ロボット＋哲学SF）",
+  "sales_jp": "910K",
+  "sales_world": "1.19M",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "高橋哲哉とその妻嵯峨空哉が当初FF7の企画として提案し独立プロジェクトとなった作品。フロイト・ユング・グノーシス主義・聖書を引用する重厚な哲学SFとギアと呼ばれる巨大ロボット戦闘を融合させ、ディスク2で予算切れにより紙芝居形式に変化した経緯まで含めてカルト的支持を集めた。後のゼノサーガ／ゼノブレイドへ続く高橋シリーズの原点。",
+  "slug": "xenogears",
+  "file": "data/games/1421-xenogears.json",
+  "concept": "「神とは何か」「人類はなぜ存在するのか」をフロイト／ユング／グノーシス主義の語彙で正面から問う重厚な思弁SF JRPGに、コマンドコンボ式の徒手格闘とギア（巨大ロボット）戦闘を組み合わせた異色作。物語の追体験こそが主動機。",
+  "target": "ハードな思弁SF・宗教哲学モチーフ・巨大ロボット・90年代後期 JRPG の長尺シナリオを許容できるコア層。エヴァンゲリオン以降のセカイ系／思想系物語を求めるプレイヤーや、後のゼノサーガ／ゼノブレイドの源流を辿りたいファンに刺さる。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Xenogears",
+    "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%82%AE%E3%82%A2%E3%82%B9",
+    "https://www.vgchartz.com/game/2769/xenogears/",
+    "https://kopenguin.com/post-18948/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

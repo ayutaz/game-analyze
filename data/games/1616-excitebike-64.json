@@ -1,0 +1,28 @@
+{
+  "id": 1616,
+  "title_jp": "エキサイトバイク64",
+  "title_en": "Excitebike 64",
+  "developer": "Left Field Productions",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "レース/モトクロス",
+  "sales_jp": "—",
+  "sales_world": "~2M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "ファミコン『エキサイトバイク』の3D続編として2000年に発売。リアル系モトクロス表現の頂点と当時の批評家から高く評価され、北米中心に累計約200万本を販売した。",
+  "concept": "一人称視点と3Dスティックの繊細な体重移動操作で本格モトクロスを再現したN64レースゲーム。シーズン制キャリア、トラックエディター、スタント、ミニゲームなど多彩なモードを内蔵し、4人分割画面対戦にも対応する。",
+  "target": "N64世代のレース/スポーツゲーマー、原作『エキサイトバイク』のファン層、家庭で分割画面マルチを楽しむ友人グループ。",
+  "slug": "excitebike-64",
+  "file": "data/games/1616-excitebike-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Excitebike_64",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%83%90%E3%82%A4%E3%82%AF64",
+    "https://www.mobygames.com/game/6213/excitebike-64/",
+    "https://www.nintendolife.com/games/n64/excitebike_64"
+  ]
+}

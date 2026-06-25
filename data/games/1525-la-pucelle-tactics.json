@@ -1,0 +1,31 @@
+{
+  "id": 1525,
+  "title_jp": "ラ・ピュセル 光の聖女伝説",
+  "title_en": "La Pucelle Tactics",
+  "developer": "Nippon Ichi Software",
+  "publisher": "Mastiff",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "後の『魔界戦記ディスガイア』へ直結する日本一ソフトウェアの SRPG 原点として、欧米でも Mastiff 配給でカルト的支持を獲得。「浄化」で敵モンスターを仲間にしダークポータルから奇跡攻撃を発動するシステムが話題に。",
+  "slug": "la-pucelle-tactics",
+  "file": "data/games/1525-la-pucelle-tactics.json",
+  "concept": "教会所属の悪魔狩り集団「ラ・ピュセル」の少女プリエを主人公にした SRPG。マップ上のダークポータルを「浄化」して敵を味方化し、暗黒エネルギーの流れを誘導して大ダメージの奇跡を起こす独自システムが核となる、ディスガイア前夜の日本一フォーマット原型作。",
+  "target": "ディスガイア系列のファン、PS2 期のシミュレーション RPG・SRPG 愛好者、ニッチでやり込み要素の濃い JRPG を好む層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/La_Pucelle:_Tactics",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BB%E3%83%94%E3%83%A5%E3%82%BB%E3%83%AB_%E5%85%89%E3%81%AE%E8%81%96%E5%A5%B3%E4%BC%9D%E8%AA%AC",
+    "https://nippon1.jp/consumer/lapucelle/",
+    "https://www.hardcoregaming101.net/la-pucelle-tactics/"
+  ]
+}

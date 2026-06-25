@@ -1,0 +1,29 @@
+{
+  "id": 1562,
+  "title_jp": "Mark of Kri",
+  "title_en": "The Mark of Kri",
+  "developer": "SCE San Diego Studio",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/ステルス",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ポリネシア文化を題材にしたユニークなアートスタイルとカートゥーン調キャラクターに反する残虐表現のギャップが話題に。EGM 2002 年 8 月号 Game of the Month を受賞、Metacritic 80 点。",
+  "concept": "ポリネシア／南洋風の独自世界観で繰り広げられる剣戟＋ステルスアクション。複数の敵をターゲットして連続斬りを決める「マーキング」戦闘と、相棒の鳥クズーを使った偵察・暗殺が核となる。",
+  "target": "PS2 期のアクション好き、ステルスとメレー戦闘を両方楽しみたい層、独特の世界観・アートスタイルを求めるコアゲーマー。",
+  "slug": "the-mark-of-kri",
+  "file": "data/games/1562-the-mark-of-kri.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Mark_of_Kri",
+    "https://www.pushsquare.com/games/ps2/mark_of_kri",
+    "https://www.vgchartz.com/game/2403/the-mark-of-kri/"
+  ]
+}

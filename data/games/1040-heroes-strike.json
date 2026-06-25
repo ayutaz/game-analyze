@@ -1,0 +1,34 @@
+{
+  "id": 1040,
+  "title_jp": "Heroes Strike",
+  "title_en": "Heroes Strike",
+  "developer": "Wolffun Game",
+  "publisher": "Wolffun Game",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル MOBA / アリーナアクション",
+  "sales_jp": "—",
+  "sales_world": "15M+ DL (本編 5M+ + Offline 版 10M+)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ベトナム発 Wolffun の 4v4 タワーデストロイ MOBA とバトルロイヤル / チームデスマッチを 1 試合 4 分で詰めた『超軽量 MOBA』として東南アジア・南米中心にヒット。本編 5M+ DL に加え、後発のオフライン版が 10M+ DL を稼ぐロングテール作品。",
+  "concept": "Brawl Stars 直系の俯瞰視点ツインスティックアリーナに、MOBA のタワー破壊・バトロワ・チームデスマッチを束ねた『1 試合 4 分』の超短尺対戦ゲーム。ヒーロー固有スキル＋付け替え可能な 2 スキル構成でビルドの余地を残しつつ、無料でも全コンテンツに到達できる構造を売りにする。",
+  "target": "Brawl Stars / Mobile Legends 系の短時間 PvP を好む 10-20 代モバイルゲーマー、特に東南アジア・LATAM のライト〜ミドル課金層。スキマ時間に 1 試合だけ MOBA を撃ちたいプレイヤー向け。",
+  "slug": "heroes-strike",
+  "file": "data/games/1040-heroes-strike.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/heroes-strike-modern-moba/id1434655572",
+    "https://play.google.com/store/apps/details?id=com.wolffun.herostrike&hl=en_US&gl=US",
+    "https://play.google.com/store/apps/details?id=com.wolffun.herostrike.offline&hl=en_US",
+    "https://www.taptap.io/app/188710"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

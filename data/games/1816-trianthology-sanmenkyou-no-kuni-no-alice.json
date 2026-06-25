@@ -1,0 +1,31 @@
+{
+  "id": 1816,
+  "title_jp": "TRianThology 〜三面鏡の国のアリス〜",
+  "title_en": "TRianThology - Sanmenkyou no Kuni no Alice",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/同人アンソロジー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ひぐらし/うみねこの竜騎士07、CROSS†CHANNELの田中ロミオ、リトバスの都乃河勇人の三大シナリオライターが集結した同人ノベルとして発表時に大きな話題に。2012年から構想が動いた長期プロジェクトで2016年8月にようやく発売され、コミカライズもスクエニで展開された。",
+  "concept": "「TRi（三）」と「anThology（選集）」を掛けた造語タイトルの通り、SFバトル『Vespio 2438』・学園ハーレム『School Love Adventure』・幼馴染再会譚『カントリーガアル』という UI もジャンルも別物の3作を、不思議の国のアリスのモチーフで束ねた同人オムニバスノベル。",
+  "target": "07th Expansion / Key 系シナリオ作家のファン層、CROSS†CHANNEL や ひぐらし・うみねこ をテキストとして読み込んできた20-40代のノベルゲーム愛好家。",
+  "slug": "trianthology-sanmenkyou-no-kuni-no-alice",
+  "file": "data/games/1816-trianthology-sanmenkyou-no-kuni-no-alice.json",
+  "_source_urls": [
+    "https://07th-expansion.fandom.com/wiki/TRianThology_~Sanmenkyou_no_Kuni_no_Alice~",
+    "https://wiki.whentheycry.org/wiki/Trianthology",
+    "https://07th-expansion.net/trt.html",
+    "https://www.igdb.com/games/trianthology-sanmenkyou-no-kuni-no-alice"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1518,
+  "title_jp": "幻想水滸伝III",
+  "title_en": "Suikoden III",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG（多視点群像劇）",
+  "sales_jp": "—",
+  "sales_world": "500K+",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "3人の主人公視点を切り替えながら同じ事件の真相に迫る「トリニティ・サイト・システム」を採用し、シリーズ初の3D化と相まって群像劇 RPG として高い評価を得た。北米では PAL 版が未発売ながらカルト的人気を獲得し、シリーズ累計239万本の中核作品となった。",
+  "concept": "ゼクセン・グラスランドの民族間戦争を、剣士ヒューゴ／傭兵ジョウイの親友クリス／グラスランドの戦士ジョウイ達 3 人の主人公視点で多角的に描き、最終的に 108 星を集めて真相に到達する群像劇 JRPG。物語消費が中心軸で、仲間収集（108 星）と本拠地経営が並走する。",
+  "target": "幻想水滸伝 I/II から続けて遊ぶ 20-40 代の JRPG ファン、群像劇・政治劇の重い物語を好む層、108 星収集のコンプリート志向プレイヤー。",
+  "slug": "suikoden-iii",
+  "file": "data/games/1518-suikoden-iii.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9DIII",
+    "https://www.konami.com/games/jp/ja/products/dl_ps3_genso3_arch/",
+    "https://kopenguin.com/post-19040/",
+    "https://gamefaqs.gamespot.com/ps2/536777-suikoden-iii/data",
+    "https://suikoden.fandom.com/ja/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9DIII"
+  ]
+}

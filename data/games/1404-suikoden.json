@@ -1,0 +1,31 @@
+{
+  "id": 1404,
+  "title_jp": "幻想水滸伝",
+  "title_en": "Suikoden",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1995,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "ファンタジーRPG",
+  "sales_jp": "167K",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "REW",
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "中国四大奇書『水滸伝』を翻案した重厚な政治劇と、108人の仲間（108星）を集めて本拠地の城を発展させるシステムが熱狂的なファンを生み、シリーズ累計239万本のコナミ屈指のRPGブランドへと成長した。",
+  "concept": "腐敗した帝国に対する革命を描く群像劇RPG。プレイヤーは将軍の息子となり、108星と呼ばれる仲間を世界中から集め、自分の本拠地となる城を成長させながら反乱軍を率いる。",
+  "target": "重厚な政治・戦争物語と仲間集めの両方を楽しみたい10-40代のJRPGファン。FFやドラクエとは違う「東洋的群像劇」と「コレクション要素」を求める層。",
+  "slug": "suikoden",
+  "file": "data/games/1404-suikoden.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Suikoden_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9D",
+    "https://kopenguin.com/post-19040/",
+    "https://www.vgchartz.com/game/2262/suikoden/"
+  ]
+}

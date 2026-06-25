@@ -1,0 +1,28 @@
+{
+  "id": 1695,
+  "title_jp": "マジカルポップン",
+  "title_en": "Magical Pop'n",
+  "developer": "Polestar",
+  "publisher": "Pack-In-Video",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロール・アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "1995年に Pack-In-Video から発売された SFC 末期の横スクロールアクション。流通量が極端に少なく、レンダリング・レンジャー R2 と並ぶ「スーパーファミコン最希少ソフト」の一角としてコレクター市場で高値が付くことで知られる。主人公ポップンの声を当時のタレント飯島愛が務めた初の声優仕事という点でも語り草。",
+  "concept": "魔王軍に奪われた魔法石を取り戻すべく、王女「ポップン」が魔法を撃ちながら横スクロールのステージを駆け抜けるアクション。6ボタン配置で多彩な特殊技と魔法を使い分けるテンポ良い操作感と、ステージ各所に隠された魔法クリスタル探しが核。",
+  "target": "SFC 末期のアクションを遊び込んだコアプレイヤー、レトロゲーム蒐集家、SFC 後期作品やキャラクターアクションが好きな層。",
+  "slug": "magical-popn",
+  "file": "data/games/1695-magical-popn.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Magical_Pop'n",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E3%83%9D%E3%83%83%E3%83%97%E3%83%B3",
+    "https://superfamicom.org/info/magical-popn",
+    "https://tcrf.net/Magical_Pop'n"
+  ]
+}

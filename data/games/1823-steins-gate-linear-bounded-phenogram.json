@@ -1,0 +1,34 @@
+{
+  "id": 1823,
+  "title_jp": "STEINS;GATE 線形拘束のフェノグラム",
+  "title_en": "Steins;Gate: Linear Bounded Phenogram",
+  "developer": "5pb.",
+  "publisher": "5pb. / Spike Chunsoft",
+  "year": 2013,
+  "platform": [
+    "PS3",
+    "Xbox 360",
+    "PS Vita",
+    "iOS",
+    "Switch",
+    "PS4",
+    "PC"
+  ],
+  "genre": "想定科学ADV/ビジュアルノベル（サイドストーリー集）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "本編『STEINS;GATE』のサブキャラ視点 10 編を収録したスピンオフ群像劇。2019 年に『Steins;Gate Elite』の Switch/PS4 版に同梱され国際的にも認知が拡大した。",
+  "concept": "α世界線・β世界線・並行する別の現実で起きる「もう一つのフェノグラム」を 10 編の短編で描く、本編後日談的サイドストーリー集。プレイヤー入力で本筋を分岐させず、各キャラの内面を読むことに特化したノベル形式。",
+  "target": "本編 STEINS;GATE を完走したファン、まゆり・ダル・ルカ子・フェイリス・鈴羽など個別キャラの掘り下げを読みたい層、Science Adventure シリーズ追体験を求める読者。",
+  "slug": "steins-gate-linear-bounded-phenogram",
+  "file": "data/games/1823-steins-gate-linear-bounded-phenogram.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Steins;Gate:_Linear_Bounded_Phenogram",
+    "https://store.steampowered.com/app/930910/STEINSGATE_Linear_Bounded_Phenogram/",
+    "https://spike-chunsoft.com/SteinsGateElite/phenogram/",
+    "https://steins-gate.fandom.com/wiki/Steins;Gate:_Linear_Bounded_Phenogram_(visual_novel)"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1183,
+  "title_jp": "ヒロワルド",
+  "title_en": "HeroWarz / Wonder5 Masters",
+  "developer": "A.Storm",
+  "publisher": "KOG Games",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アクションMMORPG（ステージクリア型ハクスラ）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Dungeon Fighter Online / Cypherプロデューサー出身のA.Stormが手掛けた韓国産アクションMMOとして注目され、2016年に北米・韓国で正式サービス、日本ではセガゲームスが運営を担当しクローズドβを実施。だがサービス開始から半年で「一時停止」、結局2018年に復帰せず事実上終了したことで話題になった。",
+  "concept": "個性的なヒーローを切り替えながらコンパクトなステージを駆け抜け、群がる敵を爽快に殲滅してスコアと報酬を稼ぐアイソメトリック視点のアクションMMORPG。1ステージ数分の短いランを繰り返す「アーケード×ハクスラ」型の設計が特徴。",
+  "target": "Dungeon Fighter OnlineやElswordなどKOG／韓国系アクションMMOファン、PCで遊べる無料の協力ハクスラを探していた20-30代のコアゲーマー層。",
+  "slug": "herowarz-wonder5-masters",
+  "file": "data/games/1183-herowarz-wonder5-masters.json",
+  "_source_urls": [
+    "https://mmos.com/review/herowarz",
+    "https://mmoculture.com/2015/10/herowarz-kog-signs-new-korean-action-mmo-for-western-market/",
+    "https://prtimes.jp/main/html/rd/p/000001332.000005397.html",
+    "https://game.watch.impress.co.jp/docs/news/1014317.html",
+    "https://www.mmobomb.com/news/kog-games-herowarz-went-away-just-month-dramatic-pause"
+  ]
+}

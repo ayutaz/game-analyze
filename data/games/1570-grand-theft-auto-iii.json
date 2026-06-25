@@ -1,0 +1,34 @@
+{
+  "id": 1570,
+  "title_jp": "グランド・セフト・オートIII",
+  "title_en": "Grand Theft Auto III",
+  "developer": "DMA Design",
+  "publisher": "Rockstar Games",
+  "year": 2001,
+  "platform": [
+    "PS2",
+    "PC",
+    "Xbox",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "14.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "3D オープンワールド犯罪アクションを定義した革命作。Liberty City を自由に走り回って暴れられる体験が世界中で社会現象となり、暴力表現論争も含めて GTA ブランドを確立した。",
+  "concept": "実在の都市を模した 3D オープンワールドで犯罪者として自由に行動できるアクションアドベンチャー。ミッションを進める線形ストーリーと、街で好き勝手に暴れる sandbox 体験を初めて両立させ、以降のオープンワールド作品の祖型となった。",
+  "target": "10-30 代男性中心、海外洋ゲー・クライム映画ファン、自由度の高いサンドボックス体験を求めるコア層。日本では CERO Z 相当の暴力表現で年齢層は高め。",
+  "slug": "grand-theft-auto-iii",
+  "file": "data/games/1570-grand-theft-auto-iii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+    "https://www.rockstargames.com/games/grandtheftauto3",
+    "https://www.vgchartz.com/game/891/grand-theft-auto-iii/"
+  ]
+}

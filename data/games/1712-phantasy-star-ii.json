@@ -1,0 +1,30 @@
+{
+  "id": 1712,
+  "title_jp": "ファンタシースターII 還らざる時の終わりに",
+  "title_en": "Phantasy Star II",
+  "developer": "Sega",
+  "publisher": "Sega",
+  "year": 1989,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "SFファンタジーRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "メガドライブ初期の目玉RPGとして、千年後のアルゴル太陽系を舞台にしたSF設定と硬派なシナリオで話題に。広大なダンジョンと高難度で「シリーズで最も骨が折れる作品」として語り継がれている。",
+  "concept": "前作から千年後のモタビア/デゾリスを舞台に、バイオモンスター発生の謎を追うSFファンタジーRPG。仲間との別れや管理社会への抵抗を描く重厚なシナリオで、後の「ファンタシースター」シリーズの方向性を決定づけた。",
+  "target": "メガドライブ世代のRPGファン、SF設定や骨太なシナリオを好む層、シリーズ歴を辿りたいレトロRPG愛好家。難度の高さを乗り越える達成感を求めるプレイヤー向け。",
+  "slug": "phantasy-star-ii",
+  "file": "data/games/1712-phantasy-star-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phantasy_Star_II",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B7%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BCII_%E9%82%84%E3%82%89%E3%81%96%E3%82%8B%E6%99%82%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%81%AB",
+    "https://www.sega.jp/mdmini2/soft/phantasy-star2.html",
+    "https://www.mobygames.com/game/7748/phantasy-star-ii/"
+  ]
+}

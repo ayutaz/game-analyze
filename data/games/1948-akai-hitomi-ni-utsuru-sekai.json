@@ -1,0 +1,30 @@
+{
+  "id": 1948,
+  "title_jp": "紅い瞳に映るセカイ",
+  "title_en": "Akai Hitomi ni Utsuru Sekai",
+  "developer": "FAVORITE",
+  "publisher": "FAVORITE",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル(アフターファンディスク)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『いろとりどりのセカイ』『いろとりどりのヒカリ』に続く西鎌真琴ヒロイン主軸のアフターファンディスクとして、シリーズファンの間で「真紅といっしょ」豪華限定版（ぬいぐるみ同梱）が話題に。eufonius によるOP「glowing world ～かがやきの、せかいへ～」も注目された。",
+  "concept": "FAVORITE 看板シリーズ『いろとりどりのセカイ』の後日譚を描くアフターファンディスク。前半は嵐山学生寮を舞台にした日常ラブコメ、後半はシリーズ恒例のシリアス展開で「紅い瞳」=真紅ルートのその後を完結させる構成。",
+  "target": "『いろとりどりのセカイ』本編および『いろとりどりのヒカリ』を遊んだ既存ファン、西鎌真琴ルートを愛する PC アダルトビジュアルノベルプレイヤー層。新規参入向けではなく完全な続編ファン向け作品。",
+  "slug": "akai-hitomi-ni-utsuru-sekai",
+  "file": "data/games/1948-akai-hitomi-ni-utsuru-sekai.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8D%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AE%E3%82%BB%E3%82%AB%E3%82%A4",
+    "https://www.favo-soft.jp/soft/product/WorldsEndLove/",
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21872"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

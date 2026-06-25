@@ -1,0 +1,32 @@
+{
+  "id": 1541,
+  "title_jp": "デビル メイ クライ 3 スペシャルエディション",
+  "title_en": "Devil May Cry 3: Dante's Awakening Special Edition",
+  "developer": "Capcom Production Studio 1",
+  "publisher": "Capcom",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "PS3",
+    "Xbox 360",
+    "PC",
+    "Switch"
+  ],
+  "genre": "スタイリッシュアクション",
+  "sales_jp": "—",
+  "sales_world": "1M+ (SE単独)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "シリーズの方向性を立て直した決定版。バージル参戦・難易度再調整・ターボモード・ブラッディパレスでスタイリッシュアクションの基準を更新し、後のリマスター展開で再評価が続く。",
+  "concept": "オリジナル『DMC3』に追加キャラ（プレイアブル・バージル）、新難易度、ターボモード、サバイバル「ブラッディパレス」を加えた決定版。スタイル切替と武器切替を駆使してコンボを磨くソロ志向の高速アクション。",
+  "target": "ハードコアなアクションゲーマー、コンボ・縛り・ハイランク狙いを楽しむ層、シリーズの原点を遊び直したい既存ファンと、HD化・Switch 版で初プレイする新規層。",
+  "slug": "devil-may-cry-3-dantes-awakening-special-edition",
+  "file": "data/games/1541-devil-may-cry-3-dantes-awakening-special-edition.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Devil_May_Cry_3:_Dante's_Awakening",
+    "https://www.capcom.co.jp/support/faq/full_platform_switch_devil3se.html",
+    "https://game.watch.impress.co.jp/docs/news/1235389.html",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%A9%E3%82%A43"
+  ]
+}

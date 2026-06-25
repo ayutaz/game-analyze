@@ -1,0 +1,33 @@
+{
+  "id": 1367,
+  "title_jp": "Mech Arena (メカアリーナ)",
+  "title_en": "Mech Arena",
+  "developer": "Plarium Global",
+  "publisher": "Plarium",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "PvP メカシューター/アリーナバトル",
+  "sales_jp": "—",
+  "sales_world": "67M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "5vs5 のコントロールポイントやデスマッチを 5 分前後で楽しめる軽量メカ FPS として、配信開始から短期間でグローバル累計 6,700 万 DL を突破。4Gamer の連載記事でも国内パイロット文化が紹介されるなど、海外発タイトルながら日本でも一定のコアファン層を獲得した。",
+  "concept": "30 種以上のメカと 140 種以上の武器・1,000 種以上のスキンを組み合わせ、5vs5・2vs2・FFA・PvE Onslaught など短時間マッチで撃ち合うクロスプラットフォーム対応のメカ PvP シューター。「いつでもどこでも対戦できる」携帯性とビルド構築の自由度を両立させた点が positioning。",
+  "target": "PUBG Mobile / CoD Mobile などのモバイル FPS 経験者で、より短時間・カジュアルなマッチを好む 10-30 代男性が中心。メカ・ロボットものが好きで武器とスキンのカスタマイズを楽しみたい層、隙間時間に 1 試合 5 分で遊びたいワーキング層に強い。",
+  "slug": "mech-arena",
+  "file": "data/games/1367-mech-arena.json",
+  "_source_urls": [
+    "https://plarium.com/en/game/mech-arena/",
+    "https://company.plarium.com/en/articles/mech-arena-global-release/",
+    "https://apps.apple.com/jp/app/mech-arena-%E3%83%A1%E3%82%AB%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A/id1377591228",
+    "https://www.4gamer.net/games/782/G078246/20241002013/",
+    "https://play.google.com/store/apps/details?id=com.plarium.mechlegion&hl=en"
+  ]
+}

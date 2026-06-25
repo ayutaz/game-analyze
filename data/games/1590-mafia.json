@@ -1,0 +1,32 @@
+{
+  "id": 1590,
+  "title_jp": "マフィア",
+  "title_en": "Mafia",
+  "developer": "Illusion Softworks",
+  "publisher": "Gathering of Developers",
+  "year": 2002,
+  "platform": [
+    "PC",
+    "PS2",
+    "Xbox"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー（TPS/ドライブ）",
+  "sales_jp": "—",
+  "sales_world": "2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "1930年代禁酒法時代のアメリカを精密再現した重厚な犯罪ドラマで、GTA とは一線を画す「映画的マフィア物語」として PC ゲーマーから高評価。チェコ発の名作として海外でカルト的人気を獲得し、2020 年のリメイク版でも再評価された。",
+  "concept": "1930 年代の架空都市 Lost Heaven を舞台に、タクシー運転手トミー・アンジェロがサリエリ・ファミリーの一員として頭角を現し、やがて裏切り・破滅へと向かう一代記。ミッション制で進行する映画的シナリオと、12 平方マイルのオープン都市を時代考証された当時の車両で走る没入感が核。",
+  "target": "GTA 系オープンワールドに飽き足らず、より重厚で映画的な犯罪ドラマを求める 20-40 代男性 PC ゲーマー。『ゴッドファーザー』『ワンス・アポン・ア・タイム・イン・アメリカ』のような禁酒法時代マフィア物語を体験したい層。",
+  "slug": "mafia",
+  "file": "data/games/1590-mafia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mafia_(video_game)",
+    "https://ja.wikipedia.org/wiki/Mafia:_The_City_of_Lost_Heaven",
+    "https://www.famitsu.com/news/202010/01206617.html",
+    "https://english.radio.cz/20-years-one-most-successful-czech-video-games-ever-mafia-8759664"
+  ]
+}

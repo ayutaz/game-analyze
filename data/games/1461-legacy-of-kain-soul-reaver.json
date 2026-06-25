@@ -1,0 +1,31 @@
+{
+  "id": 1461,
+  "title_jp": "ソウルリーバー レガシー・オブ・ケイン",
+  "title_en": "Legacy of Kain: Soul Reaver",
+  "developer": "Crystal Dynamics",
+  "publisher": "Eidos Interactive",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "PC",
+    "Dreamcast"
+  ],
+  "genre": "3Dアクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "1.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "物質界と霊界をシームレスに切り替える独自ギミックと、シェイクスピア調の重厚な台詞回しで当時の3Dアクション界に衝撃を与えた。2024年のリマスターで再評価が進む。",
+  "concept": "吸血鬼ケインに裏切られ亡霊と化したラジエルを操り、ノスゴスを彷徨いながら兄弟ヴァンパイアと父ケインへの復讐を果たす3Dアクションアドベンチャー。物質界と霊界を行き来して謎を解くギミックが核。",
+  "target": "ゴシック/ダークファンタジー世界観と重厚な英語台詞を好むコア層、Tomb Raider世代の3Dアクションファン、シリーズ再評価で初プレイするレトロアクション愛好者。",
+  "slug": "legacy-of-kain-soul-reaver",
+  "file": "data/games/1461-legacy-of-kain-soul-reaver.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver",
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AC%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B1%E3%82%A4%E3%83%B3_%E3%82%BD%E3%82%A6%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%BC",
+    "https://www.4gamer.net/games/840/G084042/20250424062/"
+  ]
+}

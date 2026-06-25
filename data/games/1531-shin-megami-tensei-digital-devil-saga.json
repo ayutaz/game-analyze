@@ -1,0 +1,29 @@
+{
+  "id": 1531,
+  "title_jp": "デジタル・デビル・サーガ アバタール・チューナー",
+  "title_en": "Shin Megami Tensei: Digital Devil Saga",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ターン制RPG/女神転生スピンオフ",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "女神転生シリーズのスピンオフとして、デジタル世界「ジャンクヤード」と人喰い悪魔化という重厚なSF/宗教的世界観で熱狂的なファンを獲得。プレスターンバトル＋マントラ習得システムが高評価。",
+  "slug": "shin-megami-tensei-digital-devil-saga",
+  "file": "data/games/1531-shin-megami-tensei-digital-devil-saga.json",
+  "concept": "六部族が支配する閉鎖デジタル世界「ジャンクヤード」で、悪魔化ウィルスに感染した部族エンブリオンが他部族を喰らい涅槃を目指す、女神転生派生のターン制RPG。プレスターンバトルとマントラによるスキル習得が中核。",
+  "target": "女神転生・ペルソナ系の重厚なシナリオと戦略的ターン制バトルを愛好する20-40代のJRPGコアファン。サイバーパンクと東洋宗教観が融合したダークSF世界観に惹かれる層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Digital_Devil_Saga",
+    "https://ja.wikipedia.org/wiki/DIGITAL_DEVIL_SAGA_%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%83%BC",
+    "https://www.famitsu.com/article/202501/31367"
+  ]
+}

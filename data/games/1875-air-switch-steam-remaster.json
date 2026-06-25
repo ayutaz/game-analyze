@@ -1,0 +1,30 @@
+{
+  "id": 1875,
+  "title_jp": "AIR (Switch / Steam リマスター)",
+  "title_en": "Air (Switch / Steam Remaster)",
+  "developer": "Key / Prototype",
+  "publisher": "Prototype / Visual Arts",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 三大泣きゲーの一角『AIR』を HD リマスター＆フルボイス化、Switch 版（2021 年 9 月 9 日）に続き 2025 年 3 月 5 日に Steam で英語・簡体字字幕対応の正式リリースが実現し、海外ファンからも歓迎された。",
+  "concept": "2000 年発売の Key 古典ビジュアルノベルを、彩度調整した HD グラフィックと書き下ろし外伝「初空の章」フルボイス収録で現行機に蘇らせたリマスター版。空・夏・少女・千年の呪いを描く三部構成の物語をそのまま体験できる。",
+  "target": "Kanon・CLANNAD と並ぶ Key 作品を未プレイで触りたい新規層、当時 PC で遊んだファンの再プレイ需要、麻枝准／樋上いたるの世界観を求める泣きゲー愛好家。",
+  "slug": "air-switch-steam-remaster",
+  "file": "data/games/1875-air-switch-steam-remaster.json",
+  "_source_urls": [
+    "https://www.animenewsnetwork.com/news/2021-06-12/visual-arts-key-air-visual-novel-gets-switch-version/.173760",
+    "https://www.animenewsnetwork.com/news/2025-02-14/visual-arts-key-air-visual-novel-gets-steam-release-in-english-on-march-5/.221219",
+    "https://prtimes.jp/main/html/rd/p/000000016.000147227.html",
+    "https://store.steampowered.com/app/2983250/AIR/",
+    "https://en.wikipedia.org/wiki/Air_(video_game)"
+  ]
+}

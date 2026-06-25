@@ -1,0 +1,31 @@
+{
+  "id": 1939,
+  "title_jp": "ゴア・スクリーミング・ショウ",
+  "title_en": "Gore Screaming Show",
+  "developer": "Black Cyc",
+  "publisher": "Black Cyc",
+  "year": 2006,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトホラービジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2006年発売のBlack Cyc代表的ホラー系エロゲ。2022年にJAST USAから英語版がSteam/GOGでリリースされ海外で再評価、2026年には発売20周年リニューアル版のクラウドファンディングが約4,800万円を集めた。",
+  "concept": "田舎町に戻ってきた少年・神野恭司が、謎の少女「ゆか」と「ゴア・スクリーミング・ショウ」と呼ばれる怪異に巻き込まれていくダーク学園ホラービジュアルノベル。前半は牧歌的な学園恋愛、後半は狂気とグロテスクが噴出する落差で知られる。",
+  "target": "Black Cyc / SaDistic BlooD系のヘビーなサイコホラー・グロ描写を求める成人ビジュアルノベル愛好層。落差のある叙事構造と陰惨な後半展開を楽しめるユーザー向け。",
+  "slug": "gore-screaming-show",
+  "file": "data/games/1939-gore-screaming-show.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%A2%E3%83%BB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B7%E3%83%A7%E3%82%A6",
+    "https://store.steampowered.com/app/2182690/Gore_Screaming_Show/",
+    "https://www.mobygames.com/game/194361/gore-screaming-show/",
+    "https://blackcyc.com/games/gore_project/cf/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1602,
+  "title_jp": "ゴッドファーザー ザ・ゲーム",
+  "title_en": "The Godfather: The Game",
+  "developer": "EA Redwood Shores",
+  "publisher": "Electronic Arts",
+  "year": 2006,
+  "platform": [
+    "PC",
+    "PS2",
+    "Xbox",
+    "PSP",
+    "Xbox 360",
+    "Wii",
+    "PS3"
+  ],
+  "genre": "アクションアドベンチャー/オープンワールド",
+  "sales_jp": "—",
+  "sales_world": "4M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "映画「ゴッドファーザー」IPを題材にしたGTA系オープンワールド犯罪アクションとして話題に。EA初のM指定（成人向け）タイトルで、2008年までに世界累計400万本超を売り上げた。",
+  "concept": "映画「ゴッドファーザー」の世界観を下敷きに、コルレオーネ・ファミリーに拾われた新人マフィア Aldo Trapani となって1940-50年代のニューヨークを舞台に縄張りを奪い合うオープンワールド・クライム・アクション。射撃・格闘・脅迫・贈収賄を駆使して店舗を傘下に収め、ファミリー内で出世していく。",
+  "target": "映画ゴッドファーザー三部作のファン、Grand Theft Auto系オープンワールド犯罪ゲームを好む層、マフィア/ギャング物のサンドボックスで「街を支配する」感覚を味わいたい海外ゲーマー。",
+  "slug": "the-godfather-the-game",
+  "file": "data/games/1602-the-godfather-the-game.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Godfather_(2006_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B6%E3%83%BC_(TV%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://godfather.fandom.com/wiki/The_Godfather:_The_Game",
+    "https://www.vgchartz.com/game/2385/the-godfather/?region=All"
+  ]
+}

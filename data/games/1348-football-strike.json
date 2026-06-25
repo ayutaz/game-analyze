@@ -1,0 +1,35 @@
+{
+  "id": 1348,
+  "title_jp": "Football Strike",
+  "title_en": "Football Strike",
+  "developer": "Miniclip",
+  "publisher": "Miniclip",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "PvP サッカー/フリーキック対戦",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "1v1 のフリーキック対戦と的当てシューティングレースに特化した短時間 PvP サッカーとして 2017 年に iOS / Android で配信、Miniclip の 8 Ball Pool 流の「マッチ即対戦」UX をサッカーに移植し、世界的に DL を伸ばした。Sensor Tower 推定では国別 100 万 DL 級が複数地域で計上され、ロングランで運営継続中。",
+  "concept": "フリーキック攻防とシューティングレースの 2 モードに絞った 1 対 1 サッカー PvP。レアキット・ボールガチャでクラブカラーを集めるコレクション要素を被せ、5 分以内の隙間時間で世界中のプレイヤーと対戦できる体験を提供する。",
+  "target": "FIFA / eFootball ほどシミュレーション色の濃い本格サッカーを求めず、フリーキックだけを短時間で世界中の相手と撃ち合いたいモバイル向けカジュアル層。クラブキット収集・ランクアップを楽しみたいライト〜ミドルのサッカーファン。",
+  "slug": "football-strike",
+  "file": "data/games/1348-football-strike.json",
+  "_source_urls": [
+    "https://blog.miniclip.com/2017/09/14/10102/",
+    "https://www.miniclip.com/games/football-strike",
+    "https://app.sensortower.com/overview/com.miniclip.footballstrike?country=us",
+    "https://sensortower.com/ios/us/miniclip-com/app/football-strike/1240162700/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1976,
+  "title_jp": "Code:Realize 〜祝福の未来〜",
+  "title_en": "Code:Realize: Future Blessings",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2016,
+  "platform": [
+    "PS Vita",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "女性向け恋愛ADV/ビジュアルノベル（FD）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『Code:Realize ～創世の姫君～』のFD（ファンディスク）として国内オトメイトファンに支持され、海外でも Aksys Games がローカライズ。Switch 移植で再評価された。",
+  "concept": "スチームパンク・ロンドンを舞台にした人気オトメADVの後日談・サブルート集。本編で結ばれた攻略対象たちとのアフターストーリーとifルートを楽しむ、シリーズファン向けのファンディスク。",
+  "target": "本編『創世の姫君』をクリアした女性オトメゲームユーザー。アルセーヌ・ルパンら攻略対象キャラの「その後」を読みたい層、スチームパンク世界観とキャラ重視の物語消費を求める層。",
+  "slug": "code-realize-future-blessings",
+  "file": "data/games/1976-code-realize-future-blessings.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Code:_Realize",
+    "https://www.otomate.jp/code-realize/fd/",
+    "https://code-realize.fandom.com/wiki/Code:_Realize_~Future_Blessings~",
+    "https://noisypixel.net/otome-code-realize-future-blessings-switch-release-date-day-1-physical-edition/"
+  ]
+}

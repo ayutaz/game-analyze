@@ -1,0 +1,30 @@
+{
+  "id": 1257,
+  "title_jp": "アクアパーク.io",
+  "title_en": "Aquapark.io",
+  "developer": "Cassette",
+  "publisher": "Voodoo",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "ハイパーカジュアル/.io レース",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Voodoo 配給のハイパーカジュアル代表作。2019 年 7 月単月で世界 4,300 万 DL を記録し App Store 世界一位、Sensor Tower の月次ランキング常連となった。水上スライダーを滑り降りて相手を弾き飛ばす爽快な短尺ループが TikTok / YouTube Shorts でも繰り返し拡散された。",
+  "concept": "ウォーターパークのスライダーを滑走しながらショートカットとぶつかり合いで先着を競う .io 系ハイパーカジュアル。1 レース 30 秒〜1 分の縦持ちワンタップ操作で、ライバルを場外に弾き飛ばす物理アクションが核。",
+  "target": "スマホで隙間時間に手軽に遊びたいライト層全般。10 代〜30 代を中心に、広告を見ながらサクッと競争したいカジュアルゲーマー、特に欧米・南米のティーン層に強い。",
+  "slug": "aquapark-io",
+  "file": "data/games/1257-aquapark-io.json",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/interview/73457/the-voodoo-approach-how-aquaparkio-developer-cassette-grew-with-help-from-the-hyper-casual-publisher/",
+    "https://sensortower.com/blog/top-hyper-casual-games-worldwide-july-2019-downloads",
+    "https://apps.apple.com/us/app/aquapark-io/id1453989822",
+    "https://play.google.com/store/apps/details?id=com.cassette.aquapark"
+  ]
+}

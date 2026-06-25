@@ -1,0 +1,30 @@
+{
+  "id": 1703,
+  "title_jp": "ワイルドガンズ",
+  "title_en": "Wild Guns",
+  "developer": "Natsume",
+  "publisher": "Natsume",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "ガンシューティング/シューティングギャラリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "西部劇×スチームパンクの異色世界観と、回避・近接・ラッソを織り交ぜる骨太な操作系で SNES 末期にカルト的評価を獲得。2016 年の『Wild Guns Reloaded』で復活し、2020 年には Nintendo Switch Online のスーパーファミコンタイトルにも追加された。",
+  "concept": "クリントとアニーがロボットや無法者を撃ち抜く三人称視点のシューティングギャラリー。前景でサイドステップ・ジャンプ・ラッソによる回避を行いながら、背景の敵を撃つ「動きながら撃つガンシュー」というハイブリッドが核。",
+  "target": "ハイスコアとパターン暗記を楽しむ硬派 2D シューターファン、ローカル協力プレイで盛り上がりたい層、SNES のカルト名作を遊び返したいレトロゲーマー。",
+  "slug": "wild-guns",
+  "file": "data/games/1703-wild-guns.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wild_Guns",
+    "https://www.natsumeatari.co.jp/wild-guns-reloaded/wildguns.html",
+    "https://dic.pixiv.net/a/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AC%E3%83%B3%E3%82%BA"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

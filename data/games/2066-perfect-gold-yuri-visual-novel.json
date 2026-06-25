@@ -1,0 +1,32 @@
+{
+  "id": 2066,
+  "title_jp": "Perfect Gold",
+  "title_en": "Perfect Gold - Yuri Visual Novel",
+  "developer": "Yangyang Mobile",
+  "publisher": "Yangyang Mobile",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "ビジュアルノベル / 百合",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "フィリピン拠点 Yangyang Mobile（The Letter / Love Esquire）の英語百合 VN。Steam で 98% Overwhelmingly Positive を獲得し、英語圏インディー百合シーンで高評価。",
+  "concept": "魔法都市 Castlecoast を舞台に、錬金術師の少女 Audrey と元素魔法の少女 Marion がひまわり祭の夜に和解と再接近を遂げる 2-4 時間・約 3 万語のショート百合 VN。プロの英語声優によるフルボイスを採用。",
+  "target": "英語圏インディー百合 VN ファン、短時間で読み切れる character-driven な恋愛物語を好む層、Yangyang Mobile の既存ファン。",
+  "slug": "perfect-gold-yuri-visual-novel",
+  "file": "data/games/2066-perfect-gold-yuri-visual-novel.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/578540/Perfect_Gold__Yuri_Visual_Novel/",
+    "https://perfectgold.yangyangmobile.com/",
+    "https://yangyangmobile.itch.io/perfect-gold",
+    "https://www.reimarufiles.com/2020/06/08/perfect-gold-is-the-newest-game-from-yangyang-mobile/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

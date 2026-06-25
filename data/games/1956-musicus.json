@@ -1,0 +1,31 @@
+{
+  "id": 1956,
+  "title_jp": "MUSICUS!",
+  "title_en": "MUSICUS!",
+  "developer": "OVERDRIVE",
+  "publisher": "OVERDRIVE / MangaGamer",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "ロックンロールADV/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "OVERDRIVE 最終作として 2018 年 7 月の CAMPFIRE クラウドファンディングが日本記録級の速度で目標達成、『キラ☆キラ』後継のロック青春群像劇として話題化。2021 年に MangaGamer 経由で英訳版が Steam/18+ 同時配信され海外 VN 層からも高評価を獲得した。",
+  "concept": "「音楽とは何か」を問うロックンロール青春群像 ADV。バンドを組み社会と折り合いをつけながら音を鳴らし続ける主人公・対馬馨の人生を、3 ヒロイン分岐と Bad End を含む 4 ルートで描く、OVERDRIVE ブランド最後のビジュアルノベル。",
+  "target": "20-40 代の VN/エロゲ愛好層、特に『キラ☆キラ』『DEARDROPS』など OVERDRIVE 旧作のファンと、バンド/音楽カルチャー題材の重めの物語を求める層。",
+  "slug": "musicus",
+  "file": "data/games/1956-musicus.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/MUSICUS!",
+    "https://musicus.over-drive.jp/",
+    "https://www.entergram.co.jp/musicus/product.html",
+    "https://store.steampowered.com/app/1418180/MUSICUS/",
+    "https://camp-fire.jp/projects/83595/view"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1370,
+  "title_jp": "Hyper Front",
+  "title_en": "Hyper Front",
+  "developer": "NetEase Games",
+  "publisher": "NetEase Games",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ヒーロー型5v5タクティカルFPS",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "『VALORANT』酷似のモバイルFPSとして注目を集め、2022年1月にSEA4カ国（PH/TH/SG/MY）で先行配信。Riot GamesがNetEaseを提訴し、2023年4月10日にサービス終了した経緯でも話題に。",
+  "concept": "Unreal Engine 4製のモバイル向け5対5ヒーローシューター。23種類の武器とアビリティ持ちエージェントを使い分け、爆弾設置型ラウンド制で戦う「モバイル版VALORANT」的タクティカルFPS。",
+  "target": "モバイルでガチ寄りのタクティカルFPSを遊びたい層、VALORANT/CS系のラウンド制シューターを外でも触りたい東南アジア・日本のスマホゲーマー。",
+  "slug": "hyper-front",
+  "file": "data/games/1370-hyper-front.json",
+  "_source_urls": [
+    "https://gamingonphone.com/news/hyper-front-officially-launched-android-four-countries-of-sea/",
+    "https://automaton-media.com/articles/newsjp/20221209-230186/",
+    "https://gamingonphone.com/news/neteases-hyper-front-to-shut-down-its-services-on-april-10-2023/",
+    "https://www.sportskeeda.com/valorant/valorant-like-game-hyper-front-officially-launched-mobile-devices-4-countries"
+  ]
+}

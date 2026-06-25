@@ -1,0 +1,34 @@
+{
+  "id": 2095,
+  "title_jp": "戦国ランス",
+  "title_en": "Sengoku Rance",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2006,
+  "platform": [
+    "PC"
+  ],
+  "genre": "戦略シミュレーション/RPG/アダルトADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2006年12月発売、美少女ゲーム月間1位かつ年間ランキングでも首位を獲得。エロゲ枠を超えて戦略SLGファンからも高評価を得て、シリーズ最大のヒット作となった。2019年にMangaGamerが公式英語版を配信し、海外のRPG/SLGコミュニティ（RPG Codex等）でも再評価された。",
+  "slug": "sengoku-rance",
+  "file": "data/games/2095-sengoku-rance.json",
+  "concept": "戦国時代の「JAPAN」を舞台に、織田信長の名代となった主人公ランスが織田家を率いて全国統一を目指すターン制国盗りSLG。Rance シリーズ第7作にして、戦略SLG・キャラ収集・成長育成・アダルトADVを一本に統合したハイブリッド構造が代名詞。",
+  "target": "18禁エロゲユーザーに加え、信長の野望系の戦国SLGや非対称な国盗りゲームを好む20-40代男性。シリーズ未経験でも単独で完結する作りで、Rance入門としても定着している。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://alicesoft.miraheze.org/wiki/Sengoku_Rance",
+    "https://www.famitsu.com/news/202312/01326196.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

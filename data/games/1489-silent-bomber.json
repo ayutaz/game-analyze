@@ -1,0 +1,29 @@
+{
+  "id": 1489,
+  "title_jp": "サイレント・ボンバー",
+  "title_en": "Silent Bomber",
+  "developer": "CyberConnect",
+  "publisher": "Bandai / Marvelous",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3D爆破アクション",
+  "sales_jp": "—",
+  "sales_world": "約70,000本",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "爆弾を「設置→連鎖起爆」する独自システムと硬派なSF設定で、PS1末期のカルト的人気作。2006年からPlayStation NetworkのゲームアーカイブスでDL販売され再評価された。",
+  "slug": "silent-bomber",
+  "file": "data/games/1489-silent-bomber.json",
+  "concept": "敵を撃つのではなく「爆弾を貼り付けて起爆する」ことに特化したトップビュー3Dアクション。E-Unitガントレットで設置した爆弾を連鎖起爆させるコンボシステムが核で、戦艦DANTE内部を14ミッションで攻略する。",
+  "target": "PS1後期のSF・メカ・硬派アクションを好むコア層。爆破コンボの最適化や、遺伝子操作された主人公Jutah Fateの過去を辿る重めの物語を楽しめるプレイヤー向け。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Silent_Bomber",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%9C%E3%83%9E%E3%83%BC",
+    "https://www.cc2.co.jp/silentbomber/"
+  ]
+}

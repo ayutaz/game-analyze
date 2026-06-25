@@ -1,0 +1,32 @@
+{
+  "id": 1960,
+  "title_jp": "魔女のお茶会",
+  "title_en": "Witch's Garden",
+  "developer": "Windmill Oasis",
+  "publisher": "Windmill Oasis",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "業界初の動的立ち絵システム E-mote を全面採用し美少女ゲームアワードを多数受賞。2022 年に Switch、後に Steam で英語版も展開しブランド代表作として再評価された。",
+  "concept": "ういんどみる Oasis ブランド 10 周年記念タイトル。魔女と人間が共存する架空観光都市「かざしろ」を舞台に、下宿先 Oasis で暮らす魔女ヒロイン達との同居恋愛 ADV を、E-mote による動く立ち絵で描く。",
+  "target": "恋愛 ADV / ビジュアルノベル愛好層、Windmill Oasis や co-cha のキャラクターデザインに惹かれるファン、ほのぼの日常×ファンタジー恋愛を求めるプレイヤー。",
+  "slug": "witchs-garden",
+  "file": "data/games/1960-witchs-garden.json",
+  "_source_urls": [
+    "https://www.gematsu.com/2022/09/romance-visual-novel-witchs-garden-coming-to-switch-on-december-22-in-japan",
+    "https://store.steampowered.com/app/2347380/Witchs_Garden/",
+    "https://vnerogereview.wordpress.com/2015/12/25/what-exactly-are-witches-review-of-121130-witchs-garden/",
+    "https://7nightstranslations.wordpress.com/tag/windmill-oasis/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

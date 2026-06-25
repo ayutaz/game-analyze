@@ -1,0 +1,28 @@
+{
+  "id": 1453,
+  "title_jp": "ブシドーブレード",
+  "title_en": "Bushido Blade",
+  "developer": "Light Weight",
+  "publisher": "Square (JP) / Sony (NA)",
+  "year": 1997,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "対戦型格闘（武器格闘）",
+  "sales_jp": "0.39M",
+  "sales_world": "0.7M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "一撃必殺・部位ダメージ・体力ゲージ無しというリアル志向の革新的システムで、当時の格闘ゲーム常識を覆した話題作。日本で約39万本、北米でも32万本以上を売り上げた。",
+  "concept": "体力ゲージや必殺技を排し、一太刀で勝敗が決まる「真剣勝負」を再現した武器格闘アクション。間合い・構え・受け流しといった日本剣術の駆け引きを 3D 空間で表現した。",
+  "target": "格闘ゲームの定型に飽きたコアプレイヤー、時代劇や剣豪小説が好きな層、当時のスクウェア IP を追っていた PS ユーザー。",
+  "slug": "bushido-blade",
+  "file": "data/games/1453-bushido-blade.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bushido_Blade_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%B7%E3%83%89%E3%83%BC%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89",
+    "https://www.vgchartz.com/game/276/bushido-blade/",
+    "https://magmix.jp/post/24888"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1149,
+  "title_jp": "エコーカリプス：紅契約",
+  "title_en": "Echocalypse: Scarlet Covenant",
+  "developer": "Yoozoo Games",
+  "publisher": "Yoozoo / Efun",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ケモノ娘×終末世界アニメRPG（ターン制ストラテジー＋ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "「ケモノ娘×終末世界」をフックにした美少女ガチャ。日本版「緋紅の神約」は事前登録 80 万人を突破し、2022 年 10 月 20 日にリリース。中華 IP ながら日本市場向けにイラスト・声優を厚めにブッキングし、長期運営が続いている。",
+  "concept": "「Echo」と呼ばれる災厄でケモノ娘化した少女たちを指揮官が率いて世界の真実を追う、ターン制ストラテジー型のキャラクター収集 RPG。Dorm（拠点）・オートバトル・週課ミニゲームで放置運用も可能。",
+  "target": "ケモノ耳・獣人系の美少女キャラに惹かれる男性プレイヤー層、終末・ディストピア世界観と長期運営型ガチャ RPG を求める 20-40 代を主軸とする。",
+  "slug": "echocalypse-scarlet-covenant",
+  "file": "data/games/1149-echocalypse-scarlet-covenant.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2917030/Echocalypse_The_Scarlet_Covenant/",
+    "https://www.4gamer.net/games/626/G062656/20221011015/",
+    "https://gamingonphone.com/news/echocalypse-scarlet-covenant-yoozoos-sci-fi-rpg-opens-global-pre-registration-on-android-and-ios/",
+    "https://apps.apple.com/us/app/echocalypse-scarlet-covenant/id6446244975"
+  ]
+}

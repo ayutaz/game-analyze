@@ -1,0 +1,32 @@
+{
+  "id": 1305,
+  "title_jp": "ライト & ナイト（光与夜之恋）",
+  "title_en": "Light and Night",
+  "developer": "Aurora Studio",
+  "publisher": "Tencent Games",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向け恋愛アドベンチャー/乙女ガチャ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "中国テンセント発の女性向け恋愛アプリで、配信直後から中国 App Store セールス Top10 入り。Gamescom 2025 で乙女系作品としては異例の Best Mobile Game を受賞し、SEA / 台湾 / 韓国へ展開、日本人声優（石川界人・森川智之・岸尾だいすけ等）起用でも話題を集めた。",
+  "concept": "デザイナーとして見知らぬ街にやってきた主人公が、5 人の男性キャラと出会い恋を育てる女性向けロマンス ADV。ビジュアルノベル形式の本編シナリオに、カード（思い出）ガチャと衣装収集、ミニゲームを組み合わせ、「物語消費 × ガチャ運営」のハイブリッドで長期サービスを設計している。",
+  "target": "10 代後半〜30 代女性、特にアイドリッシュセブン・ツイステ・恋とプロデューサー等の女性向けガチャ ADV を遊んできた層。中華圏発のイラスト・演出・日本語ボイスに惹かれる、海外乙女タイトルに耐性のあるプレイヤー。",
+  "slug": "light-and-night",
+  "file": "data/games/1305-light-and-night.json",
+  "_source_urls": [
+    "https://baike.baidu.com/en/item/Light%20and%20Night/937890",
+    "https://www.4gamer.net/games/516/G051689/20200629019/",
+    "https://chinagamenews.net/market-info-813/",
+    "https://fanstanza.gg/light-and-night-english-southeast-asia/",
+    "https://lightandnight.wiki.gg/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1882,
+  "title_jp": "痕",
+  "title_en": "Kizuato",
+  "developer": "Leaf",
+  "publisher": "Leaf",
+  "year": 1996,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ホラー/伝奇ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Leaf ビジュアルノベルシリーズ第2弾。雫に続くホラー/伝奇路線で、シリーズが「ビジュアルノベル」というジャンル名と読み物型 ADV の方向性を確立する立役者となった。後年 2002 / 2009 にリニューアル版がリリースされ、長く語り継がれるエロゲ史の重要作。",
+  "concept": "旧家の血筋にまつわる「鬼の血」をテーマにした伝奇ホラー・ビジュアルノベル。テキスト・背景・立ち絵を重ねる Leaf 流の AVG 演出で、ヒロイン別ルートを辿りながら凄惨な家族の謎に踏み込んでいく。",
+  "target": "1990 年代後半の PC-98／Windows エロゲ世代、ビジュアルノベル黎明期の伝奇・ホラー系シナリオを読みたい大人のプレイヤー層。",
+  "slug": "kizuato",
+  "file": "data/games/1882-kizuato.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kizuato",
+    "https://www.mobygames.com/game/50312/kizuato/",
+    "https://aquaplus.fandom.com/wiki/Kizuato"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

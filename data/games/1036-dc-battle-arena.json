@@ -1,0 +1,31 @@
+{
+  "id": 1036,
+  "title_jp": "DC Battle Arena",
+  "title_en": "DC Battle Arena",
+  "developer": "Electronic Soul (BBQ Studio / Barbarq)",
+  "publisher": "WB Games",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム対戦アクション/MOBA",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "DC 公式ライセンスを受けたモバイル向けリアルタイム対戦ゲーム。スーパーマン／バットマン／ワンダーウーマン／ハーレイクイン等が登場し、1v1 DUEL・3v3v3・サバイバルの 3 モードでバトルロイヤル要素を取り入れた点が話題になった。",
+  "concept": "DC ヒーロー／ヴィランを操作キャラとして、短時間のリアルタイム PvP（1v1／3v3v3／サバイバル）に特化した「IP × MOBA / バトルロイヤル」ハイブリッド。Barbarq 開発陣のカジュアル対戦ノウハウを DC IP に乗せた作品。",
+  "target": "スーパーマンやバットマン等の DC ヒーローに馴染みのあるグローバル層と、Brawl Stars 系の短時間モバイル PvP を好む 10–30 代の対戦ゲーマー。隙間時間に英雄同士をぶつけて遊びたいカジュアル～ミッドコア層。",
+  "slug": "dc-battle-arena",
+  "file": "data/games/1036-dc-battle-arena.json",
+  "_source_urls": [
+    "https://en.prnasia.com/releases/apac/a-dc-genuine-authorized-superhero-fighting-mobile-game-dc-battle-arena-is-released-today-320449.shtml",
+    "https://dc.fandom.com/wiki/DC_Battle_Arena",
+    "https://www.taptap.io/app/193634",
+    "https://geekculture.co/warner-releases-android-only-dc-battle-arena-moba-game-that-looks-like-a-lazy-cash-grab/"
+  ]
+}

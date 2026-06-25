@@ -1,0 +1,31 @@
+{
+  "id": 1206,
+  "title_jp": "LYN: The Lightbringer",
+  "title_en": "LYN: The Lightbringer",
+  "developer": "Nexon",
+  "publisher": "Nexon",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ヒーローコレクションRPG/モバイルガチャRPG",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "リネージュ2のアートディレクターJeong Juno（鄭周諾）が手掛ける美麗な2D→3Dヒーローデザインで注目を集めた。2019年3月14日にグローバル配信され、PvP・ギルド戦・3人レイドなどMMO的要素も搭載していたが、2020年12月29日にサービス終了。",
+  "concept": "リネージュ2のアートディレクターによる美麗キャラクターを売りにした、ステージ進行型のヒーローコレクションRPG。最大5体のヒーローを前衛・中衛・後衛に配置し、オート/手動切替で戦うチェインコンボ戦闘と、ガチャでの英雄獲得が中心ループ。",
+  "target": "リネージュ2系の韓国MMO美術を好むアートファン、ヒーローコレクター型ガチャRPGを遊ぶグローバルモバイルRPGファン層。",
+  "slug": "lyn-the-lightbringer",
+  "file": "data/games/1206-lyn-the-lightbringer.json",
+  "_source_urls": [
+    "https://lyn.nexon.com/",
+    "https://mmos.com/review/lyn-the-lightbringer",
+    "https://mmoculture.com/2019/02/lyn-the-lightbringer-global-pre-registration-begins-for-new-nexon-mobile-rpg/",
+    "https://www.gamerbraves.com/lyn-the-lightbringer-will-shut-down/"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2001,
+  "title_jp": "ナイトシェード 百花百狼",
+  "title_en": "Nightshade: Hyakka Hyakurou",
+  "developer": "Red Entertainment",
+  "publisher": "D3 Publisher / Sekai Project",
+  "year": 2016,
+  "platform": [
+    "PS Vita",
+    "PC",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー/乙女ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "イラストレーター Teita のキャラデザインと戦国忍者×乙女という珍しい題材で話題に。Steam 版は英語圏の乙女ゲーファンに支持され、ユーザーレビュー 95% 好評（706 件超）でローカライズ乙女ゲーの代表作の一つとなった。",
+  "concept": "天正伊賀の乱直後の戦国末期を舞台に、伊賀＝甲賀の和解の象徴として育てられたくノ一・植野円珠が、5 人のシノビとの恋路と忍びとしての矜持の間で揺れる和風乙女ビジュアルノベル。各キャラ 2 エンドの分岐で物語を「読む／追体験する」ことが主動機。",
+  "target": "和風・時代物・忍者ものが好きな乙女ゲーマー層（主に女性 20-40 代）、および Sekai Project 経由で乙女 VN に触れる海外のローカライズ VN ファン層。",
+  "slug": "nightshade-hyakka-hyakurou",
+  "file": "data/games/2001-nightshade-hyakka-hyakurou.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/512180/Nightshade/",
+    "https://www.d3p.co.jp/hyakka/",
+    "https://www.4gamer.net/games/439/G043941/20181101147/",
+    "https://www.siliconera.com/hyakka-hyakurou-sengoku-ninpoujou-launches-steam-nightshade/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Nightshade"
+  ]
+}

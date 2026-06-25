@@ -1,0 +1,32 @@
+{
+  "id": 2036,
+  "title_jp": "ZERO ESCAPE 刻のジレンマ",
+  "title_en": "Zero Escape: Zero Time Dilemma",
+  "developer": "Chime Corporation",
+  "publisher": "Spike Chunsoft / Aksys Games",
+  "year": 2016,
+  "platform": [
+    "3DS",
+    "PS Vita",
+    "PC",
+    "PS4"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル/脱出",
+  "sales_jp": "—",
+  "sales_world": "unknown (シリーズ完結編)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「9時間9人9の扉」「善人シボウデス」に続くZero Escape三部作の完結編として、長年の伏線回収と分岐するタイムライン構造がコアファンの間で大きな話題に。海外でもカルト的支持を獲得。",
+  "concept": "9人の参加者が施設に閉じ込められ、6人が死ねば脱出できるという「ディシジョン・ゲーム」を題材にしたサスペンス・ビジュアルノベル。フルボイス＋3Dムービー化し、断片的なフラグメントを時系列横断で繋ぎ合わせる構成が特徴。",
+  "target": "前2作「999」「VLR」をプレイしたシリーズファン、SF・心理サスペンス系ビジュアルノベル愛好家。重い倫理的選択と多重ループ構造を楽しめる20-40代のADVファン層。",
+  "slug": "zero-time-dilemma",
+  "file": "data/games/2036-zero-time-dilemma.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Zero_Time_Dilemma",
+    "https://ja.wikipedia.org/wiki/ZERO_ESCAPE_%E5%88%BB%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E",
+    "https://www.spike-chunsoft.co.jp/zeroescape/"
+  ]
+}

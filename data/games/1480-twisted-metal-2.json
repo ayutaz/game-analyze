@@ -1,0 +1,29 @@
+{
+  "id": 1480,
+  "title_jp": "ツイステッドメタル2",
+  "title_en": "Twisted Metal 2",
+  "developer": "SingleTrac",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1996,
+  "platform": [
+    "PS1",
+    "PC"
+  ],
+  "genre": "ビークルコンバット/対戦アクション",
+  "sales_jp": "—",
+  "sales_world": "1.74M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PS1初期の代表的ビークルコンバット作品で、北米だけで174万本超を売り上げシリーズの基礎を築いた。分割画面マルチプレイの対戦バカゲーとして口コミで広まった。",
+  "concept": "武装した車両で世界各地のアリーナを舞台に最後の1台になるまで戦うビークルコンバット。個性的なキャラクターと車両、破壊可能なステージギミックで「車で殴り合う」遊びを完成させた一作。",
+  "target": "90年代後半のPS1ユーザー、対戦アクション・カーコンバット好き、友人宅で分割画面マルチプレイを楽しみたい層。",
+  "slug": "twisted-metal-2",
+  "file": "data/games/1480-twisted-metal-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Twisted_Metal_2",
+    "https://www.mobygames.com/game/4358/twisted-metal-2/",
+    "https://www.vgchartz.com/game/2549/twisted-metal-2/",
+    "https://www.pushsquare.com/games/ps1/twisted_metal_2"
+  ]
+}

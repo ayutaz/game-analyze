@@ -1,0 +1,34 @@
+{
+  "id": 1175,
+  "title_jp": "ヒット2",
+  "title_en": "HIT 2",
+  "developer": "NAT Games",
+  "publisher": "Nexon",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG（クロスプレイ対応）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2022年8月25日に韓国でPC/モバイルのクロスプレイMMORPGとしてリリースされ、初日にApp StoreとGoogle Playの両セールスランキングで1位を獲得。前作HIT（累計2,500万DL）のIPを継承し、大規模攻城戦・領地戦が話題となった。",
+  "concept": "Unreal Engine 4で制作された『HIT』IPのクロスプラットフォームMMORPG続編。6クラスのアクション戦闘と、PC/モバイル間でシームレスに参加できる大規模PvP攻城戦・領地戦を中核に据える。",
+  "target": "韓国・台湾・グローバル圏のハードコアMMORPGユーザー、特にギルド戦・攻城戦・重課金プレイを志向する20-40代の男性層が中心。日本向けには『HIT: The World』として2024年に展開予定。",
+  "slug": "hit-2",
+  "file": "data/games/1175-hit-2.json",
+  "_source_urls": [
+    "https://www.mmobomb.com/news/nexon-new-mmorpg-hit2-launches-korean-players-august-comes-to-pc-mobile-platforms",
+    "https://mmoculture.com/2022/05/hit-2-nexon-games-reveal-official-logo-for-upcoming-pc-mobile-mmorpg-sequel/",
+    "https://game.watch.impress.co.jp/docs/news/1353782.html",
+    "https://www.4gamer.net/games/597/G059711/20220825060/",
+    "https://app.famitsu.com/20220728_1981476/",
+    "https://www.mobygames.com/game/209416/hit-2/"
+  ]
+}

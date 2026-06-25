@@ -1,0 +1,35 @@
+{
+  "id": 1244,
+  "title_jp": "クロッシーロード",
+  "title_en": "Crossy Road",
+  "developer": "Hipster Whale",
+  "publisher": "Hipster Whale / Atari (2026買収)",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Switch",
+    "Browser"
+  ],
+  "genre": "エンドレス・アーケード・ホッパー",
+  "sales_jp": "—",
+  "sales_world": "350M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「Frogger 3D 版」と評された道路横断アクションで配信3か月で5,000万DL・収益1,000万ドル超を達成。広告と任意の動画リワードのみで課金圧を排した設計が話題となり、累計3.5億DL超のメガヒットに育った。2026年6月にAtariがHipster Whaleを最大3,930万ドルで買収。",
+  "slug": "crossy-road",
+  "file": "data/games/1244-crossy-road.json",
+  "concept": "信号も歩道もない道路・線路・川を、ニワトリやキャラクターでひたすら横断し続けるワンタップ・エンドレス。短時間で1プレイが終わり、何度でもやり直したくなるハイスコア更新型の純粋な体験ゲーム。",
+  "target": "スマホでスキマ時間に遊びたいカジュアル層、家族や子供、Frogger 世代のレトロアーケード愛好家。課金プレッシャーなしでハイスコアを競いたい層に強い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crossy_Road",
+    "https://www.hipsterwhale.com/press-kit",
+    "https://www.crossyroad.com/",
+    "https://www.gamedeveloper.com/business/atari-to-acquire-crossy-road-developer-hipster-whale",
+    "https://mobilegamer.biz/atari-acquires-crossy-road-maker-hipster-whale-for-an-initial-29-3m/"
+  ]
+}

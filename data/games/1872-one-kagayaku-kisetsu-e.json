@@ -1,0 +1,33 @@
+{
+  "id": 1872,
+  "title_jp": "ONE 〜輝く季節へ〜",
+  "title_en": "ONE: Kagayaku Kisetsu e",
+  "developer": "Tactics (Nexton)",
+  "publisher": "Tactics / Nexton",
+  "year": 1998,
+  "platform": [
+    "PC",
+    "PS1",
+    "Dreamcast"
+  ],
+  "genre": "アドベンチャー/恋愛ビジュアルノベル（泣きゲー）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Jun Maeda・久弥直樹・樋上いたる・折戸伸治らが Tactics 時代に手掛けた作品で、後に Key を設立する原点として語り継がれる。「えいえん」をモチーフにした幻想的なシナリオが「泣きゲー」というジャンルを定着させ、PC ゲーム月間販売ランキング全国 Top50 に複数回ランクインした。",
+  "concept": "日常から少しずつ「永遠の世界」へ消えていく主人公と、彼を待つヒロインたちを描く分岐型ビジュアルノベル。Kanon / AIR / CLANNAD へ連なる Key 系「泣きゲー」フォーマットの原型を確立した一作。",
+  "target": "1990 年代後半〜2000 年代の PC アドベンチャー黎明期を知る層、Kanon・AIR・CLANNAD など Key 作品から遡って原典を辿りたいビジュアルノベル愛好家。",
+  "slug": "one-kagayaku-kisetsu-e",
+  "file": "data/games/1872-one-kagayaku-kisetsu-e.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/One:_Kagayaku_Kisetsu_e",
+    "https://ja.wikipedia.org/wiki/ONE_%E3%80%9C%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%E3%80%9C",
+    "https://en.wikipedia.org/wiki/Key_(company)",
+    "https://www.famitsu.com/news/202203/25255959.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

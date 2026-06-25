@@ -1,0 +1,35 @@
+{
+  "id": 1532,
+  "title_jp": "真・女神転生III ノクターン",
+  "title_en": "Shin Megami Tensei III: Nocturne",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "Switch",
+    "PS4",
+    "PC"
+  ],
+  "genre": "ダークファンタジーRPG/悪魔交渉・合体",
+  "sales_jp": "245K (2003末)",
+  "sales_world": "600K+ (HD Remaster)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「ボルテクスに堕とされた東京」を巡るアポカリプスRPGの金字塔。プレスターンバトルと悪魔会話・合体のループが「死にゲーRPG」として根強いカルト人気を生み、2020年のHD Remasterで世代を跨いで再ヒットした。",
+  "concept": "東京が「ボルテクス界」に堕ち、主人公が半魔の「人修羅」となって新世界の「コトワリ」を選ぶダークSF神話RPG。悪魔と交渉して仲魔にし、合体で最強パーティを組み上げる「メガテン的快楽」を3Dフィールドと一人称ダンジョンで純化した1作。",
+  "target": "高難度ターン制RPGとオカルト・神話世界観を好む20-40代コア層。ペルソナから入ってより硬派なメガテン本流を求めるプレイヤー、PS2世代の名作HD版を遊び直したい層。",
+  "slug": "shin-megami-tensei-iii-nocturne",
+  "file": "data/games/1532-shin-megami-tensei-iii-nocturne.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shin_Megami_Tensei_III:_Nocturne",
+    "https://www.vgchartz.com/article/454209/shin-megami-tensei-iii-nocturne-hd-remaster-sales-top-600000-units/",
+    "https://ja.wikipedia.org/wiki/%E7%9C%9F%E3%83%BB%E5%A5%B3%E7%A5%9E%E8%BB%A2%E7%94%9FIII-NOCTURNE",
+    "https://www.famitsu.com/news/202011/05208921.html",
+    "https://shin-megamitensei.jp/3hd/"
+  ]
+}

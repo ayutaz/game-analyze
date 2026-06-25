@@ -1,0 +1,31 @@
+{
+  "id": 1905,
+  "title_jp": "車輪の国、向日葵の少女",
+  "title_en": "Sharin no Kuni, Himawari no Shōjo",
+  "developer": "Akabei Soft2",
+  "publisher": "Akabei Soft2 / Frontwing (EN)",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS2",
+    "PS3"
+  ],
+  "genre": "ヒューマンドラマ ADV / ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "Kickstarter $188,176 (英訳版)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "あかべぇそふとつぅのデビュー作にして「義務」「特別高等人」を軸にした重厚な世界観で長く語り継がれる名作 ADV。英訳 Kickstarter は当初 $80,000 目標を上回り $188K 超を集め、Vita / 同人ファンディスク収録のストレッチゴールも達成した。",
+  "concept": "「義務を負った少女たち」と特別高等人候補の主人公の交流を通して、社会と自由意志の関係を問うシリアスなテキスト型ビジュアルノベル。ライトな学園 ADV の体裁で始まり、終盤に世界観の核に踏み込む構成が特徴。",
+  "target": "20-40 代の重厚系ノベルゲーム愛好者、テキスト主導の同人 / 美少女ゲームを好む層。Ever17・Cross†Channel・素晴らしき日々と並び評される「名作 ADV」を探しているプレイヤー。",
+  "slug": "sharin-no-kuni-himawari-no-shojo",
+  "file": "data/games/1905-sharin-no-kuni-himawari-no-shojo.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%80%81%E5%90%91%E6%97%A5%E8%91%B5%E3%81%AE%E5%B0%91%E5%A5%B3",
+    "https://en.wikipedia.org/wiki/Sharin_no_Kuni:_The_Girl_Among_the_Sunflowers",
+    "https://www.kickstarter.com/projects/tokyootakumode/re-sharin-no-kuni-project",
+    "https://www.animenewsnetwork.com/news/2016-12-05/frontwing-sharin-no-kuni-kickstarter-campaign-reaches-goal/.109504",
+    "https://noisypixel.net/sharin-no-kuni-english-release-date-set-august-2023/"
+  ]
+}

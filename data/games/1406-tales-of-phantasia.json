@@ -1,0 +1,29 @@
+{
+  "id": 1406,
+  "title_jp": "テイルズ オブ ファンタジア",
+  "title_en": "Tales of Phantasia",
+  "developer": "Wolf Team",
+  "publisher": "Namco",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションRPG（リニアモーションバトル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "テイルズシリーズ第1作の PS リメイクとして 1998 年に登場。SFC 版で築いた「リニアモーションバトル」「キャラ音声」「主題歌」の革新性に PS の表現力を載せ、シリーズの礎を再評価させた一作として語り継がれる。",
+  "concept": "ユグドラシルの大樹を巡る時空を超えた冒険を、横スクロール型のリニアモーションバトルでテンポよく描くアクションRPG。コマンド RPG に「自分で戦う手応え」を持ち込み、後年のテイルズシリーズの戦闘設計の原型となった。",
+  "target": "SFC 原版を遊んだ 20-30 代の RPG ファン、テイルズシリーズの原点を辿りたい層、コマンド戦闘よりも操作性のあるアクション RPG を好むプレイヤー。",
+  "slug": "tales-of-phantasia",
+  "file": "data/games/1406-tales-of-phantasia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_Phantasia",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2",
+    "https://www.vgchartz.com/game/4504/tales-of-phantasia/"
+  ]
+}

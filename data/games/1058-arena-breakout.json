@@ -1,0 +1,31 @@
+{
+  "id": 1058,
+  "title_jp": "アリーナブレイクアウト",
+  "title_en": "Arena Breakout",
+  "developer": "Morefun Studios (Tencent)",
+  "publisher": "Level Infinite",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "タクティカル略奪型FPS（エクストラクションシューター）",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL global",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "EFT（Escape from Tarkov）系の略奪型FPSをモバイルで本格再現した初の大型タイトルとして話題化。グローバル事前登録1000万超、配信後にダウンロード数1億を突破し、PC版「Arena Breakout: Infinite」も展開。",
+  "concept": "Tarkov 系の「マップに持ち込み・敵やAIを倒して資材を奪い、生きて脱出する」ループをモバイルで成立させたタクティカル略奪FPS。装備ロスト・部位破壊・リアル弾道など重ゲーマー向け要素を、スマホ操作に最適化したUIで提供する。",
+  "target": "Tarkov や CoD: Warzone などのハードコアFPSをスマホで遊びたい層。装備の価値・損失と緊張感のあるPvPvE 体験を求めるコア寄りモバイルFPS プレイヤー。",
+  "slug": "arena-breakout",
+  "file": "data/games/1058-arena-breakout.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arena_Breakout",
+    "https://arenabreakout.com/",
+    "https://www.pocketgamer.biz/news/81811/tencent-extraction-shooter-arena-breakout-set-to-release-on-july-14/",
+    "https://www.famitsu.com/article/202408/13520"
+  ]
+}

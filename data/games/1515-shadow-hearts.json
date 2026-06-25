@@ -1,0 +1,29 @@
+{
+  "id": 1515,
+  "title_jp": "シャドウハーツ",
+  "title_en": "Shadow Hearts",
+  "developer": "Sacnoth",
+  "publisher": "Aruze / Midway",
+  "year": 2001,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ダークファンタジーRPG",
+  "sales_jp": "110K",
+  "sales_world": "300K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "20世紀初頭の中国・欧州を舞台にしたオカルト×ダークファンタジー設定と、リング判定式の戦闘システム『ジャッジメントリング』で熱狂的なカルト人気を獲得。",
+  "slug": "shadow-hearts",
+  "file": "data/games/1515-shadow-hearts.json",
+  "concept": "ボーカロイドならぬ実在地名と歴史を絡めたゴシック・オカルト世界で、融合者ウルやアリス達の旅路を描くストーリー重視RPG。リング判定で技を成功させる独自バトルが体験を引き立てる。",
+  "target": "20-40代のJRPGコア層、特にダークでオカルティックな世界観や個性派キャラクター物語を好む層。シリーズ後続作『Covenant』『From the New World』のファンダム形成の起点となった。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadow_Hearts_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%8F%E3%83%BC%E3%83%84",
+    "https://shadowhearts.fandom.com/wiki/Sacnoth_(Company)"
+  ]
+}

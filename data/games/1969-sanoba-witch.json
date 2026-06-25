@@ -1,0 +1,28 @@
+{
+  "id": 1969,
+  "title_jp": "サノバウィッチ",
+  "title_en": "Sanoba Witch",
+  "developer": "Yuzusoft",
+  "publisher": "Yuzusoft / NekoNyan",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル（ラブコメ／魔女もの）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ゆずソフト中期の代表作として国内エロゲ市場で高評価を獲得し、2018年のNekoNyanによる英語版Steam/GOG展開で海外VNファンにも広く知られる定番作品になった。",
+  "concept": "魔女である少女たちと「魔女の集会（サバト）」を結成し共同生活を送るラブコメ・ビジュアルノベル。日常×魔法のシナリオと立ち絵の表情差分の豊富さでゆずソフトのブランドを定着させた一本。",
+  "target": "Yuzusoftブランドのラブコメ／魔女モチーフを好む国内エロゲユーザーと、NekoNyan経由で18禁VNに親しむ海外PCユーザー。男性向けが中心。",
+  "slug": "sanoba-witch",
+  "file": "data/games/1969-sanoba-witch.json",
+  "_source_urls": [
+    "https://sanobawitch.nekonyansoft.com/",
+    "https://store.steampowered.com/app/888790/Sabbat_of_the_Witch/",
+    "https://www.pcgamingwiki.com/wiki/Sabbat_of_the_Witch",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/SabbatOfTheWitch"
+  ]
+}

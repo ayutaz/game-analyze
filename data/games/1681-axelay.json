@@ -1,0 +1,28 @@
+{
+  "id": 1681,
+  "title_jp": "アクスレイ",
+  "title_en": "Axelay",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "シューティング（縦/横スクロール）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "擬似3D表現（湾曲する地表のラスタースクロール）と重厚な BGM、3 つ装備可能な特殊武装システムでスーファミ屈指の名作シューティングと評される。後に Wii/Wii U バーチャルコンソールでも配信。",
+  "concept": "縦スクロールと横スクロール面が交互に展開する Konami の SFC オリジナル STG。8 種から 3 つを事前選択する武装システムと、ステージ全体を覆う擬似3D演出で「見せるシューティング」を確立した。",
+  "target": "1990 年代のアーケード/コンシューマ STG ファン、スーファミ世代のレトロゲーマー、Konami サウンドや擬似3D表現に魅力を感じる層。",
+  "slug": "axelay",
+  "file": "data/games/1681-axelay.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Axelay",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%B9%E3%83%AC%E3%82%A4",
+    "https://www.konami.com/games/jp/ja/products/dl_wii_axeley_vc/",
+    "https://www.mobygames.com/game/6637/axelay/"
+  ]
+}

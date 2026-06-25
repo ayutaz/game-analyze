@@ -1,0 +1,37 @@
+{
+  "id": 2012,
+  "title_jp": "逆転裁判4",
+  "title_en": "Apollo Justice: Ace Attorney",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2007,
+  "platform": [
+    "DS",
+    "3DS",
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "法廷アドベンチャー/ビジュアルノベル",
+  "sales_jp": "515K+",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ4作目で主人公が成歩堂龍一から王泥喜法介に交代した世代交代作。「ココロスコープ」など新システムと7年後の世界観で賛否を呼びつつシリーズ累計2,000万本級の中核を支える。",
+  "concept": "「ムジュンを突け！」の法廷バトルADVシリーズ第4作。新米弁護士・王泥喜法介を主人公に据え、堕ちた成歩堂とその養女みぬきを巡る7年後の物語を描く法廷ミステリー。",
+  "target": "シリーズ既存ファンと推理・法廷ADV好き層。テキスト中心の物語消費を楽しみつつ、ロジックパズル的な尋問・証拠突きつけの達成感を味わいたい中高生〜30代。",
+  "slug": "apollo-justice-ace-attorney",
+  "file": "data/games/2012-apollo-justice-ace-attorney.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Apollo_Justice:_Ace_Attorney",
+    "https://aceattorney.fandom.com/wiki/Apollo_Justice:_Ace_Attorney",
+    "https://store.steampowered.com/app/2187220/Apollo_Justice_Ace_Attorney_Trilogy/",
+    "https://www.ace-attorney.com/aj-trilogy/en-us/"
+  ]
+}

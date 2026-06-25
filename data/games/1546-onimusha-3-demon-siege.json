@@ -1,0 +1,29 @@
+{
+  "id": 1546,
+  "title_jp": "鬼武者3",
+  "title_en": "Onimusha 3: Demon Siege",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー（戦国×時空SF）",
+  "sales_jp": "569K",
+  "sales_world": "1.52M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "金城武と松田優作（ジャン・レノ）のWキャストで戦国日本と現代パリを行き来する話題性、シリーズ最高評価のアクションでミリオン達成。",
+  "concept": "明智左馬介（金城武）が戦国時代から現代パリへタイムスリップし、フランス人警官ジャック（ジャン・レノ）と入れ替わりに戦う「時空交差アクション」。鬼の籠手による斬撃と魂吸収を軸に、シリーズで最もスピード感ある剣戟を実現した。",
+  "target": "PS2世代のアクション好き、戦国×和風オカルトに惹かれるシネマティック志向のプレイヤー、金城武・ジャン・レノ起用に反応した一般層。",
+  "slug": "onimusha-3-demon-siege",
+  "file": "data/games/1546-onimusha-3-demon-siege.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Onimusha_3:_Demon_Siege",
+    "https://www.capcom.co.jp/ir/english/business/million.html",
+    "https://capcom.fandom.com/wiki/Onimusha_3:_Demon_Siege"
+  ]
+}

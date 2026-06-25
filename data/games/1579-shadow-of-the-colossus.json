@@ -1,0 +1,33 @@
+{
+  "id": 1579,
+  "title_jp": "ワンダと巨像",
+  "title_en": "Shadow of the Colossus",
+  "developer": "SCE Japan Studio (Team Ico)",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "PS3",
+    "PS4"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "2.78M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「最後の一撃は、せつない」のキャッチコピーで知られる、16体の巨像のみと戦う極限ミニマル設計が国内外で熱狂的支持。2018年のBluepoint Games版PS4リメイクで再評価が加速し、ゲームを芸術として論じる潮流の象徴的タイトルとなった。",
+  "concept": "雑魚敵やレベル上げを廃し「巨大な敵に取り付き弱点に剣を突き立てる」一点だけで構成された極限ミニマルACT。広大な禁断の地と寡黙な世界観で、戦う行為自体への倫理的な揺らぎをプレイ体験に組み込んだ。",
+  "target": "10-40代のコアゲーマー、特に上田文人作品（ICO/人喰いの大鷲トリコ）系の静謐で文学的な世界観を好む層。アクションの達成感と物悲しい物語の両方を味わいたいプレイヤー。",
+  "slug": "shadow-of-the-colossus",
+  "file": "data/games/1579-shadow-of-the-colossus.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus",
+    "https://en.wikipedia.org/wiki/Shadow_of_the_Colossus_(2018_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%80%E3%81%A8%E5%B7%A8%E5%83%8F",
+    "https://www.famitsu.com/news/202110/27238562.html",
+    "https://levvvel.com/shadow-of-the-colossus-statistics/"
+  ]
+}

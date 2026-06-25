@@ -1,0 +1,33 @@
+{
+  "id": 1537,
+  "title_jp": "メタルギアソリッド2 サブスタンス",
+  "title_en": "Metal Gear Solid 2: Substance",
+  "developer": "Konami Computer Entertainment Japan",
+  "publisher": "Konami",
+  "year": 2002,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "—",
+  "sales_world": "7M+ (シリーズ累計, Sons of Liberty 含む)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『サンズ・オブ・リバティ』の完全版として、500以上の VR ミッション、スネークテイルズ、ボスサバイバル等を追加収録。マルチプラットフォーム展開（PS2/Xbox/PC）でも話題に。",
+  "concept": "MGS2 本編に大量のサブコンテンツを盛り込んだ拡張版。スネーク／雷電を操作するステルス潜入の体験はそのままに、VR トレーニング・スケートボード・ボスバトル再戦などやり込み要素を強化した「もう一度遊ぶための MGS2」。",
+  "target": "MGS2 本編をクリアして更にやり込みたい既存ファン、PS2 以外（Xbox/PC）の環境で MGS2 を体験したかった層、ステルスアクション・小島秀夫作品のコアファン。",
+  "slug": "metal-gear-solid-2-substance",
+  "file": "data/games/1537-metal-gear-solid-2-substance.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty",
+    "https://metalgear.fandom.com/wiki/Metal_Gear_Solid_2:_Substance",
+    "https://www.pcgamingwiki.com/wiki/Metal_Gear_Solid_2:_Substance",
+    "https://mgcvt.com/mgs2_substance/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%BD%E3%83%AA%E3%83%83%E3%83%892"
+  ]
+}

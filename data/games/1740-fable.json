@@ -1,0 +1,33 @@
+{
+  "id": 1740,
+  "title_jp": "Fable",
+  "title_en": "Fable",
+  "developer": "Lionhead Studios / Big Blue Box",
+  "publisher": "Microsoft Game Studios",
+  "year": 2004,
+  "platform": [
+    "Xbox",
+    "PC",
+    "Mac"
+  ],
+  "genre": "アクション RPG / 善悪選択ロールプレイ",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ピーター・モリニューの「約束し過ぎた革命的 RPG」として発売前から大バズし、善悪選択で容姿・評判・町人の反応が変わる仕組みが「自分だけの英雄譚」を作るゲームの代名詞に。Xbox 独占ながら累計 300 万本超え、Fable: The Lost Chapters で PC/Mac にも展開した。",
+  "slug": "fable",
+  "file": "data/games/1740-fable.json",
+  "concept": "「英雄になるか悪党になるか」を行動の積み重ねで決める Xbox 発の選択制アクション RPG。倒した敵・救った村人・盗み・結婚などの選択が見た目（角・ハロー・体型）と町人の反応に直接反映され、一本道の物語ではなく自分の英雄像をロールプレイする体験を売りにした。",
+  "target": "善悪分岐や評判システムが好きな洋ゲー RPG ファン、初代 Xbox 世代の海外 RPG 入門層、Peter Molyneux の野心的ゲーム企画に惹かれるプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fable_(2004_video_game)",
+    "https://en.wikipedia.org/wiki/Fable_(video_game_series)",
+    "https://en.wikipedia.org/wiki/Lionhead_Studios",
+    "https://fable.fandom.com/wiki/Fable"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1263,
+  "title_jp": "Color Switch",
+  "title_en": "Color Switch",
+  "developer": "Fortafy Games",
+  "publisher": "Fortafy Games",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ハイパーカジュアル/アーケード",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "App Store 史上最速で 5,000 万 DL を達成、150 カ国以上で 1 位を獲得した 2015 年末〜2016 年のハイパーカジュアル代表作。色を切り替えるシンプルなワンタップ操作が SNS と YouTube で大バズした。",
+  "concept": "「同じ色のゲートしか通り抜けられない」一点突破ルールに極限まで絞ったワンタップ縦スクロールアーケード。デザイナー David Reichelt が 40 本の失敗作を経て生んだ、ハイパーカジュアル黎明期の象徴的タイトル。",
+  "target": "電車・休憩時間に数十秒〜数分で遊びたいライトユーザー全般。年齢・性別を問わず、操作を覚える気がないプレイヤーでもすぐ遊べる層。",
+  "slug": "color-switch",
+  "file": "data/games/1263-color-switch.json",
+  "_source_urls": [
+    "https://venturebeat.com/games/after-40-mobile-games-david-reichelt-hit-gold-with-color-switch/view-all/",
+    "https://appadvice.com/app/color-switch/1053533457",
+    "https://csunshinetoday.csun.edu/alumni/the-courageous-chameleon-and-color-switch/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

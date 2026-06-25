@@ -1,0 +1,33 @@
+{
+  "id": 1597,
+  "title_jp": "ニード・フォー・スピード モスト・ウォンテッド",
+  "title_en": "Need for Speed: Most Wanted (2005)",
+  "developer": "EA Black Box",
+  "publisher": "Electronic Arts",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "Xbox 360",
+    "GameCube",
+    "PC",
+    "DS",
+    "GBA"
+  ],
+  "genre": "レーシング/オープンワールド",
+  "sales_jp": "—",
+  "sales_world": "16M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ最高傑作と名高い警察カーチェイス×ストリートレースの金字塔。ブラックリスト15人を撃破して「最重要指名手配」を目指すキャリアと、20年経った今もMOD・実況で語られる中毒性で人気が衰えない。",
+  "concept": "架空都市Rockportを舞台に、警察追跡（Pursuit）とアンダーグラウンド系チューニング文化を融合させたオープンワールド・アーケードレーサー。ストーリー仕立てのキャリアでブラックリストのライバル15人を倒し、街の頂点に立つことが目的。",
+  "target": "10〜30代男性中心で、映画『ワイルド・スピード』的ストリートレース／カーチェイスを浴びたいアーケード派レーサー層。シミュレーター志向ではなく、スピード感と派手な逃走劇を楽しみたいプレイヤー。",
+  "slug": "need-for-speed-most-wanted-2005",
+  "file": "data/games/1597-need-for-speed-most-wanted-2005.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Need_for_Speed:_Most_Wanted_(2005_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89_%E3%83%A2%E3%82%B9%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%B3%E3%83%86%E3%83%83%E3%83%89",
+    "https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/"
+  ]
+}

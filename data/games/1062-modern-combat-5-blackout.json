@@ -1,0 +1,30 @@
+{
+  "id": 1062,
+  "title_jp": "Modern Combat 5",
+  "title_en": "Modern Combat 5: Blackout",
+  "developer": "Gameloft Bucharest",
+  "publisher": "Gameloft",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Switch"
+  ],
+  "genre": "モバイル FPS（一人称シューティング）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Gameloft のフラッグシップ FPS シリーズ第 5 作。2015 年に F2P 化し、コンソール／PC 級のグラフィックを謳うモバイル FPS として長期運営され、後に Switch・Steam にも移植された。",
+  "concept": "シングルプレイ・キャンペーンと最大 12 人対戦のオンライン PvP を備えたモバイル中心のフル 3D FPS。Call of Duty 風の現代戦アクションをスマホで成立させ、シリーズ累計の認知を支えた一作。",
+  "target": "スマホで本格 FPS を遊びたい 10-30 代男性中心、特にコンソール FPS の代替としてモバイルを使う層と、Gameloft Modern Combat シリーズの既存ファン。",
+  "slug": "modern-combat-5-blackout",
+  "file": "data/games/1062-modern-combat-5-blackout.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Modern_Combat_5:_Blackout",
+    "https://www.gameloft.com/game/modern-combat-5",
+    "https://www.mobygames.com/game/68221/modern-combat-5-blackout/"
+  ]
+}

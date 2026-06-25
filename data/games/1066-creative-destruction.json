@@ -1,0 +1,32 @@
+{
+  "id": 1066,
+  "title_jp": "Creative Destruction",
+  "title_en": "Creative Destruction",
+  "developer": "NetEase Games / Titan Studios",
+  "publisher": "NetEase Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "サンドボックス・バトルロイヤル",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL (Google Play)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Fortnite ライクの建築バトルロイヤルをモバイル/PC で先行配信し、Google Play 累計 1,000 万 DL 超を達成。2018-2022 のサービス期間中、アジア圏で建築×TPS バトロワの代表的フォロワーとして話題化した。",
+  "concept": "100 人が島に降下し、地形・建物を破壊しては自分の足場や砦を即時建築しながら戦うサンドボックス・バトルロイヤル。Fortnite の建築シューティング体験をモバイル/PC マルチプラットフォームで提供することを狙ったタイトル。",
+  "target": "Fortnite 風の建築バトロワをスマホや低スペック PC で気軽に遊びたい 10-20 代男性中心。中国・東南アジア・北米のモバイル FPS/TPS プレイヤー層。",
+  "slug": "creative-destruction",
+  "file": "data/games/1066-creative-destruction.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/893520/Creative_Destruction/",
+    "https://delistedgames.com/creative-destruction/",
+    "https://www.ungeek.ph/2019/07/netease-releases-creative-destruction-a-new-mobile-battle-royale/",
+    "https://play.google.com/store/apps/details?id=com.titan.cd.gb"
+  ]
+}

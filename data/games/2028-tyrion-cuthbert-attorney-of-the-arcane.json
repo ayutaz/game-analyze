@@ -1,0 +1,35 @@
+{
+  "id": 2028,
+  "title_jp": "ティリオン・カスバート 魔法事件簿",
+  "title_en": "Tyrion Cuthbert: Attorney of the Arcane",
+  "developer": "Diamondhenge Entertainment",
+  "publisher": "Diamondhenge Entertainment",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ファンタジー法廷ビジュアルノベル/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「逆転裁判」フォロワーの海外インディーADVとして Game*Spark などで紹介され、魔法世界の法廷劇という設定で SNS とビジュアルノベル界隈で話題化。日本語ローカライズが Steam Workshop 経由で配布され、有志訳を求める声が国内ファンから根強い。",
+  "concept": "魔法が当たり前に存在するファンタジー世界で、魔法犯罪を扱う弁護士ティリオン・カスバートが法廷で魔法のロジックを使ったトリックを暴いていく、「逆転裁判」を強く意識した法廷ビジュアルノベル。各エピソードで証言の矛盾を見抜き、魔法のルールを根拠に依頼人の無罪を立証する。",
+  "target": "「逆転裁判」シリーズや法廷ものADVのファン、ファンタジー世界観のミステリーを読み解きたい層、英語インディーADV/ビジュアルノベルを掘る20-30代のミステリー好き。",
+  "slug": "tyrion-cuthbert-attorney-of-the-arcane",
+  "file": "data/games/2028-tyrion-cuthbert-attorney-of-the-arcane.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/1590230/Tyrion_Cuthbert_Attorney_of_the_Arcane/",
+    "https://www.diamondhenge.com/tc-aota",
+    "https://www.gamespark.jp/article/2023/06/26/131526.html",
+    "https://store.playstation.com/ja-jp/concept/10015299",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/TyrionCuthbertAttorneyOfTheArcane"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

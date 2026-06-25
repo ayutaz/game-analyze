@@ -1,0 +1,33 @@
+{
+  "id": 1339,
+  "title_jp": "Rebel Racing",
+  "title_en": "Rebel Racing",
+  "developer": "Hutch Games",
+  "publisher": "Hutch Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アーケードレース",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "実写級グラフィックのモバイルレースとして話題になり、ヘッド・トゥ・ヘッド対戦と週次イベントで世界累計 5,000 万 DL を突破した。",
+  "concept": "「Forza ライクの実写品質グラフィックをスマホで」を打ち出したアーケードドラッグ／サーキットレース。クラシックマッスルからスーパーカーまで実車ライセンス車両を集め、塗装・チューンしてオンラインの非同期 PvP で競う。",
+  "target": "Real Racing 3 / Asphalt / CSR Racing 2 を遊ぶモバイル車好き層、実車のカスタムと写真撮影を楽しみたい 20-40 代の男性ユーザーが中心。",
+  "slug": "rebel-racing",
+  "file": "data/games/1339-rebel-racing.json",
+  "_source_urls": [
+    "https://hutchgames.com/games/rebel-racing/",
+    "https://en.wikipedia.org/wiki/Hutch_(company)",
+    "https://apps.apple.com/us/app/rebel-racing/id1435772785"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

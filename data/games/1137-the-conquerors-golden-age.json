@@ -1,0 +1,32 @@
+{
+  "id": 1137,
+  "title_jp": "Conquerors: Golden Age",
+  "title_en": "The Conquerors: Golden Age",
+  "developer": "IGG.COM",
+  "publisher": "IGG Singapore",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMOストラテジー（中東テーマSLG）",
+  "sales_jp": "—",
+  "sales_world": "16M+ downloads (lifetime)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中東・北アフリカ市場で大ヒットしたアラブ帝国テーマのMMOストラテジー。ギルド戦・領土戦・クロスサーバー戦が長期運営の中心で、累計1,600万DL超を記録。",
+  "concept": "アラブ・カリフ国の再興をテーマに、都市建設・資源生産・兵科（歩兵/騎兵/弓/攻城）編成・英雄育成・ギルド戦争を組み合わせた長期運営型のMMOストラテジー。プレイヤー同士の領土争いとクロスサーバー戦が体験の核。",
+  "target": "中東・北アフリカ・トルコ圏を中心とする20-40代男性、Lords Mobile / Game of Sultans / Revenge of Sultans 等のアラブ風SLGに親しんだストラテジー好きと、ギルド単位で長期コミットできる重課金層。",
+  "slug": "the-conquerors-golden-age",
+  "file": "data/games/1137-the-conquerors-golden-age.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.igg.android.conquerors&hl=en_US",
+    "https://apps.apple.com/us/app/conquerors-golden-age/id1149631667",
+    "https://www.bluestacks.com/blog/game-guides/fetih-taht-savaslari/cgq-beginner-guide-en.html",
+    "https://app.sensortower.com/overview/com.igg.android.conquerors?country=us",
+    "https://cq.igg.com/project/another_download/"
+  ]
+}

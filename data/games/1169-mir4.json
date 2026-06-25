@@ -1,0 +1,33 @@
+{
+  "id": 1169,
+  "title_jp": "MIR4",
+  "title_en": "MIR4",
+  "developer": "Wemade Next",
+  "publisher": "Wemade",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド K-ファンタジー MMORPG（P2E/NFT）",
+  "sales_jp": "—",
+  "sales_world": "1.3M+ concurrent users peak",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ブロックチェーン技術と DRACO トークンによる Play-to-Earn 経済で世界的に話題化し、2021年11月にピーク同時接続130万人を突破。Steam では「自動戦闘で退屈」と低評価が並ぶ一方でマイニング目的の流入が止まらず、低評価と高同接が共存する象徴的タイトルとなった。",
+  "slug": "mir4",
+  "file": "data/games/1169-mir4.json",
+  "concept": "韓国 Wemade による Mir 伝説シリーズの最新作で、PC とモバイルのクロスプレイ MMORPG。ゲーム内素材「黒鉄」を採掘して仮想通貨 DRACO に交換できる Play-to-Earn 設計を組み込み、170カ国・12言語で同時展開した。",
+  "target": "MMORPG ファンに加え、暗号資産・NFT・Play-to-Earn 経済に関心のある東南アジア／中南米／韓国の労働需給層も含む 20-40 代男性中心。古典 Mir 系の高頻度 PvP・ギルド戦に郷愁を持つアジア層にも刺さる。",
+  "_source_urls": [
+    "https://store.steampowered.com/app/1623660/MIR4/",
+    "https://automaton-media.com/articles/newsjp/20210831-174225/",
+    "https://gamebiz.jp/news/337835",
+    "https://www.4gamer.net/games/530/G053057/",
+    "https://www.businesswire.com/news/home/20210811005932/en/Wemade-Co.-Ltd.-Announces-Global-Grand-Opening-of-MIR-4"
+  ]
+}

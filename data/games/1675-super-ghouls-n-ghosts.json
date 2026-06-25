@@ -1,0 +1,28 @@
+{
+  "id": 1675,
+  "title_jp": "超魔界村",
+  "title_en": "Super Ghouls 'n Ghosts",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1991,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロール・アクション",
+  "sales_jp": "—",
+  "sales_world": "1.79M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "アーサーが二段ジャンプを得た正統続編で、SFC 屈指の高難度アクションとして語り継がれる。バーチャルコンソール、Capcom Arcade 2nd Stadium、Nintendo Switch Online など再配信のたびに「鬼畜難易度」「2 周目クリアで真エンディング」が再評価されてバズる。",
+  "concept": "鎧 → 黄金鎧 → 魔法という強化システムと二段ジャンプを核に、ステージ全体が罠と物量で攻めてくる横スクロール・アクション。死にながら型を覚え、最終的にループ攻略で真エンディングへ到達する「修練型」アクションの代表格。",
+  "target": "高難度 2D アクションを愛する 30-50 代のレトロゲーマー、SFC 直撃世代、サブスクで往年の名作を腕試ししたいライト層。アーサーの初代魔界村でトラウマを刻まれた層の再挑戦先でもある。",
+  "slug": "super-ghouls-n-ghosts",
+  "file": "data/games/1675-super-ghouls-n-ghosts.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Ghouls_%27n_Ghosts",
+    "https://ja.wikipedia.org/wiki/%E8%B6%85%E9%AD%94%E7%95%8C%E6%9D%91",
+    "https://www.nintendo.co.jp/clvs/soft/makaimura.html",
+    "https://capcom.fandom.com/wiki/Super_Ghouls_'n_Ghosts"
+  ]
+}

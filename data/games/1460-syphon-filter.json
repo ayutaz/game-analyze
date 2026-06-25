@@ -1,0 +1,29 @@
+{
+  "id": 1460,
+  "title_jp": "サイフォン・フィルター",
+  "title_en": "Syphon Filter",
+  "developer": "Eidetic",
+  "publisher": "989 Studios (Sony)",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "サードパーソン・シューター/ステルスアクション",
+  "sales_jp": "—",
+  "sales_world": "1.75M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Metal Gear Solid と Tomb Raider を掛け合わせたようなスパイ系 TPS として 1999 年 PS1 で大ヒット。テーザーガンで敵を感電させ続けると炎上するギミックが当時話題になり、北米中心に 175 万本超を売り上げ Syphon Filter シリーズの礎を築いた。",
+  "slug": "syphon-filter",
+  "file": "data/games/1460-syphon-filter.json",
+  "concept": "悪魔の生物兵器「サイフォン・フィルター」を巡るテロ組織との戦いを、CIA エージェント Gabe Logan の視点で描くステルス重視の三人称シューター。映画的演出とミッション制ステージで「スパイ映画を遊ぶ」体験を提供した。",
+  "target": "Metal Gear Solid 系のスパイ／軍事スリラーが好きな 10-30 代男性、三人称視点 TPS のパイオニア期を楽しんだ PS1 世代のコアゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Syphon_Filter_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%95%E3%82%A9%E3%83%B3%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC",
+    "https://www.mobygames.com/game/3729/syphon-filter/"
+  ]
+}

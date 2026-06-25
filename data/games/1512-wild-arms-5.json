@@ -1,0 +1,29 @@
+{
+  "id": 1512,
+  "title_jp": "ワイルドアームズ クロスファイア",
+  "title_en": "Wild Arms 5",
+  "developer": "Media.Vision",
+  "publisher": "XSEED Games",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ターン制RPG/西部劇ファンタジー",
+  "sales_jp": "約117K",
+  "sales_world": "300K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ10周年記念作で、HEXバトルを進化させた西部劇ファンタジー JRPG。日本では2006年末発売、北米/欧州ローカライズも好評で「シリーズで最も完成度が高い一本」と評価された。",
+  "concept": "「荒野とガンメタル」をテーマにした西部劇風ターン制 RPG。HEX グリッドを使った戦術バトルと、3人パーティの掛け合いで進む正統派の冒険を志向する。",
+  "target": "PS2 世代の和製 RPG ファン、特にワイルドアームズシリーズや SO・テイルズなど 2000 年代中盤の JRPG を愛好した層。腰を据えて長時間の物語と戦闘を楽しみたいソロプレイ志向。",
+  "slug": "wild-arms-5",
+  "file": "data/games/1512-wild-arms-5.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wild_Arms_5",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%BA_%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2",
+    "https://www.vgchartz.com/game/7239/wild-arms-5/sales"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1436,
+  "title_jp": "バイオハザード ディレクターズカット",
+  "title_en": "Resident Evil: Director's Cut",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "PS4",
+    "PS5",
+    "PC"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "—",
+  "sales_world": "1.13M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1996年の初代『バイオハザード』に新コスチューム・新アングル・アレンジモードを追加した強化版。2025年1月にPS5/PS4向けにクラシックスとして突如復刻配信され、シリーズ原点の再評価とともに国内で大きな話題となった。",
+  "concept": "館脱出劇を固定カメラ＋限られた弾薬で描く元祖サバイバルホラーのディレクターズカット版。難易度別モードや新コスチューム、追加カメラアングルでオリジナルを再構築し、恐怖と緊張の体験を磨き直した一本。",
+  "target": "30-50代のシリーズ古参ファンと、リメイク版（バイオRE:2/RE:4）から入り原点を遊んでみたい現役プレイヤー。固定視点と資源管理が織りなすクラシックホラー体験を求める層に刺さる。",
+  "slug": "resident-evil-directors-cut",
+  "file": "data/games/1436-resident-evil-directors-cut.json",
+  "_source_urls": [
+    "https://www.famitsu.com/article/202501/31148",
+    "https://www.4gamer.net/games/874/G087411/20250121019/",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.capcom-games.com/product/en-us/resident-evil-directors-cut/",
+    "https://www.vgchartz.com/game/4167/resident-evil-directors-cut/",
+    "https://residentevil.fandom.com/wiki/Resident_Evil:_Director's_Cut"
+  ]
+}

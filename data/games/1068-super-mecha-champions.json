@@ -1,0 +1,32 @@
+{
+  "id": 1068,
+  "title_jp": "機動都市X（Super Mecha Champions）",
+  "title_en": "Super Mecha Champions",
+  "developer": "NetEase Games",
+  "publisher": "NetEase Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "アニメ風メカTPSバトルロイヤル",
+  "sales_jp": "—",
+  "sales_world": "—（2019年7月グローバル配信、App Store / Google Play 100カ国超でおすすめ掲載、2025年1月20日サービス終了）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "佐藤利奈・関智一・津田健次郎ら著名日本語声優を起用した、アニメ調メカ×100人バトロワとして配信時に話題化。Steam版「機動都市X」も2021年に登場したが、2025年1月にサービス終了。",
+  "concept": "「ガンダム的に巨大メカに搭乗できるアニメ調バトロワ」。生身でルートしながらフィールド上の召喚装置からメカに乗り込み、メカ vs メカ vs 歩兵の三層戦闘を 100 人規模で行うモバイル/PC TPS。",
+  "target": "PUBG Mobile / Apex 等のバトロワに飽きたアニメ・メカ好きの 10〜30 代男性層、日本声優起用で IP 寄りのライト層も狙う。",
+  "slug": "super-mecha-champions",
+  "file": "data/games/1068-super-mecha-champions.json",
+  "_source_urls": [
+    "https://pressreleases.triplepointpr.com/2019/07/25/neteases-mecha-battle-royale-game-super-mecha-champions-launches-worldwide/",
+    "https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E9%83%BD%E5%B8%82X",
+    "https://www.4gamer.net/games/510/G051066/20210325022/",
+    "https://www.supermechachampions.com/jp/"
+  ]
+}

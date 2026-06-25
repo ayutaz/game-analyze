@@ -1,0 +1,31 @@
+{
+  "id": 1784,
+  "title_jp": "ひぐらしのなく頃に 祟殺し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.3 Tatarigoroshi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "iOS",
+    "Android"
+  ],
+  "genre": "サウンドノベル/ミステリーホラー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2003年夏コミ発表の同人ゲーム『ひぐらしのなく頃に』出題編第三話。圭一の暴走と「祟り」のモチーフが衝撃を呼び、シリーズ人気を決定づけた章。後年 MangaGamer 版（2016年）として Steam で英語展開。",
+  "concept": "雛見沢連続怪死事件の「出題編」第三話。前田圭一視点で家庭内暴力と村の因習が絡む地獄を描く、最短かつ最も陰惨と評されるシナリオ。プレイヤーは選択肢のないサウンドノベル形式で物語を「読む」。",
+  "target": "ミステリー／ホラーノベル読者、シリーズの前 2 話（鬼隠し編・綿流し編）を踏まえた読者、ループものや考察コミュニティを楽しむ層。",
+  "slug": "higurashi-when-they-cry-hou-ch-3-tatarigoroshi",
+  "file": "data/games/1784-higurashi-when-they-cry-hou-ch-3-tatarigoroshi.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_%E7%A5%9F%E6%AE%BA%E3%81%97%E7%B7%A8",
+    "https://store.steampowered.com/app/472870/Higurashi_When_They_Cry_Hou__Ch3_Tatarigoroshi/",
+    "https://07th-expansion.fandom.com/wiki/Tatarigoroshi"
+  ]
+}

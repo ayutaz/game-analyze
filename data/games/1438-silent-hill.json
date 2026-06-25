@@ -1,0 +1,29 @@
+{
+  "id": 1438,
+  "title_jp": "サイレントヒル",
+  "title_en": "Silent Hill",
+  "developer": "Team Silent / Konami Computer Entertainment Tokyo",
+  "publisher": "Konami",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "—",
+  "sales_world": "2.0M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "霧と暗闇でPS1の描画限界を逆手に取った演出が衝撃を与え、バイオハザードと並ぶ和製サバイバルホラーの始祖として世界的カルト人気を確立。",
+  "concept": "霧に包まれた架空の観光地サイレントヒルで失踪した娘を探す父親の物語。限られた弾薬と懐中電灯、ラジオのノイズだけを頼りに異界化した町を徘徊し、心理的恐怖と謎解きを体験するサイコロジカルホラー。",
+  "target": "ホラー映画やデヴィッド・リンチ的不条理を好む10代後半〜30代男女。バイオハザード系のサバイバルホラーをより内省的・象徴的に味わいたい層。",
+  "slug": "silent-hill",
+  "file": "data/games/1438-silent-hill.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Silent_Hill_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB_(1999%E5%B9%B4%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://silenthill.fandom.com/wiki/Silent_Hill_(video_game)"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1778,
+  "title_jp": "MELTY BLOOD: TYPE LUMINA",
+  "title_en": "MELTY BLOOD: TYPE LUMINA",
+  "developer": "French-Bread / Tamsoft",
+  "publisher": "DELiGHTWORKS / Lasengle",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "2D対戦格闘",
+  "sales_jp": "—",
+  "sales_world": "600K+ (累計出荷+DL)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "TYPE-MOON『月姫 -A piece of blue glass moon-』リメイクと連動したシリーズ復活作。発売初日 15 万本、約 2 年半で 50 万本、2025 年末時点で 60 万本超を出荷し、月姫ファンと格ゲー勢の両方を取り込んだ。",
+  "concept": "『月姫』リメイク版のキャラクターと世界観を土台に、French-Bread が新システム「Moon Drive」「Shield」を再設計した 2D 対戦格闘。シンプル操作で初心者でも触れる一方、上級者向けの差し合いと崩しを両立させた格ゲー復興作。",
+  "target": "TYPE-MOON / 月姫 / Fate ファンと、GUILTY GEAR / BLAZBLUE などの 2D 格ゲー愛好層。原作キャラを動かしたいライトな層から、オンライン対戦で本格的に競いたいコア層まで幅広く狙う。",
+  "slug": "melty-blood-type-lumina",
+  "file": "data/games/1778-melty-blood-type-lumina.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Melty_Blood:_Type_Lumina",
+    "https://www.gematsu.com/2025/12/melty-blood-type-lumina-shipments-and-digital-sales-top-600000",
+    "https://automaton-media.com/articles/newsjp/meltyblood-20240627-299455/",
+    "https://meltyblood.typelumina.com/en/"
+  ]
+}

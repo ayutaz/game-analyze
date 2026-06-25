@@ -1,0 +1,28 @@
+{
+  "id": 1879,
+  "title_jp": "Charlotte",
+  "title_en": "Charlotte (visual novel)",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/能力者青春劇",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key（麻枝准・Na-Ga）×アニプレックス×P.A.WORKSによる2015年の能力者青春アニメを起点に、Key系ファン層から強い注目を集めた。涙腺崩壊系シナリオと「ZHIEND」楽曲展開でSNSでの考察・感想拡散が盛り上がった。",
+  "concept": "限られた期間しか発動しない特殊能力を持つ少年少女が、能力者狩りから仲間を守る学園組織で出会い、能力の代償と兄弟愛・自己犠牲を描く Key 流の泣きゲー系青春群像劇。アニメ起点の物語を関連メディア展開でビジュアルノベル的に追体験する構成。",
+  "target": "Key（Kanon/AIR/CLANNAD/Angel Beats!）系の麻枝准シナリオファン、泣きゲー・能力者ものを好む10-30代、アニプレックス系深夜アニメ視聴層。",
+  "slug": "charlotte-visual-novel",
+  "file": "data/games/1879-charlotte-visual-novel.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Charlotte_(TV_series)",
+    "https://ja.wikipedia.org/wiki/Charlotte_(%E3%82%A2%E3%83%8B%E3%83%A1)",
+    "https://www.aniplex.co.jp/lineup/charlotte/",
+    "https://en.wikipedia.org/wiki/Key_(company)"
+  ]
+}

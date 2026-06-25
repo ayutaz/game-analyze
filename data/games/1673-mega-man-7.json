@@ -1,0 +1,27 @@
+{
+  "id": 1673,
+  "title_jp": "ロックマン7 宿命の対決!",
+  "title_en": "Mega Man 7",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2Dアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "16bit化したロックマン本編第7作。SFC末期の駆け込みリリースで開発期間わずか3ヶ月ながら、後年は Mega Man Anniversary Collection / Legacy Collection 2 / Wii U・3DS バーチャルコンソール経由で繰り返し再配信され、シリーズ屈指の難易度（特にワイリーマシンとの会話戦）で語り継がれている。",
+  "concept": "8体のロボットマスターを倒し特殊武器を奪う「ロックマン本編フォーマット」を16bitグラフィックで再構築した作品。ステージ内ショップやネジ集めなど探索・収集要素を初導入し、ピクセルアクションの完成形を提示した。",
+  "target": "SFC世代のアクションゲーマー、ロックマン本編シリーズの追体験を求める30〜50代のレトロゲーム層、難易度の高い2Dアクションをやり込みたいコアプレイヤー。",
+  "slug": "mega-man-7",
+  "file": "data/games/1673-mega-man-7.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mega_Man_7",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B37_%E5%AE%BF%E5%91%BD%E3%81%AE%E5%AF%BE%E6%B1%BA!",
+    "https://megaman.fandom.com/wiki/Mega_Man_7"
+  ]
+}

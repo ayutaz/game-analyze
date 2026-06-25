@@ -1,0 +1,29 @@
+{
+  "id": 1889,
+  "title_jp": "Tears to Tiara 〜涙の譜〜",
+  "title_en": "Tears to Tiara",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 2005,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Leaf がブランド方針を転換した記念碑的アダルトSRPG。ケルト・アーサー王神話を下敷きにした重厚な物語と SRPG パートの融合で、後に PS3 全年齢版・アニメ化・続編へと拡張された原典として高い評価を得た。",
+  "slug": "tears-to-tiara",
+  "file": "data/games/1889-tears-to-tiara.json",
+  "concept": "Leaf 初の本格 SRPG として、ケルト神話・アーサー王伝説をモチーフに「魔王アロウンを蘇らせた巫女を取り戻す旅」を描くアダルト ビジュアルノベル × タクティカルバトル。物語消費が主軸で、SRPG パートはキャラクターと世界に没入させる装置として機能する。",
+  "target": "Leaf/Aquaplus（うたわれるもの系譜）の重厚ファンタジー伝奇を好む 18 歳以上の男性層、ケルト神話・アーサー王譚に惹かれる読み物系プレイヤー、SRPG とエロゲ両方を嗜む層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tears_to_Tiara",
+    "https://leaf.aquaplus.jp/product/ttt/",
+    "https://aquaplus.fandom.com/wiki/Tears_to_Tiara"
+  ]
+}

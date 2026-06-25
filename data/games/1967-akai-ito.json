@@ -1,0 +1,33 @@
+{
+  "id": 1967,
+  "title_jp": "赤い糸",
+  "title_en": "Akai Ito",
+  "developer": "Success",
+  "publisher": "Success",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ホラーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "PS2 SuperLite 2000シリーズ発の伝奇ホラーADVで、百合要素を含む分岐ストーリーがカルト的人気。2023年にSwitch/PC向けHDリマスター（英語対応、姉妹作『蒼い雪』と同梱）が海外発売され再評価された。",
+  "concept": "「赤い糸の伝承」を軸にした伝奇ホラーアドベンチャー。主人公・羽藤桂の選択次第で物語と結末が大きく分岐し、複数の女性キャラとの関係（百合的な結末を含む）が描かれる。",
+  "target": "PS2世代のビジュアルノベル/伝奇ホラー愛好層、百合作品ファン、SuperLite 2000シリーズに親しんだ層。HDリマスター以降は海外のVNファンも対象。",
+  "slug": "akai-ito",
+  "file": "data/games/1967-akai-ito.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Akai_Ito_(video_game)",
+    "https://www.strictlylimitedgames.com/blogs/strictly-limited-games-releases/akai-ito-aoi-shiro-hd",
+    "https://gamefaqs.gamespot.com/ps2/922061-akai-ito",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AkaiIto"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

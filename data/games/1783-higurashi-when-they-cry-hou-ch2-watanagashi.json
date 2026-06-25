@@ -1,0 +1,29 @@
+{
+  "id": 1783,
+  "title_jp": "ひぐらしのなく頃に 綿流し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.2 Watanagashi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリーホラー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミケ発の同人サウンドノベル『ひぐらし』第2話。表題の綿流し祭事件と園崎魅音・詩音の双子トリックが衝撃を呼び、後のアニメ化・実写化へ繋がる起爆剤となった章。",
+  "concept": "雛見沢の年中行事「綿流し」を舞台に、前作で語られなかった園崎家の闇と双子の秘密を解き明かす推理型サウンドノベル。プレイヤーは選択肢の無いテキストを読み進め、惨劇の謎を「出題編」として受け取る。",
+  "target": "重厚なミステリ・ホラー長編を腰を据えて読みたい層、考察コミュニティで答え合わせを楽しみたい層、原作同人版から『奉』まで追いかける『ひぐらし』ファン。",
+  "slug": "higurashi-when-they-cry-hou-ch2-watanagashi",
+  "file": "data/games/1783-higurashi-when-they-cry-hou-ch2-watanagashi.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/410890/Higurashi_When_They_Cry_Hou__Ch2_Watanagashi/",
+    "https://steamdb.info/app/410890/",
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_%E7%B6%BF%E6%B5%81%E3%81%97%E7%B7%A8",
+    "https://07th-expansion.net/hig_gensaku",
+    "https://www.crunchyroll.com/anime-news/2015/11/14/higurashi-when-they-cry-hou-ch-2-watanagashi-now-available-on-steam"
+  ]
+}

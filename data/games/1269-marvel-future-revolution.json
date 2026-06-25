@@ -1,0 +1,32 @@
+{
+  "id": 1269,
+  "title_jp": "マーベル フューチャーレボリューション",
+  "title_en": "MARVEL Future Revolution",
+  "developer": "Netmarble Monster",
+  "publisher": "Netmarble",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド・アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "マーベル初のスマートフォン向けオープンワールド・アクションRPGとして2021年8月25日に全世界240の国・地域で同時配信。前作『マーベル・フューチャーファイト』(累計1.2億DL)の後継作として注目を集めたが、運営2年で2023年8月25日にサービス終了。",
+  "concept": "マルチバースの複数地球が融合した「プライマリーアース」を舞台に、新ヒーローチーム『オメガフライト』のエージェントとして広大なオープンワールドを駆け回るアクションRPG。アイアンマン、スパイダーマン、ドクター・ストレンジら8人のヒーローを操作し、コスチューム強化と装備育成で戦力を伸ばしていく。",
+  "target": "マーベル映画・コミックのファン層、Netmarble の重課金型モバイルアクションRPG（リネージュ2レボリューション系）を遊ぶ層。スマホで本格的なスーパーヒーローアクションと装備堀りを楽しみたい20-40代男性が中心。",
+  "slug": "marvel-future-revolution",
+  "file": "data/games/1269-marvel-future-revolution.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Marvel_Future_Revolution",
+    "https://www.marvel.com/games/marvel-future-revolution",
+    "https://www.4gamer.net/games/497/G049788/20210825031/",
+    "https://prtimes.jp/main/html/rd/p/000001425.000007736.html",
+    "https://dengekionline.com/articles/191821/"
+  ]
+}

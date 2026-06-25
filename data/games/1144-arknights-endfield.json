@@ -1,0 +1,36 @@
+{
+  "id": 1144,
+  "title_jp": "アークナイツ：エンドフィールド",
+  "title_en": "Arknights: Endfield",
+  "developer": "Gryphline",
+  "publisher": "Hypergryph",
+  "year": 2026,
+  "platform": [
+    "PC",
+    "PS5",
+    "iOS",
+    "Android"
+  ],
+  "genre": "3Dリアルタイム戦略RPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "$173M（全プラットフォーム2週間）／モバイル3か月で約$96M",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "『アークナイツ』IPの完全3D続編として2026年1月22日にPS5/PC/モバイルで全世界同時配信。発売2週間で全プラットフォーム合計$173M、モバイル単独でも初月$46M・3か月で約$96Mを記録し、日本がモバイル課金シェア約35%で世界トップ。",
+  "concept": "タワーディフェンスだった前作からシームレス3D探索＋4人切替リアルタイム戦闘＋惑星開拓のRTS要素を融合したオープンワールドガチャRPG。プレイヤーはエンドフィールド工業の管理人として、危機に瀕した惑星タロⅡを開拓する。",
+  "target": "前作『アークナイツ』ファンと、原神／鳴潮系の3DオープンワールドガチャRPGを好む20-40代のコアゲーマー層。PS5/PCでもプレイできるため、モバイル専業ではないハイエンド志向のガチャプレイヤーを主に想定。",
+  "slug": "arknights-endfield",
+  "file": "data/games/1144-arknights-endfield.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arknights:_Endfield",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%8A%E3%82%A4%E3%83%84:%E3%82%A8%E3%83%B3%E3%83%89%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89",
+    "https://www.4gamer.net/games/622/G062211/20260122029/",
+    "https://www.pocketgamer.biz/arknights-endfield-makes-46m-in-first-month-on-mobile/",
+    "https://www.pocketgamer.biz/arknights-endfield-approaches-100m-on-mobile-in-three-months/",
+    "https://respawn.outlookindia.com/gaming/gaming-news/arknights-endfield-crosses-96m-on-ios-and-android-stores"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2014,
+  "title_jp": "逆転裁判6",
+  "title_en": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2016,
+  "platform": [
+    "3DS",
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "法廷バトル/アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "発売初週 196,831本（3DS パッケージ）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ本編 6 作目として 3DS で 2016 年に発売、初週で日本国内 19 万本超を売り上げ週販 1 位。2024 年の HD リマスター『逆転裁判456 王泥喜セレクション』で Switch/PS4/Xbox/PC に再展開され再注目された。",
+  "concept": "ナルホド／オドロキ／ココネ 3 人の弁護士視点でクライン王国と日本を行き来する法廷ドラマ。霊媒師の「ココロスコープ」と「霊媒ビジョン」を中心に据え、シリーズ集大成の長編シナリオで「逆転」のカタルシスを描く。",
+  "target": "シリーズ歴代ファンの 20-40 代、ストーリー重視のアドベンチャー／ビジュアルノベル愛好層、ミステリ・法廷劇好き。",
+  "slug": "phoenix-wright-ace-attorney-spirit-of-justice",
+  "file": "data/games/2014-phoenix-wright-ace-attorney-spirit-of-justice.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_%E2%80%93_Spirit_of_Justice",
+    "https://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E8%A3%81%E5%88%A46",
+    "https://www.4gamer.net/games/396/G039624/20170922021/",
+    "https://dengekionline.com/articles/77130/"
+  ]
+}

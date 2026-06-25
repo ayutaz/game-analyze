@@ -1,0 +1,31 @@
+{
+  "id": 1593,
+  "title_jp": "ザ・ゲッタウェイ",
+  "title_en": "The Getaway",
+  "developer": "Team Soho",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "クライム・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ロンドン市街30km四方を実車スケールで再現した先駆的オープンワールドと、英国ギャング映画さながらの実写的演出で欧州を中心に大ヒット（世界300万本超）。日本ではカプコン販売・CERO「Z」で話題に。",
+  "concept": "ロンドンの街並みを丸ごと再現した実写志向のクライム・アクション。ギャングの父と汚職刑事という2人の主人公を切り替え、カーチェイス／銃撃戦／逃走劇を映画的カメラと HUD レスの演出で繋ぐ。",
+  "target": "GTA3／Vice City と並ぶ「都市犯罪オープンワールド」を求めた当時の PS2 ユーザー、英国ノワール／ガイ・リッチー的犯罪映画ファン、シネマティックな演出を好む 20-40 代男性層。",
+  "slug": "the-getaway",
+  "file": "data/games/1593-the-getaway.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Getaway_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%83%E3%82%BF%E3%82%A6%E3%82%A7%E3%82%A4_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://blog.playstation.com/2017/12/12/the-getaway-turns-15-a-look-back-with-the-team-behind-the-ps2-hit/",
+    "https://game.watch.impress.co.jp/docs/20030818/get.htm",
+    "https://game.watch.impress.co.jp/docs/20030806/getaway.htm"
+  ]
+}

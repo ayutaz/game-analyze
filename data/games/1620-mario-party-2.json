@@ -1,0 +1,29 @@
+{
+  "id": 1620,
+  "title_jp": "マリオパーティ2",
+  "title_en": "Mario Party 2",
+  "developer": "Hudson Soft",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "パーティ/ボードゲーム",
+  "sales_jp": "1.07M",
+  "sales_world": "2.48M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "シリーズの方向性を固定した N64 期の代表作。コスチューム制やストーリーモード導入で第1作を上回る完成度と評価され、現在も「シリーズ最高傑作」と挙げるファンが多い。",
+  "concept": "4人で同じボードを巡り、ミニゲームで得たコインでスターを奪い合う「すごろく+ミニゲーム」型パーティの完成形。ボードごとにマリオたちが衣装替えする世界観で「ご一緒にゲームの世界に旅立つ」体験を打ち出した。",
+  "target": "家族・友人と集まって遊ぶライト層、子供から大人まで幅広い4人プレイ需要。コントローラを持ち寄って騒げる対面パーティゲームを求める層。",
+  "slug": "mario-party-2",
+  "file": "data/games/1620-mario-party-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mario_Party_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A32",
+    "https://vgsales.fandom.com/wiki/Mario_Party"
+  ]
+}

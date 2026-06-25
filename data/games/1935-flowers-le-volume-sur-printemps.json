@@ -1,0 +1,31 @@
+{
+  "id": 1935,
+  "title_jp": "FLOWERS -Le volume sur printemps-",
+  "title_en": "Flowers: Le Volume sur Printemps",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / JAST USA",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS Vita",
+    "PSP"
+  ],
+  "genre": "百合ミステリーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Innocent Grey が手掛ける全年齢百合 VN「四季シリーズ」第1作。全寮制カトリック女学院を舞台にした端正な百合ミステリーとして百合 VN ジャンルを牽引し、2016 年に JAST USA から英訳版が出て海外百合 VN ファンにも知名度が広がった。",
+  "concept": "全寮制女子高「聖アングレカム学園」を舞台に、人見知りの少女・白羽蘇芳が「アマリリス」と呼ばれる相互扶助グループに加わり、小さな事件を解きながら少女たちとの関係を深めていく百合ミステリー VN。7 つの分岐エンドで春夏秋冬の四部作の幕開けを描く。",
+  "target": "百合・少女小説的世界観を好む層、ミステリー仕立てのビジュアルノベルを腰を据えて読みたい層。Innocent Grey 既存ファンや、全年齢で耽美な雰囲気を求める女性プレイヤーにも訴求。",
+  "slug": "flowers-le-volume-sur-printemps",
+  "file": "data/games/1935-flowers-le-volume-sur-printemps.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Flowers_(video_game_series)",
+    "https://ja.wikipedia.org/wiki/FLOWERS_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "http://www.gungnir.co.jp/lily/flowers/",
+    "https://store.steampowered.com/app/452440/Flowers_Le_volume_sur_printemps/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Flowers2014"
+  ]
+}

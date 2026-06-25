@@ -1,0 +1,33 @@
+{
+  "id": 2017,
+  "title_jp": "逆転検事1&2 御剣セレクション",
+  "title_en": "Ace Attorney Investigations Collection",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "アドベンチャー/法廷推理",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "DS 時代の名作『逆転検事』1+2 を新規描き起こしスプライトと HD 化で復刻、特に『逆転検事2』が海外初リリースとなり長年のファンが熱狂、SNS で「ついに公式英語化」が話題化。",
+  "concept": "御剣怜侍を主人公とする「現場捜査型」逆転裁判スピンオフ 2 作を 1 本に収めた HD リマスターコレクション。法廷ではなく事件現場での推理と論破に特化した物語アドベンチャー。",
+  "target": "逆転裁判シリーズの既存ファン、特に DS 版『逆転検事 2』未プレイ層、御剣怜侍ファン、テキストアドベンチャー・推理ノベルが好きな 20-40 代。",
+  "slug": "ace-attorney-investigations-collection",
+  "file": "data/games/2017-ace-attorney-investigations-collection.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ace_Attorney_Investigations_Collection",
+    "https://www.ace-attorney.com/investigations1-2/en-us/",
+    "https://store.steampowered.com/app/2401970/Ace_Attorney_Investigations_Collection/",
+    "https://www.rpgsite.net/news/15992-ace-attorney-investigations-collection-launches-for-switch-ps4-xbox-one-pc-worldwide-on-september-6"
+  ]
+}

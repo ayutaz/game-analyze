@@ -1,0 +1,29 @@
+{
+  "id": 1350,
+  "title_jp": "MLB 9 Innings",
+  "title_en": "MLB 9 Innings",
+  "developer": "Com2uS",
+  "publisher": "Com2uS",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "野球シミュレーション/カードコレクション",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "MLB公式ライセンスを背景に、北米・アジアで長期運営される野球モバイルの代表格。シーズン毎の選手カード更新とイベント運営で 100M DL を超え、毎年のロスター刷新で根強いファン層を維持。",
+  "concept": "MLB 公認の選手データを使い、カードを集めて自分だけの球団を編成し、シミュレーション試合と PvP で勝ち上がる「野球版ガチャ運営型シム」。毎シーズン更新される選手カードとイベントが長期運営の核。",
+  "target": "MLB ファンと野球シム好き、特に北米・韓国・日本のモバイルゲーマー。カード収集と育成、対戦ランキングを長期的に楽しみたい層。",
+  "slug": "mlb-9-innings",
+  "file": "data/games/1350-mlb-9-innings.json",
+  "_source_urls": [
+    "https://www.com2us.com/en/games/mlb9innings",
+    "https://en.wikipedia.org/wiki/Com2uS"
+  ]
+}

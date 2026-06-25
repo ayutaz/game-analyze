@@ -1,0 +1,30 @@
+{
+  "id": 2000,
+  "title_jp": "7'scarlet",
+  "title_en": "7'scarlet",
+  "developer": "Toybox / Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2016,
+  "platform": [
+    "PS Vita",
+    "PC",
+    "Switch"
+  ],
+  "genre": "オトメ／ミステリーアドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "失踪した兄を探して訪れた温泉郷「花染（はなさめ）」を舞台にした和風ミステリー×オトメで、PS Vita 期の Otomate ミステリーゲー枠として国内外でカルト的人気を獲得。Aksys Games による英語ローカライズ、2019 年の Steam 版、2025 年の Nintendo Switch 復刻で長く読み継がれているタイトル。",
+  "concept": "Toybox と Otomate がタッグを組んだ「失踪・都市伝説・蘇り」テーマの和風ミステリーオトメ。プレイヤーは主人公・市原一花となり、6 日間の温泉街滞在を通して 7 人の登場人物それぞれの真実とトゥルーエンドを読み解く、選択肢分岐型ビジュアルノベル。",
+  "target": "オトメゲーマー、特にミステリー／ホラー寄りの重い物語を読みたい層。Aksys Games 配給の英語版オトメ（Norn9、Code:Realize、Collar×Malice 等）の読者層とほぼ重なる。",
+  "slug": "7scarlet",
+  "file": "data/games/2000-7scarlet.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/7%27scarlet",
+    "https://www.gematsu.com/games/7scarlet",
+    "https://store.steampowered.com/sub/261977",
+    "https://otomekitten.com/2025/04/26/7scarlet-7-years-later-nintendo-switch-review/"
+  ]
+}

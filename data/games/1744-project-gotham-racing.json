@@ -1,0 +1,27 @@
+{
+  "id": 1744,
+  "title_jp": "Project Gotham Racing",
+  "title_en": "Project Gotham Racing",
+  "developer": "Bizarre Creations",
+  "publisher": "Microsoft Game Studios",
+  "year": 2001,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "アーケードレーシング",
+  "sales_jp": "—",
+  "sales_world": "1.2M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "初代 Xbox のローンチタイトルで Halo に次ぐヒットを記録し、ビル・ゲイツが「お気に入りのゲーム」と公言。Metropolis Street Racer 直系の Kudos（スタイル得点）システムで「速さ＋魅せ方」を両立させた点が話題に。",
+  "concept": "実在の 4 都市（ロンドン / NY / 東京 / サンフランシスコ）の街並みを走り、ドリフトやライン取りなど走行スタイルに応じて Kudos を稼ぐアーケードレース。順位だけでなく「いかにカッコよく走るか」で進行する独自の評価軸を持つ。",
+  "target": "Xbox 初代ローンチ世代の洋ゲーレーシングファン、Metropolis Street Racer / Gran Turismo の中間的なアーケード寄り走行ゲームを好む 20–30 代男性層。",
+  "slug": "project-gotham-racing",
+  "file": "data/games/1744-project-gotham-racing.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Project_Gotham_Racing_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%B4%E3%83%83%E3%82%B5%E3%83%A0",
+    "https://en.wikipedia.org/wiki/Bizarre_Creations"
+  ]
+}

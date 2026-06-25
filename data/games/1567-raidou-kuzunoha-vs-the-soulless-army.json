@@ -1,0 +1,31 @@
+{
+  "id": 1567,
+  "title_jp": "デビルサマナー 葛葉ライドウ対超力兵団",
+  "title_en": "Shin Megami Tensei: Devil Summoner: Raidou Kuzunoha vs. the Soulless Army",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションRPG/オカルト探偵",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "メガテン世界観で大正帝都を舞台にした異色のアクションRPG。葛葉ライドウという和装デビルサマナー主人公と仲魔召喚アクションが好評で、後の RAIDOU Remastered(2025)復活につながった。",
+  "slug": "raidou-kuzunoha-vs-the-soulless-army",
+  "file": "data/games/1567-raidou-kuzunoha-vs-the-soulless-army.json",
+  "concept": "大正浪漫の帝都ヨミトウキョウを舞台に、十四代目葛葉ライドウが仲魔を召喚しながら剣と銃で戦うリアルタイムアクションRPG。メガテンの悪魔会話・合体を踏襲しつつ、探偵活劇とアクションに振り切ったスピンオフ。",
+  "target": "メガテン/ペルソナ系オカルトRPG好き、大正浪漫・伝奇ものの世界観を好む層、ターン制でなくアクションでメガテンを遊びたいプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Devil_Summoner:_Raidou_Kuzunoha_vs._the_Soulless_Army",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%82%B5%E3%83%9E%E3%83%8A%E3%83%BC_%E8%91%9B%E8%91%89%E3%83%A9%E3%82%A4%E3%83%89%E3%82%A6_%E5%AF%BE_%E8%B6%85%E5%8A%9B%E5%85%B5%E5%9B%A3",
+    "https://www.atlus.co.jp/raidou/",
+    "https://game.watch.impress.co.jp/docs/20051207/devil.htm"
+  ]
+}

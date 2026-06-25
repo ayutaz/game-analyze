@@ -1,0 +1,33 @@
+{
+  "id": 1810,
+  "title_jp": "彼岸花の咲く夜に - 第一夜",
+  "title_en": "Higanbana no Saku Yoru ni: The First Night",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "3DS"
+  ],
+  "genre": "サウンドノベル/ホラーADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ひぐらし/うみねこの竜騎士07が手掛けた「学校の七不思議×いじめ」題材の同人サウンドノベルで、2011年コミケ80で初出後にFuRyuの「カタルヒト」レーベルで3DS版も発売された。",
+  "concept": "踊る彼岸花など7人の妖怪が、いじめられた子供の魂を糧に学校を徘徊するオムニバス形式のホラーサウンドノベル。「いじめ」と「学校の七不思議」を軸に、人間と妖怪の関わりを短編連作で描く。",
+  "target": "ひぐらし/うみねこの竜騎士07ファン、学校怪談・ホラー短編・サウンドノベルを好む読者層。選択肢のないリニア型ノベルを読み物として楽しめる層。",
+  "slug": "higanbana-no-saku-yoru-ni-the-first-night",
+  "file": "data/games/1810-higanbana-no-saku-yoru-ni-the-first-night.json",
+  "_source_urls": [
+    "https://07th-expansion.net/higan_gen",
+    "https://en.wikipedia.org/wiki/Higanbana_no_Saku_Yoru_ni",
+    "https://07th-expansion.fandom.com/wiki/Higanbana_no_Saku_Yoru_ni:_The_First_Night",
+    "https://www.nintendo.co.jp/titles/50010000040903",
+    "https://www.famitsu.com/games/t/33901/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1719,
+  "title_jp": "バンパイアキラー",
+  "title_en": "Castlevania: Bloodlines",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1994,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "アクション/プラットフォーマー",
+  "sales_jp": "9,354",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ唯一のメガドライブ作品として希少価値が高く、山根ミチル初参加の名サウンドトラックでも語り継がれる。GamesRadar の Genesis 名作 25 選で 8 位にランクイン。",
+  "concept": "ドラキュラ伯爵の血を引くエリザベート・バートリーを倒すべく、第一次世界大戦前夜のヨーロッパを 2 人の主人公（ヴァンパイアキラーを継ぐジョン・モリスと槍を操るエリック・リカード）で駆け抜けるアクションプラットフォーマー。キャラごとに通れるルートが異なるリプレイ性が特徴。",
+  "target": "悪魔城ドラキュラシリーズのファン、メガドライブ世代の 2D アクション愛好家、山根ミチルの音楽を聴き込みたい層。",
+  "slug": "castlevania-bloodlines",
+  "file": "data/games/1719-castlevania-bloodlines.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Castlevania:_Bloodlines",
+    "https://castlevania.fandom.com/wiki/Castlevania:_Bloodlines",
+    "https://shmuplations.com/bloodlines/"
+  ]
+}

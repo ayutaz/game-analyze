@@ -1,0 +1,28 @@
+{
+  "id": 1718,
+  "title_jp": "ガンスターヒーローズ",
+  "title_en": "Gunstar Heroes",
+  "developer": "Treasure",
+  "publisher": "Sega",
+  "year": 1993,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ランガン型2Dアクションシューティング",
+  "sales_jp": "約70,000本",
+  "sales_world": "約270,000本",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "元コナミ精鋭スタッフが独立して立ち上げたトレジャーのデビュー作。メガドライブの性能を限界まで引き出した多関節ボス・大量スプライト・4種ショット合成システムで「2Dアクションの到達点」と評価され、後年メガドラミニや各種移植で再注目された。",
+  "concept": "10種類のショット（基本4種×組み合わせ）と近接・投げ・スライディングを駆使し、群がる敵と巨大ボスを2人同時プレイで突破するランガンアクション。ステージごとに横スクロール／ダイス迷路／空中戦と演出が様変わりし、最後まで飽きさせない構成が売り。",
+  "target": "メガドライブ実機世代のレトロアクションファン、2人協力で遊びたい層、トレジャー作品（罪と罰／斑鳩／Ｅ．Ｓ．Ｐ．Ｒａ．Ｄｅ．）の系譜を辿りたいゲーム史好き。",
+  "slug": "gunstar-heroes",
+  "file": "data/games/1718-gunstar-heroes.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Gunstar_Heroes",
+    "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E3%82%BA",
+    "https://www.sega.jp/mdmini/soft/gunstar-heroes.html",
+    "https://game.watch.impress.co.jp/docs/feature/1207703.html"
+  ]
+}

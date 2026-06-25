@@ -1,0 +1,31 @@
+{
+  "id": 1526,
+  "title_jp": "ロマンシング サガ -ミンストレルソング-",
+  "title_en": "Romancing SaGa: Minstrel Song",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "フリーシナリオRPG",
+  "sales_jp": "—",
+  "sales_world": "500K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1992年SFC『ロマンシング サ・ガ』のPS2リメイクとして2005年に発売。8人の主人公から選んでフリーシナリオで世界を巡る独自構造と、閃き・連携を引き継いだ戦闘が再評価され、2022年にはPS5/Switch/Steam/モバイルへリマスター移植された長寿IP。",
+  "concept": "8人の主人公それぞれに固有のオープニングと結末を持つフリーシナリオRPG。プレイヤーが地名を選んで旅程を組み立て、閃き・連携でカスタマイズした戦闘体験そのものがゲームの中心。",
+  "target": "SaGa シリーズ／フリーシナリオ RPG の歯ごたえを好む 30-50 代コア JRPG ファン層。周回前提で「自分の冒険ログ」を組み上げたい層に強い。",
+  "slug": "romancing-saga-minstrel-song",
+  "file": "data/games/1526-romancing-saga-minstrel-song.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Romancing_SaGa",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_%E3%82%B5%E3%82%AC_-%E3%83%9F%E3%83%B3%E3%82%B9%E3%83%88%E3%83%AC%E3%83%AB%E3%82%BD%E3%83%B3%E3%82%B0-",
+    "https://saga-franchise.square-enix-games.com/en-us/games/romancing-saga-minstrel-song-remastered",
+    "https://www.4gamer.net/games/634/G063457/20220913124/"
+  ]
+}

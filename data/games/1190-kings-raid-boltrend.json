@@ -1,0 +1,32 @@
+{
+  "id": 1190,
+  "title_jp": "King's Raid",
+  "title_en": "King's Raid",
+  "developer": "Vespa",
+  "publisher": "Vespa / Boltrend Games (2025 re-launch)",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "リアルタイム RPG / ヒーロー収集ガチャ",
+  "sales_jp": "—",
+  "sales_world": "15M+ DL（旧サービス累計）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Vespa 開発の韓国産リアルタイム RPG で、グローバル 150 ヶ国・累計 1,600 万 DL 超を記録。2025 年 3 月に旧サービス終了後、IP を取得した Masangsoft / Boltrend Games が同年中に再ローンチを発表し、サービス復活組として再注目されている。",
+  "concept": "「ガチャ無し」を掲げ英雄を確定入手で集めつつ、武器・超越（Transcendence）・専用装備の育成に課金資源を集中させるリアルタイム指示型 3D アクション RPG。再ローンチ版は 31 ヒーロー＋バランス調整で運営を再開する。",
+  "target": "20-40 代のスマホ RPG コア層で、キャラガチャに疲れて「推しを確定で育てたい」「ボス・PvP・ギルド戦を回したい」プレイヤー。サ終から戻ってきた旧プレイヤーと、Boltrend Games 経由で初めて触れる新規層の双方を狙う。",
+  "slug": "kings-raid-boltrend",
+  "file": "data/games/1190-kings-raid-boltrend.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/King%27s_Raid",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%89",
+    "https://games.mxdwn.com/news/kings-raid-to-cease-operations-in-march-2025/",
+    "https://gamingonphone.com/news/kings-raid-relaunches-this-year-on-mobile-and-pc-with-31-heroes-and-balance-updates/"
+  ]
+}

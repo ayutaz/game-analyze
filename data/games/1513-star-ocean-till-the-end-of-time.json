@@ -1,0 +1,32 @@
+{
+  "id": 1513,
+  "title_jp": "スターオーシャン Till the End of Time",
+  "title_en": "Star Ocean: Till the End of Time",
+  "developer": "tri-Ace",
+  "publisher": "Square Enix",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "PS4"
+  ],
+  "genre": "アクションRPG/SF",
+  "sales_jp": "0.63M",
+  "sales_world": "1.37M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS2 期のリアルタイムアクションRPGとして高評価。終盤の「シミュレーション世界」設定の衝撃が当時のRPG界に大きな議論を呼んだ。",
+  "slug": "star-ocean-till-the-end-of-time",
+  "file": "data/games/1513-star-ocean-till-the-end-of-time.json",
+  "concept": "tri-Ace 開発の宇宙SF×剣と魔法を融合したアクションRPG第3作。リアルタイムバトルとアイテムクリエーション、惑星探索を軸に、惑星エリクディア／スティリスを舞台とした壮大な物語を描く。",
+  "target": "PS2 世代の和製RPGファン、tri-Ace の独自バトルシステムを好む層、SFと中世ファンタジー融合の世界観に惹かれるプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time",
+    "https://www.vgchartz.com/game/2182/star-ocean-till-the-end-of-time/sales",
+    "https://www.famitsu.com/games/t/2747/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  ]
+}

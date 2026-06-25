@@ -1,0 +1,35 @@
+{
+  "id": 1426,
+  "title_jp": "グランディア",
+  "title_en": "Grandia",
+  "developer": "Game Arts",
+  "publisher": "Entertainment Software Publishing",
+  "year": 1997,
+  "platform": [
+    "Saturn",
+    "PS1",
+    "PC",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "ストーリーRPG/ターン制バトル",
+  "sales_jp": "約34万本（SS版）",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "セガサターン屈指のJRPG名作として高評価。CESA大賞'97 優秀賞をサターン作品唯一で受賞し、2019年にはSwitch/PCでHDリマスターが発売されてシリーズ再評価が進んだ。",
+  "concept": "「冒険そのものの高揚感」をテーマにした王道JRPG。広い世界と立体的なフィールド、スキル熟練度で武器・魔法が成長するアクティブターンバトルが、戦闘・探索の体験を主軸に据える。",
+  "target": "90年代後半のJRPG黄金期を体験した30-50代男性中心。少年の冒険譚や成長型バトルを好む層、サターン/PS1世代の名作を遊び直したいレトロゲーマー層に強い。",
+  "slug": "grandia",
+  "file": "data/games/1426-grandia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grandia_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2",
+    "https://store.steampowered.com/app/1034860/GRANDIA_HD_Remaster/",
+    "https://grandia.fandom.com/wiki/Grandia"
+  ]
+}

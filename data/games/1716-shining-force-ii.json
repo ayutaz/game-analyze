@@ -1,0 +1,30 @@
+{
+  "id": 1716,
+  "title_jp": "シャイニング・フォースII 古えの封印",
+  "title_en": "Shining Force II",
+  "developer": "Sonic Software Planning",
+  "publisher": "Sega",
+  "year": 1993,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "シミュレーションRPG（タクティカルRPG）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "メガドライブ後期を代表するSRPGとして高評価。1997年EGMの歴代家庭用ゲーム60位、2007年IGNの歴代100本中48位にランクインし、ジャンルの金字塔として今も語り継がれる。",
+  "concept": "ヘックスマップでの戦術バトルとキャラクター育成を主軸に、章システムを廃したシームレスなフィールド探索を実現したシリーズ最高評価作。前作より長尺・自由度を増し、自軍ユニットのクラスチェンジと隠しキャラ収集が縦軸の楽しみとなる。",
+  "target": "メガドライブ世代のSRPGファン、シャイニングシリーズ愛好者、ファイアーエムブレム以前の戦術RPGに親しんだ層。じっくり腰を据えてユニットを育てて戦況を組み立てたいプレイヤー向け。",
+  "slug": "shining-force-ii",
+  "file": "data/games/1716-shining-force-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shining_Force_II",
+    "https://www.mobygames.com/game/7027/shining-force-ii/",
+    "https://archive.org/details/sg_Shining_Force_II_Inishie_no_Fuuin_1993_Sega_Sonic_Software_Planning_JP",
+    "https://sf2.shiningforcecentral.com/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1785,
+  "title_jp": "ひぐらしのなく頃に 暇潰し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.4 Himatsubushi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2004,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミックマーケット66で頒布された出題編完結作。赤坂とリカを軸に「ひぐらし」前日譚を描き、考察コミュニティで一気に布教対象となった同人サウンドノベルの代表格。",
+  "slug": "higurashi-when-they-cry-hou-ch4-himatsubushi",
+  "file": "data/games/1785-higurashi-when-they-cry-hou-ch4-himatsubushi.json",
+  "concept": "雛見沢ダム問題が現役だった昭和53年を舞台に、警視庁公安の赤坂衛と古手梨花の出会いを綴る前日譚。第1〜3話の伏線を回収しつつ「出題編」を締める短編サウンドノベル。",
+  "target": "ひぐらしシリーズ既読のミステリ・考察好き、同人ノベルゲーム文化に親しんだ20-40代。Steam/MangaGamer 版（Hou）で英語圏にも届いた海外 VN ファン層も含む。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_%E6%9A%87%E6%BD%B0%E3%81%97%E7%B7%A8",
+    "https://store.steampowered.com/app/526490/Higurashi_When_They_Cry_Hou__Ch4_Himatsubushi/",
+    "https://07th-expansion.net/hig_gensaku",
+    "https://07th-expansion.fandom.com/wiki/Himatsubushi"
+  ]
+}

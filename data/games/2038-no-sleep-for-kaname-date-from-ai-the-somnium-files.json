@@ -1,0 +1,34 @@
+{
+  "id": 2038,
+  "title_jp": "伊達鍵は眠らない - From AI: ソムニウムファイル",
+  "title_en": "No Sleep For Kaname Date - From AI: The Somnium Files",
+  "developer": "Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2025,
+  "platform": [
+    "Switch",
+    "PC",
+    "PS4",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "脱出×推理アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『AI: ソムニウム ファイル』シリーズ第3弾のスピンオフとして2025年7月25日に Switch / Steam で世界同時リリース。打越鋼太郎がシリーズディレクター兼シナリオ監修を務め、ゼロエスケープ譲りの脱出謎解きを新導入したことでファンコミュニティでバズった。",
+  "concept": "アイドル「伊里栖アイリス」が宇宙人に拉致され脱出ゲームを強要されるという設定で、探偵・伊達鍵がソムニウム（夢世界）潜入と新要素の脱出パズルを駆使して救出を試みる、シリーズ初の脱出アドベンチャー寄りスピンオフ。",
+  "target": "AI: ソムニウムファイル本編 / ニルヴァーナイニシアチブの既プレイヤー、打越鋼太郎作品（ゼロエスケープ、Ever17 等）ファン、SF系推理ADV や脱出ゲーム好きの 20-40 代。",
+  "slug": "no-sleep-for-kaname-date-from-ai-the-somnium-files",
+  "file": "data/games/2038-no-sleep-for-kaname-date-from-ai-the-somnium-files.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/No_Sleep_for_Kaname_Date_%E2%80%93_From_AI:_The_Somnium_Files",
+    "https://www.spike-chunsoft.com/games/no-sleep-for-kaname-date-from-ai-the-somnium-files/",
+    "https://store.steampowered.com/app/2752180/No_Sleep_For_Kaname_Date__From_AI_THE_SOMNIUM_FILES/",
+    "https://www.spike-chunsoft.com/news/ai-no-sleep/"
+  ]
+}

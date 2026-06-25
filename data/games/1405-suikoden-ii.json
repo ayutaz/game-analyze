@@ -1,0 +1,37 @@
+{
+  "id": 1405,
+  "title_jp": "幻想水滸伝II",
+  "title_en": "Suikoden II",
+  "developer": "Konami Computer Entertainment Tokyo",
+  "publisher": "Konami",
+  "year": 1998,
+  "platform": [
+    "PS1",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Switch",
+    "PC"
+  ],
+  "genre": "RPG（108星集結型ストーリーRPG）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "国産RPG史に残る重厚な戦争群像劇として高く評価され、PS1北米版の希少さからプレミア化、2025年のHDリマスターで再注目を集めた。",
+  "concept": "親友同士が敵味方に分かれて戦う「都市国家同盟 対 ハイランド王国」のデュナン統一戦争を背景に、108人の仲間（108星）を集めて拠点を発展させながら物語を進める群像劇RPG。複数主人公視点と分岐エンディングで「戦争の中の個人」を描く。",
+  "target": "重厚な物語と政治劇を求めるJRPGファン、仲間集めや拠点発展のやり込み要素を好む層、シリーズファンおよびHDリマスターで初めて触れる新規プレイヤー。",
+  "slug": "suikoden-ii",
+  "file": "data/games/1405-suikoden-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Suikoden_II",
+    "https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9DII",
+    "https://www.konami.com/games/suikoden/rem/1_2/us/en-us/",
+    "https://www.gematsu.com/2024/08/suikoden-i-ii-hd-remaster-gate-rune-and-dunan-unification-wars-adds-ps5-and-xbox-series-versions-launches-march-6-2025"
+  ]
+}

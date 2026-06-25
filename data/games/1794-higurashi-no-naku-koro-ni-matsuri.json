@@ -1,0 +1,31 @@
+{
+  "id": 1794,
+  "title_jp": "ひぐらしのなく頃に祭",
+  "title_en": "Higurashi no Naku Koro ni Matsuri",
+  "developer": "Alchemist",
+  "publisher": "Alchemist",
+  "year": 2007,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サウンドノベル/ミステリー",
+  "sales_jp": "140K+",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "07th Expansion 同人サウンドノベル『ひぐらしのなく頃に』のPS2移植版として2007年2月に発売。新規シナリオ「祭囃し編」や追加CG・フルボイス化で同人ファンと新規層の両方を取り込み、PS2移植 8 ヶ月で 14 万本超を売り上げて続編『カケラ遊び』へつながった。",
+  "concept": "雛見沢村の連続怪死事件を多視点ループ構造で解き明かすサウンドノベル。同人原作の本編 8 編に加え PS2 オリジナルの新規シナリオを収録し、グラフィック・音声・演出を家庭用向けに全面強化した決定版的位置づけ。",
+  "target": "原作 PC 版・コミック・アニメで本作を知った 10-30 代のミステリー／サウンドノベル愛好層。PC を持たないユーザーや、フルボイス・追加要素込みの完全版で物語を一気に追体験したいファン。",
+  "slug": "higurashi-no-naku-koro-ni-matsuri",
+  "file": "data/games/1794-higurashi-no-naku-koro-ni-matsuri.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E7%A5%AD",
+    "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Matsuri",
+    "https://www.vgchartz.com/game/3489/higurashi-no-naku-koro-ni-matsuri/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

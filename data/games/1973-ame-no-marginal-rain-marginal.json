@@ -1,0 +1,34 @@
+{
+  "id": 1973,
+  "title_jp": "雨のマージナル",
+  "title_en": "Ame no Marginal -Rain Marginal-",
+  "developer": "Stage Nana",
+  "publisher": "Sekai Project",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『ナルキッソス』の片岡ともによる短編ビジュアルノベル。Steamでユーザーレビュー90%超「非常に好評」を獲得し、Sekai Projectが英語ローカライズして海外VN界隈で再評価された。",
+  "concept": "雨が降り続け「定員1人」とされる無人世界で出会った主人公と少女「リン」の対話を描く、選択肢のない短編ビジュアルノベル。2本の物語を交互に追い、終盤で交差する構成を採る。",
+  "target": "『ナルキッソス』系の繊細で内省的な短編VNを好む層、片岡とも作品のファン、英訳VNを通じて日本同人ノベルに触れる海外読者。",
+  "slug": "ame-no-marginal-rain-marginal",
+  "file": "data/games/1973-ame-no-marginal-rain-marginal.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/348950/Ame_no_Marginal_Rain_Marginal/",
+    "https://sekaiproject.com/game/ame-no-marginal-rain-marginal/",
+    "https://ricedigital.co.uk/visual-novel-spotlight-ame-marginal/",
+    "https://www.metacritic.com/game/ame-no-marginal-rain-marginal-/",
+    "https://stage-nana.sakura.ne.jp/info.htm"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

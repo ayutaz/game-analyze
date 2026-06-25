@@ -1,0 +1,30 @@
+{
+  "id": 1509,
+  "title_jp": "テイルズ オブ デスティニー2",
+  "title_en": "Tales of Destiny 2",
+  "developer": "Wolf Team / Telenet Japan",
+  "publisher": "Namco",
+  "year": 2002,
+  "platform": [
+    "PS2",
+    "PSP"
+  ],
+  "genre": "アクションRPG / マザーシップタイトル",
+  "sales_jp": "1.1M+",
+  "sales_world": "1.1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "テイルズ オブ デスティニー（1997）の正統続編として 2002 年 11 月に PS2 で発売、発売 2 ヶ月で 70 万本超を売り上げ、2007 年の PSP 移植版と合わせて累計 110 万本に到達。前作主人公スタンの息子カイルを軸にした世代交代の物語と、トレースリーマライザーバトルシステムが話題に。",
+  "slug": "tales-of-destiny-2",
+  "file": "data/games/1509-tales-of-destiny-2.json",
+  "concept": "「マザーシップタイトル」シリーズ第 5 作。前作テイルズ オブ デスティニーから 18 年後の世界を舞台に、勇者の息子カイルが時間を超えた冒険に挑む正統続編 RPG。トレースリー・マライザー・バトルシステムによる空中コンボ志向のアクション戦闘が特徴。",
+  "target": "テイルズシリーズファン、特に PS デスティニー世代の 20-30 代男女。世代交代型ストーリーと爽快なアクション戦闘の両方を楽しみたい王道 JRPG プレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_Destiny_2",
+    "https://www.vgchartz.com/game/4500/tales-of-destiny-2/",
+    "https://aselia.fandom.com/wiki/Tales_of_Destiny_2"
+  ]
+}

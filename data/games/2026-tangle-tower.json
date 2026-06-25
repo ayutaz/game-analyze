@@ -1,0 +1,40 @@
+{
+  "id": 2026,
+  "title_jp": "タングルタワー",
+  "title_en": "Tangle Tower",
+  "developer": "SFB Games",
+  "publisher": "SFB Games",
+  "year": 2019,
+  "platform": [
+    "Switch",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "PC",
+    "Mac",
+    "iOS"
+  ],
+  "genre": "推理アドベンチャー/ポイント＆クリック",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Apple Arcade 2019 ローンチタイトルとして話題化、Metacritic 82 と高評価。フルボイス＆アニメーション、奇妙な屋敷の殺人事件と個性的容疑者の掛け合いが英語圏で評判となり、日本でもファミ通・電撃オンライン等が紹介。",
+  "concept": "謎の屋敷「タングルタワー」で起きた 19 歳の少女殺害事件を、探偵グリモアと助手サリーのコンビで聞き取り調査とパズルを解きながら追う、ポイント＆クリック型推理アドベンチャー。フルボイス＋アニメーションする手描きキャラクターと推理ノートの仮説検証が特徴。",
+  "target": "ポイント＆クリックアドベンチャーやミステリー小説、逆転裁判／Return of the Obra Dinn のような推理ゲームを好む層。1 本で完結する密度の高い物語と上質な英語ボイス演技を楽しみたいプレイヤー。",
+  "slug": "tangle-tower",
+  "file": "data/games/2026-tangle-tower.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tangle_Tower",
+    "https://store.steampowered.com/app/359510/Tangle_Tower/",
+    "https://www.metacritic.com/game/tangle-tower/",
+    "https://www.famitsu.com/news/202110/07236469.html",
+    "https://dengekionline.com/articles/19561/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

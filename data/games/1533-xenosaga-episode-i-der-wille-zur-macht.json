@@ -1,0 +1,29 @@
+{
+  "id": 1533,
+  "title_jp": "ゼノサーガ エピソードI 力への意志",
+  "title_en": "Xenosaga Episode I: Der Wille zur Macht",
+  "developer": "Monolith Soft",
+  "publisher": "Bandai Namco",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "シネマティックRPG",
+  "sales_jp": "450K",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "高橋哲哉監督による『ゼノギアス』の系譜を継ぐSFRPG。哲学・宗教モチーフと長尺ムービーを多用したシネマティックRPGとして話題となり、発売3日で24万本、最終的に国内45万本・全世界100万本超を記録した。",
+  "concept": "「神とは何か、人類はどこへ向かうのか」を6部作構想で描くSFオペラRPG。ニーチェ的哲学とグノーシス主義を背骨に、PS2初の片面二層DVDを活かした長尺ムービーで物語消費を主目的に据えた。",
+  "target": "『ゼノギアス』を経験したJRPGファン、SF・哲学・宗教モチーフの重厚な物語を読み解きたい層、Monolith Soft / 高橋哲哉作品の世界観に没入したいプレイヤー。",
+  "slug": "xenosaga-episode-i-der-wille-zur-macht",
+  "file": "data/games/1533-xenosaga-episode-i-der-wille-zur-macht.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Xenosaga_Episode_I",
+    "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%8E%E3%82%B5%E3%83%BC%E3%82%AC_%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89I%EF%BC%BB%E5%8A%9B%E3%81%B8%E3%81%AE%E6%84%8F%E5%BF%97%EF%BC%BD",
+    "https://www.bandainamcoent.co.jp/cs/list/xenosaga1/"
+  ]
+}

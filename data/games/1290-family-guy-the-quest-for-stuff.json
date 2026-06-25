@@ -1,0 +1,30 @@
+{
+  "id": 1290,
+  "title_jp": "ファミリーガイ：クエスト・フォー・スタッフ",
+  "title_en": "Family Guy: The Quest for Stuff",
+  "developer": "TinyCo",
+  "publisher": "Jam City",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "シティビルディング/IPコラボ",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Family Guy 公式 IP の街づくりゲームとして 2014 年配信、2016 年時点で累計収益 1 億ドル超。Peter / Stewie / Brian らキャラクター収集とパロディイベントで長期運営。",
+  "slug": "family-guy-the-quest-for-stuff",
+  "file": "data/games/1290-family-guy-the-quest-for-stuff.json",
+  "concept": "アニメ「ファミリーガイ」のクエイホグの街を、ジャイアントチキンに破壊された後から再建するシティビルダー。原作キャラ・建物・パロディコンテンツを集め、ブラックジョーク満載のイベントで街を拡張する IP 収集型ゲーム。",
+  "target": "ファミリーガイの北米コアファン層、Simpsons: Tapped Out / シミュレーション型 IP ゲームを好む 20-40 代男女、ブラックコメディ IP の収集要素に長期的に課金できるカジュアル層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Family_Guy:_The_Quest_for_Stuff",
+    "https://en.wikipedia.org/wiki/TinyCo",
+    "https://app.sensortower.com/overview/838500730?country=US"
+  ]
+}

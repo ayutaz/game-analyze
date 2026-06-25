@@ -1,0 +1,39 @@
+{
+  "id": 2024,
+  "title_jp": "ゴールデン・アイドルの事件簿",
+  "title_en": "The Case of the Golden Idol",
+  "developer": "Color Gray Games",
+  "publisher": "Playstack",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S",
+    "iOS",
+    "Android"
+  ],
+  "genre": "推理／演繹パズルアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『Return of the Obra Dinn』系演繹パズルの新潮流として高評価。2024年の Redux アップデートで日本語対応し、続編『The Rise of the Golden Idol』の発表とともに国内ミステリー好きの間で再注目された。",
+  "concept": "18世紀を舞台に、12 件の不可解な殺人事件を当時の絵画的シーンと断片的な手掛かりから演繹し、空欄を埋めて「誰が・何を・どのように」を確定させる演繹パズル。黄金像を巡る一族の陰謀が章を跨いで連鎖する。",
+  "target": "『Return of the Obra Dinn』『Her Story』など演繹推理ゲームを好む層、アガサ・クリスティ系の本格ミステリー読者、文章と画面観察でじっくり遊びたい大人プレイヤー。",
+  "slug": "the-case-of-the-golden-idol",
+  "file": "data/games/2024-the-case-of-the-golden-idol.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Case_of_the_Golden_Idol",
+    "https://www.playstack.com/games/goldenidol/",
+    "https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/",
+    "https://news.denfaminicogamer.jp/news/241013b",
+    "https://doope.jp/2024/10149728.html"
+  ]
+}

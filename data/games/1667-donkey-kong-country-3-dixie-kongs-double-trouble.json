@@ -1,0 +1,28 @@
+{
+  "id": 1667,
+  "title_jp": "スーパードンキーコング3 謎のクレミス島",
+  "title_en": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1996,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "3.5M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "SFC末期の集大成的2Dアクション。プリレンダCGビジュアル、ディクシー&ディンキーのバディアクション、隠し要素の多さで根強い人気。Wii・Wii U・Switch Online のVC配信で世代を超えて遊ばれている。",
+  "concept": "ディクシーコングと従弟ディンキーコングを操る2人組タッグアクションの3作目。クレミス島を舞台にステージ攻略・バナナバード集め・ブラザーズベア訪問・隠しワールド到達など、収集要素を極限まで盛り込んだSFCプラットフォーマーの完成形。",
+  "target": "30-50代のSFC世代、ドンキーコングシリーズのファン、2Dアクションのやり込み層、Switch Online等で名作を遡って遊ぶゲーマー。",
+  "slug": "donkey-kong-country-3-dixie-kongs-double-trouble",
+  "file": "data/games/1667-donkey-kong-country-3-dixie-kongs-double-trouble.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Donkey_Kong_Country_3:_Dixie_Kong%27s_Double_Trouble!",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B03_%E8%AC%8E%E3%81%AE%E3%82%AF%E3%83%AC%E3%83%9F%E3%82%B9%E5%B3%B6"
+  ]
+}

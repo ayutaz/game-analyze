@@ -1,0 +1,37 @@
+{
+  "id": 1176,
+  "title_jp": "DK モバイル",
+  "title_en": "DK Mobile",
+  "developer": "Ntrance",
+  "publisher": "Ntrance",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "アクションMMORPG（ハクスラ／PvP／NFT・P2E）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "韓国の老舗ハクスラMMO『Dekaron（デカロン）』のIPをスマホへ持ち込み、Genesis（2022 オンチェーン版）→Reborn（2025 韓国／2026 グローバル）と派生展開。P2E・NFT 流通とPvP・ギルド戦の両輪で旧Dekaron勢の郷愁ユーザーを引き戻している。",
+  "concept": "PC 時代の硬派アクション MMORPG『Dekaron』の世界観・職業構成・PvP重視のデザインをモバイル＋PC マルチプラットフォームに移植し、ダンジョン周回・ドロップ・取引・トークン収益を一体化した「稼げる MMO」シリーズ。",
+  "target": "Dekaron 系の旧 PC MMO 経験者と、P2E／NFT ゲームに関心のあるアジア圏（韓国・東南アジア）の重課金 MMO プレイヤー。職業ビルドと PvP・ギルド戦が好きな層。",
+  "slug": "dk-mobile",
+  "file": "data/games/1176-dk-mobile.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.ntrance.dkorigincoinglobal&hl=en",
+    "https://play.google.com/store/apps/details?id=com.ntrance.dkr.and&hl=en",
+    "https://mmoculture.com/2020/05/dk-mobile-mobile-version-of-old-school-pc-mmorpg-announced/",
+    "https://sayart.net/news/view/1065666658218525",
+    "https://gamingonphone.com/news/dk-mobile-reborn-is-now-live-in-the-sea-region-reviving-the-beloved-mmorpg-experience-on-mobile/",
+    "https://www.globenewswire.com/news-release/2022/09/26/2522192/0/en/DK-Mobile-Genesis-the-First-On-Chain-Game-of-ITSBLOC-Starting-Pre-Register.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

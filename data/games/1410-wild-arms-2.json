@@ -1,0 +1,30 @@
+{
+  "id": 1410,
+  "title_jp": "ワイルドアームズ セカンドイグニッション",
+  "title_en": "Wild Arms 2",
+  "developer": "Media.Vision",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "西部劇風ファンタジーRPG",
+  "sales_jp": "約40万本",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「英雄なんていらないッ!!」の名セリフと中村正人作曲のオープニング『Lonely Bird in the Sheltering Sky』が語り草となった、PS初期JRPG屈指のシナリオ・音楽の傑作。2024年に25周年特集が組まれるなど長く愛されている。",
+  "concept": "ウエスタン世界観のRPG第2作。テロ組織オデッサと対峙する対テロ部隊ARMSを軸に、「英雄とは何か」を問う重厚な群像劇と、ダンジョン内パズル・ARMでの謎解きを融合させたターン制バトルRPG。",
+  "target": "PS初期JRPG世代（10-40代男女）、ストーリー重視のRPGファン、ウエスタン×ファンタジー世界観や対テロ群像劇に惹かれる層、シリーズファン。",
+  "slug": "wild-arms-2",
+  "file": "data/games/1410-wild-arms-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wild_Arms_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%BA_%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%A4%E3%82%B0%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3",
+    "https://www.famitsu.com/article/202409/15971",
+    "https://ssl.media-vision.co.jp/soft/wa2.php"
+  ]
+}

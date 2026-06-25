@@ -1,0 +1,35 @@
+{
+  "id": 1138,
+  "title_jp": "幻塔",
+  "title_en": "Tower of Fantasy",
+  "developer": "Hotta Studio",
+  "publisher": "Perfect World / Level Infinite",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android",
+    "PS5",
+    "PS4"
+  ],
+  "genre": "オープンワールドMMORPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "7M+ DL / $83M 収益（リリース1年時点、Sensor Tower）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "原神対抗の中国産アニメ調オープンワールドMMOとして2022年8月にグローバル配信、2週間で世界収益3,400万ドル突破。日本が世界売上の42.1%を占めトップシェアとなり「原神キラー」として大きな話題に。2023年8月にPS5/PS4版も配信開始。",
+  "concept": "SFポストアポカリプスを舞台にしたアニメ調オープンワールドMMORPG。原神型のキャラ・武器ガチャに加え、MMO的なフィールド共有・PvP・レイドを乗せた重課金キャラクター収集ゲーム。",
+  "target": "原神プレイヤーで「他者と一緒に遊べるMMO要素」を求める層、中華系オープンワールド/ガチャゲーに強い10-30代男性、キャラクター収集と派手なバトル演出を両立したいハイエンドモバイルRPG層。",
+  "slug": "tower-of-fantasy",
+  "file": "data/games/1138-tower-of-fantasy.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tower_of_Fantasy",
+    "https://www.levelinfinite.com/ja/games/tower-of-fantasy/",
+    "https://sensortower.com/ja/blog/tower-of-fantasy-surpasses-34m-revenue",
+    "https://blog.ja.playstation.com/2023/08/08/20230808-tof/",
+    "https://www.4gamer.net/games/709/G070956/20230731053/"
+  ]
+}

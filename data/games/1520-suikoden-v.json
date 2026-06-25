@@ -1,0 +1,31 @@
+{
+  "id": 1520,
+  "title_jp": "幻想水滸伝V",
+  "title_en": "Suikoden V",
+  "developer": "Hudson Soft",
+  "publisher": "Konami",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG（108星仲間集めシミュレーション）",
+  "sales_jp": "約195K",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "PS2末期の重厚な王国継承劇として高評価。シリーズ屈指のシナリオ・王女物語と108星集めの達成感で根強いファンを獲得した。",
+  "slug": "suikoden-v",
+  "file": "data/games/1520-suikoden-v.json",
+  "concept": "ファレナ女王国を舞台に、王子=主人公が母の暗殺・内乱を経て国を取り戻す王道政治劇 RPG。108 星の仲間集めと拠点強化、6 人パーティバトル、戦争・一騎打ちの 3 階層で「国を率いる」体験を物語化する。",
+  "target": "幻想水滸伝シリーズ・I/II/III の旧作ファン、王道 JRPG と政治・群像劇を好む 30-40 代、ファイナルファンタジー XII と同時期に PS2 RPG を遊んだ層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Suikoden_V",
+    "https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://www.konami.com/games/jp/ja/products/gen5_ps2best_ps2/",
+    "https://www.vgchartz.com/game/2266/suikoden-v/"
+  ]
+}

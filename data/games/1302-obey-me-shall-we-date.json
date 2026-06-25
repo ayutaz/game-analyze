@@ -1,0 +1,35 @@
+{
+  "id": 1302,
+  "title_jp": "Obey Me!",
+  "title_en": "Obey Me! Shall We Date?",
+  "developer": "NTT Solmare",
+  "publisher": "NTT Solmare",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向け乙女ゲーム/ガチャ式恋愛RPG",
+  "sales_jp": "—",
+  "sales_world": "11M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "「Shall we date?」シリーズ最新作として 7 人の悪魔兄弟キャラが大ヒットし、全世界累計 1,100 万 DL を突破。アニメ化やコラボ展開で英語圏ファンダムにも広がった。",
+  "concept": "オトメ系ビジュアルノベルと「ナイトメア」と呼ばれるカードガチャ RPG を融合し、悪魔兄弟との学園生活をチャット・通話・タスクで体験させるハイブリッド構造。物語消費と推し悪魔のカード強化を両輪で回す。",
+  "target": "10-30 代の女性プレイヤー、特に乙女ゲームと推し活ガチャを同時に楽しみたい層。英語版同時展開により国内外の腐女子・オタク女性ユーザーまで広く取り込んでいる。",
+  "slug": "obey-me-shall-we-date",
+  "file": "data/games/1302-obey-me-shall-we-date.json",
+  "_source_urls": [
+    "https://www.nttsolmare.com/press/2019/1212.html",
+    "https://www.cri.co.jp/news/005650.html",
+    "https://www.nttsolmare.com/press/2021/0716.html",
+    "https://shallwedate.jp/obeyme/",
+    "https://apps.apple.com/us/app/obey-me-anime-otome-sim/id1477167654"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

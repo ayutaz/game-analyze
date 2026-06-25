@@ -1,0 +1,36 @@
+{
+  "id": 1451,
+  "title_jp": "トニー・ホークス・プロ・スケーター2",
+  "title_en": "Tony Hawk's Pro Skater 2",
+  "developer": "Neversoft",
+  "publisher": "Activision",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "PC",
+    "Mac",
+    "Dreamcast",
+    "N64",
+    "Xbox",
+    "GBA",
+    "Game Boy"
+  ],
+  "genre": "スケートボード/アクションスポーツ",
+  "sales_jp": "—",
+  "sales_world": "5.3M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2000年最も売れたゲーム。コンボシステムと洋楽パンクBGMで「スケート＝クール」をゲームに定着させ、シリーズの代名詞となった金字塔。",
+  "concept": "2分間の制限時間でランプ・グラインド・マニュアルを繋げて巨大コンボを叩き出す、トリック特化のアクションスポーツ。前作からマニュアル導入で「ランからランへ無限に繋ぐ」表現が解禁された。",
+  "target": "10-30代の男性中心のスケーター／パンク・ヒップホップ文化親和層、当時のPS1/Dreamcast世代のコアゲーマー。短時間でスコアを伸ばす反復プレイを楽しめる層。",
+  "slug": "tony-hawks-pro-skater-2",
+  "file": "data/games/1451-tony-hawks-pro-skater-2.json",
+  "_source_urls": [
+    "https://en.m.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%BC%E3%82%AF_%E3%83%97%E3%83%AD%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC2",
+    "https://www.vgchartz.com/game/5931/tony-hawks-pro-skater-2/"
+  ]
+}

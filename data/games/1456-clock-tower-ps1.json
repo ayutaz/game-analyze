@@ -1,0 +1,29 @@
+{
+  "id": 1456,
+  "title_jp": "クロックタワー2",
+  "title_en": "Clock Tower (PS1)",
+  "developer": "Human Entertainment",
+  "publisher": "ASCII (JP) / Agetec (NA)",
+  "year": 1996,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "ポイント&クリック型サバイバルホラー",
+  "sales_jp": "0.35M",
+  "sales_world": "0.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作 SFC『クロックタワー』の続編にして、PS1 初のシリーズ作品。シザーマンに追われる「逃げるホラー」の独自性が話題となり、開発元ヒューマンが社員に 10 万円の特別ボーナスを支給するほどの成功作となった。",
+  "concept": "ハサミを持った殺人鬼「シザーマン」に追われ続けるポイント&クリック型サバイバルホラー。戦うのではなく「逃げる・隠れる」体験と、選択分岐によるマルチエンディングが核を成す。",
+  "target": "バイオハザード以降のホラーブームに乗った 10-30 代のホラーゲーム愛好層、ジェニファー主人公の前作 SFC 版ファン、シネマティックなアドベンチャーを好む層。",
+  "slug": "clock-tower-ps1",
+  "file": "data/games/1456-clock-tower-ps1.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Clock_Tower_(1996_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC2",
+    "https://www.mobygames.com/game/3532/clock-tower/"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1654,
+  "title_jp": "伝説のオウガバトル",
+  "title_en": "Ogre Battle: The March of the Black Queen",
+  "developer": "Quest",
+  "publisher": "Quest",
+  "year": 1993,
+  "platform": [
+    "SNES",
+    "Saturn",
+    "PS1",
+    "N64",
+    "Wii"
+  ],
+  "genre": "リアルタイム・シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "松野泰己が手がけた『オウガバトルサーガ』の第一作。アライメント・カルマ・タロットによる分岐エンディングとリアルタイム進軍の独自設計で、後のタクティクスオウガ／FFTへ続く系譜の原点として今もコア層に支持される。",
+  "concept": "悪の女帝に対する反乱軍を率い、ユニットを実時間で進軍・解放させていく俯瞰型のリアルタイム戦術RPG。指揮官のカルマや民衆評判が分岐ストーリーと13通り以上のエンディングを変える、当時としては突出した倫理選択ゲーム。",
+  "target": "重厚な中世ファンタジーと戦術シミュレーションを好む層、松野泰己作品（タクティクスオウガ／FFT／ベイグラントストーリー）のルーツを辿りたい90年代SRPGファン。",
+  "slug": "ogre-battle-march-of-the-black-queen",
+  "file": "data/games/1654-ogre-battle-march-of-the-black-queen.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ogre_Battle:_The_March_of_the_Black_Queen",
+    "https://en.wikipedia.org/wiki/Ogre_Battle",
+    "https://ogrebattlesaga.fandom.com/wiki/Ogre_Battle:_The_March_of_the_Black_Queen"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

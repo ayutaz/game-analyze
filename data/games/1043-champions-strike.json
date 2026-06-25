@@ -1,0 +1,33 @@
+{
+  "id": 1043,
+  "title_jp": "Champions Strike: Grand Arena Battle",
+  "title_en": "Champions Strike",
+  "developer": "Two Hands Games",
+  "publisher": "Two Hands Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム PvP アリーナ／カードストラテジー",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Clash Royale 系のリアルタイム PvP アリーナをチャンピオン操作要素で差別化し、海外の中堅 PvP モバイル層で長期運営。3 周年アップデートで 2v2 モードが追加されコアファンが定着した。",
+  "concept": "70 種以上のカードからデッキを組み、自分の「チャンピオン」を操作しながら相手のタワーを破壊する 1v1／2v2 のリアルタイム PvP アリーナゲーム。Clash Royale 系の文法にアクション操作と MOBA 風のヒーロー要素を持ち込んだハイブリッド。",
+  "target": "Clash Royale や Brawl Stars などモバイル PvP アリーナを遊び慣れた 10-30 代の海外プレイヤー層。短時間マッチで競い合いたいライト〜ミッドコア層が中心。",
+  "slug": "champions-strike",
+  "file": "data/games/1043-champions-strike.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.thg.d&hl=en_US",
+    "https://apps.apple.com/us/app/champion-strike/id1142970365",
+    "https://gamingonphone.com/news/champion-strike-3rd-anniversary-update-introduces-new-champion-2v2-event-mode-and-more/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

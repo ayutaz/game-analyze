@@ -1,0 +1,32 @@
+{
+  "id": 1797,
+  "title_jp": "ひぐらしのなく頃に雀",
+  "title_en": "Higurashi no Naku Koro ni Jan",
+  "developer": "SIMS",
+  "publisher": "AQ Interactive",
+  "year": 2009,
+  "platform": [
+    "PSP",
+    "Arcade"
+  ],
+  "genre": "対戦麻雀（イカサマあり）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "07th Expansion『ひぐらしのなく頃に』IPの公式麻雀ゲームとして、原作キャラ同士が「殺るか殺られるか」のイカサマ（必殺技）麻雀でぶつかる異色作。竜騎士07監修の新規シナリオやアニメ版声優のフルボイスで、ひぐらしファンと麻雀ファンの両方を狙ったキワモノ企画として話題になった。",
+  "concept": "原作の惨劇世界観を1対1のサシ麻雀に落とし込み、各キャラ固有のイカサマ「必殺技」を撃ち合うバトル麻雀。リーチ麻雀ルールをベースにしつつ、ひぐらし的演出と決着のヒリつきで魅せるキャラゲー＋対戦体験ゲーム。",
+  "target": "『ひぐらしのなく頃に』ファン層と、キャラゲー寄りの麻雀ゲームを好む20-40代の男性中心。サシ麻雀ならではのインスタントな勝負と原作キャラの掛け合いを楽しみたい層。",
+  "slug": "higurashi-no-naku-koro-ni-jan",
+  "file": "data/games/1797-higurashi-no-naku-koro-ni-jan.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E5%93%AD%E3%81%8F%E9%A0%83%E3%81%AB_%E9%9B%80",
+    "https://www.4gamer.net/games/096/G009618/",
+    "https://www.mobygames.com/game/198677/higurashi-no-naku-koro-ni-jan/",
+    "https://game.watch.impress.co.jp/docs/news/168370.html",
+    "https://wiki.whentheycry.org/wiki/Higurashi_no_Naku_Koro_ni_Jan"
+  ]
+}

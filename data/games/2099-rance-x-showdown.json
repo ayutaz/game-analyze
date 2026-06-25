@@ -1,0 +1,34 @@
+{
+  "id": 2099,
+  "title_jp": "ランス10",
+  "title_en": "Rance X: Showdown",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトRPG/カードバトル/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "29年続いたランスシリーズの完結作。プレイアブル含む登場キャラ200人超、巨大スクリプト量で「ゲーム史最大級」と評され、発売前後にファンコミュニティが沸騰した。",
+  "concept": "魔人軍と人類連合軍の最終決戦を描く「Great War RPG」。デッキ構築型のカード戦闘と国盗りRPGを融合させ、過去作キャラを総動員してシリーズ全伏線を回収する集大成タイトル。",
+  "target": "シリーズを長年追ってきた30-50代のアダルトPCゲーマー、特にランスシリーズや旧アリスソフト作品のファン。物語の結末を見届けたい既存ユーザーが主層。",
+  "slug": "rance-x-showdown",
+  "file": "data/games/2099-rance-x-showdown.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Rance_X:_Showdown",
+    "https://ja.wikipedia.org/wiki/Rance_X_-%E6%B1%BA%E6%88%A6-",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://www.4gamer.net/games/999/G999905/20230414046/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

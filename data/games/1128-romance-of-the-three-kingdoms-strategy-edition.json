@@ -1,0 +1,31 @@
+{
+  "id": 1128,
+  "title_jp": "Romance of the Three Kingdoms: Strategy Edition (三國志・戰略版)",
+  "title_en": "Romance of the Three Kingdoms: Strategy Edition",
+  "developer": "Lingxi Interactive (Alibaba)",
+  "publisher": "Lingxi Interactive",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "SLG/三国志ストラテジー",
+  "sales_jp": "—",
+  "sales_world": "$2B+ in China (累計登録1億超、Sensor Tower 累計収益$1.2B＋)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "コーエーテクモ正式ライセンスのSLG。中国で大ヒットし、2024年6月に全世界累計登録1億人突破、Sensor Tower 集計で累計売上12億ドル超を記録。",
+  "concept": "三国時代の中国大陸を舞台に、数百人規模の同盟と連携して領土を奪い合い、洛陽の覇権を競う本格 PvP ストラテジー。武将カードと地形・行軍を組み合わせた骨太なシミュレーションで、ライト課金 SLG とは一線を画す重厚さが売り。",
+  "target": "三国志 IP に親しんだ 30-50 代を中心に、長期同盟戦・国取り合戦を楽しみたいハードコア SLG 層。リアルタイムでのギルド外交や戦線運営に時間を投じられるプレイヤー。",
+  "slug": "romance-of-the-three-kingdoms-strategy-edition",
+  "file": "data/games/1128-romance-of-the-three-kingdoms-strategy-edition.json",
+  "_source_urls": [
+    "https://baike.baidu.com/en/item/Romance%20of%20the%20Three%20Kingdoms:%20Strategy%20Edition/659106",
+    "https://www.scmp.com/tech/tech-leaders-and-founders/article/3102385/alibabas-romance-three-kingdoms-hit-sees-it-make",
+    "https://gamebiz.jp/news/292558",
+    "https://www.koeitecmo.co.jp/news/docs/news_20240617.pdf"
+  ]
+}

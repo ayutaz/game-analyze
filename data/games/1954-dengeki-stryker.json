@@ -1,0 +1,32 @@
+{
+  "id": 1954,
+  "title_jp": "電激ストライカー",
+  "title_en": "Dengeki Stryker",
+  "developer": "OVERDRIVE",
+  "publisher": "OVERDRIVE",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/ヒーローもの",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "OVERDRIVE 5周年記念作として戦闘パートのアニメーションを SILVER LINK. と渡辺信一郎監督が担当した話題作。2012 年に MangaGamer が英訳版を配信、2014 年には増補版『超電激ストライカー』が Steam にも進出して海外 ADV ファン層に拡散した。",
+  "concept": "ヒーローに憧れる少年・大和勇気が記憶収集人と契約し、漫画の主人公「電激ストライカー」そのものに変身して幼なじみを守るために戦う、特撮・ヒーローもの王道展開を本気で描いた OVERDRIVE 5 周年記念のアダルトビジュアルノベル。",
+  "target": "OVERDRIVE 過去作（キラ☆キラ / DEARDROPS）のファン、特撮・少年漫画的なヒーローもの直球展開を文章とアニメ演出で味わいたい男性アダルト VN ユーザー層。",
+  "slug": "dengeki-stryker",
+  "file": "data/games/1954-dengeki-stryker.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%BF%80%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%BC",
+    "https://www.over-drive.jp/project/stryker/",
+    "https://store.steampowered.com/app/321190/Cho_Dengeki_Stryker_All_Ages_Version/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/DengekiStryker",
+    "https://www.animenewsnetwork.com/press-release/2014-03-28/mangagamer-announces-release-of-cho-dengeki-stryker"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

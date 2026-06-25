@@ -1,0 +1,31 @@
+{
+  "id": 1050,
+  "title_jp": "ROV (RoV / Arena of Valor SEA)",
+  "title_en": "Garena RoV",
+  "developer": "TiMi Studio Group",
+  "publisher": "Garena",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "モバイル MOBA (5v5)",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL (SEA)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "東南アジア（タイ・ベトナム・台湾・フィリピン等）で eスポーツ文化と結びつき社会現象化。中華本家『王者栄耀』の国際版として SEA 圏 MOBA の代名詞となり、全世界アクティブユーザー 4 億人超、Garena 配信地域だけで累計 1 億 DL を突破した。",
+  "concept": "中国 Tencent / TiMi 開発の『王者栄耀』を Garena が東南アジア向けにローカライズしたモバイル MOBA。5v5 のクラシック戦・ランクマッチを中心に、PC MOBA の操作感を片手モバイル UI に圧縮し、SEA 地域では公式 eスポーツリーグ（RoV Pro League）が文化基盤になっている。",
+  "target": "東南アジア（タイ・ベトナム・台湾・フィリピン・インドネシア等）の 10-30 代モバイルゲーマー、特に PvP・ランク・配信視聴が日常化している eスポーツ志向層。",
+  "slug": "garena-rov",
+  "file": "data/games/1050-garena-rov.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arena_of_Valor",
+    "https://www.blog.udonis.co/statistics/arena-of-valor",
+    "https://liquipedia.net/honorofkings/Arena_of_Valor"
+  ]
+}

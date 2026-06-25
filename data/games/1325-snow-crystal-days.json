@@ -1,0 +1,31 @@
+{
+  "id": 1325,
+  "title_jp": "Snow Crystal Days（雪結晶の日々）",
+  "title_en": "Snow Crystal Days",
+  "developer": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "恋愛アドベンチャー/乙女ゲーム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Voltage 系列の冬季限定乙女恋愛 ADV。雪景色と短編ロマンスのシチュエーション重視で、季節モノ・キャラ別ルート消費型として一定の話題になった。",
+  "concept": "雪の街を舞台に複数の男性キャラクターと過ごす短編ロマンスを楽しむ、季節限定の乙女向け恋愛アドベンチャー。Voltage Inc. の長年のノウハウである「キャラ別ルート×シチュエーション CG」の縦軸を、冬という季語に絞って提供するスタイル。",
+  "target": "20-30 代女性中心の Voltage 既存ファン層。冬・雪・クリスマスシーズンの恋愛シチュエーションを短時間でつまみ食いしたい乙女ゲームユーザー。",
+  "slug": "snow-crystal-days",
+  "file": "data/games/1325-snow-crystal-days.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Voltage_(company)",
+    "https://voltageapps.com/",
+    "https://voltage-inc.fandom.com/wiki/Category:Games"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

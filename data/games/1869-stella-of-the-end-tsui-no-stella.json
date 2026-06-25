@@ -1,0 +1,32 @@
+{
+  "id": 1869,
+  "title_jp": "終のステラ",
+  "title_en": "Stella of the End (Tsui no Stella)",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "キネティックノベル/SFビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key×田中ロミオ×SWAVのタッグによる本格SFキネティックノベルとして注目を集め、PC版から Switch / スマートフォン / Steam（英語・簡体字対応）へと多言語展開された。",
+  "concept": "地球が人類の世界ではなくなった遠未来を舞台に、運び屋の青年ジュードと人間になりたい少女型アンドロイド・フィリアの旅路を描くキネティックノベル。選択肢のない一本道で、Planetarian の系譜を継ぐ「読ませる」 SF 短編。",
+  "target": "Key 作品ファン、田中ロミオの SF・ポストアポカリプス物語が好きな層、Planetarian や CLANNAD など泣きゲー / キネティックノベルに親しんだ20-40代。",
+  "slug": "stella-of-the-end-tsui-no-stella",
+  "file": "data/games/1869-stella-of-the-end-tsui-no-stella.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Stella_of_The_End",
+    "https://ja.wikipedia.org/wiki/%E7%B5%82%E3%81%AE%E3%82%B9%E3%83%86%E3%83%A9",
+    "https://store.steampowered.com/app/2510770/Stella_of_The_End/",
+    "https://www.4gamer.net/games/615/G061556/20220826019/",
+    "https://news.denfaminicogamer.jp/news/240829o"
+  ]
+}

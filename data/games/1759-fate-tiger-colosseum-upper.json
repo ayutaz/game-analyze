@@ -1,0 +1,29 @@
+{
+  "id": 1759,
+  "title_jp": "Fate/tiger colosseum UPPER",
+  "title_en": "Fate/tiger colosseum UPPER",
+  "developer": "Cavia",
+  "publisher": "Capcom",
+  "year": 2008,
+  "platform": [
+    "PSP"
+  ],
+  "genre": "3D対戦アクション/格闘",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Fate/stay night・hollow ataraxia・Fate/Zero のキャラを SD 化して総出演させた前作の続編で、追加キャラと新ストーリーで Fate ファンの間で話題になった PSP 期の TYPE-MOON 公認パーティ格闘。",
+  "concept": "Fate シリーズのサーヴァントとマスターを SD キャラ化し、藤村大河（タイガー）が乱入する非公式トーナメントを 3D 対戦アクションとして遊ばせるファン向け派生作品。原作の重い設定をギャグタッチに崩したファンサービス全振り格闘。",
+  "target": "Fate/stay night および hollow ataraxia の原作・アニメファンで、SD キャラ同士の手軽な対戦と豊富な掛け合いを楽しみたい層。PSP 期の TYPE-MOON ファン全般。",
+  "slug": "fate-tiger-colosseum-upper",
+  "file": "data/games/1759-fate-tiger-colosseum-upper.json",
+  "_source_urls": [
+    "https://typemoon.fandom.com/wiki/Fate/tiger_colosseum_UPPER",
+    "https://en.wikipedia.org/wiki/Fate/tiger_colosseum",
+    "https://gamefaqs.gamespot.com/psp/945980-fate-tiger-colosseum-upper"
+  ]
+}

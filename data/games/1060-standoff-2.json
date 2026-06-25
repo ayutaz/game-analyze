@@ -1,0 +1,32 @@
+{
+  "id": 1060,
+  "title_jp": "Standoff 2",
+  "title_en": "Standoff 2",
+  "developer": "Axlebolt",
+  "publisher": "Axlebolt",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイルタクティカルFPS（対戦）",
+  "sales_jp": "—",
+  "sales_world": "300M+ downloads / 30M MAU global",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "「モバイル版 CS:GO」と評される 5v5 タクティカル FPS。世界累計 3 億 DL・月間 3,000 万 MAU を抱え、CIS 圏発のモバイル e スポーツの代表格として急成長。",
+  "concept": "Counter-Strike 系のラウンド制爆破ルールをスマートフォン向けに最適化した、5v5 タクティカル FPS。スキン経済とランクマッチによる競技性を備え、PC FPS の操作感をモバイルで再現することに特化している。",
+  "target": "10-20代を中心とした FPS／CS 系ゲーマー、PC を持たずモバイルで競技 FPS を遊びたい層、スキン収集・ランク上げに熱中するハードコアプレイヤー。",
+  "slug": "standoff-2",
+  "file": "data/games/1060-standoff-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Standoff_2",
+    "https://axlebolt.com/en/",
+    "https://apps.apple.com/jp/app/standoff-2/id1359706682",
+    "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2&hl=en"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

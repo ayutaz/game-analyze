@@ -1,0 +1,31 @@
+{
+  "id": 2048,
+  "title_jp": "ROBOTICS;NOTES ELITE",
+  "title_en": "Robotics;Notes Elite",
+  "developer": "MAGES. / 5pb.",
+  "publisher": "5pb. / Spike Chunsoft",
+  "year": 2014,
+  "platform": [
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "拡張科学アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Science Adventure シリーズ第3作（Chaos;Head / Steins;Gate に続く）のフル版リメイクで、2020年に Spike Chunsoft が英語ローカライズして Switch / PS4 / Steam で展開し、海外の Steins;Gate ファン層にも浸透した。",
+  "concept": "種子島の高校ロボット研究部を舞台に巨大ロボ「ガンヴァレル」の完成を目指す「拡張科学アドベンチャー」。AR デバイス『ポケコム』を通じた疑似 SNS／タグ拾いといったゲームシステムを軸に、Steins;Gate と地続きの陰謀劇を読み進めるビジュアルノベル。",
+  "target": "Steins;Gate などの Science Adventure シリーズの既存ファン、ハード SF や AR ガジェット描写を好む 20-40 代ノベルゲーマー。",
+  "slug": "robotics-notes-elite",
+  "file": "data/games/2048-robotics-notes-elite.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Robotics;Notes",
+    "https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/",
+    "http://spike-chunsoft.com/ROBOTICSNOTESELITE/",
+    "https://www.pcgamingwiki.com/wiki/Robotics;Notes_Elite"
+  ]
+}

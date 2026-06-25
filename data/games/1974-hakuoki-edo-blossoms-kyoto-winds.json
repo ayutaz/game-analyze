@@ -1,0 +1,28 @@
+{
+  "id": 1974,
+  "title_jp": "薄桜鬼 新章",
+  "title_en": "Hakuoki: Edo Blossoms / Kyoto Winds",
+  "developer": "Otomate / Design Factory",
+  "publisher": "Idea Factory International",
+  "year": 2008,
+  "platform": [
+    "PS Vita"
+  ],
+  "genre": "乙女系恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "1M+ (series)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "新選組×女主人公の幕末恋愛ノベルとしてシリーズ累計100万本超。Kyoto Winds(2017)/Edo Blossoms(2018)で英語圏にも展開し、欧米乙女ゲーファンの代表作となった。",
+  "concept": "新選組の隊士たちを攻略対象に据えた幕末×伝奇恋愛ノベル。前後編構成で京編(Kyoto Winds)が出会いと京都動乱、江戸編(Edo Blossoms)が戊辰戦争と各キャラ個別ルートを描く、シリーズ最終形のリマスター版。",
+  "target": "新選組や幕末歴史ものが好きな10-30代女性、和風シリアスな恋愛ストーリーを腰を据えて読みたい乙女ゲーマー、シリーズ既プレイで決定版を体験したいファン層。",
+  "slug": "hakuoki-edo-blossoms-kyoto-winds",
+  "file": "data/games/1974-hakuoki-edo-blossoms-kyoto-winds.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E8%96%84%E6%A1%9C%E9%AC%BC_%E3%80%9C%E6%96%B0%E9%81%B8%E7%B5%84%E5%A5%87%E8%AD%9A%E3%80%9C",
+    "https://ifi.games/game/hakuoki-kyoto-winds/",
+    "https://www.animenewsnetwork.com/news/2017-10-19/idea-factory-intl-releases-hakuoki-edo-blossoms-ps-vita-game-in-n-america-europe-in-spring-2018/.122909",
+    "https://www.otomate.jp/hakuoki/shinkai/"
+  ]
+}

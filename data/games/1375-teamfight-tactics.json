@@ -1,0 +1,33 @@
+{
+  "id": 1375,
+  "title_jp": "Teamfight Tactics",
+  "title_en": "Teamfight Tactics",
+  "developer": "Riot Games",
+  "publisher": "Riot Games",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オートバトラー",
+  "sales_jp": "—",
+  "sales_world": "4.5M+ mobile downloads first week",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Auto Chess 旋風に乗って League of Legends の公式オートバトラーとして 2019 年に登場し、PC/モバイルクロスプレイで世界的にヒット。シーズン毎の「セット」入れ替えと派手なコスメ・リトル・レジェンドのガチャ収益で長期運営。",
+  "concept": "8 人対戦のオートバトラー。チャンピオン駒を盤面に配置し、シナジー（クラス／オリジン）を組み合わせて自動戦闘で他 7 人と勝ち残りを競う、戦略デッキ構築型 PvP。",
+  "target": "LoL ファン、Dota Auto Chess 等のオートバトラー愛好家、頭脳系 PvP を腰を据えて遊びたい 20-30 代男性中心のコアゲーマー層。",
+  "slug": "teamfight-tactics",
+  "file": "data/games/1375-teamfight-tactics.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Teamfight_Tactics",
+    "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-mobile-details/",
+    "https://www.pocketgamer.biz/riot-launches-teamfight-tactics-march-19th/",
+    "https://sensortower.com/ja/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-january-2025-JP"
+  ]
+}

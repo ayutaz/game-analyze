@@ -1,0 +1,33 @@
+{
+  "id": 1571,
+  "title_jp": "グランド・セフト・オート バイスシティ",
+  "title_en": "Grand Theft Auto: Vice City",
+  "developer": "Rockstar North",
+  "publisher": "Rockstar Games",
+  "year": 2002,
+  "platform": [
+    "PS2",
+    "PC",
+    "Xbox",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "17.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1980年代マイアミを舞台にしたネオン・ポップなオープンワールドと、レイ・リオッタ起用のマフィア物語、80年代洋楽満載のラジオで社会現象化。ギネス世界記録に「全世界で最も売れた PS2 用ゲーム」として認定された伝説作。",
+  "concept": "GTA III のシステムを 1986 年のマイアミ風都市「バイスシティ」に移植し、犯罪組織の中で成り上がる主人公トミー・ヴェルセッティの物語と、バイク・ヘリ・ボートを含む乗り物自由度を融合したオープンワールド犯罪体験。",
+  "target": "PS2 黄金期のオープンワールド／犯罪映画好きな海外志向ゲーマー、洋楽 80s カルチャー好き、暴力描写を含む大人向けアクションを求める 15 歳以上の層。",
+  "slug": "grand-theft-auto-vice-city",
+  "file": "data/games/1571-grand-theft-auto-vice-city.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%BB%E3%83%95%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%82%A4%E3%82%B9%E3%82%B7%E3%83%86%E3%82%A3"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1422,
+  "title_jp": "聖剣伝説 LEGEND OF MANA",
+  "title_en": "Legend of Mana",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "0.82M",
+  "sales_world": "1.0M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "発売週に40万本超を売り上げ、年内に日本国内で70万本超を記録した『聖剣伝説』シリーズ第4作。2021年のHDリマスター版がSwitch/PS4/Steamで再発売され、菊田裕樹のサウンドトラックと自由配置式のランドメイク、オムニバス構成の物語が「語り継がれる名作」として再評価された。",
+  "concept": "プレイヤーが自由に世界地図にアーティファクトを配置して舞台を組み立て、約60の独立したオムニバス・エピソードを好きな順番で体験するアクションRPG。一本道の主筋を持たず、出会ったキャラクターとの関係や育てた武器・モンスター・畑が体験の核になる、当時としては極めて実験的な「世界を作って住む」型タイトル。",
+  "target": "1990年代のSFC『聖剣伝説2・3』世代の30-50代と、菊田裕樹サウンドや絵本調アートに惹かれる女性RPGファン、自由度の高い箱庭探索を好むコア層。リマスター版以降は当時遊べなかった若い世代の「レトロJRPG入門」用途も加わった。",
+  "slug": "legend-of-mana",
+  "file": "data/games/1422-legend-of-mana.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Legend_of_Mana",
+    "https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_LEGEND_OF_MANA",
+    "https://www.square-enix-games.com/en_US/games/legend-mana",
+    "https://game.watch.impress.co.jp/docs/news/1333321.html",
+    "https://www.famitsu.com/news/202102/18214571.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

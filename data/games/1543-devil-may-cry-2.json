@@ -1,0 +1,36 @@
+{
+  "id": 1543,
+  "title_jp": "デビル メイ クライ 2",
+  "title_en": "Devil May Cry 2",
+  "developer": "Capcom Production Studio 1",
+  "publisher": "Capcom",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "PS3",
+    "PS4",
+    "Xbox 360",
+    "Xbox One",
+    "PC",
+    "Switch"
+  ],
+  "genre": "スタイリッシュ3Dアクション",
+  "sales_jp": "—",
+  "sales_world": "2.9M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作の高評価を受けた続編だが、難易度低下と演出簡素化でシリーズ最低評価作として有名。後にHDコレクションやSwitch版で再リリースされ、累計290万本超を販売。",
+  "concept": "ダンテとルシアの二人を主人公にした2ディスク構成のスタイリッシュアクション。ガンアクション比重を高め、より広いステージで悪魔と戦うシリーズ第2作。",
+  "target": "PS2時代のアクションゲーマー、デビルメイクライシリーズのコレクター、HD Collectionでシリーズを通しプレイしたいファン層。",
+  "slug": "devil-may-cry-2",
+  "file": "data/games/1543-devil-may-cry-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Devil_May_Cry_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%A9%E3%82%A42",
+    "https://devilmaycry.fandom.com/wiki/Devil_May_Cry_Triple_Pack",
+    "https://kopenguin.com/post-67150/"
+  ]
+}

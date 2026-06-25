@@ -1,0 +1,33 @@
+{
+  "id": 1765,
+  "title_jp": "Fate/Samurai Remnant",
+  "title_en": "Fate/Samurai Remnant",
+  "developer": "Omega Force / コーエーテクモ",
+  "publisher": "コーエーテクモゲームス / Aniplex",
+  "year": 2023,
+  "platform": [
+    "PS5",
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "68.5K+",
+  "sales_world": "410K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Fate シリーズ × 無双系アクションの異色コラボとして 2023 年に話題化、発売 1 週で全世界 30 万本を超え、最終的に 41 万本以上に到達。江戸時代を舞台にした新規ストーリーで Fate ファンと無双ファン双方を取り込んだ。",
+  "slug": "fate-samurai-remnant",
+  "file": "data/games/1765-fate-samurai-remnant.json",
+  "concept": "江戸・浅草を舞台に、剣豪・宮本伊織とサーヴァントのコンビが「盈月の儀」と呼ばれる聖杯戦争を戦う、Omega Force 開発の Fate 公式アクション RPG。無双系の爽快な群勢戦闘と Fate らしいキャラクター×物語を融合させている。",
+  "target": "Fate シリーズ（FGO / stay night / Zero 等）のファン層と、無双系アクションを好む層。和風 ARPG・聖杯戦争モチーフの群像劇を楽しみたいシングルプレイヤー向け。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/Samurai_Remnant",
+    "https://www.gematsu.com/2022/12/koei-tecmo-announces-action-rpg-fate-samurai-remnant-for-ps5-ps4-switch-and-pc",
+    "https://www.resetera.com/threads/fate-samurai-remnant-ps5-ps4-nsw-pc-has-sold-410-000-units-globally.859179/",
+    "https://noisypixel.net/fate-samurai-remnant-sells-410000-units-worldwide/"
+  ]
+}

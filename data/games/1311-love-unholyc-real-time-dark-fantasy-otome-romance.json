@@ -1,0 +1,34 @@
+{
+  "id": 1311,
+  "title_jp": "Love Unholyc",
+  "title_en": "Love Unholyc: Real Time Dark Fantasy Otome Romance",
+  "developer": "Prettybusy",
+  "publisher": "Prettybusy",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム乙女ゲーム/ダークファンタジー恋愛AVG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "Mystic Messenger 系のリアルタイム電話・ビデオチャット演出を踏襲した韓国 Prettybusy 初の乙女ゲーム。ダークファンタジー世界観 × イケメン悪魔キャラで欧米・日本の乙女ゲーマー間で口コミ拡散。",
+  "concept": "プレイヤーは人間と悪魔の間に生まれた半悪魔『Unholyc』として、成人の儀のために契約を交わした3人のイケメン人間と1週間リアルタイムで交流する。電話・ビデオチャット・テキストが実時間で届き、選択肢ごとに親密度と複数エンディングが分岐する。",
+  "target": "Mystic Messenger 系のリアルタイム交流型恋愛 AVG を好む 10〜30 代女性。ダークファンタジー・吸血鬼・悪魔系イケメン×乙女ゲーが好きな層。",
+  "slug": "love-unholyc-real-time-dark-fantasy-otome-romance",
+  "file": "data/games/1311-love-unholyc-real-time-dark-fantasy-otome-romance.json",
+  "_source_urls": [
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/LoveUnholyc",
+    "https://otomelliee.wordpress.com/2020/10/12/otome-mobile-game-love-unholyc-now-available/",
+    "https://apps.apple.com/jp/app/loveunholyc/id1528743498",
+    "https://play.google.com/store/apps/details?id=com.prettybusy.loveunholyc"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

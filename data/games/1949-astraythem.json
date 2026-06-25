@@ -1,0 +1,31 @@
+{
+  "id": 1949,
+  "title_jp": "アストラエアの白き永遠",
+  "title_en": "Astraythem",
+  "developer": "FAVORITE",
+  "publisher": "FAVORITE",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "PS Vita"
+  ],
+  "genre": "18禁恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "FAVORITE ブランド10周年記念作で「ほしうた」「い〜あるふぁんくらぶ」の流れを汲む泣きゲー。2016年に PS Vita 版『White Eternity』、2017年にファンディスク『Finale -白き星の夢-』、2024年に10周年記念の FHD リマスター『Re:Eternity』が発売され長期的に再評価が続く。",
+  "concept": "時間遡行をテーマに、義姉ナツメへの秘めた想いと喪失を描く長編ノベルゲーム。タイムリープと泣きゲーの王道構造を組み合わせ、約30時間級のシナリオ密度で「もう一度やり直す」物語を成立させている。",
+  "target": "FAVORITE 作品や同社ライター渡辺僚一の手掛ける泣きゲー／長編シナリオを愛好する 20-40 代男性ビジュアルノベルファン。SF 的タイムリープ要素のある恋愛 ADV を腰を据えて読み込みたい層。",
+  "slug": "astraythem",
+  "file": "data/games/1949-astraythem.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A8%E3%82%A2%E3%81%AE%E7%99%BD%E3%81%8D%E6%B0%B8%E9%81%A0",
+    "https://www.amazon.co.jp/dramaticcreate-%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A8%E3%82%A2%E3%81%AE%E7%99%BD%E3%81%8D%E6%B0%B8%E9%81%A0-White-Eternity-PS-Vita/dp/B01H69HDWK",
+    "https://www.side-connection.com/discography/favorite%E3%80%8E%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A8%E3%82%A2%E3%81%AE%E7%99%BD%E3%81%8D%E6%B0%B8%E9%81%A0-finale-%E7%99%BD%E3%81%8D%E6%98%9F%E3%81%AE%E5%A4%A2-%E3%80%8F/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

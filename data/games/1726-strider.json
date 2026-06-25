@@ -1,0 +1,31 @@
+{
+  "id": 1726,
+  "title_jp": "ストライダー飛竜",
+  "title_en": "Strider",
+  "developer": "Capcom",
+  "publisher": "Sega",
+  "year": 1990,
+  "platform": [
+    "Arcade",
+    "Mega Drive",
+    "PC Engine",
+    "NES"
+  ],
+  "genre": "2D サイドビュー アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "1989年カプコン CPS-1 の傑作アクションで、ゲーメスト大賞ベストアクション/ベスト演出 1 位を獲得。1990年のメガドライブ移植版はセガ販売・初期 MD の代表的キラータイトルとなり、忍者×プラズマソード「サイファー」のスタイリッシュな戦闘と壁・天井に張り付くアクションが Ninja Gaiden / Devil May Cry / God of War にまで影響を与えたと評される。",
+  "concept": "西暦 2048 年、軍事独裁者グランドマスター・メイオが支配する世界に挑む暗殺集団ストライダーズの精鋭・飛竜を操作する 2D サイドビューアクション。プラズマソード「サイファー」による高速近接戦闘と、鎌で壁・天井に張り付く独自アクションを組み合わせ、5 ステージを駆け抜けるアーケード由来の体験型ゲーム。",
+  "target": "1980年代後半から1990年代のアーケード／メガドライブ世代、忍者・サイバーパンクアクション好き、ゲーメスト誌で当時話題になったコアアクションゲーマー層。後年は移植・リブートを通じて 2D アクションのルーツを知りたいファンにも刺さる。",
+  "slug": "strider",
+  "file": "data/games/1726-strider.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E9%A3%9B%E7%AB%9C",
+    "https://en.wikipedia.org/wiki/Strider_(1989_arcade_game)",
+    "https://www.capcom-games.com/product/ja-jp/strider/",
+    "https://capcom.fandom.com/wiki/Strider_(classic_version)"
+  ]
+}

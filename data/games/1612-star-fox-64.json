@@ -1,0 +1,27 @@
+{
+  "id": 1612,
+  "title_jp": "スターフォックス64",
+  "title_en": "Star Fox 64",
+  "developer": "Nintendo EAD",
+  "publisher": "Nintendo",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "3Dシューティング（レールシューター）",
+  "sales_jp": "0.57M",
+  "sales_world": "4.00M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "全世界400万本超で「世界一売れたシューティング」としてギネス世界記録に認定。振動パック同梱販売とフルボイスの掛け合いで話題となった。",
+  "concept": "アーウィン等の機体を操り銀河を進撃する分岐ルート式レールシューター。ステージ条件で枝分かれする複数ルートと、仲間との無線ボイス演出で短時間プレイの密度を高めた一作。",
+  "target": "90年代N64ユーザーを中心に、アーケード感覚で短時間集中して遊べる骨太シューティングを好む層、スターフォックスIPファン。",
+  "slug": "star-fox-64",
+  "file": "data/games/1612-star-fox-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Fox_64",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B964",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_n64/"
+  ]
+}

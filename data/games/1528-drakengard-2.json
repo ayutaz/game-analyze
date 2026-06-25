@@ -1,0 +1,30 @@
+{
+  "id": 1528,
+  "title_jp": "ドラッグ オン ドラグーン2 封印の紅、背徳の黒",
+  "title_en": "Drakengard 2",
+  "developer": "Cavia",
+  "publisher": "Square Enix",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションRPG（地上ハック&スラッシュ＋空中シューティング）",
+  "sales_jp": "203K",
+  "sales_world": "206K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作の凄惨な世界観を引き継ぎつつ主人公を変更し、ライト寄りに調整した続編。日本では初週10万本・年内20万本超を売り上げ、後のNieR/ヨコオタロウ作品群の原点として再評価されている。",
+  "slug": "drakengard-2",
+  "file": "data/games/1528-drakengard-2.json",
+  "concept": "ドラゴンに跨り地上と空中を行き来する一人用アクションRPG。前作『ドラッグ オン ドラグーン』から18年後の世界を舞台に、主人公ノウェの視点で「封印の女神」を巡る善悪反転の物語を描く。",
+  "target": "前作およびヨコオタロウ作品のダークな世界観を好む層、PS2世代の和製アクションRPGファン、後のNieRシリーズから遡って原点を辿りたいプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Drakengard_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%AA%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B32_%E5%B0%81%E5%8D%B0%E3%81%AE%E7%B4%85%E3%80%81%E8%83%8C%E5%BE%B3%E3%81%AE%E9%BB%92",
+    "https://www.vgchartz.com/game/585/drakengard-2/game",
+    "https://kopenguin.com/post-68301/"
+  ]
+}

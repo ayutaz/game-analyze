@@ -1,0 +1,32 @@
+{
+  "id": 1122,
+  "title_jp": "ガンズ・オブ・グローリー",
+  "title_en": "Guns of Glory",
+  "developer": "Diandian Interactive / FunPlus",
+  "publisher": "FunPlus",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMOストラテジー (SLG)",
+  "sales_jp": "—",
+  "sales_world": "累計26M+ DL / 初年度収益$215M超 (King of Avalon と合算で$1.3B+)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "『三銃士』をモチーフに飛行船と銃火器を持ち込んだ独自世界観の同盟戦SLGで、KingsGroup/FunPlus が King of Avalon に続く看板タイトルとして全世界で大規模広告投下、リリース 1 年で $215M を達成し PocketGamer の「生涯収益$1B超」リストにも入った。日本でも App Store/Google Play 双方で長期配信され、自動翻訳チャットで海外同盟と組むハードコア層が継続課金している。",
+  "concept": "17 世紀『三銃士』の世界観をベースに、城下町建設・飛行船開発・銃火器装備カスタマイズ・同盟戦争を一つにまとめた MMO ストラテジー。Game of War / King of Avalon 系の「Lords Mobile 型 SLG」テンプレートに飛行船と火器というディファレンシエータを加え、世界中のプレイヤーが同一サーバーで領土と資源を奪い合う構造になっている。",
+  "target": "20-50 代の男性が中心。海外同盟で長期戦争を戦うコア課金層と、自動翻訳で多国籍コミュニティに参加したい層、Game of War / Mobile Strike / Lords Mobile / King of Avalon 等の同系統 SLG を渡り歩く重課金 SLG ファンに刺さる。",
+  "slug": "guns-of-glory",
+  "file": "data/games/1122-guns-of-glory.json",
+  "_source_urls": [
+    "https://sensortower.com/blog/guns-of-glory-revenue",
+    "https://www.pocketgamer.biz/between-king-of-avalon-and-guns-of-glory-funplus-has-earned-over-13-billion-in-revenue/",
+    "https://funplus.com/games/guns-of-glory/",
+    "https://apps.apple.com/jp/app/guns-of-glory-%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%9F%E5%A4%A7%E9%99%B8/id1274354704",
+    "https://en.wikipedia.org/wiki/FunPlus"
+  ]
+}

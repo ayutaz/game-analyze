@@ -1,0 +1,34 @@
+{
+  "id": 1792,
+  "title_jp": "ひぐらしのなく頃に粋",
+  "title_en": "Higurashi no Naku Koro ni Sui",
+  "developer": "Kaga Create",
+  "publisher": "Kaga Create",
+  "year": 2015,
+  "platform": [
+    "PS Vita",
+    "PS3"
+  ],
+  "genre": "サウンドノベル/ミステリーADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "07th Expansion『ひぐらしのなく頃に』本編＋外伝＋『鬼曝し編』含む全 20 シナリオを全編フルボイスで集成した決定版。発売直後に加賀クリエイトが解散し流通停止、後に Entergram から配信再開された経緯でコレクター人気が高い。",
+  "concept": "PC 同人で社会現象化したサウンドノベル『ひぐらしのなく頃に』の家庭用集大成。出題編・解答編・礼・鬼曝し編まで一本に収め、フルボイス・スチル追加で再構成した「読み切る」ための完全版。",
+  "target": "原作 PC 版・アニメ・コンシューマ版で『ひぐらし』に触れたファン層、長尺ミステリーノベルを腰を据えて読みたい 20-40 代。新規よりも既存ファンの蒐集・再読需要が中心。",
+  "slug": "higurashi-no-naku-koro-ni-sui",
+  "file": "data/games/1792-higurashi-no-naku-koro-ni-sui.json",
+  "_source_urls": [
+    "https://www.4gamer.net/games/283/G028306/",
+    "https://www.famitsu.com/games/t/31515/",
+    "https://whentheycry.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Sui",
+    "https://wiki.whentheycry.org/wiki/Higurashi_no_Naku_Koro_ni_Sui",
+    "https://www.itmedia.co.jp/news/articles/1601/05/news117.html",
+    "https://en.wikipedia.org/wiki/List_of_Higurashi_When_They_Cry_titles"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

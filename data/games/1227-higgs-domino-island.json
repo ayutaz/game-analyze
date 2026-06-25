@@ -1,0 +1,32 @@
+{
+  "id": 1227,
+  "title_jp": "ヒッグス・ドミノ・アイランド",
+  "title_en": "Higgs Domino Island",
+  "developer": "Higgs Technology",
+  "publisher": "Higgs Games (Indonesia)",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オンライン・ドミノ／カード対戦",
+  "sales_jp": "—",
+  "sales_world": "120M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "インドネシアおよび東南アジアでローカル・ドミノ／ガプレ／チュチュ等のテーブルゲームを束ねた事実上の国民的アプリとして爆発的に普及。Google Play 累計 1.2 億 DL 超、500 万件超のレビューで星 4.18 を獲得し、現地若年〜中年層を中心に強い日常利用を確保している。",
+  "concept": "インドネシア土着のドミノ系（Gaple／QiuQiu）やポーカー、スロットなどのカジノ風ミニゲームを 1 つのロビーに集約したマルチプレイヤー・ボードゲーム。チップを賭けて対人卓でテンポよく回す体験を、現地文化色の強い UI と長期運営イベントで支える。",
+  "target": "インドネシアおよび東南アジア中心の 10 代後半〜40 代男女、特にスマホで気軽に対人テーブルゲームを楽しみたいライトユーザー層と、現地のドミノ／ガプレ文化に親しんだ社会人層。",
+  "slug": "higgs-domino-island",
+  "file": "data/games/1227-higgs-domino-island.json",
+  "_source_urls": [
+    "https://www.higgsgame.com/",
+    "https://m.higgsgame.com/game_02.html",
+    "https://apps.apple.com/id/app/higgs-games-island/id1456356688",
+    "https://www.appbrain.com/app/higgs-domino-island/com.neptune.domino",
+    "https://www.kaorinusantara.or.id/newsline/181351/game-higgs-domino-island"
+  ]
+}

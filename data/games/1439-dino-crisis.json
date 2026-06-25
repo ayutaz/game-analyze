@@ -1,0 +1,32 @@
+{
+  "id": 1439,
+  "title_jp": "ディノクライシス",
+  "title_en": "Dino Crisis",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "Dreamcast",
+    "PC"
+  ],
+  "genre": "サバイバルホラー/アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "2.4M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「バイオハザード」の三上真司ディレクションで恐竜を敵に置き換えた『パニックホラー』として大ヒット。初代 PS 版は世界 240 万本を売り上げ、2025 年の PC 版配信で再評価された。",
+  "slug": "dino-crisis",
+  "file": "data/games/1439-dino-crisis.json",
+  "concept": "バイオハザードの固定カメラ＋限定リソース管理を踏襲しつつ、敵を知能の高い恐竜（ヴェロキラプトル／T-Rex）に置き換えた『パニックホラー』。即死級の敵と仕掛けパズルが緊張感を生む。",
+  "target": "バイオハザード経験者で恐竜・SF 設定が好きな層、90 年代後半のサバイバルホラー黄金期を体験したいレトロゲーマー、2025 年 PC 版で初めて触れる新規層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dino_Crisis_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%8E%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%B7%E3%82%B9",
+    "https://www.4gamer.net/games/877/G087735/20250129060/",
+    "https://www.capcom-games.com/product/en-us/dinocrisis/"
+  ]
+}

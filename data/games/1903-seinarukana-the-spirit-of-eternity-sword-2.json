@@ -1,0 +1,31 @@
+{
+  "id": 1903,
+  "title_jp": "聖なるかな -The Spirit of Eternity Sword 2-",
+  "title_en": "Seinarukana -The Spirit of Eternity Sword 2-",
+  "developer": "Xuse",
+  "publisher": "Xuse / JAST USA",
+  "year": 2007,
+  "platform": [
+    "PC",
+    "PSP"
+  ],
+  "genre": "ビジュアルノベル × SRPG（永遠神剣シリーズ第2作）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『永遠のアセリア』の正統続編として「神剣」を巡る重厚な多元宇宙設定と高難度 SRPG パートが支持され、PC 18禁版から PSP 全年齢版『オリハルコンの名の下に』、JAST USA による英訳 Steam 版まで長期に展開した重量級ビジュアルノベル。",
+  "concept": "三人一組の小隊を操作する SRPG パートと、神話・多元宇宙・主人公の中に眠る古き神との葛藤を描く長大なシナリオを融合させた『永遠のアセリア』正統続編。読む量・戦う量ともに突出した「読み応え重視」の VN+SRPG ハイブリッド。",
+  "target": "『永遠のアセリア』を遊んだ層、神話的世界観と多元宇宙シナリオを腰を据えて読みたい 20-40 代の VN ファン。SRPG パートの高難度を込みで楽しめる骨太層。",
+  "slug": "seinarukana-the-spirit-of-eternity-sword-2",
+  "file": "data/games/1903-seinarukana-the-spirit-of-eternity-sword-2.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E8%81%96%E3%81%AA%E3%82%8B%E3%81%8B%E3%81%AA",
+    "https://store.steampowered.com/app/445430/Seinarukana_The_Spirit_of_Eternity_Sword_2/",
+    "https://www.4gamer.net/games/145/G014529/",
+    "https://www.famitsu.com/news/201112/22007565.html"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1910,
+  "title_jp": "Bullet Butlers",
+  "title_en": "Bullet Butlers",
+  "developer": "Propeller",
+  "publisher": "Propeller",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/ノワール・ファンタジー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『あやかしびと』の東出祐一郎が手がけたノワール・ファンタジー伝奇ADVとして話題に。2007年の美少女ゲームアワードでメディア支援賞を受賞し、小学館ガガガ文庫で小説化された。",
+  "concept": "ドラゴンの末裔と異種族が共存する街オセロトを舞台に、執事リックが主を護るために銃と魔法を振るうノワール調の伝奇ビジュアルノベル。重厚なガンアクションと「八英雄と無名の従者」の伝承が交錯する濃密な群像劇。",
+  "target": "東出祐一郎・あやかしびと系の重厚伝奇ADVを好む20-40代男性層。銃撃戦・ハードボイルド・ダークファンタジーを文章で読みたいビジュアルノベル愛好家。",
+  "slug": "bullet-butlers",
+  "file": "data/games/1910-bullet-butlers.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/Bullet_Butlers",
+    "https://www.igdb.com/games/bullet-butlers",
+    "https://vndbreview.blogspot.com/2020/06/bullet-butlers-propeller.html",
+    "https://vnstat.net/novel/445"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

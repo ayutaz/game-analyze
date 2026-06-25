@@ -1,0 +1,28 @@
+{
+  "id": 1671,
+  "title_jp": "ロックマンX2",
+  "title_en": "Mega Man X2",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロール2Dアクション",
+  "sales_jp": "0.43M",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Xシリーズ歴代2位（国内）の売上を記録。Cx4チップ搭載でグラフィックと演出を強化し、本作以降はゲーム開始時点でダッシュが標準装備となった点が当時話題となった。",
+  "concept": "前作『ロックマンX』の続編として、Cx4チップによる擬似3D演出や強化された敵AIで難度と表現力を底上げした横スクロール2Dアクション。8体のボスを任意順で攻略し、能力を奪って成長するメトロイドヴァニア的構造を継承する。",
+  "target": "前作ロックマンXを遊んだ20-40代のアクションゲーマー、SFC黄金期の高難度2Dアクションを好む層、シリーズコレクターやレトロゲームファン。",
+  "slug": "mega-man-x2",
+  "file": "data/games/1671-mega-man-x2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mega_Man_X2",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3X2",
+    "https://x.com/ROCKMAN_LIBRARY/status/1590140928110759936",
+    "https://sjgamesukisuki.com/rockman-rekidai/"
+  ]
+}

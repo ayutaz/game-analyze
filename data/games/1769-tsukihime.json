@@ -1,0 +1,31 @@
+{
+  "id": 1769,
+  "title_jp": "月姫",
+  "title_en": "Tsukihime",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2000,
+  "platform": [
+    "PC"
+  ],
+  "genre": "伝奇ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown (同人累計、ひぐらし・東方と並ぶ「同人三大奇跡」)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "同人サークル TYPE-MOON の第1作にして「同人三大奇跡」の一角。奈須きのこの伝奇シナリオが熱狂的支持を集め、後の Fate/stay night・型月世界の起点となった。",
+  "concept": "吸血鬼と「死の線」が見える主人公を軸にした伝奇ビジュアルノベル。アルクェイド／シエル／秋葉ら 5 ヒロインの分岐ルートで「死」と「異形」を巡る物語を読み解いていく、NScripter ベースのテキスト主体作品。",
+  "target": "伝奇・吸血鬼ものを好む 10 代後半～30 代の男性ノベルゲーマー層。Fate シリーズや型月世界に興味を持つファン、同人ゲーム黎明期の名作を遡って体験したい層。",
+  "slug": "tsukihime",
+  "file": "data/games/1769-tsukihime.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tsukihime",
+    "https://ja.wikipedia.org/wiki/%E6%9C%88%E5%A7%AB_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "http://typemoon.com/products/tsukihime/",
+    "https://www.famitsu.com/news/202108/26231377.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

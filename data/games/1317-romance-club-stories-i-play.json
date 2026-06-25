@@ -1,0 +1,35 @@
+{
+  "id": 1317,
+  "title_jp": "Romance Club",
+  "title_en": "Romance Club - Stories I Play",
+  "developer": "Your Story Interactive",
+  "publisher": "Your Story Interactive",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "インタラクティブ・ビジュアルノベル/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "モルドバ発の独立スタジオが世界 5,000 万 DL を達成。Dracula: A Love Story や Heaven's Secret など高品質な分岐型恋愛・ファンタジー・ホラー作品群で、欧州の女性向けインタラクティブストーリー市場を Episode/Choices と並ぶ規模に押し上げた。",
+  "concept": "選択肢で分岐する複数エンディング型のビジュアルノベル集。1 アプリ内に Dracula / Heaven's Secret / Legend of the Willow など数十本のロマンス・ファンタジー・ミステリーが収録され、衣装・シーン・キャラ関係がプレイヤーの選択で変化する。",
+  "target": "10-30 代の女性層中心。スマホで気軽に読める恋愛・ファンタジー小説的体験を求める層と、Episode / Choices: Stories You Play などのチョイス型 IF を好む層。",
+  "slug": "romance-club-stories-i-play",
+  "file": "data/games/1317-romance-club-stories-i-play.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/romance-club-stories-i-play/id1300588558",
+    "https://play.google.com/store/apps/details?id=com.yourstoryinteractive.sails.pirate.adventure",
+    "https://apptica.com/blog/market-research-case-of-interactive-novels/",
+    "https://romance-club.fandom.com/wiki/Romance_Club_Wiki"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

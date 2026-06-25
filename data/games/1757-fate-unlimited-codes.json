@@ -1,0 +1,32 @@
+{
+  "id": 1757,
+  "title_jp": "Fate/unlimited codes",
+  "title_en": "Fate/unlimited codes",
+  "developer": "Cavia / Eighting",
+  "publisher": "Capcom",
+  "year": 2008,
+  "platform": [
+    "Arcade",
+    "PS2",
+    "PSP"
+  ],
+  "genre": "3D対戦格闘",
+  "sales_jp": "PSP版初週3.4万本",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "TYPE-MOON『Fate/stay night』のサーヴァント・マスター陣を3D格闘で動かせる初の本格対戦格闘作。アーケード稼働時はFate人気と相まって店舗対戦が盛り上がり、PSP版は通信対戦対応で家庭用ファン層にも浸透した。",
+  "concept": "『Fate/stay night』のキャラクターを3Dアリーナ格闘ゲームに落とし込み、宝具発動や原作再現の必殺技で「もしあの英霊同士が戦ったら」を実演する公式オールスター対戦格闘。CaviaがプランしEightingが開発、Capcomが販売した珍しい座組み。",
+  "target": "Fate/stay nightの原作（PCゲーム・アニメ）ファンと、Capcom系2D/3D格闘ゲーマーの両層。キャラ愛で触る層と、アーケード対戦勢の両方を狙ったクロスオーバー型タイトル。",
+  "slug": "fate-unlimited-codes",
+  "file": "data/games/1757-fate-unlimited-codes.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/Unlimited_Codes",
+    "https://consoledictionary.com/page.php?pid=15137&t=games",
+    "https://game.watch.impress.co.jp/docs/review/300775.html",
+    "https://www.e-capcom.com/fate_uc_psp/"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1893,
+  "title_jp": "うたわれるもの 偽りの仮面",
+  "title_en": "Utawarerumono: Mask of Deception",
+  "developer": "AQUAPLUS",
+  "publisher": "AQUAPLUS",
+  "year": 2015,
+  "platform": [
+    "PS3",
+    "PS4",
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "ADV/シミュレーションRPG",
+  "sales_jp": "100k+ (初週国内 PS3/4/Vita 計 約 55,580 本)",
+  "sales_world": "100k+ (発売5日で出荷10万本超、PC版は2020年に追加)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "前作『うたわれるもの』から約13年ぶりの続編として話題化。豪華声優陣（藤原啓治・水樹奈々・種田梨沙ら）と長尺の和風ファンタジー物語、SRPG パートの戦術性で熱心なファン層を獲得し、2017年に欧米版、2020年に Steam 版が出て国際的にも展開した。",
+  "concept": "古代和風ファンタジー世界を舞台にした長編アドベンチャー＋ヘックスベースのシミュレーションRPG。記憶喪失の主人公ハクが「偽りの仮面」の少女クオンや個性的な仲間たちと旅をする物語を、膨大な会話シーンと戦闘パートで読み進める三部作の第二章。",
+  "target": "ビジュアルノベル／和風ファンタジーRPG好き、前作『うたわれるもの』ファン、Leaf／AQUAPLUS の長尺シナリオを腰を据えて楽しみたい 20-40 代のコア層。",
+  "slug": "utawarerumono-mask-of-deception",
+  "file": "data/games/1893-utawarerumono-mask-of-deception.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Utawarerumono:_Mask_of_Deception",
+    "https://aquaplus.jp/uta/itsu/",
+    "https://dengekionline.com/elem/000/001/131/1131468/",
+    "https://store.steampowered.com/app/1149550/Utawarerumono_Mask_of_Deception/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

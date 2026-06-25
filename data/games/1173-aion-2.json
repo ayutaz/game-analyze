@@ -1,0 +1,34 @@
+{
+  "id": 1173,
+  "title_jp": "Aion 2",
+  "title_en": "AION 2",
+  "developer": "NCSOFT",
+  "publisher": "NCSOFT",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "G-STAR 2025 では試遊に 3 時間待ちの大行列ができ、2025 年 11 月 19 日に韓国・台湾で PC／モバイル同時リリース。原作「タワー オブ アイオン」を Unreal Engine 5 で再構築し、グローバルでは 2026 年下半期に Steam および NCSOFT 独自プラットフォーム PURPLE で配信予定。",
+  "concept": "初代の 36 倍以上に拡張されたフィールドと「飛行」を含む多次元移動、手動操作のアクション戦闘を軸にした次世代 MMORPG。PC とモバイルのクロスプレイ、サーバー間 PvP（RvR）、UE5 製のハイエンドグラフィックを売りに「タワー オブ アイオン」シリーズの 17 年ぶりの正統続編として再解釈された。",
+  "target": "初代 AION / Lineage / 黒い砂漠などを遊んできた韓国系重課金 MMORPG コア層、UE5 で蘇る大規模 PvP・飛行戦闘を求めるプレイヤー、PC とモバイルを行き来したいクロスプラットフォーム志向のユーザー。",
+  "slug": "aion-2",
+  "file": "data/games/1173-aion-2.json",
+  "_source_urls": [
+    "https://en.sedaily.com/technology/2026/04/22/ncsofts-flagship-mmorpg-aion-2-to-launch-globally-in-h2",
+    "https://www.nc.com/newsroom/news/articles/?articleId=691bd578e81e402e6da165a5&boardLanguage=en",
+    "https://www.4gamer.net/games/440/G044032/20251114010/",
+    "https://www.gamer.ne.jp/news/202511150008/",
+    "https://aion2.ncsoft.jp/en/contents",
+    "https://mmos.com/news/aion-2-confirmed-global-launch-september"
+  ]
+}

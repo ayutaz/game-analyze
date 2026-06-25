@@ -1,0 +1,32 @@
+{
+  "id": 1193,
+  "title_jp": "Destiny Child",
+  "title_en": "Destiny Child",
+  "developer": "Shift Up",
+  "publisher": "LINE Games / Shift Up",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ナラティブCCG/ガチャRPG",
+  "sales_jp": "—",
+  "sales_world": "事前登録 150 万超、グローバル累計 5M+ DL（2023-09 サービス終了）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "Kim Hyung-tae 主導の高品質キャラアートと Live2D アニメーションで「美少女ガチャ × 神話モチーフ」を確立。韓国 Google Play / App Store セールス首位デビューを果たし、後の Stellar Blade (Shift Up) ブランドの礎となった。",
+  "concept": "悪魔と契約した主人公が世界中の女神 (Child) を集め、神話伝説をモチーフにした美少女たちと共に冥府の覇権争いに挑むナラティブ・コレクション CCG。バトルは横スクロールの 5 体パーティ制で、Live2D による濃密なキャラ演出が売り。",
+  "target": "美少女ガチャ × ダークファンタジー世界観を好む 20-40 代男性層。Live2D 演出やキャラデザイン重視で長期にコレクションを楽しみたいプレイヤー、Shift Up / Kim Hyung-tae 作品 (Blade & Soul, Stellar Blade) のファン層。",
+  "slug": "destiny-child",
+  "file": "data/games/1193-destiny-child.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Destiny_Child",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89",
+    "https://news.qoo-app.com/en/post/180539/destiny-child-shut-down",
+    "https://www.invenglobal.com/articles/6936/line-games-announces-global-launch-of-mobile-narrative-ccg-destiny-child"
+  ]
+}

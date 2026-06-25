@@ -1,0 +1,33 @@
+{
+  "id": 1830,
+  "title_jp": "Ever17 -the out of infinity-",
+  "title_en": "Ever17: The Out of Infinity",
+  "developer": "KID",
+  "publisher": "MAGES. / Spike Chunsoft",
+  "year": 2002,
+  "platform": [
+    "PS2",
+    "Dreamcast",
+    "PC",
+    "PSP",
+    "iOS",
+    "Android"
+  ],
+  "genre": "SFサスペンス・ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "打越鋼太郎による infinity シリーズ第2作で、メタ的トリックと多視点ループ構造の傑作として「ノベルゲーム史上の金字塔」と評され、2025年にはリマスター版も発表されカルト的人気が再燃。",
+  "concept": "海底テーマパーク「LeMU」に閉じ込められた男女が脱出を試みるSFサスペンス・アドベンチャー。複数視点ルートを跨ぐことで初めて全貌が見える「メタ構造の叙述トリック」を売りにしている。",
+  "target": "ノベルゲーム/ビジュアルノベルを物語として読み解きたい層、SFサスペンス・叙述トリック愛好家、打越鋼太郎作品（極限脱出/AI: ソムニウム ファイル）のファン。",
+  "slug": "ever17-the-out-of-infinity",
+  "file": "data/games/1830-ever17-the-out-of-infinity.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ever_17:_The_Out_of_Infinity",
+    "https://ja.wikipedia.org/wiki/Ever17_-the_out_of_infinity-",
+    "https://automaton-media.com/articles/newsjp/never7-ever17-20241125-319298/",
+    "https://www.gematsu.com/games/ever-17-the-out-of-infinity-2025"
+  ]
+}

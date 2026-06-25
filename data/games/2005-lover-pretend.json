@@ -1,0 +1,29 @@
+{
+  "id": 2005,
+  "title_jp": "ラブプリテンド",
+  "title_en": "Lover Pretend",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー（乙女ゲーム）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "オトメイトの完全新作乙女ゲームとして2021年3月25日にNintendo Switchで発売、2022年12月にAksys Gamesが英語版をリリースし国内外の乙女ゲームファンに受容された。脚本家志望のヒロインが「偽の恋愛」を題材に経験を積むという捻ったプロットが話題に。",
+  "concept": "脚本家志望のヒロインが恋愛経験不足を補うため映画の役作りと称して「フリ恋人」を演じ合う乙女ADV。フェイク・ロマンスから本物の感情が芽生える過程を読ませる、フルボイスのテキスト中心ノベル型乙女ゲーム。",
+  "target": "10-30代女性、特にオトメイト作品を継続的にプレイする乙女ゲームファン層。フルボイス・甘い恋愛・複数ルートの読み比べを楽しみたい層に刺さる。",
+  "slug": "lover-pretend",
+  "file": "data/games/2005-lover-pretend.json",
+  "_source_urls": [
+    "https://www.otomate.jp/lp/",
+    "https://aksysgames.com/products/switch-lover-pretend/",
+    "https://www.nintendo.com/us/store/products/lover-pretend-switch/",
+    "https://bs-log.com/20210325_1412907",
+    "https://www.nintendolife.com/games/nintendo-switch/lover_pretend"
+  ]
+}

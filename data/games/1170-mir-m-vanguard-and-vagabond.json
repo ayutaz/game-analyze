@@ -1,0 +1,35 @@
+{
+  "id": 1170,
+  "title_jp": "MIR M：ヴァンガード&ヴァガボンド",
+  "title_en": "MIR M: Vanguard and Vagabond",
+  "developer": "Wemade",
+  "publisher": "Wemade",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG（クロスプレイ・ブロックチェーン P&E）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『伝奇 (Legend of Mir 2)』IP のリメイク MMO として 2022 年 6 月に韓国でリリース、2023 年 1 月に 170 か国以上へグローバル展開。MIR4 に続く Wemade の P&E (Play & Earn) ブロックチェーン MMO として注目を集めた。",
+  "concept": "『伝奇 2』の世界観を 8 方向グリッド + クォータービューで再構築したクロスプレイ型 MMORPG。戦闘特化の「ヴァンガード」と生産・交易特化の「ヴァガボンド」という二系統の生き方を選び、クランによる大規模攻城・狩場争奪と P&E トークン経済が骨子になっている。",
+  "target": "韓国・東南アジア・中華圏の MMORPG ヘビーユーザー、ハードコアな攻城戦・経済シミュレーション・ブロックチェーン稼ぎを志向するプレイヤー。日本では同タイプの旧作 MIR ファンと P&E 層に限定的に届く位置。",
+  "slug": "mir-m-vanguard-and-vagabond",
+  "file": "data/games/1170-mir-m-vanguard-and-vagabond.json",
+  "_source_urls": [
+    "https://www.invenglobal.com/articles/17584/wemade-launches-mir-m-vanguard-and-vagabond-with-pe-version-coming-soon",
+    "https://www.businesswire.com/news/home/20230131005535/en/Wemades-New-MMORPG-MIR-M-Vanguard-Vagabond-Launches-Worldwide",
+    "https://mmoculture.com/2022/04/mir-m-vanguard-vagabond-wemade-begins-pre-registration-for-remake-of-classic-mmorpg/",
+    "https://gamingonphone.com/news/mir-m-vanguard-and-vagabond-wemades-new-mmorpg-is-now-available-on-android-and-ios/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

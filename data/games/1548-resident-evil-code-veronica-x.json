@@ -1,0 +1,33 @@
+{
+  "id": 1548,
+  "title_jp": "バイオハザード コード:ベロニカ 完全版",
+  "title_en": "Resident Evil Code: Veronica X",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2001,
+  "platform": [
+    "PS2",
+    "Dreamcast",
+    "GameCube",
+    "PS3",
+    "Xbox 360"
+  ],
+  "genre": "サバイバルホラー/アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "2.54M+ (Dreamcast 1.14M + PS2 1.4M)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ初の本格ナンバリング外伝として南極基地・アシュフォード家を描いた人気作。Dreamcast 版（2000）の追加要素入り完全版として PS2 等にマルチ展開され、後に PS3/Xbox 360 で HD リマスター化された息の長いタイトル。",
+  "concept": "クリスとクレアの兄妹を主役に据え、隔絶された南極施設と狂気のアシュフォード家を舞台にした固定カメラ式サバイバルホラー。限られた弾薬と謎解きで進行するクラシック・バイオの集大成的作品。",
+  "target": "初代〜3 のクラシック・バイオファン、固定カメラ型サバイバルホラーを好む 20-40 代男性中心層、ホラー物語を腰を据えて遊びたい層。",
+  "slug": "resident-evil-code-veronica-x",
+  "file": "data/games/1548-resident-evil-code-veronica-x.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Resident_Evil_%E2%80%93_Code:_Veronica",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%8F%E3%82%B6%E3%83%BC%E3%83%89_CODE:Veronica",
+    "https://www.capcom-games.com/product/ja-jp/residentevil-codeveronica/"
+  ]
+}

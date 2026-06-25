@@ -1,0 +1,36 @@
+{
+  "id": 1126,
+  "title_jp": "Vikings: War of Clans",
+  "title_en": "Vikings: War of Clans",
+  "developer": "Plarium",
+  "publisher": "Plarium",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Browser"
+  ],
+  "genre": "MMOストラテジー（クラン戦争）",
+  "sales_jp": "—",
+  "sales_world": "$1B+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2015年配信開始のヴァイキング世界観MMOストラテジー。Plariumの主力タイトルとして長期運営され、2023年時点でも年間20M USD超を稼ぐ重課金クラン戦争ゲームとして定着している。",
+  "concept": "ヴァイキングの首長となり街を発展させ、軍隊を訓練し、英雄を育成しながら世界中のプレイヤーとクラン単位で領地と要所を奪い合うMMOストラテジー。クラン同士の同盟・裏切り・大規模戦争が中核体験。",
+  "target": "Game of War / Lords Mobile 系の重課金クラン戦争MMOを長期で遊ぶ20-50代男性中心層。歴史・北欧神話モチーフを好み、リアルタイムの政治・外交・連合戦に時間を投資できるコアモバイル層。",
+  "slug": "vikings-war-of-clans",
+  "file": "data/games/1126-vikings-war-of-clans.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Vikings:_War_of_Clans",
+    "https://plarium.com/en/game/vikings-war-of-clans/",
+    "https://sensortower.com/ios/us/plarium-llc/app/vikings-war-of-clans/966810173/",
+    "https://appmagic.rocks/blog/plarium/?hl=en"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

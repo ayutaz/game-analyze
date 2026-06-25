@@ -1,0 +1,31 @@
+{
+  "id": 1817,
+  "title_jp": "祝姫",
+  "title_en": "Iwaihime",
+  "developer": "07th Expansion",
+  "publisher": "DMM.com",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS4",
+    "PS Vita"
+  ],
+  "genre": "和風伝奇ホラーノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "竜騎士07（ひぐらし／うみねこ作者）×和遥キナのタッグで「呪い」をテーマにした和風伝奇ホラーとして話題に。2017年に日本一ソフトウェアから『祝姫 -祀-』としてPS4/PS Vita版が発売され、2020年にSteam国際版で英訳がリリースされた。",
+  "slug": "iwaihime",
+  "file": "data/games/1817-iwaihime.json",
+  "concept": "「呪い」をテーマに、竜騎士07が約3年かけて書き上げた和風伝奇ホラーノベル。古い因習が残る土地と祝姫と呼ばれる少女を巡る怪異を、シナリオ重視のサウンドノベル形式で読み解かせる。",
+  "target": "ひぐらし／うみねこ等の竜騎士07作品ファン、和風ホラー・伝奇ノベルが好きな読み物指向のプレイヤー層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E7%A5%9D%E5%A7%AB",
+    "https://07th-expansion.net/kyu/ih/index.html",
+    "https://nippon1.jp/consumer/iwaihime/",
+    "https://store.steampowered.com/app/1372300/Iwaihime/",
+    "https://www.gematsu.com/2017/04/nis-announces-iwaihime-matsuri-ps4-ps-vita"
+  ]
+}

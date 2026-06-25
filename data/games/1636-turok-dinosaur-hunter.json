@@ -1,0 +1,28 @@
+{
+  "id": 1636,
+  "title_jp": "ターロック 恐竜ハンター",
+  "title_en": "Turok: Dinosaur Hunter",
+  "developer": "Iguana Entertainment",
+  "publisher": "Acclaim",
+  "year": 1997,
+  "platform": [
+    "N64",
+    "PC"
+  ],
+  "genre": "FPS（一人称視点シューティング）",
+  "sales_jp": "—",
+  "sales_world": "1.50M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "N64 黎明期を代表する 3D FPS の一本で、世界累計 150 万本超を売り上げ Acclaim の四半期売上の 45% を叩き出した救世主タイトル。日本では『ゴールデンアイ 007』の影に隠れて地味だが、海外では本格 3D FPS の到来を告げた象徴的作品として語り継がれる。",
+  "concept": "古代と近未来が融合する異次元「ロストランド」を舞台に、戦士テュロックが恐竜と侵略者を一人称視点で狩る 3D FPS。広大なマップに鍵やパズルを散りばめ、ハードな探索性とゴア表現で N64 ローンチ世代の FPS 体験を切り拓いた。",
+  "target": "N64 / 90 年代 PC FPS をリアルタイムで遊んだコアゲーマー、恐竜・銃器・ゴア表現が好きな海外洋ゲー志向のプレイヤー、3D FPS 黎明期のクラシックを掘り起こしたいレトロ愛好家。",
+  "slug": "turok-dinosaur-hunter",
+  "file": "data/games/1636-turok-dinosaur-hunter.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter",
+    "https://ja.wikipedia.org/wiki/%E6%99%82%E7%A9%BA%E6%88%A6%E5%A3%AB%E3%83%86%E3%83%A5%E3%83%AD%E3%83%83%E3%82%AF",
+    "https://www.nintendolife.com/games/n64/turok_dinosaur_hunter"
+  ]
+}

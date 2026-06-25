@@ -1,0 +1,31 @@
+{
+  "id": 1965,
+  "title_jp": "まじこい！A",
+  "title_en": "Maji de Watashi ni Koi Shinasai!! A-1〜A-5",
+  "developer": "Minato Soft",
+  "publisher": "Minato Soft",
+  "year": 2013,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル / ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "本編 S のサブヒロイン・新キャラを主役に据えたファンディスクを A-1 から A-5 まで 2013 年を通じてリリース、シリーズ全体で長期コアファンを維持。",
+  "concept": "『まじこい！S』から派生し、本編で攻略不可だったサブヒロインや新キャラを 1 作 2-3 ヒロインずつ主役に据えた 5 本のファンディスク群。",
+  "target": "本編・S を遊び込んだコアファン層。サブキャラに思い入れがあり、追加ルートを個別購入してでも回収したいアダルト VN 愛好者向け。",
+  "slug": "maji-de-watashi-ni-koi-shinasai-a-1-a-5",
+  "file": "data/games/1965-maji-de-watashi-ni-koi-shinasai-a-1-a-5.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Maji_de_Watashi_ni_Koi_Shinasai!",
+    "https://majikoi.fandom.com/wiki/Maji_de_Watashi_ni_Koi_Shinasai_A",
+    "https://majikoi.fandom.com/wiki/Maji_koi_A-1",
+    "http://www.minatosoft.com/majikoi/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

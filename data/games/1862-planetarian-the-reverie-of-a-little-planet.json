@@ -1,0 +1,32 @@
+{
+  "id": 1862,
+  "title_jp": "planetarian 〜ちいさなほしのゆめ〜",
+  "title_en": "Planetarian: The Reverie of a Little Planet",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2004,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "キネティックノベル/ポストアポカリプス",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 初の「キネティックノベル」を冠した短編ノベル。選択肢を排しゆめみという星の夢を語る一本道構成が支持され、2016 年に David Production がアニメ化映画化、Steam・Switch と多展開を続ける長期 IP に。",
+  "concept": "プレイヤー選択肢を排した「読むだけ」のキネティックノベルとして、ポストアポカリプスの廃墟プラネタリウムでロボット「ほしのゆめみ」と廃品回収屋が出会う約 4 時間の中編を、一本道で体験させる作品。",
+  "target": "Key / 泣きゲー / Air・Kanon・CLANNAD 系の余韻あるノベル文学を好む層、SF 短編・星新一的余韻を求める読者、長編大作に時間を割けないがビジュアルノベルの情感は味わいたい層。",
+  "slug": "planetarian-the-reverie-of-a-little-planet",
+  "file": "data/games/1862-planetarian-the-reverie-of-a-little-planet.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Planetarian:_The_Reverie_of_a_Little_Planet",
+    "https://www.gematsu.com/2024/04/planetarian-the-reverie-of-a-little-planet-snow-globe-announced-for-switch",
+    "https://keyvisualarts.fandom.com/wiki/Planetarian"
+  ]
+}

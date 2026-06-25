@@ -1,0 +1,30 @@
+{
+  "id": 1656,
+  "title_jp": "エストポリス伝記II",
+  "title_en": "Lufia II: Rise of the Sinistrals",
+  "developer": "Neverland",
+  "publisher": "Taito / Natsume / Nintendo",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "RPG（パズル要素入りシンボルエンカウント）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "SFC末期の隠れた名作として国内外で高評価。シンボルエンカウント＋謎解きダンジョン、ランダム生成の「古代の洞窟」、カプセルモンスター育成など独自要素と、シリーズ前作の前日譚として描かれる悲劇的なエンディングが語り継がれている。",
+  "slug": "lufia-ii-rise-of-the-sinistrals",
+  "file": "data/games/1656-lufia-ii-rise-of-the-sinistrals.json",
+  "concept": "ランダムエンカウントを廃したシンボル接触＋ブロック押しなどのダンジョン謎解きで、戦闘と探索の双方を「考えて遊ぶ」体験に振り切った 1995 年の SFC RPG。前作『エストポリス伝記』のオープニングで描かれた四狂神討伐の真相を辿る前日譚として、戦闘の手応えと悲恋的な物語を両立させた。",
+  "target": "SFC〜PS1 期の和製 RPG を遊んだ 30–50 代のコアプレイヤー、パズル要素のあるダンジョン探索や育成 RPG が好きな層、シリーズ前作とつながるシナリオを味わいたいファン。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Lufia_II:_Rise_of_the_Sinistrals",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%88%E3%83%9D%E3%83%AA%E3%82%B9%E4%BC%9D%E8%A8%98II",
+    "https://www.famitsu.com/games/t/8944/",
+    "https://www.nintendolife.com/games/snes/lufia_ii_rise_of_the_sinistrals"
+  ]
+}

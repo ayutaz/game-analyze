@@ -1,0 +1,29 @@
+{
+  "id": 2057,
+  "title_jp": "Tokyo Necro 死街地獄篇",
+  "title_en": "Tokyo Necro: Suicide Mission",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus / JAST USA",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サイバーパンク・ノベル（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Nitroplus が初めて 3DCG を背景・メカ・人物・戦闘シーンまで全面導入した実験作として国内 VN ファンの間で話題になり、2023 年に JAST USA から Steam / GOG / JAST Store で英語版が配信されたことで海外 VN コミュニティでも再評価された。",
+  "concept": "西暦 2199 年、生態系崩壊と新氷河期に沈んだ東京を舞台に、リビングデッド・ストーカーの主人公が記憶を失った少女と出会い、ネクロマンサーと都市の陰謀を暴いていくサイバーパンク・ハードボイルドノベル。3DCG による全編フルアニメーション戦闘とグロ表現が前面に出る。",
+  "target": "硬派なサイバーパンク／伝奇 SF を好む 20-40 代の VN 読者層と、Nitroplus 作品（沙耶の唄／鬼哭街／PHANTOM／Saya no Uta）のファン。グロ・残酷描写・百合要素を許容できる読み手向け。",
+  "slug": "tokyo-necro-suicide-mission",
+  "file": "data/games/2057-tokyo-necro-suicide-mission.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2183070/Tokyo_Necro/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/TokyoNecro",
+    "https://noisypixel.net/nitroplus-tokyo-necro-visual-novel-english-launch/",
+    "https://operationrainfall.com/2023/03/13/tokyo-necro-is-out-now/",
+    "https://www.wikidata.org/wiki/Q22128790"
+  ]
+}

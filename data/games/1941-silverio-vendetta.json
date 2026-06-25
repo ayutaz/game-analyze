@@ -1,0 +1,32 @@
+{
+  "id": 1941,
+  "title_jp": "シルヴァリオ サーガ ヴェンデッタ",
+  "title_en": "Silverio Vendetta",
+  "developer": "Light",
+  "publisher": "Light",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PS Vita"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "シルヴァリオサーガ第1作として陵牙隊シリーズの系譜を継ぐ厨二バトル伝奇ノベルとして熱狂的支持を獲得。2016年に PS Vita 版『Verse of Orpheus』、後に Steam 配信され海外ファン層も拡大。",
+  "concept": "敗者の逆襲と「英雄譚」を主題に、星霊（アストラル）能力者同士の異能バトルを濃厚な高浜亮シナリオで描く伝奇ビジュアルノベル。シルヴァリオサーガ三部作の幕開けを飾る一作。",
+  "target": "Dies irae 以降の light 作品を追ってきた厨二バトル・伝奇ノベル愛好層、濃密な台詞回しと演説的な熱量を求める美少女ゲーム読者層。",
+  "slug": "silverio-vendetta",
+  "file": "data/games/1941-silverio-vendetta.json",
+  "_source_urls": [
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=21143",
+    "https://store.steampowered.com/app/1347590/_Verse_of_Orpheus/",
+    "https://dic.pixiv.net/a/%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%AA%E3%82%AA_%E3%83%B4%E3%82%A7%E3%83%B3%E3%83%87%E3%83%83%E3%82%BF",
+    "https://www.cdjapan.co.jp/product/LIGHT-7953"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2064,
+  "title_jp": "FATAL TWELVE",
+  "title_en": "Fatal Twelve",
+  "developer": "aiueoKompany",
+  "publisher": "Sekai Project",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "サスペンスビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Kickstarter で英語化資金を調達し Sekai Project から世界配信、Steam で「非常に好評」評価を獲得した百合×デスゲーム VN として海外コミュニティで話題化。",
+  "concept": "不慮の事故で命を落とした 12 人が「神の選定」と呼ばれる 12 週間のデスゲームに参加し、生き残った 1 人だけが死を取り消せる──ミステリ×百合×ループ構造のサスペンスビジュアルノベル。",
+  "target": "Steins;Gate や ダンガンロンパ のような群像デスゲーム／伏線回収型 ADV を好む 20-40 代の VN ファン層。百合・女性主人公・推理要素を併せ持つ作品を探している海外含む読み専層。",
+  "slug": "fatal-twelve",
+  "file": "data/games/2064-fatal-twelve.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/620210/Fatal_Twelve/",
+    "http://fatal12.com/en.html",
+    "https://sekaiproject.com/product/fatal-twelve/",
+    "https://www.kickstarter.com/projects/sekaiproject/fatal-twelve-a-thrilling-mystery-vn-with-full-voic",
+    "https://fataltwelve.fandom.com/wiki/Fatal_Twelve"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

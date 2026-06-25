@@ -1,0 +1,30 @@
+{
+  "id": 1770,
+  "title_jp": "月姫 PLUS-DISC",
+  "title_en": "Tsukihime PLUS-DISC",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2001,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "同人サークル TYPE-MOON が『月姫』本編購入特典として 2001 年 1 月の Sunshine Creation で配布、後日単体頒布。短編「幻視同盟」やメタフィクション「げっちゃ」、『空の境界』冒頭収録などファン必携アイテムとして語り継がれる。",
+  "concept": "『月姫』本編のバグ修正パッチ＋短編シナリオ＋スタッフ遊びを束ねたファンディスク。幻視同盟の短編 NAR と、Ahnenerbe を舞台にしたメタ雑談「げっちゃ」シリーズで本編の余白を埋める。",
+  "target": "『月姫』本編をプレイ済みのコアファン層。TYPE-MOON 世界観の周辺情報・裏話・没設定まで含めて消費したい読者。",
+  "slug": "tsukihime-plus-disc",
+  "file": "data/games/1770-tsukihime-plus-disc.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%9C%88%E5%A7%ABPLUS-DISC",
+    "https://typemoon.fandom.com/wiki/Tsukihime_PLUS-DISC",
+    "http://www.typemoon.org/works/plus.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

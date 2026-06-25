@@ -1,0 +1,32 @@
+{
+  "id": 1250,
+  "title_jp": "クラッシュバンディクー オン・ザ・ラン！",
+  "title_en": "Crash Bandicoot: On the Run!",
+  "developer": "King",
+  "publisher": "King / Activision",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "エンドレスランナー/アクション",
+  "sales_jp": "—",
+  "sales_world": "34M+ DL（2021/04時点・Sensor Tower、2023/02 サービス終了）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "Candy Crush の King が手掛けた初の Crash 公式モバイル作品として 2021/03 配信開始、1週間で 27M DL（世界 2 位）、3 週間で 34M DL を突破し話題に。一方で IAP 収益は $1.2M 止まりと収益性が伸びず 2023/02 にサービス終了。",
+  "concept": "オリジナル PS 版『クラッシュ・バンディクー』のステージ感をエンドレスランナー化し、アクータと共に島々を駆け抜けながらボスを攻略する F2P モバイル。チーム制の非同期マルチや武器クラフトでセッション間の継続動機を作る設計。",
+  "target": "原作 PS1 世代の 30-40 代懐古層と、Subway Surfers 等のランナーで遊ぶライト層。短時間プレイで Crash の世界観を味わいたいモバイルカジュアル層。",
+  "slug": "crash-bandicoot-on-the-run",
+  "file": "data/games/1250-crash-bandicoot-on-the-run.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crash_Bandicoot:_On_the_Run!",
+    "https://venturebeat.com/games/sensor-tower-crash-bandicoot-on-the-run-dashes-to-27-million-downloads/",
+    "https://gameworldobserver.com/2021/04/19/crash-bandicoot-on-the-run-surpasses-1-2-million-in-revenue-hits-over-34-million-downloads",
+    "https://www.gamedeveloper.com/business/king-s-mobile-crash-bandicoot-game-shutting-down-in-february-2023",
+    "https://www.businesswire.com/news/home/20210325005222/en/Get-Ready-For-The-Run-Of-A-Lifetime-As-Crash-Bandicoot%E2%84%A2-Is-Unleashed-On-Mobile-Worldwide"
+  ]
+}

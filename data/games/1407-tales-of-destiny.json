@@ -1,0 +1,31 @@
+{
+  "id": 1407,
+  "title_jp": "テイルズ オブ デスティニー",
+  "title_en": "Tales of Destiny",
+  "developer": "Wolf Team",
+  "publisher": "Namco",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "PS2"
+  ],
+  "genre": "RPG（アクションRPG／リニアモーションバトルシステム）",
+  "sales_jp": "1M+",
+  "sales_world": "1.14M",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『テイルズ オブ』シリーズで初のミリオンセラーとなったPS黄金期のJRPG。OP主題歌『夢であるように』とソーディアン（意思を持つ剣）たちとの旅、終盤の悲痛な展開が長く語り継がれる。",
+  "concept": "リニアモーションバトルシステム（LMBS）による格闘ゲーム的な2Dアクション戦闘と、ソーディアンと呼ばれる意思を持つ剣を巡る王道ストーリーを融合させたアクションRPG。シリーズの「キャラクター×戦闘×物語」の方向性を確立した転換点。",
+  "target": "PS時代に育った10代後半〜30代のJRPGファン、特にFFやドラクエとは異なる「アクション戦闘＋仲間との掛け合い」を楽しみたい層。2006年のPS2リメイクで再評価されたシリーズファンも含む。",
+  "slug": "tales-of-destiny",
+  "file": "data/games/1407-tales-of-destiny.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_Destiny",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC",
+    "https://www.famitsu.com/news/202112/23245423.html",
+    "https://www.bandainamcoent.co.jp/corporate/press/namco/1997/1997_december/news_december06.html"
+  ]
+}

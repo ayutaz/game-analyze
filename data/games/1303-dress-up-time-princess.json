@@ -1,0 +1,32 @@
+{
+  "id": 1303,
+  "title_jp": "Time Princess（時光公主）",
+  "title_en": "Dress Up! Time Princess",
+  "developer": "IGG Singapore",
+  "publisher": "IGG",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "着せ替え/ストーリー型RPG",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "フランス革命期や大正時代など各国・各時代の衣装を3Dで着せ替えできる仕様と、選択肢で結末が変わるマルチエンディング小説が女性層・アジア圏で話題に。台湾・中華圏では「時光公主」名義でロングランしている。",
+  "concept": "「物語の主人公として時代と国境を超え、衣装を集めて着せ替えながら多重結末の物語を読み解く」3Dドレスアップ×ノベルRPG。コレクション（衣装ガチャ）と物語消費を同時に成立させたハイブリッド型。",
+  "target": "10-30代女性、特に乙女ゲーム・着せ替えゲーム・歴史/時代衣装が好きな層。物語の分岐選択と美麗衣装コレクションの両方を楽しみたいライトゲーマー。",
+  "slug": "dress-up-time-princess",
+  "file": "data/games/1303-dress-up-time-princess.json",
+  "_source_urls": [
+    "https://dut.igg.com/",
+    "https://apps.apple.com/jp/app/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9/id1513265764",
+    "https://play.google.com/store/apps/details?id=com.igg.android.dressuptimeprincess&hl=ja",
+    "https://sensortower.com/ios/us/igg-com/app/time-princess-dress-up/1513265764/",
+    "https://onlinegame-pla.net/timeprincess/"
+  ]
+}

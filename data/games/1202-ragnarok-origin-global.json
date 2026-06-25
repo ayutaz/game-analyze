@@ -1,0 +1,31 @@
+{
+  "id": 1202,
+  "title_jp": "Ragnarok Origin Global",
+  "title_en": "Ragnarok Origin Global",
+  "developer": "Gravity",
+  "publisher": "Gravity Game Hub",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG（モバイル）",
+  "sales_jp": "—",
+  "sales_world": "2.7M+ DL（SEA 初週）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2023 年 SEA／グローバル版リリース。タイ・フィリピン・インドネシア展開後 6 日で 270 万 DL を突破し、App Store セールス 2 位／Google セールス 4 位を獲得。フィリピンで特に長期上位常連。",
+  "concept": "2002 年 PC「Ragnarok Online」の世界観と職業システムを 3D で再構築したモバイル MMORPG のグローバル版。原作のドット絵的なノスタルジーを残しつつ、装備強化・カード集め・ギルド戦をスマホ向けに最適化した育成型 MMO。",
+  "target": "元 RO プレイヤーの 30-40 代ノスタルジー層と、東南アジアの 10-20 代モバイル MMO ファン。コツコツ装備を強化しながらギルドで共闘したい長期育成志向の層。",
+  "slug": "ragnarok-origin-global",
+  "file": "data/games/1202-ragnarok-origin-global.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.gravity.roo.sea&hl=en",
+    "https://activeplayer.io/ragnarok-origin-global/",
+    "https://pinoytechsaga.blogspot.com/2023/02/ragnarok-origin-to-launch-in-sea-global.html",
+    "https://www.gravity.co.kr/en/games"
+  ]
+}

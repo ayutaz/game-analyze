@@ -1,0 +1,34 @@
+{
+  "id": 1644,
+  "title_jp": "ドラゴンクエストVI 幻の大地",
+  "title_en": "Dragon Quest VI: Realms of Revelation",
+  "developer": "Heartbeat",
+  "publisher": "Enix",
+  "year": 1995,
+  "platform": [
+    "SNES",
+    "DS",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ロールプレイングゲーム",
+  "sales_jp": "3.2M+",
+  "sales_world": "3.2M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "1995年国内320万本を売り上げ、SFC ソフト売上歴代3位を記録した「天空シリーズ」完結編。現実世界と幻の世界を行き来する二重世界構造と、誰もが勇者になれる転職システムで話題に。",
+  "slug": "dragon-quest-vi-realms-of-revelation",
+  "file": "data/games/1644-dragon-quest-vi-realms-of-revelation.json",
+  "concept": "現実の世界と幻の世界を行き来しながら「本当の自分」を探す壮大な物語と、誰もが勇者になれる転職システムを組み合わせた天空シリーズ完結編。堀井雄二脚本／鳥山明キャラ／すぎやまこういち音楽の黄金トリオで描く長編 RPG。",
+  "target": "10-40代の RPG ファン全般、特にドラクエ天空シリーズ（IV・V）を通ってきた層と、転職・パーティ育成の戦略性を楽しみたい層。SFC・DS・スマホで世代を跨いで遊ばれている。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dragon_Quest_VI",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88VI_%E5%B9%BB%E3%81%AE%E5%A4%A7%E5%9C%B0",
+    "https://www.famitsu.com/news/202212/09285455.html",
+    "https://www.jp.square-enix.com/game/detail/dq6/"
+  ]
+}

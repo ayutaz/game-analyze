@@ -1,0 +1,35 @@
+{
+  "id": 1465,
+  "title_jp": "アローン・イン・ザ・ダーク 新たなる悪夢",
+  "title_en": "Alone in the Dark: The New Nightmare",
+  "developer": "Darkworks",
+  "publisher": "Infogrames",
+  "year": 2001,
+  "platform": [
+    "PC",
+    "PS1",
+    "PS2",
+    "Dreamcast",
+    "Game Boy"
+  ],
+  "genre": "サバイバルホラー/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "1.4M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "3Dホラーアドベンチャー黎明期の代表作の一つとして、固定カメラ＋懐中電灯演出で『バイオハザード』『サイレントヒル』と並び評価された。2005年時点で世界累計約140万本を販売し、Steamでも再販されている。",
+  "concept": "孤島の屋敷を舞台にした固定カメラ視点のサバイバルホラー。懐中電灯で闇を払いながら謎を解き、限られた弾薬でクリーチャーと渡り合う「光と闇」の演出を中核に据えたシリーズ再起動作。",
+  "target": "90年代の元祖『アローン・イン・ザ・ダーク』ファンと、初代『バイオハザード』『サイレントヒル』系の固定カメラ型ホラーを好む海外/国内のホラーゲーマー。",
+  "slug": "alone-in-the-dark-the-new-nightmare",
+  "file": "data/games/1465-alone-in-the-dark-the-new-nightmare.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Alone_in_the_Dark:_The_New_Nightmare",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%80%E3%83%BC%E3%82%AF",
+    "https://www.4gamer.net/games/000/G000031/",
+    "https://store.steampowered.com/app/259190/Alone_in_the_Dark_The_New_Nightmare/",
+    "https://www.gamespark.jp/article/2024/03/15/139426.html"
+  ]
+}

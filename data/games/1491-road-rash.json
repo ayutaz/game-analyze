@@ -1,0 +1,32 @@
+{
+  "id": 1491,
+  "title_jp": "ロード・ラッシュ",
+  "title_en": "Road Rash",
+  "developer": "Electronic Arts / Monkey Do Productions",
+  "publisher": "Electronic Arts",
+  "year": 1996,
+  "platform": [
+    "PS1",
+    "Saturn",
+    "PC"
+  ],
+  "genre": "バイク・コンバットレース",
+  "sales_jp": "—",
+  "sales_world": "シリーズ累計 3M+ (1998 時点)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "公道バイクレース中に他ライダーや警官を殴る・蹴る・武器で叩き落とすという過激な暴力表現と、グランジ/パンク系の実写FMVカットシーンが当時のティーン層に強烈な印象を残し、3DO版で確立した「悪ガキレース」のイメージのまま PS1/Saturn/PC に拡散して欧米でカルト的人気を獲得した。",
+  "concept": "公道を走るストリートバイクレースに殴打アクションを融合させ、賞金で愛車を強化していく「無法者ロードレース」シリーズの 1996 年マルチプラットフォーム版。3DO 版 (1994) のゲームデザインを継承しつつ PS1/Saturn/PC 向けに再構築された。",
+  "target": "10-30 代男性、特にバイク・パンク・グランジカルチャー寄りのティーンとレースゲーマー。純粋なシムレース志向ではなく、ルール無用の格闘要素や反体制的な世界観を楽しむプレイヤー層。",
+  "slug": "road-rash",
+  "file": "data/games/1491-road-rash.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Road_Rash",
+    "https://en.wikipedia.org/wiki/Road_Rash_(1994_video_game)",
+    "https://oldpcgaming.net/road-rash-review/",
+    "https://www.mobygames.com/game/353/road-rash/"
+  ]
+}

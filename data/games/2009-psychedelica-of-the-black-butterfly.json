@@ -1,0 +1,29 @@
+{
+  "id": 2009,
+  "title_jp": "サイケデリカ・オブ・ザ・ブラックバタフライ",
+  "title_en": "Psychedelica of the Black Butterfly",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2015,
+  "platform": [
+    "PS Vita"
+  ],
+  "genre": "女性向け恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「黒蝶のサイケデリカ」としてオトメイトから2015年に PS Vita で発売されたダークファンタジー乙女ゲーム。記憶を失った主人公が黒蝶の舞う洋館で6人の住人と謎を解くゴシック調シナリオが話題に。2018年に Aksys Games から英語版が発売され、海外乙女ゲーマーから「Otomate ダークシリアス系の代表作」として評価された。",
+  "concept": "「記憶を失った6人が黒蝶の舞う洋館に閉じ込められる」というクローズドサークル・ダークファンタジーをテーマにした女性向けビジュアルノベル。ルート分岐よりも全員で謎を解く群像劇に重心を置き、共通ルート→個別ルートの順で読み進める構成。",
+  "target": "10〜30代の女性、特に乙女ゲームファンとダークファンタジー／ミステリ好き層。シリアス・ホラー寄りの物語を読みたい読者層、Otomate / Aksys 系の女性向けノベルを継続的に追う層。",
+  "slug": "psychedelica-of-the-black-butterfly",
+  "file": "data/games/2009-psychedelica-of-the-black-butterfly.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Psychedelica_of_the_Black_Butterfly_and_the_Ashen_Hawk",
+    "https://ja.wikipedia.org/wiki/%E9%BB%92%E8%9D%B6%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%B1%E3%83%87%E3%83%AA%E3%82%AB",
+    "https://www.otomate.jp/psychedelica/",
+    "https://www.4gamer.net/games/278/G027843/",
+    "https://www.animenewsnetwork.com/press-release/2018-04-27/psychedelica-of-the-black-butterfly-debuts-on-ps-vita/.130957"
+  ]
+}

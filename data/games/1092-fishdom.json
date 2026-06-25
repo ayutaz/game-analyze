@@ -1,0 +1,36 @@
+{
+  "id": 1092,
+  "title_jp": "フィッシュダム",
+  "title_en": "Fishdom",
+  "developer": "Playrix",
+  "publisher": "Playrix",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "マッチ3パズル/水槽デコレーション",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "テレビCMや動画広告で繰り返し露出する「魚を救うパズル」誤誘導広告で世界的に話題化。2023年時点で全世界累計約4.7億DL、Playrix の主力タイトルの一つ。",
+  "concept": "マッチ3パズルをクリアして得たコインで水槽を魚や装飾品で飾り立てる、Playrix Scapes 系列の水中版。「パズルで進めて、自分の水族館を育てる」という二層構造で長期プレイを促す。",
+  "target": "20-50代の女性カジュアル層を中心に、隙間時間でパズルを解きながらコレクションを育てたい層。マッチ3パズル経験者と魚・水族館モチーフが好きな層。",
+  "slug": "fishdom",
+  "file": "data/games/1092-fishdom.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fishdom",
+    "https://en.wikipedia.org/wiki/Playrix",
+    "https://app.w3g.jp/fishdom",
+    "https://app.sensortower.com/overview/com.playrix.fishdomdd.gplay?country=JP"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1309,
+  "title_jp": "イケメンヴィラン 闇夜にひらく悪の恋",
+  "title_en": "Ikemen Villains: Otome Romance Game",
+  "developer": "Cybird",
+  "publisher": "Cybird",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/恋愛シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "サイバードの「イケメンシリーズ」（累計 4500 万人規模）最新作として 2023 年 3 月配信、英語版も 2024 年に展開しグローバル女性向け乙女ゲーム市場で話題化。",
+  "slug": "ikemen-villains-otome-romance-game",
+  "file": "data/games/1309-ikemen-villains-otome-romance-game.json",
+  "concept": "19 世紀英国を舞台にした「ヴィラン（悪役）」9 人との禁断恋愛アドベンチャー。シリーズ史上もっともダークでセクシーな“悪”愛ストーリーを軸に、章選択型のルート分岐とイベント CG／ボイスを楽しむ構造。",
+  "target": "10-40 代女性、特に乙女ゲーム・BL/恋愛 ADV 愛好層と海外向けには英語圏オタメ・ファンダム層。シリーズ既存ファンとダークロマンス志向の新規プレイヤー。",
+  "_source_urls": [
+    "https://app.famitsu.com/20230328_2067987/",
+    "https://ikemen.cybird.ne.jp/",
+    "https://news.qoo-app.com/en/post/160654/ikemen-villains-launch",
+    "https://apps.apple.com/jp/app/%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%B3-%E6%81%8B%E6%84%9B%E3%82%B2%E3%83%BC%E3%83%A0/id1640205485"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

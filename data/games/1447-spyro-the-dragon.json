@@ -1,0 +1,29 @@
+{
+  "id": 1447,
+  "title_jp": "スパイロ・ザ・ドラゴン",
+  "title_en": "Spyro the Dragon",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "4.83M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1後期を代表する3Dマスコットプラットフォーマーとして北米で爆発的にヒットし、世界累計約483万本を売り上げPSハード黄金期の象徴的IPに成長した。",
+  "slug": "spyro-the-dragon",
+  "file": "data/games/1447-spyro-the-dragon.json",
+  "concept": "紫色の子ドラゴン「スパイロ」を操作し、石化した仲間ドラゴンを救出しながらジェム・卵・隠し要素を集める3Dアクション・プラットフォーマー。グライドと体当たり・炎ブレスのシンプル操作で広大なステージを駆け抜ける爽快感が核となる。",
+  "target": "PS1世代の子ども〜若年層を主軸に、マリオ64・バンジョーと並ぶ3Dマスコットアクションを好む層、レトロPS収集層、Reignited Trilogyで触れる現役世代まで幅広い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spyro_the_Dragon",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%AD%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3",
+    "https://www.vgchartz.com/game/6436/spyro-the-dragon/"
+  ]
+}

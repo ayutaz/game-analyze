@@ -1,0 +1,31 @@
+{
+  "id": 1892,
+  "title_jp": "WHITE ALBUM2 幸せの向こう側",
+  "title_en": "White Album 2",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS Vita"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "音楽と三角関係を題材にした重厚なシナリオが「泣きゲー史に残る名作」「最も切ない恋愛 ADV」と評され、PC 初出から PS3/Vita 移植・アニメ化・小説化と長期的なカルト人気を獲得した。",
+  "concept": "音大附属高校の軽音同好会を舞台に、北原春希・小木曽雪菜・冬馬かずさの三角関係を緻密に描く長編恋愛ノベル。IC（introductory chapter）と CC（closing chapter）を統合した家庭用版は「答えのない選択肢を読み続ける」体験に特化している。",
+  "target": "ビジュアルノベル/泣きゲー愛好層、丸戸史明シナリオのファン、恋愛群像劇を腰を据えて読みたい 20-40 代男性中心。",
+  "slug": "white-album-2",
+  "file": "data/games/1892-white-album-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/White_Album_2",
+    "https://ja.wikipedia.org/wiki/WHITE_ALBUM2",
+    "https://aquaplus.jp/wa2vita/",
+    "https://www.4gamer.net/games/186/G018635/20120927099/",
+    "https://www.famitsu.com/news/201308/08038014.html"
+  ]
+}

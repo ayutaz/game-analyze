@@ -1,0 +1,34 @@
+{
+  "id": 1606,
+  "title_jp": "バンジョーとカズーイの大冒険",
+  "title_en": "Banjo-Kazooie",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1998,
+  "platform": [
+    "N64",
+    "Xbox 360",
+    "Xbox One",
+    "Xbox Series X/S",
+    "Switch"
+  ],
+  "genre": "3Dアクションアドベンチャー/コレクトアソン",
+  "sales_jp": "0.405M",
+  "sales_world": "3.65M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "N64 黄金期の代表的 3D コレクトアソンとしてスーパーマリオ64と並び称され、ジグソーピース「ジグソー」やノート集めの中毒性、毒舌コンビの掛け合いとリッキー・ベイカーズによる名曲群で世界 365 万本を達成。後年は Xbox Live Arcade 復刻・Nintendo Switch Online（N64）配信・スマブラ参戦で再評価が続く。",
+  "concept": "クマのバンジョーと相棒の鳥カズーイがペアを組み、9 つのテーマワールドを巡ってジグソー・音符・赤い羽根などをひたすら集める 3D コレクトアソン。ステージごとの仕掛け解読と多彩なアクション習得を軸に「探して取る」喜びを徹底的に設計した、Rare 全盛期の代表作。",
+  "target": "スーパーマリオ64 で 3D プラットフォーマーに目覚めた N64 世代、コレクト要素と謎解きを丁寧に味わいたいソロプレイヤー。後年は Xbox 360 / Switch Online 経由で触れるレトロ＆任天堂ファン層にも届いている。",
+  "slug": "banjo-kazooie",
+  "file": "data/games/1606-banjo-kazooie.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Banjo-Kazooie_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC%E3%81%A8%E3%82%AB%E3%82%BA%E3%83%BC%E3%82%A4%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA",
+    "https://www.vgchartz.com/game/155/banjo-kazooie/",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_n64/"
+  ]
+}

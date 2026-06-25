@@ -1,0 +1,27 @@
+{
+  "id": 1865,
+  "title_jp": "Angel Beats! -1st beat-",
+  "title_en": "Angel Beats! 1st Beat",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2010年放送のオリジナルTVアニメ「Angel Beats!」のビジュアルノベル化として2015年6月26日に発売。発売直後に日本国内PCゲーム月次ランキングで4月・5月と連続首位を獲得し、2015年上半期の国内PCゲーム売上首位を記録した。",
+  "concept": "麻枝准が原作・脚本を手掛けた死後の世界を舞台にしたTVアニメをKeyが自らビジュアルノベル化。第10話までの本編に加え、岩沢・松下・ユイの個別ルートを追加収録し、アニメで描き切れなかった支線を補完する全6巻構想の第1作。",
+  "target": "原作アニメのファン層、Key/麻枝准作品（CLANNAD・Little Busters! 等）の読者層、PC向け泣きゲー・キャラクタールート型ノベルを長時間読みたいビジュアルノベル愛好者。",
+  "slug": "angel-beats-1st-beat",
+  "file": "data/games/1865-angel-beats-1st-beat.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Angel_Beats!_1st_Beat",
+    "https://www.4gamer.net/games/244/G024415/20141224010/",
+    "https://www.angelbeats.jp/"
+  ]
+}

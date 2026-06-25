@@ -1,0 +1,30 @@
+{
+  "id": 1782,
+  "title_jp": "ひぐらしのなく頃に 鬼隠し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.1 Onikakushi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2002,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "サウンドノベル/ミステリーホラー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミックマーケット62で 100 円同人として頒布されたのが口コミで広がり、アニメ・実写映画・小説・漫画へと展開する大型ミステリーホラー IP の原点となった。Steam / MangaGamer 版で英語圏にも到達。",
+  "concept": "雛見沢という閉鎖的な山村を舞台に、綿流しの祭の夜に起きる連続怪死事件を「鬼隠し」の伝承と絡めて描く、選択肢のないサウンドノベル形式のミステリーホラー第 1 章。読者に「正解」を推理させる出題編の入口。",
+  "target": "重厚なテキスト主体の物語を読み解きたい層、心理サスペンス / ミステリーホラー愛好者、同人発の伝説的シナリオを体験したい VN ファン。",
+  "slug": "higurashi-when-they-cry-hou-ch1-onikakushi",
+  "file": "data/games/1782-higurashi-when-they-cry-hou-ch1-onikakushi.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry",
+    "https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou__Ch1_Onikakushi/",
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_%E9%AC%BC%E9%9A%A0%E3%81%97%E7%B7%A8",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_When_They_Cry_(series)"
+  ]
+}

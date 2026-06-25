@@ -1,0 +1,30 @@
+{
+  "id": 1700,
+  "title_jp": "ザ・ファイヤーメン",
+  "title_en": "The Firemen",
+  "developer": "Human Entertainment",
+  "publisher": "Human",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクションアドベンチャー/レスキュー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "ファミ通クロスレビューでシルバー殿堂入りした「消防士で炎と戦う」異色アクション。ヒューマンのシネマティックライブシリーズ第2作で、相棒ダニーとの掛け合いと無線演出が強い印象を残した。",
+  "concept": "大火災に見舞われた化学工場メトロテックを舞台に、消防士ピートと相棒ダニーが放水と消火爆弾で炎を鎮め、要救助者を救出していくレスキューアクション。ボス火災ごとに正しい消し方を見つける手応えが核にある。",
+  "target": "90年代SFCを遊んだコアゲーマー、シネマティック演出と異色職業ものを愛するレトロゲームファン、協力プレイ風の二人組ヒーロー譚を好む層。",
+  "slug": "the-firemen",
+  "file": "data/games/1700-the-firemen.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Firemen",
+    "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%A1%E3%83%B3",
+    "https://www.mobygames.com/game/13763/the-firemen/",
+    "https://superfamicom.org/info/the-firemen"
+  ]
+}

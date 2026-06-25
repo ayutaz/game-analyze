@@ -1,0 +1,29 @@
+{
+  "id": 1994,
+  "title_jp": "Paradigm Paradox",
+  "title_en": "Paradigm Paradox",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー(ビジュアルノベル)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "オトメイト×声優ユニット「8P」コラボの女性向けADV。攻略対象の少女たちが変身ヒーローとなって害獣と戦うジェンダースワップ設定と、正義側/悪側どちらのルートも選べる二面構成で話題に。",
+  "concept": "西暦25XX年、ドーム型コロニーに閉じ込められた世界を舞台に、変身ヒーローの少女たちと出会った主人公が「正義」と「悪」のあいだで揺れ動く乙女ゲーム。攻略キャラ全員が女性で、戦闘・変身・恋愛がセットになっている異色のオトメイト作品。",
+  "target": "20-30代の女性、特にビジュアルノベル/オトメイト系のコア層と、魔法少女・戦隊・ジェンダースワップ題材を好む層。シリアスな世界観のADVを腰を据えて読みたいプレイヤー向け。",
+  "slug": "paradigm-paradox",
+  "file": "data/games/1994-paradigm-paradox.json",
+  "_source_urls": [
+    "https://www.otomate.jp/paradigm_paradox/",
+    "https://www.4gamer.net/games/519/G051989/",
+    "https://www.4gamer.net/games/519/G051989/20210520036/",
+    "https://www.gematsu.com/games/paradigm-paradox",
+    "https://www.siliconera.com/review-paradigm-paradox-is-a-switch-otome-where-loves-not-a-priority/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1610,
+  "title_jp": "パーフェクトダーク",
+  "title_en": "Perfect Dark",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "FPS（一人称シューティング）",
+  "sales_jp": "0.095M",
+  "sales_world": "2.52M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "『ゴールデンアイ007』の精神的続編として発売前から国内外で大きな注目を集め、メモリー拡張パック必須の高解像度グラフィックと充実したCo-op/対戦モードで N64 後期の代表的 FPS となった。海外で 2.52M 本を売り上げ N64 シューター屈指のヒットに。",
+  "concept": "女性エージェント「ジョアンナ・ダーク」がエイリアン陰謀を暴く近未来 SF を舞台にした一人称シューティング。シングル campaign に Co-op と Counter-Op（協力／対敵）を備え、Combat Simulator では bot 戦＋4 人対戦が遊べる「ゴールデンアイ後継」を完成形に押し上げた一本。",
+  "target": "『ゴールデンアイ007』に熱狂した N64 ユーザー、SF 設定とハッキング・潜入要素を好む 10-30 代男性、ローカル多人数 FPS を求めるコアゲーマー層。",
+  "slug": "perfect-dark",
+  "file": "data/games/1610-perfect-dark.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Perfect_Dark",
+    "https://kopenguin.com/post-18197/",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_npdj/index.html",
+    "https://rare.fandom.com/wiki/Perfect_Dark"
+  ]
+}

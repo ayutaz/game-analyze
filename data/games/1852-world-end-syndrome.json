@@ -1,0 +1,31 @@
+{
+  "id": 1852,
+  "title_jp": "WORLD END SYNDROME ワールドエンドシンドローム",
+  "title_en": "World End Syndrome",
+  "developer": "Toybox",
+  "publisher": "Arc System Works / PQube",
+  "year": 2018,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PS Vita"
+  ],
+  "genre": "ミステリー×恋愛アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『Deadly Premonition』の金沢十三男シナリオ × BLAZBLUE の加藤雄一キャラデザによる「ひと夏のミステリー恋愛 AVG」として国内 AVG ファンから注目。海岸町・魅果町を舞台にヨミビトの怪異と 5 人のヒロインを描く独特の雰囲気で、PQube による英語版リリースで海外 VN ファン層にも届いた。",
+  "concept": "海辺の田舎町「魅果町」を舞台に、転校生の主人公が 5 人のヒロインと過ごすひと夏の中で、伝承上の蘇る者「ヨミビト」と連続殺人の謎に挑む、ミステリー × 恋愛 AVG。曜日とエリアを選んで行動を組み立てる選択肢式の構造で、複数ルートとトゥルーエンドを読み解く物語消費が主動機。",
+  "target": "国産ノベルゲーム／ギャルゲー愛好層、特に「夏の田舎町＋オカルトミステリー」という ATLUS『流行り神』や『Root Letter』系のしっとりした雰囲気を好む 20-40 代男性層。Deadly Premonition や BLAZBLUE のクリエイターつながりで来る AVG リッチ層も。",
+  "slug": "world-end-syndrome",
+  "file": "data/games/1852-world-end-syndrome.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/World_End_Syndrome",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0",
+    "https://www.arcsystemworks.jp/wes/",
+    "https://www.famitsu.com/news/201710/26144647.html",
+    "https://www.4gamer.net/games/399/G039978/20171026063/"
+  ]
+}

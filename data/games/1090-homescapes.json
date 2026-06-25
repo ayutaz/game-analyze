@@ -1,0 +1,35 @@
+{
+  "id": 1090,
+  "title_jp": "ホームスケイプ",
+  "title_en": "Homescapes",
+  "developer": "Playrix",
+  "publisher": "Playrix",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/家リノベーション",
+  "sales_jp": "—",
+  "sales_world": "582M+ DL（2023年8月時点累計）/ 累計収益$1B超",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "執事オースティンを主人公にした家リノベーション演出と中毒性の高いマッチ3ループ、TVCMの「実際のゲーム内容と違う」鉛筆引き抜き広告が世界的に話題になり累計収益$1B超を記録。",
+  "concept": "マッチ3パズルをクリアして報酬を獲得し、執事オースティンとともに古い実家の各部屋を選択肢式に内装・家具リノベーションしていく「装飾メタゲーム付きパズル」。",
+  "target": "30-50代を中心とした女性層が圧倒的多数（プレイヤー比 約75%）。通勤・家事の合間に短時間で遊びたい非ゲーマー層、インテリア・模様替えに関心のある層。",
+  "slug": "homescapes",
+  "file": "data/games/1090-homescapes.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Homescapes",
+    "https://sensortower.com/blog/homescapes-revenue",
+    "https://www.pocketgamer.biz/playrix-homescapes-1-billion-dollars-lifetime-revenue/",
+    "https://app.w3g.jp/homescapes",
+    "https://sensortower.com/ja/blog/mobile-puzzle-games-in-japan"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1534,
+  "title_jp": "グランディアIII",
+  "title_en": "Grandia III",
+  "developer": "Game Arts",
+  "publisher": "Square Enix",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG（空を舞台にしたコンボ重視ターン制バトル）",
+  "sales_jp": "約234K（2005年末時点）",
+  "sales_world": "300K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ伝統のIPS（タイムバーで割り込み合う独特のATB）を空中コンボへ拡張し、ファミ通35/40でプラチナ殿堂入り。発売週は週販2位（約12.2万本）。",
+  "concept": "「空」をモチーフにした大冒険活劇RPG。タイムバー上で行動順を読み合いキャンセル・コンボを叩き込む“IPSバトル”が、本作では空中コンボや特技/魔法の繋ぎへとさらに進化した戦闘体験特化型。",
+  "target": "グランディアI/IIを遊んだJRPGファン、PS2世代のターン制バトルで「攻撃を当てる瞬間の気持ちよさ」を求めるプレイヤー。物語より戦闘システムそのものを楽しみたい層。",
+  "slug": "grandia-iii",
+  "file": "data/games/1534-grandia-iii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grandia_III",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2III",
+    "https://www.famitsu.com/article/202508/48600",
+    "https://www.gamearts.co.jp/ja/products/ps2-grandia3.html",
+    "https://www.vgchartz.com/game/3431/grandia-iii/"
+  ]
+}

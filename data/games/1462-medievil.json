@@ -1,0 +1,30 @@
+{
+  "id": 1462,
+  "title_jp": "メディーバル よみがえった勇者",
+  "title_en": "MediEvil",
+  "developer": "SCE Cambridge Studio",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションアドベンチャー/ハックアンドスラッシュ",
+  "sales_jp": "—",
+  "sales_world": "250K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ガロウミアの王国を舞台にした骸骨騎士サー・ダニエル・フォーテスクの物語と、ティム・バートン風のゴシック・ブラックコメディ演出で熱狂的なカルト人気を獲得。1999 年に欧州 Platinum タイトル化、25 万本超販売の金賞プレートを受賞した。",
+  "slug": "medievil",
+  "file": "data/games/1462-medievil.json",
+  "concept": "中世ファンタジー王国ガロウミアを舞台にした 3D ハックアンドスラッシュ・アクションアドベンチャー。生前は臆病者だった骸骨騎士が魔王ザロックの侵略を阻止しながら、自らの英雄としての名誉を取り戻す体験を提供する。",
+  "target": "PS1 世代の 3D アクションアドベンチャー好き、ティム・バートン的ゴシック・ブラックコメディの世界観を好む層、海外開発の個性派ハクスラを求めるコアゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/MediEvil",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%83%BC%E3%83%90%E3%83%AB_%E7%94%A6%E3%81%A3%E3%81%9F%E3%82%AC%E3%83%AD%E3%83%A1%E3%82%A2%E3%81%AE%E5%8B%87%E8%80%85",
+    "https://medievil.wiki/w/MediEvil_(1998)",
+    "https://www.mobygames.com/game/4680/medievil/"
+  ]
+}

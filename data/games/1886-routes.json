@@ -1,0 +1,29 @@
+{
+  "id": 1886,
+  "title_jp": "ROUTES",
+  "title_en": "Routes",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP"
+  ],
+  "genre": "ビジュアルノベル/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Leaf ビジュアルノベルシリーズ第 4 弾として『To Heart』から 6 年ぶりにリリースされ、エージェントを題材にした近未来サスペンス路線で話題に。2007 年に AQUAPLUS から PS2 / PSP 移植版（フルボイス・全年齢）が出て再評価された。",
+  "concept": "「エージェント」と呼ばれる情報収集のプロが日常に潜む 21 世紀の日本を舞台に、平凡な高校生が裏では一流エージェント「NASTY BOY」として活動する二重生活を描く Leaf ビジュアルノベル第 4 作。",
+  "target": "『雫』『痕』『To Heart』を通ってきた 20-30 代のビジュアルノベル古参層、および Leaf / AQUAPLUS の世界観を追うアドベンチャー好き。",
+  "slug": "routes",
+  "file": "data/games/1886-routes.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/Routes",
+    "https://aquaplus.fandom.com/wiki/Routes",
+    "https://en.wikipedia.org/wiki/Leaf_(Japanese_company)"
+  ]
+}

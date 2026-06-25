@@ -1,0 +1,31 @@
+{
+  "id": 1683,
+  "title_jp": "Pop'nツインビー",
+  "title_en": "Pop'n TwinBee",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1993,
+  "platform": [
+    "SNES",
+    "Wii U",
+    "3DS",
+    "PSP"
+  ],
+  "genre": "縦スクロールシューティング",
+  "sales_jp": "約146,124本",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "ツインビーシリーズ初のスーパーファミコン作品。可愛いポップな世界観と2人同時プレイ協力プレイで、シューティング苦手層にも訴求した。",
+  "concept": "「分身（クローン）」や「パンチ」「投げ」など新システムを盛り込んだツインビー第6作で、ベルを撃って色を変えて取るパワーアップを継承しつつ、ライフ制を導入して初心者にも遊びやすくしたポップな縦シューティング。",
+  "target": "1990年代SFCを遊んでいた小中学生～若年層、特にツインビーシリーズのファンと、難しすぎないキュートな2人協力シューティングを求める家庭層。",
+  "slug": "popn-twinbee",
+  "file": "data/games/1683-popn-twinbee.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pop'n_TwinBee",
+    "https://ja.wikipedia.org/wiki/Pop'n%E3%83%84%E3%82%A4%E3%83%B3%E3%83%93%E3%83%BC",
+    "https://www.konami.com/games/jp/ja/products/dl_popntwinbee_sfc_c/",
+    "https://www.hardcoregaming101.net/popn-twinbee/"
+  ]
+}

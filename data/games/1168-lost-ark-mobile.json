@@ -1,0 +1,33 @@
+{
+  "id": 1168,
+  "title_jp": "ロストアーク モバイル",
+  "title_en": "Lost Ark Mobile",
+  "developer": "Smilegate RPG",
+  "publisher": "Smilegate",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG/ハクスラ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "PC版「Lost Ark」のモバイル/PC版マルチプラットフォーム展開として注目され、2025年11月13日〜16日に韓国で CBT を実施。生成AIで装備染色やハウジング装飾を自動生成する機能や、原作よりパーティ負担を軽減した短時間プレイ向け設計が話題化。",
+  "concept": "Smilegate RPG が6年以上かけて開発したスマホ向け MMORPG。原作の俯瞰視点ハクスラ戦闘を継承しつつ、モバイル向けに UI と操作系を再設計し、ローグライト要素や生成 AI による装備カラーリングなど短時間プレイ前提の改修を加えた韓国 MMO の主力新作。",
+  "target": "原作 Lost Ark プレイヤーや韓国 MMO 系（リネージュ M、ODIN、ロードナイン等）のユーザー層、ハクスラ＋装備育成＋ガチャ型成長を好む 20-40 代男性ヘビーユーザーが主軸。",
+  "slug": "lost-ark-mobile",
+  "file": "data/games/1168-lost-ark-mobile.json",
+  "_source_urls": [
+    "https://www.4gamer.net/games/747/G074775/20251020034/",
+    "https://kultur.jp/lost-ark-mobile-vision-preview/",
+    "https://kultur.jp/lost-ark-mobile-kr-cbt/",
+    "https://gamingonphone.com/news/smilegate-rpgs-lost-ark-mobile-begins-closed-beta-test-this-november-in-south-korea/",
+    "https://en.namu.wiki/w/%EB%A1%9C%EC%8A%A4%ED%8A%B8%EC%95%84%ED%81%AC%20%EB%AA%A8%EB%B0%94%EC%9D%BC"
+  ]
+}

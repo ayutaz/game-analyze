@@ -1,0 +1,30 @@
+{
+  "id": 1661,
+  "title_jp": "ファイアーエムブレム 紋章の謎",
+  "title_en": "Fire Emblem: Mystery of the Emblem",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "シミュレーションRPG (SRPG)",
+  "sales_jp": "0.78M",
+  "sales_world": "0.78M+ (SFC)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "SFC 期にシリーズ最大の 77.6 万本を売り上げ、FE の人気を定着させた金字塔。1 作目『暗黒竜と光の剣』のリメイクと続編『英雄戦争編』を 1 本に同梱する 2 部構成が話題に。",
+  "slug": "fire-emblem-mystery-of-the-emblem",
+  "file": "data/games/1661-fire-emblem-mystery-of-the-emblem.json",
+  "concept": "マルス王子率いる解放軍のターン制戦術を、味方ロスト＝永久死の緊張感の中で指揮する硬派 SRPG。第 1 部で前作をリメイク、第 2 部で英雄戦争編を新規描き下ろし、シリーズの基礎文法を確立した。",
+  "target": "歯ごたえのある戦術シミュレーションを腰を据えて遊びたい SFC 世代の SRPG ファン、および FE シリーズの原典を辿りたいシリーズファン。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fire_Emblem:_Mystery_of_the_Emblem",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%96%E3%83%AC%E3%83%A0_%E7%B4%8B%E7%AB%A0%E3%81%AE%E8%AC%8E",
+    "https://game.watch.impress.co.jp/docs/kikaku/1562270.html",
+    "https://dengekionline.com/elem/000/000/919/919567/"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2025,
+  "title_jp": "パラダイス・キラー",
+  "title_en": "Paradise Killer",
+  "developer": "Kaizen Game Works",
+  "publisher": "Fellow Traveller",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "オープンワールド殺人ミステリー/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ヴェイパーウェーブ/シティポップ美術と「真犯人をプレイヤーが裁判で決める」自由捜査が海外メディアで絶賛され、Switch 版から日本でもカルト的支持を獲得。",
+  "concept": "異世界の熱帯島「パラダイス島」を舞台に、捜査官レディ・ラブ・ダイとして関係者全員を聴取し証拠を集め、最終的に誰を犯人として裁判にかけるかをプレイヤー自身が決めるオープンワールド型ミステリー。物的証拠を欠いても起訴できる「主観的真実」が核。",
+  "target": "ディスコ・エリジウムや 13 機兵防衛圏のようなテキスト密度の高いミステリー/SF アドベンチャーを好む層、ヴェイパーウェーブ/Y2K 美術や 90s シティポップに親和性のある 20-40 代インディーゲーマー。",
+  "slug": "paradise-killer",
+  "file": "data/games/2025-paradise-killer.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Paradise_Killer",
+    "https://store.steampowered.com/app/1160220/Paradise_Killer/",
+    "https://www.4gamer.net/games/571/G057196/20210811002/",
+    "https://www.famitsu.com/news/202108/11229966.html",
+    "https://leoful.com/paradise-killer-jp/"
+  ]
+}

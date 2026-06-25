@@ -1,0 +1,31 @@
+{
+  "id": 1804,
+  "title_jp": "うみねこのなく頃に羽",
+  "title_en": "Umineko no Naku Koro ni Hane",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリ（同人ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミックマーケット81（2011年12月31日）で頒布された『うみねこのなく頃に』本編シリーズ完結後の同人サイドストーリー集。竜騎士07書き下ろしの短編2本（「ジェシカと殺人扇風機」「贋作 No.XXX」）を収録し、本編ファンの間で話題化した。",
+  "concept": "本編完結後のうみねこ世界を補完するサイドストーリー集。『翼』に続く短編集として、本編シリーズで描かれなかった登場人物の小話やパロディ的な短編を読ませる、本編ファン向けの読み物作品。",
+  "target": "『うみねこのなく頃に』本編／『翼』を読了済みのコアファン層。竜騎士07の世界観と文体を追いかける同人ノベル読者、20-40代のミステリ／ビジュアルノベル愛好者。",
+  "slug": "umineko-no-naku-koro-ni-hane",
+  "file": "data/games/1804-umineko-no-naku-koro-ni-hane.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/List_of_Umineko_When_They_Cry_titles",
+    "https://07th-expansion.fandom.com/wiki/Umineko_no_Naku_Koro_ni_Hane",
+    "https://backloggd.com/games/umineko-no-naku-koro-ni-hane/",
+    "https://07th-expansion.net/umi_gensaku"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1364,
+  "title_jp": "Survivor!.io",
+  "title_en": "Survivor.io",
+  "developer": "Habby",
+  "publisher": "Habby",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ローグライト/オートシューター",
+  "sales_jp": "—",
+  "sales_world": "80M+ DL / $500M+ revenue",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Vampire Survivors 系オートシューターをモバイル最適化し、TikTok 短尺広告（Habby は UA 予算の 50% を TikTok に投入）でバイラル化。配信 2 ヶ月で 37M DL / $75M、生涯 IAP 累計は 2024 年に $500M を突破し、3 年経った現在も月 $5–6M を稼ぐ長寿カジュアル。",
+  "concept": "Vampire Survivors の「自動攻撃 × 経験値ピックアップ × ビルド構築」ループをタテ持ちスマホ画面と 15 分セッションに圧縮し、装備合成・スキル進化・週次イベントでガチャ的な収益化を組み込んだローグライト・オートシューター。",
+  "target": "TikTok の「数分で爽快感が伝わる」短尺広告から流入する 20–40 代のカジュアル層。Vampire Survivors / 弾幕系を片手で気軽に遊びたい層、通勤・隙間時間に強い達成感を求めるライトユーザー。",
+  "slug": "survivor-io",
+  "file": "data/games/1364-survivor-io.json",
+  "_source_urls": [
+    "https://mobilegamer.biz/two-months-in-survivor-io-passes-75m-from-37m-downloads/",
+    "https://mobilegamer.biz/tiktok-drives-habbys-survivor-io-past-15m-iap-revenue-12m-downloads/",
+    "https://www.gf.symphonyonline.co.uk/news/how-survivor.io-continues-to-pull-in-5-million-a-month-three-years-later",
+    "https://pickups.jp/global/46678/",
+    "https://app.sensortower.com/overview/1528941310?country=US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

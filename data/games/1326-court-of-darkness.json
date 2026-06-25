@@ -1,0 +1,34 @@
+{
+  "id": 1326,
+  "title_jp": "Court of Darkness",
+  "title_en": "Court of Darkness",
+  "developer": "Voltage Inc.",
+  "publisher": "Voltage Inc.",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/恋愛ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "ボルテージの英語圏向け乙女ゲーム代表作の一つ。退廃的ダークファンタジー世界観と5人の王子たちとの禁断ロマンスで海外オトメコミュニティから注目を集め、2025年に Nintendo Switch 移植も発表された。",
+  "concept": "魔界の魔法学園を舞台に、5人の王子と従者たちとの禁断のロマンスを描くダークファンタジー乙女ゲーム。Love 365 内エピソードとして2020年5月にスタートし、同年10月に単体アプリ化。基本無料で読み進められ、衣装・部屋装飾などの収集要素を備える。",
+  "target": "海外を中心とした乙女ゲームファン、特にダークファンタジー/イケメン系を好む女性層。Voltage 既存ユーザーや英語圏オトメコミュニティ参加層。",
+  "slug": "court-of-darkness",
+  "file": "data/games/1326-court-of-darkness.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.voltage.joshige.makai.en&hl=en_US",
+    "https://apps.apple.com/jp/app/court-of-darkness/id1528296539",
+    "https://otomekitten.com/2025/06/18/court-of-darkness-will-be-ported-to-the-nintendo-switch/",
+    "https://court-of-darkness.fandom.com/wiki/Court_of_Darkness_Wiki"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1608,
+  "title_jp": "ドンキーコング64",
+  "title_en": "Donkey Kong 64",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "3Dアクションアドベンチャー/コレクタソン",
+  "sales_jp": "—",
+  "sales_world": "5.27M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1999年ホリデー商戦でNintendo最大のヒット、米国2200万ドルのマーケティングキャンペーンと「DK Rap」が話題に。N64の3Dコレクタソン代表作として25年経った今もカルト的人気。",
+  "concept": "5匹のコング（DK/ディディー/ランキー/タイニー/チャンキー）を切り替えて広大な3Dワールドを探索し、バナナ・コイン・ブループリント等を徹底的に集めるコレクタソン。Rareが「バンジョーとカズーイ」で完成させた収集型3Dプラットフォーマー方式の最大級規模版。",
+  "target": "N64世代の3Dアクション/コレクタソン好き、Rare作品（バンジョー・コンカー）のファン、100%コンプリート志向のプレイヤー。",
+  "slug": "donkey-kong-64",
+  "file": "data/games/1608-donkey-kong-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Donkey_Kong_64",
+    "https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games",
+    "https://www.cbr.com/donkey-kong-64-25-years-later/"
+  ]
+}

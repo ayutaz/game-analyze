@@ -1,0 +1,31 @@
+{
+  "id": 1141,
+  "title_jp": "アウタープレーン",
+  "title_en": "Outerplane",
+  "developer": "VA Games",
+  "publisher": "Smilegate Holdings",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターン制3D RPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "高品質な3Dアニメ表現と130万文字超の重厚ストーリーで2023年5月グローバル配信、2024年5月日本サービス開始時にリセマラ・声優リレーインタビュー（前田玲奈ほか）で話題化。",
+  "concept": "地球から異世界「メルシャ」に召喚された主人公Kが、オートマタ「エヴァ」と共に裏切者への復讐を誓う3Dターン制RPG。スキルチェーン・空中浮かせ・ブレイクなど戦術性の高い戦闘と、キャラ別サイドストーリーを軸にしたガチャ収集型の運営タイトル。",
+  "target": "美少女キャラ重視のアニメ調ガチャRPG層、ストーリー重視で長期間プレイしたい層、ターン制バトルでビルドや編成を楽しみたい層に向く。",
+  "slug": "outerplane",
+  "file": "data/games/1141-outerplane.json",
+  "_source_urls": [
+    "https://www.prnewswire.com/news-releases/smilegate-launches-new-mobile-rpg-outerplane-globally-301830771.html",
+    "https://prtimes.jp/main/html/rd/p/000000011.000137745.html",
+    "https://outerplane.game.onstove.com/preregist/japan",
+    "https://www.pocketgamer.com/outerplane/release-date-announcement/"
+  ]
+}

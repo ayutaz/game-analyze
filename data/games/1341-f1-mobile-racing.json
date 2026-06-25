@@ -1,0 +1,31 @@
+{
+  "id": 1341,
+  "title_jp": "F1 Mobile Racing",
+  "title_en": "F1 Mobile Racing",
+  "developer": "Codemasters",
+  "publisher": "Electronic Arts",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "レーシング/スポーツシミュレーション",
+  "sales_jp": "—",
+  "sales_world": "35M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "公式 F1 ライセンスを冠したモバイル唯一のシミュレーション系レーサーとして 35M+ DL を達成。年次シーズン更新で実車・実ドライバー・実コースを再現し、PvP デュエル（1v1）と限定イベントが日次バズの軸となった。2024 年 5 月にサービス終了が告知された。",
+  "concept": "Codemasters の F1 ゲーム開発技術をモバイルにダウンサイズしたフリーミアム公式 F1 レーサー。年次シーズンアップデートで最新グランプリを追体験させつつ、1v1 デュエルとイベントで車体パーツ収集・育成を回す「体験 + 報酬」のハイブリッド設計。",
+  "target": "モバイルで気軽に F1 を走らせたいライト〜ミドルなレースファン、テレビ中継視聴層、Codemasters F1 シリーズの入門〜サブ需要層。",
+  "slug": "f1-mobile-racing",
+  "file": "data/games/1341-f1-mobile-racing.json",
+  "_source_urls": [
+    "https://codemasters.helpshift.com/hc/en/3-f1-mobile-racing/",
+    "https://codemasters.helpshift.com/hc/en/3-f1-mobile-racing/faq/734-f1-mobile-final-season/",
+    "https://www.teamvvv.com/news/codemasters-announces-f1-mobile-racing-for-ios-and-android-devices/",
+    "https://www.ea.com/ea-originals/news/2022-season-update-out-now"
+  ]
+}

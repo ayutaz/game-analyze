@@ -1,0 +1,29 @@
+{
+  "id": 1633,
+  "title_jp": "爆烈無敵バンガイオー",
+  "title_en": "Bangai-O",
+  "developer": "Treasure",
+  "publisher": "ESP",
+  "year": 1999,
+  "platform": [
+    "N64",
+    "Dreamcast"
+  ],
+  "genre": "全方向シューティング/メカアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Treasure 製の超絶弾幕全方向シューターで N64 版は ESP が 10,000 本しか出荷せずプレミア化。Dreamcast 版はリメイク級の音質・グラフィック強化で欧米にも配信され、後年カルトクラシックとして再評価された。",
+  "concept": "巨大ロボ「バンガイオー」を操作し、画面全方向に弾を撃ち敵を消し飛ばす全方向シューター。敵弾が密集するほどカウンターで超火力反撃を撃ち返せる「反射ボム」が核で、画面を埋め尽くす弾幕と爆発の物量感が売り。",
+  "target": "Treasure 作品を追う 2D シューティング/アクション愛好家、Radiant Silvergun・Ikaruga・銃武羅などの硬派シューター層、レトロ機の隠れた名作を掘りたいコアゲーマー。",
+  "slug": "bangai-o",
+  "file": "data/games/1633-bangai-o.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bangai-O",
+    "https://www.nintendolife.com/reviews/n64/bakuretsu_muteki_bangaioh",
+    "https://www.mobygames.com/game/6485/bangai-o/",
+    "https://www.timeextension.com/news/2026/02/a-woefully-underrated-n64-underdog-treasures-bangai-o-gets-not-one-but-two-new-english-translations"
+  ]
+}

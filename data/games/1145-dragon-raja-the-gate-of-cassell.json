@@ -1,0 +1,31 @@
+{
+  "id": 1145,
+  "title_jp": "ドラゴンラージャ：Cassel の門",
+  "title_en": "Dragon Raja: The Gate of Cassell",
+  "developer": "Archosaur Games",
+  "publisher": "Tencent",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "戦略カードバトル RPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "$22.6M in 19 days (China, 2024-09)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "原作小説『龍族』IP の正統派カード RPG として中国でリリースされ、配信 19 日で 1.6 億元（約 22.6 百万ドル）を達成。9 月の中国モバイル新作収益ランキング上位に食い込み、TechNode に取り上げられた。",
+  "concept": "江南『龍族』の世界観をベースに、カッセル学院の新入生となって陸明非・楚子航・諾諾・上杉絵梨衣ら原作キャラを集めて編成する戦略カードバトル RPG。7 人編成と装備共有システムで育成負荷を下げつつ、原作エピソード「自由日」「青銅計画」を追体験する構成。",
+  "target": "原作小説『龍族』ファンと、中華系ガチャカード RPG（アズールレーン・原神・崩壊：スターレイル等）プレイヤー。物語の追体験とキャラ収集の両方を求める 10-30 代男性中心の IP コアファン層。",
+  "slug": "dragon-raja-the-gate-of-cassell",
+  "file": "data/games/1145-dragon-raja-the-gate-of-cassell.json",
+  "_source_urls": [
+    "https://technode.com/2024/10/11/mobile-games-dragon-raja-and-ashes-of-the-kingdom-surpass-rmb-100-million-in-revenue-in-september/",
+    "https://longzu.fandom.com/wiki/Dragon_Raja:_ReRise",
+    "https://gachagame.net/en/game/dragon-raja-cassells-gate/",
+    "https://baike.baidu.com/en/item/Dragon%20Raja:%20Cassell%20Gate/1521339"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1763,
+  "title_jp": "Fate/EXTELLA LINK",
+  "title_en": "Fate/EXTELLA LINK",
+  "developer": "マーベラス 1st Studio",
+  "publisher": "Marvelous",
+  "year": 2018,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "Switch",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ハイスピード英霊乱舞アクション",
+  "sales_jp": "117K+ (初週PS4+Vita)",
+  "sales_world": "300K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "前作『Fate/EXTELLA』の続編として参戦サーヴァントを大幅増、4vs4 オンライン対戦の導入で「テラリンク」愛称と共に Fate ファンの注目を集めた。",
+  "concept": "Fate/EXTRA 世界観の英霊たちを操作するハイスピード一騎当千アクション。シナリオを追体験しつつ、4vs4 のオンライン対戦で他プレイヤーと競うサーヴァント乱舞ゲーム。",
+  "target": "Fate シリーズ、特に EXTRA / EXTELLA 系世界観のファン層と、無双系一騎当千アクションを好む 10-30 代のコアゲーマー。推しサーヴァントを操作したいファンに刺さる。",
+  "slug": "fate-extella-link",
+  "file": "data/games/1763-fate-extella-link.json",
+  "_source_urls": [
+    "https://www.marv.jp/titles/cs/9223/",
+    "https://fate-extella-link.jp/",
+    "https://www.pushsquare.com/news/2018/06/japanese_sales_charts_fateextella_link_slashes_its_way_to_number_1_on_ps4",
+    "https://marvelous-usa.com/2018/10/31/fate-extella-link-brings-action-to-more-platforms-with-added-nintendo-switch-in-north-america-and-steam-world-wide-release/"
+  ]
+}

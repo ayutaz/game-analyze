@@ -1,0 +1,30 @@
+{
+  "id": 1621,
+  "title_jp": "マリオパーティ3",
+  "title_en": "Mario Party 3",
+  "developer": "Hudson Soft",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "パーティ/ボードゲーム",
+  "sales_jp": "0.90M",
+  "sales_world": "1.91M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "N64 末期の決定版マリパとして「デュエルマップ」「アイテム戦略」を導入し、シリーズ屈指の完成度として今も人気投票で上位常連。日本国内 N64 ソフト売上 10 位前後。",
+  "concept": "ハドソン開発・任天堂発売のすごろく型パーティゲーム第3作。4人で盤上をサイコロで進みつつスター獲得を競い、各ターン末に 70 種超のミニゲームで勝敗を決める「友達と集まって遊ぶ」体験の決定版。",
+  "target": "小中学生〜大人まで、家族や友人と TV の前に集まって短時間で盛り上がりたい層。N64 リアルタイム世代のリピーターと、Switch Online + 拡張パックで遊ぶレトロ復刻層。",
+  "slug": "mario-party-3",
+  "file": "data/games/1621-mario-party-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mario_Party_3",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A33",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_n64/",
+    "https://vgsales.fandom.com/wiki/Mario_Party"
+  ]
+}

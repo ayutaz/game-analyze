@@ -1,0 +1,35 @@
+{
+  "id": 1523,
+  "title_jp": "ファントム・ブレイブ",
+  "title_en": "Phantom Brave",
+  "developer": "Nippon Ichi Software",
+  "publisher": "NIS America",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Wii",
+    "PSP",
+    "PC",
+    "Switch"
+  ],
+  "genre": "シミュレーションRPG/タクティクス",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『魔界戦記ディスガイア』に続く日本一ソフトウェアのSRPGとして、マス目を使わない自由配置バトルと「コンファイン（憑依）」システムの独自性で熱狂的なコア層を獲得。Wii版『We Meet Again』、PSP移植、Switch版と長期にわたって移植が続いている。",
+  "slug": "phantom-brave",
+  "file": "data/games/1523-phantom-brave.json",
+  "concept": "マス目のない自由移動戦闘と、ファントム（霊体）を草・石・武器などに「憑依」させて召喚するという独自システムを核にしたSRPG。少女マローネと幽霊たちの旅を通じて、ファミリーの絆や偏見をめぐる物語を描く。",
+  "target": "ディスガイア系のやり込み型SRPGを好む20-40代のコア層。育成・乱数・ステ上限突破のシステム研究を楽しむプレイヤーと、日本一ソフトウェア特有の温かい群像劇を求めるプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phantom_Brave",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%96",
+    "https://nippon1.jp/consumer/phantom_brave/",
+    "https://www.metacritic.com/game/phantom-brave/"
+  ]
+}

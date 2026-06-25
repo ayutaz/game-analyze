@@ -1,0 +1,29 @@
+{
+  "id": 1660,
+  "title_jp": "天地創造",
+  "title_en": "Terranigma",
+  "developer": "Quintet",
+  "publisher": "Enix / Nintendo (EU)",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "~90K",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "日本では約9万本と商業的には小規模ながら、欧州ローカライズと哲学的なラスト演出により国内外でカルト的人気を獲得。北米未発売であることも語り草。",
+  "concept": "クインテット「ソウルブレイダー三部作」の最終作。地下世界の主人公が地上を蘇らせ、大陸・生命・文明を順番に芽吹かせていく神話構造のアクションRPG。プレイヤー自身が「世界を創造する」体験を物語駆動で味わわせる。",
+  "target": "SFC期アクションRPGの黄金期を体験した層、特にクインテット作品（ソウルブレイダー／ガイア幻想紀）の宗教・哲学的物語性に惹かれたコアJRPGファン。",
+  "slug": "terranigma",
+  "file": "data/games/1660-terranigma.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Terranigma",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9C%B0%E5%89%B5%E9%80%A0_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://quintet.fandom.com/wiki/Terranigma"
+  ]
+}

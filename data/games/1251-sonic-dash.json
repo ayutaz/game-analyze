@@ -1,0 +1,33 @@
+{
+  "id": 1251,
+  "title_jp": "ソニックダッシュ",
+  "title_en": "Sonic Dash",
+  "developer": "Hardlight",
+  "publisher": "SEGA",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Arcade"
+  ],
+  "genre": "エンドレスランナー",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "ソニック IP × 3D エンドレスランナーで 2021 年 9 月に累計 5 億 DL を達成、2025 年 3 月期で 6.76 億 DL に到達した SEGA モバイルの代表作。歴代ソニックモバイル収益の合計を上回る稼ぎ頭で、Temple Run / Subway Surfers 系の手軽さに公式 IP を載せて長期運営している。",
+  "concept": "ソニックの高速感を「自動前進＋3 レーン回避＋リング収集」のエンドレスランナーに落とし込んだ F2P カジュアル。短セッションのスコアアタックと、追加キャラクター・季節イベントによる継続フックを両立させた長寿モバイル設計。",
+  "target": "ソニック IP に親しんだライト層〜キッズと、Temple Run / Subway Surfers 系ランナーを好む全年齢のモバイルユーザー。1-3 分のスキマ時間プレイと非同期スコアランキング競争を楽しむ層。",
+  "slug": "sonic-dash",
+  "file": "data/games/1251-sonic-dash.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sonic_Dash",
+    "https://www.thegamer.com/sonic-dash-hits-500-million-downloads/",
+    "https://www.pocketgamer.biz/sonic-dash-surpasses-500-million-downloads/",
+    "https://sonic.fandom.com/wiki/Sonic_Dash"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1752,
+  "title_jp": "Fate/stay night [Realta Nua]",
+  "title_en": "Fate/stay night [Realta Nua]",
+  "developer": "TYPE-MOON / HuneX",
+  "publisher": "角川書店 / Kadokawa Games",
+  "year": 2007,
+  "platform": [
+    "PS2",
+    "PC",
+    "PS Vita",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ビジュアルノベル/伝奇ADV",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL (モバイル累計 2020 時点)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "PC同人版『Fate/stay night』(2004) のアダルト要素を削除し全年齢化＋追加シナリオを収録した家庭用版。PS2→PC→PS Vita→iOS/Androidと長期に渡って移植され、2020年にモバイル版が国内累計100万DLを突破した、Fateシリーズの原典として再評価が続いている。",
+  "concept": "Saber/Rin/Sakuraの3ルートを通じて聖杯戦争という運命の物語を読み解く、TYPE-MOONビジュアルノベルの決定版。原作の重厚な伝奇テキストはそのままに、フルボイスと追加エピソード「Last Episode」を加えて全年齢で楽しめるパッケージに再構成されている。",
+  "target": "Fateシリーズや型月作品のファン、長文ビジュアルノベルを腰を据えて読みたい層、アニメ・FGOから入って原典に触れたい新規層。10〜40代男女、特に物語消費志向の強いオタク層。",
+  "slug": "fate-stay-night-realta-nua",
+  "file": "data/games/1752-fate-stay-night-realta-nua.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/stay_night",
+    "https://www.famitsu.com/news/202001/30191668.html",
+    "https://www.fate-sn.jp/",
+    "https://kakaku.com/item/K0000399600/",
+    "https://www.pcgamingwiki.com/wiki/Fate/stay_night_(Realta_Nua)"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1289,
+  "title_jp": "シンプソンズ：タップド・アウト",
+  "title_en": "The Simpsons: Tapped Out",
+  "developer": "EA Mobile",
+  "publisher": "EA",
+  "year": 2012,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "シティビルダー/F2P モバイル",
+  "sales_jp": "—",
+  "sales_world": "$323M+ 累計（AppMagic 推定、App Store + Google Play 合算）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「ザ・シンプソンズ」IP × 都市建設 F2P の代表作で、米国 iPhone 売上 Top 20 にほぼ常駐し続けた稀有な長寿タイトル。2025 年 1 月の 13 年運営終了が世界的に報じられ、終焉のニュースバリューでも大きくバズった。",
+  "concept": "原作アニメのスプリングフィールドを自分の手で再建する都市建設シミュレーター。建物・住人・季節イベントで原作キャラとギャグを次々アンロックし、ハードコア課金よりも「コレクション + 待ち時間ループ」を軸に長期運営してきた IP モバイル F2P の典型。",
+  "target": "ザ・シンプソンズの北米・欧州ファン層を中心とした 20-50 代カジュアル層。本格 PvP やガチャを避けつつ、好きな IP の世界観を箱庭で広げたいライト F2P プレイヤー。",
+  "slug": "the-simpsons-tapped-out",
+  "file": "data/games/1289-the-simpsons-tapped-out.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Simpsons:_Tapped_Out",
+    "https://mcvuk.com/development-news/the-simpsons-tapped-out-rakes-in-100m-lifetime-revenues/",
+    "https://www.pocketgamer.biz/ea-shutting-down-the-simpsons-tapped-out-after-12-years/",
+    "https://automaton-media.com/articles/newsjp/thesimpsonstappedout-20240927-312384/",
+    "https://play.google.com/store/apps/details?id=com.ea.game.simpsons4_na&hl=ja&gl=US"
+  ]
+}

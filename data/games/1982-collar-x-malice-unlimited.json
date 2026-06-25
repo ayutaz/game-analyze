@@ -1,0 +1,29 @@
+{
+  "id": 1982,
+  "title_jp": "Collar×Malice -Unlimited-",
+  "title_en": "Collar x Malice: Unlimited",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2018,
+  "platform": [
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー/オトメ（ファンディスク）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "本編『Collar×Malice』のアフターストーリーを収録したファンディスクとして、原作ファンの女性層から強く支持。2020 年の Nintendo Switch 移植（Aksys Games による英語版含む）で再注目された。",
+  "concept": "公安特務四課の刑事たちとの関係を本編エンディング後の「アフターストーリー」「サイドストーリー」「Adonis 編」の三部構成で深掘りするファンディスク。各攻略キャラのその後を物語消費として描く。",
+  "target": "本編『Collar×Malice』をプレイ済みの女性オトメユーザーを中心に、シリアス・サスペンス系の恋愛 ADV を好む 20-30 代女性層。",
+  "slug": "collar-x-malice-unlimited",
+  "file": "data/games/1982-collar-x-malice-unlimited.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Collar_%C3%97_Malice",
+    "https://www.otomate.jp/collar_malice/fd/",
+    "https://www.4gamer.net/games/393/G039316/index_special.html",
+    "https://otomekitten.com/2020/08/13/collar-x-malice-unlimited-review-nintendo-switch/"
+  ]
+}

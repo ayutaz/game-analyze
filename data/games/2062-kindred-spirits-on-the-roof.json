@@ -1,0 +1,27 @@
+{
+  "id": 2062,
+  "title_jp": "屋上の百合霊さん",
+  "title_en": "Kindred Spirits on the Roof",
+  "developer": "Liar-soft",
+  "publisher": "MangaGamer",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "百合アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Steam で初めて無修正のまま配信された 18 禁ビジュアルノベルとして海外でも大きな話題になり、百合 VN を世界に広めた象徴的タイトル。2018 年にはフルボイス版『屋上の百合霊さん フルコーラス』が発売された。",
+  "concept": "全寮制の女子校・九重星学園を舞台に、屋上で出会った 2 人の百合霊（幽霊）から「校内の百合カップルを増やしてユリトピアを実現してほしい」と頼まれる、オムニバス形式の百合アドベンチャー。複数カップルの恋愛模様を群像劇として読み進めるノベルゲーム。",
+  "target": "百合ジャンルのファン、シリアスかつ丁寧な女性同士の恋愛描写を求めるノベルゲーマー。Liar-soft 作品や Steam 配信を経由した海外の百合 VN ファン層にも広く支持される。",
+  "slug": "kindred-spirits-on-the-roof",
+  "file": "data/games/2062-kindred-spirits-on-the-roof.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kindred_Spirits_on_the_Roof",
+    "https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B8%8A%E3%81%AE%E7%99%BE%E5%90%88%E9%9C%8A%E3%81%95%E3%82%93",
+    "https://store.steampowered.com/app/402620/Kindred_Spirits_on_the_Roof/"
+  ]
+}

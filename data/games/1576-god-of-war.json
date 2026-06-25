@@ -1,0 +1,30 @@
+{
+  "id": 1576,
+  "title_jp": "ゴッド・オブ・ウォー",
+  "title_en": "God of War",
+  "developer": "SCE Santa Monica",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/ハック&スラッシュ",
+  "sales_jp": "62K",
+  "sales_world": "4.6M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ギリシャ神話を題材に過激な暴力描写と爽快なコンボアクションで Game of the Year を多数受賞、PS2 後期を代表するアクションアドベンチャーとして以後のシリーズ累計 2,100 万本超の起点となった。",
+  "concept": "裏切られた戦士クレイトスがオリンポスの神々への復讐のため神話の世界を旅する三人称視点ハック&スラッシュ。連鎖コンボ・QTE による処刑演出・神話パズルを軸に、ギリシャ悲劇調の重厚な物語を体験させる。",
+  "target": "20-40代の男性コアゲーマー中心。デビルメイクライ系の爽快コンボアクションと、ギリシャ神話・ダークファンタジー的世界観の物語演出の両方を求める層。",
+  "slug": "god-of-war",
+  "file": "data/games/1576-god-of-war.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/God_of_War_(2005_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC",
+    "https://sonyinteractive.com/jp/press-releases/2012/120605d/",
+    "https://vgsales.fandom.com/wiki/God_of_War"
+  ]
+}

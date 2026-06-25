@@ -1,0 +1,27 @@
+{
+  "id": 1931,
+  "title_jp": "殻ノ少女",
+  "title_en": "Kara no Shoujo",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / MangaGamer",
+  "year": 2008,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトミステリー・ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1956年戦後東京を舞台にした猟奇殺人ミステリーADVとして高評価を獲得。Innocent Grey 出世作で、続編・HD リマスター（The Shell Part I: Inferno, Shiravune 2023）まで展開された美少女ゲーム史の代表的探偵ノベル。",
+  "concept": "私立探偵・時坂玲人として大場女学院の連続少女失踪・猟奇殺人事件を追う推理ビジュアルノベル。鬱々とした世界観と須田彩加の繊細な絵柄、複数 EDで読み手の精神を揺さぶる「読ませる」一作。",
+  "target": "美少女ゲーム・ノベルゲーム愛好層、特にミステリ／猟奇／ハードボイルドものを好む 20-40 代男性。重い物語と陰鬱な雰囲気に耐性のあるコアな VN プレイヤー向け。",
+  "slug": "kara-no-shoujo",
+  "file": "data/games/1931-kara-no-shoujo.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kara_no_Sh%C5%8Djo",
+    "https://www.animenewsnetwork.com/press-release/2011-05-17/mangagamer-announces-kara-no-shoujo",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/KaraNoShoujo"
+  ]
+}

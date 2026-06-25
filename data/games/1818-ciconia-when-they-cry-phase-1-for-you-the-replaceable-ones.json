@@ -1,0 +1,28 @@
+{
+  "id": 1818,
+  "title_jp": "ciconia のなく頃に Phase 1",
+  "title_en": "Ciconia When They Cry - Phase 1: For You, the Replaceable Ones",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2019,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "竜騎士07による『なく頃に』シリーズ第3作目として、ひぐらし・うみねこのファンから注目を集めた。2019年10月4日に日英同時リリースされ、Steam で世界配信。",
+  "slug": "ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones",
+  "file": "data/games/1818-ciconia-when-they-cry-phase-1-for-you-the-replaceable-ones.json",
+  "concept": "第三次世界大戦後100年が経過したポストアポカリプス世界を舞台に、究極の軍事技術「ガントレット」を巡る少年少女の運命を描くサウンドノベル。『ひぐらし』『うみねこ』に続く「なく頃に」シリーズ第3作。",
+  "target": "竜騎士07作品のファン、ひぐらし・うみねこを読了した層、長編伝奇/SFミステリ系ビジュアルノベル愛好者。",
+  "_source_urls": [
+    "https://store.steampowered.com/app/1162560/Ciconia_When_They_Cry__Phase_1_For_You_the_Replaceable_Ones/",
+    "https://en.wikipedia.org/wiki/Ciconia_When_They_Cry",
+    "https://07th-expansion.net/cico/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%B3%E3%83%8B%E3%82%A2%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB"
+  ]
+}

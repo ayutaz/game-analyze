@@ -1,0 +1,32 @@
+{
+  "id": 1123,
+  "title_jp": "Game of Thrones: Conquest",
+  "title_en": "Game of Thrones: Conquest",
+  "developer": "Warner Bros. Games (Turbine)",
+  "publisher": "Warner Bros. Games",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMO ストラテジー/4X 領地拡張",
+  "sales_jp": "—",
+  "sales_world": "$500M+ lifetime",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "HBO ドラマ「ゲーム・オブ・スローンズ」最終シーズン放送期（2019 年 4 月）に月商 19M ドルで過去最高を記録し、Sensor Tower 集計で配信 1 年で 1.25 億ドル、2019 年 5 月時点で累計 2.14 億ドルを突破。IP 力と Lords Mobile 系 4X の組み合わせで日本語版も同時配信された。",
+  "slug": "game-of-thrones-conquest",
+  "file": "data/games/1123-game-of-thrones-conquest.json",
+  "concept": "HBO ドラマ「ゲーム・オブ・スローンズ」の世界観を Lords Mobile / Last War 型 MMO ストラテジー（領地建設＋同盟戦＋鉄の玉座争奪）に落とし込んだ IP ライセンス 4X。90 体超のドラマキャラ収集、ドラゴン育成、英雄装備強化など RPG 的成長軸を重ねている。",
+  "target": "海外ドラマ「ゲーム・オブ・スローンズ」ファン層と、Lords Mobile / Rise of Kingdoms / Last War 等の 4X モバイル MMO を長期周回する 25–45 歳の重課金層。同盟運営や夜間 PvP に時間を割ける層が中核。",
+  "_source_urls": [
+    "https://sensortower.com/blog/game-of-thrones-conquest-revenue",
+    "https://sensortower.com/blog/game-of-thrones-conquest-revenue-april-2019",
+    "https://www.4gamer.net/games/397/G039761/20171020040/",
+    "https://en.wikipedia.org/wiki/List_of_A_Song_of_Ice_and_Fire_video_games",
+    "https://apps.apple.com/jp/app/game-of-thrones-conquest/id1035712810"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1063,
+  "title_jp": "Shadowgun Legends",
+  "title_en": "Shadowgun Legends: Online FPS",
+  "developer": "Madfinger Games",
+  "publisher": "DECA Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オンラインFPS/MMOシューター",
+  "sales_jp": "—",
+  "sales_world": "19M+ downloads (シリーズ累計 200M players claimed)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "コンソール級グラフィックを謳ったモバイルFPSとして2018年に話題化。Madfinger 系列（Dead Trigger / Unkilled / Shadowgun War Games）累計 2 億 DL の系譜で、Google Play 単体でも 1,900 万 DL 規模。",
+  "concept": "「モバイルでコンソール級 FPS を遊ばせる」を掲げたオンラインシューター。100+ ミッションのソロキャンペーンに加え、PvP / レイドボス / 700 種以上の銃カスタマイズを備えた MMO 的アバター育成型 FPS。",
+  "target": "モバイルでガチの撃ち合いを求める 10-30 代男性中心。CoD Mobile / PUBG Mobile に行く前のミドル層、装備コレクションとアバター見せ合いを楽しみたい FPS ライト勢。",
+  "slug": "shadowgun-legends-online-fps",
+  "file": "data/games/1063-shadowgun-legends-online-fps.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadowgun_Legends",
+    "https://www.shadowgunlegends.com/",
+    "https://play.google.com/store/apps/details?id=com.madfingergames.legends",
+    "https://apps.apple.com/us/app/shadowgun-legends-online-fps/id1091251242",
+    "https://www.similarweb.com/app/google/com.madfingergames.legends/"
+  ]
+}

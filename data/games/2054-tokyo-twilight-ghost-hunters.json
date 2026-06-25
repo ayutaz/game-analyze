@@ -1,0 +1,32 @@
+{
+  "id": 2054,
+  "title_jp": "東京クロノス・ゴーストハンター",
+  "title_en": "Tokyo Twilight Ghost Hunters",
+  "developer": "Toybox Inc.",
+  "publisher": "Arc System Works / Aksys Games / NIS America",
+  "year": 2014,
+  "platform": [
+    "PS3",
+    "PS Vita"
+  ],
+  "genre": "ビジュアルノベル/タクティカルRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "現代東京を舞台にした学園オカルト×幽霊退治というニッチな組み合わせと、グリッド戦術パートの独特な「同時行動・予測読み」システムが海外レビューで話題に。北米 Aksys / 欧州 NIS America からローカライズされ、コアな ADV ファン層に届いた。",
+  "concept": "現代東京の高校を起点に「幽霊退治業」を営む主人公チームが、依頼ごとに紙のグラフ用紙風マップで罠を仕掛け、ターン同時解決の戦術バトルで霊を祓う。ビジュアルノベル調の調査・会話パートとタクティカルRPG パートを交互に行き来する珍しいハイブリッド構成。",
+  "target": "国産 ADV / 伝奇オカルトもの（女神転生・東京魔人學園 系）を好む層と、変則的なタクティカル戦闘の実験作を試したい PS Vita / PS3 ユーザー。物語と独自システムの両方に粘り強く付き合えるコアゲーマー向け。",
+  "slug": "tokyo-twilight-ghost-hunters",
+  "file": "data/games/2054-tokyo-twilight-ghost-hunters.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tokyo_Twilight_Ghost_Hunters",
+    "https://store.steampowered.com/app/425460/Tokyo_Twilight_Ghost_Hunters_Daybreak_Special_Gigs/",
+    "https://www.mobygames.com/game/95963/tokyo-twilight-ghost-hunters/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/TokyoTwilightGhostHunters",
+    "https://www.metacritic.com/game/tokyo-twilight-ghost-hunters/"
+  ]
+}

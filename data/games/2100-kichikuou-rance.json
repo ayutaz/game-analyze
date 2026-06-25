@@ -1,0 +1,33 @@
+{
+  "id": 2100,
+  "title_jp": "鬼畜王ランス",
+  "title_en": "Kichikuou Rance",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 1996,
+  "platform": [
+    "PC"
+  ],
+  "genre": "領土征服シミュレーション/アダルトRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ランスシリーズ7作目、AliceSoft 初の Windows 95 / SYSTEM 35 対応作で、後の戦国ランス・大シリーズに継承される領土征服システムの原典。2006 年に「配布フリー宣言」でフリーウェア化され、2014 年に Arunaru による英訳パッチが公開され海外コミュニティでもカルト的人気。",
+  "concept": "レアザス王となったランスが捕らわれたシィルを救出するため大陸全土を蹂躙する、territory conquest 型ストラテジー SLG。陣営ごとに国家を制圧していくマップ戦略と、キャラクター個別エピソードの分岐が同居する。",
+  "target": "90 年代アダルト PC ゲーマー、ランスシリーズおよび AliceSoft ファン、戦国ランス / 大悪司 / 大番長系の領土征服 SLG を遊ぶ層、レトロ和製エロゲ・カルト名作を遡って遊ぶ層。",
+  "slug": "kichikuou-rance",
+  "file": "data/games/2100-kichikuou-rance.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Kichikuou_Rance",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://archive.org/details/kichikuou_rance",
+    "https://kichikuou.github.io/web/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

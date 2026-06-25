@@ -1,0 +1,35 @@
+{
+  "id": 1274,
+  "title_jp": "ディズニー ミラーバース",
+  "title_en": "Disney Mirrorverse",
+  "developer": "Kabam",
+  "publisher": "Kabam",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "チーム型アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "$34.1M 生涯売上（2024-12サ終）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ディズニー＆ピクサー全方位のキャラ（ミッキー／エルサ／バズ／シンバ／ジャック・スパロウ等）を「ダーク／ライトの魔法で変身した戦士」として再解釈、コラボ感の強いガチャARPGとして2022年6月の配信直後に月商$5.8Mの初動を記録。日本では『Disney ミラー・ウォリアーズ』名義で展開、約2.5年で2024年12月16日にサ終した。",
+  "concept": "ディズニー／ピクサーのIPキャラクターを「鏡像世界の戦士」に再デザインしたチーム編成型アクションRPG。3人パーティでステージを攻略しつつ、ガチャでキャラを集めて育成・凸する典型的なモバイル収益モデルに、IPの強さで集客レイヤーを乗せた構造。",
+  "target": "ディズニー／ピクサーIPに思い入れがある10-40代の女性層・親子層と、Marvel Contest of Champions等Kabam系のキャラ収集ARPGに慣れた海外モバイルゲーマー。日本では『キングダム ハーツ』『ツイステ』周辺の層をターゲットにしていた。",
+  "slug": "disney-mirrorverse",
+  "file": "data/games/1274-disney-mirrorverse.json",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/kabam-to-shut-down-disney-mirrorverse-after-making-34m-in-revenue/",
+    "https://www.gamedeveloper.com/business/kabam-shuts-down-disney-mirrorverse-after-2-5-years",
+    "https://dpost.jp/2024/09/19/wp-112707/",
+    "https://prtimes.jp/main/html/rd/p/000001637.000007736.html",
+    "https://gamebiz.jp/news/351751"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

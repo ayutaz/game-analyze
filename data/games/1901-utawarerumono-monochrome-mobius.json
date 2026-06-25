@@ -1,0 +1,36 @@
+{
+  "id": 1901,
+  "title_jp": "うたわれるもの モノクロームメビウス 刻ノ代贖",
+  "title_en": "Utawarerumono: Monochrome Mobius",
+  "developer": "AQUAPLUS",
+  "publisher": "AQUAPLUS",
+  "year": 2022,
+  "platform": [
+    "PS4",
+    "PS5",
+    "PC"
+  ],
+  "genre": "ストーリーRPG/3DアクションRPG",
+  "sales_jp": "約14,000本（PS4/PS5 初週合計）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「うたわれるもの」シリーズ20周年記念作にしてオシュトル前日譚として注目を集めた。初週はPS4/PS5合計で1.4万本規模と小粒ながら、Steam版・NIS America経由の海外展開で固定ファン層に評価が広がった。",
+  "concept": "「うたわれるもの 散りゆく者への子守唄」の主人公オシュトル/ハクの父・ヴァントの若き日を描いたシリーズ前日譚3DアクションRPG。3Dフィールドを移動しながらコマンド+リアルタイム要素のバトルで戦う、シナリオ重視の中規模RPG。",
+  "target": "「うたわれるもの」シリーズ既プレイのファン層、和風ファンタジー×重厚シナリオを好む20-40代のRPGプレイヤー。シリーズ未経験でもJRPGとして遊べるが、本領はファン向けの掘り下げにある。",
+  "slug": "utawarerumono-monochrome-mobius",
+  "file": "data/games/1901-utawarerumono-monochrome-mobius.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Monochrome_Mobius:_Rights_and_Wrongs_Forgotten",
+    "https://store.steampowered.com/app/1962430/Monochrome_Mobius_Rights_and_Wrongs_Forgotten/",
+    "https://utawarerumono.com/monochrome-mobius/",
+    "https://ysokuhou.blog.jp/archives/89486422.html",
+    "https://magetopi.com/mm"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

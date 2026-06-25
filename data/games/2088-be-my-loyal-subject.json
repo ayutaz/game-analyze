@@ -1,0 +1,30 @@
+{
+  "id": 2088,
+  "title_jp": "Be My Loyal Subject",
+  "title_en": "Be My Loyal Subject",
+  "developer": "ChaniMK",
+  "publisher": "ChaniMK",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "BLビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "中世風BL（ボーイズラブ）ビジュアルノベルとして Steam / itch.io のインディーBL層で話題化。$4.99 の低価格と複数ルート（教会・軍・商人・庶民）が SNS 攻略勢にウケた。",
+  "concept": "若くして王位に就いたウルリック王が、父の臣下たちからの簒奪を警戒しつつ、教会・軍・商人・庶民から「忠実な臣下」を選んで国を治めていく中世風BLビジュアルノベル。プレイヤーの選択が統治方針とロマンス相手を決める。",
+  "target": "英語圏の BL / ヤオイ系ビジュアルノベル愛好層、中世ファンタジー恋愛ものを好むニッチ層。インディー価格帯で短時間の物語消費を求めるノベルゲーマー。",
+  "slug": "be-my-loyal-subject",
+  "file": "data/games/2088-be-my-loyal-subject.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2125100/Be_My_Loyal_Subject__Historical_Boys_Love_BL_Visual_Novel/",
+    "https://chanimk.itch.io/be-my-loyal-subject",
+    "https://www.mobygames.com/game/208969/be-my-loyal-subject/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

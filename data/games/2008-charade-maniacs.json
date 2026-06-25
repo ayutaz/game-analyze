@@ -1,0 +1,29 @@
+{
+  "id": 2008,
+  "title_jp": "CharadeManiacs",
+  "title_en": "Charade Maniacs",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2018,
+  "platform": [
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/アドベンチャー(ビジュアルノベル)",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「アルカディア」を舞台にした SF ミステリー × 乙女の異色作として、ストーリー重視の重厚なシナリオと斉藤壮馬・鈴村健一・浪川大輔ら豪華声優陣で乙女ゲーマー層にバズ。2021 年 Switch 移植、2023 年に英語版（Idea Factory International / Aksys）が出てグローバル乙女ファン層へ拡張、舞台化（CharadeManiacs 再演）も実施された。",
+  "concept": "二つの月が浮かぶ異世界「アルカディア」に攫われた 10 人が「ドラマ（嘘）」を演じながら裏切り者を探す、ミステリー仕立ての乙女アドベンチャー。恋愛より群像劇と世界観の謎解きを軸に据え、フローチャート＋調査パートで真相に近づく構成。",
+  "target": "10–30 代の女性、特にシナリオ重視の乙女ゲーマー層と SF・サスペンス系群像劇を好む層。ライトな恋愛より、伏線回収と世界観の謎を味わいたいプレイヤー。",
+  "slug": "charade-maniacs",
+  "file": "data/games/2008-charade-maniacs.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Charade_Maniacs",
+    "https://www.otomate.jp/charade_maniacs/",
+    "https://www.digitallydownloaded.net/2023/04/otome-visual-novel-charade-maniacs-launching-for-switch-in-the-west-this-june.html",
+    "https://srotastage.jp/charade_maniacs_stage/"
+  ]
+}

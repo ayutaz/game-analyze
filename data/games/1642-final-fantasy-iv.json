@@ -1,0 +1,43 @@
+{
+  "id": 1642,
+  "title_jp": "ファイナルファンタジーIV",
+  "title_en": "Final Fantasy IV",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1991,
+  "platform": [
+    "SNES",
+    "PS1",
+    "GBA",
+    "DS",
+    "PSP",
+    "iOS",
+    "Android",
+    "PC",
+    "PS4",
+    "Switch",
+    "Xbox Series X/S"
+  ],
+  "genre": "RPG",
+  "sales_jp": "1.44M",
+  "sales_world": "1.78M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ATB（アクティブタイムバトル）をシリーズ初採用し、暗黒騎士セシルがパラディンへ覚醒する群像劇でJRPGの物語表現を一段引き上げた金字塔。Pixel Remaster や DS 3D リメイクで何度も再評価されている。",
+  "concept": "ATB バトルとキャラ固定ジョブ制を組み合わせ、「世界を救う仲間たちの裏切りと和解」をテーマにした群像劇 RPG。シリーズ初の SFC ナンバリングとして、JRPG の物語駆動スタイルを定義した。",
+  "target": "ストーリー重視の JRPG ファン、FF シリーズの古参プレイヤー、Pixel Remaster や DS リメイクで往年の名作を追体験したい 20-50 代のレトロ RPG 愛好者。",
+  "slug": "final-fantasy-iv",
+  "file": "data/games/1642-final-fantasy-iv.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Final_Fantasy_IV",
+    "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IV",
+    "https://doropiza.com/finalfantasy-uriage-ranking/",
+    "https://kopenguin.com/post-67410/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

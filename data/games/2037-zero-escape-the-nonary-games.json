@@ -1,0 +1,35 @@
+{
+  "id": 2037,
+  "title_jp": "ZERO ESCAPE The Nonary Games",
+  "title_en": "Zero Escape: The Nonary Games",
+  "developer": "Chunsoft",
+  "publisher": "Spike Chunsoft / Aksys Games",
+  "year": 2017,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "PC",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "脱出アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "DS 名作『極限脱出 9時間9人9の扉』と『善人シボウデス』をリマスター収録した合本。海外では極限脱出シリーズ再評価の起点となり、Steam/PS4/Vita で長期ロングセラー化した。",
+  "concept": "9 人が密室から脱出するため命を賭けて推理し合うシリーズ1作目と2作目を高解像度化・実績対応で再収録した「ナラティブ＋脱出パズル」アンソロジー。プレイヤーは複数ルート分岐の中で真相に至るフロー図を埋めていく。",
+  "target": "極限脱出シリーズ未プレイで本流まとめて触りたい層、SF サスペンスや時系列パズルを好むアドベンチャー愛好家、Danganronpa/AI シリーズなど打越鋼太郎・打越脚本系を追うファン。",
+  "slug": "zero-escape-the-nonary-games",
+  "file": "data/games/2037-zero-escape-the-nonary-games.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Zero_Escape",
+    "https://zeroescape.fandom.com/wiki/Zero_Escape:_The_Nonary_Games",
+    "https://www.spike-chunsoft.com/games/zero-escape-nonary-games/",
+    "https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/",
+    "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/"
+  ]
+}

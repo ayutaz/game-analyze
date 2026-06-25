@@ -1,0 +1,32 @@
+{
+  "id": 1839,
+  "title_jp": "Root Letter ルートレター",
+  "title_en": "Root Letter",
+  "developer": "Kadokawa Games",
+  "publisher": "Kadokawa / PQube",
+  "year": 2016,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ミステリーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "500K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「角川ゲームスミステリー」第1弾として島根県を舞台にしたご当地ミステリー、15年前の文通相手の失踪を追う構成と実写背景のビジュアルが話題に。海外では PQube 配給でビジュアルノベル復権の流れに乗り、シリーズ累計 50 万本超を達成。",
+  "concept": "15 年前に文通していた相手「あやちゃん」の手紙に綴られた「私は人を殺してしまった」という告白を手掛かりに、島根県松江を訪ね当時の同級生 7 人を尋ね歩く実写背景ミステリーアドベンチャー。選択肢と尋問パートで真相が 5 つのエンディングに分岐する。",
+  "target": "ご当地ものと文通／青春ミステリーに惹かれる 20-40 代のアドベンチャー／ビジュアルノベル愛好層。実写背景と昭和ノスタルジーを許容できるプレイヤー向け。",
+  "slug": "root-letter",
+  "file": "data/games/1839-root-letter.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Root_Letter",
+    "https://www.gematsu.com/2022/04/root-letter-series-shipments-and-digital-sales-top-500000",
+    "https://www.gematsu.com/2016/06/pqube-publish-root-letter-west",
+    "https://blog.playstation.com/archive/2016/10/04/solve-a-decade-old-murder-in-visual-novel-root-letter-out-on-ps4-ps-vita-this-month"
+  ]
+}

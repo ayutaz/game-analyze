@@ -1,0 +1,32 @@
+{
+  "id": 1599,
+  "title_jp": "テスト・ドライブ アンリミテッド",
+  "title_en": "Test Drive Unlimited",
+  "developer": "Eden Games",
+  "publisher": "Atari",
+  "year": 2006,
+  "platform": [
+    "Xbox 360",
+    "PS2",
+    "PSP",
+    "PC"
+  ],
+  "genre": "オープンワールド・レーシング (MMOR)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ハワイ・オアフ島の約1,600km の公道をまるごと再現したオープンワールドと、他プレイヤーと同じ世界を走り回れる MMOR (Massively Multiplayer Online Racing) コンセプトが話題に。125 台以上のライセンス車両を所有・カスタムできる「クルマ生活シム」要素が後のレーシングジャンルに影響を残した。",
+  "concept": "ハワイ・オアフ島を実寸大で再現したオープンワールドを舞台に、ディーラーで車を買い、家を買い、他プレイヤーとシームレスに出会って走り合う「オンライン・カーライフ・シミュレーター」。レースで稼ぐ→車を増やす→見せ合うのループが主軸。",
+  "target": "実在のスーパーカー・スポーツカーを所有・カスタムする願望を持つ車好き層、オープンワールドでの自由な探索とゆるい対戦・すれ違いを楽しみたいオンラインプレイヤー層。",
+  "slug": "test-drive-unlimited",
+  "file": "data/games/1599-test-drive-unlimited.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Test_Drive_Unlimited",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96_%E3%82%A2%E3%83%B3%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89",
+    "https://testdrive.fandom.com/wiki/Eden_Games"
+  ]
+}

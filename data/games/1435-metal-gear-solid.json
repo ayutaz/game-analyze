@@ -1,0 +1,31 @@
+{
+  "id": 1435,
+  "title_jp": "メタルギアソリッド",
+  "title_en": "Metal Gear Solid",
+  "developer": "Konami Computer Entertainment Japan",
+  "publisher": "Konami",
+  "year": 1998,
+  "platform": [
+    "PS1",
+    "PC"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "1M+",
+  "sales_world": "7M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "小島秀夫監督によるフルボイス・シネマティック演出が衝撃を与え、ステルスゲームというジャンルを世界的に確立。サイコ・マンティスのコントローラ差し替えなど第4の壁を破る演出が語り草に。",
+  "concept": "敵に見つからず潜入することを主動機にした「ステルスアクション」を映画的演出で完成させた金字塔。索敵・物陰・無線通信といったメカニクスを物語と一体化させ、プレイヤーの「諜報員になる体験」を成立させた。",
+  "target": "10-40代の男性層を中心としたアクション/洋画好き、ミリタリー・スパイ題材ファン、シネマティックな物語演出を求めるコアゲーマー層。",
+  "slug": "metal-gear-solid",
+  "file": "data/games/1435-metal-gear-solid.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%BD%E3%83%AA%E3%83%83%E3%83%89",
+    "https://www.vgchartz.com/game/1325/metal-gear-solid/",
+    "https://www.4gamer.net/games/718/G071818/20230807018/"
+  ]
+}

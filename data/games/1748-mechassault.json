@@ -1,0 +1,28 @@
+{
+  "id": 1748,
+  "title_jp": "メックアサルト",
+  "title_en": "MechAssault",
+  "developer": "Day 1 Studios",
+  "publisher": "Microsoft Game Studios",
+  "year": 2002,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "メカアクション/オンラインシューター",
+  "sales_jp": "—",
+  "sales_world": "1.4M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Xbox Live ローンチタイトルとしてボイスチャット付き最大8人対戦を実現し、GameSpot の Xbox Game of the Year を受賞。シリーズ累計 110 万本超を売り上げ、コンソール・オンライン対戦の原点として語られる。",
+  "concept": "バトルテック世界の31世紀を舞台に、巨大ロボット「バトルメック」を操って破壊可能な戦場で撃ち合う三人称メカアクション。Xbox Live を前提とした対戦ロビーとボイスチャットを核に、操作の敷居をシム寄りから一気に下げたカジュアル路線が特徴。",
+  "target": "MechWarrior 系シムは敷居が高いと感じていた家庭用ゲーマー、Xbox Live で対戦やボイスチャットを試したかった初期オンラインユーザー、ロボット/メカもの SF が好きな 20-40 代男性。",
+  "slug": "mechassault",
+  "file": "data/games/1748-mechassault.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/MechAssault",
+    "https://news.microsoft.com/source/2002/11/12/mechassault-offers-xbox-players-the-ultimate-action-experience/",
+    "https://game.watch.impress.co.jp/docs/20030704/mech.htm",
+    "https://www.gavas.jp/blog/archives/5252"
+  ]
+}

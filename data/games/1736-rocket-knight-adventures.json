@@ -1,0 +1,27 @@
+{
+  "id": 1736,
+  "title_jp": "ロケットナイトアドベンチャーズ",
+  "title_en": "Rocket Knight Adventures",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1993,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "横スクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "コナミがメガドライブに送り込んだ意欲作。背中のロケットを使った突進「ロケットアタック」の爽快感と高難度ステージ構成で、海外を中心に熱狂的なカルト的人気を獲得した。",
+  "concept": "オポッサムの騎士「スパークスター」がロケットを背負って戦う横スクロールアクション。剣攻撃と方向指定の「ロケットアタック」突進、さらに横シューティング面など多彩なギミックを 1 本に詰め込んだコナミ職人芸的プラットフォーマー。",
+  "target": "メガドライブ世代のアクションゲーマー、特に高難度プラットフォーマーやコナミ製横スクロール（魂斗羅 / がんばれゴエモン系）が好きな層。レトロゲーム愛好家にも根強く支持される。",
+  "slug": "rocket-knight-adventures",
+  "file": "data/games/1736-rocket-knight-adventures.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rocket_Knight_Adventures",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA",
+    "https://konami.fandom.com/wiki/Rocket_Knight_Adventures"
+  ]
+}

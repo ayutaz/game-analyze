@@ -1,0 +1,30 @@
+{
+  "id": 1708,
+  "title_jp": "ソニック3D ブラスト",
+  "title_en": "Sonic 3D Blast",
+  "developer": "Traveller's Tales / Sonic Team",
+  "publisher": "Sega",
+  "year": 1996,
+  "platform": [
+    "Mega Drive",
+    "Saturn",
+    "PC"
+  ],
+  "genre": "アイソメトリック3Dアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "16bit末期にプリレンダ3Dモデルをスプライト化したクォータービュー演出が話題。日本ではセガサターン版『ソニック3D フリッキーアイランド』(1999)として発売され、欧米北米先行・国内後追いという変則展開も注目された。",
+  "concept": "従来の横スクロールから一転し、クォータービューのアイソメトリック視点でフリッキーを集めながらステージをクリアするスピンオフ的ソニック。プリレンダ3DモデルをMega Drive/Saturnのスプライトに落とし込み、32bit前夜の擬似3D表現を実装した実験作。",
+  "target": "メガドライブ/サターン世代のソニックファン、16bit末期の擬似3D表現に興味のあるレトロゲームファン、Traveller's Tales 黎明期作品をたどるコレクター層。",
+  "slug": "sonic-3d-blast",
+  "file": "data/games/1708-sonic-3d-blast.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sonic_3D_Blast",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF3D%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88",
+    "https://vc.sega.jp/vc_3dblast/",
+    "https://www.mobygames.com/game/3494/sonic-3d-blast/"
+  ]
+}

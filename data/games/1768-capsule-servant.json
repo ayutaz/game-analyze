@@ -1,0 +1,32 @@
+{
+  "id": 1768,
+  "title_jp": "カプセルさーばんと",
+  "title_en": "Capsule Servant",
+  "developer": "DELiGHTWORKS",
+  "publisher": "TYPE-MOON",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "対戦型タワーディフェンス",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Fate/stay night 15周年記念プロジェクトの一環として配信。Fate/hollow ataraxia (PS Vita 2014) のミニゲームをスタンドアロン化した買い切りアプリで、App内課金なし・期間限定 490 円という潔い価格設定が話題に。",
+  "concept": "Fate シリーズのサーヴァントたちが SD キャラ化して登場する対戦型タワーディフェンス。士郎・凛のルートで難易度が分かれ、50 体超のさーばんとを召喚して相手陣地を攻略する。",
+  "target": "Fate/stay night・Fate/hollow ataraxia の旧来ファン層と、ガチャ運営型 FGO とは別軸の買い切り Fate アプリを求める層。チビキャラ＆お祭りノリを好む 20-40 代の TYPE-MOON ファン。",
+  "slug": "capsule-servant",
+  "file": "data/games/1768-capsule-servant.json",
+  "_source_urls": [
+    "https://typemoon.fandom.com/wiki/Capsule_Servant",
+    "https://www.siliconera.com/type-moon-announces-capsule-servant-tower-defense-smartphone-game-for-15th-anniversary/",
+    "https://www.4gamer.net/games/472/G047255/20190803015/",
+    "https://app.famitsu.com/20191220_1561861/",
+    "https://gamebiz.jp/news/255975"
+  ]
+}

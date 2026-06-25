@@ -1,0 +1,28 @@
+{
+  "id": 1035,
+  "title_jp": "Marvel End Time Arena",
+  "title_en": "Marvel End Time Arena",
+  "developer": "Smilegate",
+  "publisher": "Smilegate",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "MOBA",
+  "sales_jp": "—",
+  "sales_world": "unknown (service ended)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Marvel IP を冠した韓国産 MOBA として 2017 年 OBT、2018 年正式サービス開始。スパイダーマン / アイアンマン / ハルク / ヴェノム / キャプテン・アメリカ等を 3v3・5v5・7v7 のアリーナで操作できる点が話題になったが、韓国国外への展開がないまま 2019 年 2 月 25 日にサービス終了した短命タイトル。",
+  "concept": "Marvel ヒーロー・ヴィランをチャンピオンとして操作し、自陣の拠点を守りつつ敵基地破壊を目指す MOBA。3v5・5v5・7v7 と複数マップサイズを持ち、League of Legends 系の操作感に Marvel IP の世界観を重ねた韓国産タイトル。",
+  "target": "Marvel IP のファンと、韓国 PC オンライン MOBA を遊ぶ 10-30 代の競技志向プレイヤー。LoL / HotS から派生先を探していた層を想定。",
+  "slug": "marvel-end-time-arena",
+  "file": "data/games/1035-marvel-end-time-arena.json",
+  "_source_urls": [
+    "https://www.igdb.com/games/marvel-end-time-arena",
+    "https://en.namu.wiki/w/%EB%A7%88%EB%B8%94%20%EC%97%94%EB%93%9C%20%ED%83%80%EC%9E%84%20%EC%95%84%EB%A0%88%EB%82%98",
+    "https://mmoculture.com/2017/06/marvel-end-time-arena-marvel-universe-moba-launching-this-week/",
+    "https://www.pcgamingwiki.com/wiki/Marvel_End_Time_Arena"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1653,
+  "title_jp": "タクティクスオウガ",
+  "title_en": "Tactics Ogre: Let Us Cling Together",
+  "developer": "Quest",
+  "publisher": "Quest",
+  "year": 1995,
+  "platform": [
+    "SNES",
+    "Saturn",
+    "PS1"
+  ],
+  "genre": "シミュレーションRPG/タクティカルRPG",
+  "sales_jp": "—",
+  "sales_world": "移植版含め90万本超（シリーズ累計214万本）。2022年『リボーン』は初週国内57,256本＋Steam同接1万人超",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "民族紛争を題材にした重厚な分岐シナリオと高低差マップのSRPG設計が当時衝撃を与え、松野泰己／吉田明彦／崎元仁トリオの代表作として今も語り継がれる。2022年『リボーン』でSteam同時接続1万人超を記録し再評価された。",
+  "concept": "民族紛争と「正義の選択」をテーマにした分岐式タクティカルRPG。プレイヤーの選択でルート（Law/Chaos/Neutral）と仲間が変わり、高低差・属性・配置を読む戦術戦闘と政治劇が一体化している。",
+  "target": "FFT・ファイアーエムブレム・大戦略系を好む戦術派、松野作品の物語消費を求める層、SRPG古典を一周したい30-50代男性中心。",
+  "slug": "tactics-ogre-let-us-cling-together",
+  "file": "data/games/1653-tactics-ogre-let-us-cling-together.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AF%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9%E3%82%AA%E3%82%A6%E3%82%AC",
+    "https://en.wikipedia.org/wiki/Tactics_Ogre",
+    "https://game.watch.impress.co.jp/docs/kikaku/2051554.html",
+    "https://kopenguin.com/post-18989/",
+    "https://automaton-media.com/articles/newsjp/20221114-226610/",
+    "https://www.famitsu.com/news/202211/17283057.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1496,
+  "title_jp": "ファイティング・フォース",
+  "title_en": "Fighting Force",
+  "developer": "Core Design",
+  "publisher": "Eidos Interactive",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "PC",
+    "N64"
+  ],
+  "genre": "3Dベルトスクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "1M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Core Design が当初『ベア・ナックル』4作目としてセガに提案したが断られ、独立タイトルとして発売。世界累計100万本超のヒットとなり、3D化したベルトスクロールの先駆例として記憶されている。",
+  "concept": "『ベア・ナックル』の3D後継を目指した4人キャラ選択型のベルトスクロールアクション。武器・オブジェクト破壊・2人同時プレイを備え、ストリートを進みながらギャングを殴り倒す王道構造を3Dポリゴンで再構築している。",
+  "target": "90年代後半に『ベア・ナックル』『ファイナルファイト』など2Dベルトスクロール黄金期を遊んでいた層、PS1/N64初期の3Dアクションを2人で気軽に遊びたかったプレイヤー層。",
+  "slug": "fighting-force",
+  "file": "data/games/1496-fighting-force.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fighting_Force",
+    "https://www.mobygames.com/game/3191/fighting-force/"
+  ]
+}

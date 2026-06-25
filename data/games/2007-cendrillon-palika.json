@@ -1,0 +1,30 @@
+{
+  "id": 2007,
+  "title_jp": "Cendrillon palikA",
+  "title_en": "Cendrillon palikA",
+  "developer": "Otomate",
+  "publisher": "Idea Factory",
+  "year": 2018,
+  "platform": [
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "童話「シンデレラ」をモチーフにした呪われたガラスの街「透京」を舞台とする美しくも悲しい世界観で乙女ゲームファンから注目を集め、2023年にはオトメイトセレクションアプリでスマホ版が配信開始され再評価された。",
+  "concept": "ガラスでできた呪われた街を舞台に、ガラスの靴を授けられた主人公が7人の攻略対象とともに呪いを解こうとする恋愛アドベンチャー。選択肢「審判ノ刻」と「透刻度」パラメータが好感度と並んで結末を分岐させる。",
+  "target": "10-30代の乙女ゲーム女性層、特にダークファンタジー寄りの世界観と童話モチーフを好む層、Otomate ブランド既プレイヤー層。",
+  "slug": "cendrillon-palika",
+  "file": "data/games/2007-cendrillon-palika.json",
+  "_source_urls": [
+    "https://otomeorganization.fandom.com/wiki/Cendrillon_palikA",
+    "https://www.4gamer.net/games/393/G039317/20180925004/",
+    "https://www.4gamer.net/games/682/G068280/20230206004/",
+    "https://gamebiz.jp/news/364403"
+  ]
+}

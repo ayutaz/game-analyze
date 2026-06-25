@@ -1,0 +1,31 @@
+{
+  "id": 1940,
+  "title_jp": "セキエン ノ イ ンガノック",
+  "title_en": "Sekien no Inganock: What a Beautiful People",
+  "developer": "Liar-soft",
+  "publisher": "Liar-soft",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/スチームパンク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ライアーソフト「What a Beautiful」シリーズ第2作で、二つの太陽と霧に閉ざされた都市インガノックを舞台にクトゥルフ神話とスチームパンクを融合させた桜井光の世界観が熱狂的に支持された。2011年フルボイス版『ReBORN』、2026年Steam向け2Kリマスター化も発表されカルト的ロングセラー化。",
+  "concept": "「復活」と呼ばれる現象後、半人半獣化した住人と病に満ちた都市インガノックを舞台に、旅医ギーが「現象式（クラック）」と医術で救いを与えていく短編連作型のシネマティックNVL。テキスト・スチル・BGMが連動する独自演出と濃密な散文で「読ませる」ことに極振りした作品。",
+  "target": "重厚な幻想文学・スチームパンク・ラヴクラフト系神話作品を好む成人向けビジュアルノベルのコア層。テキスト主導の物語消費を主目的とする読書系プレイヤー。",
+  "slug": "sekien-no-inganock-what-a-beautiful-people",
+  "file": "data/games/1940-sekien-no-inganock-what-a-beautiful-people.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E8%B5%AB%E7%82%8E%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%AC%E3%83%8E%E3%83%83%E3%82%AF",
+    "https://www.mobygames.com/game/213409/sekien-no-inganock-what-a-beautiful-people/",
+    "https://what-a-beautiful-steampunk.fandom.com/wiki/Sekien_no_Inganock_~What_a_beautiful_people~",
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=16233"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

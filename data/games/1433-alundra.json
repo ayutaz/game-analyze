@@ -1,0 +1,30 @@
+{
+  "id": 1433,
+  "title_jp": "アランドラ",
+  "title_en": "Alundra",
+  "developer": "Matrix Software",
+  "publisher": "Sony Computer Entertainment / Working Designs",
+  "year": 1997,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションRPG／謎解きアドベンチャー",
+  "sales_jp": "143K (1997年末時点)",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『神々のトライフォース』系見下ろし型ARPGの精神的後継として国内外で評価され、夢の世界に潜入する独特の物語と高難度ダンジョン謎解きでカルト的人気を獲得。北米では Working Designs のローカライズが話題となり初月10万本超を売り上げた。",
+  "concept": "夢に潜る能力を持つ少年アランドラが、悪夢に苦しめられる村人を救うため夢と現実を行き来する見下ろし型アクションRPG。仕掛けで満ちた高難度ダンジョンとシビアなジャンプアクション、田中公平のサウンドで「ゼルダ系の硬派な後継」として位置づけられた。",
+  "target": "見下ろし型ゼルダ系ARPGや硬派な謎解きを好む 90 年代 PS1 ユーザー、レトロ ARPG ファン。骨太な難易度とダークな物語を求める層に強く支持された。",
+  "slug": "alundra",
+  "file": "data/games/1433-alundra.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Alundra",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%89%E3%83%A9",
+    "https://www.matrixsoft.co.jp/products/1025/",
+    "https://store.playstation.com/ja-jp/product/JP9000-NPJI00044_00-0000000000000001"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1604,
+  "title_jp": "ゴールデンアイ 007",
+  "title_en": "GoldenEye 007",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "FPS（一人称視点シューティング）",
+  "sales_jp": "—",
+  "sales_world": "8.09M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "映画タイアップ FPS の枠を超えて N64 を代表する社会現象級ヒット。4 人画面分割マルチプレイは「友達の家で集まって遊ぶ FPS」の原体験を作り、米国では N64 専用ソフト No.1、世界累計 809 万本（VGChartz 2018）の大ヒットに。",
+  "concept": "映画『007 ゴールデンアイ』を原作にした一人称視点アクション。ステルス／暗殺／脱出など映画的ミッション構成のソロキャンペーンと、4 人画面分割の対戦モードを両立し、コンソール FPS のテンプレートを確立した。",
+  "target": "映画 007 シリーズのファン、N64 ユーザー、友達と画面分割マルチで遊びたい 10-30 代男性層、家庭用 FPS の原点を体験したい層。",
+  "slug": "goldeneye-007",
+  "file": "data/games/1604-goldeneye-007.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/GoldenEye_007",
+    "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A2%E3%82%A4_007",
+    "https://www.famitsu.com/news/202208/23272687.html",
+    "https://www.guinnessworldrecords.com/world-records/548710-best-selling-james-bond-videogame"
+  ]
+}

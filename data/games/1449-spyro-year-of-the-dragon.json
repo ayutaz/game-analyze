@@ -1,0 +1,29 @@
+{
+  "id": 1449,
+  "title_jp": "スパイロ3 イヤー・オブ・ザ・ドラゴン",
+  "title_en": "Spyro: Year of the Dragon",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2000,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3D アクションプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "3.2M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Insomniac Games が手掛けた初代 PlayStation 向けスパイロ三部作の最終作で、全世界 320 万本超を売り上げ高評価を獲得。プレイアブルキャラクター追加と多彩なミニゲームで「3D プラットフォーマー黄金期」を象徴する作品として今も再評価され続けている。",
+  "concept": "ドラゴンの卵を取り戻す冒険を軸に、スパイロに加えカンガルー・ペンギン・モンキー等 5 体のプレイアブルキャラクターと多彩なミニゲームを盛り込み、3D 探索プラットフォーマーをバラエティショーへと拡張した PS1 三部作の集大成。",
+  "target": "PS1 世代の 3D プラットフォーマー愛好層、クラッシュ・バンディクー / マリオ 64 系を楽しんだ層、Reignited Trilogy 経由でレトロ名作を体験したい現代のカジュアル層。",
+  "slug": "spyro-year-of-the-dragon",
+  "file": "data/games/1449-spyro-year-of-the-dragon.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon",
+    "https://www.mobygames.com/game/7669/spyro-year-of-the-dragon/",
+    "https://spyro.fandom.com/wiki/Spyro:_Year_of_the_Dragon"
+  ]
+}

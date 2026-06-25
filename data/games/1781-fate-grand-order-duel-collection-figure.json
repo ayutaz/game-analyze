@@ -1,0 +1,26 @@
+{
+  "id": 1781,
+  "title_jp": "Fate/Grand Order Duel -collection figure-",
+  "title_en": "Fate/Grand Order Duel -collection figure-",
+  "developer": "DELiGHTWORKS",
+  "publisher": "TYPE-MOON",
+  "year": 2018,
+  "platform": [],
+  "genre": "ボードゲーム/コレクタブルフィギュアゲーム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": ["EXP"],
+  "social_axis": null,
+  "popularity": "FGO 公式スピンオフのフィギュア＋カードゲームで、ブラインドボックス形式のサーヴァントフィギュア収集要素が FGO ファンと TYPE-MOON フィギュアコレクター双方に刺さり、2018-2021 年に第 10 弾まで継続シリーズ化された。",
+  "concept": "FGO のサーヴァントをミニフィギュアとコマンドカードで召喚し、マスター 3 体で他プレイヤーと戦うボード／フィギュアゲーム。フィギュアそのものが遊戯コマであり、開封の不確実性とコレクション欲求がコア体験。",
+  "target": "FGO プレイヤーで TYPE-MOON のフィギュアを集めたい層、ボードゲーム愛好家、サーヴァントのスケールフィギュアまでは手が出ないが安価に並べて楽しみたい層。",
+  "slug": "fate-grand-order-duel-collection-figure",
+  "file": "data/games/1781-fate-grand-order-duel-collection-figure.json",
+  "_source_urls": [
+    "https://duel.fate-go.us/",
+    "https://typemoon.fandom.com/wiki/Fate/Grand_Order_Duel",
+    "https://fategrandorder.fandom.com/wiki/Fate/Grand_Order_Duel",
+    "https://store.aniplexusa.com/fgo-duel/1st/"
+  ]
+}

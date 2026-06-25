@@ -1,0 +1,30 @@
+{
+  "id": 1739,
+  "title_jp": "Halo 2",
+  "title_en": "Halo 2",
+  "developer": "Bungie",
+  "publisher": "Microsoft Game Studios",
+  "year": 2004,
+  "platform": [
+    "Xbox",
+    "PC"
+  ],
+  "genre": "FPS（SF軍事シューター）",
+  "sales_jp": "—",
+  "sales_world": "8M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "初代 Xbox 最大のキラータイトル。発売 24 時間で 240 万本・1.25 億ドルを売り上げ、当時のエンタメ史上最高記録を樹立。Xbox Live を一気に普及させた最大の立役者で、Gears of War 登場までほぼ 2 年にわたって Xbox Live 最人気タイトルの座を維持した。",
+  "concept": "初代 Halo の続編にして、コンソール FPS のオンライン対戦時代を切り開いた金字塔。デュアルウィールド・乗り物戦・大規模 16 人対戦をパッケージ化し、マスターチーフとアービターの二視点で語る物語と Xbox Live 対戦を両輪で成立させた。",
+  "target": "初代 Xbox 世代の FPS プレイヤー、特に北米コア層と Xbox Live オンライン対戦に飢えていた成人男性ゲーマーが中心。Halo 世界観の物語追体験を求めるシングルプレイ派と、ランクマッチ・カスタムマッチで腕を競うマルチ派の両方を抱える。",
+  "slug": "halo-2",
+  "file": "data/games/1739-halo-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Halo_2",
+    "https://vgsales.fandom.com/wiki/Halo",
+    "https://www.halopedia.org/Halo_2"
+  ]
+}

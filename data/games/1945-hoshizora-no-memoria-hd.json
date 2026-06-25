@@ -1,0 +1,29 @@
+{
+  "id": 1945,
+  "title_jp": "星空のメモリア -Wish upon a shooting star- HD",
+  "title_en": "Hoshizora no Memoria HD",
+  "developer": "FAVORITE",
+  "publisher": "Sekai Project / Denpasoft",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2009 年の原作以来のロングセラー泣きゲーが、Eternal Heart HD と同じエンジン・新訳・UI 刷新で英語版 Steam に登場し、既存所有者には無料アップグレードとして配信された点が海外 VN ファンの間で大きな話題になった。",
+  "concept": "幼少期に交わした「星を見る約束」を軸にした FAVORITE 初期の代表作・泣き系ビジュアルノベルの HD リマスター。原典の長文シナリオを高解像度化＋新翻訳＋ボイス切替（ちなみ別バージョン対応）で再パッケージし、続編 Eternal Heart HD と地続きで遊べるエディションに仕立てている。",
+  "target": "FAVORITE 作品や 2000 年代後半の「泣きゲー」系恋愛 ADV を通ってきた 20〜40 代のビジュアルノベル愛好家、および英語圏で初めて「正規 18 禁分岐＋全年齢」両対応で本作に触れたい海外 VN リーダー層。",
+  "slug": "hoshizora-no-memoria-hd",
+  "file": "data/games/1945-hoshizora-no-memoria-hd.json",
+  "_source_urls": [
+    "https://finalweapon.net/2023/07/31/hoshizora-no-memoria-hd-version-now-available-on-steam/",
+    "https://noisypixel.net/hoshizora-no-memoria-wish-upon-a-shooting-star-hd-version-now-available/",
+    "https://fuwanovel.moe/2023/08/the-hoshizora-no-memoria-hd-version-retranslation-is-finally-here/",
+    "https://store.steampowered.com/app/715580/Hoshizora_no_Memoria_Wish_upon_a_Shooting_Star_HD/",
+    "https://ja.wikipedia.org/wiki/%E6%98%9F%E7%A9%BA%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2_-Wish_upon_a_shooting_star-"
+  ]
+}

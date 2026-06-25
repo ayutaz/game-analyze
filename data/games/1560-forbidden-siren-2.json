@@ -1,0 +1,29 @@
+{
+  "id": 1560,
+  "title_jp": "SIREN2",
+  "title_en": "Forbidden Siren 2",
+  "developer": "Project Siren / SCE Japan Studio",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サバイバルホラー/ステルス",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「視界ジャック」を継承しつつ夜見島を舞台にした続編。難解な群像劇と濃密な和製ホラー演出で前作ファンから熱狂的に支持された。",
+  "slug": "forbidden-siren-2",
+  "file": "data/games/1560-forbidden-siren-2.json",
+  "concept": "前作の山間集落から離島・夜見島へ舞台を移したサバイバルホラー続編。屍人を倒せない無力な視点で「視界ジャック」を駆使し、複数キャラの時系列を繋ぎ合わせて真相に迫る群像ステルスホラー。",
+  "target": "前作 SIREN を遊んだホラー好きと、難解な日本産怪奇譚を考察したいコアプレイヤー層。海外展開が乏しく国内 PS2 ユーザー中心。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Forbidden_Siren_2",
+    "https://www.mobygames.com/game/23465/forbidden-siren-2/",
+    "https://www.famitsu.com/news/202111/06239560.html"
+  ]
+}

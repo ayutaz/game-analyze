@@ -1,0 +1,32 @@
+{
+  "id": 1366,
+  "title_jp": "Battle Prime",
+  "title_en": "Battle Prime",
+  "developer": "Press Fire Games",
+  "publisher": "Press Fire Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "TPS/マルチプレイヤーシューター",
+  "sales_jp": "—",
+  "sales_world": "22M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "独自エンジンによるモバイルでコンソール級のグラフィックを実現し、6v6 PvP TPS として世界累計 22M+ DL を達成。",
+  "concept": "「Prime」と呼ばれる固有能力持ちキャラを操作する 6v6 PvP TPS。1 マッチ約 5 分の高速対戦に絞り、独自エンジンでコンソール級のビジュアルをモバイルで提示する硬派 PvP シューター。",
+  "target": "Call of Duty: Mobile / Critical Ops / Standoff 2 などのモバイル PvP シューター層、特に短時間のチームデスマッチ・拠点制圧をグラフィック重視で楽しみたい中高生〜30 代男性。",
+  "slug": "battle-prime",
+  "file": "data/games/1366-battle-prime.json",
+  "_source_urls": [
+    "https://www.battleprime.com/",
+    "https://apps.apple.com/us/app/battle-prime-shooting-games/id1411304149",
+    "https://play.google.com/store/apps/details?id=com.blitzteam.battleprime&hl=en_US",
+    "https://appnalyzer.com/app/com.blitzteam.battleprime"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

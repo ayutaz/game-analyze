@@ -1,0 +1,34 @@
+{
+  "id": 1843,
+  "title_jp": "流行り神 -NG-",
+  "title_en": "Spirit Hunter: NG",
+  "developer": "Experience Inc.",
+  "publisher": "Experience / Aksys",
+  "year": 2018,
+  "platform": [
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ホラーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "200K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Death Mark に続くスピリットハンター第2作として海外ホラーVNファンから高評価（Steam 92%好評）、和風都市伝説×妖魔退治の独特な世界観で Aksys 経由のローカライズが英語圏でも話題に。",
+  "concept": "都市伝説から生まれた「妖魔」と対峙する裏御伽ホラーADV。複数エンディング・選択肢で生死が分岐する一話完結×全6話構成で、調査→対峙の二段構えで物語と恐怖体験を消費させる。",
+  "target": "和ホラー・都市伝説・Jホラー映画が好きな20-40代、Death Mark やかまいたちの夜系のシリアスなホラーノベルを腰を据えて読みたい層。プレイ時間25時間級の長尺ビジュアルノベル耐性のあるユーザー。",
+  "slug": "spirit-hunter-ng",
+  "file": "data/games/1843-spirit-hunter-ng.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spirit_Hunter:_NG",
+    "https://experience.co.jp/products/ng.html",
+    "https://store.steampowered.com/app/1100430/Spirit_Hunter_NG/",
+    "https://www.nintendolife.com/reviews/nintendo-switch/spirit_hunter_ng",
+    "https://www.aksysgames.com/ng/"
+  ]
+}

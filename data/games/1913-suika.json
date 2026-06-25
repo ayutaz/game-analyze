@@ -1,0 +1,34 @@
+{
+  "id": 1913,
+  "title_jp": "水夏 〜SUIKA〜",
+  "title_en": "Suika",
+  "developer": "Circus",
+  "publisher": "Circus",
+  "year": 2001,
+  "platform": [
+    "PC",
+    "PS1",
+    "Dreamcast",
+    "PS2"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Circus 初期の代表作で、後の『D.C. ダ・カーポ』に繋がる Tororo / みかげ / なる など主要スタッフの出世作。常盤村を舞台に夏の2週間を描く 4 章構成の鬱泣きゲーとして同人/エロゲ文化圏で語り継がれ、PS1 (Water Summer) / Dreamcast / PS2 (A.S+ Eternal Name) と複数ハードへ移植された。",
+  "concept": "海と山に囲まれた架空の田舎町「常盤村」の真夏 2 週間を、4 人のヒロインごとに章立てで描く泣き系オムニバス・ビジュアルノベル。日常の手触りとほのかな怪異・喪失感を重ね、「美しい夏の記憶」と「取り戻せないもの」を主題に据える。",
+  "target": "2000 年代前半の泣きゲー／鬱ゲー文化圏のプレイヤー、Circus（特に D.C. 以前のルーツ）に関心のあるビジュアルノベルファン、Key/Leaf 系の叙情的シナリオを好む層。",
+  "slug": "suika",
+  "file": "data/games/1913-suika.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Suika_(2001_video_game)",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Suika",
+    "https://store.steampowered.com/app/4164010/SUIKA_world_edition/",
+    "https://psxdatacenter.com/psx2/games2/SLPM-66787.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1544,
+  "title_jp": "鬼武者",
+  "title_en": "Onimusha: Warlords",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2001,
+  "platform": [
+    "PS2",
+    "PC",
+    "Xbox",
+    "PS4",
+    "Switch",
+    "Xbox One"
+  ],
+  "genre": "戦国サバイバルアクションアドベンチャー",
+  "sales_jp": "1.1M",
+  "sales_world": "2.1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS2 初のミリオンセラーを達成し、金城武を 3D スキャンしたフォトリアルな主人公・明智左馬介の登場で「映画品質の戦国アクション」として社会的話題に。バイオハザード的な固定カメラ＋一閃の爽快剣戟で和風ホラーアクションの新ジャンルを確立した。",
+  "concept": "戦国時代の本能寺の変を舞台に、鬼の力を宿した剣士が魔物化した織田信長軍と戦う和風サバイバルアクション。固定カメラ＋謎解き＋一閃の居合斬りで「バイオハザードの戦国剣戟版」というポジショニングを築いた。",
+  "target": "PS2 世代の 20-40 代男性、バイオハザードやデビルメイクライを好むカプコンアクションファン、時代劇・戦国 IP を好む層、金城武主演の映画的演出に惹かれた層。",
+  "slug": "onimusha-warlords",
+  "file": "data/games/1544-onimusha-warlords.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Onimusha:_Warlords",
+    "https://www.capcom.co.jp/ir/english/business/million.html",
+    "https://game.watch.impress.co.jp/docs/20010323/capcom.htm",
+    "https://dengekionline.com/data/news/2001/3/23/1c4cd78d45503c4dceae1da6f0685c08.html",
+    "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%AD%A6%E8%80%85%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  ]
+}

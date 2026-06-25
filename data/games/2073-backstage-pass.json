@@ -1,0 +1,35 @@
+{
+  "id": 2073,
+  "title_jp": "Backstage Pass",
+  "title_en": "Backstage Pass",
+  "developer": "SakeVisual",
+  "publisher": "SakeVisual",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "乙女ゲー/恋愛シミュレーション・ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "英語フルボイス対応の乙女ゲームとしては草分け的存在で、Steam Early Access (2014年5月) から本配信 (2016年) にかけて英語圏のオトメファンの間で話題に。",
+  "concept": "プロのメイクアップアーティストを志す主人公 Sian Goodin の大学1年目を描くスタッツ育成型の乙女ゲーム。4人の攻略対象と15以上のエンディングを持ち、英語完全フルボイスで物語を進める。",
+  "target": "英語圏の乙女ゲーム/恋愛シミュレーション愛好層。ステータス育成と物語分岐を両立したインディーVNを求めるプレイヤー。",
+  "slug": "backstage-pass",
+  "file": "data/games/2073-backstage-pass.json",
+  "_source_urls": [
+    "https://www.sakevisual.com/backstagepass/",
+    "https://store.steampowered.com/app/288220/Backstage_Pass/",
+    "https://sakevisual.fandom.com/wiki/Backstage_Pass",
+    "https://sakevisual.itch.io/backstage-pass"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

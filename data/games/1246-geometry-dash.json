@@ -1,0 +1,34 @@
+{
+  "id": 1246,
+  "title_jp": "ジオメトリーダッシュ",
+  "title_en": "Geometry Dash",
+  "developer": "RobTop Games",
+  "publisher": "RobTop Games",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac",
+    "Browser"
+  ],
+  "genre": "リズムアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "242M+ DL (2018)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "BGM のビートに合わせて四角アイコンを操作するシンプルなワンタップ・ジャンプ動作と高難度ステージが Twitch/YouTube の死にゲー配信文化と噛み合い、世界累計 2.42 億 DL を突破した。ユーザー作成ステージ（Online Levels）の無限供給でロングテール化している。",
+  "concept": "ビート同期型のオートランナー × トラップ満載のプラットフォーマー。タップ／クリックひとつで「ジャンプ・反転・形態切替」を行い、楽曲のリズムに合わせて死と再挑戦をひたすら繰り返す高難度スキルゲーム。",
+  "target": "短時間で何度もリトライしたい 10-30 代のモバイル／PC ライトユーザーと、難関ステージのクリア動画や自作ステージ投稿を楽しむコアな YouTube/Twitch 視聴者層。",
+  "slug": "geometry-dash",
+  "file": "data/games/1246-geometry-dash.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Geometry_Dash",
+    "https://store.steampowered.com/app/322170/Geometry_Dash/",
+    "https://www.robtopgames.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

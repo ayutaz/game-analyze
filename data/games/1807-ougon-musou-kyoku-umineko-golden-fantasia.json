@@ -1,0 +1,34 @@
+{
+  "id": 1807,
+  "title_jp": "黄金夢想曲",
+  "title_en": "Ougon Musou Kyoku (Umineko: Golden Fantasia)",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "Xbox 360"
+  ],
+  "genre": "2D タッグ対戦格闘",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "『うみねこのなく頃に』キャラ総出演の同人タッグ格闘として 2010 年 C79 で頒布され、Xbox 360 移植 (X) と拡張 CROSS、2017 年 MangaGamer による Steam 英語版でロングテール化した。",
+  "concept": "うみねこのなく頃にのキャラを 2 体組ませて切替えながら戦うタッグ式 2D 対戦格闘。原作の「メタ世界での魔法 vs 推理」をシステムにそのまま落とし込み、SP メタ宣言・タッチコンボでファン心理を満たす設計。",
+  "target": "うみねこ／ひぐらしファンの 20-40 代、同人格ゲーやアークシステム系格ゲーをやり込む層、ロールバック対応で復活した Steam 版コミュニティ。",
+  "slug": "ougon-musou-kyoku-umineko-golden-fantasia",
+  "file": "data/games/1807-ougon-musou-kyoku-umineko-golden-fantasia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Umineko:_Golden_Fantasia",
+    "https://store.steampowered.com/app/550340/Umineko_Golden_Fantasia/",
+    "https://07th-expansion.fandom.com/wiki/Golden_Fantasia",
+    "https://mizuumi.wiki/w/Ougon_Musou_Kyoku"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

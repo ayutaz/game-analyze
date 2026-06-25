@@ -1,0 +1,31 @@
+{
+  "id": 1776,
+  "title_jp": "MELTY BLOOD Act Cadenza",
+  "title_en": "Melty Blood: Act Cadenza",
+  "developer": "Ecole / French-Bread / TYPE-MOON",
+  "publisher": "Ecole",
+  "year": 2005,
+  "platform": [
+    "Arcade",
+    "PS2"
+  ],
+  "genre": "2D対戦格闘",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "TYPE-MOON『月姫』キャラを使った同人発の 2D 格闘がアーケード（SEGA NAOMI）へ進出し、PS2 移植で家庭用にも展開。同人格ゲー文化を商業アーケードに押し上げた象徴的タイトルとして語られる。",
+  "concept": "『月姫』世界観をベースにした 2D 対戦格闘の「アーケード版」。シリーズ初のアーケード稼働作で、Ver.A / Ver.B とアップデートを重ねながらコンボ・バーストを軸に高速な読み合いを展開する。",
+  "target": "TYPE-MOON / 月姫ファン、同人格闘ゲーム『MELTY BLOOD』『MELTY BLOOD Re·ACT』からの継続プレイヤー、2D 格闘ゲームのアーケード／対戦コミュニティ層。",
+  "slug": "melty-blood-act-cadenza",
+  "file": "data/games/1776-melty-blood-act-cadenza.json",
+  "_source_urls": [
+    "https://typemoon.fandom.com/wiki/Melty_Blood_Act_Cadenza",
+    "https://en.wikipedia.org/wiki/Melty_Blood",
+    "http://typemoon.com/contents/ze6odi/melty-blood-act-cadenza",
+    "https://www.mobygames.com/game/52082/melty-blood-act-cadenza/"
+  ]
+}

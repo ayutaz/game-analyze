@@ -1,0 +1,30 @@
+{
+  "id": 1552,
+  "title_jp": "侍道",
+  "title_en": "Way of the Samurai",
+  "developer": "Acquire",
+  "publisher": "Spike",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/分岐ストーリーRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「斬るか引くか、どちらに付くか」を全てプレイヤーに委ねる自由度と、1 周 2-3 時間で何度も周回する分岐構造が評判となり、続編 4 作を生むカルト的シリーズに成長した。",
+  "concept": "幕末・峠の宿場町にやってきた素性不明の浪人を操作し、敵対する二大勢力のどちらに付くか・あるいは無視するかをプレイヤーの選択で決める、分岐エンディング多数の刀剣アクションアドベンチャー。",
+  "target": "時代劇・任侠映画を好む層、自由度の高いロールプレイと周回前提のマルチエンディングを楽しみたい 20-40 代のコアゲーマー。",
+  "slug": "way-of-the-samurai",
+  "file": "data/games/1552-way-of-the-samurai.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Way_of_the_Samurai",
+    "https://ja.wikipedia.org/wiki/%E4%BE%8D_(%E3%82%B9%E3%83%91%E3%82%A4%E3%82%AF%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.acquire.co.jp/product/samurai1/",
+    "https://www.mobygames.com/game/7243/way-of-the-samurai/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1052,
+  "title_jp": "Strike of Kings",
+  "title_en": "Strike of Kings",
+  "developer": "TiMi Studio Group",
+  "publisher": "Tencent / Garena",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "5v5 モバイル MOBA",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL (欧州/中南米ソフトローンチ期)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中国の超大型 MOBA『王者栄耀(Honor of Kings)』を西側向けに 2017 年 2 月から欧州でソフトローンチした初期版。後に名称を『Arena of Valor』へ変更し北米・SEA 展開、ソフトローンチ期だけで $140M 超を売り上げた話題作。",
+  "slug": "strike-of-kings",
+  "file": "data/games/1052-strike-of-kings.json",
+  "concept": "PC MOBA の 5v5 ラインプッシュをスマホ片手操作に圧縮し、1 試合 10-15 分で完結させるモバイル MOBA。Honor of Kings のヒーロー/マップを西側ユーザー向けにローカライズした初期ブランド名。",
+  "target": "スマホで気軽に MOBA を遊びたい欧州・東南アジアの 10-30 代男性層。LoL や Dota の操作量を負担に感じるが対戦の駆け引きは楽しみたいライト e スポーツ層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arena_of_Valor",
+    "https://www.pocketgamer.biz/tencent-soft-launches-strike-of-kings/",
+    "https://www.deconstructoroffun.com/blog/2017/5/15/strike-of-kings-the-billion-dollar-mobile-moba"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1207,
+  "title_jp": "Tales of Wind",
+  "title_en": "Tales of Wind",
+  "developer": "Neocraft / Aurora Studio",
+  "publisher": "Neocraft",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "アニメ調 MMORPG（ガチャ・カード収集・GvG）",
+  "sales_jp": "—",
+  "sales_world": "30M+ players (franchise)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ラグナロクオンライン系譜のかわいいアニメ調モバイル MMORPG として 2019 年にグローバル展開し、ガチャ衣装・カード収集・GvG・ジョブ進化を軸に長期運営。続編『Tales of Wind: Radiant Rebirth』を含むシリーズで累計 3,000 万プレイヤーを謳う。",
+  "concept": "PC MMO 的なジョブ・装備・カード収集を、可愛いキャラとオートプレイで気軽に遊べるモバイル MMORPG。衣装ガチャと進化カードによる育成リターンを主軸に、ギルド戦・PvP・ミニゲームで他者との接点を作る。",
+  "target": "ラグナロクオンライン等の往年クラシック MMO に郷愁を持つアジア圏プレイヤーと、アニメ調アバター・衣装ガチャに惹かれる女性〜カジュアル MMO 層。",
+  "slug": "tales-of-wind",
+  "file": "data/games/1207-tales-of-wind.json",
+  "_source_urls": [
+    "https://tow.neocraftstudio.com/en",
+    "https://www.mmorpg.com/news/mobile-mmo-tales-of-wind-launches-for-ios-and-android-devices-2000100792",
+    "https://mmos.com/review/tales-of-wind",
+    "https://www.neocraftstudio.com/news/84.html?language=en",
+    "https://gamingonphone.com/news/neocrafts-latest-mmorpg-tales-of-wind-radiant-rebirth-is-now-available-on-mobile-and-pc/"
+  ]
+}

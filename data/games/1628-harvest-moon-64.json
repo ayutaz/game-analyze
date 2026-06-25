@@ -1,0 +1,31 @@
+{
+  "id": 1628,
+  "title_jp": "牧場物語2",
+  "title_en": "Harvest Moon 64",
+  "developer": "Victor Interactive Software",
+  "publisher": "Natsume",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "牧場シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "0.50M",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ初の3D化作品として1999年に登場し、花の芽町を舞台にした3年間の牧場生活と村人イベントの濃さで「N64の名作スローライフ」として長く語り継がれている。後年Wii Uバーチャルコンソールでも再配信された。",
+  "concept": "亡き祖父の牧場を継ぎ、3年間という制限の中で作物・家畜・人間関係・結婚を育てる箱庭シミュレーション。シリーズ初の3D描写と季節・天候・村人スケジュールの噛み合わせで「日々のルーチンそのものを体験する」遊びを完成させた一作。",
+  "target": "スローライフ系シミュレーションを好む層、初代/GBから続く牧場物語ファン、N64レトロタイトルを再評価したい30-40代。落ち着いた箱庭で農作業と村人交流を楽しみたい単独プレイヤー向け。",
+  "slug": "harvest-moon-64",
+  "file": "data/games/1628-harvest-moon-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Harvest_Moon_64",
+    "https://ja.wikipedia.org/wiki/%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E2",
+    "https://www.bokumono.com/sub/bokumono2.php",
+    "https://www.vgchartz.com/game/957/harvest-moon-64/"
+  ]
+}

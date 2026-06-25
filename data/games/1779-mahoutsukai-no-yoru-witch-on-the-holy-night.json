@@ -1,0 +1,34 @@
+{
+  "id": 1779,
+  "title_jp": "魔法使いの夜",
+  "title_en": "Mahoutsukai no Yoru / Witch on the Holy Night",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "ビジュアルノベル（キネティックノベル）",
+  "sales_jp": "—",
+  "sales_world": "150K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "TYPE-MOON が月姫より前から構想していた原点的長編。2022年の Switch/PS4 リマスター（フルボイス・多言語化）で世界 15 万本超を売り上げ、2026 年には ufotable による劇場版アニメ化も発表されてシリーズファンの再注目を集めた。",
+  "concept": "1980年代末の地方都市を舞台に、魔法使いの蒼崎青子・久遠寺有珠と山奥育ちの少年・静希草十郎の同居を描く、選択肢のほぼ無いキネティックノベル。月姫・Fate に連なる TYPE-MOON 共通設定の起点となる物語を、原作の文体そのままに体験させる。",
+  "target": "TYPE-MOON 作品（月姫・Fate）のファン、奈須きのこの文体を読み込みたい層、雰囲気重視の長編ビジュアルノベルを腰を据えて読みたい大人のノベルゲーマー。",
+  "slug": "mahoutsukai-no-yoru-witch-on-the-holy-night",
+  "file": "data/games/1779-mahoutsukai-no-yoru-witch-on-the-holy-night.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Witch_on_the_Holy_Night",
+    "https://typemoon.fandom.com/wiki/Mahoutsukai_no_Yoru",
+    "https://www.gematsu.com/2022/12/witch-on-the-holy-night-for-ps4-and-switch-shipments-and-digital-sales-top-110000",
+    "https://www.siliconera.com/witch-on-the-holy-night-sales-surpass-150000-copies/",
+    "https://mahoyo-en.com/product/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1105,
+  "title_jp": "ワーズスケイプ",
+  "title_en": "Wordscapes",
+  "developer": "PeopleFun",
+  "publisher": "PeopleFun",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ワードパズル/アナグラム",
+  "sales_jp": "—",
+  "sales_world": "120M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "風景写真を背景にしたアナグラム型クロスワードが「上品で大人向けな暇つぶし」として北米中心に大ヒット。月間1M DLペースで累計1.2億DL、ライフタイム収益2億ドル超で「最も収益化に成功したワードゲーム」と評される。",
+  "slug": "wordscapes",
+  "file": "data/games/1105-wordscapes.json",
+  "concept": "並び替えた文字でクロスワードのマスを埋めていくアナグラム型ワードパズル。穏やかな自然風景と落ち着いたBGMで「考える快感」と「眺める癒し」を両立させ、Words with Friends型の対戦ではなくソロでじっくり解く方向に振り切っている。",
+  "target": "30-60代の英語ネイティブ層、特に女性ユーザーが中心。通勤・就寝前など短時間ずつ解きたいカジュアル層と、語彙力に自信のある中高年プレイヤーに支持されている。",
+  "_source_urls": [
+    "https://ludocious.com/index.php?p=blog&u=naav-worldscapes",
+    "https://app.sensortower.com/overview/com.peoplefun.wordcross?country=US",
+    "https://apps.apple.com/jp/app/%E3%83%AF%E3%83%BC%E3%83%89%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97%E3%82%B9-wordscapes/id1207472156",
+    "https://www.peoplefun.com/games"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

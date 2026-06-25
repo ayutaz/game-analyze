@@ -1,0 +1,32 @@
+{
+  "id": 1221,
+  "title_jp": "ドリーム 11",
+  "title_en": "Dream11",
+  "developer": "Dream Sports (Sporta Technologies)",
+  "publisher": "Dream Sports (India)",
+  "year": 2012,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "ファンタジースポーツ/対戦カジュアル",
+  "sales_jp": "—",
+  "sales_world": "250M+ 登録ユーザー (2024-2025)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "インド国内ファンタジースポーツ市場で 60-65% シェアを握る最大手。2019 年にインド初のファンタジースポーツ系ユニコーン、2021 年評価額 80 億ドル。IPL シーズン中の利用が爆発的に伸び、地方層への浸透が直近 24 ヶ月で 40% 増。",
+  "concept": "実際のクリケットやサッカー試合の前に、実在選手から仮想チームを編成し、現実の試合での成績に応じてポイントを競い合うフリーミアム型のファンタジースポーツ・コンテスト。観戦体験を「自分が選んだ選手の活躍」に変換する。",
+  "target": "インドの 18-40 代男性クリケットファンが中核。賞金付きデイリーファンタジーで小遣い稼ぎを狙う層と、友人同士のプライベートリーグで観戦体験を盛り上げたい層の双方を取り込む。",
+  "slug": "dream11",
+  "file": "data/games/1221-dream11.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dream11",
+    "https://founderpin.com/startup_story/dream11/",
+    "https://expandedramblings.com/index.php/dream11/",
+    "https://www.dreamsports.group/"
+  ]
+}

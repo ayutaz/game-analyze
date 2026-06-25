@@ -1,0 +1,34 @@
+{
+  "id": 1854,
+  "title_jp": "リトルバスターズ! Converted Edition",
+  "title_en": "Little Busters! Converted Edition",
+  "developer": "Key",
+  "publisher": "Visual Arts / Prototype",
+  "year": 2017,
+  "platform": [
+    "Switch",
+    "PS3",
+    "PS Vita",
+    "PSP",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "500K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 黄金期を支える泣きゲーの代表作。野球と友情の青春劇から各ヒロインルートを経て「真実編」で世界の秘密が明かされる構成が、長年の Key ファンと VN コミュニティで語り継がれている。",
+  "concept": "Key/麻枝准らによる長編ビジュアルノベル「リトルバスターズ! Ecstasy」のアダルト要素を除去した全年齢向け移植版で、PS2/PSP/PS Vita/PS3/Switch/Steam(English Edition) と長期にわたって複数機種に展開されたシリーズ総称。野球を軸にした男女混成の幼なじみグループ「リトルバスターズ」を巡る、笑いと泣きと SF 的世界観を併せ持つ群像劇を読ませる作品。",
+  "target": "Key/麻枝准作品（CLANNAD・AIR・Kanon）の系譜を追ってきた泣きゲーファン、長尺の青春群像 VN を読み込みたい層、PS Vita / Switch で家庭用ハードでも Key 作品を遊びたい層。",
+  "slug": "little-busters-converted-edition",
+  "file": "data/games/1854-little-busters-converted-edition.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Little_Busters!",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!",
+    "https://www.gematsu.com/2020/03/little-busters-converted-edition-for-switch-launches-april-23-in-the-west",
+    "https://www.prot.co.jp/switch/lbc_en/index.html",
+    "https://www.4gamer.net/games/111/G011102/",
+    "https://www.famitsu.com/news/201209/20021382.html"
+  ]
+}

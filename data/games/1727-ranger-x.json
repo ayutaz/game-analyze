@@ -1,0 +1,28 @@
+{
+  "id": 1727,
+  "title_jp": "EXランザ",
+  "title_en": "Ranger-X",
+  "developer": "Gau Entertainment",
+  "publisher": "Sega",
+  "year": 1993,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "アクションシューティング/ロボット",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "メガドライブ本来の同時発色数の倍となる128色同時発色を実現した高度なプログラム技術で話題となり、レトロゲーム愛好家の間で「メガドラ屈指の隠れた名作」として今も語り継がれている。",
+  "concept": "ジェットパックで滞空・着地と熱管理を行いながら7種の武器を撃ち分け、合体可能な支援機バイクとの連携で戦うSFロボットシューティング。タクティカルに兵装を選ぶ知的な硬派 STG として独自の地位を築いた。",
+  "target": "16ビット時代のメガドライブ実機ユーザー、硬派なアクションシューティングと和製メカ SF を好む層、メガドライブミニ2 経由で初めて触れるレトロゲーム愛好家。",
+  "slug": "ranger-x",
+  "file": "data/games/1727-ranger-x.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ranger_X",
+    "https://www.sega.jp/mdmini2/soft/ranger-X.html",
+    "https://www.hardcoregaming101.net/ranger-x/",
+    "https://www.sega-16.com/2004/07/ranger-x/"
+  ]
+}

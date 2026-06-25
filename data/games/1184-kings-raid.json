@@ -1,0 +1,36 @@
+{
+  "id": 1184,
+  "title_jp": "キングスレイド",
+  "title_en": "King's Raid",
+  "developer": "Vespa",
+  "publisher": "Vespa",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "リアルタイム3DコマンドバトルアクションRPG",
+  "sales_jp": "—",
+  "sales_world": "16M+ DL (2020年時点)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「キャラガチャ無し」を売りに全世界150か国で配信、累計1,600万DL超を記録。日本では2018年配信開始後にApp Store/Google Play売上トップ10入りし、Vespaの海外売上の大半を日本市場が占めた。2025年3月にサービス終了、Masangsoftが IP を取得し2026年再リリース予定。",
+  "concept": "「英雄ガチャ無し」を打ち出した韓国産のリアルタイム3DアクションRPG。英雄は確定入手でき、武器・専用装備・超越（Transcendence）など装備とキャラ育成に課金資源を集中させる設計で、ガチャ疲れしたユーザー層に刺さった。",
+  "target": "20-40代のスマホRPGコアユーザー、特に「キャラガチャに疲れた」「推し英雄を確実に育てたい」プレイヤー層。日本では韓国/グローバル運営RPGに親しんだ重課金寄りのファン層に浸透した。",
+  "slug": "kings-raid",
+  "file": "data/games/1184-kings-raid.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/King%27s_Raid",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%89",
+    "https://www.4gamer.net/games/412/G041297/20180313111/",
+    "https://gamebiz.jp/news/242970",
+    "https://gamebiz.jp/news/407850"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

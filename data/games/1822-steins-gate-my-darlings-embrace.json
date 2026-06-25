@@ -1,0 +1,35 @@
+{
+  "id": 1822,
+  "title_jp": "STEINS;GATE 比翼恋理のだーりん",
+  "title_en": "Steins;Gate: My Darling's Embrace",
+  "developer": "5pb.",
+  "publisher": "5pb. / Spike Chunsoft",
+  "year": 2011,
+  "platform": [
+    "Xbox 360",
+    "PSP",
+    "PS3",
+    "PS Vita",
+    "iOS",
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "想定科学アドベンチャー（恋愛コメディ）／ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "本編『STEINS;GATE』の if 世界を描く恋愛コメディスピンオフとして話題化。2019 年に Spike Chunsoft が英訳版を Switch / PS4 / PC で世界配信し、海外ファンにも再評価された。",
+  "concept": "本編のシリアスなタイムリープ SF とは別世界線で、岡部倫太郎が研究所メンバー（紅莉栖・まゆり・るか・フェイリス・鈴羽・萌郁）とラブコメ的関係を築く if ストーリーのビジュアルノベル。選択肢で各ヒロイン個別ルートに分岐する。",
+  "target": "本編『STEINS;GATE』をクリアし、各キャラクターの掘り下げや恋愛 if を楽しみたい既存ファン層。20-40 代の科学アドベンチャーシリーズ愛好者およびビジュアルノベル読み専層。",
+  "slug": "steins-gate-my-darlings-embrace",
+  "file": "data/games/1822-steins-gate-my-darlings-embrace.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Steins;Gate:_My_Darling's_Embrace",
+    "https://ja.wikipedia.org/wiki/STEINS;GATE_%E6%AF%94%E7%BF%BC%E6%81%8B%E7%90%86%E3%81%AE%E3%81%A0%E3%83%BC%E3%82%8A%E3%82%93",
+    "https://www.4gamer.net/games/489/G048922/20191211018/",
+    "https://store.steampowered.com/app/970560"
+  ]
+}

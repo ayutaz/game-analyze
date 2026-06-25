@@ -1,0 +1,31 @@
+{
+  "id": 1947,
+  "title_jp": "いろとりどりのヒカリ",
+  "title_en": "Irotoridori no Hikari",
+  "developer": "FAVORITE",
+  "publisher": "FAVORITE",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "本編「いろとりどりのセカイ」のファンディスクとして発売され、各ヒロインの後日譚と真琴ルートの長編追加シナリオが高評価。シナリオ・音楽ともに5点満点近い評価でVN愛好家からの支持が厚い。",
+  "concept": "FAVORITE の代表作「いろとりどりのセカイ」のファンディスクとして、本編で語り尽くされなかった各キャラクター（真琴・佳菜・澪・かがみ・つかさ）の後日談を補完するアダルトビジュアルノベル。真琴の真エンドルートが他ルートの2-3倍の分量を持ち、本編完走者へのご褒美的な物語装置として機能する。",
+  "target": "本編「いろとりどりのセカイ」をプレイ済みのファン、PCアダルトVNを長時間じっくり読み込みたい20-40代男性層、FAVORITE（AstralAir、ねこねこ系列）の世界観を愛好するノベルゲーム読者。",
+  "slug": "irotoridori-no-hikari",
+  "file": "data/games/1947-irotoridori-no-hikari.json",
+  "_source_urls": [
+    "https://www.favo-soft.jp/soft/product/Hikari/index.htm",
+    "https://www.otakulair.com/games/irotoridori-no-hikari/",
+    "https://www.myabandonware.com/game/irotoridori-no-hikari-x7a",
+    "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8D%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AE%E3%82%BB%E3%82%AB%E3%82%A4"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

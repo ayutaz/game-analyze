@@ -1,0 +1,29 @@
+{
+  "id": 1690,
+  "title_jp": "デモンズブレイゾン 魔界村紋章編",
+  "title_en": "Demon's Crest",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクション/プラットフォーマー",
+  "sales_jp": "26,245本",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "魔界村シリーズの雑魚キャラ「レッドアリーマー」を主役に据えた異色のダーク・ファンタジー。日本では生涯約 2.6 万本、北米では返品が販売を上回るほどの商業的失敗作だったが、EGM 8/8/8/9・GameFan 97/97/98% 等の高評価を獲得し、後年 IGN/GamesRadar 等の SNES 名作ランキングで再評価された隠れた名作。",
+  "slug": "demons-crest",
+  "file": "data/games/1690-demons-crest.json",
+  "concept": "魔界村シリーズのスピンオフ第 3 作。6 つの紋章を集めて 6 形態（地・水・火・天・時・無限）に変身し、ダークな魔界をメトロイドヴァニア的に探索しながら進むアクション・プラットフォーマー。",
+  "target": "魔界村シリーズや 90 年代 SNES アクションを遊んだ 30-50 代男性層、ダーク・ファンタジー世界観と探索型アクションを好む高難度ゲーマー層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Demon's_Crest",
+    "https://capcom.fandom.com/wiki/Demon's_Crest",
+    "https://www.nintendolife.com/games/snes/demons_crest"
+  ]
+}

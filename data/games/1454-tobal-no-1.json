@@ -1,0 +1,28 @@
+{
+  "id": 1454,
+  "title_jp": "トバル No.1",
+  "title_en": "Tobal No. 1",
+  "developer": "DreamFactory",
+  "publisher": "Square",
+  "year": 1996,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3D対戦型格闘",
+  "sales_jp": "752K",
+  "sales_world": "0.9M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "鳥山明キャラデザイン×スクウェア初の格ゲー。『FF7』体験版同梱ディスクが牽引役となり1996年日本国内9位の売上を記録した。",
+  "slug": "tobal-no-1",
+  "file": "data/games/1454-tobal-no-1.json",
+  "concept": "セガ『バーチャファイター』『鉄拳』の石井精一を迎えたドリームファクトリー製の3D格闘で、グラップル(投げ)と全方位移動を軸にした独自の格闘システムと、ダンジョン探索の「クエストモード」を組み合わせたハイブリッド作。",
+  "target": "PS初期の格闘ゲームファン、鳥山明ファン、スクウェアの新規IPに期待した層、そして同梱の『FF7』体験版目当てのRPGファンまでを横断的に取り込んだ。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tobal_No._1",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%90%E3%83%ABNo.1",
+    "https://www.famitsu.com/article/202508/48491",
+    "https://www.vgchartz.com/game/4589/tobal-no1/"
+  ]
+}

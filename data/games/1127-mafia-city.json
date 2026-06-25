@@ -1,0 +1,37 @@
+{
+  "id": 1127,
+  "title_jp": "Mafia City",
+  "title_en": "Mafia City",
+  "developer": "YottaGame",
+  "publisher": "YottaGame",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "MMOストラテジー/シティビルダー（ギャング題材）",
+  "sales_jp": "—",
+  "sales_world": "$500M+ lifetime",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「That's how mafia works」「Lv.1 Crook vs Lv.35 Boss」というネタ広告が 2019 年に世界的にバズり、ゲーム本体以上に Instagram/YouTube ミーム文化として爆発的に拡散した。実際のゲームは Lords Mobile 系の建設＋PvP ストラテジー。",
+  "slug": "mafia-city",
+  "file": "data/games/1127-mafia-city.json",
+  "concept": "ギャングのボスとなり拠点を建設・部下を雇用・他プレイヤーの街を襲撃するクラン戦争型 MMO ストラテジー。タイマー短縮と建設レベルアップを軸にした典型的な中国製 4X 系で、課金による成長加速が収益の中心。",
+  "target": "Lords Mobile / Game of War / State of Survival のようなクラン戦争系モバイルストラテジーを好む北米・南米・東南アジアの 20-40 代男性層。日本国内よりも海外マーケット（特に北米・ブラジル・中東）で重課金層を集めている。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mafia_City",
+    "https://play.google.com/store/apps/details?id=com.yottagames.mafiawar",
+    "https://apps.apple.com/us/app/mafia-city-war-of-underworld/id1235569398",
+    "https://sensortower.com/android/us/yottagame/app/mafia-city/com.yottagames.mafiawar/",
+    "https://knowyourmeme.com/memes/thats-how-mafia-works",
+    "https://www.newsweek.com/thats-how-mafia-works-pewdiepie-mafia-city-meme-big-chungus-1285920"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1089,
+  "title_jp": "トイブラスト",
+  "title_en": "Toy Blast",
+  "developer": "Peak Games",
+  "publisher": "Peak (Zynga / Take-Two)",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "カジュアル/ブロック消しパズル",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "トルコ Peak Games 製のブロック消しパズルで、姉妹タイトル Toon Blast と合わせて全世界 4 億人超のプレイヤー規模。2020 年に Zynga が Peak Games を 18 億ドルで買収した象徴的タイトル。",
+  "concept": "隣接する同色キューブを 2 つ以上タップして消し、ステージ目標（アヒルを下まで運ぶ・風船を割る等）をクリアしていくシングルプレイのブロック消しパズル。レベル数は 1 万超まで継続拡張され、毎日ログイン報酬とリーダーボード型イベントで継続動機を作る。",
+  "target": "30-50 代の女性層を中心としたカジュアル層、特に通勤時やスキマ時間にスマホで「短く・繰り返し・達成感のある」遊びを求めるユーザー。重い操作や PvP を避けたい非ゲーマーに刺さる。",
+  "slug": "toy-blast",
+  "file": "data/games/1089-toy-blast.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Peak_Games",
+    "https://toyblast.fandom.com/wiki/Toy_Blast",
+    "https://play.google.com/store/apps/details?id=net.peakgames.amy",
+    "https://japanese-photographer.com/information_technology/toonblast-company/"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1298,
+  "title_jp": "アバター：ジェネレーションズ",
+  "title_en": "Avatar: Generations",
+  "developer": "Navigator Games",
+  "publisher": "Square Enix",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターン制スクワッド RPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "—（2022/8 ソフトローンチ→2023/1 グローバル配信→2023/12/2 サービス終了）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "Nickelodeon 人気アニメ『アバター：伝説の少年アン』の IP を題材にした Square Enix London Mobile × Navigator Games 制作のターン制スクワッド RPG。Marvel Strike Force / SW: Galaxy of Heroes 型のキャラ収集ガチャに、コラ／キョーシ／ロク など歴代アバターを横断する原作横軸が話題に。ただし配信 11 ヶ月で 2023/12/2 にサービス終了し、Square Enix のモバイル撤退路線を象徴する一本となった。",
+  "concept": "Avatar：伝説の少年アンの原作スト−リーをなぞりつつ、アン／カタラ／ソッカ／トフ／スーキ／ズーコらをガチャで集めてパーティを編成し、キョーシ／コラ／ロクなど歴代アバター時代も横断して遊べるターン制スクワッド RPG。Square Enix London Mobile が運営した IP × Western mobile gacha の試み。",
+  "target": "Avatar：The Last Airbender / The Legend of Korra ファンと、Marvel Strike Force / Star Wars: Galaxy of Heroes / RAID: Shadow Legends のような海外型スクワッド RPG を遊ぶ 20–40 代の英語圏モバイルユーザー。日本ではほぼ未認知。",
+  "slug": "avatar-generations",
+  "file": "data/games/1298-avatar-generations.json",
+  "_source_urls": [
+    "https://avatar.fandom.com/wiki/Avatar:_Generations",
+    "https://www.escapistmagazine.com/avatar-generations-is-a-turn-based-mobile-rpg-from-square-enix/",
+    "https://www.nickalive.net/2023/11/avatar-generations-mobile-rpg-to.html",
+    "https://www.gematsu.com/2023/01/avatar-generations-launches-in-early-2023-gameplay-trailer"
+  ]
+}

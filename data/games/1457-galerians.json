@@ -1,0 +1,29 @@
+{
+  "id": 1457,
+  "title_jp": "ガレリアンズ",
+  "title_en": "Galerians",
+  "developer": "Polygon Magic",
+  "publisher": "ASCII / Crave",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "サバイバルホラー/サイキックアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "バイオハザード型の固定カメラ・タンク操作にサイキック能力という独自要素を組み合わせ、薬物投与で発動する超能力バトルとサイバーパンク・ホラーの世界観でカルト的人気を獲得。続編 Galerians: Ash も制作された。",
+  "concept": "少年リオンが自らの超能力と記憶喪失の謎を解き明かしながら、遺伝子操作された敵 Galerians と戦うサイキック・サバイバルホラー。薬物（PPEC）を投与して超能力を発動する独特のリソース管理が特徴。",
+  "target": "10-30代のホラー／サイバーパンク好き、バイオハザード系の固定カメラ・タンク操作に慣れたコアゲーマー層、SF・サイキックものを好む層。",
+  "slug": "galerians",
+  "file": "data/games/1457-galerians.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Galerians",
+    "https://galerians.fandom.com/wiki/Galerians",
+    "https://glitchwave.com/game/galerians/release/%E3%82%AC%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BA-playstation-jp/"
+  ]
+}

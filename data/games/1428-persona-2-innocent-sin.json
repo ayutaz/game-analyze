@@ -1,0 +1,30 @@
+{
+  "id": 1428,
+  "title_jp": "ペルソナ2 罪",
+  "title_en": "Persona 2: Innocent Sin",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "PSP"
+  ],
+  "genre": "ジュブナイル RPG",
+  "sales_jp": "278K",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「噂が現実になる」街・珠閲市を舞台に、ジョーカー事件とヒトラー復活を描く重厚なオカルト群像劇。タブー視されたテーマと衝撃のラストで、後年「ペルソナ2部作」の前編として根強くカルト化した。",
+  "concept": "高校生たちが噂を起点に集団的悪意と陰謀へ巻き込まれていく心理学＋オカルト RPG。「噂を流して現実を書き換える」ルマーシステムと、ペルソナ同士の会話で交渉する独自戦闘で、世界観そのものをロールプレイさせる。",
+  "target": "重い物語・タブーに踏み込む群像劇を好む RPG ファン、女神転生／ペルソナ初期作の世界観を辿りたい層。10 代後半〜30 代のシナリオ重視プレイヤー。",
+  "slug": "persona-2-innocent-sin",
+  "file": "data/games/1428-persona-2-innocent-sin.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Persona_2:_Innocent_Sin",
+    "https://megamitensei.fandom.com/wiki/Persona_2:_Innocent_Sin",
+    "https://www.vgchartz.com/game/48251/shin-megami-tensei-persona-2-innocent-sin/"
+  ]
+}

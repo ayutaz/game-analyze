@@ -1,0 +1,30 @@
+{
+  "id": 1417,
+  "title_jp": "フロントミッション サード",
+  "title_en": "Front Mission 3",
+  "developer": "Square (Development Division 6)",
+  "publisher": "Square",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "タクティカルRPG/シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1期を代表する人型兵器「ヴァンツァー」SRPG。同じ序盤の選択で「DHZ編」「USN編」の2シナリオに分岐するダブルシナリオ構成と、ゲーム内ネットワーク「WAP」によるテキスト探索が当時話題となった。",
+  "concept": "近未来の国際紛争を背景に、テストパイロット竹村一樹がMIDAS兵器を巡る陰謀に巻き込まれていくミリタリーSRPG。ヴァンツァーを部位単位でカスタマイズし、ターン制で戦線を進めながら2系統の物語を描く。",
+  "target": "ガンダムや装甲騎兵的なロボットミリタリー世界観を好む層、PS1時代のSRPG（タクティクスオウガ／FFT等）プレイヤー、機体カスタマイズと骨太SFシナリオを同時に味わいたい層。",
+  "slug": "front-mission-3",
+  "file": "data/games/1417-front-mission-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Front_Mission_3",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%9F%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://www.famitsu.com/game/title/4150/page/1",
+    "https://www.4gamer.net/games/913/G091372/20250527046/"
+  ]
+}

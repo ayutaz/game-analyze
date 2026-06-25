@@ -1,0 +1,31 @@
+{
+  "id": 1413,
+  "title_jp": "スターオーシャン セカンドストーリー",
+  "title_en": "Star Ocean: The Second Story",
+  "developer": "tri-Ace",
+  "publisher": "Enix",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "724K",
+  "sales_world": "1.09M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "リアルタイム制バトルと「ダブルヒーローシステム」による主人公2人別ルート、80以上のエンディング分岐、プライベートアクションによるキャラクター掘り下げが当時のRPGファンを熱狂させ、シリーズ屈指の名作として語り継がれている。2023年のリメイク版『SO2R』ヒットで再評価が加速した。",
+  "slug": "star-ocean-the-second-story",
+  "file": "data/games/1413-star-ocean-the-second-story.json",
+  "concept": "宇宙を旅する若き連邦士官クロードと地方惑星の少女レナ、2人の主人公視点で展開するSFファンタジーARPG。アイテムクリエーション・才能・スキル習得など自由度の高い育成と、80以上に分岐するマルチエンディングが特徴。",
+  "target": "FF・ドラクエ世代でリアルタイムバトルとやり込み育成を好むRPGファン、キャラクター関係性の掘り下げや分岐ENDのコレクションを楽しみたい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Ocean:_The_Second_Story",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3_%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+    "https://www.famitsu.com/article/202507/48306",
+    "https://www.jp.square-enix.com/game/detail/so2/"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1514,
+  "title_jp": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+  "title_en": "Dragon Quest VIII: Journey of the Cursed King",
+  "developer": "Level-5",
+  "publisher": "Square Enix",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "3DS",
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG（フル3Dフィールド型コマンドRPG）",
+  "sales_jp": "3.7M+",
+  "sales_world": "5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS2初の本格ナンバリングドラクエとして発売2日で217万本、3日で300万本を売り上げ当時のPS2最速記録を樹立。鳥山明デザインのフル3D世界＋すぎやまこういちのオーケストラ＋シリーズ初の英語音声で「海外でも売れるドラクエ」の道を開いた。",
+  "concept": "シリーズ初のフル3Dフィールドで「歩いて世界を渡る」感覚を徹底追求した王道コマンドRPG。鳥山明絵の世界をぐるりと一周できる開放感と、呪いを解く王道ボーイミーツプリンセスの物語が両輪。",
+  "target": "PS2世代の20-40代男女、シリーズ既存ファンに加え「3Dになった初のドラクエ」目当ての新規層。腰を据えてシナリオを追いたいJRPGファン、王道ファンタジーを好む幅広い層。",
+  "slug": "dragon-quest-viii-journey-of-the-cursed-king",
+  "file": "data/games/1514-dragon-quest-viii-journey-of-the-cursed-king.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dragon_Quest_VIII",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88VIII_%E7%A9%BA%E3%81%A8%E6%B5%B7%E3%81%A8%E5%A4%A7%E5%9C%B0%E3%81%A8%E5%91%AA%E3%82%8F%E3%82%8C%E3%81%97%E5%A7%AB%E5%90%9B",
+    "https://www.level5.co.jp/products/intro/dq8/index.html",
+    "https://www.jp.square-enix.com/game/detail/dq8/",
+    "https://www.vgchartz.com/game/570/dragon-quest-viii-journey-of-the-cursed-king/"
+  ]
+}

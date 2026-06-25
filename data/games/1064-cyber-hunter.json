@@ -1,0 +1,30 @@
+{
+  "id": 1064,
+  "title_jp": "Cyber Hunter",
+  "title_en": "Cyber Hunter",
+  "developer": "NetEase Games",
+  "publisher": "NetEase Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "SFバトルロイヤル/TPS",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL (2週間時点)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "2019年グローバルローンチ後2週間で500万DL達成、うち日本市場が約110万DLを占め特に好調だった。近未来世界観・パルクール・垂直登攀など独自要素を備えたSFバトロワとして話題に。2024年7月にサービス終了。",
+  "concept": "サイバーパンク調の近未来世界を舞台に、壁登り・パルクール・量子化変形などの独自アクションを取り入れたバトルロイヤル。PUBG系の銃撃戦に縦横無尽な機動力と未来兵器を加えた差別化路線。",
+  "target": "PUBG Mobile / 荒野行動などのモバイルバトロワに親しんだ10-30代男性層。SF/サイバーパンク世界観や派手なガジェット演出を好むプレイヤー、よりトリッキーな機動戦を求めるバトロワユーザー。",
+  "slug": "cyber-hunter",
+  "file": "data/games/1064-cyber-hunter.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Cyber_Hunter",
+    "https://sensortower.com/blog/netease-cyber-hunter-downloads-japan",
+    "https://www.4gamer.net/games/437/G043793/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC"
+  ]
+}

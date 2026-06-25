@@ -1,0 +1,32 @@
+{
+  "id": 1046,
+  "title_jp": "非人類学園 Extraordinary Ones",
+  "title_en": "Extraordinary Ones",
+  "developer": "NetEase / HK Hero Entertainment",
+  "publisher": "NetEase",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アニメ調5v5モバイルMOBA",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "アニメ調キャラ×5v5 MOBAという珍しい組み合わせで、とある科学の超電磁砲・モブサイコ100など人気アニメとのコラボを連発。世界累計1,000万プレイヤー超を記録し、2025年8月にサービス終了するまで約6年半運営された。",
+  "concept": "Onmyoji Arenaに続くNetEaseのモバイルMOBA第二弾。学園を舞台に二次元キャラが5v5で戦うという独自路線で、Honor of Kings/モバイルレジェンドが取りこぼした「アニメオタク層」を狙う設計。",
+  "target": "Honor of Kings/モバレジェ系の5v5 MOBAに親しみつつ、よりアニメ寄りのキャラクター性を求める中華圏・日本・東南アジアのアニメファン層。",
+  "slug": "extraordinary-ones",
+  "file": "data/games/1046-extraordinary-ones.json",
+  "_source_urls": [
+    "https://www.neteasegames.com/news/game/20200115/30576_860478.html",
+    "https://eo.xdg.com/",
+    "https://applion.jp/iphone/app/1429610388/market/",
+    "https://www.4gamer.net/games/439/G043983/",
+    "https://www.pocketgamer.com/extraordinary-ones/extraordinary-ones-neteases-anime-inspired-moba-hits-ios-and-android-on-january/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1429,
+  "title_jp": "ペルソナ2 罰",
+  "title_en": "Persona 2: Eternal Punishment",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "PSP"
+  ],
+  "genre": "JRPG/オカルトジュブナイル",
+  "sales_jp": "258K (PS1 200K + PSP 58K)",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『罪』の続編にして「大人になった主人公たちが噂と陰謀の都・珠閒瑠市を再び歩く」完結編。2012年PSPリマスター（日本国内のみ）でも初動3位を記録した、ペルソナ初期2部作の到達点として語り継がれる作品。",
+  "concept": "前作『罪』の世界線が崩壊した後の「もう一つの世界」を舞台に、主人公を女性記者・舞耶に変えてアトラスお得意の現代オカルト×ジュブナイル群像劇を描き切るデュオロジー後編。「噂が現実になる街」のシステムと悪魔交渉、ペルソナ合体を絡めたコマンドRPG。",
+  "target": "前作『罪』をプレイした旧来の女神転生／ペルソナファン、ペルソナ3以降の新規ファンで「シリーズの原点」「狂気と大人の物語」に触れたい層。重厚なシナリオと暗いトーンを許容できるJRPG好き。",
+  "slug": "persona-2-eternal-punishment",
+  "file": "data/games/1429-persona-2-eternal-punishment.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Persona_2:_Eternal_Punishment",
+    "https://megamitensei.fandom.com/wiki/Persona_2:_Eternal_Punishment",
+    "https://www.rpgfan.com/review/shin-megami-tensei-persona-2-eternal-punishment-psp/"
+  ]
+}

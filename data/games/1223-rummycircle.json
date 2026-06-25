@@ -1,0 +1,33 @@
+{
+  "id": 1223,
+  "title_jp": "ラミー・サークル",
+  "title_en": "RummyCircle",
+  "developer": "Games24x7",
+  "publisher": "Games24x7 (India)",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Browser",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オンラインラミー/リアルマネーカードゲーム",
+  "sales_jp": "—",
+  "sales_world": "50M+ users",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "インド最大級のリアルマネー・ラミー専業プラットフォームで、登録ユーザー 5,000 万人超・2023 年だけで 50 億ゲーム以上がプレイされたと公表。Games24x7 はこの RummyCircle を中核に 2022 年にユニコーン入りした。",
+  "concept": "13 枚の手札でシークエンスとセットを組む伝統インド式 13 カード・ラミーを、24 時間いつでも現金トーナメント／キャッシュテーブルで遊べる「スキルゲーミング」プラットフォーム。iTech Labs 認証 RNG と不正検出で公正性を担保し、勝てば実マネーが引き出せる仕組みが主動機になる。",
+  "target": "インド在住の 18 歳以上成人（一部州を除く）。カード勝負の腕を現金収入に変えたいスキルゲーマー層と、家族で長年慣れ親しんだラミーを隙間時間にスマホで遊びたいカジュアル層の両方。",
+  "slug": "rummycircle",
+  "file": "data/games/1223-rummycircle.json",
+  "_source_urls": [
+    "https://www.rummycircle.com/about-us/what-we-do.html",
+    "https://en.wikipedia.org/wiki/Games24x7",
+    "https://www.rummycircle.com/",
+    "https://inc42.com/features/games24x7-real-money-gaming-regulations-vision-trivikraman-thampy/"
+  ]
+}

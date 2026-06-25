@@ -1,0 +1,35 @@
+{
+  "id": 1347,
+  "title_jp": "Score! Hero",
+  "title_en": "Score! Hero",
+  "developer": "First Touch Games",
+  "publisher": "First Touch Games",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "サッカー/パズル",
+  "sales_jp": "—",
+  "sales_world": "300M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "スワイプでパス・シュート軌道を描く独特な操作感が話題となり、世界累計 3 億 DL 超を達成した英国発モバイルサッカーの代表作。",
+  "concept": "「自分のヒーロー選手 1 人を育て、決定的場面だけをスワイプで決める」をテーマにした演出特化型サッカーパズル。試合まるごとではなく各シーンの最適解を引く構造で、隙間時間に 1 ステージずつ消化できる。",
+  "target": "10-40 代の男女、スマホでサッカーを片手プレイしたいライト層、Dream League Soccer など First Touch Games ファン、操作型ガチサッカーよりカジュアル志向のユーザー。",
+  "slug": "score-hero",
+  "file": "data/games/1347-score-hero.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.firsttouchgames.story&hl=en_US",
+    "https://apps.apple.com/us/app/score-hero/id847492141",
+    "https://www.ftgames.com/",
+    "https://www.4gamer.net/games/373/G037392/",
+    "https://app.famitsu.com/20180324_1261070/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

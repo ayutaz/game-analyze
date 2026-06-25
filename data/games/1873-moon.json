@@ -1,0 +1,28 @@
+{
+  "id": 1873,
+  "title_jp": "MOON.",
+  "title_en": "MOON.",
+  "developer": "Tactics (Key 前身)",
+  "publisher": "Tactics / Visual Arts",
+  "year": 1997,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「Keyの原点」「事実上のKey第一作」として語り継がれる1997年タクティクスの問題作。麻枝准・久弥直樹・樋上いたる・折戸伸治らが初めて結集し、後の Kanon/AIR/CLANNAD へと続く「泣きゲー」DNAの源流として今もファンに参照される。",
+  "concept": "新興宗教「ファルゴ社」を舞台に、母の死の真相を求めて組織に潜入した少女・天沢郁未の心理を追う閉鎖空間ビジュアルノベル。「心に届くAVG」を標榜し、暴力や宗教描写を交えつつ、後の Key 作品に共通する個人の内面風景を描き出す手法を確立した。",
+  "target": "Key/麻枝准ファン、泣きゲー・1990年代後半美少女ゲーム史を辿りたい層、Kanon/AIR/CLANNAD の源流に触れたい年齢層の高い PC ノベルゲーマー。",
+  "slug": "moon",
+  "file": "data/games/1873-moon.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Moon_(1997_visual_novel)",
+    "https://ja.wikipedia.org/wiki/MOON.",
+    "https://dic.nicovideo.jp/a/moon.",
+    "https://en.wikipedia.org/wiki/Key_(company)"
+  ]
+}

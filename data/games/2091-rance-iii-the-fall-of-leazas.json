@@ -1,0 +1,33 @@
+{
+  "id": 2091,
+  "title_jp": "ランスIII -リーザス陥落-",
+  "title_en": "Rance III: The Fall of Leazas",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 1991,
+  "platform": [
+    "PC"
+  ],
+  "genre": "戦略シミュレーションRPG/アダルトADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ランスシリーズ初のSRPG化と国家間戦争規模への拡大で人気を確立。2008年にアリスソフトの「配布フリー宣言」でフリー化、2012年に英語非公式翻訳が登場し海外コミュニティでもカルト的な評価を得た。",
+  "concept": "リーザス王国陥落という国家規模の戦争を背景に、主人公ランスが二国間を移動しながらSRPG戦闘とダンジョン探索を進める、シリーズ初の本格的戦略RPG。物語スケールとアダルト要素を両立させた1991年作。",
+  "target": "PC-98/X68000/FM TOWNS時代の国産アダルトPCゲーマー。RPG/SRPG好きで、シリーズ後発作（鬼畜王ランス・戦国ランス）の原点を辿りたい層、レトロPCアダルトゲーム史に関心のある層。",
+  "slug": "rance-iii-the-fall-of-leazas",
+  "file": "data/games/2091-rance-iii-the-fall-of-leazas.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://ja.wikipedia.org/wiki/Rance_III_-%E3%83%AA%E3%83%BC%E3%82%B6%E3%82%B9%E9%99%A5%E8%90%BD-",
+    "https://alicesoft.fandom.com/wiki/Rance_III:_The_Fall_of_Leazas",
+    "https://alicesoft.miraheze.org/wiki/Rance_III:_The_Fall_of_Leazas"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

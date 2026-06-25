@@ -1,0 +1,29 @@
+{
+  "id": 1492,
+  "title_jp": "シンディケート ウォーズ",
+  "title_en": "Syndicate Wars",
+  "developer": "Bullfrog Productions",
+  "publisher": "Electronic Arts",
+  "year": 1997,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "リアルタイム・タクティカル/ストラテジー（クォータービュー）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Bullfrog 全盛期の続編としてサイバーパンク・ディストピア世界観と破壊可能な 3D 都市が話題になり、欧米 PC ゲーマーのカルト的人気作となった。GOG での再配信で再評価も進んでいる。",
+  "concept": "Syndicate（1993）の続編。プレイヤーは巨大企業（シンジケート）のエージェント 4 人を指揮し、洗脳ガスや重火器で都市を制圧していくクォータービューのリアルタイム・タクティクス。建物や群衆をすべて破壊できる 3D 都市が当時の差別化点。",
+  "target": "90 年代後半の洋ゲー / Bullfrog ファン、サイバーパンク世界観と暗いディストピア演出を好む欧米 PC ゲーマー、リアルタイム・タクティクス愛好家。",
+  "slug": "syndicate-wars",
+  "file": "data/games/1492-syndicate-wars.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Syndicate_Wars",
+    "https://www.mobygames.com/game/551/syndicate-wars/",
+    "https://www.pushsquare.com/games/ps1/syndicate_wars",
+    "https://syndicate.fandom.com/wiki/Syndicate_Wars"
+  ]
+}

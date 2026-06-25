@@ -1,0 +1,27 @@
+{
+  "id": 1668,
+  "title_jp": "悪魔城ドラキュラ",
+  "title_en": "Super Castlevania IV",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1991,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2D アクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "800K",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "8 方向ムチ操作と Mode 7 演出で SFC ローンチ期の技術デモ的存在に。シリーズ屈指の名作 BGM『Simon's Theme』も含め、後年の VC / SNES Classic / Castlevania Anniversary Collection 再録で評価が定着した。",
+  "concept": "初代『悪魔城ドラキュラ』(FC) のシモン編をスーパーファミコン世代の表現力でリメイク／再構築した 2D 横スクロール・アクション。8 方向ムチ操作と回転・拡縮スクロールで「ゴシックホラー城を攻略する手応え」を一段引き上げた。",
+  "target": "FC 期の悪魔城シリーズ経験者と SFC ローンチ期の 2D アクション愛好層。難度の高い古典 2D プラットフォーマーを腰を据えて攻略したい層。",
+  "slug": "super-castlevania-iv",
+  "file": "data/games/1668-super-castlevania-iv.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Castlevania_IV",
+    "https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E5%9F%8E%E3%83%89%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9_(%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E7%89%88)",
+    "https://www.vgchartz.com/game/4416/super-castlevania-iv/"
+  ]
+}

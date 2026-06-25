@@ -1,0 +1,27 @@
+{
+  "id": 1615,
+  "title_jp": "1080° スノーボーディング",
+  "title_en": "1080° Snowboarding",
+  "developer": "Nintendo EAD",
+  "publisher": "任天堂",
+  "year": 1998,
+  "platform": [
+    "N64"
+  ],
+  "genre": "スポーツ/スノーボード",
+  "sales_jp": "—",
+  "sales_world": "2.07M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "宮本茂プロデュース、永田権太の音楽、リアル志向の物理挙動とトリックシステムで N64 スポーツの代表作に。第2回 AIAS で Console Sports Game of the Year を受賞し、世界 200 万本超を売り上げた。",
+  "concept": "雪面の摩擦・体重移動・回転モーメントを物理的に再現した本格スノーボードゲーム。マッチレース／タイムアタック／トリックアタックを通じ、滑走そのものの感覚と 1080° スピンの達成感を主軸に据える。",
+  "target": "N64 のスポーツゲームを求めた 10-30 代男性層、スノーボード文化に憧れる若年層、宮本茂作品のリアル系挙動を好むコアゲーマー。",
+  "slug": "1080-snowboarding",
+  "file": "data/games/1615-1080-snowboarding.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/1080%C2%B0_Snowboarding",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%B3%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3_%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0",
+    "https://www.vgchartz.com/game/8/1080-snowboarding/"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1267,
+  "title_jp": "マーベル パズルクエスト",
+  "title_en": "MARVEL Puzzle Quest",
+  "developer": "Demiurge Studios",
+  "publisher": "D3 Go!",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "PS3",
+    "PS4",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "マッチ3パズルRPG/ヒーローコレクション",
+  "sales_jp": "—",
+  "sales_world": "20M+ プレイヤー",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "250以上のマーベルキャラを集めて育てる長期運営型マッチ3 RPG。2週間ごとの新キャラ追加とイベントで、2013年から10年以上続く「ほぼ永遠に遊べる」モバイル定番として WIRED でも取り上げられた。",
+  "concept": "Bejeweled 系マッチ3パズルにマーベルヒーローのコレクション/育成/PvP を載せたハイブリッド。盤面の色マッチがそのままヒーローのスキル発動になり、ガチャ/カバー収集とチャンピオンレベリングが長期動機を作る。",
+  "target": "マーベル IP ファンと、隙間時間に遊べる重めのモバイルパズル/コレクション RPG を求める20-50代。長期運営型の積み上げを楽しめる層に強い。",
+  "slug": "marvel-puzzle-quest",
+  "file": "data/games/1267-marvel-puzzle-quest.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Marvel_Puzzle_Quest",
+    "https://wired.jp/2021/01/19/marvel-puzzle-quest-essay/",
+    "https://505games.com/games/marvel-puzzle-quest/",
+    "https://apps.apple.com/jp/app/id618349779"
+  ]
+}

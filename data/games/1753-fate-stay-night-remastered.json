@@ -1,0 +1,30 @@
+{
+  "id": 1753,
+  "title_jp": "Fate/stay night Remastered",
+  "title_en": "Fate/stay night Remastered",
+  "developer": "TYPE-MOON",
+  "publisher": "Aniplex",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "100K+ (2024年12月時点、出荷+DL ワールドワイド)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "TYPE-MOON 20周年記念の決定版リマスター。2004年原作のFateシリーズ原典が初の公式英語・簡体字対応で全世界配信され、発売4ヶ月で全世界10万本突破。",
+  "concept": "PS Vita版『Realta Nua』をベースにフルHD化したビジュアルノベル。Fate/Unlimited Blade Works/Heaven's Feel の3ルートを内包し、Fateシリーズの原典を現代環境で読み通せる決定版として位置づけられる。",
+  "target": "Fateシリーズのアニメ・FGOから入って原作未読の20-40代、TYPE-MOONファン、海外のビジュアルノベル愛好層。初の公式英語対応により海外読者層の取り込みも狙う。",
+  "slug": "fate-stay-night-remastered",
+  "file": "data/games/1753-fate-stay-night-remastered.json",
+  "_source_urls": [
+    "https://www.gematsu.com/2024/01/fate-stay-night-remastered-announced-for-switch-pc",
+    "https://gamebiz.jp/news/397946",
+    "https://www.inside-games.jp/article/2024/12/20/162599.html",
+    "https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/",
+    "https://typemoon.com/products/f-sn/"
+  ]
+}

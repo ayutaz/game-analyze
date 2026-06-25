@@ -1,0 +1,36 @@
+{
+  "id": 1373,
+  "title_jp": "マジック：ザ・ギャザリング アリーナ",
+  "title_en": "Magic: The Gathering Arena",
+  "developer": "Wizards of the Coast",
+  "publisher": "Wizards of the Coast",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "デジタルTCG (トレーディングカードゲーム)",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2019年正式ローンチで世界10億ゲームプレイ達成、累計4,000万人超のプレイヤー基盤。ミシックインビテーショナル等eスポーツ施策でTwitch視聴者を急拡大した。",
+  "concept": "30年以上の歴史を持つ紙のTCG「マジック：ザ・ギャザリング」をデジタル化した基本無料のオンラインカードゲーム。最新セットを紙とほぼ同時に展開し、ランクマッチ・ドラフト・コンストラクテッドの本格対戦を提供する。",
+  "target": "紙のMTG経験者と、Hearthstone等から流入した競技志向のTCGプレイヤー。デッキ構築の戦略性と最新カードを追い続ける収集要素の両方を楽しみたい層。",
+  "slug": "magic-the-gathering-arena",
+  "file": "data/games/1373-magic-the-gathering-arena.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Magic:_The_Gathering_Arena",
+    "https://www.4gamer.net/games/443/G044382/20190606078/",
+    "https://www.famitsu.com/news/201909/30184284.html",
+    "https://mtg-jp.com/mtgarena/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

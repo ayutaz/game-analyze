@@ -1,0 +1,29 @@
+{
+  "id": 1219,
+  "title_jp": "インダス・バトルロイヤル",
+  "title_en": "Indus Battle Royale",
+  "developer": "SuperGaming",
+  "publisher": "SuperGaming (India)",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/シューター",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL (Day 1) / 14M pre-registrations",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "インド初の「メイド・イン・インディア」バトロワとして配信前に14Mプリレジ、2024-10-16配信初日に100万DL突破、iOS/AndroidストアでF2Pランキング1位を獲得。",
+  "concept": "インダス文明をモチーフにした「インドフューチャリスティック」バトルロイヤル。ラストサークルに出現するCosmium回収による独自の二重勝利条件と、プレイヤー同士が因縁を宣言できるGrudgeシステムが特徴。",
+  "target": "PUBG Mobile / BGMI規制で空席となった枠を埋めたいインド国内モバイルゲーマーと、地域文化モチーフのバトロワを求める南アジア圏のF2Pシューター層。",
+  "slug": "indus-battle-royale",
+  "file": "data/games/1219-indus-battle-royale.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Indus_Battle_Royale",
+    "https://www.indiatodaygaming.com/news/story/indus-battle-royale-hits-1-million-downloads-on-day-1-heres-why-its-a-big-deal-5509",
+    "https://esportsinsider.com/2024/10/indus-1m-downloads-supergaming-esports-roadmap",
+    "https://indusgame.com/"
+  ]
+}

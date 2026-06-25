@@ -1,0 +1,34 @@
+{
+  "id": 2070,
+  "title_jp": "岩倉アリア",
+  "title_en": "Iwakura Aria",
+  "developer": "MAGES.",
+  "publisher": "MAGES.",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "ノベル/サスペンスADV/百合",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "MAGES.4年5ヶ月ぶりの完全新作ADVとして注目され、1966年(昭和41年)旧華族の屋敷を舞台にした油絵タッチの百合サスペンスとしてSNSで感想バズ。9種エンディング分岐と「百合ゲーですか？」の公式回答が話題に。2025年Steam版発売・英語対応決定でグローバルにも拡散。",
+  "concept": "1966年の旧華族・岩倉家を舞台に、住み込み女中として迎えられた壱子と令嬢アリアの間に芽生える絆と屋敷の闇を描く、9エンディング分岐の百合サスペンス・ノベルADV。油絵タッチのビジュアルと33年後を描くエピローグで「存在と存在が結びつくことによる解放」を主題化。",
+  "target": "ノベルゲーム/百合・GL作品ファン、シナリオ重視で重い人間ドラマを好む10-40代女性層、Steins;Gate/CHAOS;HEAD系MAGES.・5pb系ADVの既存ファン。",
+  "slug": "iwakura-aria",
+  "file": "data/games/2070-iwakura-aria.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%80%89%E3%82%A2%E3%83%AA%E3%82%A2",
+    "https://game.mages.co.jp/iwakura-aria/product/",
+    "https://www.famitsu.com/article/202412/27489",
+    "https://www.4gamer.net/games/779/G077996/20240816034/",
+    "https://store.steampowered.com/app/3197710/Iwakura_Aria/",
+    "https://news.denfaminicogamer.jp/news/240301k"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

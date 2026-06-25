@@ -1,0 +1,29 @@
+{
+  "id": 1418,
+  "title_jp": "ドラゴンクエストVII エデンの戦士たち",
+  "title_en": "Dragon Quest VII: Fragments of the Forgotten Past",
+  "developer": "Heartbeat / ArtePiazza",
+  "publisher": "Enix",
+  "year": 2000,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "RPG（ターン制コマンドバトル／石版収集型エピソード構成）",
+  "sales_jp": "4.17M",
+  "sales_world": "4.0M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "発売17日で357万本を売り上げ、PS1ソフト国内歴代No.1の出荷本数（約417万本）。シリーズ初のPS進出と石版を集めて世界が広がる独自構造、各町ごとの短編連作的シナリオが話題に。",
+  "concept": "石版のかけらを集めて封印された島々を順に蘇らせていく、エピソード連作型の超長編JRPG。村ごとに完結する人間ドラマと過去・現在の二層構造で、シリーズ随一のボリュームと「世界が広がっていく」体験を演出する。",
+  "target": "ドラクエ・FFシリーズで育った30-50代の伝統的JRPGファン、長時間じっくり遊べるターン制RPGを求める層、シナリオ重視で泣ける短編群を求めるプレイヤー。",
+  "slug": "dragon-quest-vii-fragments-of-the-forgotten-past",
+  "file": "data/games/1418-dragon-quest-vii-fragments-of-the-forgotten-past.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dragon_Quest_VII",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88VII_%E3%82%A8%E3%83%87%E3%83%B3%E3%81%AE%E6%88%A6%E5%A3%AB%E3%81%9F%E3%81%A1",
+    "https://www.famitsu.com/news/202008/26204480.html"
+  ]
+}

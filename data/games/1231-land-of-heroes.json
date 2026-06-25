@@ -1,0 +1,31 @@
+{
+  "id": 1231,
+  "title_jp": "ランド・オブ・ヒーローズ",
+  "title_en": "Land of Heroes",
+  "developer": "Tamatem Games",
+  "publisher": "Tamatem Games (UAE/Jordan)",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクション MMORPG / アラビア語アニメ調",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "MENA 地域初の本格アラビア語アニメ調 MMORPG として注目を集め、MENA Game Industry Awards 2025 で「MENA Game of the Year」を受賞。発売元 Tamatem は同年「Best Publisher」も連続受賞しアラビア圏ガチャ RPG 市場の旗艦タイトル扱いに。",
+  "concept": "ウォリアー／メイジ／クレリック／アサシン 4 クラスから選び、ガーディアン（仲間モンスター）や騎乗ペットを捕獲・育成しながら「カラミティ」に滅ぼされた世界を再生させていくアラビア語フル音声のアニメ調 MMORPG。PvE ダンジョン協力＋20 種以上のカジュアルミニゲームを内包する MENA 向け運営型タイトル。",
+  "target": "中東・北アフリカ（MENA）地域のアラビア語ネイティブ 10-30 代、アニメ風キャラの収集・着せ替え・チーム PvE を楽しみたいモバイル MMORPG ユーザー層。",
+  "slug": "land-of-heroes",
+  "file": "data/games/1231-land-of-heroes.json",
+  "_source_urls": [
+    "https://tamatem.co/games/land-of-heroes/",
+    "https://play.google.com/store/apps/details?id=co.tamatem.heroesoftheland&hl=en_US",
+    "https://www.pocketgamer.biz/the-opportunity-for-anime-games-in-mena/",
+    "https://www.isakaba.com/mena-game-industry-awards-2025-winners-revealed/"
+  ]
+}

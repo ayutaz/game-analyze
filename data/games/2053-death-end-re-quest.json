@@ -1,0 +1,32 @@
+{
+  "id": 2053,
+  "title_jp": "デスエンドリクエスト",
+  "title_en": "Death end re;Quest",
+  "developer": "Compile Heart",
+  "publisher": "Idea Factory",
+  "year": 2018,
+  "platform": [
+    "PS4",
+    "PC",
+    "Switch"
+  ],
+  "genre": "RPG / ビジュアルノベル (ダークファンタジー)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "VRMMO に閉じ込められたヒロインと現実側のプログラマーの二視点で進む「Death end」マルチエンディング構造が話題化。コンパイルハートの Galapagos RPG 第4弾としてダークホラー路線で IF/CH ファン層を獲得。",
+  "concept": "「VRMMO に閉じ込められたヒロインを現実から救うため、プログラマーがバグ・選択肢・物語介入で世界を書き換える」をテーマにした RPG×VN ハイブリッド。バトルは円形アリーナの 3 人 PT 制で、グリッチ化した世界に踏み込むほど bad end ＝ デスエンドが分岐する。",
+  "target": "コンパイルハート / IF 系 RPG ファン、ダークファンタジー・ホラー VN 好き、シナリオ重視で複数エンディングを回収したい層。20-40 代男女の和製 RPG コア層。",
+  "slug": "death-end-re-quest",
+  "file": "data/games/2053-death-end-re-quest.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Death_End_Request",
+    "https://www.compileheart.com/derq/",
+    "https://www.famitsu.com/news/201711/28146895.html",
+    "https://store.steampowered.com/app/990050/"
+  ]
+}

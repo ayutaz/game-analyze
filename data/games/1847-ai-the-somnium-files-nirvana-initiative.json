@@ -1,0 +1,35 @@
+{
+  "id": 1847,
+  "title_jp": "AI: ソムニウム ファイル ニルヴァーナ イニシアチブ",
+  "title_en": "AI: The Somnium Files - nirvanA Initiative",
+  "developer": "Spike Chunsoft",
+  "publisher": "Spike Chunsoft",
+  "year": 2022,
+  "platform": [
+    "Switch",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/推理アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "打越鋼太郎シナリオの推理ADV続編として、前作ファンと『極限脱出』『ever17』系の謎解きADVファンの間でSNS話題化。半身殺人事件という強烈なフックと夢世界「ソムニウム」のアートで配信・実況コミュニティでも注目を集めた。",
+  "concept": "現実パートで証拠を集め、6分間の夢世界「ソムニウム」で潜在意識を解読する二層構造の推理アドベンチャー。前作ヒロイン・伊弥のソムニウムを操る瑞希と、新主人公・龍木が過去と現在を交差させて半身殺人事件の真相に迫る。",
+  "target": "前作『AI: ソムニウム ファイル』のファン、打越鋼太郎作品（極限脱出シリーズ・ever17）の読者層、骨太なミステリーと SF を読みたい20-40代のビジュアルノベル愛好家。",
+  "slug": "ai-the-somnium-files-nirvana-initiative",
+  "file": "data/games/1847-ai-the-somnium-files-nirvana-initiative.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/AI:_The_Somnium_Files_%E2%80%93_Nirvana_Initiative",
+    "https://www.spike-chunsoft.co.jp/pages/ai-nirvana/",
+    "https://www.famitsu.com/news/202206/23266044.html",
+    "https://store.steampowered.com/app/1449200/AI_THE_SOMNIUM_FILES__nirvanA_Initiative/",
+    "https://blog.ja.playstation.com/2022/06/23/20220623-ainirvana/"
+  ]
+}

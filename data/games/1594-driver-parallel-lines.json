@@ -1,0 +1,32 @@
+{
+  "id": 1594,
+  "title_jp": "ドライバー パラレルラインズ",
+  "title_en": "Driver: Parallel Lines",
+  "developer": "Reflections Interactive",
+  "publisher": "Atari",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC",
+    "Wii"
+  ],
+  "genre": "オープンワールド・ドライビングアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Driver シリーズ第4作。1978年と2006年のニューヨークを舞台に時代を跨ぐ復讐劇を描き、シリーズ原点回帰の運転重視ゲームプレイで IGN 7.2/10 等中堅評価を獲得した。",
+  "concept": "GTA 系オープンワールド犯罪劇に「車の運転そのものの気持ちよさ」を主軸として据え直したリベンジ・ストーリー。28年の時間ジャンプで街並み・車種・音楽までガラリと変わる構成が特色。",
+  "target": "GTA 系オープンワールド犯罪アクションを好む層、特に運転・カーチェイス重視のプレイヤー。70年代アメリカン・ミューズィックや当時の車文化に興味のある男性層に刺さる。",
+  "slug": "driver-parallel-lines",
+  "file": "data/games/1594-driver-parallel-lines.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Driver:_Parallel_Lines",
+    "https://www.mobygames.com/game/21660/driver-parallel-lines/",
+    "https://www.joko.jp/ps2/review/ti2054.html"
+  ]
+}

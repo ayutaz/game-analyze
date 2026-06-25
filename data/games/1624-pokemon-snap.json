@@ -1,0 +1,30 @@
+{
+  "id": 1624,
+  "title_jp": "ポケモンスナップ",
+  "title_en": "Pokémon Snap",
+  "developer": "HAL Laboratory / Pax Softnica",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "カメラアクション",
+  "sales_jp": "0.49M",
+  "sales_world": "3.63M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1999 年 N64 で「ポケモンをカメラで撮る」という発想自体が新鮮で、米国 NPD では同年 N64 ソフト売上 1 位 / 全機種 5 位に到達。ローソンプリント連動で実写ポケモンシールが作れる仕掛けもバズ要因となった。",
+  "concept": "プレイヤーはオオキド博士の依頼でポケモン島を「ゼロワン号」というレール式トロッコで巡り、野生ポケモンの写真を撮るオンレール・カメラアクション。アクションでもRPGでもなく「撮る楽しさ」自体をゲーム化した先駆的スピンオフ。",
+  "target": "ポケモン本編プレイヤーのうち、対戦・収集の競争性ではなく「ポケモンが動いている姿を眺めたい」観賞志向の層。子供～ライトユーザーまで触れる短編体験ゲームとしてファミリー層にも広く受け入れられた。",
+  "slug": "pokemon-snap",
+  "file": "data/games/1624-pokemon-snap.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Snap",
+    "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%8A%E3%83%83%E3%83%97",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_n64/",
+    "http://www.nintendoworldreport.com/feature/43893/know-your-nintendo-developers-pokemon-snap"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1951,
+  "title_jp": "KIRA☆KIRA",
+  "title_en": "Kira Kira",
+  "developer": "OVERDRIVE",
+  "publisher": "OVERDRIVE",
+  "year": 2007,
+  "platform": [
+    "PC",
+    "PS2",
+    "iOS"
+  ],
+  "genre": "アダルトビジュアルノベル/バンド青春群像劇",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "OVERDRIVE 第2作にしてシナリオ瀬戸口廉也・音楽Milktubで「パンクロックバンド結成と旅」を描き、泣きゲー文脈の枠を破った青春ロード・ノベルとしてカルト的支持を獲得。MangaGamer による英訳版が海外 VN コミュニティでも語り草となった。",
+  "concept": "売れない深夜の文芸部から始まる即席ガールズバンド「second literature club（d2b）」のスクールフェスティバル～スクールツアーを描くアダルトビジュアルノベル。瀬戸口廉也の筆致と Milktub の劇中バンド楽曲が一体となり、青春の輝きと痛みを並走させる「読ませる」物語型作品。",
+  "target": "瀬戸口廉也作品（CARNIVAL／SWAN SONG）や key 系・OVERDRIVE 系の重厚な物語型 VN を好む 20-40 代の PC ゲーマー、邦楽バンド／パンクロック題材に親和性のある層。",
+  "slug": "kira-kira",
+  "file": "data/games/1951-kira-kira.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kirakira_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A9%E2%98%86%E3%82%AD%E3%83%A9",
+    "http://www.over-drive.jp/goods_kk.html",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/KiraKira"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1294,
+  "title_jp": "ニード・フォー・スピード：ノー・リミッツ",
+  "title_en": "Need for Speed: No Limits",
+  "developer": "Firemonkeys Studios",
+  "publisher": "EA",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ストリートレース/カスタマイズ",
+  "sales_jp": "—",
+  "sales_world": "$500M+ 累計（推定）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "「Need for Speed」IP のモバイル版として 2015 年配信、10 年超の長期運営で世界累計 2 億 DL 級。実車ライセンス 30 車種以上＋警察追跡演出でコンソール NFS の感触をスマホで再現。",
+  "concept": "リアル車両ライセンスとアーケード操作を両立させた縦持ち対応のストリートレース。短時間プレイで完結する 900+ レースイベントと派手なカスタムで「速さの体験」を提供しつつ、長期運営でガチャ的な限定車収集も成立させているハイブリッド型 F2P。",
+  "target": "10-30 代の男性層、コンソール『Need for Speed』ファンの隙間時間プレイヤー、実車カスタムやチューニング演出を好むモバイルレース愛好層。",
+  "slug": "need-for-speed-no-limits",
+  "file": "data/games/1294-need-for-speed-no-limits.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Need_for_Speed:_No_Limits",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89_%E3%83%8E%E3%83%BC%E3%83%AA%E3%83%9F%E3%83%83%E3%83%84",
+    "https://www.ea.com/games/need-for-speed/need-for-speed-no-limits",
+    "https://sensortower.com/android/us/electronic-arts/app/need-for-speed-no-limits/com.ea.game.nfs14_row/"
+  ]
+}

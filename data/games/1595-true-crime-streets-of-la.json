@@ -1,0 +1,34 @@
+{
+  "id": 1595,
+  "title_jp": "トゥルー・クライム ストリート・オブ・LA",
+  "title_en": "True Crime: Streets of LA",
+  "developer": "Luxoflux",
+  "publisher": "Activision",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "GameCube",
+    "PC",
+    "Mac"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "GTA系オープンワールドにLAPD刑事の格闘・銃撃・カーチェイスを乗せ、発売 2 週で 30 万本、最終 300 万本超を売り上げた 2003 年の話題作。スヌープ・ドッグ参戦やマルチエンディング分岐もバズ要因に。",
+  "concept": "ロサンゼルスを丸ごと再現したオープンワールドで、LAPD 刑事ニック・カンを操作し格闘・銃撃・カーチェイスを切り替えながら犯罪組織を追う。善悪バッジ評価とマルチエンディングで「自分なりの刑事像」を演じられるのが核。",
+  "target": "GTA / Driver 系オープンワールドが好きな男性プレイヤー、香港映画的なガンアクションや刑事ドラマを好む 18-30 代の海外洋ゲーファン。",
+  "slug": "true-crime-streets-of-la",
+  "file": "data/games/1595-true-crime-streets-of-la.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/True_Crime:_Streets_of_LA",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%A0%EF%BC%9ASTREETS_OF_LA",
+    "https://www.mobygames.com/game/10894/true-crime-streets-of-la/",
+    "https://investor.activision.com/news-releases/news-release-details/activisions-true-crimetm-streets-latm-set-release-november-4"
+  ]
+}

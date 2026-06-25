@@ -1,0 +1,30 @@
+{
+  "id": 1917,
+  "title_jp": "Phantom of Inferno",
+  "title_en": "Phantom of Inferno",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus / Hirameki",
+  "year": 2000,
+  "platform": [
+    "PC",
+    "PS2",
+    "Xbox 360"
+  ],
+  "genre": "ハードボイルド・アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ニトロプラス第一作にして虚淵玄の商業デビュー作。アサシン組織「Inferno」を舞台にしたハードボイルド劇として、後の『Fate/Zero』『魔法少女まどか☆マギカ』に通じる虚淵脚本の原点として語り継がれている。",
+  "concept": "記憶を消され暗殺者「Zwei」として育てられた少年と、師である最強の殺し屋「Phantom」の関係を描くハードボイルド・ビジュアルノベル。選択肢分岐で師弟の運命が大きく変化する。",
+  "target": "ハードボイルド/ノワール志向の物語消費型プレイヤー、虚淵玄ファン、2000年代ノベルゲーム史を辿りたい大人向けADVファン層。",
+  "slug": "phantom-of-inferno",
+  "file": "data/games/1917-phantom-of-inferno.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phantom_of_Inferno",
+    "https://ja.wikipedia.org/wiki/Phantom_-PHANTOM_OF_INFERNO-",
+    "https://nitroplus.ecq.sc/work/phantom.html?nitroplus_catalog_work=356",
+    "https://www.animenewsnetwork.com/interest/2012-10-15/phantom-of-inferno-xbox-360-port-gameplay-videos-posted"
+  ]
+}

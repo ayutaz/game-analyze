@@ -1,0 +1,30 @@
+{
+  "id": 1878,
+  "title_jp": "planetarian HD",
+  "title_en": "planetarian HD",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "キネティックビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "200K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key の名作 SF 短編キネティックノベルを HD リマスター。立ち絵・CG をリファインし、後年 Steam・Switch にも展開して新規層・海外ファンの再評価を集めた。",
+  "concept": "崩壊後の世界で生き残ったジャンカーと、廃墟と化したプラネタリウムに残された接客ロボット「ほしのゆめみ」との数日間を、選択肢なしの一本道で描く短編キネティックノベル。",
+  "target": "Key の Kanon / AIR / CLANNAD 系泣きゲー読者、SF 短編・ポストアポカリプスの叙情譚を 4-5 時間で味わいたい層。新規にビジュアルノベルへ触れたい人にも勧めやすい間口。",
+  "slug": "planetarian-hd",
+  "file": "data/games/1878-planetarian-hd.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/623080/planetarian_HD/",
+    "https://en.wikipedia.org/wiki/Planetarian:_The_Reverie_of_a_Little_Planet",
+    "https://ja.wikipedia.org/wiki/Planetarian_%E3%80%9C%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E3%81%BB%E3%81%97%E3%81%AE%E3%82%86%E3%82%81%E3%80%9C",
+    "https://www.4gamer.net/games/448/G044854/20190129074/",
+    "https://steamdb.info/app/623080/"
+  ]
+}

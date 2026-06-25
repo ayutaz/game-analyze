@@ -1,0 +1,36 @@
+{
+  "id": 1824,
+  "title_jp": "CHAOS;HEAD NOAH",
+  "title_en": "ChäoS;HEAd Noah",
+  "developer": "5pb. / Nitroplus",
+  "publisher": "5pb. / Spike Chunsoft",
+  "year": 2009,
+  "platform": [
+    "Xbox 360",
+    "PSP",
+    "iOS",
+    "Android",
+    "PS3",
+    "PS Vita",
+    "Switch",
+    "PC"
+  ],
+  "genre": "想定科学ADV／ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "130,000+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "科学アドベンチャーシリーズ第1作のフル版。Xbox 360 版発売週に国内11位（約1.8万本）に入り、その後 PSP / iOS / PS3 / Vita / Switch / PC へ長期移植。2022年に Spike Chunsoft が Steam で英語版を出す際、一度は表現規制で配信中止が発表されたが Valve が方針転換して無修正のまま配信された経緯が話題に。",
+  "concept": "妄想と現実の境界が崩壊する「想定科学ADV」第1弾。連続猟奇事件「ニュージェネレーションの狂気」に巻き込まれる引きこもり主人公・西條拓巳を通じ、プレイヤーは妄想トリガー（ポジティブ／ネガティブ）の選択で本人の認知そのものを操作し、分岐するエンディングへ導く。",
+  "target": "Steins;Gate に至る科学アドベンチャー（科学ADV）シリーズを順に追いたい層、Nitroplus／志倉千代丸系の鬱・スリラー系ビジュアルノベルを好む層。残虐表現・性的描写を含むため成人〜25歳前後のコア VN ファン向け。",
+  "slug": "chaos-head-noah",
+  "file": "data/games/1824-chaos-head-noah.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Chaos;Head",
+    "https://chaos-head.fandom.com/wiki/Ch%C3%A4oS;HEAd_NoAH",
+    "https://www.spike-chunsoft.com/games/chaosheadnoah/",
+    "https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/",
+    "https://www.gematsu.com/2022/09/chaoshead-noah-for-pc-no-longer-coming-to-steam-spike-chunsoft-looking-into-alternative-storefronts"
+  ]
+}

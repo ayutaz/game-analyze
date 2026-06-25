@@ -1,0 +1,34 @@
+{
+  "id": 1135,
+  "title_jp": "King's Choice",
+  "title_en": "King's Choice",
+  "developer": "ONEMT",
+  "publisher": "ONEMT",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "欧風宮廷シミュレーション/恋愛RPG",
+  "sales_jp": "—",
+  "sales_world": "$400M+ lifetime",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "中世欧州を舞台にした王様/女王様体験と寵姫・後継者育成のガチャ要素で、YouTube/SNS の広告クリエイティブが大量出稿され話題化。累計 13M ダウンロード超、累計売上 $400M 規模に達した重課金型ヒット作。",
+  "concept": "父を殺された主人公が新たな国で王または女王となり、寵姫を娶り後継者を育てつつ復讐と国家発展を進める欧風宮廷ドリーム RPG。フルオート戦闘＋恋愛シム＋王国経営を組み合わせた重課金型 PvE/PvP ハイブリッド。",
+  "target": "20-40代の男女、中世欧州ファンタジー・王侯貴族モチーフが好きな層、放置系・オート戦闘で隙間時間に進めたい層、ハーレム/逆ハーレム的ロマンス展開を楽しみたい層。",
+  "slug": "kings-choice",
+  "file": "data/games/1135-kings-choice.json",
+  "_source_urls": [
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/kings-choice",
+    "https://kc.onemt.com/",
+    "https://play.google.com/store/apps/details?id=com.onemt.and.kc&hl=en_US&gl=US",
+    "https://app-land7.com/2023/12/16/kings-choice/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

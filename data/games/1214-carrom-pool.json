@@ -1,0 +1,33 @@
+{
+  "id": 1214,
+  "title_jp": "キャロム・プール",
+  "title_en": "Carrom Pool",
+  "developer": "Miniclip",
+  "publisher": "Miniclip",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ボードゲーム/キャロム(おはじき)対戦",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "インド発祥のおはじき盤上競技「キャロム」をオンライン対戦化し、Miniclip の 8 Ball Pool に続くカジュアル対戦タイトルとして世界 6 億 DL 超を記録。インド・中東を中心に圧倒的な普及率を持つ。",
+  "concept": "指弾きでストライカーを撃ち、相手より先に自陣の駒とクイーンをポケットに沈めるシンプルなオンライン対戦ボードゲーム。1 試合 1-2 分の手軽さと、コイン/ジェムを賭ける PvP マッチメイクで没入感を担保する。",
+  "target": "南アジア・中東・南欧の伝統ゲーム愛好層、および 8 Ball Pool 系のカジュアル対戦アプリを好む 10-40 代モバイルゲーマー。短時間で 1 試合を済ませたいスキマ時間プレイヤー。",
+  "slug": "carrom-pool",
+  "file": "data/games/1214-carrom-pool.json",
+  "_source_urls": [
+    "https://www.appbrain.com/app/carrom-pool-disc-game/com.miniclip.carrom",
+    "https://play.google.com/store/apps/details?id=com.miniclip.carrom&hl=en_US",
+    "https://www.taptap.io/app/162444"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

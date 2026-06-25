@@ -1,0 +1,34 @@
+{
+  "id": 1085,
+  "title_jp": "キャンディークラッシュ",
+  "title_en": "Candy Crush Saga",
+  "developer": "King",
+  "publisher": "King (Activision Blizzard / Microsoft)",
+  "year": 2012,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser",
+    "PC"
+  ],
+  "genre": "マッチ3パズル",
+  "sales_jp": "—",
+  "sales_world": "3B+ DL / 年間$1.1B+ (2025)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Facebook発のマッチ3ブームを牽引し、シリーズ累計50億DL超。テレビCMで日本でも一般層に浸透し、2025年も月間1.7億MAU・年間10億ドル超を維持。",
+  "concept": "3つ揃えるだけのシンプルなマッチ3に、ステージ制・ライフ制・ブースター課金を組み合わせたフリーミアム型パズル。スマホでの隙間時間消費に最適化されている。",
+  "target": "30-60代を中心とした非ゲーマー層、特に女性層と通勤・家事の合間に短時間プレイする大人層。ゲーム経験の浅い層でも続けられる難易度設計。",
+  "slug": "candy-crush-saga",
+  "file": "data/games/1085-candy-crush-saga.json",
+  "_source_urls": [
+    "https://www.businessofapps.com/data/candy-crush-statistics/",
+    "https://prioridata.com/data/candy-crush-revenue/",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
+    "https://prtimes.jp/main/html/rd/p/000000058.000009503.html",
+    "https://www.4gamer.net/games/241/G024185/20171108140/"
+  ]
+}

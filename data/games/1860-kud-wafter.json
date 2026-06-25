@@ -1,0 +1,32 @@
+{
+  "id": 1860,
+  "title_jp": "クドわふたー",
+  "title_en": "Kud Wafter",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PSP",
+    "PS Vita",
+    "Android",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『リトルバスターズ! エクスタシー』のスピンオフとして能美クドリャフカ単独ヒロインで展開、2017年にクラウドファンディング7,800万円超を集めて劇場版アニメ化が実現した点が話題に。",
+  "concept": "Key 第 8 作。『リトバス』のヒロイン能美クドリャフカに焦点を絞った IF 設定のスピンオフ恋愛 ADV で、後に PSP / Vita / Android / Switch（Converted Edition）へと長期にわたり移植され続けた長寿ノベル作品。",
+  "target": "Key / リトバスのファン層、特にクドリャフカ推しのキャラクター愛好家。日本のビジュアルノベル文化に馴染んだ 20-40 代男性 PC ゲーマー、および家庭用版で入門した Switch 層。",
+  "slug": "kud-wafter",
+  "file": "data/games/1860-kud-wafter.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kud_Wafter",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%89%E3%82%8F%E3%81%B5%E3%81%9F%E3%83%BC",
+    "https://www.gematsu.com/2023/08/romance-visual-novel-kud-wafter-converted-edition-coming-to-switch-on-november-22-in-japan",
+    "https://kud-wafter.jp/"
+  ]
+}

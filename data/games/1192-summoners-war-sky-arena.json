@@ -1,0 +1,31 @@
+{
+  "id": 1192,
+  "title_jp": "Summoners War: Sky Arena",
+  "title_en": "Summoners War: Sky Arena",
+  "developer": "Com2uS",
+  "publisher": "Com2uS",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モンスター収集ターン制RPG",
+  "sales_jp": "—",
+  "sales_world": "$3B+ / 240M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "世界累計2億4,000万DL超・売上30億ドル超の韓国Com2uS発グローバルヒット。11周年を迎えた長寿モンスター収集RPGで、欧米市場で特に強くアリーナ・ギルドバトル文化が根付いている。",
+  "concept": "1,000体超のモンスターをルーン強化と相性で組み上げ、PvE探索とリアルタイムPvPアリーナ・ギルドバトルを行き来する横長持ち型モンスター収集ターン制RPG。10年超のアップデートで競技性とコレクション性が共存している。",
+  "target": "モンスター収集とビルド最適化を長く楽しみたい20-40代のコアモバイルRPG層。欧米・韓国を中心に競技志向のPvPプレイヤーが厚く、日本ではアリーナ・ギルドコンテンツに腰を据えて取り組む層が中心。",
+  "slug": "summoners-war-sky-arena",
+  "file": "data/games/1192-summoners-war-sky-arena.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Summoners_War:_Sky_Arena",
+    "https://www.pocketgamer.com/summoners-war/220-million-downloads/",
+    "https://www.4gamer.net/games/257/G025753/20230801046/",
+    "https://prtimes.jp/main/html/rd/p/000000696.000009066.html"
+  ]
+}

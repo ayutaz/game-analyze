@@ -1,0 +1,33 @@
+{
+  "id": 1611,
+  "title_jp": "コンカーズ バッドファーデイ",
+  "title_en": "Conker's Bad Fur Day",
+  "developer": "Rare",
+  "publisher": "Rare",
+  "year": 2001,
+  "platform": [
+    "N64"
+  ],
+  "genre": "3Dアクションアドベンチャー/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "0.55M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "可愛い赤リスの皮を被った下ネタ・暴力・映画パロディ全開のM指定3Dアクション。日本未発売の「幻のレア社作品」として今もカルト的人気を誇り、Rare Replay収録で再評価が進んだ。",
+  "concept": "マトリックス／エイリアン／地獄の黙示録など映画パロディと下品なジョークを詰め込んだシネマティック3Dアクション。プラットフォーマーの皮を被ったブラックコメディで、ステージごとに別ジャンルのゲーム性を提示するレア社後期の異色作。",
+  "target": "18歳以上の海外アクション／コメディ好き、レア社ファン、Goldeneye/Banjo世代でブラックユーモア耐性のあるコアゲーマー。",
+  "slug": "conkers-bad-fur-day",
+  "file": "data/games/1611-conkers-bad-fur-day.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day",
+    "https://www.vgchartz.com/game/395/conkers-bad-fur-day/",
+    "https://www.cbr.com/conkers-bad-fur-day-retrospective-n64-nintendo-rare/",
+    "https://kentworld-blog.com/archives/conkersbadfurday-review.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

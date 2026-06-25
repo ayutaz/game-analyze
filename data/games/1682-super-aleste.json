@@ -1,0 +1,26 @@
+{
+  "id": 1682,
+  "title_jp": "スーパーアレスタ",
+  "title_en": "Super Aleste",
+  "developer": "Compile",
+  "publisher": "Toho / Compile",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "縦スクロールシューティング",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "コンパイル製アレスタシリーズの SFC 代表作。多彩なウェポンチェンジと爽快な弾幕処理で「SFC 屈指の縦シュー」として現在もレトロシューファンに語り継がれる。海外では Space Megaforce として展開され、北米でも高評価を得た。",
+  "concept": "ザナック／アレスタ系列の DNA を 16bit 機に持ち込んだ高速縦スクロール STG。8 種類の武器を切り替えながら膨大な敵編隊と巨大ボスを撃ち抜く、コンパイル流「気持ちよく避けて気持ちよく撃つ」シューティングの完成形。",
+  "target": "80-90 年代の縦シュー／コンパイル STG に親しんだコアシューターと、レトロ SFC 名作を掘りに行く現代のクラシックゲーマー層。",
+  "slug": "super-aleste",
+  "file": "data/games/1682-super-aleste.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Aleste",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%A2%E3%83%AC%E3%82%B9%E3%82%BF"
+  ]
+}

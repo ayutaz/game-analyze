@@ -1,0 +1,30 @@
+{
+  "id": 1547,
+  "title_jp": "新鬼武者 DAWN OF DREAMS",
+  "title_en": "Onimusha: Dawn of Dreams",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "戦国サバイバルアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "鬼武者シリーズ初の本格 2 枚組大作。豊臣秀吉を悪役に据え、金城武から離れて新主人公ソウキ＋仲間 5 人のパーティ制へと刷新したことで賛否を呼びながらシリーズ最終ナンバリングとして話題に。",
+  "concept": "豊臣秀吉率いる幻魔軍に立ち向かう鬼の血を継ぐ若き武者ソウキの物語を描く、戦国サバイバル 3D アクション。仲間切替・自由カメラ・レベルアップ・装備強化を導入し、シリーズで最もアクション RPG 寄りに進化した一作。",
+  "target": "鬼武者シリーズの既存ファンと、SIREN/デビル メイ クライ世代の和風ダーク・ハイファンタジーアクションを好む 20-40 代男性プレイヤー。",
+  "slug": "onimusha-dawn-of-dreams",
+  "file": "data/games/1547-onimusha-dawn-of-dreams.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Onimusha:_Dawn_of_Dreams",
+    "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%AD%A6%E8%80%85",
+    "https://www.capcom.co.jp/support/faq/full_platform_ps2_shin_oni.html",
+    "https://www.vgchartz.com/game/4303/onimusha-dawn-of-dreams/"
+  ]
+}

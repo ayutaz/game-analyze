@@ -1,0 +1,31 @@
+{
+  "id": 1369,
+  "title_jp": "MaskGun: Multiplayer FPS",
+  "title_en": "MaskGun",
+  "developer": "June Gaming / SuperGaming",
+  "publisher": "SuperGaming",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル向けマルチプレイヤー FPS",
+  "sales_jp": "—",
+  "sales_world": "100M+ players",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "インド発スマホ FPS として世界累計 1 億プレイヤー突破。デスマッチ・チームデスマッチ・爆弾解除の 3 モードと 40 種類以上の武器カスタマイズで「軽量・短時間で遊べる本格 FPS」として南アジア / 東南アジア中心にロングランしている。",
+  "concept": "PC 系コンペ FPS（CS 系の爆弾解除など）を 5 分以内のセッションに圧縮し、スマホでも片手感覚で遊べるサイズに落とし込んだ F2P 対戦シューター。エネルギー制を排し「いつでも即マッチ → 即撃ち合い」の体験を最優先する設計。",
+  "target": "本格 PC FPS を遊ぶ時間や端末がない 10-30 代モバイルゲーマー。特にインド・東南アジア・MENA など低スペック Android が主流の地域で、PUBG Mobile / Call of Duty Mobile より軽量な FPS を求める層。",
+  "slug": "maskgun",
+  "file": "data/games/1369-maskgun.json",
+  "_source_urls": [
+    "https://www.supergaming.com/games/maskgun",
+    "https://play.google.com/store/apps/details?id=com.junesoftware.maskgun",
+    "https://apps.apple.com/in/app/maskgun-online-shooting-game/id956736147",
+    "http://junegaming.com/game_maskgun.html"
+  ]
+}

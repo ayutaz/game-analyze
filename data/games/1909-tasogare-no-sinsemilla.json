@@ -1,0 +1,31 @@
+{
+  "id": 1909,
+  "title_jp": "黄昏のシンセミア",
+  "title_en": "Tasogare no Sinsemilla",
+  "developer": "Applique",
+  "publisher": "Akabei Soft2 (brand label)",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PSP",
+    "Android"
+  ],
+  "genre": "アダルトビジュアルノベル/伝奇恋愛ADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Applique ブランドの代表作の一つとして、伝奇要素と田舎の祭りを舞台にした静謐な雰囲気でビジュアルノベル愛好家層に高評価。海外でもファン翻訳プロジェクトが立ち上がり一定の知名度を得た。",
+  "concept": "天女伝説の残る山間の小村「水神」を舞台に、訳あって故郷を離れていた主人公・水神耕介が祭りを機に帰郷し、従妹・幼馴染・謎の女性らとの再会と伝奇の真相を辿る伝奇恋愛アドベンチャー。",
+  "target": "20-40代の男性アダルトビジュアルノベル愛好家。静謐な田舎舞台と伝奇テイスト、丁寧なシナリオを求める層に刺さる。",
+  "slug": "tasogare-no-sinsemilla",
+  "file": "data/games/1909-tasogare-no-sinsemilla.json",
+  "_source_urls": [
+    "https://www.otakulair.com/games/tasogare-no-sinsemilla/",
+    "https://www.grouvee.com/games/45810-tasogare-no-sinsemilla/",
+    "https://giantbomb.com/wiki/Games/Tasogare_no_Sinsemilla",
+    "https://archive.org/details/sin_trial",
+    "https://7nightstranslations.wordpress.com/2011/11/02/tasogare-no-sinsemilla/"
+  ]
+}

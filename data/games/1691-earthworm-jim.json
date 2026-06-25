@@ -1,0 +1,33 @@
+{
+  "id": 1691,
+  "title_jp": "アースワーム・ジム",
+  "title_en": "Earthworm Jim",
+  "developer": "Shiny Entertainment",
+  "publisher": "Playmates Interactive",
+  "year": 1994,
+  "platform": [
+    "Mega Drive",
+    "SNES",
+    "Game Boy",
+    "GBA",
+    "PC",
+    "Saturn",
+    "PS1"
+  ],
+  "genre": "横スクロール・アクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "2M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "デザイナー Doug TenNapel による奇抜なキャラクターとブラックユーモアで欧米にて社会現象的人気となり、アニメ化・玩具展開まで波及した 90 年代を代表するキャラクターアクション。",
+  "concept": "宇宙服を着たミミズ「ジム」が銃と自身の体をムチのように使って戦う、グラフィックとアニメーションの表現力で勝負した変則プラットフォーマー。各ステージのギミックとボスのデザインが毎回違うバラエティ重視構成。",
+  "target": "90 年代の 16bit 機ユーザー、Looney Tunes 的なスラップスティック・カートゥーン表現を好む欧米プレイヤー層、難度高めの古典アクションを楽しめるレトロゲーマー。",
+  "slug": "earthworm-jim",
+  "file": "data/games/1691-earthworm-jim.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Earthworm_Jim",
+    "https://en.wikipedia.org/wiki/Earthworm_Jim_(video_game)",
+    "https://en.wikipedia.org/wiki/Shiny_Entertainment"
+  ]
+}

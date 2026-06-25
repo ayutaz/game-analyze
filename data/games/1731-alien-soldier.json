@@ -1,0 +1,30 @@
+{
+  "id": 1731,
+  "title_jp": "エイリアンソルジャー",
+  "title_en": "Alien Soldier",
+  "developer": "Treasure",
+  "publisher": "Sega",
+  "year": 1995,
+  "platform": [
+    "Mega Drive",
+    "Wii",
+    "Switch"
+  ],
+  "genre": "横スクロールアクションシューティング（ラン＆ガン）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Treasure の名を世界に知らしめた高難度ボスラッシュ型 2D アクション。25 体のボスを連続して撃破する濃密設計と『FOR MEGADRIVERS CUSTOM』の煽り文句で熱心なメガドラユーザーから熱狂的に支持され、Wii VC・メガドライブミニ 2・Nintendo Switch Online 等で再評価が続く。",
+  "concept": "「ボス戦こそが本編」と割り切り、短いステージを挟みながら計 25 体のボスを連続で叩く濃縮型ラン＆ガン。主人公エプシロン・イーグルが 4 種類の武器とテレポート／ゼロテレポートを駆使し、高速で押し寄せる大型ボスを捌き続ける Treasure 流ボスラッシュ・アクション。",
+  "target": "メガドライブ後期のヘビーユーザー、Treasure（ガンスターヒーローズ等）のファン、高難度 2D ボスアクションに歯ごたえを求めるレトロゲーマー層。",
+  "slug": "alien-soldier",
+  "file": "data/games/1731-alien-soldier.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Alien_Soldier",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%BC",
+    "https://www.sega.jp/mdmini2/soft/alien-soldier.html",
+    "https://vc.sega.jp/vc_aliensoldier/"
+  ]
+}

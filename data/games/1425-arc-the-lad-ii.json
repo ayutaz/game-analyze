@@ -1,0 +1,30 @@
+{
+  "id": 1425,
+  "title_jp": "アークザラッド II",
+  "title_en": "Arc the Lad II",
+  "developer": "G-Craft",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1996,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "約95万本",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "初代から大幅にボリュームアップした重厚なシナリオと前作データ引き継ぎ要素で社会現象級にヒットし、初週31.6万本／1996年国内年間7位の約82万本（最終的に約95万本）を記録。初期PS RPGを代表する名作として現在もファンの語り草。",
+  "concept": "前作の主人公アークと、新主人公エルクの二人の運命が交差する重厚なシミュレーションRPG。「自由なクラス成長×ハニーバスケットでのモンスター捕獲×前作セーブデータ連動」で“続編としての物語消費”を強烈に押し出した一作。",
+  "target": "10代後半〜30代の RPG ファン、特に前作『アークザラッド』をプレイして物語の続きを追体験したい層と、タクティカルRPGの戦略性を求めるシミュレーションRPGファン。",
+  "slug": "arc-the-lad-ii",
+  "file": "data/games/1425-arc-the-lad-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arc_the_Lad_II",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%B6%E3%83%A9%E3%83%83%E3%83%89II",
+    "https://this-is-rpg.com/arc-the-lad/104/",
+    "https://dengekionline.com/elem/000/000/866/866035/"
+  ]
+}

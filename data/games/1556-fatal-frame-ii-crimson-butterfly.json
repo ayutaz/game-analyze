@@ -1,0 +1,36 @@
+{
+  "id": 1556,
+  "title_jp": "零 紅い蝶",
+  "title_en": "Fatal Frame II: Crimson Butterfly",
+  "developer": "Tecmo",
+  "publisher": "Tecmo",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "Wii",
+    "PS5"
+  ],
+  "genre": "ホラーアドベンチャー（射影機による怨霊撃退）",
+  "sales_jp": "50K+（発売後2週間）",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「皆神村」と双子姉妹を題材にした和風ホラーの金字塔。シリーズ最高傑作と呼ばれることが多く、2012年Wii『眞紅の蝶』、2026年PS5/Switch『紅い蝶 REMAKE』と3度リメイクされている。",
+  "concept": "PS2世代を代表する一人称視点の和風心霊ホラー。失われた村に迷い込んだ双子姉妹を操作し、唯一の武器「射影機」で怨霊を撮影しながら祭儀の謎を解いていく恐怖体験ゲーム。",
+  "target": "20-40代のホラー・サバイバルホラー好き、和風怪談・民俗ホラーに惹かれる層、双子モチーフや姉妹の絆という情緒的なストーリーを味わいたい層。",
+  "slug": "fatal-frame-ii-crimson-butterfly",
+  "file": "data/games/1556-fatal-frame-ii-crimson-butterfly.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fatal_Frame_II:_Crimson_Butterfly",
+    "https://ja.wikipedia.org/wiki/%E9%9B%B6_%E7%B4%85%E3%81%84%E8%9D%B6",
+    "https://www.koeitecmoamerica.com/fatalframe/crimson-re/us/",
+    "https://www.vgchartz.com/game/5074/fatal-frame-ii-crimson-butterfly/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

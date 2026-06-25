@@ -1,0 +1,29 @@
+{
+  "id": 1849,
+  "title_jp": "ファミコン探偵倶楽部 消えた後継者",
+  "title_en": "Famicom Detective Club: The Missing Heir",
+  "developer": "MAGES.",
+  "publisher": "Nintendo",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル",
+  "sales_jp": "100K+",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1988年ファミコン・ディスクシステム作の30余年ぶりリメイクで初の海外展開。フルボイス・グラフィック刷新で旧作ファンと新規層が話題化し、志倉千代丸氏が「5万本の倍以上売れた」と公言した。",
+  "concept": "旧家の遺産相続殺人を追う昭和ミステリADV のリメイク。コマンド選択式で証言と現場検証を積み上げる王道フォーマットを、フルボイスと新規イラストで再構成した「読ませるノベル」。",
+  "target": "ファミコン世代でオリジナルに思い入れがある30-50代と、Steins;Gate 等 MAGES. ノベル経由で和製ミステリADV に触れたい20-30代。",
+  "slug": "famicom-detective-club-the-missing-heir",
+  "file": "data/games/1849-famicom-detective-club-the-missing-heir.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Famicom_Detective_Club",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E6%8E%A2%E5%81%B5%E5%80%B6%E6%A5%BD%E9%83%A8_%E6%B6%88%E3%81%88%E3%81%9F%E5%BE%8C%E7%B6%99%E8%80%85",
+    "https://www.4gamer.net/games/476/G047663/",
+    "https://www.famitsu.com/news/202204/27259605.html",
+    "https://n-switch.com/chat/famicom-tantei-club-remake-over-100000-shikura-chiyomaru/"
+  ]
+}

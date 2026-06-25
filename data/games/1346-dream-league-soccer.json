@@ -1,0 +1,33 @@
+{
+  "id": 1346,
+  "title_jp": "Dream League Soccer",
+  "title_en": "Dream League Soccer",
+  "developer": "First Touch Games",
+  "publisher": "First Touch Games",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "サッカーシミュレーション/マネジメント",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "無料で本格的なサッカー体験ができるモバイルアプリとして世界中で爆発的にダウンロードされ、特にカスタムキット作成機能がSNSで広く話題になった。",
+  "concept": "選手獲得・チーム育成・試合運営を一手に行うモバイル特化のサッカーマネジメント＋アクションゲーム。自作キット・エンブレム機能と毎シーズン更新されるオンラインリーグが特徴。",
+  "target": "FIFA/eFootballのライセンス縛りに不満を持つサッカーファン、通学・通勤の合間に手軽にサッカーゲームを遊びたい10-30代のモバイルプレイヤー層。",
+  "slug": "dream-league-soccer",
+  "file": "data/games/1346-dream-league-soccer.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dream_League_Soccer",
+    "https://www.ftgames.com/",
+    "https://apps.apple.com/us/app/dream-league-soccer-2024/id1480455446"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

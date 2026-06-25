@@ -1,0 +1,32 @@
+{
+  "id": 1358,
+  "title_jp": "Real Bike Racing",
+  "title_en": "Real Bike Racing",
+  "developer": "Wordsmobile",
+  "publisher": "Wordsmobile",
+  "year": 2015,
+  "platform": [
+    "Android",
+    "iOS"
+  ],
+  "genre": "3D バイクレース/カジュアル",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Google Play で累計 1 億 DL を突破した手軽な 3D スーパーバイクレース。Google Cardboard 対応の VR モードや傾けて操作する直感的なコントロールが話題に。",
+  "concept": "10 種以上のスーパーバイクと 9 種のサーキットを傾け操作で走る、無料の 3D バイクレース。リアミラー描画や VR モードなど没入要素を備えたカジュアルレーサー。",
+  "target": "短時間で爽快感を味わいたいモバイルカジュアル層、バイク好き、VR モードを試したいライトユーザー。",
+  "slug": "real-bike-racing",
+  "file": "data/games/1358-real-bike-racing.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.wordsmobile.RealBikeRacing&hl=en_US",
+    "https://apkpure.com/real-bike-racing/com.wordsmobile.RealBikeRacing",
+    "https://real-bike-racing.en.softonic.com/android",
+    "https://app.sensortower.com/overview/com.wordsmobile.RealBikeRacing?country=US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1323,
+  "title_jp": "Helix Waltz（玉と人魚）",
+  "title_en": "Helix Waltz",
+  "developer": "uBeeJoy",
+  "publisher": "uBeeJoy",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "着せ替え/ビジュアルノベル（オトメ）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "ヴィンテージ貴族社会を舞台にした着せ替えオトメ系。リリース直後の 2018 年末に iOS/Android で 20 万 DL を突破し、ドレスアップ＋選択肢ノベルの組み合わせで Nikki 系コア層を惹きつけた。",
+  "concept": "19 世紀風の架空都市 Finsel の社交界で、平民出身の主人公マグダが貴族令嬢として 10 年を生き抜くドラマを描く、着せ替え×選択肢ノベル。何百着ものヴィンテージドレスを染色・装飾しながら舞踏会の駆け引きを進める。",
+  "target": "ピグパーティ／Nikki シリーズ／オトメゲー層の 10-30 代女性。物語を読みながら衣装を集める「読む＋着せ替える」を両立したいプレイヤー。",
+  "slug": "helix-waltz",
+  "file": "data/games/1323-helix-waltz.json",
+  "_source_urls": [
+    "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HelixWaltz",
+    "https://nothingbutgeek.com/2018/12/helix-waltz-charms-players-reaching-over-200-000-downloads/",
+    "https://helix-waltz.en.uptodown.com/android",
+    "https://thegeekiary.com/helix-waltz-november-release/56834"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

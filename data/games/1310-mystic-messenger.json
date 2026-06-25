@@ -1,0 +1,34 @@
+{
+  "id": 1310,
+  "title_jp": "ミスティック・メッセンジャー",
+  "title_en": "Mystic Messenger",
+  "developer": "Cheritz",
+  "publisher": "Cheritz",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/メッセンジャー型ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "8.5M+ DL",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "チャット/通話/メールを模したリアルタイム進行が新鮮で、SNSでスクリーンショット共有が広がり世界的にバズった。マーケなしで2.5M DL到達、累計8.5M超。",
+  "concept": "スマホのチャットアプリそのものを舞台にした韓国発の乙女ノベル。実時間進行のチャットルームに参加し、5人のキャラクターと11日間かけて関係を築く「体験型メッセンジャー恋愛」。",
+  "target": "10-30代の女性ユーザー、特に乙女ゲーム/BL/韓流ファン層と、SNS共有込みで物語を楽しみたい層。実時間で通知が来る没入型のVNを許容できるプレイヤー。",
+  "slug": "mystic-messenger",
+  "file": "data/games/1310-mystic-messenger.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mystic_Messenger",
+    "https://play.google.com/store/apps/details?id=com.Cheritz.MysticMessenger",
+    "https://www.appbrain.com/app/mystic-messenger/com.Cheritz.MysticMessenger",
+    "http://cheritz.com/games/mystic-messenger"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

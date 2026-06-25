@@ -1,0 +1,33 @@
+{
+  "id": 1106,
+  "title_jp": "ワードクッキー",
+  "title_en": "Word Cookies",
+  "developer": "BitMango",
+  "publisher": "BitMango",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ワードパズル/カジュアル",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2016年12月のグローバルリリース後4ヶ月で1,800万DLを突破し、米国「言葉」ゲーム部門1位を獲得。累計DLは5,000万超、BitMangoの代表作として長期運営されている。",
+  "slug": "word-cookies",
+  "file": "data/games/1106-word-cookies.json",
+  "concept": "クッキー型の盤面に並んだ文字を指でなぞって単語を作り、隠された英単語をすべて見つける一筆書き式ワードパズル。短時間で 1 ステージが終わるため、スキマ時間カジュアルゲームの定番フォーマットを確立した。",
+  "target": "通勤・休憩時間に頭の体操をしたい 30-60 代を中心とした幅広いカジュアル層。英語学習・語彙強化を兼ねて遊ぶライト層、特に女性ユーザーの比率が高い。",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.bitmango.go.wordcookies",
+    "https://apps.apple.com/us/app/word-cookies/id1153883316",
+    "https://rtbsquare.work/archives/15501"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

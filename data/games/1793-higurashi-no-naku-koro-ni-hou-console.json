@@ -1,0 +1,29 @@
+{
+  "id": 1793,
+  "title_jp": "ひぐらしのなく頃に奉",
+  "title_en": "Higurashi no Naku Koro ni Hou (console)",
+  "developer": "07th Expansion",
+  "publisher": "Entergram",
+  "year": 2018,
+  "platform": [
+    "Switch",
+    "PS4"
+  ],
+  "genre": "サウンドノベル/ミステリーADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "07th Expansion 同人発の伝説的サウンドノベルを 23 シナリオ収録の決定版として家庭用に集大成。Switch 版（2018/07/26）と PS4 版（2019/01/24）の両方が長期で流通し、EG THE BEST 廉価版・2023 年の追加 DLC『ひぐらしのなく頃に煌』まで続く息の長いシリーズの中核となった。",
+  "concept": "出題編・解答編に礼・粋を加えた既存 19 章に加え、家庭用初収録の『アウトブレイク』『アウトブレイク 神薊篇』『雛見沢停留所』を含む 23 シナリオを 1 本に統合した「ひぐらし全部入り」決定版。読み進めることで雛見沢の惨劇とその真相が段階的に開示される長編ミステリー・ノベル体験を提供する。",
+  "target": "原作・アニメ・漫画でひぐらしに触れて来た 20-40 代のミステリー / 伝奇 / サウンドノベル愛好層と、家庭用ハードで腰を据えて長編ビジュアルノベルを読みたい層。",
+  "slug": "higurashi-no-naku-koro-ni-hou-console",
+  "file": "data/games/1793-higurashi-no-naku-koro-ni-hou-console.json",
+  "_source_urls": [
+    "https://www.entergram.co.jp/higurashihou/",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou_(console)",
+    "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry",
+    "https://www.otakustudy.com/visual-novel/2020/06/higurashi-no-naku-koro-ni-hou-on-ps4-switch-to-receive-budget-the-best-release-from-entergram/"
+  ]
+}

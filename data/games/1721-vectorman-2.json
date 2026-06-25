@@ -1,0 +1,27 @@
+{
+  "id": 1721,
+  "title_jp": "ベクターマン2",
+  "title_en": "Vectorman 2",
+  "developer": "BlueSky Software",
+  "publisher": "Sega",
+  "year": 1996,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "アクションプラットフォーマー/シューティング",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Mega Drive 末期にリリースされたプリレンダリング 3DCG スプライトの 2D アクションシリーズ第 2 弾。1995 年の前作のビジュアル衝撃を引き継ぎ、Genesis 最終世代の代表作の一つとして語られる。",
+  "concept": "前作の核となる「3DCG 風スプライト × 走って撃つ 2D アクション」を継承しつつ、ステージ構造やヒーローの変身ギミックを拡張した続編。Genesis のハード寿命末期に投入された技術デモ的存在。",
+  "target": "Mega Drive / Genesis を最後まで遊んでいたコアユーザー、90 年代後半の 2D アクション・シューティング好き、レトロゲーム愛好家。",
+  "slug": "vectorman-2",
+  "file": "data/games/1721-vectorman-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Vectorman_2",
+    "https://www.sega-16.com/2005/05/vectorman-2/",
+    "https://www.imdb.com/title/tt0388509/"
+  ]
+}

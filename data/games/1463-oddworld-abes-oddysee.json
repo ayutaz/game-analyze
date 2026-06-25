@@ -1,0 +1,30 @@
+{
+  "id": 1463,
+  "title_jp": "エイブ・ア・ゴーゴー",
+  "title_en": "Oddworld: Abe's Oddysee",
+  "developer": "Oddworld Inhabitants",
+  "publisher": "GT Interactive",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "PC"
+  ],
+  "genre": "シネマティック・パズルプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "3.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "プリレンダ背景と GameSpeak（仲間に話しかけるコマンド）が当時の PS1 ユーザーに強烈な印象を残し、欧米では 100 万本超の大ヒット。日本ではゲームバンク（ソフトバンク）が秋元康プロデュースの 4 億円規模プロモを展開したが空振りに終わり、逆にカルト的な記憶として残った。",
+  "slug": "oddworld-abes-oddysee",
+  "file": "data/games/1463-oddworld-abes-oddysee.json",
+  "concept": "ミートで飼料にされる運命のマドカン族の労働者エイブが、500 人の同胞を救うためルプター工場から脱出する 2D シネマティック・プラットフォーマー。即死トラップとパズルを GameSpeak で仲間に指示しながら攻略する独自設計が肝。",
+  "target": "90 年代後半の PS1 ユーザー、特に Another World / Flashback 系のシネマティック・プラットフォーマーや、ブラックユーモアの効いたディストピア SF を好む層。試行錯誤と即死リトライを楽しめるパズル愛好家向け。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Oddworld:_Abe's_Oddysee",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A2%E3%83%BB%E3%82%B4%E3%83%BC%E3%82%B4%E3%83%BC",
+    "https://store.steampowered.com/app/15700/Oddworld_Abes_Oddysee/"
+  ]
+}

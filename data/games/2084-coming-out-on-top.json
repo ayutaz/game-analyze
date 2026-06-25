@@ -1,0 +1,35 @@
+{
+  "id": 2084,
+  "title_jp": "Coming Out On Top",
+  "title_en": "Coming Out On Top",
+  "developer": "Obscurasoft",
+  "publisher": "Obscurasoft",
+  "year": 2014,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "ゲイ恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Kickstarter で資金調達に成功した北米初の商業ゲイ向け恋愛 SLG として話題化。Steam で 1,200 件超のレビュー中 95% 以上が好評と長期的に高評価を維持し、日本でも『炎多留』以来の衝撃として紹介された。",
+  "concept": "大学最終学年に「カミングアウト」した主人公 Mark を主役に、6 人のメインヒーローおよび 12 人の Brofinder（出会いアプリ）相手との関係を分岐選択で描くアダルト向けゲイ恋愛ビジュアルノベル。髭・体毛のカスタマイズや検閲/無修正切替など、ゲイカルチャー固有の表現を真正面から取り扱った点が独自性。",
+  "target": "BL ではないリアル寄りのゲイカルチャー文脈で恋愛 SLG を楽しみたい英語圏のゲイ層が中心。LGBTQ＋表現に好意的な海外プレイヤー、ゲイテーマ作品としては数少ない商業作を評価する VN ファン層にも届いた。",
+  "slug": "coming-out-on-top",
+  "file": "data/games/2084-coming-out-on-top.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Coming_Out_on_Top",
+    "https://store.steampowered.com/app/642090/Coming_Out_on_Top/?l=japanese",
+    "https://obscura.itch.io/coming-out-on-top",
+    "https://www.kickstarter.com/projects/obscurasoft/coming-out-on-top-a-gay-dating-sim-video-game",
+    "https://lgbtqgamearchive.com/games/games-by-decade/2010s/coming-out-on-top/",
+    "https://www.pcgamingwiki.com/wiki/Coming_Out_on_Top"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

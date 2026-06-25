@@ -1,0 +1,33 @@
+{
+  "id": 1686,
+  "title_jp": "グラディウスIII",
+  "title_en": "Gradius III",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1990,
+  "platform": [
+    "Arcade",
+    "SNES",
+    "PS2",
+    "PSP",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "横スクロールシューティング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「伝説から神話へ」の副題と凶悪な難度で知られるシリーズ最高峰の一作。スーパーファミコン本体ローンチ級タイトルとして話題を呼び、後年アーケードアーカイブスで PS4/Switch にも復刻配信された。",
+  "concept": "グラディウスシリーズ正統続編。パワーアップを自分で組み立てるゲージ式装備選択と、極端なまでに研ぎ澄まされた弾幕／障害物の連続を、限られたライフで切り抜けていく硬派な横シュー。",
+  "target": "80～90年代アーケード／スーパーファミコン世代のシューティングファン。高難度の攻略・覚えゲー的トライ＆エラーを楽しめるコアなシューターと、グラディウスIPに思い入れのある中高年層。",
+  "slug": "gradius-iii",
+  "file": "data/games/1686-gradius-iii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Gradius_III",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%87%E3%82%A3%E3%82%A6%E3%82%B9III_-%E4%BC%9D%E8%AA%AC%E3%81%8B%E3%82%89%E7%A5%9E%E8%A9%B1%E3%81%B8-",
+    "https://www.konami.com/games/jp/ja/products/dl_gradius3_arcade_c/",
+    "https://www.arcadearchives.com/en/title/aca-141/"
+  ]
+}

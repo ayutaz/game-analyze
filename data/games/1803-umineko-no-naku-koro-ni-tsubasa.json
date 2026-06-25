@@ -1,0 +1,33 @@
+{
+  "id": 1803,
+  "title_jp": "うみねこのなく頃に翼",
+  "title_en": "Umineko no Naku Koro ni Tsubasa",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "サウンドノベル/短編集",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミケ79（2010年12月31日）で頒布された『うみねこのなく頃に』の小冊子群をビジュアルノベル化した同人ファンディスク。本編で語られなかった六軒島の小話やキャラクター達の裏話が詰め合わせられており、コアファンの間で「贈り物」として高く評価された。2019年に『うみねこのなく頃に咲』へ収録、2021年には Switch/PS4 版『キャットボックスと夢のオーケストラ』にも同梱された。",
+  "concept": "本編『うみねこのなく頃に』のイベント配布小冊子をビジュアルノベル形式に変換した短編集型ファンディスク。本編では描かれなかったコミカルかつシュールな side story を通じ、六軒島事件の「もう一つの顔」を断片的に体験させる構成。",
+  "target": "『うみねこのなく頃に』本編 Episode 1-8 をすでに読了し、世界観・キャラクターに強い愛着を持つコアファン層。竜騎士07 作品の隙間を埋めたいタイプの読者向け。",
+  "slug": "umineko-no-naku-koro-ni-tsubasa",
+  "file": "data/games/1803-umineko-no-naku-koro-ni-tsubasa.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%BF%E3%81%AD%E3%81%93%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E7%BF%BC",
+    "https://07th-expansion.fandom.com/wiki/Umineko_no_Naku_Koro_ni_Tsubasa",
+    "https://en.wikipedia.org/wiki/List_of_Umineko_When_They_Cry_titles",
+    "https://07th-expansion.net/umi_saku/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

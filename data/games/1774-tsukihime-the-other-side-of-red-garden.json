@@ -1,0 +1,30 @@
+{
+  "id": 1774,
+  "title_jp": "月姫 -The other side of red garden-",
+  "title_en": "Tsukihime -The other side of red garden-",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON / Aniplex",
+  "year": 2026,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "ビジュアルノベル/伝奇ADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『月姫 -A piece of blue glass moon-』完走特典のティザー映像で初告知。遠野秋葉・翡翠・琥珀の裏ルートに加え、原作で削られた「弓塚さつき」ルート収録予告で TYPE-MOON ファンの長期待望作。",
+  "concept": "TYPE-MOON 月姫リメイク二部作の後編。原作の「裏ルート（Far-side）」を全面再構築し、奈須きのこが当時実装できなかった弓塚さつきルートを新規追加する伝奇ビジュアルノベル。",
+  "target": "月姫原作・FGO・Fate シリーズで TYPE-MOON 世界観に親しんできた 20–40 代の読み物型ファン。前作『A piece of blue glass moon-』をプレイ済みで、裏ルートと弓塚さつきの物語を待っているコアユーザー。",
+  "slug": "tsukihime-the-other-side-of-red-garden",
+  "file": "data/games/1774-tsukihime-the-other-side-of-red-garden.json",
+  "_source_urls": [
+    "https://typemoon.fandom.com/wiki/Tsukihime_-The_other_side_of_red_garden-",
+    "https://en.wikipedia.org/wiki/Tsukihime",
+    "https://typemoon.fandom.com/wiki/Tsukihime_Remake_series",
+    "https://noisypixel.net/tsukihime-the-other-side-of-red-garden-english-logo/"
+  ]
+}

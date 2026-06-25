@@ -1,0 +1,36 @@
+{
+  "id": 2065,
+  "title_jp": "アンメイデン",
+  "title_en": "Heart of the Woods",
+  "developer": "Studio Élan",
+  "publisher": "Studio Élan",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "ビジュアルノベル/百合ファンタジー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Steam で「圧倒的に好評」(95% / 800+ レビュー)。妖精と幽霊を題材にした百合ビジュアルノベルとして英語圏インディー VN シーンで高評価を獲得し、Kickstarter でフルボイス化パッチも実現。",
+  "concept": "親友同士の少女 Maddie と Tara が辺境の森の村で超常現象を調査する、妖精・魔法・幽霊娘を題材にしたファンタジー百合ビジュアルノベル。生死を越えた少女同士の愛と古い森の秘密を描く。",
+  "target": "英語圏インディー百合ビジュアルノベルを好む層、Steam の VN ファン、ファンタジー/オカルト寄りのナラティブ作品を読みたいプレイヤー。",
+  "slug": "heart-of-the-woods",
+  "file": "data/games/2065-heart-of-the-woods.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/844660/Heart_of_the_Woods/",
+    "https://vnstudioelan.com/games/heart-of-the-woods/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/HeartOfTheWoods",
+    "https://text.sanographix.net/entry/heart-of-the-woods"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

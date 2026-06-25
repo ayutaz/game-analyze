@@ -1,0 +1,32 @@
+{
+  "id": 1927,
+  "title_jp": "最果てのイマ",
+  "title_en": "Saihate no Ima",
+  "developer": "Xuse",
+  "publisher": "Xuse",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PSP"
+  ],
+  "genre": "アダルトアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "シナリオライター・ロメオ田中による哲学的・難解な物語と「ブログ風ハイパーリンク」分岐システムが話題に。コアな美少女ゲームファンの間で長く語り継がれるカルト的名作。",
+  "concept": "ハイデガー・フッサールの現象学やマクルーハンのグローバル・ヴィレッジ論を下敷きに、7人の幼馴染の「聖域編（青春群像）」と「戦争編（SF）」を二部構成で描く18禁ノベル。テキスト中の単語をハイパーリンクで辿る独自の『ブログシステム』で物語を再構築する。",
+  "target": "ロメオ田中の文体・思考実験的なシナリオを楽しめるコア層、難解系・読解負荷の高いビジュアルノベルを好む層、20代以上の硬派なギャルゲーマー。",
+  "slug": "saihate-no-ima",
+  "file": "data/games/1927-saihate-no-ima.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%9C%80%E6%9E%9C%E3%81%A6%E3%81%AE%E3%82%A4%E3%83%9E",
+    "https://dic.pixiv.net/a/%E6%9C%80%E6%9E%9C%E3%81%A6%E3%81%AE%E3%82%A4%E3%83%9E",
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=22073",
+    "https://fuwanovel.moe/2013/06/saihate-no-ima/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

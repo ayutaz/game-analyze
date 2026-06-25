@@ -1,0 +1,32 @@
+{
+  "id": 1600,
+  "title_jp": "ザ・シンプソンズ ヒット&ラン",
+  "title_en": "The Simpsons: Hit & Run",
+  "developer": "Radical Entertainment",
+  "publisher": "Vivendi Universal Games",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "GameCube",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "アクションアドベンチャー/ドライビング（GTA 風オープンワールド）",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シンプソンズ世界を GTA 風オープンワールドに落とし込んだ怪作。2007 年時点で世界 300 万本超を売り上げ、後年は配信文化と懐古ブームで「リメイクしてほしい IP」筆頭としてカルト的支持を集める。",
+  "concept": "スプリングフィールドを 7 ステージに分けた箱庭で、ホーマー／バート／リサ／マージ／アパーらを操作し車で街を爆走しながらミッションをこなす GTA 系アクション。アニメ本編をパロディしたシナリオとボイス、原作スタッフ参加の脚本が売り。",
+  "target": "シンプソンズの長年のファン、PS2/GC/Xbox 世代でアニメ IP のゲーム化を楽しんだ層、GTA 系オープンワールドのライト版を遊びたい欧米プレイヤー。日本では洋ゲー好きの一部に限定。",
+  "slug": "the-simpsons-hit-and-run",
+  "file": "data/games/1600-the-simpsons-hit-and-run.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Simpsons:_Hit_%26_Run",
+    "https://www.vgchartz.com/game/5697/simpsons-hit-amp-run/",
+    "https://en.wikipedia.org/wiki/Radical_Entertainment"
+  ]
+}

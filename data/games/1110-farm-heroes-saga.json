@@ -1,0 +1,36 @@
+{
+  "id": 1110,
+  "title_jp": "ファームヒーローズ サーガ",
+  "title_en": "Farm Heroes Saga",
+  "developer": "King",
+  "publisher": "King",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser",
+    "PC"
+  ],
+  "genre": "マッチ3パズル",
+  "sales_jp": "—",
+  "sales_world": "430M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Candy Crush Saga の姉妹作として 2013 年末にリリース、累計 4.3 億 DL を突破しランキング上位常連の長寿カジュアルパズル。",
+  "slug": "farm-heroes-saga",
+  "file": "data/games/1110-farm-heroes-saga.json",
+  "concept": "野菜キャラ「クロップシー」を集めるマッチ3パズル。Candy Crush の「サガ」マップ構造に農場テーマと収集ノルマを重ね、ステージごとの目標達成と星評価で進行する King 製の長期運営型カジュアルパズル。",
+  "target": "20-50 代の女性層を中心とした非ゲーマー・カジュアル層。通勤やスキマ時間に短時間プレイし、可愛いキャラ収集とステージクリアの達成感を求めるプレイヤー。",
+  "_source_urls": [
+    "https://www.king.com/ja/game/farmheroes",
+    "https://apps.apple.com/jp/app/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC/id608206510",
+    "https://markezine.jp/article/detail/20059",
+    "https://app.sensortower.com/overview/com.king.farmheroessaga"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

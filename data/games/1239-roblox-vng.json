@@ -1,0 +1,31 @@
+{
+  "id": 1239,
+  "title_jp": "Roblox（VNG 配信版）",
+  "title_en": "Roblox (VNG)",
+  "developer": "Roblox Corporation",
+  "publisher": "VNG (ベトナム独占配信)",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "UGCサンドボックス/ソーシャルプラットフォーム",
+  "sales_jp": "—",
+  "sales_world": "ベトナム国内 26M+ DL（2026年時点、直近30日で約1M DL）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2024年8月にVNGがベトナム独占ローカル配信を開始し、ベトナム法令準拠のローカルサーバー・ベトナム語UI・現地決済対応で東南アジア最大級のRoblox現地化事例となった。配信開始から累計26M DLを突破。",
+  "concept": "グローバルなUGCサンドボックスRobloxを、ベトナム規制（コンテンツ審査・データローカライズ・現地決済）に準拠した形でVNGが独占配信する現地版。プレイヤーは自作・他人作の数百万種のミニゲーム（PvP・脱出・タイクーン・RP）を行き来できる。",
+  "target": "10代を中心とした若年層、特にスマホ世代のベトナム人プレイヤー。グローバル版で接続が不安定だった層、現地決済で課金したい層、保護者が安心して使える公式版を求める層。",
+  "slug": "roblox-vng",
+  "file": "data/games/1239-roblox-vng.json",
+  "_source_urls": [
+    "https://en.vneconomy.vn/vng-and-roblox-partner-to-launch-in-vietnam-vnggames-shares-top-publisher-award-at-vga-2024.htm",
+    "https://en.help.roblox.com/hc/en-us/articles/27349697955220-FAQ-Roblox-VNG-Official-Launch",
+    "https://roblox.fandom.com/wiki/Roblox_VN",
+    "https://www.exitlag.com/blog/roblox-vng/"
+  ]
+}

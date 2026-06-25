@@ -1,0 +1,31 @@
+{
+  "id": 1895,
+  "title_jp": "Tears to Tiara II 覇王の末裔",
+  "title_en": "Tears to Tiara II: Heir of the Overlord",
+  "developer": "AQUAPLUS",
+  "publisher": "AQUAPLUS (Atlus US)",
+  "year": 2013,
+  "platform": [
+    "PS3"
+  ],
+  "genre": "シミュレーションRPG/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "うたわれるものの系譜を継ぐAQUAPLUS製ファンタジー大作。北米でAtlusがローカライズし、SRPG＋ビジュアルノベルの大ボリューム約80時間というハイブリッド構成が話題になった。",
+  "concept": "ローマ帝国風の覇王国家に蹂躙された海洋民族の末裔ハミルが、女神タリエシンとともに国を取り戻す物語をビジュアルノベル＋グリッドSRPGで描く重厚ファンタジー。戦闘はFFタクティクス系のターン制で、巻き戻し機能を備える。",
+  "target": "うたわれるもの／Tears to Tiaraシリーズのファン、神話・歴史ファンタジーが好きなSRPG／ビジュアルノベル愛好者。腰を据えて長編物語を読み込みたい層。",
+  "slug": "tears-to-tiara-ii-heir-of-the-overlord",
+  "file": "data/games/1895-tears-to-tiara-ii-heir-of-the-overlord.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tears_to_Tiara",
+    "https://aquaplus.jp/ttt2/",
+    "https://aquaplus.fandom.com/wiki/Tears_to_Tiara_2:_Heir_of_the_Overlord",
+    "https://www.famitsu.com/sp/130919_ttt2/",
+    "https://www.rpgfan.com/review/tears-to-tiara-ii-heir-of-the-overlord/"
+  ]
+}

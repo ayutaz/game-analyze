@@ -1,0 +1,29 @@
+{
+  "id": 1584,
+  "title_jp": "ラチェット&クランク2 ガガガ! 銀河のコマンドー",
+  "title_en": "Ratchet & Clank: Going Commando",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "3Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作の評価をベースに武器強化・敵撃破でEXP/ボルトを稼ぐRPG的成長要素を導入し、シリーズの代表作として高評価。世界累計約300万本のヒットでR&Cブランドを確立した。",
+  "concept": "ド派手な武器と多彩なガジェットで銀河を駆け回るコメディ調3Dアクション。撃破で武器自体が成長し、ボルトで購入・強化していくフィードバックループが核となっている。",
+  "target": "PS2世代の10-30代男性を中心とした3Dアクション/シューター好き、ジャック×ダクスターやスパイロ等のキャラアクション層、武器収集・強化を楽しみたいプレイヤー。",
+  "slug": "ratchet-and-clank-going-commando",
+  "file": "data/games/1584-ratchet-and-clank-going-commando.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ratchet_%26_Clank:_Going_Commando",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%81%E3%82%A7%E3%83%83%E3%83%88&%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF2_%E3%82%AC%E3%82%AC%E3%82%AC!%E9%8A%80%E6%B2%B3%E3%81%AE%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%BC%E3%81%A3%E3%81%99",
+    "https://www.mobygames.com/game/12464/ratchet-clank-going-commando/"
+  ]
+}

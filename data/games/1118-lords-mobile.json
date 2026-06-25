@@ -1,0 +1,33 @@
+{
+  "id": 1118,
+  "title_jp": "Lords Mobile",
+  "title_en": "Lords Mobile",
+  "developer": "IGG",
+  "publisher": "IGG",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMOストラテジー/4X",
+  "sales_jp": "—",
+  "sales_world": "$3B+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "全世界累計5.4億DL超、ギルド対戦と国家戦争を軸にした4X系MMOストラテジーの代表格。2016年Google Play「Best Competitive Game」受賞、日本でも累計売上数百億円規模。",
+  "slug": "lords-mobile",
+  "file": "data/games/1118-lords-mobile.json",
+  "concept": "領主となって自領を築き、英雄を集めて軍を編成し、ギルドに加盟して他プレイヤーと領土・資源を奪い合う4X×MMOストラテジー。リアルタイム同盟戦と長期運営による国家規模PvPが核。",
+  "target": "20-40代のコア層、特に長時間張り付いて同盟運営や戦略立案を楽しむMMO/SLG経験者層。重課金とギルドコミュニケーションに耐性のあるプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Lords_Mobile",
+    "https://sensortower.com/blog/lords-mobile-revenue",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/lords-mobile-monetization",
+    "https://app.w3g.jp/lordsmobile",
+    "https://lordsmobile.igg.com/jp/"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1142,
+  "title_jp": "ブラウンダスト 2",
+  "title_en": "Brown Dust 2",
+  "developer": "GAMFS N",
+  "publisher": "Neowiz",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "タクティカルRPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "全世界事前登録200万人突破、美麗な2Dイラストとセクシー寄りキャラ造形でSNS拡散。2023年6月22日グローバル同時配信、日本でも月推定1億円超の売上を記録。",
+  "slug": "brown-dust-2",
+  "file": "data/games/1142-brown-dust-2.json",
+  "concept": "前作のSRPGバトルにストーリー漫画形式のシナリオとガチャ収集を組み合わせた縦持ちタクティカルRPG。スキル発動位置を選ぶマス目戦闘と豪華なキャラクターイラストで「集めて、読んで、戦う」を一本化した。",
+  "target": "アニメ調イラスト・美少女キャラに反応する20-40代男性のガチャRPGユーザー層。エピックセブン/ニケ/原神周辺のソーシャルガチャ慣れしたプレイヤーが主軸。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%80%E3%82%B9%E3%83%882",
+    "https://gamebiz.jp/news/370718",
+    "https://www.gematsu.com/2023/05/brown-dust-ii-launches-in-june-final-beta-test-set-for-june-8-to-12",
+    "https://mochi-extend.com/browndust2/post-1062/",
+    "https://automaton-media.com/en/news/racy-anime-gacha-game-brown-dust-2-no-longer-coming-to-steam-developers-considering-alternative-platforms/"
+  ]
+}

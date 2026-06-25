@@ -1,0 +1,33 @@
+{
+  "id": 1437,
+  "title_jp": "バイオハザード2",
+  "title_en": "Resident Evil 2",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1998,
+  "platform": [
+    "PS1",
+    "N64",
+    "Dreamcast",
+    "GameCube",
+    "PC"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "—",
+  "sales_world": "4.96M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ラクーンシティを舞台にした続編。レオンとクレアの2ディスク構成「ザッピングシステム」で異なる視点を楽しめる仕様が話題となり、シリーズ最高クラスの単一プラットフォーム売上を記録した。",
+  "slug": "resident-evil-2",
+  "file": "data/games/1437-resident-evil-2.json",
+  "concept": "ラクーンシティのゾンビ災害を、新人警官レオンと女子大生クレアの2視点で描くサバイバルホラー。固定カメラ＋プリレンダ背景＋限られた弾薬で恐怖と緊張を演出し、ザッピングによる相互影響で2周目の遊びを設計した。",
+  "target": "ホラー映画・B級ゾンビ映画好き、初代バイオの続編を待っていた層、緊張感のある探索と謎解きを好む 20-40 代のプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Resident_Evil_2",
+    "https://www.capcom.co.jp/ir/english/news/html/e190129.html",
+    "https://vgsales.fandom.com/wiki/Resident_Evil"
+  ]
+}

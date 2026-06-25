@@ -1,0 +1,31 @@
+{
+  "id": 1958,
+  "title_jp": "Happiness!",
+  "title_en": "Happiness!",
+  "developer": "Windmill",
+  "publisher": "Windmill",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS2"
+  ],
+  "genre": "アダルトビジュアルノベル/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ういんどみるの第6作目で2005年Getchu.com年間ランキング6位。学園×魔法×恋愛の王道萌え路線と、男の娘キャラ「渡良瀬準」の人気で当時の萌えゲー層に強い影響を残した。",
+  "concept": "魔法使い養成科を併設する瑞穂坂学園を舞台に、主人公・小日向雄真とヒロインたちの日常と恋愛を描く学園恋愛AVG。穏やかなコメディと「ハッピーエンド」をテーマにした安心感のあるシナリオが軸。",
+  "target": "2000年代中盤の萌え系PCアダルトゲームを愛好する男性層。学園恋愛もの・魔法ファンタジー要素・甘めの日常コメディを好むビジュアルノベル読者。",
+  "slug": "happiness",
+  "file": "data/games/1958-happiness.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Happiness!_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99!",
+    "https://windmill.suki.jp/product/6th/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2033,
+  "title_jp": "ザ・センター・ケース",
+  "title_en": "The Centennial Case: A Shijima Story",
+  "developer": "h.a.n.d.",
+  "publisher": "Square Enix",
+  "year": 2022,
+  "platform": [
+    "PS5",
+    "PS4",
+    "Switch",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "実写FMVミステリーアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "実写俳優を起用したFMV推理アドベンチャーという珍しい体裁と、Square Enixが手掛ける実写ミステリーという話題性で注目を集めた。「100年にわたる四篠（しじま）家の連続怪死事件」を桜庭ななみ主演で描く異色作。",
+  "concept": "実写俳優によるドラマを観ながら手掛かりとなる仮説（思考の断片）を集め、推理パートで組み立てて真相に迫る、実写FMV×ミステリーAVG。4つの時代をまたぐ「不老不死の果実」を巡る連続殺人を解き明かす新本格ミステリー体験を志向する。",
+  "target": "ミステリー小説・本格推理ドラマが好きな大人層、Her Story や 428 のようなFMV／実写系AVGを好むプレイヤー、Square Enix の異色実験作にアンテナを張る層。",
+  "slug": "the-centennial-case-a-shijima-story",
+  "file": "data/games/2033-the-centennial-case-a-shijima-story.json",
+  "_source_urls": [
+    "https://www.square-enix-games.com/en_US/games/centennial-case-shijima-story",
+    "https://www.jp.square-enix.com/retrotica/",
+    "https://gamebiz.jp/news/343045",
+    "https://press.na.square-enix.com/SQUARE-ENIX-RELEASES-MURDER-MYSTERY-THE-CENTENNIAL-CASE-A-SHIJIMA-STOR",
+    "http://www.hand.co.jp/en/develop/ps5ps4ps2psp/20220512/"
+  ]
+}

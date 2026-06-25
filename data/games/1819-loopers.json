@@ -1,0 +1,33 @@
+{
+  "id": 1819,
+  "title_jp": "LOOPERS",
+  "title_en": "LOOPERS",
+  "developer": "Key",
+  "publisher": "Visual Arts / Prototype",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "iOS",
+    "Android"
+  ],
+  "genre": "キネティックノベル/SF",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key×竜騎士07×望月けいのタッグによる SF キネティックノベルとして注目を集め、PC 版（2021）から iOS/Android、Switch（2022）、PS4（2023）、英語版 Steam（2023）と多プラットフォーム展開。2025 年には新エピソード追加の『LOOPERS PLUS』も発売された。",
+  "concept": "ループする 8 月 1 日に囚われた少年少女たちが「宝探し」を通して青春と友情を紡ぐ SF キネティックノベル。選択肢のない一本道で、約 6 時間で読み切れる手軽なボリュームの群像劇。",
+  "target": "Key 作品ファン、竜騎士07ファン、ジュブナイル SF・タイムループものを短時間で味わいたい層。本格 ADV より気軽に読める Key の入門としても機能する。",
+  "slug": "loopers",
+  "file": "data/games/1819-loopers.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Loopers",
+    "https://www.famitsu.com/news/202211/24283955.html",
+    "https://www.4gamer.net/games/670/G067002/20221124101/",
+    "https://game.watch.impress.co.jp/docs/news/1412861.html",
+    "https://prtimes.jp/main/html/rd/p/000000068.000147227.html"
+  ]
+}

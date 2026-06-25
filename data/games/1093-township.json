@@ -1,0 +1,37 @@
+{
+  "id": 1093,
+  "title_jp": "タウンシップ",
+  "title_en": "Township",
+  "developer": "Playrix",
+  "publisher": "Playrix",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac",
+    "Browser"
+  ],
+  "genre": "街づくり/ファーミング・シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "農業×街づくりのハイブリッド設計で、2017年に1.2億DL、2021年に2.48億DL、その後累計5億DLを突破した Playrix の主力 IP。テレビCMやプレイ内容と異なるミニゲーム広告で大量集客し、グローバル casual トップに長期居座った。",
+  "concept": "畑で作物を育て→工場で加工→注文を捌いてコインを稼ぎ、街に建物を建てて拡張していく「生産から出荷までのサイクル」型街づくり。動物園や共同建設など複数のメタ収集レイヤーを重ねた、長期運営型 farming-city sim。",
+  "target": "10-50代の女性層・カジュアル層を中心に、自分のペースで街を発展させたい非ゲーマーが主なターゲット。競争プレッシャーが弱く、無課金でも進められる設計で、家事や通勤の合間に開く習慣型プレイヤー向け。",
+  "slug": "township",
+  "file": "data/games/1093-township.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Township_(video_game)",
+    "https://en.wikipedia.org/wiki/Playrix",
+    "https://play.google.com/store/apps/details?id=com.playrix.township",
+    "https://mobgame.jp/mobile-game/%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97-township/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

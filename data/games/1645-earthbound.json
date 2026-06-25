@@ -1,0 +1,29 @@
+{
+  "id": 1645,
+  "title_jp": "MOTHER2 ギーグの逆襲",
+  "title_en": "EarthBound",
+  "developer": "Ape / HAL Laboratory",
+  "publisher": "Nintendo",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "RPG",
+  "sales_jp": "0.52M",
+  "sales_world": "0.66M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "糸井重里コピーライターによる「おとなもこどもも、おねーさんも。」キャッチコピーと現代アメリカ風世界観、ギーグ戦の文学的演出が SNS 時代以前から語り継がれる伝説的カルト RPG。Smash Bros. のネス参戦で世界的再評価。",
+  "concept": "コピーライター糸井重里が手掛けた、現代アメリカの郊外を舞台に少年4人が宇宙の悪意ギーグに挑む異色 JRPG。ドラム式 HP メーター・回り込み戦闘・電話セーブなどシステム随所に作家性が宿り、戦闘と物語と日常会話が一体化した「読ませる RPG」の原型。",
+  "target": "10-40 代の RPG ファン、特に物語・台詞・世界観の作家性を味わいたい層。当時はキッズ向けだったが、現在は Switch Online やゲームアーカイブで再プレイする 30-50 代のノスタルジア層に強い。",
+  "slug": "earthbound",
+  "file": "data/games/1645-earthbound.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/EarthBound",
+    "https://www.vgchartz.com/game/3846/mother-2/",
+    "https://nintendo.fandom.com/wiki/EarthBound"
+  ]
+}

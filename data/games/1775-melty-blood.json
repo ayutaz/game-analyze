@@ -1,0 +1,30 @@
+{
+  "id": 1775,
+  "title_jp": "MELTY BLOOD",
+  "title_en": "Melty Blood",
+  "developer": "渡辺製作所 (後の French-Bread) / TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "2D対戦格闘 (同人)",
+  "sales_jp": "—",
+  "sales_world": "unknown (同人格ゲーの代表作)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2002年コミックマーケット63で頒布された同人格闘ゲーム。『月姫』スピンオフとして爆発的に拡散し、後のアーケード版・PS2版へと展開する同人格ゲー史の金字塔となった。",
+  "concept": "TYPE-MOONの伝奇ビジュアルノベル『月姫』のキャラクターを使った2D対戦格闘で、ストーリーモードでナラティブを補完しつつ、空中ダッシュとシールド/ヒートを核にしたスピーディーな格ゲーシステムを両立させた同人作品。",
+  "target": "『月姫』ファンと、ギルティギア／カプエス級のテンポを好む2D格ゲー愛好家。同人即売会で格闘ゲームを買う層と、TYPE-MOON IPを追うオタク層が重なる中核ユーザー。",
+  "slug": "melty-blood",
+  "file": "data/games/1775-melty-blood.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Melty_Blood",
+    "https://ja.wikipedia.org/wiki/MELTY_BLOOD:_TYPE_LUMINA",
+    "https://dic.nicovideo.jp/a/melty%20blood",
+    "https://typemoon.fandom.com/wiki/Melty_Blood"
+  ]
+}

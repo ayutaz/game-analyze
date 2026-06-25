@@ -1,0 +1,31 @@
+{
+  "id": 1717,
+  "title_jp": "シャイニング&ザ・ダクネス",
+  "title_en": "Shining in the Darkness",
+  "developer": "Climax Entertainment",
+  "publisher": "Sega",
+  "year": 1991,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "3Dダンジョン探索RPG",
+  "sales_jp": "—",
+  "sales_world": "300K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ドラクエスタッフが立ち上げたクライマックス開発によるメガドライブ向け一人称3DダンジョンRPG。Wizardry/Might & Magic系のシステムをコンシューマで実現し、後の『シャイニング・フォース』へと続くシリーズ第1作として記憶されている。",
+  "concept": "ファーストパーソン視点のリアルタイム3Dダンジョン探索と、ターン制ランダムエンカウント戦闘を組み合わせた本格RPG。プレイヤーは王宮に仕える戦士となり、迷宮の奥に消えた王女と父を探して洞窟を踏破していく。",
+  "target": "メガドライブで本格的な3DダンジョンRPGを遊びたかった層、Wizardry/Might & Magic系のじっくり潜って成長させる体験を好むコア RPG ファン。",
+  "slug": "shining-in-the-darkness",
+  "file": "data/games/1717-shining-in-the-darkness.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shining_in_the_Darkness",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0&%E3%82%B6%E3%83%BB%E3%83%80%E3%82%AF%E3%83%8D%E3%82%B9",
+    "https://www.sega.jp/mdmini2/soft/shining-in-the-darkness.html",
+    "https://en.wikipedia.org/wiki/Shining_(video_game_series)"
+  ]
+}

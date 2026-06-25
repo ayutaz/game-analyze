@@ -1,0 +1,31 @@
+{
+  "id": 1545,
+  "title_jp": "鬼武者2",
+  "title_en": "Onimusha 2: Samurai's Destiny",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "戦国サバイバルアクション",
+  "sales_jp": "1M+",
+  "sales_world": "2.1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "松田優作モデルの柳生十兵衛と豪華俳優陣の起用、シリーズ最高の200万本超を売り上げ2002年国内年間3位を記録。2025年にはリマスター版が発売され再注目された。",
+  "concept": "前作の操作感を引き継ぎつつ「一閃」のバッサリ感と新アクション（奥義／秘伝／鬼武者化）を加えた戦国アクションの続編。柳生十兵衛を主役に「同志」4人との群像劇＋プレゼント交換による好感度システムでマルチエンディングを実現した。",
+  "target": "PS2 世代のアクション好き、特に時代劇／戦国モノを愛する 20-40 代の男性層。鬼武者シリーズや戦国無双以前の和風アクションを求めるコアゲーマー。",
+  "slug": "onimusha-2-samurais-destiny",
+  "file": "data/games/1545-onimusha-2-samurais-destiny.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Onimusha_2:_Samurai's_Destiny",
+    "https://ja.wikipedia.org/wiki/%E9%AC%BC%E6%AD%A6%E8%80%852",
+    "https://game.watch.impress.co.jp/docs/20020207/capcom.htm",
+    "https://www.famitsu.com/article/202504/40286",
+    "https://automaton-media.com/articles/newsjp/onimusha-2-20250423-336053/"
+  ]
+}

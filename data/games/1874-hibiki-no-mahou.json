@@ -1,0 +1,27 @@
+{
+  "id": 1874,
+  "title_jp": "ヒビキの魔法",
+  "title_en": "Hibiki no Mahou",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/ファンタジー",
+  "sales_jp": "—",
+  "sales_world": "30K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "麻枝准・いづみ礼が原作の漫画『ヒビキのマホウ』を題材にしたとされるビジュアルノベル系作品で、Key/Visual Arts ファンの間で話題になった。詳細な販売・配信情報は公開資料が乏しく、確証は限定的。",
+  "concept": "魔法使いシロツキの弟子・ヒビキを主役に、紅茶しか上手く淹れられない少女の成長と別れを描く泣きゲー系ファンタジー。麻枝准の根幹テーマ「喪失と再生」を継承した物語特化型の構成。",
+  "target": "Key/麻枝准作品（CLANNAD・AIR・Angel Beats! 等）のファン層、泣きゲー・物語重視のビジュアルノベル愛好者。20-40代の物語消費層が中心。",
+  "slug": "hibiki-no-mahou",
+  "file": "data/games/1874-hibiki-no-mahou.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hibiki's_Magic",
+    "https://tropedia.fandom.com/wiki/Hibiki_no_Mahou",
+    "https://en.wikipedia.org/wiki/Jun_Maeda"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1801,
+  "title_jp": "うみねこのなく頃に Question Arcs",
+  "title_en": "Umineko When They Cry - Question Arcs",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2007,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ひぐらしに続く07th Expansionの代表作。同人発の長大ミステリADVとしてアニメ化・コミカライズも展開し、Steam版（2016年、MangaGamer/Witch Hunt 英訳）は『圧倒的に好評』を獲得しカルト的人気を維持。",
+  "concept": "『黄金の魔女』と『真実を求める人間』が殺人事件の真相を巡って繰り広げる、メタ視点を含む長編サウンドノベル・ミステリ。Question Arcsは第1〜4話、『謎を提示する側』の物語を収める。",
+  "target": "ひぐらし経験者、本格ミステリ／メタ構造ミステリ好き、長尺ビジュアルノベル耐性のある10代後半〜40代読書好き層。",
+  "slug": "umineko-when-they-cry-question-arcs",
+  "file": "data/games/1801-umineko-when-they-cry-question-arcs.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Umineko_When_They_Cry",
+    "https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/",
+    "https://07th-expansion.fandom.com/wiki/Umineko_no_Naku_Koro_ni_Question_Arcs"
+  ]
+}

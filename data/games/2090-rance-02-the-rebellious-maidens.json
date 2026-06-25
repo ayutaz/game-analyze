@@ -1,0 +1,33 @@
+{
+  "id": 2090,
+  "title_jp": "ランス02 -反逆の少女たち-",
+  "title_en": "Rance 02: The Rebellious Maidens",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ターン制ダンジョンクロウラーRPG/アダルトADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1990 年の名作『ランスII』を 2009 年にフル HD グラフィックで再構築したリメイク。後に Kai 版を含む二本立てで再リリースされ、2020 年に MangaGamer による英訳版が公式リリースされて欧米ファンの間でも「ランスシリーズ入門編」として再評価された。",
+  "concept": "傭兵ランスが自由都市カスタムで誘拐された女性たちを救出する短編 RPG。トップダウン視点のダンジョン探索とターン制バトル、HCG イベントが融合した AliceSoft のシリーズ復活作で、初代『ランスII』(1990) のシナリオを現代の解像度で再演する位置づけ。",
+  "target": "AliceSoft / ランスシリーズの既存ファン、PC-98 時代の和製アダルト RPG を再体験したい層、MangaGamer 英訳版を通じてシリーズに入門したい海外プレイヤー。",
+  "slug": "rance-02-the-rebellious-maidens",
+  "file": "data/games/2090-rance-02-the-rebellious-maidens.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Rance_02:_The_Rebellious_Maidens",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://www.igdb.com/games/rance-02-the-rebellious-maidens",
+    "https://store.steampowered.com/app/3867130/Rance_01__02/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

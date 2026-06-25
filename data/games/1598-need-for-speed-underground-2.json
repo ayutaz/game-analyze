@@ -1,0 +1,34 @@
+{
+  "id": 1598,
+  "title_jp": "ニード・フォー・スピード アンダーグラウンド2",
+  "title_en": "Need for Speed: Underground 2",
+  "developer": "EA Black Box",
+  "publisher": "Electronic Arts",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "GameCube",
+    "PC",
+    "GBA",
+    "DS"
+  ],
+  "genre": "レース/オープンワールド/チューンナップ",
+  "sales_jp": "—",
+  "sales_world": "11M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作の社会現象的ヒットを受け、夜の架空都市ベイビューを舞台にしたオープンワールド・ストリートレースとして大ブレイク。ハイドロリクスやガルウィングドア、SUVクラスなど自由度の高いカスタマイズと、リッキー・マーティンやスヌープ・ドッグ等の濃いサントラがチューニングカー文化のアイコンになった。",
+  "concept": "違法ストリートレース＋深いビジュアル/メカチューンを「街を流して次のレースを探す」オープンワールド構造に拡張した、アーケード・チューナーレースの決定版。",
+  "target": "ワイルド・スピード世代のティーン〜20代男性、改造車・JDM・USDMカルチャー好き、ハードコアシムよりも見た目重視のカスタムを楽しみたい層。",
+  "slug": "need-for-speed-underground-2",
+  "file": "data/games/1598-need-for-speed-underground-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Need_for_Speed:_Underground_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89_%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%892",
+    "https://www.mobygames.com/game/15699/need-for-speed-underground-2/"
+  ]
+}

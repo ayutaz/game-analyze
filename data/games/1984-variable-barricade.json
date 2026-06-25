@@ -1,0 +1,30 @@
+{
+  "id": 1984,
+  "title_jp": "蜜蜂とイカルス",
+  "title_en": "Variable Barricade",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2019,
+  "platform": [
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Otomate の代表作の一つとして PS Vita 末期 2019 年に発売、2020 年に Switch 移植、2022 年に Aksys Games が北米英語版を展開し海外乙女ゲーマーの間でロマンチック・コメディの良作として話題になった。",
+  "concept": "資産家の令嬢ヒバリが、祖父に押し付けられた 4 人の婿候補と専属執事に囲まれて暮らす豪邸で繰り広げられる恋愛 ADV。「バリケード盤」というボード状フローチャートで攻略順を組み立て、「恋愛」と「理性」の二軸感情パラメータでルートが分岐するシステムが特徴。",
+  "target": "10-30 代の女性プレイヤー、特に Otomate ブランドの乙女ゲームを継続購入している層と、コメディタッチの恋愛 ADV を好むユーザー。北米では英語ローカライズ済みの本格乙女 VN を求める海外ファン。",
+  "slug": "variable-barricade",
+  "file": "data/games/1984-variable-barricade.json",
+  "_source_urls": [
+    "https://english-otome-games.fandom.com/wiki/Variable_Barricade",
+    "https://otomeorganization.fandom.com/wiki/Variable_Barricade",
+    "https://www.gematsu.com/games/variable-barricade",
+    "https://www.siliconera.com/review-variable-barricade-is-a-great-romantic-comedy/",
+    "https://www.nintendolife.com/news/2020/12/three_idea_factory_otome_games_are_getting_western_releases_on_switch_next_year"
+  ]
+}

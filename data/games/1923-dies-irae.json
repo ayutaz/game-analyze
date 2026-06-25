@@ -1,0 +1,33 @@
+{
+  "id": 1923,
+  "title_jp": "Dies irae",
+  "title_en": "Dies irae",
+  "developer": "Light",
+  "publisher": "Light / Greenwood",
+  "year": 2007,
+  "platform": [
+    "PC",
+    "PSP",
+    "PS Vita",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "ビジュアルノベル/伝奇バトルADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "正田崇シナリオの厨二全開バトル叙事詩として国内伝奇VNファンに熱烈支持。2017年TVアニメ化、海外Kickstarterで$160K超を集めSteam英訳版が成立した。",
+  "concept": "ナチス残党の聖槍十三騎士団と日本人主人公が「永劫回帰」を巡って魂を削り合う、ニーチェ思想とキリスト教神秘主義をベースにした伝奇バトル・オペラADV。圧倒的ボリュームの厨二バトル描写と神話再構築劇が売り。",
+  "target": "Fate/Demonbane/Nasuきのこ系の重厚伝奇VNが好きな20-40代男性コアファン層。厨二バトル描写と神話・哲学引用を浴びるように読みたい層。",
+  "slug": "dies-irae",
+  "file": "data/games/1923-dies-irae.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dies_irae_(video_game)",
+    "https://ja.wikipedia.org/wiki/Dies_irae_-Also_sprach_Zarathustra-",
+    "https://store.steampowered.com/app/644540/Dies_irae_Amantes_amentes/",
+    "https://www.animenewsnetwork.com/news/2016-12-16/visual-novel-publisher-light-launches-kickstarter-to-localize-dies-irae-in-english/.109971"
+  ]
+}

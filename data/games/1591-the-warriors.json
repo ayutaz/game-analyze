@@ -1,0 +1,34 @@
+{
+  "id": 1591,
+  "title_jp": "ザ・ウォリアーズ",
+  "title_en": "The Warriors",
+  "developer": "Rockstar Toronto",
+  "publisher": "Rockstar Games",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PSP",
+    "PS3",
+    "PS4"
+  ],
+  "genre": "ビートエムアップ/アクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "1979年の同名カルト映画を原作とした Rockstar Toronto 製ビートエムアップ。映画ファンと GTA 系ロックスターファンの双方から支持され、PS3/PS4 への PSN 再配信でも長期的に評価され続けている。",
+  "concept": "1970年代のニューヨークを舞台にストリートギャング「ウォリアーズ」がコニーアイランドへ帰還する映画前日譚を、殴り合い・ストリートクライム・盗み・タグ付けを含むオープン市街ビートエムアップとして再構築。2人協力プレイで「群れで戦う」体験を強調する。",
+  "target": "オリジナル映画『ウォリアーズ』のファン、GTA / Manhunt / Bully など Rockstar の都市派タイトル愛好層、PS2/Xbox 期のレトロ ビートエムアップを掘り返したい 30-50代男性。",
+  "slug": "the-warriors",
+  "file": "data/games/1591-the-warriors.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Warriors_(video_game)",
+    "https://www.rockstargames.com/games/thewarriors",
+    "https://www.4gamer.net/games/045/G004506/20071126009/",
+    "https://www.vgchartz.com/game/5859/the-warriors/"
+  ]
+}

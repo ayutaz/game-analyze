@@ -1,0 +1,33 @@
+{
+  "id": 1961,
+  "title_jp": "ハイパー→ハイスピード→ジーニアス",
+  "title_en": "Hyper→Highspeed→Genius",
+  "developer": "ういんどみる",
+  "publisher": "ういんどみる",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "アダルトビジュアルノベル/学園能力バトル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ういんどみる10作目の18禁ADV、10ヒロインの分岐ルートで根強い人気。2023年にSwitch全年齢移植、Sol Press経由で英語PC版も展開。",
+  "concept": "「ギフト」と呼ばれる特殊能力を持つ天才＝ジーニアスたちが集う学園で、世界を支配しうる宝具「ノア」と生徒会長選挙を巡る陰謀と初恋を描く学園能力バトル系ビジュアルノベル。",
+  "target": "ういんどみるブランドの読者層、能力バトル＋学園ハーレム志向のノベルゲーマー男性層。Switch版以降は全年齢ADV勢にも拡張。",
+  "slug": "hyper-highspeed-genius",
+  "file": "data/games/1961-hyper-highspeed-genius.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/Hyper%E2%86%92Highspeed%E2%86%92Genius",
+    "https://windmill.suki.jp/product/HHG/",
+    "https://en.namu.wiki/w/Hyper%E2%86%92Highspeed%E2%86%92Genius",
+    "https://noisypixel.net/hyper-highspeed-genius-coming-west-to-pc/",
+    "https://store-jp.nintendo.com/item/software/D70010000062547"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1475,
+  "title_jp": "MDK",
+  "title_en": "MDK",
+  "developer": "Shiny Entertainment",
+  "publisher": "Playmates Interactive",
+  "year": 1997,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS1"
+  ],
+  "genre": "サードパーソン・シューター/アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Shiny Entertainment（Earthworm Jim のスタジオ）が放った異色の TPS。当時としては破格の遠距離スナイパー視点と巨大マインクローラー攻略、シュールでブラックなユーモアで批評的成功を収め、グラフィックカードのベンチマークとしても引用された。",
+  "concept": "ジャニター青年 Kurt Hectic が地球を侵略する巨大マインクローラーに単身侵入し、操縦者を狙撃する run-and-gun TPS。三人称アクションと一人称スナイパー視点の切り替え、奇抜なミニゲームと風刺的演出で「シリアスにふざける」スタイルを確立した。",
+  "target": "90年代後半 PC ゲーマー、Earthworm Jim 系のブラックユーモア＆カルト作品愛好者、シュールな世界観と高難度シューターを好む層。",
+  "slug": "mdk",
+  "file": "data/games/1475-mdk.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/MDK",
+    "https://www.mobygames.com/game/344/mdk/",
+    "https://www.thegamer.com/mdk-retrospective-remake-explained/"
+  ]
+}

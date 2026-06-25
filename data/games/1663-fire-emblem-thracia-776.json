@@ -1,0 +1,28 @@
+{
+  "id": 1663,
+  "title_jp": "ファイアーエムブレム トラキア776",
+  "title_en": "Fire Emblem: Thracia 776",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ニンテンドウパワー書き換え専売で出荷数が極端に少なく、シリーズ最高難度として伝説化。捕獲・疲労・霧マップなど独自システムでカルト的支持を得た。",
+  "concept": "聖戦の系譜の裏面史をトラキア半島の弱小レジスタンス視点で描くシミュレーションRPG。資源と兵力で劣る側を率いる前提で、捕獲・スリ・疲労システムなど「持たざる者の戦術」を強要する設計が貫かれる。",
+  "target": "FE シリーズ経験者で高難度・パズル的戦術を好む層。聖戦の系譜の物語の続きを掘り下げたい古参ファン、SRPG マニア層。",
+  "slug": "fire-emblem-thracia-776",
+  "file": "data/games/1663-fire-emblem-thracia-776.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fire_Emblem:_Thracia_776",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%A8%E3%83%A0%E3%83%96%E3%83%AC%E3%83%A0_%E3%83%88%E3%83%A9%E3%82%AD%E3%82%A2776"
+  ]
+}

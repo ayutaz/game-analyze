@@ -1,0 +1,32 @@
+{
+  "id": 1897,
+  "title_jp": "ダンジョントラベラーズ2 王立図書館とマモノの封印",
+  "title_en": "Dungeon Travelers 2",
+  "developer": "Sting Entertainment",
+  "publisher": "AQUAPLUS",
+  "year": 2013,
+  "platform": [
+    "PSP",
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "ダンジョンRPG/美少女キャラクター",
+  "sales_jp": "32k (PSP launch) / 16k (Vita launch)",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ToHeart2 派生の Wizardry 系3DダンジョンRPG。美少女キャラ×ハードコアな迷宮探索の組み合わせと、Vita版・北米/欧州・PC版（2023）と長期間移植が続いた点でコア層に支持された。",
+  "concept": "ToHeart2 世界観をベースに、Wizardry 系のグリッド移動 3D ダンジョン RPG として再構築した派生作。図書館に封印されたマモノを巡り、転職・スキル育成・パーティ編成といった硬派なシステムを美少女キャラで包んだ作品。",
+  "target": "Wizardry 系ダンジョン RPG ファンと、Leaf/AQUAPLUS の美少女ゲーム IP を追うコア層。ハードな迷宮攻略と育成・収集を腰を据えて遊びたい男性向け。",
+  "slug": "dungeon-travelers-2",
+  "file": "data/games/1897-dungeon-travelers-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dungeon_Travelers_2",
+    "https://www.gematsu.com/2014/06/dungeon-travelers-2-dated-ps-vita-japan",
+    "https://handwiki.org/wiki/Software:Dungeon_Travelers_2"
+  ]
+}

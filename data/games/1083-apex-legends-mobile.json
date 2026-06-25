@@ -1,0 +1,32 @@
+{
+  "id": 1083,
+  "title_jp": "Apex Legends Mobile",
+  "title_en": "Apex Legends Mobile",
+  "developer": "Lightspeed & Quantum Studios (Tencent)",
+  "publisher": "EA / Tencent",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/ヒーローシューター",
+  "sales_jp": "—",
+  "sales_world": "37M+ DL（累計）/ $40M 収益（launch から約1年でサ終）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PC/家庭用 Apex Legends のスマホ最適化版として 2022/5 世界配信、Apple/Google の Game of the Year を受賞し初月 21.8M DL を記録。しかし収益が急減し 2023/5 にサービス終了、モバイル F2P シューターの厳しさを象徴する事例となった。",
+  "concept": "PC/家庭用『Apex Legends』のキャラクター・武器・マップをスマホ向けに再構築したタッチ操作対応バトルロイヤル。レジェンド固有スキルとチーム3人スクワッド戦闘というシリーズの核を、モバイル独自の操作系・短時間マッチで楽しめるよう調整した派生作。",
+  "target": "Apex Legends 本家プレイヤーで外出先でも遊びたい層、PUBG Mobile / CoD Mobile / Fortnite Mobile などのモバイル FPS/BR 層、ヒーローシューターを手軽に楽しみたい 10–30 代男性ライト〜ミドル層。",
+  "slug": "apex-legends-mobile",
+  "file": "data/games/1083-apex-legends-mobile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Apex_Legends",
+    "https://sensortower.com/blog/ea-loses-the-fight-to-keep-apex-legends-and-battlefield-mobile-live",
+    "https://mobilegamer.biz/apex-legends-mobiles-first-30-days-earned-ea-11-6m-with-downloads-at-21-8m/",
+    "https://www.famitsu.com/news/202302/01291202.html",
+    "https://gamebiz.jp/news/363676"
+  ]
+}

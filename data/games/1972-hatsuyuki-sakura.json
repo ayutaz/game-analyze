@@ -1,0 +1,34 @@
+{
+  "id": 1972,
+  "title_jp": "初雪さくら",
+  "title_en": "Hatsuyuki Sakura",
+  "developer": "Saga Planets",
+  "publisher": "Saga Planets / Visual Art's",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アダルト恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Getchu.com 美少女ゲームアワード2012で総合1位、シナリオ・音楽部門でも1位を獲得。2019年にPS4移植、2024年12月にはNekoNyanがSteamで英語版を配信し海外VNファンの注目を集めた。",
+  "concept": "SAGA PLANETS四季シリーズの「冬」を締めくくる17作目のビジュアルノベル。新島夕脚本による「12月の街と白いドレスの少女」をモチーフにした切ない学園恋愛劇で、卒業をテーマに人生の岐路を描く。",
+  "target": "20-40代のアダルトPCビジュアルノベル層、特に新島夕シナリオ(暁の護衛・魔女こいにっき)やKey/Leaf系泣きゲー文脈を辿ってきた読み専ユーザー。海外VNコミュニティのSaga Planetsファンも含む。",
+  "slug": "hatsuyuki-sakura",
+  "file": "data/games/1972-hatsuyuki-sakura.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hatsuyuki_Sakura",
+    "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%A4%E3%82%86%E3%81%8D%E3%81%95%E3%81%8F%E3%82%89",
+    "https://store.steampowered.com/app/3171460/Hatsuyuki_Sakura/",
+    "https://www.gematsu.com/2019/09/romance-visual-novel-hatsuyuki-sakura-coming-to-ps4-on-december-19-in-japan",
+    "https://noisypixel.net/hatsuyuki-sakura-coming-west-next-week/"
+  ]
+}

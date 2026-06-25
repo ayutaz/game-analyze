@@ -1,0 +1,34 @@
+{
+  "id": 1834,
+  "title_jp": "メモリーズオフ",
+  "title_en": "Memories Off",
+  "developer": "KID",
+  "publisher": "KID / MAGES.",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "PC",
+    "Dreamcast",
+    "PS2",
+    "PSP",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "KID 黄金期の恋愛 AVG として 6 ヒロイン × マルチエンディング構成が話題化。シリーズ累計 9 作 + 派生作で長期 IP 化し、2021 年に MAGES./Spike Chunsoft から PS4/Switch 向け『Memories Off Historia』としてリマスター集約された。",
+  "slug": "memories-off",
+  "file": "data/games/1834-memories-off.json",
+  "concept": "「忘れたい記憶」「忘れられない記憶」をモチーフに、亡くなった恋人の喪失感を抱える主人公と 6 人のヒロインを巡る恋愛 AVG。Kanon / To Heart 系の泣きゲー〜恋愛 AVG ブームを家庭用に持ち込んだ KID の代表シリーズ第 1 作。",
+  "target": "10 代後半〜30 代の男性プレイヤー、特に泣きゲー／ビジュアルノベル文化を支えた層。Kanon・To Heart・ONE といった同時代 PC エロゲ発の恋愛 AVG をコンシューマで遊びたい層と親和性が高い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Memories_Off_(video_game)",
+    "https://en.wikipedia.org/wiki/Memories_Off",
+    "https://ja.wikipedia.org/wiki/Memories_Off%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://store.steampowered.com/app/675610/Memories_Off/"
+  ]
+}

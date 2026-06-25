@@ -1,0 +1,28 @@
+{
+  "id": 1919,
+  "title_jp": "花散らし",
+  "title_en": "Hanachirasu",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus / JAST USA",
+  "year": 2005,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/剣劇/オルタナティブヒストリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "奈良原一鉄脚本によるニトロプラス初期の剣戟ビジュアルノベルとして、銃が禁じられた架空の日本を舞台にした暗黒譚と過剰な剣戟描写で熱狂的なカルト人気を獲得。2015年に JAST USA から英語版がリリースされ、海外 VN コミュニティでも語り継がれている。",
+  "concept": "核兵器が存在せず銃が禁じられたディストピア東京で、二人の剣士が互いを殺すために交差するハードボイルドな剣戟ノベル。アクション小説のリズムで一気読みさせる、ニトロプラス的暴力美学の到達点。",
+  "target": "ニトロプラス／奈良原一鉄／虚淵玄系の硬派なアダルト VN を好む 20-40 代男性、剣戟・チャンバラ・架空戦記もの愛好家、暗く濃密なテキストを求めるコアな VN ファン層。",
+  "slug": "hanachirasu",
+  "file": "data/games/1919-hanachirasu.json",
+  "_source_urls": [
+    "https://manga.fandom.com/wiki/Hanachirasu",
+    "https://www.siliconera.com/jast-usa-will-release-visual-novel-hanachirasu-on-march-10th/",
+    "https://www.pcgamingwiki.com/wiki/Hanachirasu",
+    "http://hanachirasu.com/"
+  ]
+}

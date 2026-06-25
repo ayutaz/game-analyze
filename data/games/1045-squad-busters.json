@@ -1,0 +1,32 @@
+{
+  "id": 1045,
+  "title_jp": "スクワッド・バスターズ",
+  "title_en": "Squad Busters",
+  "developer": "Supercell",
+  "publisher": "Supercell",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "分隊構築マルチプレイアクション",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Supercell 5年ぶりの新作として2024年5月29日に世界同時リリース。クラクラ・クラロワ・ブロスタ・ヘイデイなど Supercell 既存 IP のキャラが集結する「オールスター」設計が話題を呼び、グローバル配信 18 日で 4,400 万 DL 超、初月収益 3,400 万ドル、初週で世界 DL ランキング 1 位に到達した。",
+  "slug": "squad-busters",
+  "file": "data/games/1045-squad-busters.json",
+  "concept": "Supercell の人気タイトル（クラクラ／ブロスタ／クラロワ／ヘイデイ等）のキャラを 1 つのスクワッドに編成し、4 分間でエメラルドを奪い合う最大 10 人のマルチ対戦アクション。1 試合中にユニットを集めて分隊を強化し、最後まで生き残った者が勝つ「カジュアル × ローグライク × バトロワ」のクロスオーバー作品。",
+  "target": "クラロワ／ブロスタ等 Supercell タイトル経験者、4 分でサクッと遊べるモバイル対戦を好むカジュアル層、IP オールスター演出に惹かれる 10-30 代モバイルユーザー。",
+  "_source_urls": [
+    "https://squadbusters.supercell.com/jp/",
+    "https://gamebiz.jp/news/386876",
+    "https://gameworldobserver.com/2024/06/19/squad-busters-revenue-28-million-paid-ads-supercell",
+    "https://www.pocketgamer.biz/squad-busters-surpasses-50-million-but-does-it-live-up-to-supercells-greats/",
+    "https://appliconcierge.com/squad_busters_release/"
+  ]
+}

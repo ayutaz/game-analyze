@@ -1,0 +1,36 @@
+{
+  "id": 1125,
+  "title_jp": "Clash of Kings",
+  "title_en": "Clash of Kings",
+  "developer": "Elex Tech",
+  "publisher": "Elex Tech",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMOストラテジー/城育成シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "$1B+ / 100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中国 Elex Tech 製の SLG として 16 ヶ月で 1 億 DL を突破、世界 50 カ国以上で課金ランキング上位入り。日本でも窪塚洋介を起用した TV CM 等で認知拡大した。",
+  "concept": "資源収集と城・兵士強化で領土を拡げる「育成 + リアルタイム戦略」MMO。同盟（ギルド）で連携しながら他プレイヤーの王国と領土を奪い合う対人ワールドが中核。",
+  "target": "20-40 代男性中心のミッドコア SLG 層。長期スパンで同盟運営・対人戦に没頭し、課金で兵力差を縮められるプレイスタイルを好むユーザー。",
+  "slug": "clash-of-kings",
+  "file": "data/games/1125-clash-of-kings.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Clash_of_Kings",
+    "https://www.prnewswire.com/news-releases/clash-of-kings-sees-100-million-downloads-in-16-months-300197050.html",
+    "https://www.pocketgamer.biz/the-mobile-games-that-have-made-more-than-1-billion-in-lifetime-sales-update/",
+    "https://gamebiz.jp/news/156306",
+    "https://www.4gamer.net/games/314/G031439/",
+    "https://app.famitsu.com/20160520_722885/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

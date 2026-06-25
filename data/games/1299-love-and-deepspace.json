@@ -1,0 +1,33 @@
+{
+  "id": 1299,
+  "title_jp": "Love and Deepspace（恋与深空）",
+  "title_en": "Love and Deepspace",
+  "developer": "Papergames",
+  "publisher": "Papergames / Infold Games",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "3D 乙女恋愛シミュレーション/ガチャ RPG",
+  "sales_jp": "—",
+  "sales_world": "1B+ revenue",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "2024年1月配信開始から1年で約4.1億ドル、2年目は約5.2億ドル（前年比+27%）と急成長し、累計収益は約9.3億ドルで10億ドル間近。中国60%/米国13%/日本9%の地域構成で、日本では2024年配信から半年で約2,100万ドルを稼ぎ乙女ジャンルのトップに躍り出た。",
+  "concept": "「3Dで触れ合える」をコアにした次世代の乙女ゲーム。フル3Dモデルの男性キャラクターと顔を寄せ合うインティメイトな演出、フォトモード、本格的なアクションバトル（ガチャで強化）を組み合わせ、ストーリー消費型乙女ゲームを「物語＋ガチャ＋アクション」のハイブリッドに進化させた。",
+  "target": "20-30代女性中心の乙女ゲーマー層。既存の2D乙女ゲーム（あんスタ／ヒプマイ／刀剣乱舞等）に飽きた層と、ホヨバ系（原神／スターレイル）の3Dクオリティを乙女文脈で味わいたい層に強く刺さっている。",
+  "slug": "love-and-deepspace",
+  "file": "data/games/1299-love-and-deepspace.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Love_and_Deepspace",
+    "https://games.gg/news/love-and-deepspace-nears-1-billion-in-revenue/",
+    "https://www.pocketgamer.biz/anime-style-dating-sim-love-and-deepspace-surpasses-750m/",
+    "https://www.famitsu.com/article/202412/27078",
+    "https://automaton-media.com/articles/newsjp/loveanddeepspace-20240902-308807/",
+    "https://sensortower.com/ja/blog/story-interactive-games-jp"
+  ]
+}

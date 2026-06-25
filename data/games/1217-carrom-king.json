@@ -1,0 +1,30 @@
+{
+  "id": 1217,
+  "title_jp": "キャロム・キング",
+  "title_en": "Carrom King",
+  "developer": "Gametion Technologies",
+  "publisher": "Gametion (India)",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ボードゲーム/カジュアル対戦",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Ludo King を世界的ヒットさせたインド・Gametion の続編タイトルで、累計 5,000 万 DL 超。インド・南アジアのキャロム文化をデジタル化し、家族・友人と気軽に遊べる定番カジュアル対戦として浸透。",
+  "concept": "伝統的なインドのキャロム・ボードをモバイルで再現したオンライン対戦カジュアル。Power Up やストライカー・パックのカスタマイズ、Freestyle / Black & White の 2 モードを搭載し、短時間で 1 試合が終わる手軽さが売り。",
+  "target": "インド・南アジアを中心とした全年齢の家族・友人プレイ層、空き時間に気軽に対戦したい非ゲーマー寄りのモバイルライト層。",
+  "slug": "carrom-king",
+  "file": "data/games/1217-carrom-king.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/carrom-king/id1227693816",
+    "https://play.google.com/store/apps/details?id=com.git.carromking&hl=en_US",
+    "https://www.cashgamereviews.com/carrom-king/",
+    "https://www.gameloop.com/game/board/carrom-king-on-pc"
+  ]
+}

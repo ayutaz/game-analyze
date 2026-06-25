@@ -1,0 +1,28 @@
+{
+  "id": 1930,
+  "title_jp": "euphoria",
+  "title_en": "euphoria",
+  "developer": "Clock Up",
+  "publisher": "Clock Up / MangaGamer",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトADV/鬼畜系ノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "鬼畜系アダルトVNの代表格としてカルト的支持。2014年HDリマスター、2015年にMangaGamerが英語ローカライズしSteam外PC市場で海外にも広まり、OVA全6話アニメ化もされた。",
+  "concept": "純白の密室に閉じ込められた主人公とヒロイン6名による「アンロックゲーム」を題材にした禁忌系ハードコアADV。選択肢で分岐する重く挑発的なシナリオで物語消費を主軸に据える。",
+  "target": "国内アダルトVNのダーク／鬼畜系を好む成人男性層、Clock Up ブランドや過激系シナリオを追うコアVNファン。",
+  "slug": "euphoria",
+  "file": "data/games/1930-euphoria.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Euphoria_(visual_novel)",
+    "https://ja.wikipedia.org/wiki/Euphoria_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "http://entacom.org/clockup/product/euphoria/index.html",
+    "https://en.clockup.wiki/wiki/Euphoria_(Visual_Novel)"
+  ]
+}

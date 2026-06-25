@@ -1,0 +1,36 @@
+{
+  "id": 1071,
+  "title_jp": "ピクセルガン3D",
+  "title_en": "Pixel Gun 3D",
+  "developer": "Cubic Games",
+  "publisher": "Cubic Games",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "ボクセル風マルチプレイ FPS",
+  "sales_jp": "—",
+  "sales_world": "185M+ DL / $200M+ 収益",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Minecraft 風ボクセルキャラクターで遊べる FPS としてキッズ・ティーン層に爆発的に広がり、2023 年時点で累計 1.85 億 DL・収益 2 億ドル超を記録。2024 年には Steam 版 (Pixel Gun 3D: PC Edition) も登場し、世界 No.3 モバイルシューターとして長期運営中。",
+  "concept": "ブロック調のアバターを自作してチームデスマッチ・バトロワ・ストーリーモードを遊べるカジュアル FPS。Minecraft ライクな見た目に多彩な武器とスキンを掛け合わせ、低スペック端末でも遊べるモバイル向け対戦体験を提供する。",
+  "target": "海外を中心とした 8-18 歳のキッズ・ティーン層、Minecraft 文化圏のライトシューター好き、低スペックスマホで手軽に対戦したいプレイヤー。",
+  "slug": "pixel-gun-3d",
+  "file": "data/games/1071-pixel-gun-3d.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pixel_Gun_3D",
+    "https://venturebeat.com/games/cubic-games-pixel-gun-3d-surpasses-185m-mobile-downloads/",
+    "https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/?l=japanese",
+    "https://play.google.com/store/apps/details?id=com.pixel.gun3d&hl=en_US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

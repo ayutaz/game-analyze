@@ -1,0 +1,32 @@
+{
+  "id": 1855,
+  "title_jp": "Summer Pockets REFLECTION BLUE",
+  "title_en": "Summer Pockets Reflection Blue",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "Switch",
+    "PS4",
+    "iOS",
+    "Android"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "300K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 完全新作『Summer Pockets』の追加ヒロイン・新シナリオ拡張版として PC で 2020 年に発売、Switch (2021)・PS4 (2022) と移植され、2025 年に Steam で英語版が世界配信され泣きゲー復権の象徴として注目された。",
+  "concept": "離島・鳥白島の夏休みを舞台に、不思議な少女たちとの出会いと別れを描く Key 流の「泣ける」恋愛 AVG。無印に新ヒロイン 3 名と新ルートを加えた完全版で、Key 黄金期の文脈を 2020 年代に接続する位置づけ。",
+  "target": "Kanon / AIR / CLANNAD / リトバス世代の Key ファン、泣きゲー・美少女ビジュアルノベル愛好層、Switch / PS4 でしっとり読み物を楽しみたい 20-40 代。",
+  "slug": "summer-pockets-reflection-blue",
+  "file": "data/games/1855-summer-pockets-reflection-blue.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Summer_Pockets",
+    "https://www.gematsu.com/games/summer-pockets-reflection-blue",
+    "https://www.animenewsnetwork.com/news/2025-06-16/summer-pockets-reflection-blue-game-gets-steam-release-in-english-on-june-27/.225648",
+    "https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/"
+  ]
+}

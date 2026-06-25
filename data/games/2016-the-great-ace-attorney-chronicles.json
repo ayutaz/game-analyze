@@ -1,0 +1,35 @@
+{
+  "id": 2016,
+  "title_jp": "大逆転裁判1&2 -成歩堂龍ノ介の冒險と覺悟-",
+  "title_en": "The Great Ace Attorney Chronicles",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PC",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "法廷バトル/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "3DS で発売された明治期日本×ヴィクトリア朝ロンドンを舞台にした名作 2 本を海外初リリース込みで現行機（Switch/PS4/PC）にまとめ、Capcom プラチナタイトル入りの 100 万本超を達成。シャーロック・ホームズとの共同捜査が海外ミステリファンにも刺さった。",
+  "concept": "「逆転裁判」シリーズの前日譚として、留学生・成歩堂龍ノ介が大英帝国の法廷で陪審員制度と戦う 2 部作を 1 パッケージに収録。50 時間超の長編シナリオを完成形で味わわせる「物語を読ませる」リマスター集。",
+  "target": "逆転裁判シリーズの既存ファン、骨太な明治・ヴィクトリア朝ミステリを腰を据えて読みたい 20-40 代、シャーロック・ホームズや法廷ものが好きなアドベンチャー読者層。",
+  "slug": "the-great-ace-attorney-chronicles",
+  "file": "data/games/2016-the-great-ace-attorney-chronicles.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Great_Ace_Attorney_Chronicles",
+    "https://automaton-media.com/en/news/capcoms-the-great-ace-attorney-chronicles-tops-1-million-global-sales/",
+    "https://www.gematsu.com/2022/04/the-great-ace-attorney-chronicles-sales-top-500000",
+    "https://www.famitsu.com/news/202108/01228657.html",
+    "https://www.ace-attorney.com/great1-2/us/"
+  ]
+}

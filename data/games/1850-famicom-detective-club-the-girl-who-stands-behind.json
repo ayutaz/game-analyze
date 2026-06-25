@@ -1,0 +1,28 @@
+{
+  "id": 1850,
+  "title_jp": "ファミコン探偵倶楽部 うしろに立つ少女",
+  "title_en": "Famicom Detective Club: The Girl Who Stands Behind",
+  "developer": "MAGES.",
+  "publisher": "Nintendo",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "ビジュアルノベル/ミステリーアドベンチャー",
+  "sales_jp": "100K+",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1989年ディスクシステム版から約30年ぶりの完全リメイクとして話題化。志倉千代丸が「5万本の倍以上売れてる」と公言し、ノベル系としては異例のヒットに。",
+  "concept": "1989年の名作ホラーミステリーADVを、フルボイス・新規グラフィック・新規音楽でリメイクした正統派ビジュアルノベル。学校を舞台に少女失踪事件と都市伝説「うしろに立つ少女」の謎を解く。",
+  "target": "30-50代のレトロゲームファン、任天堂史を辿りたい層、ホラー寄りの和製ミステリーADV愛好家、Switch で腰を据えて読み物を楽しみたい層。",
+  "slug": "famicom-detective-club-the-girl-who-stands-behind",
+  "file": "data/games/1850-famicom-detective-club-the-girl-who-stands-behind.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Famicom_Detective_Club",
+    "https://www.nintendo.com/jp/switch/aw3ca/index.html",
+    "https://www.famitsu.com/news/202102/18214592.html",
+    "https://n-switch.com/chat/famicom-tantei-club-remake-over-100000-shikura-chiyomaru/"
+  ]
+}

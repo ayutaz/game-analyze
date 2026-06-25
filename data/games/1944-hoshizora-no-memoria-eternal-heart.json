@@ -1,0 +1,31 @@
+{
+  "id": 1944,
+  "title_jp": "星空のメモリア -Eternal Heart-",
+  "title_en": "Hoshizora no Memoria -Eternal Heart-",
+  "developer": "FAVORITE",
+  "publisher": "FAVORITE",
+  "year": 2010,
+  "platform": [
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー（ファンディスク）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "萌えゲーアワード2010 ファンディスク部門金賞を受賞。本編「星空のメモリア -Wish upon a shooting star-」のメア・夢ルートのアフターストーリーを本編級ボリュームで描き、ファン待望の続編として高評価。",
+  "concept": "FAVORITE の天文部恋愛 AVG「星空のメモリア」のファンディスク。メアと夢の後日譚 2 本を中心に、他 5 ヒロインの短編サイドストーリーを収録し、本編世界を補完する。",
+  "target": "美少女ゲーム／ビジュアルノベルのファン、特に本編「星空のメモリア」をプレイ済みでヒロインたちの後日譚を読みたい層。",
+  "slug": "hoshizora-no-memoria-eternal-heart",
+  "file": "data/games/1944-hoshizora-no-memoria-eternal-heart.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hoshizora_no_Memoria",
+    "https://www.favo-soft.jp/soft/product/EternalHeart/index.htm",
+    "https://store.steampowered.com/app/2138000/Hoshizora_no_Memoria_Eternal_Heart_HD/",
+    "https://www.igdb.com/games/hoshizora-no-memoria-eternal-heart"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

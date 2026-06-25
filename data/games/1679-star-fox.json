@@ -1,0 +1,27 @@
+{
+  "id": 1679,
+  "title_jp": "スターフォックス",
+  "title_en": "Star Fox",
+  "developer": "Nintendo EAD / Argonaut Software",
+  "publisher": "Nintendo",
+  "year": 1993,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "3Dシューティング/レールシューター",
+  "sales_jp": "—",
+  "sales_world": "4M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "スーパーFXチップ搭載によりSNESで世界初級のリアルタイムポリゴン3Dを実現し、ゲーム機の3D表現の地平を切り拓いた歴史的タイトル。アーウィン編隊と「Do a barrel roll!」のミームでも語り継がれる。",
+  "concept": "コーネリア星系を舞台に、フォックス・マクラウド率いるスターフォックス傭兵団がアーウィンに乗り、独裁者アンドルフ軍と戦うレール式3Dシューター。ポリゴンによる前方視点の高速ドッグファイトを家庭用機で初めて成立させた。",
+  "target": "SFアクション・空戦シューターが好きな10-30代男性プレイヤー、当時最先端の3D表現に憧れたSNESユーザー、Nintendoの硬派アクションを求めるコアゲーマー層。",
+  "slug": "star-fox",
+  "file": "data/games/1679-star-fox.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Fox_(1993_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.nintendo.co.jp/n02/shvc/fo/index.html"
+  ]
+}

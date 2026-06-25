@@ -1,0 +1,30 @@
+{
+  "id": 1516,
+  "title_jp": "シャドウハーツII",
+  "title_en": "Shadow Hearts: Covenant",
+  "developer": "Nautilus",
+  "publisher": "Midway / Aruze",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG（ダークファンタジー／ジャッジメントリング戦闘）",
+  "sales_jp": "120K-150K",
+  "sales_world": "400K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "前作のバッドエンド後を描く正統続編。20世紀初頭欧州を舞台にした重厚なダークファンタジーと、ギャグ・パロディ・名キャラ（カレン、ヨアキム、ジョアシュ、はにわのゲペット爺）を両立させ、PS2 期 JRPG の隠れた名作として根強いカルト人気を維持。発売20周年でも特集記事が組まれる。",
+  "slug": "shadow-hearts-covenant",
+  "file": "data/games/1516-shadow-hearts-covenant.json",
+  "concept": "前作のバッドエンディングを正史として引き継ぎ、第一次世界大戦下のヨーロッパを舞台に「融合者」ウルのリベンジ譚を描くダークファンタジー RPG。リアルタイム入力の「ジャッジメントリング」戦闘と、シリアスな主軸プロットに闖入するギャグ／パロディの落差が独自の作風を形成する。",
+  "target": "PS2 期の JRPG を物語重視で遊んだ 20-40 代。ペルソナや女神転生のような暗めの世界観と、軽妙なキャラ掛け合いを両立した RPG を求める層。前作 Shadow Hearts プレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadow_Hearts:_Covenant",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%8F%E3%83%BC%E3%83%84II",
+    "https://www.famitsu.com/news/202402/19334571.html",
+    "https://ascii.jp/elem/000/000/338/338727/"
+  ]
+}

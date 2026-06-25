@@ -1,0 +1,33 @@
+{
+  "id": 1416,
+  "title_jp": "サガ フロンティア2",
+  "title_en": "SaGa Frontier 2",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "RPG",
+  "sales_jp": "0.67M-0.72M",
+  "sales_world": "0.9M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1999年発売、PS1屈指の水彩画調グラフィックと小林智美のアート、伊藤賢治のサウンドで根強いカルト人気。2025年3月のHDリマスター版発売で再評価。",
+  "concept": "二人の主人公（ギュスターヴとウィル）の時代を跨いだ年代記を、シーン単位で選択して紡ぐサガ独自の自由型RPG。武器・術が使用回数で成長する独自バトルと連携が体験の核。",
+  "target": "サガシリーズや90年代後半のスクウェアRPGに親しんだ30-50代コア層、骨太な戦闘システムと群像劇の物語を両立して楽しみたいRPGファン。",
+  "slug": "saga-frontier-2",
+  "file": "data/games/1416-saga-frontier-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/SaGa_Frontier_2",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AC_%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A22",
+    "https://www.4gamer.net/games/894/G089451/20250327063/",
+    "https://gamebiz.jp/news/403150"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

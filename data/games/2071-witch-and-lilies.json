@@ -1,0 +1,32 @@
+{
+  "id": 2071,
+  "title_jp": "ウィッチ・アンド・リリィズ",
+  "title_en": "Witch and Lilies",
+  "developer": "Stromatosoft / Tasto Alpha",
+  "publisher": "Stromatosoft",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "百合ダンジョンRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2022年のクラウドファンディングで目標の2100%超を達成。コープスパーティーの祁答院慎シナリオ＋tri-Ace出身の山岸功典企画で2024年5月Steam早期アクセス開始時に4Gamer・ファミ通・電ファミなど主要媒体が一斉報道し話題化。",
+  "concept": "女の子5人パーティで挑むウィザードリィ系3Dダンジョンクロウルに百合恋愛シミュを融合した一作。キャラ同士がカップルになると連携技や能力強化が解放され、逆に他キャラを口説くと嫉妬・破局が発生する「関係性駆動」の戦闘・育成設計が核。",
+  "target": "百合・ガールズラブ作品と古典ダンジョンRPG（ウィザードリィ／世界樹／剣の街の異邦人系）の双方を好むコア寄りゲーマー層。コープスパーティーや同人発キャラゲーのファン、Steamで尖った日本産インディーJRPGを掘る層。",
+  "slug": "witch-and-lilies",
+  "file": "data/games/2071-witch-and-lilies.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2525810/Witch_and_Lilies/",
+    "https://www.4gamer.net/games/657/G065742/20240524001/",
+    "https://www.famitsu.com/article/202405/5980",
+    "https://news.denfaminicogamer.jp/news/240524e",
+    "https://www.witchandlilies.com/",
+    "https://automaton-media.com/en/news/yuri-dungeon-rpg-witch-and-lilies-coming-to-steam-in-early-access-on-may-24/"
+  ]
+}

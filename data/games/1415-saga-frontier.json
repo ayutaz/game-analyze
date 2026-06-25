@@ -1,0 +1,34 @@
+{
+  "id": 1415,
+  "title_jp": "サガ フロンティア",
+  "title_en": "SaGa Frontier",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1997,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "フリーシナリオRPG",
+  "sales_jp": "1.05M",
+  "sales_world": "1.1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS初のサガ作品にして主人公7人のフリーシナリオ構造が話題。1997年日本国内売上5位、PS世代の代表的JRPGとして長く語り継がれ、2021年リマスターで再評価された。",
+  "concept": "7人（リマスターでは8人）の主人公から選んだストーリーを並行的に進められるフリーシナリオRPG。閃き・連携・術の習得など独自の成長システムと、リージョン分割された世界観で「自分の物語を組み立てる」体験を提供する。",
+  "target": "JRPGファンのうち一本道シナリオに飽きた層、PS世代を遊んだ30-50代、そしてサガシリーズ独特の不親切さと自由度を楽しむコア層。",
+  "slug": "saga-frontier",
+  "file": "data/games/1415-saga-frontier.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/SaGa_Frontier",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AC_%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2",
+    "https://www.jp.square-enix.com/saga_frontier/",
+    "https://gamestalk.net/post-164205/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

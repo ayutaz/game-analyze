@@ -1,0 +1,30 @@
+{
+  "id": 1833,
+  "title_jp": "12RIVEN -the Ψcliminal of integral-",
+  "title_en": "12Riven: The Psi-Climinal of Integral",
+  "developer": "KID / CyberFront / SDR Project",
+  "publisher": "CyberFront",
+  "year": 2008,
+  "platform": [
+    "PS2",
+    "PSP",
+    "PC"
+  ],
+  "genre": "サウンドノベル/サスペンスADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Infinity シリーズ（Never 7 / Ever 17 / Remember 11）の系譜を継ぐ「Integral」シリーズ第一作として注目され、発売週は国内週販 13 位・PS2 部門 3 位に到達。KID 倒産後に CyberFront が引き継いだ経緯も話題となった。",
+  "concept": "超能力組織 Psi-Climinal と「第二次日蝕計画」を巡る群像サスペンス ADV。12 人の人物視点を切り替えて時系列を再構築するシステムが Ever 17 等の Infinity 系統を継承しつつ独自進化を試みた一作。",
+  "target": "Ever 17 / Remember 11 を遊んだ Infinity シリーズファン、KID 系列のサウンドノベル / SF ミステリ ADV を好む 20-40 代のコアノベルゲーマー層。",
+  "slug": "12riven-the-psi-climinal-of-integral",
+  "file": "data/games/1833-12riven-the-psi-climinal-of-integral.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/12Riven:_The_Psi-Climinal_of_Integral",
+    "https://www.mobygames.com/game/82477/12riven-the-%CF%88climinal-of-integral/",
+    "https://gamefaqs.gamespot.com/ps2/938195-12riven-the-psi-climinal-of-integral",
+    "https://memories-off.fandom.com/wiki/12Riven:_The_Psi-Climinal_of_Integral"
+  ]
+}

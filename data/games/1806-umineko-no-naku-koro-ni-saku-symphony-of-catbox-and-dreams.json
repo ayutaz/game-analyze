@@ -1,0 +1,30 @@
+{
+  "id": 1806,
+  "title_jp": "うみねこのなく頃に咲 〜猫箱と夢想の交響曲〜",
+  "title_en": "Umineko no Naku Koro ni Saku - Symphony of Catbox and Dreams",
+  "developer": "07th Expansion",
+  "publisher": "Entergram",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PS4"
+  ],
+  "genre": "連続殺人幻想ノベル/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "07th Expansion『うみねこのなく頃に』エピソード1〜8に「翼」「羽」「咲」を加えた家庭用機オールインワン版として2021年1月28日発売。新規スプライト・CG・OP・ボイスを追加し、特典として格闘ゲーム『黄金夢想曲†CROSS』DLコードを同梱した点が長年のファンの間で話題化した。",
+  "concept": "竜騎士07による幻想ミステリ・ノベル『うみねこのなく頃に』の完全版リマスター。台風で孤立した六軒島の連続殺人と魔女の幻想を、解と推理のレイヤーで読み解かせる「読むことそのものが推理ゲーム」となるサウンドノベル。",
+  "target": "原作PC版／PS3版のファンに加え、長大な物語をじっくり読み解きたいビジュアルノベル愛好層・ミステリ読者層。家庭用機でうみねこ全編に触れたい新規層も含む。",
+  "slug": "umineko-no-naku-koro-ni-saku-symphony-of-catbox-and-dreams",
+  "file": "data/games/1806-umineko-no-naku-koro-ni-saku-symphony-of-catbox-and-dreams.json",
+  "_source_urls": [
+    "https://wiki.whentheycry.org/wiki/Umineko_no_Naku_Koro_ni_Saku_~Symphony_of_Catbox_and_Dreams~",
+    "https://07th-expansion.fandom.com/wiki/Symphony_of_Catbox_and_Dreams",
+    "https://www.entergram.co.jp/umineko/special_best.html",
+    "https://www.4gamer.net/games/486/G048638/",
+    "https://www.dualshockers.com/umineko-ps4-switch-explained/"
+  ]
+}

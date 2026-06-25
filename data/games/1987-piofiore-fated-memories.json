@@ -1,0 +1,31 @@
+{
+  "id": 1987,
+  "title_jp": "ピオフィオーレの晩鐘",
+  "title_en": "Piofiore: Fated Memories",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2018,
+  "platform": [
+    "PS Vita",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1920年代イタリア風の架空都市ブルローネを舞台にした三大マフィア抗争×ヒロイン争奪の重厚オトメ。陰惨かつ官能的な世界観と R-15 寄りの濡れ場演出で「ダーク系オトメ」の代表格としてオトメイトファンから熱烈支持され、Switch 移植・続編 Episodio 1926・スマホ版と長期 IP 化した。",
+  "concept": "1920 年代の地中海架空都市を舞台に、教会で育った主人公が三大マフィア（ファルツォーネ／老鼠・ラオシュー／ヴィスコンティ）の抗争に巻き込まれていく重厚マフィアロマンス。暴力と支配欲が前提のダークな男性キャラ群と、それでも惹かれていく禁断恋愛が売り。",
+  "target": "20-30 代女性のオトメゲーマーで、王道学園ものではなくシリアス・ダーク・官能寄りの重い物語を求める層。ヤンデレ／支配欲／マフィアといった「危険な男」属性が好物のヘビーユーザー。",
+  "slug": "piofiore-fated-memories",
+  "file": "data/games/1987-piofiore-fated-memories.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Piofiore:_Fated_Memories",
+    "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AA%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E3%81%AE%E6%99%A9%E9%90%98",
+    "https://www.otomate.jp/piofiore/",
+    "https://www.siliconera.com/piofiore-fated-memories-switch-otome-game-release-set-for-fall-2020/"
+  ]
+}

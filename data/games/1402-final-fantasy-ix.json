@@ -1,0 +1,41 @@
+{
+  "id": 1402,
+  "title_jp": "ファイナルファンタジーIX",
+  "title_en": "Final Fantasy IX",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG（ターン制コマンドバトル）",
+  "sales_jp": "2.8M",
+  "sales_world": "8.9M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "PS1時代のFFを締めくくる「原点回帰」作。中世ファンタジー世界とジタン／ビビ／ガーネットらキャラクター造形の評価が高く、2016年以降のリマスター展開で全世界累計890万本超に到達した。",
+  "concept": "クリスタル・飛空艇・召喚獣といったシリーズの原典的モチーフへ立ち返り、王道ファンタジーの群像劇として描かれるRPG。「自分は何のために生まれてきたのか」を巡るキャラクターの内面ドラマと、ATEで多視点に分岐するイベント演出が骨格になっている。",
+  "target": "PS1世代のFFファン、王道JRPGの物語と世界観を腰を据えて楽しみたい10-40代。シリーズ未経験でもクラシックなターン制RPGに触れたいプレイヤー層にも入りやすい。",
+  "slug": "final-fantasy-ix",
+  "file": "data/games/1402-final-fantasy-ix.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Final_Fantasy_IX",
+    "https://www.installbaseforum.com/forums/news-publisher/final-fantasy-ix-has-sold-8-9-million-units-worldwide.99/",
+    "https://finalfantasy.fandom.com/wiki/Final_Fantasy_IX",
+    "https://doropiza.com/finalfantasy-uriage-ranking/",
+    "https://www.rpgsite.net/feature/17867-final-fantasy-9-switch-vs-pc-vs-ps5-vs-xbox-vs-mobile-steam-deck-moguri-mod-features-performance-compared"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

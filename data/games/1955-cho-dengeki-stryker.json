@@ -1,0 +1,31 @@
+{
+  "id": 1955,
+  "title_jp": "超 電激ストライカー",
+  "title_en": "Cho Dengeki Stryker",
+  "developer": "OVERDRIVE",
+  "publisher": "OVERDRIVE",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ヒーローADV/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "OVERDRIVE 第8作。前作『電激ストライカー』の追加ディスクとして3ルート・3キャラ・新規アニメ・主題歌差替を投入した強化版で、後にMangaGamer経由で英語版・Steam全年齢版が配信され海外ファンにもリーチした。",
+  "concept": "正義のヒーローに憧れる少年・大和勇気が「記憶収集家」との取引で漫画の主人公『電激ストライカー』そのものに変身し、幼馴染ハルナと街を守るために戦う特撮アニメ風熱血ヒーローADV。",
+  "target": "OVERDRIVE作品（キラ☆キラ、DEARDROPS等）の既存ファン、特撮・ヒーローアニメに思い入れがある成人男性層、海外ではMangaGamer経由の英語圏ノベルゲーマー層。",
+  "slug": "cho-dengeki-stryker",
+  "file": "data/games/1955-cho-dengeki-stryker.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/321190/Cho_Dengeki_Stryker_All_Ages_Version/",
+    "http://project.over-drive.jp/chou_stryker/index.html",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/DengekiStryker",
+    "https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%BF%80%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AB%E3%83%BC"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

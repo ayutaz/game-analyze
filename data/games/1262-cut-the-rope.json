@@ -1,0 +1,36 @@
+{
+  "id": 1262,
+  "title_jp": "Cut the Rope",
+  "title_en": "Cut the Rope",
+  "developer": "ZeptoLab",
+  "publisher": "ZeptoLab",
+  "year": 2010,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac",
+    "Browser",
+    "DS",
+    "3DS"
+  ],
+  "genre": "物理パズル",
+  "sales_jp": "—",
+  "sales_world": "1B+ DL (シリーズ累計、2018年時点)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "ロープを切ってキャンディをオムノムに食べさせる物理パズルで世界的にヒット。2010年代モバイルパズルの代表作として App Store ランキング常連となり、シリーズ累計 10 億 DL を突破。",
+  "concept": "ぶら下がるキャンディのロープを「切る」タイミングと順序を考え、緑のキャラ「オムノム」の口に運ぶ物理ベースのワンタッチ・パズル。短時間プレイで星 3 つを狙うリプレイ性が中核。",
+  "target": "スマホ片手のスキマ時間で楽しめる軽量パズルを求めるカジュアル層から子ども・ファミリー層まで幅広い。年齢・ゲーマー経験を問わず遊べる王道モバイルパズルの入門作。",
+  "slug": "cut-the-rope",
+  "file": "data/games/1262-cut-the-rope.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Cut_the_Rope",
+    "https://en.wikipedia.org/wiki/Cut_the_Rope_(video_game)",
+    "https://www.cuttherope.net/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

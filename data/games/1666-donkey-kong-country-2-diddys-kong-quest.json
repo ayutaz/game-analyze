@@ -1,0 +1,28 @@
+{
+  "id": 1666,
+  "title_jp": "スーパードンキーコング2 ディクシー&ディディー",
+  "title_en": "Donkey Kong Country 2: Diddy's Kong Quest",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "5.15M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作を上回る評価を獲得した SNES 後期屈指のアクション。プリレンダ CG グラフィック、David Wise の名サウンドトラック（Stickerbrush Symphony 等）、ボーナス収集の作り込みで「2D アクションの完成形」として今も語り継がれる。",
+  "slug": "donkey-kong-country-2-diddys-kong-quest",
+  "file": "data/games/1666-donkey-kong-country-2-diddys-kong-quest.json",
+  "concept": "さらわれた DK を救うため、ディディーとディクシーのコンビが海賊クレムリン軍団のテーマパーク的世界を駆け抜ける 2D プラットフォーマー。タッグ切り替え・動物バディ・隠しボーナス・DK コインなど「探索と収集の濃度」を前作から大幅に引き上げた一作。",
+  "target": "SNES 世代のアクション好き、Rare 黄金期の作風を愛するレトロゲーマー、完成度の高い 2D プラットフォーマーを腰を据えて遊びたい層。Switch Online 経由で初プレイする若年層にも届く。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%89%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B02_%E3%83%87%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%BC%26%E3%83%87%E3%82%A3%E3%83%87%E3%82%A3%E3%83%BC"
+  ]
+}

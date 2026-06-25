@@ -1,0 +1,32 @@
+{
+  "id": 1365,
+  "title_jp": "Combat Master Mobile FPS",
+  "title_en": "Combat Master Mobile",
+  "developer": "Alfa Bravo Inc.",
+  "publisher": "Alfa Bravo Inc.",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル FPS / オンラインマルチプレイ シューター",
+  "sales_jp": "—",
+  "sales_world": "12M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Call of Duty: Mobile への対抗馬として「最速ロード・AAA級グラフィック・60fps」を打ち出し、リリース直後から TikTok や YouTube Shorts のキルクリップでバズ。インディー開発ながら全世界 1,200 万 DL を達成した。",
+  "concept": "Alfa Bravo Inc. が開発したモバイル向け超高速 PvP FPS。COD: Mobile / Modern Combat 系の重さに対して「数秒でマッチに入れる軽量設計」と AAA 級のビジュアルを両立させ、TDM・Free for All・ハードポイントなど短時間で完結する競技ループに特化している。",
+  "target": "10〜30 代男性を中心とした COD: Mobile / PUBG Mobile プレイヤー層。サクッと撃ち合いたいライト〜ミッドコアの FPS 愛好家、特に低スペック端末でも快適に動く軽量タイトルを探しているユーザーに刺さる。",
+  "slug": "combat-master-mobile",
+  "file": "data/games/1365-combat-master-mobile.json",
+  "_source_urls": [
+    "https://combat-master.fandom.com/wiki/Combat_Master_Mobile_FPS",
+    "https://play.google.com/store/apps/details?id=com.AlfaBravo.CombatMaster&hl=en",
+    "https://apps.apple.com/jp/app/combat-master-mobile/id1598639131",
+    "https://store.steampowered.com/app/2281730/Combat_Master_Season_5/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

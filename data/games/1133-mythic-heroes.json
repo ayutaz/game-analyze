@@ -1,0 +1,32 @@
+{
+  "id": 1133,
+  "title_jp": "Mythic Heroes",
+  "title_en": "Mythic Heroes",
+  "developer": "IGG",
+  "publisher": "IGG",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドル/放置系RPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "世界各地の神話（ギリシャ・北欧・エジプト・中国等）から英雄を召喚・育成できる「神話オールスター」設定が刺さり、シンガポール系 IGG の放置 RPG として欧米・東南アジアで継続的なインストール・課金を獲得。",
+  "concept": "世界神話の英雄たちをガチャで召喚し、放置でレベル・装備を稼ぎ、編成と相性で攻略する idle RPG。AFK Arena 系の「放置 × 編成パズル × ガチャ」を神話モチーフで再パッケージしたミドルコア向けライブサービス。",
+  "target": "20-40 代の海外モバイルガチャ層、特に AFK Arena / Idle Heroes / Hero Wars など放置 RPG を遊んできた英雄収集・編成好きのプレイヤー層。日本国内では神話ファンタジー好きの一部にリーチ。",
+  "slug": "mythic-heroes",
+  "file": "data/games/1133-mythic-heroes.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.igg.android.mythicheroes&hl=en_US",
+    "https://apps.apple.com/us/app/mythic-heroes-idle-rpg/id1580031550",
+    "https://www.pocketgamer.com/articles/087946/mythic-heroes-idle-rpg-has-soft-launched-in-the-philippines-for-android-devices/",
+    "https://sensortower.com/ios/us/igg-com/app/mythic-heroes-idle-rpg/1580031550/overview",
+    "https://mh.igg.com/creatorspace/?lang=eng"
+  ]
+}

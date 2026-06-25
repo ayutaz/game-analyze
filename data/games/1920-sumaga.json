@@ -1,0 +1,32 @@
+{
+  "id": 1920,
+  "title_jp": "スマガ",
+  "title_en": "Sumaga",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus",
+  "year": 2008,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/人生リベンジアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ニトロプラス下倉バイオ脚本のループ系ADVとして、約52時間に及ぶ重厚な構成と「人生リベンジ」設定がコア VN ファンの間で高評価。後に廉価版・スマガスペシャル・小説化（ガガガ文庫）も展開された。",
+  "concept": "巨大魔物に滅ぼされかけた街・五日市を舞台に、神の少女から「死に戻り」の力を授かった主人公が、繰り返しの死と再起の中で全ヒロイン・世界全体のハッピーエンドを掴むまでを描くループ型 ADV。「STAR MINE GIRL」の略称が示すとおり、断片的なエピソードが最終的に一本の物語へ収束する構造を持つ。",
+  "target": "ニトロプラス作品やループ／時間遡行系ビジュアルノベル（シュタゲ・ひぐらし等）に親和性のある 20-40 代の PC アダルトゲームユーザー。長文テキストと入り組んだ世界観を読み解く体力を持つコアな物語消費層。",
+  "slug": "sumaga",
+  "file": "data/games/1920-sumaga.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%82%AC",
+    "https://nitroplus.ecq.sc/work/sumaga.html",
+    "http://www.sumaga.net/",
+    "https://grokipedia.com/page/Sumaga_visual_novel",
+    "https://gamefaqs.gamespot.com/pc/960887-sumaga/data"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

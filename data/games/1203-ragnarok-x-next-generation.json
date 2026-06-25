@@ -1,0 +1,32 @@
+{
+  "id": 1203,
+  "title_jp": "Ragnarok X: Next Generation",
+  "title_en": "Ragnarok X: Next Generation",
+  "developer": "Gravity / The Dream Network",
+  "publisher": "Nuverse",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "モバイル3D MMORPG",
+  "sales_jp": "—",
+  "sales_world": "20M+ プレイヤー",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Ragnarok Online IPの3Dモバイル版として東南アジア中心にグローバルで2000万人超を集めた長期運営MMORPG。2024年にガンホーが日本サービスを発表、2025年5月にはSteam版を追加リリースし話題を再燃させた。",
+  "concept": "Ragnarok OnlineのIPをモバイル/PC向けに再構築した3D MMORPG。クラシックRO譲りの転職・狩り・採取・露店経済をフェアルート/自由取引/真の冒険を掲げて再現し、F2P長期運営型ゲームとして展開する。",
+  "target": "Ragnarok Online世代のMMORPGファンと、モバイルで腰を据えて育成・装備掘り・市場経済プレイを楽しみたい東南アジア・日本のプレイヤー層。",
+  "slug": "ragnarok-x-next-generation",
+  "file": "data/games/1203-ragnarok-x-next-generation.json",
+  "_source_urls": [
+    "https://www.mmorpg.com/news/ragnarok-x-next-generation-gravitys-reimagined-3d-ragnarok-online-is-now-on-steam-2000137413",
+    "https://www.4gamer.net/games/485/G048536/20240903019/",
+    "https://store.steampowered.com/app/4007140/Ragnarok_X_Next_Generation/",
+    "https://gamebiz.jp/news/391841"
+  ]
+}

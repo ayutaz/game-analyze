@@ -1,0 +1,30 @@
+{
+  "id": 1714,
+  "title_jp": "ファンタシースター 千年紀の終りに",
+  "title_en": "Phantasy Star IV: The End of the Millennium",
+  "developer": "Sega",
+  "publisher": "Sega",
+  "year": 1993,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ターン制RPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ファンタシースター オリジナル四部作の完結編としてシリーズの集大成的評価を獲得。マンガ風カットインによる演出、コンビネーション技「マクロ」など当時としては先進的な戦闘システムが高く評価され、海外含めて「歴代RPG屈指の名作」として語り継がれる。メガドライブミニ収録やSteam版、Switch Online 配信で再評価が続いている。",
+  "concept": "アルゴル太陽系を舞台にしたオリジナル四部作の完結編。ハンターのチャズとアリスらが惑星系を蝕む生態系崩壊の謎を追う、SF色の濃い壮大な物語をターン制バトルとマンガ風カットインで描く長編RPG。",
+  "target": "メガドライブ世代の RPG ファン、シリーズを通して遊んできたコアプレイヤー、レトロRPGの名作を網羅したい層。後年は復刻配信を通じて若いレトロゲーム愛好家にもリーチしている。",
+  "slug": "phantasy-star-iv-the-end-of-the-millennium",
+  "file": "data/games/1714-phantasy-star-iv-the-end-of-the-millennium.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Phantasy_Star_IV",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B7%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC_%E5%8D%83%E5%B9%B4%E7%B4%80%E3%81%AE%E7%B5%82%E3%82%8A%E3%81%AB",
+    "https://www.sega.jp/mdmini/soft/phantasy-star4.html",
+    "https://game.watch.impress.co.jp/docs/feature/1207722.html"
+  ]
+}

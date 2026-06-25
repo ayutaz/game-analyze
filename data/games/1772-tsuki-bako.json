@@ -1,0 +1,34 @@
+{
+  "id": 1772,
+  "title_jp": "月箱 (Tsuki-Bako)",
+  "title_en": "Tsuki-Bako",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2003,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/同人コンピレーション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "TYPE-MOON が同人サークルとして商業化する直前、2003年コミックレボリューション33で頒布した3枚組記念BOX。月姫本編・PLUS+DISC・歌月十夜・MELTY BLOOD体験版・リミックスサントラを同梱し、現在は1万円超のプレミア取引が常態化している伝説的アイテム。",
+  "concept": "TYPE-MOON 同人時代の集大成パッケージ。月姫世界の本編・ファンディスク・続編・派生格闘の体験版までを一気に収録した「月姫宇宙の入口」として、シリーズ総体を一夜で追体験させるコンピレーション。",
+  "target": "月姫および TYPE-MOON 作品を網羅したい既存ファンとコレクター層。00年代同人ノベルの歴史的アーカイブを所有したい層にも刺さる。",
+  "slug": "tsuki-bako",
+  "file": "data/games/1772-tsuki-bako.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%9C%88%E7%AE%B1",
+    "https://en.wikipedia.org/wiki/Tsukihime",
+    "https://typemoon.fandom.com/wiki/Tsukihime",
+    "http://www.typemoon.org/box/",
+    "https://archive.org/details/tsukihime-tsuki-bako"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

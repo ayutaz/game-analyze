@@ -1,0 +1,30 @@
+{
+  "id": 1728,
+  "title_jp": "サンダーフォースIII",
+  "title_en": "Thunder Force III",
+  "developer": "Technosoft",
+  "publisher": "Technosoft / Sega",
+  "year": 1990,
+  "platform": [
+    "Mega Drive",
+    "Arcade"
+  ],
+  "genre": "横スクロールシューティング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "メガドライブを代表する横STG傑作。高速スクロールと多彩な武器、名曲BGMで国内シューターから絶大な支持を受け、後年「メガドライブミニ」収録やセガ3D復刻アーカイブスでも再評価された。",
+  "concept": "オーン帝国との最終決戦を描くシリーズ第3作。地形と弾幕を縫いながら5種類の武器を切り替え、ステージ選択制で攻略順を選べる骨太な横スクロールSTG。1990年12月にはアーケード版『サンダーフォースAC』としても稼働した。",
+  "target": "メガドライブ世代のシューティングファン、レトロSTG愛好家。手応えのある難度・パターン構築・名BGMを求める硬派なプレイヤー層。",
+  "slug": "thunder-force-iii",
+  "file": "data/games/1728-thunder-force-iii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Thunder_Force_III",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9III",
+    "https://www.nintendolife.com/news/2016/09/feature_the_history_of_technosofts_thunder_force_series",
+    "https://www.famitsu.com/news/202006/01198963.html",
+    "http://archives.sega.jp/3d/archives3/tf3/index.shtml"
+  ]
+}

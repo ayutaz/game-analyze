@@ -1,0 +1,31 @@
+{
+  "id": 1912,
+  "title_jp": "つよきす",
+  "title_en": "Tsuyokiss",
+  "developer": "Candy Soft",
+  "publisher": "Candy Soft",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS2"
+  ],
+  "genre": "アドベンチャー/恋愛ADV（ツンデレ系ビジュアルノベル）",
+  "sales_jp": "PS2版 約3万本（2006年/Famitsu・Media Create）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「ツンデレ」という属性語が定着する時期を象徴する作品の一つ。2005年PC NEWS週間1位／Getchu.com年間4位を獲得し、アニメ化・PS2移植・続編『つよきす2学期』へと展開した。",
+  "concept": "強気＝ツンデレヒロイン5人と高校生活を送る恋愛アドベンチャー。Candy Soft（InterHeart）の代表作として、勝ち気な少女との会話劇とテキストの軽快さで成人向けADV市場に定着した。",
+  "target": "2000年代中盤の美少女ゲームファン、特に「ツンデレ」属性に親和性の高い男性ユーザー層。PS2版は全年齢移植で恋愛ADV入門層も取り込んだ。",
+  "slug": "tsuyokiss",
+  "file": "data/games/1912-tsuyokiss.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%A4%E3%82%88%E3%81%8D%E3%81%99",
+    "https://en.wikipedia.org/wiki/Tsuyokiss",
+    "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%82%83%E3%82%93%E3%81%A7%E3%83%83%E3%81%9D%E3%81%B5%E3%81%A8"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

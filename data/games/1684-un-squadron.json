@@ -1,0 +1,29 @@
+{
+  "id": 1684,
+  "title_jp": "エリア88",
+  "title_en": "U.N. Squadron",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1991,
+  "platform": [
+    "SNES",
+    "Arcade"
+  ],
+  "genre": "横スクロールシューティング",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "新谷かおるの漫画『エリア88』を原作にしたカプコンの横スクロールSTGとして1989年にアーケードで稼働、第3回ゲーメスト大賞7位。1991年のスーパーファミコン版（北米/欧州ではU.N. Squadron）は機体・武器の購入要素を追加し、Entertainment Weeklyが1991年ベストゲーム12位に挙げるなど海外でも評価が高い。",
+  "concept": "原作漫画『エリア88』の傭兵パイロット3人（風間真／ミッキー・サイモン／グレッグ・ゲイツ）から1人を選び、ステージ間で稼いだ報酬で機体と武器を購入しながら進める横スクロールシューティング。シューター初心者にも遊びやすいテンポと、機体カスタマイズによる戦略性を両立させた。",
+  "target": "1980-90年代のアーケード／スーパーファミコン世代の横スクロールSTGファン、新谷かおる原作のミリタリー漫画ファン、カプコンのレトロアーケード作品（1942/1943/ストライダー飛竜と同世代）を懐古する層。",
+  "slug": "un-squadron",
+  "file": "data/games/1684-un-squadron.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/U.N._Squadron",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%A288_(%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "http://www.hardcoregaming101.net/u-n-squadron/",
+    "https://capcom.fandom.com/wiki/U.N._Squadron"
+  ]
+}

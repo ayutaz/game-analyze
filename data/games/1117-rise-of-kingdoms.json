@@ -1,0 +1,33 @@
+{
+  "id": 1117,
+  "title_jp": "Rise of Kingdoms ―万国覚醒―",
+  "title_en": "Rise of Kingdoms",
+  "developer": "Lilith Games",
+  "publisher": "Lilith Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "リアルタイム・ストラテジー/4X SLG",
+  "sales_jp": "—",
+  "sales_world": "$3.5B+ / 100M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ローマ・中国・日本など世界 11 文明から選んで建国できる本格 RTS として日本でも 2019 年 12 月配信開始から 1 か月で DL 上位 3 位・売上 30 位入り。同盟・サーバー間 KvK が長期重課金プレイヤーを生み、累計売上は世界で $3.5B 超に到達。",
+  "slug": "rise-of-kingdoms",
+  "file": "data/games/1117-rise-of-kingdoms.json",
+  "concept": "古代文明をテーマにした「マップ全体がシームレスにつながる」モバイル 4X SLG。源義経・武田信玄・曹操・ジャンヌダルクなど歴史上の英雄を集めて軍を編成し、同盟単位でサーバーを跨ぐ大規模戦争（KvK）を戦う。",
+  "target": "30-50 代の歴史好き・ストラテジー好きの男性が中心。同盟運営や課金競争を長期間（数年単位）楽しめるコアプレイヤー層と、シーズン制 KvK で戦う重課金 R5/R4 層に強い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rise_of_Kingdoms",
+    "https://wnhub.io/news/finance/item-43560",
+    "https://gamebiz.jp/news/257462",
+    "https://apps.apple.com/jp/app/rise-of-kingdoms-%E4%B8%87%E5%9B%BD%E8%A6%9A%E9%86%92/id1483025097",
+    "https://www.4gamer.net/games/486/G048659/"
+  ]
+}

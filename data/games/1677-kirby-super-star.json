@@ -1,0 +1,28 @@
+{
+  "id": 1677,
+  "title_jp": "星のカービィ スーパーデラックス",
+  "title_en": "Kirby Super Star",
+  "developer": "HAL Laboratory",
+  "publisher": "Nintendo",
+  "year": 1996,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2Dアクション（オムニバス形式）",
+  "sales_jp": "1.44M",
+  "sales_world": "2.42M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "「1本で8つの遊び」を謳うオムニバス構成と2人同時プレイ（ヘルパー）、コピー能力の派生技システムが当時のSFC末期に高い評価を獲得。後年も移植・リメイク（DS『ウルトラスーパーデラックス』）が続く看板作。",
+  "slug": "kirby-super-star",
+  "file": "data/games/1677-kirby-super-star.json",
+  "concept": "コピー能力に複数の派生技を実装し、ミニゲーム含む8つのモードをオムニバスで詰め込んだ「カービィの遊び方見本市」。ヘルパー機能で2P協力も可能にした、SFC期カービィの集大成。",
+  "target": "幼少〜中高生を中心とした任天堂アクション層、コピー能力で遊び尽くしたいライト〜ミドルゲーマー、兄弟・親子の協力プレイ需要層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kirby_Super_Star",
+    "https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3_%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%87%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9"
+  ]
+}

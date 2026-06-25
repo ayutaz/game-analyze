@@ -1,0 +1,32 @@
+{
+  "id": 1315,
+  "title_jp": "Episode - Choose Your Story",
+  "title_en": "Episode - Choose Your Story",
+  "developer": "Episode Interactive",
+  "publisher": "Pocket Gems",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "インタラクティブフィクション/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "180M+ DL",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "ユーザー投稿型の恋愛・ドラマ系ストーリーが10代女性中心に世界的バズ。2021年時点で15万本超のストーリー、90億ビュー、1,200万人のクリエイターを擁する巨大UGCプラットフォームに成長。",
+  "concept": "「自分が主人公となって物語の分岐を選ぶ」ことに特化したモバイル向けインタラクティブフィクション/ビジュアルノベル。恋愛・ミステリー・ファンタジー・ドラマなど多様なジャンルのストーリーを読み進めながら選択肢で結末を分岐させ、課金ジェムで「プレミアム選択肢」や衣装を解放する。",
+  "target": "10代〜20代の女性中心、恋愛もの・ドラマものを「読みたい/体験したい」層。Wattpad や少女漫画に親しんできた英語圏ティーン女子がコア。",
+  "slug": "episode-choose-your-story",
+  "file": "data/games/1315-episode-choose-your-story.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Episode_(video_game)",
+    "https://episode.fandom.com/wiki/Episode_-_Choose_Your_Story",
+    "https://www.pocketgems.com/episode/",
+    "https://apps.apple.com/us/app/episode-choose-your-story/id656971078",
+    "https://play.google.com/store/apps/details?id=com.episodeinteractive.android.catalog"
+  ]
+}

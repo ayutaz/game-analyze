@@ -1,0 +1,33 @@
+{
+  "id": 1171,
+  "title_jp": "ナイトクロウズ",
+  "title_en": "Night Crows",
+  "developer": "MADNGINE",
+  "publisher": "Wemade",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG/ブロックチェーン",
+  "sales_jp": "—",
+  "sales_world": "リリース3日で売上1000万ドル(約14.9億円)突破、世界170カ国配信",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Unreal Engine 5 製の本格 MMORPG が170カ国同時ローンチ、サーバー24→54増設するほどの過熱ぶり。リリース3日で売上1000万ドル超を記録し、Web3／NFTでキャラクターを資産化できる点が話題に。",
+  "concept": "13世紀ヨーロッパを舞台にしたUE5製クロスプラットフォームMMORPGで、PCとモバイル間のクロスプレイ、3サーバー同士のRvRvR大規模PvP、ブロックチェーンによるキャラクターNFT化を特徴とする。4クラス×8サブクラス×3段階の派生で深い育成系統を持つ。",
+  "target": "Lineage系/黒い砂漠系の重課金 MMORPG に慣れたコア層、ギルド戦・サーバー間戦を楽しむ PvP プレイヤー、Play-to-Earn／NFTゲーミングに関心のあるユーザー層。",
+  "slug": "night-crows",
+  "file": "data/games/1171-night-crows.json",
+  "_source_urls": [
+    "https://www.globenewswire.com/news-release/2024/03/12/2844592/0/en/Night-Crows-One-of-2024-s-Most-Anticipated-Games-Lands-in-170-Countries-Worldwide.html",
+    "https://prtimes.jp/main/html/rd/p/000000248.000056498.html",
+    "https://gamebiz.jp/news/383279",
+    "https://www.4gamer.net/games/669/G066959/",
+    "https://www.pocketgamer.com/night-crows/launches/"
+  ]
+}

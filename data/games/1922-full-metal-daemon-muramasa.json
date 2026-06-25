@@ -1,0 +1,28 @@
+{
+  "id": 1922,
+  "title_jp": "装甲悪鬼村正",
+  "title_en": "Full Metal Daemon Muramasa",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus / JAST USA",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "伝奇ダークファンタジー・スラッシュADV（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ニトロプラス10周年記念作にして「善悪相殺」を貫く伝奇ダークファンタジーの極北。エロゲー史上最強クラスの名作としてVNコミュニティで語り継がれ、2021年にJAST USAから英語版がGOG等でリリースされて海外でも再評価された。",
+  "concept": "「正義は人を殺す」をテーマに、呪われた劔冑「村正」を纏った主人公・湊斗景明が善行に等しい悪行を強いられる伝奇活劇。和漢混交の文語調テキストと縦書きレイアウトで読ませる、80時間級の重厚なシナリオが核。",
+  "target": "硬派な伝奇・武侠・チャンバラを読みたいビジュアルノベル愛好家層。重厚な文体と暗い倫理ジレンマに耐えられる成人プレイヤー、ニトロプラス／奈須きのこ系の濃い物語を求める層。",
+  "slug": "full-metal-daemon-muramasa",
+  "file": "data/games/1922-full-metal-daemon-muramasa.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E8%A3%85%E7%94%B2%E6%82%AA%E9%AC%BC%E6%9D%91%E6%AD%A3",
+    "https://en.wikipedia.org/wiki/Full_Metal_Daemon:_Muramasa",
+    "https://nitroplus.ecq.sc/work/muramasa.html",
+    "https://www.animenewsnetwork.com/interest/2022-10-13/jast-usa-valve-has-no-plans-to-reverse-full-metal-daemon-muramasa-steam-ban/.190755"
+  ]
+}

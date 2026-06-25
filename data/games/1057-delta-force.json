@@ -1,0 +1,33 @@
+{
+  "id": 1057,
+  "title_jp": "Delta Force Mobile",
+  "title_en": "Delta Force",
+  "developer": "Team Jade (TiMi Studio Group)",
+  "publisher": "Proxima Beta / Level Infinite / Garena",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "タクティカル FPS / ルートシューター（大規模対戦）",
+  "sales_jp": "—",
+  "sales_world": "モバイル累計 $300M+（2025年9月時点 / Sensor Tower）、モバイル配信 4 日で 10M DL 突破",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PC オープンベータ（2024/12）後、2025/4/22 にモバイル版が世界配信、日本ではゴールデンウィーク期間にモバイルゲーム DL 数 1 位を獲得。グローバルでは配信 5 か月で $300M（うち 96% が中国）を突破し、Battlefield／CoD 系の代替として大ヒット。",
+  "concept": "Black Hawk Down 系『Delta Force』IP を Team Jade（CoD: Mobile 開発元）が AAA タクティカル FPS として現代化。20vs20 ウォーフェア＋アイテム持ち帰り型『Operations』ルートシューターのハイブリッドで、PC とモバイルでクロスプログレッションする無料配信モデル。",
+  "target": "CoD・Battlefield・Warzone・Tarkov 系のミリタリー FPS ファン、特に PC とスマホを跨いでプレイしたい 10-30 代男性層と、東アジア中心のフリープレイ・シューター需要層。",
+  "slug": "delta-force",
+  "file": "data/games/1057-delta-force.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Delta_Force_(2025_video_game)",
+    "https://www.famitsu.com/article/202503/36610",
+    "https://www.4gamer.net/games/732/G073260/20250314034/",
+    "https://www.pocketgamer.biz/delta-force-hits-300m-on-mobile-after-record-daily-revenue/",
+    "https://www.playdeltaforce.com/ja/"
+  ]
+}

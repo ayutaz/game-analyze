@@ -1,0 +1,30 @@
+{
+  "id": 1527,
+  "title_jp": "ドラッグ オン ドラグーン",
+  "title_en": "Drakengard",
+  "developer": "Cavia",
+  "publisher": "Square Enix",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "272K",
+  "sales_world": "300K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ヨコオタロウ初期作品として後の NieR シリーズに繋がる狂気的ダークファンタジー。地上ハック&スラッシュと空中ドラゴン戦を組み合わせた異色作で、複数 EndingE がカルト的支持を集める。",
+  "concept": "「壊れた主人公が壊れた世界を壊しながら進む」をテーマにしたダークアクションRPG。ドラゴンと契約した主人公カイムが、地上での群衆斬りと空中ドラゴン戦闘を切り替えながら鬱屈した群像劇を辿る。",
+  "target": "20-40代のヨコオタロウ／NieR ファン、ダーク/鬱ストーリー愛好家、PS2 時代の異色 ARPG を掘り返したいコアゲーマー層。",
+  "slug": "drakengard",
+  "file": "data/games/1527-drakengard.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Drakengard",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%82%AA%E3%83%B3%E3%83%89%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3",
+    "https://kopenguin.com/post-68301/",
+    "https://www.vgchartz.com/game/3130/drakengard/"
+  ]
+}

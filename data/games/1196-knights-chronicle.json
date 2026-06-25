@@ -1,0 +1,33 @@
+{
+  "id": 1196,
+  "title_jp": "Knights Chronicle",
+  "title_en": "Knights Chronicle",
+  "developer": "Netmarble Monster",
+  "publisher": "Netmarble",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターン制 RPG / キャラクター収集ガチャ",
+  "sales_jp": "—",
+  "sales_world": "2.2M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "事前登録 100 万人超を集めた Netmarble Monster 開発のターン制 RPG。日本では桜井孝宏／日笠陽子／佐倉綾音らの豪華声優陣と覚醒ガチャで一定層を掴んだが、2023 年 7 月にグローバル全サービス終了。",
+  "concept": "美麗な 3D キャラとフラッシーなスキル演出を売りにしたターン制バトル RPG。ストーリーモード・5 人協力リアルタイムレイド・アリーナ PvP・タイムリフトを横断しながら、覚醒・進化を含む 200 体超のキャラを集めて編成する典型的な「韓国製キャラ収集ガチャ RPG」。",
+  "target": "ターン制ガチャ RPG を主食にしている 20-40 代男女。アニメ調キャラデザインと豪華声優陣を好み、覚醒・装備強化の中長期育成と週次レイド／アリーナをコツコツ回せる中重課金〜微課金層に向く。",
+  "slug": "knights-chronicle",
+  "file": "data/games/1196-knights-chronicle.json",
+  "_source_urls": [
+    "https://en.namu.wiki/w/%EB%82%98%EC%9D%B4%EC%B8%A0%20%ED%81%AC%EB%A1%9C%EB%8B%88%ED%81%B4",
+    "https://www.gamerbraves.com/knights-chronicle-announces-end-of-service-in-july/",
+    "https://www.enduins.com/mobile-games/netmarble-knights-chronicle-shutting-down",
+    "https://www.4gamer.net/games/350/G035064/",
+    "https://appget.com/appli/view/68940/",
+    "http://www.pocketgamer.biz/asia/news/68159/knights-chronicle-pulls-in-500000-pre-registrations-in-one-week/"
+  ]
+}

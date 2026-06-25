@@ -1,0 +1,32 @@
+{
+  "id": 1304,
+  "title_jp": "Lovebrush Chronicles（For All Time）",
+  "title_en": "Lovebrush Chronicles",
+  "developer": "Interstellar Studio (NetEase)",
+  "publisher": "NetEase Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー（ターン制バトル要素あり）",
+  "sales_jp": "—",
+  "sales_world": "15M+ DL",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "中国版『时空中的绘旅人』として2020年に大ヒットし、KENN・諏訪部順一・立花慎之介・鳥海浩輔・平川大輔ら豪華日本人声優陣を起用したグローバル版が2023年配信開始、英語圏・日本でも乙女ゲーマーから注目を集めた。",
+  "concept": "美大に通う主人公が「絵筆」で異世界の扉を開き、西洋ファンタジー・ポストアポカリプス・現代日常など多彩な時空を旅して攻略対象たちと恋に落ちる、時空越境型の乙女アドベンチャー。物語消費とビジュアル・ボイス体験が中核で、ガチャによる SSR カード収集・育成、ターン制バトルが副ループとして組み込まれている。",
+  "target": "10代後半〜30代の女性乙女ゲーマー、特に Mihoyo 系（テイワット紀行的物語表現）と従来の日本乙女ゲーム（ボイス重視・推し活）の両方を嗜むハイブリッド層。中華発高クオリティ乙女ゲーム文脈を追うコア層。",
+  "slug": "lovebrush-chronicles",
+  "file": "data/games/1304-lovebrush-chronicles.json",
+  "_source_urls": [
+    "https://lovebrushchronicles.wiki.gg/",
+    "https://www.neteasegames.com/news/20231020/37000_1115880.html",
+    "https://news.qoo-app.com/en/post/183628/lovebrush-chronicles-cbt-announce",
+    "https://apps.apple.com/us/app/lovebrush-chronicles/id1628712509",
+    "https://adoseofotome.com/chinese-otome-game-for-all-time-to-be-released-globally-as-lovebrush-chronicles/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1629,
+  "title_jp": "カービィ64",
+  "title_en": "Kirby 64: The Crystal Shards",
+  "developer": "ハル研究所",
+  "publisher": "任天堂",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "アクション/プラットフォーマー",
+  "sales_jp": "1.07M",
+  "sales_world": "1.77M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ初の3D描画作品で、コピー能力2種を掛け合わせる「ミックスコピー」が話題に。全ステージに3つ隠されたクリスタルのかけら収集が完全クリアの動機付けとなり、後年は Switch Online + 追加パックで再評価された。",
+  "concept": "横スクロール感覚を残したまま3D描画で表現された2.5Dアクション。35種類のミックスコピーで道中の仕掛けやボスへの攻略パターンを変える「能力で遊ぶ」体験を主軸に据えた、シリーズ転換点の一本。",
+  "target": "小学生〜大人までの幅広いカービィファン層。難易度は低めで、コピー能力組み合わせや隠しクリスタル探しを楽しみたい体験＋収集型のプレイヤー。",
+  "slug": "kirby-64-the-crystal-shards",
+  "file": "data/games/1629-kirby-64-the-crystal-shards.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kirby_64:_The_Crystal_Shards",
+    "https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A364",
+    "https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games",
+    "https://www.nintendo.com/jp/titles/20010000014229.html"
+  ]
+}

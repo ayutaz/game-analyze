@@ -1,0 +1,37 @@
+{
+  "id": 1431,
+  "title_jp": "ライブ・ア・ライブ",
+  "title_en": "Live A Live",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1994,
+  "platform": [
+    "SNES",
+    "Switch",
+    "PS5",
+    "PS4",
+    "PC"
+  ],
+  "genre": "RPG（オムニバス時代劇RPG）",
+  "sales_jp": "0.23M",
+  "sales_world": "0.5M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "1994年SFCで埋もれた「影の傑作」が2022年にHD-2Dリメイクで世界デビュー、発売2か月で50万本突破。原始・幕末・西部・現代・近未来・SFなど7時代×7主人公のオムニバス構成と、最終章の劇的どんでん返しがSNS／実況で再評価された。",
+  "concept": "7つの時代・7人の主人公を任意の順番で遊び、最後に全章が1本の物語に収束するオムニバスRPG。各章でジャンル（西部劇／格闘トーナメント／忍者ステルス／メカSF等）と戦闘リズムが大きく変わり、短編集を読むようにRPGを味わわせる構造が核。",
+  "target": "ロマサガ・クロノトリガー世代の30-50代SFCユーザーと、HD-2Dリメイクで初めて触れる10-30代のJRPG／物語重視ファン。短いセッションで濃い物語を消費したい層。",
+  "slug": "live-a-live",
+  "file": "data/games/1431-live-a-live.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Live_A_Live",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96",
+    "https://www.gematsu.com/2022/09/live-a-live-remake-shipments-and-digital-sales-top-500000",
+    "https://www.nintendolife.com/news/2022/09/live-a-live-switch-remake-sells-500k-units-worldwide"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2023,
+  "title_jp": "オブラ・ディン号の帰還",
+  "title_en": "Return of the Obra Dinn",
+  "developer": "Lucas Pope",
+  "publisher": "3909 LLC",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "一人称推理アドベンチャー/パズル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『Papers, Please』の Lucas Pope による次回作として注目を集め、1bit ドット風ビジュアルと「死の瞬間を巻き戻して 60 人の身元を特定する」独創的な推理体験で IGF Seumas McNally 大賞ほか多数のアワードを受賞。Steam では 96% 圧倒的好評。",
+  "concept": "1807 年、行方不明だった商船オブラ・ディン号が無人で帰港する。プレイヤーは保険調査員として乗船し、懐中時計「メメント・モルテム」で各乗員の死の瞬間に巻き戻り、60 名全員の身元・死因・下手人を観察と消去法だけで突き止めていく一人称推理アドベンチャー。",
+  "target": "『Papers, Please』ファン、論理パズル・本格推理ファン、ナラティブインディーを掘る層、独創的なアートスタイルやゲーム作家性に惹かれる 20-40 代のコア PC ゲーマー。",
+  "slug": "return-of-the-obra-dinn",
+  "file": "data/games/2023-return-of-the-obra-dinn.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn",
+    "https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/",
+    "https://www.gamedeveloper.com/business/why-lucas-pope-didn-t-market-i-return-of-the-obra-dinn-i-",
+    "https://steam-revenue-calculator.com/app/653530/return-of-the-obra-dinn"
+  ]
+}

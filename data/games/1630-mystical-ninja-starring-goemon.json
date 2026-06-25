@@ -1,0 +1,30 @@
+{
+  "id": 1630,
+  "title_jp": "がんばれゴエモン ネオ桃山幕府のおどり",
+  "title_en": "Mystical Ninja Starring Goemon",
+  "developer": "Konami Computer Entertainment Osaka",
+  "publisher": "Konami",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "3Dアクションアドベンチャー",
+  "sales_jp": "0.14M",
+  "sales_world": "0.20M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "N64 初期の和風 3D アクションアドベンチャー代表作。インパクトのあるオープニング曲『岡っ引どっぴゃーん』と巨大ロボ「インパクト」戦の異様さで海外コアファンの間でカルト人気を獲得し、日本国内でも 14 万本超を売り上げてシリーズ N64 期の看板になった。",
+  "concept": "戦国時代風の架空日本「やぶれかぶれ大江戸」を 4 人のキャラ（ゴエモン/エビス丸/ヤエ/サスケ）で旅する 3D アクションアドベンチャー。ダンジョン攻略の合間に変身巨大ロボ『インパクト』の一人称コックピット戦が挿入され、コミカルな和風世界観と多彩なゲームプレイを 1 本に詰め込んでいる。",
+  "target": "N64 期に和風 3D アクションを遊んだ 10-40 代男性、ゴエモンシリーズのファン、ゼルダ時のオカリナと並ぶ 3D 探索アクションを求めるレトロゲーマー。",
+  "slug": "mystical-ninja-starring-goemon",
+  "file": "data/games/1630-mystical-ninja-starring-goemon.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mystical_Ninja_Starring_Goemon",
+    "https://ja.wikipedia.org/wiki/%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C%E3%82%B4%E3%82%A8%E3%83%A2%E3%83%B3%E3%80%9C%E3%83%8D%E3%82%AA%E6%A1%83%E5%B1%B1%E5%B9%95%E5%BA%9C%E3%81%AE%E3%81%8A%E3%81%A9%E3%82%8A%E3%80%9C",
+    "https://www.timeextension.com/features/best-of-2024-the-making-of-mystical-ninja-starring-goemon-konamis-underrated-n64-classic",
+    "https://konami.fandom.com/wiki/Mystical_Ninja_Starring_Goemon_(N64)"
+  ]
+}

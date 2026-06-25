@@ -1,0 +1,31 @@
+{
+  "id": 1952,
+  "title_jp": "KIRA☆KIRA Curtain Call",
+  "title_en": "Kira Kira Curtain Call",
+  "developer": "OVERDRIVE",
+  "publisher": "OVERDRIVE",
+  "year": 2008,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "前作『キラ☆キラ』のファンディスクとして2008年に発売。バンド『HAPPY CYCLE MANIA』のその後と新規キャラの物語を抱き合わせ、シリーズ完結編として固定ファンから支持された。",
+  "concept": "OVERDRIVE のバンド青春 AVG『キラ☆キラ』の続編ファンディスク。第一部は欧美学園の数年後を舞台に新キャラの音楽青春劇を、第二部は前作主要キャラの後日譚をオムニバス構成で描き、シリーズ世界に幕を引く。",
+  "target": "前作『キラ☆キラ』をプレイ済みのアダルトビジュアルノベルファン、瀬戸口廉也シナリオや青春バンド／パンクロック題材を好む層。",
+  "slug": "kira-kira-curtain-call",
+  "file": "data/games/1952-kira-kira-curtain-call.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kirakira_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A9%E2%98%86%E3%82%AD%E3%83%A9",
+    "https://www.mobygames.com/game/213208/kirakira-curtain-call/",
+    "https://www.uvlist.net/game-250171-KiraKira+Curtain+Call"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

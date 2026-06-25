@@ -1,0 +1,30 @@
+{
+  "id": 1574,
+  "title_jp": "バーンアウト リベンジ",
+  "title_en": "Burnout Revenge",
+  "developer": "Criterion Games",
+  "publisher": "Electronic Arts",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "Xbox 360"
+  ],
+  "genre": "アーケードレース/クラッシュアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "前作Burnout 3 Takedownの大ヒットを受け、Traffic Check（同方向の車をぶつけて吹き飛ばす）など破壊表現を強化。Burnout 3/Legends/Revengeのシリーズ累計600万本超に貢献した代表作。",
+  "concept": "対向車や同方向の小型車をクラッシュさせながら高速レースを走り抜けるアーケードレーサー。失敗（クラッシュ）を爽快感に変換し、スコアと撃墜数で競う「破壊型レース」の到達点を示した。",
+  "target": "PS2/Xbox世代のレースゲーマー、特にニードフォースピード系よりも派手で過激な体験を求める層。Burnout 3で熱中したコアファンや、短時間で爆発的な手応えを欲しいプレイヤー。",
+  "slug": "burnout-revenge",
+  "file": "data/games/1574-burnout-revenge.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Burnout_Revenge",
+    "https://en.wikipedia.org/wiki/Burnout_(series)",
+    "https://mcvuk.com/development-news/ip-profile-burnout/",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88_(%E3%82%B2%E3%83%BC%E3%83%A0)"
+  ]
+}

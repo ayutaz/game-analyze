@@ -1,0 +1,32 @@
+{
+  "id": 1067,
+  "title_jp": "Farlight 84",
+  "title_en": "Farlight 84",
+  "developer": "Farlight Games",
+  "publisher": "Farlight Games / Lilith Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ヒーローバトルロイヤル/シューター",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Lilith Games 系列のミラクルゲームズが手掛ける 60 人ヒーローバトロワで、累計 5,000 万登録ユーザー超を獲得。2025 年 8 月の大型リブランド／ファーストパーソン化アップデートで Steam 同接が約 420% 急増し再注目された。",
+  "concept": "「ジェットパック × ビークル × バディシステム」を特徴とする 60 人ヒーローシューター。Apex Legends 系のチーム戦バトロワにモビリティと収集要素（バディ＝小型ペット）を組み合わせ、モバイル／PC クロスプレイで動かす。",
+  "target": "Apex Legends / Call of Duty Warzone / PUBG Mobile 系のシューターを軽快に遊びたい層、モバイルでもガチ目の TPS/FPS を求めるアジア圏 10-30 代男性。スキン・バディ収集にも投資する課金層を含む。",
+  "slug": "farlight-84",
+  "file": "data/games/1067-farlight-84.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/1928420/Farlight_84/",
+    "https://www.gamedeveloper.com/business/with-i-farlight-84-i-mobile-hitmaker-lilith-games-makes-a-play-for-pc-market",
+    "https://www.pcgamesn.com/farlight-84/relaunch-steam-player-count",
+    "https://www.savingcontent.com/2025/08/07/first-person-update-rebrand-and-relaunch-of-60-player-battle-royale-farlight-84-is-now-live/"
+  ]
+}

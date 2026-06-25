@@ -1,0 +1,27 @@
+{
+  "id": 1957,
+  "title_jp": "Go!Go!Nippon!",
+  "title_en": "Go! Go! Nippon! ~My First Trip to Japan~",
+  "developer": "OVERDRIVE",
+  "publisher": "MangaGamer",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/観光ガイド型恋愛ADV",
+  "sales_jp": "—",
+  "sales_world": "30,000+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "MangaGamer が海外向けに英語/日本語同時リリースした OELVN として注目され、2014 年の Steam Greenlight 通過で初動 1 万本、年内 3 万本超のスマッシュヒットに。",
+  "slug": "go-go-nippon-my-first-trip-to-japan",
+  "file": "data/games/1957-go-go-nippon-my-first-trip-to-japan.json",
+  "concept": "初訪日の外国人主人公が、ホストの姉妹マコトとアキラの案内で東京の名所・グルメ・文化を 1 週間かけて巡るビジュアルノベル。観光ガイドブックと萌え恋愛 ADV を融合させ、選択肢でヒロインルートが分岐する。",
+  "target": "日本旅行・日本文化に興味のある海外ユーザー、英語圏のライトなギャルゲー入門層、OVERDRIVE / MangaGamer 系ノベルのファン。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Go!_Go!_Nippon!",
+    "https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/",
+    "https://blog.mangagamer.org/2011/09/29/go-go-nippon/"
+  ]
+}

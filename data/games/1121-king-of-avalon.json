@@ -1,0 +1,31 @@
+{
+  "id": 1121,
+  "title_jp": "King of Avalon",
+  "title_en": "King of Avalon",
+  "developer": "FunPlus (KingsGroup Studio)",
+  "publisher": "FunPlus",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMO ストラテジー (4X / SLG)",
+  "sales_jp": "—",
+  "sales_world": "$1B+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "アーサー王伝説をモチーフにしたドラゴン育成型 MMO ストラテジー。Orlando Bloom 起用 TVCM や Sensor Tower で累計 10 億ドル超を達成したことで、海外 SLG ジャンルの代表作として国内でも認知されている。",
+  "slug": "king-of-avalon",
+  "file": "data/games/1121-king-of-avalon.json",
+  "concept": "城を築き、ドラゴンを孵化させ、世界各地のプレイヤーと同盟を組んで王座を争う、Lords Mobile 系の本格 MMO ストラテジー。リアルタイム同盟戦と長期育成を組み合わせ、課金で時間短縮するハードコア SLG。",
+  "target": "20-40 代の中重課金者層、海外型 SLG（Lords Mobile / Rise of Kingdoms / State of Survival）を好む同盟プレイヤー。腰を据えて長期間都市育成と外交を楽しめる戦略ゲームファン。",
+  "_source_urls": [
+    "https://funplus.com/funplus-celebrates-king-of-avalons-6th-anniversary/",
+    "https://sensortower.com/blog/king-of-avalon-revenue",
+    "https://www.pocketgamer.biz/the-mobile-games-that-have-made-more-than-1-billion-in-lifetime-sales-update/",
+    "https://en.wikipedia.org/wiki/FunPlus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1218,
+  "title_jp": "ニューステート・モバイル",
+  "title_en": "New State Mobile",
+  "developer": "PUBG Studios",
+  "publisher": "KRAFTON",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/シューター",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PUBG IP の近未来 2051 年版スピンオフとしてリリース前に 5500 万件超のプレ登録を集め、配信開始から約 1 か月で 5000 万 DL を突破。日本では公式アンバサダーに渡辺直美を起用したプロモーションも話題になった。",
+  "concept": "『PUBG』IP を 2051 年の近未来マップ「Troi」に拡張した、モバイル特化型バトルロイヤルシューター。ドローンや EMP 手榴弾など未来兵器、車両カスタマイズを取り入れ、100 人最後の 1 人を目指す既存ルールに新世代の戦術レイヤーを乗せた。",
+  "target": "スマホで本格的な FPS/TPS バトルロイヤルを遊びたい 10–30 代男性中心のコアシューター層、および PUBG シリーズ既存ファンで近未来世界観や新マップに惹かれる層。",
+  "slug": "new-state-mobile",
+  "file": "data/games/1218-new-state-mobile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/New_State_Mobile",
+    "https://www.krafton.com/en/news/krafton-officially-launches-pubg-new-state-globally/",
+    "https://esportsnewsjapan.jp/%E3%80%90news%E3%80%91%E3%80%8Epubg-new-state%E3%80%8F%E5%85%A8%E4%B8%96%E7%95%8C4000%E4%B8%87%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E7%AA%81%E7%A0%B4%EF%BC%81%E5%85%AC%E5%BC%8F/"
+  ]
+}

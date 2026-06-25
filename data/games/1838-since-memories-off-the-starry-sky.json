@@ -1,0 +1,30 @@
+{
+  "id": 1838,
+  "title_jp": "SINce Memories 星永の天文台",
+  "title_en": "SINce Memories: Off The Starry Sky",
+  "developer": "MAGES.",
+  "publisher": "MAGES. / Aksys",
+  "year": 2022,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Memories Offシリーズ10年ぶりの新作として国内ノベルゲームファンに注目され、2024年に英訳版がPQube経由で世界配信されたことで海外VNコミュニティでも話題化。",
+  "concept": "Memories Offシリーズの後継作として、兄を喪った大学生・水本純哉が幼馴染や謎の少女との出会いを通じて喪失と再生を描く、5ヒロイン分岐型の恋愛アドベンチャー。Steins;Gateや沙耶の唄系のシナリオライター・阿保剛らが手がけ、しっとりとした語り口が特徴。",
+  "target": "Memories Offや5pb./MAGES.系ノベルゲームを追ってきた20-40代の男性プレイヤー層、および落ち着いた喪失と再生のドラマを読みたいビジュアルノベル愛好層。",
+  "slug": "since-memories-off-the-starry-sky",
+  "file": "data/games/1838-since-memories-off-the-starry-sky.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2838360/SINce_Memories_Off_The_Starry_Sky/",
+    "https://memories-off.fandom.com/wiki/SINce_Memories_Off_the_starry_sky",
+    "https://www.gematsu.com/games/since-memories-off-the-starry-sky",
+    "https://noisypixel.net/mages-visual-novel-since-memories-off-the-starry-sky-west-physical/"
+  ]
+}

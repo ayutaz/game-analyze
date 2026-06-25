@@ -1,0 +1,33 @@
+{
+  "id": 1664,
+  "title_jp": "新桃太郎伝説",
+  "title_en": "Shin Momotaro Densetsu",
+  "developer": "Hudson",
+  "publisher": "Hudson",
+  "year": 1993,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "和風RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "さくまあきら監督・土居孝幸イラスト・サザンオールスターズ関口和之音楽による豪華スタッフ和風RPG。シリアスかつ重厚な物語展開で「桃伝シリーズ」最高傑作と語り継がれる名作。",
+  "concept": "ファミコン版『桃太郎伝説』の6年後を描く正統続編。和風昔話世界観の中で勧善懲悪の大枠を継承しつつギャグ要素を抑え、シリアスで重厚な物語と独自バトル（誘導・大車輪等）で長尺の和風RPG体験を提供する。",
+  "target": "90年代に和風RPGを遊んだ大人層、桃伝シリーズや桃鉄のファン、ドラクエ／FF以外の硬派なシナリオRPGを求めるレトロゲーマー。",
+  "slug": "shin-momotaro-densetsu",
+  "file": "data/games/1664-shin-momotaro-densetsu.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%96%B0%E6%A1%83%E5%A4%AA%E9%83%8E%E4%BC%9D%E8%AA%AC",
+    "https://www.gamespark.jp/article/2014/12/19/53832.html",
+    "https://superfamicom.org/info/shin-momotarou-densetsu",
+    "https://www.mobygames.com/game/16007/shin-momotaro-densetsu/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

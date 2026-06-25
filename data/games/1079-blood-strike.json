@@ -1,0 +1,32 @@
+{
+  "id": 1079,
+  "title_jp": "Blood Strike",
+  "title_en": "Blood Strike",
+  "developer": "NetEase Games",
+  "publisher": "NetEase Games",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "バトルロイヤルFPS",
+  "sales_jp": "—",
+  "sales_world": "60M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ソフトローンチ後1年で世界60M+ DLを突破、低スペック端末向けに最適化されたモバイル特化バトロワFPSとして新興国市場で急成長。Call of Duty: Mobile / PUBG Mobile に続くNetEaseの主力PvPシューターとして話題に。",
+  "concept": "低スペック端末でも軽快に動くバトルロイヤルFPS。30+の武器カスタマイズと15+のキャラクター（Striker）を切り替えながら、バトロワ／スクワッド／ホットゾーン／ウェポンマスターの4モードで撃ち合う。",
+  "target": "10-30代のモバイルFPSプレイヤー、特に新興国・東南アジア・中南米のスマホユーザー。Call of Duty: Mobile / PUBG Mobile より軽量な代替を求める層。",
+  "slug": "blood-strike",
+  "file": "data/games/1079-blood-strike.json",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/neteases-blood-strike-rockets-to-50-million-installs-in-less-than-a-year/",
+    "https://www.pocketgamer.biz/neteases-blood-strike-surpasses-60m-mobile-installs-and-22m-in-time-for-first-anniversary/",
+    "https://www.blood-strike.com/",
+    "https://play.google.com/store/apps/details?id=com.netease.newspike&hl=en"
+  ]
+}

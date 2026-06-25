@@ -1,0 +1,34 @@
+{
+  "id": 1232,
+  "title_jp": "リベンジ・オブ・ザ・ブレイブ",
+  "title_en": "Revenge of the Brave",
+  "developer": "Tamatem Games",
+  "publisher": "Tamatem Games",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "MENA（中東・北アフリカ）市場向けにアラビア語ローカライズで配信され、配信直後にアラブ圏 RPG カテゴリのチャート上位入り。Tamatem Games が手がける初の自社開発フル MMORPG として注目された。",
+  "concept": "Obsidian Alliance の侵略に対し Manya・Deva・Titans が Astral Alliance を結成して立ち向かう、ターン制バトル＋キャラ育成＋ペット／騎乗獣／鳥（Avians）育成のクラシカル MMORPG。ダンジョン襲撃・PvP・ボス戦・宝探しと、League（ギルド）戦による長期協力プレイを軸にした、アラブ圏向けに完全ローカライズされた重課金型 RPG。",
+  "target": "中東・北アフリカ圏（MENA）のアラビア語話者を中心とした、ターン制 MMORPG とギルド戦に時間を投じる 18-35 歳男性層。母語でフル翻訳されたファンタジー MMO を求める層。",
+  "slug": "revenge-of-the-brave",
+  "file": "data/games/1232-revenge-of-the-brave.json",
+  "_source_urls": [
+    "https://www.pocketgamer.com/rage-of-the-brave-revenge-of-legends/android-ios-mmorpg/",
+    "https://tamatem.co/games/revenge-of-legends/",
+    "https://play.google.com/store/apps/details?id=co.tamatem.rpg.infinity&hl=en",
+    "https://apps.apple.com/bh/app/%D8%BA%D8%B6%D8%A8-%D8%A7%D9%84%D8%B4%D8%AC%D8%B9%D8%A7%D9%86-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D8%A7%D8%B7%D9%8A%D8%B1/id6474616909"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1287,
+  "title_jp": "サウスパーク：フォン・デストロイヤー",
+  "title_en": "South Park: Phone Destroyer",
+  "developer": "Ubisoft RedLynx",
+  "publisher": "Ubisoft",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイムカードバトルRPG/PvP",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "「サウスパーク」公式モバイルゲームとして 2017 年に世界配信、Trey Parker / Matt Stone 本人による音声と毒舌ネタで原作ファンの話題を呼び、Google Play で 500 万 DL 超を記録。リアルタイム PvP カードバトルとして長期運営された。",
+  "concept": "原作アニメの「カードで遊ぶごっこ遊び」を題材にしたリアルタイムカードバトル PvP。アドベンチャー/SF/神秘/ファンタジー/ヒーローの 5 テーマでデッキを組み、3 分以内の対戦でレーンを押し合う Clash Royale 系ループにサウスパーク IP を被せた構造。",
+  "target": "サウスパークの原作アニメファンと、Clash Royale 等の短時間リアルタイム PvP カードバトルを好む海外モバイルユーザー。下ネタ・風刺を受け入れる 20-40 代男性層が中心。",
+  "slug": "south-park-phone-destroyer",
+  "file": "data/games/1287-south-park-phone-destroyer.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/South_Park:_Phone_Destroyer",
+    "https://play.google.com/store/apps/details?id=com.ubisoft.dragonfire&hl=en_US",
+    "https://apps.apple.com/jp/app/south-park-phone-destroyer/id1106442030",
+    "https://vsmedia.info/2017/11/12/south-park-phone-destroyer/",
+    "https://southparkphonedestroyer.redlynx.com/faq/"
+  ]
+}

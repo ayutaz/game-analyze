@@ -1,0 +1,30 @@
+{
+  "id": 1977,
+  "title_jp": "Code:Realize 〜白銀の奇跡〜",
+  "title_en": "Code:Realize: Wintertide Miracles",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2018,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "女性向け恋愛アドベンチャー（ファンディスク）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『Code:Realize 〜創世の姫君〜』の正統続編ファンディスクとして、本編クリア層の女性ユーザーから高い支持を獲得。海外ローカライズ版でも乙女ゲームファンの間で評価が高く、Switch 移植で新規プレイヤーも取り込んだ。",
+  "concept": "スチームパンク・ロンドンを舞台にした乙女ゲーム『Code:Realize 〜創世の姫君〜』のアフターストーリーを描くファンディスク。本編で結ばれた各攻略対象との「その後」の物語と新規シナリオを楽しむ、読み物特化型の続編。",
+  "target": "前作『創世の姫君』をクリア済みの 20-40 代女性プレイヤー。キャラクターとの恋愛・甘いやり取りを長く読み続けたい乙女ゲーム愛好層。",
+  "slug": "code-realize-wintertide-miracles",
+  "file": "data/games/1977-code-realize-wintertide-miracles.json",
+  "_source_urls": [
+    "https://www.otomate.jp/code-realize/fd2/",
+    "https://strategywiki.org/wiki/Code:_Realize_-_Wintertide_Miracles",
+    "https://gamefaqs.gamespot.com/vita/223770-coderealize-wintertide-miracles/data",
+    "https://store.playstation.com/ja-jp/product/JP0031-CUSA09160_00-CODEREALIZEFD2P4"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2018,
+  "title_jp": "レイトン教授VS逆転裁判",
+  "title_en": "Professor Layton vs. Phoenix Wright: Ace Attorney",
+  "developer": "Level-5",
+  "publisher": "Level-5 / Nintendo",
+  "year": 2012,
+  "platform": [
+    "3DS"
+  ],
+  "genre": "アドベンチャー/謎解き×法廷",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "レイトン教授シリーズと逆転裁判シリーズという日本を代表する2大アドベンチャーIPが奇跡の共演を果たした夢のコラボ作。発売前から両ファンの注目を集め、日本では初週12.8万本を販売した。",
+  "concept": "「魔法が実在する世界」を舞台に、レイトン教授の謎解きパートとフェニックス・ライトの法廷パートを交互に進めて魔女裁判の真相を解き明かす、2社共同開発のクロスオーバー長編アドベンチャー。",
+  "target": "レイトン教授・逆転裁判いずれかの既存ファンを中核に、謎解きと法廷推理を1本で味わいたい10-40代のアドベンチャー好き。携帯機でじっくり物語と推理を楽しみたい層。",
+  "slug": "professor-layton-vs-phoenix-wright-ace-attorney",
+  "file": "data/games/2018-professor-layton-vs-phoenix-wright-ace-attorney.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%88%E3%83%B3%E6%95%99%E6%8E%88VS%E9%80%86%E8%BB%A2%E8%A3%81%E5%88%A4",
+    "https://www.level5.co.jp/news/20120913_02/popup.html",
+    "https://www.layton-vs-gyakuten.jp/",
+    "https://aceattorney.fandom.com/wiki/Professor_Layton_vs._Phoenix_Wright:_Ace_Attorney",
+    "https://www.siliconera.com/professor-layton-vs-ace-attorney-didnt-do-so-great/"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2047,
+  "title_jp": "祝姫 -祀-",
+  "title_en": "Iwaihime: Matsuri",
+  "developer": "07th Expansion",
+  "publisher": "日本一ソフトウェア / MangaGamer",
+  "year": 2017,
+  "platform": [
+    "PS4",
+    "PS Vita"
+  ],
+  "genre": "ホラーアドベンチャー / ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『ひぐらしのなく頃に』竜騎士07によるホラーノベル新作。PC 版（2016 DMM.com）未収録の追加章「結姫編」を加えた完全版として PS4/PS Vita 移植され、ひぐらし／うみねこ系の和風ホラー需要を取り込んだ。",
+  "concept": "「呪い」と「祟り」をテーマに、武術道場の家に生まれた主人公・煤原進が転居先の煤田町で日本人形を抱える少女・黒髪十重と出会い、現実と悪夢が交錯する運命に飲み込まれていく和風ホラーアドベンチャー。",
+  "target": "ひぐらしのなく頃に／うみねこのなく頃にに代表される竜騎士07作品のファン、サイコ／和風ホラー系ビジュアルノベルを好む 20-40 代のノベルゲーマー。",
+  "slug": "iwaihime-matsuri",
+  "file": "data/games/2047-iwaihime-matsuri.json",
+  "_source_urls": [
+    "https://07th-expansion.fandom.com/wiki/Iwaihime",
+    "https://wiki.whentheycry.org/wiki/Iwaihime",
+    "https://ja.wikipedia.org/wiki/%E7%A5%9D%E5%A7%AB",
+    "https://www.famitsu.com/games/t/34631/reviews/",
+    "https://shop.nippon1.jp/products/detail/290",
+    "https://store.steampowered.com/app/1372300/Iwaihime/"
+  ]
+}

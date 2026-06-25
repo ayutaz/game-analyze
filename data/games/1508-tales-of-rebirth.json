@@ -1,0 +1,30 @@
+{
+  "id": 1508,
+  "title_jp": "テイルズ オブ リバース",
+  "title_en": "Tales of Rebirth",
+  "developer": "Namco Tales Studio",
+  "publisher": "Namco",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "PSP"
+  ],
+  "genre": "RPG（君が生まれ変わるRPG）",
+  "sales_jp": "605K (PS2) / 90K (PSP)",
+  "sales_world": "700K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「種族間の差別と共存」という重厚なテーマと、3ライン制バトル「3-Line Linear Motion Battle System」の刷新でファンに支持され、PS2版だけで60万本超を売り上げシリーズ屈指の評価を得た。",
+  "concept": "人間と獣人「ヒューマ」の対立を軸に「差別と赦し」を描くマザーシップタイトル。キャッチコピーは「君が生まれ変わるRPG」で、キャラクターの内面変化と関係性を物語の中心に据える。",
+  "target": "テイルズシリーズの伝統的ファン層（10-30代）と、シリアスで重い人間ドラマを志向する JRPG プレイヤー。",
+  "slug": "tales-of-rebirth",
+  "file": "data/games/1508-tales-of-rebirth.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_Rebirth",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9",
+    "https://kopenguin.com/post-68525/"
+  ]
+}

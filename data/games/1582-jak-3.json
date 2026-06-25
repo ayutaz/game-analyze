@@ -1,0 +1,29 @@
+{
+  "id": 1582,
+  "title_jp": "ジャック3",
+  "title_en": "Jak 3",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "1.4M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Naughty Dog 製 PS2 三部作の完結編として欧米で高評価、プラットフォーム/シューティング/レースを融合したジャンルミックスが話題に。日本未発売だが後年 PS4 の PS2 Classics で再注目された。",
+  "concept": "前作 Jak II の続編であり、砂漠に追放された Jak が世界の真実を追うストーリードリブンなアクションアドベンチャー。プラットフォーマー・銃撃戦・砂漠バギーレースを 1 本にまとめた「ジャンル横断 PS2 アクション」の決定版。",
+  "target": "Naughty Dog／Insomniac 系の PS2 三人称アクションが好きな欧米ティーン〜成人男性プレイヤー。日本では PS4 経由で過去作を遡るレトロ志向のプレイヤー。",
+  "slug": "jak-3",
+  "file": "data/games/1582-jak-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Jak_3",
+    "https://jakanddaxter.fandom.com/wiki/Jak_3",
+    "https://playstation-studios.fandom.com/wiki/Jak_3"
+  ]
+}

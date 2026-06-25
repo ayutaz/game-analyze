@@ -1,0 +1,28 @@
+{
+  "id": 1494,
+  "title_jp": "コマンド&コンカー レッドアラート",
+  "title_en": "Command & Conquer: Red Alert",
+  "developer": "Westwood Studios",
+  "publisher": "Virgin Interactive",
+  "year": 1997,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "リアルタイムストラテジー（RTS）",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "発売 4 週間で世界 150 万本を売り上げた 90 年代 RTS の代表作。連合軍 vs ソビエトの架空冷戦設定と実写ムービー、そして対戦・スカーミッシュの完成度で『C&C』ブランドを爆発的に拡大させた。",
+  "concept": "ヒトラー暗殺で歴史が分岐した世界を舞台に、連合軍とソビエトの 2 陣営で資源採取→基地建設→ユニット生産→殲滅を回す古典的 RTS。テスラコイル・クロノスフィア等の超兵器と実写 FMV で『戦争を演じる』体験を提供する。",
+  "target": "90 年代後半に PC で RTS を覚えた 30-50 代男性コア層、C&C/Dune/StarCraft 系の基地建設対戦が好きなプレイヤー、冷戦・ミリタリー・実写 B 級ムービー演出を楽しめる層。",
+  "slug": "command-and-conquer-red-alert",
+  "file": "data/games/1494-command-and-conquer-red-alert.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Command_%26_Conquer:_Red_Alert",
+    "https://cnc.fandom.com/wiki/Command_%26_Conquer:_Red_Alert",
+    "https://www.cncworld.org/wwr/infodir/news/prccsales.html"
+  ]
+}

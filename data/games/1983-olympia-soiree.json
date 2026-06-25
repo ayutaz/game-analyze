@@ -1,0 +1,29 @@
+{
+  "id": 1983,
+  "title_jp": "オランピアソワレ",
+  "title_en": "Olympia Soiree",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2020,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Satoi 氏の幻想的なイラストと、太陽を取り戻す巫女・オランピアを巡る色彩豊かな攻略対象たちが話題に。ESRB Mature 指定の重厚なシナリオで欧米乙女ゲーマーからも高評価を獲得した。",
+  "concept": "色によって階級が分かれる「天空島」を舞台に、太陽を取り戻す儀式を担う巫女オランピアが各色の領主と運命を紡ぐシリアス系乙女ビジュアルノベル。30 本のサイドストーリーで世界観を深掘りする。",
+  "target": "重厚な世界観と倫理的にダークなテーマを許容できる成人向け乙女ゲームファン。Satoi 氏のアートワークやオトメイト作品を追う 20-40 代女性層が中心。",
+  "slug": "olympia-soiree",
+  "file": "data/games/1983-olympia-soiree.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%94%E3%82%A2%E3%82%BD%E3%83%AF%E3%83%AC",
+    "https://www.otomate.jp/olympia/",
+    "http://www.aksysgames.com/products/switch-olympia-soiree/",
+    "https://www.metacritic.com/game/olympia-soiree/",
+    "https://www.4gamer.net/games/828/G082876/20240816024/"
+  ]
+}

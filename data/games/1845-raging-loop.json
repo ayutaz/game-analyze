@@ -1,0 +1,37 @@
+{
+  "id": 1845,
+  "title_jp": "レイジングループ",
+  "title_en": "Raging Loop",
+  "developer": "Kemco",
+  "publisher": "Kemco / PQube",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "PC",
+    "PS5",
+    "Xbox One",
+    "Xbox Series X/S"
+  ],
+  "genre": "和風伝奇ホラーノベルADV（人狼×ループもの）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「人狼ゲーム×死に戻りループ×和風村ホラー」という鋭い切り口で、ノベルゲーマーから「ケムコ最高傑作」「近年屈指の伝奇ADV」と評判が広がり、2017 年の家庭用移植・Steam 版・PQube による海外展開、さらに 2024 年の PS5 / Xbox Series X|S 版でロングセラー化した。",
+  "concept": "閉ざされた山村「やすみ村」を舞台に、人狼を模した「黄泉忌みの宴」と呼ばれる処刑儀式に巻き込まれた主人公が、死に戻りループを繰り返しながら村の真相と狼の正体を推理する和風伝奇ノベル。プレイヤーは選択肢で死亡フラグを潰し、複数ルートを横断して「全員生存」の解を探す。",
+  "target": "ひぐらしのなく頃に・かまいたちの夜・428 等のミステリ／伝奇ノベル好き、人狼ゲームや論理パズル系推理が好きなプレイヤー、10 時間以上の長尺テキストを読む耐性のある 20–40 代ノベルゲームファン。",
+  "slug": "raging-loop",
+  "file": "data/games/1845-raging-loop.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Raging_Loop",
+    "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "https://store.steampowered.com/app/648100/Raging_Loop/",
+    "https://www.kemco.jp/sp/games/rl/",
+    "https://www.4gamer.net/games/831/G083133/20240823007/"
+  ]
+}

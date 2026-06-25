@@ -1,0 +1,32 @@
+{
+  "id": 1249,
+  "title_jp": "プラント vs. ゾンビ2",
+  "title_en": "Plants vs. Zombies 2",
+  "developer": "PopCap Games",
+  "publisher": "Electronic Arts",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "タワーディフェンス/F2Pモバイル",
+  "sales_jp": "—",
+  "sales_world": "25M+ DL初週 / 累計200M+ DL（App Store）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "リリース直後にiOS版が137ヶ国で無料アプリ首位、5日で2,500万DLを突破。前作の累計DLをわずか数日で超える社会現象級F2Pヒット。",
+  "concept": "庭を守るプラントを配置してゾンビの侵攻を防ぐ前作のタワーディフェンスを、ステージ毎に時代を行き来する「タイムトラベル」構造へ拡張したF2Pモバイル続編。植物のコレクション・強化・限定イベントで継続プレイを促す。",
+  "target": "10-40代のカジュアルゲーマー、前作プラント vs. ゾンビのファン、モバイルでサクサク遊べるタワーディフェンスを求める層。家族で遊べる軽量パズル感覚を好むユーザーに広く支持される。",
+  "slug": "plants-vs-zombies-2",
+  "file": "data/games/1249-plants-vs-zombies-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Plants_vs._Zombies_2",
+    "https://plantsvszombies.fandom.com/wiki/Plants_vs._Zombies_2",
+    "https://doope.jp/2013/0829470.html",
+    "https://apps.apple.com/jp/app/plants-vs-zombies-2/id597986893",
+    "https://gamebiz.jp/news/115906"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1790,
+  "title_jp": "ひぐらしのなく頃に礼",
+  "title_en": "Higurashi When They Cry Hou - Rei",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2006,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "サウンドノベル/ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "本編「ひぐらしのなく頃に」のファンディスクとして 2006 年コミケ 71 で頒布。罪滅し編後日談「賽殺し編」など 3 本の追加シナリオを収録し、後年 MangaGamer によって英語版が Steam 配信され海外ファン層にも再注目された。",
+  "concept": "本編完結後の雛見沢を描く番外編集。並行世界に飛ばされた古手梨花の視点で「望んだ世界と引き換えに何を失うか」を問う賽殺し編を軸に、シリーズのテーマを補完する短編サウンドノベル群。",
+  "target": "本編「ひぐらしのなく頃に」を読み終えた既存ファン層。キャラクター後日談と世界観の余韻を読み込みたい 20-40 代のビジュアルノベル読者。",
+  "slug": "higurashi-when-they-cry-hou-rei",
+  "file": "data/games/1790-higurashi-when-they-cry-hou-rei.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E7%A4%BC",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Rei",
+    "https://store.steampowered.com/app/1941110/Higurashi_When_They_Cry_Hou__Rei/",
+    "https://www.animenewsnetwork.com/press-release/2022-06-03/mangagamer-releases-higurashi-when-they-cry-rei/.186285"
+  ]
+}

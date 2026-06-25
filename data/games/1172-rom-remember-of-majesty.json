@@ -1,0 +1,32 @@
+{
+  "id": 1172,
+  "title_jp": "ROM：レメンバー・オブ・マジェスティ",
+  "title_en": "ROM: Remember Of Majesty",
+  "developer": "RedLab Games",
+  "publisher": "ChuanQi IP",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ハードコアMMORPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2024年2月27日に日本含む世界10地域で同時サービス開始。韓国GooglePlayセールス2位・台湾3位を記録し、自由度の高い経済システムとPK・領地戦・攻城戦を売りにしたハードコアMMORPGとして話題に。",
+  "concept": "PK・領地戦・攻城戦による大規模PvPと、プレイヤー主導の自由な経済システムを核に据えた正統派ハードコアMMORPG。リアルタイム翻訳チャットでグローバル統合戦場を実現する。",
+  "target": "20-40代のMMORPG熟練層、リネージュ系・ミル(伝奇)系のハードコアPvPに惹かれる重課金/長時間プレイ志向の層。",
+  "slug": "rom-remember-of-majesty",
+  "file": "data/games/1172-rom-remember-of-majesty.json",
+  "_source_urls": [
+    "https://www.4gamer.net/games/768/G076801/20240227017/",
+    "https://gamebiz.jp/news/381110",
+    "https://rom.redlabgames.net/",
+    "https://news.qoo-app.com/en/post/189204/rom-global-beta-test-on-jan-23-2024"
+  ]
+}

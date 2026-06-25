@@ -1,0 +1,28 @@
+{
+  "id": 2010,
+  "title_jp": "灰鷹のサイケデリカ",
+  "title_en": "Psychedelica of the Ashen Hawk",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2016,
+  "platform": [
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "乙女向けビジュアルノベル/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『黒蝶のサイケデリカ』の姉妹作として 2016 年に PS Vita 発売、2018 年 Aksys Games による英語版、2019 年 Steam 版でも展開された Otomate のサイケデリカシリーズ第 2 弾。ジェンダー逆転のロミオとジュリエット的設定と魔女狩り都市の重厚な世界観で乙女ゲーマー層から高い評価を得た。",
+  "concept": "魔女狩りが続く中世風都市「黒鷲」「灰鷹」二派抗争を舞台に、少年として育てられた女性主人公ジェドの記憶と正体を巡る重厚なゴシック乙女ノベル。選択肢で攻略対象との関係性と陣営の運命が変化する。",
+  "target": "重めの世界観・群像劇・ジェンダーテーマを楽しみたい 20-40 代の乙女ゲームファン層。前作『黒蝶のサイケデリカ』経験者と Aksys 系英語ローカライズ乙女ゲーファン。",
+  "slug": "psychedelica-of-the-ashen-hawk",
+  "file": "data/games/2010-psychedelica-of-the-ashen-hawk.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Psychedelica_of_the_Black_Butterfly_and_the_Ashen_Hawk",
+    "https://store.steampowered.com/app/865830/Psychedelica_of_the_Ashen_Hawk/",
+    "https://www.otomate.jp/psychedelica/"
+  ]
+}

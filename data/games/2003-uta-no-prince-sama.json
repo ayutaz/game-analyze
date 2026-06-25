@@ -1,0 +1,34 @@
+{
+  "id": 2003,
+  "title_jp": "うたの☆プリンスさまっ♪",
+  "title_en": "Uta no Prince-sama",
+  "developer": "Broccoli",
+  "publisher": "Broccoli",
+  "year": 2010,
+  "platform": [
+    "PSP"
+  ],
+  "genre": "恋愛アドベンチャー/リズム（女性向け）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "PSP発の女性向け恋愛ADV＋リズムが大ヒットし、A-1 Pictures製アニメ・劇場版・ライブと連動して「うたプリ」一大IPに発展。アイドル男子×音楽というメディアミックス勝ち筋を確立した。",
+  "concept": "早乙女学園を舞台に、作曲家志望の主人公が6人のアイドル候補生と組んでデビューを目指す恋愛ADV。ストーリー＋作曲ミニゲーム＋リズム演奏試験を組み合わせ、物語消費と推し選びを両立させる構造。",
+  "target": "10～30代の女性、特に音楽・声優・アイドル文化に親和性の高い層。推しキャラを深く追体験したい女性向けゲームファンと、後のアニメ／ライブから入った2.5次元ファン。",
+  "slug": "uta-no-prince-sama",
+  "file": "data/games/2003-uta-no-prince-sama.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Uta_no_Prince-sama",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9F%E3%81%AE%E2%98%86%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9%E3%81%95%E3%81%BE%E3%81%A3%E2%99%AA",
+    "https://www.famitsu.com/article/202506/45330",
+    "https://www.sbbit.jp/article/cont1/117515",
+    "https://utanoprincesama.fandom.com/wiki/Uta_no%E2%98%86Prince-sama%E2%99%AA_(game)"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1322,
+  "title_jp": "Love Nikki -Dress UP Queen-",
+  "title_en": "Love Nikki - Dress UP Queen",
+  "developer": "Papergames",
+  "publisher": "Papergames / Elex",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "着せ替えコーデRPG",
+  "sales_jp": "—",
+  "sales_world": "85M+ DL / $400M+ 収益（中華 Android 除く、Sensor Tower）",
+  "primary": "REW",
+  "secondary": [
+    "NAR",
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "中国版「奇跡暖暖」発の着せ替えRPGの国際版。Sensor Tower 集計で全世界 85M DL / $400M+ 収益を稼ぎ、女性向けガチャ市場の世界的成功例として頻繁に引用される。",
+  "concept": "テーマに合わせた衣装をコーデで競う「着せ替え×ガチャ×ストーリー」のハイブリッド。7 大陸を旅する物語の合間にスタイリングバトルを挟み、衣装収集とランキング上位を狙う動機を二重化している。",
+  "target": "10-30 代の女性プレイヤー、ファッション・キャラクター愛好層、ガチャと収集を楽しみたい長期運営モバイル RPG ユーザー。",
+  "slug": "love-nikki-dress-up-queen",
+  "file": "data/games/1322-love-nikki-dress-up-queen.json",
+  "_source_urls": [
+    "https://fr.wikipedia.org/wiki/Love_Nikki-Dress_Up_Queen!",
+    "https://lovenikki.fandom.com/wiki/Love_Nikki-Dress_UP_Queen",
+    "https://app.sensortower.com/overview/1214763767?country=US",
+    "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%8B%E3%82%AD",
+    "https://naavik.co/digest/paper-games-to-infinity-nikki-and-beyond/"
+  ]
+}

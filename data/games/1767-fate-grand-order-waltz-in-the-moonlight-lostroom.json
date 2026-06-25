@@ -1,0 +1,32 @@
+{
+  "id": 1767,
+  "title_jp": "Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM",
+  "title_en": "Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM",
+  "developer": "DELiGHTWORKS",
+  "publisher": "Aniplex",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リズムアクション",
+  "sales_jp": "550K DL（配信上限到達）",
+  "sales_world": "550K+ DL (初日上限到達)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "FGO 5 周年記念の無料限定配信タイトルとして 55 万 DL 上限を即日達成、Fate ファン界隈で大バズした。豊富なサーヴァント衣装とマシュとのダンス演出が SNS で話題に。",
+  "slug": "fate-grand-order-waltz-in-the-moonlight-lostroom",
+  "file": "data/games/1767-fate-grand-order-waltz-in-the-moonlight-lostroom.json",
+  "concept": "FGO 5 周年を祝う期間限定リズムアクション。マスターとマシュが舞踏会で踊るという特別シナリオを軸に、楽曲のビートに合わせてタップしサーヴァントたちと共演するファンサービス特化型タイトル。",
+  "target": "FGO プレイヤーおよび Fate シリーズファンで、本編とは別軸のキャラクター演出（衣装・ダンス・楽曲）を楽しみたい層。リズムゲーム経験者にも親和性が高い。",
+  "_source_urls": [
+    "https://www.fate-go.jp/fgow/",
+    "https://gamebiz.jp/news/273798",
+    "https://www.4gamer.net/games/523/G052360/20200819084/",
+    "https://www.animatetimes.com/news/details.php?id=1597146815"
+  ]
+}

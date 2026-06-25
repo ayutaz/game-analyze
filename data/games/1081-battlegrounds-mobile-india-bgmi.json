@@ -1,0 +1,30 @@
+{
+  "id": 1081,
+  "title_jp": "Battlegrounds Mobile India",
+  "title_en": "Battlegrounds Mobile India (BGMI)",
+  "developer": "Krafton",
+  "publisher": "Krafton",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/モバイルシューター",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL（インド）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "インド政府による PUBG Mobile 禁止後、Krafton がインド市場専用にリリースした実質後継版。2022 年 7 月時点で Google Play 累計 2.6 億 DL を突破し、2022 年 7 月に一度禁止された後 2023 年 5 月に復活、インドの e スポーツ／配信文化の中核を担う国民的タイトルとなった。",
+  "slug": "battlegrounds-mobile-india-bgmi",
+  "file": "data/games/1081-battlegrounds-mobile-india-bgmi.json",
+  "concept": "PUBG Mobile のインドローカライズ版として Krafton がインド国内専用に運営するバトルロイヤル。100 人が島に降下し最後の 1 組を競う TPS／FPS で、データセンターをインドに置きインド向けコンテンツ・コラボに振り切っているのが特徴。",
+  "target": "インドのスマホネイティブ世代（10-30 代男性中心）。FPS／バトロワを安価な端末で友人とボイチャしながら遊びたい層、e スポーツ観戦・配信文化に親和性の高い若年層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Battlegrounds_Mobile_India",
+    "https://krafton.in/games/battlegrounds-mobile-india-bgmi/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000082433.html"
+  ]
+}

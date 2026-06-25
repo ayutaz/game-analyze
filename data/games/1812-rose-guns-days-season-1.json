@@ -1,0 +1,28 @@
+{
+  "id": 1812,
+  "title_jp": "ROSE GUNS DAYS Season 1",
+  "title_en": "Rose Guns Days Season 1",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/ノワール",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ひぐらし・うみねこを手がけた龍騎士07の第4作。2026年4月にMangaGamer/Steamで多言語HD版が正式リリースされ、英語圏ビジュアルノベルファンの注目を集めた。",
+  "concept": "第二次大戦後の架空の占領下日本を舞台に、酒と硝煙にまみれたノワール群像劇を読み進めるビジュアルノベル。要所でクイックタイムイベントの殴り合いが挿入される。",
+  "target": "龍騎士07作品ファン、ハードボイルド/ノワールや戦後史IFが好きな読書型ビジュアルノベル層。",
+  "slug": "rose-guns-days-season-1",
+  "file": "data/games/1812-rose-guns-days-season-1.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rose_Guns_Days",
+    "https://07th-expansion.fandom.com/wiki/Rose_Guns_Days:_Season_1",
+    "https://www.animenewsnetwork.com/news/2026-04-11/mangagamer-releases-rose-guns-days-game-1st-season/.236274",
+    "https://finalweapon.net/2026/04/11/rose-guns-days-season-1-is-out-now-for-mangagamer-and-steam/"
+  ]
+}

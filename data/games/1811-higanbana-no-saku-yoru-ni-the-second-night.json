@@ -1,0 +1,32 @@
+{
+  "id": 1811,
+  "title_jp": "彼岸花の咲く夜に - 第二夜",
+  "title_en": "Higanbana no Saku Yoru ni: The Second Night",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ホラー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "竜騎士07が手掛ける学校怪談サウンドノベルの完結編。コミケ81で頒布された同人作品ながら、ひぐらし/うみねこファンを中心にカルト的人気を獲得し、Spider Lily Translations による英訳パッチで海外にも届いた。",
+  "concept": "「いじめ」と「七不思議」をテーマに、学校に巣食う妖と子供たちの残酷で美しい一話完結型短編集。第一夜と世界観を共有しつつ、エピローグを含む全7章で物語を締めくくる。",
+  "target": "ひぐらし/うみねこなど 07th Expansion 作品のファン、サウンドノベル/ビジュアルノベル愛好家、和製ホラー・怪談ものを好む層。",
+  "slug": "higanbana-no-saku-yoru-ni-the-second-night",
+  "file": "data/games/1811-higanbana-no-saku-yoru-ni-the-second-night.json",
+  "_source_urls": [
+    "https://07th-expansion.fandom.com/wiki/Higanbana_no_Saku_Yoru_ni:_The_Second_Night",
+    "https://en.wikipedia.org/wiki/Higanbana_no_Saku_Yoru_ni",
+    "https://ja.wikipedia.org/wiki/%E5%BD%BC%E5%B2%B8%E8%8A%B1%E3%81%AE%E5%92%B2%E3%81%8F%E5%A4%9C%E3%81%AB",
+    "https://07th-expansion.net/higan_gen",
+    "https://glitchwave.com/game/higanbana-no-saku-yoru-ni-the-second-night/release/%E5%BD%BC%E5%B2%B8%E8%8A%B1%E3%81%AE%E5%92%B2%E3%81%8F%E5%A4%9C%E3%81%AB-%E7%AC%AC%E4%BA%8C%E5%A4%9C-windows-jp/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

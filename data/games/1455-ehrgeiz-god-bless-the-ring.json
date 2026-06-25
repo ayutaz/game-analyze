@@ -1,0 +1,32 @@
+{
+  "id": 1455,
+  "title_jp": "エアガイツ",
+  "title_en": "Ehrgeiz: God Bless the Ring",
+  "developer": "DreamFactory",
+  "publisher": "Square (JP) / Squaresoft (NA)",
+  "year": 1998,
+  "platform": [
+    "Arcade",
+    "PS1"
+  ],
+  "genre": "3D対戦格闘（アリーナ型）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "FFVIIのクラウド・ティファ・セフィロスらが参戦する3D格闘として話題化。バーチャファイター/鉄拳の石井精一が監督、キャラデザインを野村哲也が担当した点でも当時の格ゲーファンの注目を集めた。",
+  "slug": "ehrgeiz-god-bless-the-ring",
+  "file": "data/games/1455-ehrgeiz-god-bless-the-ring.json",
+  "concept": "360度移動と段差・障害物のあるステージを活かしたアリーナ型3D格闘。PS版はDiablo風のダンジョン探索「Quest（Forsaken Dungeon）」モードを搭載し、武器・アイテムを集めながら戦う格ゲー＋ハクスラのハイブリッド設計。",
+  "target": "FFVIIファンと、Tobal/バーチャファイター系の自由移動3D格闘を好むコア格ゲープレイヤー層。アーケード対戦勢と、PS版のダンジョンモード目当てのシングル派の両方を想定。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ehrgeiz",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%82%AC%E3%82%A4%E3%83%84",
+    "https://www.jp.square-enix.com/game/detail/ehrgeiz/",
+    "https://finalfantasy.fandom.com/wiki/Ehrgeiz:_God_Bless_the_Ring",
+    "https://www.bandainamcoent.co.jp/corporate/press/namco/1998/1998-february/press-03.html"
+  ]
+}

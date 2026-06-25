@@ -1,0 +1,31 @@
+{
+  "id": 1932,
+  "title_jp": "殻ノ少女2",
+  "title_en": "Kara no Shoujo: The Second Episode",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / MangaGamer",
+  "year": 2013,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "アダルトミステリービジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『殻ノ少女』(2008) の正統続編で、昭和 32 年の猟奇殺人事件を題材にした重厚な耽美ミステリーとして VN ファンから高評価。2015 年に MangaGamer から英語版 (The Shell Part II: Purgatorio / The Second Episode) が配信され、海外でも18禁ミステリー VN の代表作として知られる。",
+  "concept": "私立探偵・時坂玲人を主人公に、昭和 30 年代の東京を舞台にした連続猟奇殺人事件を追うアドベンチャー。前作の真エンドを踏まえた「現代編」と、戦前から終戦直後を描く「過去編」が並走し、耽美的なビジュアルと残酷描写を融合させたゴシック・ミステリー VN。",
+  "target": "18 歳以上の重厚なミステリー／ゴシックホラー系ビジュアルノベルを好む読み手。前作『殻ノ少女』のファンと、耽美・猟奇テーマに耐性のあるアダルト VN コア層。",
+  "slug": "kara-no-shoujo-the-second-episode",
+  "file": "data/games/1932-kara-no-shoujo-the-second-episode.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kara_no_Sh%C5%8Djo",
+    "https://ja.wikipedia.org/wiki/%E8%99%9A%E3%83%8E%E5%B0%91%E5%A5%B3",
+    "https://mangagamer.org/kns2/",
+    "https://blog.mangagamer.org/2015/10/30/kara-no-shojo-the-second-episode-now-on-sale/",
+    "https://gamefaqs.gamespot.com/pc/684378-kara-no-shoujo-the-second-episode"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1564,
+  "title_jp": "シャドウ・オブ・ローマ",
+  "title_en": "Shadow of Rome",
+  "developer": "Capcom Production Studio 2",
+  "publisher": "Capcom",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/ステルス（剣闘士アクション）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "鬼武者3エンジン流用 + 稲船敬二プロデュースの古代ローマ剣闘士アクションとして話題になったが、商業的には不振。後年 Ono Yoshinori（オノ ヨシノリ）が「岩田社長が訊く」で「題材が日米欧で響かなかった」と振り返ったカルト的失敗作。",
+  "concept": "ユリウス・カエサル暗殺を題材に、剣闘士アグリッパの血みどろのアリーナ・アクションと、青年オクタヴィアヌスのステルス潜入を交互に体験する「ローマ史実 × グロリアスキル」アクションアドベンチャー。",
+  "target": "鬼武者・デビルメイクライ系のカプコンアクションを好む 20-40 代男性、歴史・古代ローマ題材に興味がある層、ステルスとゴア表現の両方を楽しめるコア層。",
+  "slug": "shadow-of-rome",
+  "file": "data/games/1564-shadow-of-rome.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadow_of_Rome",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6_%E3%82%AA%E3%83%96_%E3%83%AD%E3%83%BC%E3%83%9E",
+    "https://capcom.fandom.com/wiki/Shadow_of_Rome"
+  ]
+}

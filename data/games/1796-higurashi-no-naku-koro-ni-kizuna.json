@@ -1,0 +1,32 @@
+{
+  "id": 1796,
+  "title_jp": "ひぐらしのなく頃に絆",
+  "title_en": "Higurashi no Naku Koro ni Kizuna",
+  "developer": "Alchemist",
+  "publisher": "Alchemist",
+  "year": 2008,
+  "platform": [
+    "DS"
+  ],
+  "genre": "サウンドノベル/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "07th Expansion の同人ノベル『ひぐらしのなく頃に』を DS 向けにフルボイス・新規シナリオ追加で移植した公式ナンバリング。第一巻『祟』から第四巻『絆』まで全 4 巻構成で展開され、原作ファンと DS でノベル文化が一気に広がった層に強く刺さった。",
+  "concept": "雛見沢を舞台にした連続怪死事件を、複数の視点と「世界線」を切り替えながら読み解くサウンドノベル。DS 版では感情選択システム・メモシステム等の新要素と、原作未収録の新シナリオ群（染伝し・影紡し・解し・澪尽し）を追加し、原作の物語を再構成・補完する位置づけ。",
+  "target": "原作『ひぐらしのなく頃に』のファン層と、当時 DS で『極限脱出』『逆転裁判』『428』等のノベル系を遊んでいた 10-30 代のミステリ/オカルト/ノベル好き。同人原作を据置/携帯で追体験したいプレイヤー。",
+  "slug": "higurashi-no-naku-koro-ni-kizuna",
+  "file": "data/games/1796-higurashi-no-naku-koro-ni-kizuna.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E7%B5%86",
+    "https://www.nintendo.co.jp/ds/software/chgj/index.html",
+    "https://game.watch.impress.co.jp/docs/20080229/higu.htm",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Kizuna",
+    "https://whentheycry.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Kizuna"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

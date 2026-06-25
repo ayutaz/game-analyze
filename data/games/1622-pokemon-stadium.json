@@ -1,0 +1,30 @@
+{
+  "id": 1622,
+  "title_jp": "ポケモンスタジアム",
+  "title_en": "Pokémon Stadium",
+  "developer": "Nintendo EAD / HAL Laboratory",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "ポケモン3D対戦/ミニゲーム",
+  "sales_jp": "—",
+  "sales_world": "5.46M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "GB の赤緑青ピカチュウのポケモンを N64 の 3D で対戦させられる衝撃と、64GB パック経由でカートリッジから直接連れてくる体験が社会現象化。N64 末期の最大級ヒットとして Pokémon スピンオフ歴代最多売上を記録した。",
+  "concept": "携帯ゲーム機内のポケモンを 3D で召喚し、ルール別スタジアムで本格対戦させる「据置版ポケモンバトル」。ミニゲーム集とジムリーダーの城も収録し、対人 1vs1 と一人遊びを両立した。",
+  "target": "ポケモン赤緑青ピカチュウのプレイヤー全般、特に GB の対戦環境を友達と据置画面で共有したい小中学生と、ミニゲーム目当てのライト層。",
+  "slug": "pokemon-stadium",
+  "file": "data/games/1622-pokemon-stadium.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium",
+    "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_npsj/index.html"
+  ]
+}

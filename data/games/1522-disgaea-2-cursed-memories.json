@@ -1,0 +1,31 @@
+{
+  "id": 1522,
+  "title_jp": "魔界戦記ディスガイア2",
+  "title_en": "Disgaea 2: Cursed Memories",
+  "developer": "Nippon Ichi Software",
+  "publisher": "NIS America",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "シミュレーションRPG（やり込み型SRPG）",
+  "sales_jp": "—",
+  "sales_world": "400K+",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作『魔界戦記ディスガイア』の路線を継承した「レベル9999・装備品ダンジョン・転生」のやり込みSRPGとしてコア層に支持され、Metacritic 84点・IGN 2006年Best PS2 Strategy Game受賞などで海外でもブランドを確立した。",
+  "concept": "魔王ザンギーフに呪われた青年アデルが、暴君の娘ロザリンドを連れて旅をするコメディSRPG。レベル9999・アイテム界・転生・議会システム等、極端なやり込み深度と日本一ソフトウェアらしいギャグ満載の世界観が看板。",
+  "target": "シミュレーションRPGのやり込み（数百時間のレベリング・装備堀り）を好むコア層、前作ディスガイアやファントム・ブレイブ等の日本一ソフトウェア作品ファン、PS2世代のニッチSRPG愛好者。",
+  "slug": "disgaea-2-cursed-memories",
+  "file": "data/games/1522-disgaea-2-cursed-memories.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Disgaea_2",
+    "https://ja.wikipedia.org/wiki/%E9%AD%94%E7%95%8C%E6%88%A6%E8%A8%98%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AC%E3%82%A4%E3%82%A22",
+    "https://disgaea.jp/2/",
+    "https://www.mobygames.com/game/28042/disgaea-2-cursed-memories/"
+  ]
+}

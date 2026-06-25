@@ -1,0 +1,30 @@
+{
+  "id": 1652,
+  "title_jp": "スターオーシャン",
+  "title_en": "Star Ocean",
+  "developer": "tri-Ace",
+  "publisher": "Enix",
+  "year": 1996,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "SFC末期の48メガ大容量ROMと音声合成を用い、戦闘ボイス付きリアルタイムアクションRPGとして話題に。tri-Ace 第1作にしてシリーズ起点として後年まで再評価が続く。",
+  "concept": "SFとファンタジーを融合した宇宙探索RPG。リアルタイム制バトルとキャラ同士の素顔が垣間見える「プライベートアクション(PA)」を組み合わせ、戦う体験と人間関係の枝分かれを両立させた。",
+  "target": "SFC後期のアクションRPGとSF設定が好きな10-30代のRPGファン。テイルズ系のリアルタイム戦闘や、仲間との会話分岐を掘りたい層に刺さる。",
+  "slug": "star-ocean",
+  "file": "data/games/1652-star-ocean.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Ocean_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3",
+    "https://www.famitsu.com/news/202007/19202489.html",
+    "https://www.tri-ace.co.jp/en/products/"
+  ]
+}

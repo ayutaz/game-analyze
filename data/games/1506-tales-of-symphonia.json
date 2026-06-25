@@ -1,0 +1,33 @@
+{
+  "id": 1506,
+  "title_jp": "テイルズ オブ シンフォニア",
+  "title_en": "Tales of Symphonia",
+  "developer": "Namco Tales Studio",
+  "publisher": "Namco",
+  "year": 2003,
+  "platform": [
+    "GameCube",
+    "PS2",
+    "PS3",
+    "PC",
+    "Switch"
+  ],
+  "genre": "JRPG/アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "1.6M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "テイルズシリーズ初の3D化と『マルチラインリニアモーションバトル』で家庭用RPGに新風を吹き込み、シリーズ累計売上トップを記録。GC独占からPS2移植、PS3『シンフォニア クロニクル』、Steam/Switch リマスターと長年再販され続ける看板タイトル。",
+  "concept": "ロイドとコレットが「世界再生の旅」を巡る王道JRPGに、リアルタイムで前後左右に駆け回るアクションバトルを融合させた、テイルズシリーズの3D第一作。重厚な二世界並列の世界観と仲間スキットによる群像劇が中心動機。",
+  "target": "10-30代のJRPGファン、シリーズ古参、ストーリー重視で長尺の冒険譚を味わいたい層。スキット文化やキャラ掛け合いを楽しむ層にも刺さる。",
+  "slug": "tales-of-symphonia",
+  "file": "data/games/1506-tales-of-symphonia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_Symphonia",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2",
+    "https://www.bandainamcoent.co.jp/cs/list/talesofsymphonia/"
+  ]
+}

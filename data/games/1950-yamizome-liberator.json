@@ -1,0 +1,31 @@
+{
+  "id": 1950,
+  "title_jp": "闇染Liberator",
+  "title_en": "Yamizome Liberator",
+  "developer": "Escu:de",
+  "publisher": "Escu:de / JAST USA",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトADV/リアルタイムデッキ構築バトル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "萌えゲーアワード2020参加作。闇染Revenger続編として支持され、2024年末にJAST USA経由で英語版がSteam配信開始し海外VNコミュニティでも話題に。",
+  "concept": "Escu:deの『闇染Revenger』の続編。魔王を倒したはずの勇者が魔王の依代となり、自分を狩りに来る変身ヒロイン（魔法少女）たちを逆に「闇染め」するリアルタイムデッキ構築バトル＋アダルトADVのハイブリッド。",
+  "target": "18禁ビジュアルノベル愛好層、変身ヒロイン陥落・寝取り系シナリオを好む層、Escu:de長年のファンと、デッキ構築バトルとADVを併せ持つニッチな日本産VNを探す海外VNゲーマー。",
+  "slug": "yamizome-liberator",
+  "file": "data/games/1950-yamizome-liberator.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/3168720/Yamizome_Liberator/",
+    "https://moe-gameaward.com/title/detail.html?id=6221",
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=29864",
+    "https://noisypixel.net/yamizome-liberator-pc-launch/",
+    "https://www.otakustudy.com/visual-novel/2024/10/jast-usa-opens-pre-orders-for-yamizome-liberator/"
+  ]
+}

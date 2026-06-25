@@ -1,0 +1,33 @@
+{
+  "id": 1349,
+  "title_jp": "NBA 2K Mobile",
+  "title_en": "NBA 2K Mobile Basketball",
+  "developer": "Cat Daddy Games",
+  "publisher": "2K",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "スポーツ/カードコレクション (バスケ)",
+  "sales_jp": "—",
+  "sales_world": "41M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "コンソール版 NBA 2K の派生スピンオフとして、Victor Wembanyama / SGA / Curry から Jordan / Shaq までスター 400 人超のカードを集めて編成・対戦できる無料モバイル版。シーズン制で年次アップデートされ、全世界累計 4,100 万 DL を突破。",
+  "concept": "本家 NBA 2K の重量級シミュレーションを、5 対 5 のスタメンだけ・1 ハーフ 2 分のショート試合に圧縮した「コレクション + リアルタイム対戦」型モバイルスピンオフ。育てた NBA カードで対人イベントとデイリーチャレンジを回す、ガチャ型カードバスケ。",
+  "target": "NBA ファンとバスケ好きの 10-40 代、特に通勤・休憩時間に短時間で本格スポーツ IP を味わいたいライト層。実機 NBA 2K のコア層よりも、カード収集と推し選手育成を楽しむ FUT / MyTEAM 系のプレイヤーに刺さる。",
+  "slug": "nba-2k-mobile-basketball",
+  "file": "data/games/1349-nba-2k-mobile-basketball.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/NBA_2K_Mobile",
+    "https://play.google.com/store/apps/details?id=com.catdaddy.nba2km",
+    "https://catdaddygames.com/",
+    "https://newsroom.2k.com/news/nbar-2k-mobile-season-7-now-available",
+    "https://apps.apple.com/jp/app/nba-2k-mobile-%E6%90%BA%E5%B8%AF%E3%83%90%E3%82%B9%E3%82%B1%E3%82%B2%E3%83%BC%E3%83%A0/id1252850847",
+    "https://www.4gamer.net/games/441/G044176/"
+  ]
+}

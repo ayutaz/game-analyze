@@ -1,0 +1,28 @@
+{
+  "id": 1724,
+  "title_jp": "トージャム&アール イン パニック オン ファンコトロン",
+  "title_en": "ToeJam & Earl in Panic on Funkotron",
+  "developer": "Johnson Voorsanger Productions",
+  "publisher": "Sega",
+  "year": 1993,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "横スクロール・アクション/アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "前作の不思議系ローグライクから一転、ファンク調BGMと2P同時プレイの横スクロールアクションへ路線変更。北米でカルト人気を獲得し、後年Xbox 360のトージャム＆アールコレクションやセガ メガドライブ for Nintendo Switch Online（2024年11月配信）で日本上陸を果たした。",
+  "concept": "宇宙人デュオが故郷ファンコトロンに帰還するとアースリングたちが密航しており、瓶詰めにして地球へ送り返す横スクロールアクション。前作のローグライク要素を捨てファンク・ミュージックと探索パズルに振り切った続編。",
+  "target": "メガドライブ世代の北米コアファン、ファンク／ヒップホップ文化やレトロ・カルトゲームを愛好する層、2P協力プレイをのんびり楽しみたいプレイヤー。",
+  "slug": "toejam-and-earl-in-panic-on-funkotron",
+  "file": "data/games/1724-toejam-and-earl-in-panic-on-funkotron.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/ToeJam_%26_Earl_in_Panic_on_Funkotron",
+    "https://ages.sega.jp/online/title/tojam_earl_panic/index.html",
+    "https://www.famitsu.com/news/201211/19024610.html",
+    "https://news.denfaminicogamer.jp/news/241127m"
+  ]
+}

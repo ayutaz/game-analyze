@@ -1,0 +1,29 @@
+{
+  "id": 2059,
+  "title_jp": "FLOWERS 夏篇",
+  "title_en": "Flowers -Le volume sur Été-",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / JAST USA",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "PSP",
+    "PS Vita"
+  ],
+  "genre": "百合ミステリ・アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Innocent Grey による全年齢百合ノベル「FLOWERS」四部作の第2弾。Steam 英語版は overwhelmingly positive（99% 好評／1,194 件超）と海外百合 VN コミュニティで高評価。",
+  "concept": "聖アングレカム学園を舞台に、新主人公エリカが過去の事件を追うミステリと、繊細な百合関係を交差させる季節シリーズ「夏篇」。前作の謎を引き継ぎつつ、より重い葛藤を読ませる物語特化型 ADV。",
+  "target": "百合・乙女系ビジュアルノベル愛好家、Innocent Grey ファン、全年齢ミステリ ADV を腰を据えて読みたい読者層。",
+  "slug": "flowers-le-volume-sur-ete",
+  "file": "data/games/2059-flowers-le-volume-sur-ete.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Flowers_(video_game_series)",
+    "https://store.steampowered.com/app/858940/Flowers_Le_volume_sur_ete/",
+    "http://flowersgame.com/"
+  ]
+}

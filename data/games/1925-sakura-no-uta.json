@@ -1,0 +1,31 @@
+{
+  "id": 1925,
+  "title_jp": "サクラノ詩",
+  "title_en": "Sakura no Uta",
+  "developer": "Makura",
+  "publisher": "Makura",
+  "year": 2015,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2015年萌えゲーアワード大賞・ユーザー支持賞を受賞。すかぢ脚本の構想15年越しという話題性と、芸術・人生・哲学を文学的に織り込んだ濃密な物語で、ビジュアルノベル史上屈指の名作として長年語り継がれている。",
+  "concept": "「櫻の森の上を舞う」をモチーフに、絵画・芸術・人生をテーマとした重層的なビジュアルノベル。古今東西の詩や哲学的引用を散りばめ、伏線を全章で回収する文学志向の長編ノベルゲーム。",
+  "target": "重厚な物語と文学的表現を好む20-40代の成人ノベルゲーマー。芸術・哲学テーマを腰を据えて読み込みたい層、すかぢ/Makura ブランドの既存ファン層。",
+  "slug": "sakura-no-uta",
+  "file": "data/games/1925-sakura-no-uta.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%8E%E8%A9%A9",
+    "https://en.wikipedia.org/wiki/Sakura_no_Uta",
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=4529",
+    "https://news.livedoor.com/article/detail/29201390/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

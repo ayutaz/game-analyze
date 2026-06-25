@@ -1,0 +1,34 @@
+{
+  "id": 1114,
+  "title_jp": "ジェリポップマッチ",
+  "title_en": "Jellipop Match",
+  "developer": "Microfun",
+  "publisher": "Microfun",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/デコレーション",
+  "sales_jp": "—",
+  "sales_world": "20M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "3,000以上の豊富なステージとお店・水上パークのデコレーション要素を組み合わせた『Gardenscapes』フォロワー型のマッチ3で、グローバル累計 1,000万 DL を超えるロングセラーとして女性層を中心に支持されている。",
+  "concept": "ブロック消去パズルでコインを稼ぎ、トロピカルな島の水上パークや高級ヴィラを家具・装飾で作り変えていく「パズル × ホームデコ」型のカジュアルゲーム。魔女や SF キャラの登場するゆるいストーリーとキュートなビジュアルで世界観を統一している。",
+  "target": "20-40代女性を中心としたカジュアルパズル層、『キャンディークラッシュ』『ガーデンスケイプ』系を遊ぶスキマ時間プレイヤー。",
+  "slug": "jellipop-match",
+  "file": "data/games/1114-jellipop-match.json",
+  "_source_urls": [
+    "https://apps.apple.com/jp/app/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%9D%E3%83%83%E3%83%97%E3%83%9E%E3%83%83%E3%83%81-jellipopmatch/id1149330452",
+    "https://play.google.com/store/apps/details?id=com.jellyblast.cmcm&hl=en_US",
+    "https://mwm.ai/apps/jellipop-match/1149330452",
+    "https://risemaranking.com/jellipopmatch/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

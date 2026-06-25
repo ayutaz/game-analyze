@@ -1,0 +1,34 @@
+{
+  "id": 1147,
+  "title_jp": "ラストオリジン",
+  "title_en": "Last Origin",
+  "developer": "SmartJoy",
+  "publisher": "Pig Cell",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "次世代美少女×戦略RPG/ターン制SRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "韓国発の美少女バイオロイド収集×ターン制戦略RPG。露出度の高い差分グラフィックやストア審査を巡る規制議論で度々話題となり、コアな美少女ガチャ層を獲得した。",
+  "concept": "鉄虫により人類が滅亡した 100 年後の世界を舞台に、司令官となってバイオロイド美少女たちを編成・育成し、9 マスのグリッド上でターン制戦闘を行う終末戦略RPG。陣形と被弾抑制を組み合わせる戦術性が核。",
+  "target": "美少女キャラ収集とターン制戦術 SRPG の両方を求めるコア層、20-40 代男性。萌え系×ハードコア戦術という尖った組み合わせに刺さるプレイヤー層。",
+  "slug": "last-origin",
+  "file": "data/games/1147-last-origin.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%88%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3",
+    "https://www.last-origin.com/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LastOrigin",
+    "https://www.mobygames.com/game/196562/last-origin/",
+    "https://play.google.com/store/apps/details?id=com.pig.laojp.aos&hl=en"
+  ]
+}

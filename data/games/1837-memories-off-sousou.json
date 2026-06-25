@@ -1,0 +1,34 @@
+{
+  "id": 1837,
+  "title_jp": "メモリーズオフ 想奏",
+  "title_en": "Memories Off Sousou",
+  "developer": "MAGES.",
+  "publisher": "MAGES.",
+  "year": 2025,
+  "platform": [
+    "Switch",
+    "PS5",
+    "PS4",
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『メモリーズオフ』シリーズ25周年記念タイトルとして2025年4月10日に発売。長年のシリーズファンに加え、超限定版・パッケージ特典の予約完売や4Gamer・ファミ通の特集により再注目を集めた。",
+  "concept": "「かけがえのない想い」をテーマに、新たな登場人物たちの群像恋愛模様を描くシリーズ25周年記念のビジュアルノベル。歴代メモオフの叙情的な失恋・選択の重さを継承しつつ、現代的な作画と新ヒロインで再構築した完全新作。",
+  "target": "20-40代のメモオフ／泣きゲー世代の男性プレイヤーを主軸に、ノベルゲーム愛好層や日本語ビジュアルノベルを好むアジア圏ファンも含む。",
+  "slug": "memories-off-sousou",
+  "file": "data/games/1837-memories-off-sousou.json",
+  "_source_urls": [
+    "https://www.famitsu.com/article/202504/39346",
+    "https://www.4gamer.net/games/743/G074342/20241205040/",
+    "https://www.gematsu.com/2025/09/memories-off-sousou-break-out-of-my-shell-announced-for-ps5-ps4-switch-and-pc",
+    "https://memoriesoff.jp/25th/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1279,
+  "title_jp": "ロード・オブ・ザ・リング：ライズ・トゥ・ウォー",
+  "title_en": "The Lord of the Rings: Rise to War",
+  "developer": "NetEase",
+  "publisher": "Warner Bros",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "地政学ストラテジー/シーズン制ウォーゲーム",
+  "sales_jp": "—",
+  "sales_world": "—（2025年12月31日サービス終了）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "映画『ロード・オブ・ザ・リング』三部作の公式ライセンスを得たNetEase製の領地拡張型ストラテジーで、Howard Shoreの劇伴と映画版ビジュアルを使用。日本では2022年4月に正式サービス開始も2025年12月でサ終となり、長期運営型ストラテジーの厳しさを象徴する事例として話題化した。",
+  "concept": "中つ国を舞台に「一つの指輪」を巡って勢力を拡張するシーズン制の地政学ストラテジー。プレイヤーは陣営を選び、領地・軍隊・英雄を成長させ、サーバー単位の同盟戦で覇権を争う。",
+  "target": "Lord of the Rings 映画ファン層と、Lords Mobile / Rise of Kingdoms 系のシーズン制ストラテジーを遊ぶ重課金 30-50 代男性層。映画版の没入感とハードコアな同盟外交を両立させたいプレイヤー。",
+  "slug": "the-lord-of-the-rings-rise-to-war",
+  "file": "data/games/1279-the-lord-of-the-rings-rise-to-war.json",
+  "_source_urls": [
+    "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings:_Rise_to_War",
+    "https://www.lotr-risetowar.com/m/news/20210923/32839_974134.html",
+    "https://gamebiz.jp/news/415608",
+    "https://dengekionline.com/article/202511/56282",
+    "https://www.famitsu.com/news/202203/03253321.html",
+    "https://www.gamespot.com/articles/lord-of-the-rings-rise-to-war-release-date-is-september-23/1100-6495545/"
+  ]
+}

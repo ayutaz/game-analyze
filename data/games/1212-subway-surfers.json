@@ -1,0 +1,32 @@
+{
+  "id": 1212,
+  "title_jp": "サブウェイ・サーファーズ",
+  "title_en": "Subway Surfers",
+  "developer": "SYBO Games / Kiloo",
+  "publisher": "SYBO Games",
+  "year": 2012,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "エンドレスランナー/アクション",
+  "sales_jp": "—",
+  "sales_world": "4.5B+ DL（2025年9月時点、史上最多DLモバイルゲーム）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2012年配信開始、Google Play初の10億DL達成タイトル。2023年に累計40億DLを突破し、月間アクティブユーザー1.5億超を維持する史上最大級のモバイルゲーム。TikTokで「集中力維持映像」として右半分に流される文化的バズも発生した。",
+  "concept": "地下鉄構内を駆け抜けながら警備員から逃げ、コインを集めて障害物をスワイプ操作で回避するエンドレスランナー。世界各都市を巡る「ワールドツアー」更新と、新キャラ／ホバーボード／日替わりイベントで10年以上飽きさせず継続させた。",
+  "target": "全年齢の非ゲーマー層、特に小学生〜10代と隙間時間で遊ぶ層。短時間プレイ・縦持ち片手操作・無料DLという徹底したカジュアル設計で、スマホ初心者の入り口にもなる。",
+  "slug": "subway-surfers",
+  "file": "data/games/1212-subway-surfers.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Subway_Surfers",
+    "https://sybogames.com/press/4-billion-downloads/",
+    "https://www.businessofapps.com/data/subway-surfers-statistics/",
+    "https://www.gamedeveloper.com/game-platforms/mobile-classic-i-subway-surfers-i-surpasses-3-billion-lifetime-downloads"
+  ]
+}

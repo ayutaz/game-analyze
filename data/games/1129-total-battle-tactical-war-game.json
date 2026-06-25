@@ -1,0 +1,40 @@
+{
+  "id": 1129,
+  "title_jp": "Total Battle: War Strategy",
+  "title_en": "Total Battle: Tactical War Game",
+  "developer": "Scorewarrior",
+  "publisher": "Scorewarrior",
+  "year": 2017,
+  "platform": [
+    "Browser",
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "MMO 4X リアルタイムストラテジー",
+  "sales_jp": "—",
+  "sales_world": "$500M+ lifetime",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "クロスプラットフォーム（ブラウザ・iOS・Android・PC）対応の MMO 4X RTS として長期運営。世界中のクランが領土と栄光を巡って戦う PvP / PvE 混合の構造と、iOS だけで月商 $8M クラスの広告投下量で安定したユーザー流入を確保している。",
+  "concept": "古代文明と魔法王国が交錯するファンタジー世界を舞台に、城・領地・軍勢を育てて他クランと領土を奪い合う MMO 4X RTS。ブラウザを基幹プラットフォームに据えつつスマホ・PC でも同じアカウントで遊べる「どこでも続けられる戦争ゲーム」をコンセプトに掲げる。",
+  "target": "30-50 代の戦略 SLG / ブラウザ MMO 経験者、Lords Mobile・Rise of Kingdoms 等の領土戦ジャンル愛好者。長期運営型ゲームでクランに所属して定期的にログインできる、PvP の駆け引きや同盟外交を楽しみたい層。",
+  "slug": "total-battle-tactical-war-game",
+  "file": "data/games/1129-total-battle-tactical-war-game.json",
+  "_source_urls": [
+    "https://scorewarrior.com/games",
+    "https://apps.apple.com/us/app/total-battle-war-strategy/id1274132545",
+    "https://play.google.com/store/apps/details?id=com.totalbattle&hl=en_US",
+    "https://steamdb.info/app/978290/",
+    "https://totalbattle.com/en/",
+    "https://app.sensortower.com/overview/1274132545?country=US",
+    "https://app.gamedia.jp/game/5955"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

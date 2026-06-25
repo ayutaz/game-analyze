@@ -1,0 +1,29 @@
+{
+  "id": 1517,
+  "title_jp": "シャドウハーツ フロム・ザ・ニューワールド",
+  "title_en": "Shadow Hearts: From the New World",
+  "developer": "Nautilus",
+  "publisher": "XSEED / Aruze",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ホラーテイストRPG",
+  "sales_jp": "—",
+  "sales_world": "200K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "1929年のアメリカを舞台にしたシャドウハーツシリーズ完結編。前作までの陰鬱な世界観からポップでコミカルな路線へ転換し、ジョニーら新主人公チームによる新章としてシリーズファンの間で賛否を呼んだ。Nautilus 最後の開発作品としても語られる。",
+  "slug": "shadow-hearts-from-the-new-world",
+  "file": "data/games/1517-shadow-hearts-from-the-new-world.json",
+  "concept": "ジャッジメントリング戦闘とラブクラフト的世界観を継承しつつ、舞台を 1920 年代アメリカに移しトーンをコミカルに振った 3D ホラー RPG。シリーズ伝統の異形変身と仲間融合システムを軸に、新世代主人公の物語を完結させる。",
+  "target": "シャドウハーツ I/II をプレイした既存ファンと、PS2 期の中堅 JRPG を遊んできた 20-40 代男性層。ダークファンタジー＋オカルト＋アメリカン・パルプの混交テイストを好む層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadow_Hearts:_From_the_New_World",
+    "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%83%8F%E3%83%BC%E3%83%84%E3%83%BB%E3%83%95%E3%83%AD%E3%83%A0%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89",
+    "http://www.shadowhearts.net/shf/"
+  ]
+}

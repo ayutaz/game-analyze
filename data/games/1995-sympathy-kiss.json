@@ -1,0 +1,28 @@
+{
+  "id": 1995,
+  "title_jp": "シンパシーキッス",
+  "title_en": "Sympathy Kiss",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "オトナ女子に捧ぐドラマティカルラブADV / 乙女ゲーム",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Lover Pretend と同じ青木弘恵ディレクター×藤莉斗イラストの布陣で、IT 企業を舞台にした「オトナ女子」向け職場恋愛 ADV として注目を集め、英語版も Idea Factory International から 2024 年 2 月に Nintendo Switch 用に発売されて海外乙女ゲーマー層に届いた。",
+  "concept": "モバイルアプリ開発会社「Estario」に勤めるアカリが、Love ポイントと Work ポイントを天秤にかけながら同僚との恋と仕事の両立を選び取る職場恋愛アドベンチャー。RiNG システムでメッセージや通話を行い、5 つの感情選択で攻略対象との関係性が分岐する。",
+  "target": "20-30 代の社会人女性、現代日本の職場恋愛と「働く自分」を物語として消費したい乙女ゲームファン層。",
+  "slug": "sympathy-kiss",
+  "file": "data/games/1995-sympathy-kiss.json",
+  "_source_urls": [
+    "https://www.otomate.jp/sympathykiss/",
+    "https://presswalker.jp/press/2055",
+    "https://www.siliconera.com/my-next-life-as-a-villainess-and-sympathy-kiss-otome-games-leaving-japan/",
+    "https://sweetnspicyreviews.com/2023/07/22/sympathy-kiss-brings-office-drama-and-romance-to-the-nintendo-switch-early-2024-news/"
+  ]
+}

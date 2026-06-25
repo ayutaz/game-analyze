@@ -1,0 +1,30 @@
+{
+  "id": 1934,
+  "title_jp": "Cartagra 〜罪の咎と告白の余白〜",
+  "title_en": "Cartagra: Affliction of the Soul",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / MangaGamer",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS2",
+    "Switch"
+  ],
+  "genre": "ミステリーアドベンチャー/伝奇ホラーノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Innocent Grey デビュー作にして『虚ノ少女』シリーズの源流。1950 年代の上野を舞台にした猟奇殺人と耽美的ビジュアルが熱心なノベル層に支持され、2014 年に MangaGamer 英語版、2026 年に Switch 版で再評価された。",
+  "concept": "占領期 1950 年代の東京を舞台に、元刑事が失踪した令嬢の捜索と猟奇連続殺人事件に巻き込まれていく伝奇ミステリーノベル。耽美的な絵柄とゴア描写を両立させた読み物特化の構造で、後の『虚ノ少女』シリーズの世界観・キャラクターの原型となった。",
+  "target": "重厚な伝奇ミステリ・猟奇ホラーノベルを好む 20-40 代のアダルト PC ゲーマー、Innocent Grey/虚ノ少女シリーズのファン、昭和レトロ世界観の作品を求めるノベルゲーマー層。",
+  "slug": "cartagra-affliction-of-the-soul",
+  "file": "data/games/1934-cartagra-affliction-of-the-soul.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%B0%E3%83%A9_%E3%80%9C%E3%83%84%E3%82%AD%E7%8B%82%E3%82%A4%E3%83%8E%E7%97%85%E3%80%9C",
+    "http://www.gungnir.co.jp/innocentgrey/products/pro_cartagra/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Cartagra",
+    "https://noisypixel.net/innocent-grey-visual-novel-cartagra-switch-edition-opening-video-revealed-in-new-trailer/"
+  ]
+}

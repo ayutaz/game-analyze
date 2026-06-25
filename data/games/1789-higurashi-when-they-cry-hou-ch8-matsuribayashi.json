@@ -1,0 +1,27 @@
+{
+  "id": 1789,
+  "title_jp": "ひぐらしのなく頃に解 祭囃し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.8 Matsuribayashi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2006,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミケ70で頒布された『ひぐらしのなく頃に』本編の完結章。雛見沢症候群の真相と「最後の幸せな夢」を描き、同人ノベルゲーム史に残るムーブメントの締めくくりとなった。",
+  "concept": "出題編・解答編を貫いてきた連続惨劇の謎を全て回収する完結章。仲間と運命を変える「最後のループ」を描き、ミステリー＋ジュブナイル＋ホラーの構造を読者に解放させるサウンドノベル。",
+  "target": "出題編〜解の前 7 章を読み終え結末を見届けたい既存ファン層、長尺ノベルゲームと考察コミュニティを楽しむミステリー読者層。",
+  "slug": "higurashi-when-they-cry-hou-ch8-matsuribayashi",
+  "file": "data/games/1789-higurashi-when-they-cry-hou-ch8-matsuribayashi.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E8%A7%A3_%E7%A5%AD%E5%9B%83%E3%81%97%E7%B7%A8",
+    "https://store.steampowered.com/app/1243670/Higurashi_When_They_Cry_Hou__Ch8_Matsuribayashi/",
+    "https://07th-expansion.fandom.com/wiki/Matsuribayashi"
+  ]
+}

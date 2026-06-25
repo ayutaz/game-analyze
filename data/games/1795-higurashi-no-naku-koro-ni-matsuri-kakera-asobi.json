@@ -1,0 +1,29 @@
+{
+  "id": 1795,
+  "title_jp": "ひぐらしのなく頃に祭 カケラ遊び",
+  "title_en": "Higurashi no Naku Koro ni Matsuri: Kakera Asobi",
+  "developer": "07th Expansion / Alchemist",
+  "publisher": "Alchemist",
+  "year": 2007,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サウンドノベル/ビジュアルノベル",
+  "sales_jp": "51,666本（アペンド版・ファミ通ゲーム白書2008）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "07th Expansion 同人ノベル『ひぐらしのなく頃に』の PS2 リメイク版『祭』に祭囃し編要素と主人公フルボイス・改良フローチャートを追加した拡張版で、原作ファン向けの決定版として位置付けられた。",
+  "concept": "PS2 版『祭』をベースに、原作 PC 版の祭囃し編から要素を取り込み、前原圭一など主要キャラのフルボイス化と TIPS 追加を行ったアペンド／単体併売のサウンドノベル決定版。",
+  "target": "PC 同人版・PS2『祭』を遊んだひぐらしファン、原作の真相パートまで PS2 で体験したいビジュアルノベル愛好層。",
+  "slug": "higurashi-no-naku-koro-ni-matsuri-kakera-asobi",
+  "file": "data/games/1795-higurashi-no-naku-koro-ni-matsuri-kakera-asobi.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E7%A5%AD",
+    "https://game.watch.impress.co.jp/docs/20070920/higu.htm",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Matsuri",
+    "https://gamefaqs.gamespot.com/ps2/943447-higurashi-no-naku-koro-ni-matsuri-kakera-asobi",
+    "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry"
+  ]
+}

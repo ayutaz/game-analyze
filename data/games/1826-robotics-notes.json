@@ -1,0 +1,33 @@
+{
+  "id": 1826,
+  "title_jp": "ROBOTICS;NOTES",
+  "title_en": "Robotics;Notes",
+  "developer": "5pb. / Nitroplus",
+  "publisher": "5pb. / Spike Chunsoft",
+  "year": 2012,
+  "platform": [
+    "Xbox 360",
+    "PS3",
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/AR拡張現実SFアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「科学アドベンチャーシリーズ」第3弾としてSTEINS;GATE人気の延長で注目を集め、種子島を舞台にした巨大ロボ建造×AR陰謀劇というSF要素でアニメ化・Elite/DaSH と長期展開された。",
+  "concept": "種子島の高校ロボット研究部を舞台に、AR デバイス「ポケコン」越しに浮かび上がる陰謀と巨大ロボ「ガンつく1号」建造を描く、5pb./Nitroplus の科学アドベンチャーシリーズ第3作。",
+  "target": "STEINS;GATE 等の科学アドベンチャーシリーズのファン、SF・ロボット・AR ガジェット好きの 20〜30 代ノベルゲーマー層。",
+  "slug": "robotics-notes",
+  "file": "data/games/1826-robotics-notes.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Robotics;Notes",
+    "https://www.spike-chunsoft.com/games/roboticsnotes-double-pack/",
+    "https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/",
+    "https://www.animenewsnetwork.com/news/2018-06-18/mages-president-reveals-existence-of-switch-versions-of-robotics-notes-elite-memories-off-games/.133027"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1991,
+  "title_jp": "ビルシャナ戦姫 〜源平飛花夢想〜",
+  "title_en": "Birushana: Rising Flower of Genpei",
+  "developer": "Otomate / Red Entertainment",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "源平合戦を舞台に、男装の麗人「シャナ王（牛若丸）」が義経として戦乱を生きる和風乙女ゲーム。ノリツネ・弁慶・俊堅・頼朝・知盛の5攻略キャラと声優陣（古川慎・福山潤・河西健吾・梅原裕一郎・斉藤壮馬ら）が話題になり、2022年にファンディスク「一樹の風」、北米版（Aksys/IFI）もリリースされた。",
+  "concept": "平治の乱から15年後、源氏の生き残りとして男として育てられた主人公シャナ王が、源平の戦乱の中で恋と運命に向き合う和風歴史乙女ADV。約65時間のボリュームで5ルートを描く重厚な物語型作品。",
+  "target": "Otomate 系乙女ゲームを愛好する20-40代女性層、特に源平・平安・幕末など和風歴史題材を好む層、男装ヒロイン×戦乱ロマンスのドラマを腰を据えて読みたいユーザー。",
+  "slug": "birushana-rising-flower-of-genpei",
+  "file": "data/games/1991-birushana-rising-flower-of-genpei.json",
+  "_source_urls": [
+    "https://www.otomate.jp/birushana/",
+    "https://www.4gamer.net/games/418/G041891/20210917121/",
+    "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Birushana-Rising-Flower-of-Genpei-2192260.html",
+    "https://www.nookgaming.com/birushana-rising-flower-of-genpei-review/"
+  ]
+}

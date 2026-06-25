@@ -1,0 +1,30 @@
+{
+  "id": 1980,
+  "title_jp": "AMNESIA CROWD",
+  "title_en": "Amnesia: Later x Crowd",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2013,
+  "platform": [
+    "PSP",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル（ファンディスク）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "TVアニメ化もされた人気乙女ゲーム『AMNESIA』のファンディスク第2弾。アフターストーリーやサスペンス、カフェ経営ミニゲームなど多彩なシナリオで既存ファン層に強く支持された。2022年にIdea Factory Internationalが『Later x Crowd』としてSwitchで英訳版を発売、海外乙女ゲーマーにも届いた。",
+  "concept": "『AMNESIA』本編後の「もしも」と「その後」を描くファンディスク。シリアスなサスペンスから日常コメディ、カフェやトランプのミニゲームまで詰め込み、推しキャラとの追加デート＆エンディングを提供する。",
+  "target": "『AMNESIA』本編をプレイ済みの女性ファン層、特に推しキャラのアフターストーリーや結婚エンドまで見届けたい20-30代の乙女ゲーマー。",
+  "slug": "amnesia-later-x-crowd",
+  "file": "data/games/1980-amnesia-later-x-crowd.json",
+  "_source_urls": [
+    "https://otomeorganization.fandom.com/wiki/Amnesia_Later",
+    "https://ifi.games/game/amnesia-later-x-crowd/",
+    "https://www.gematsu.com/2022/03/amnesia-later-x-crowd-for-switch-coming-west-this-fall",
+    "https://en.wikipedia.org/wiki/Amnesia_(2011_video_game)"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1964,
+  "title_jp": "まじこい！S",
+  "title_en": "Maji de Watashi ni Koi Shinasai!! S",
+  "developer": "Minato Soft",
+  "publisher": "Minato Soft",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルト学園ビジュアルノベル/恋愛AVG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "当初ファンディスク企画だったが収録量が膨れ上がり正式続編に昇格。攻略ヒロインを大幅追加し2012年1月発売、PCゲーム週間売上ランキング上位入りでシリーズ人気を再加熱させた。",
+  "concept": "『真剣で私に恋しなさい！』の正統続編にして大型拡張。前作ヒロインに新規ルートを足しつつ、本編で攻略対象でなかったキャラ（黒鉄チカ／黛由紀江／藤林椎名／小笠原千代／クリスティアーネ）を新規攻略可能化した、青春バトル学園コメディAVG。",
+  "target": "前作『まじこい』を遊んだ成人男性ファン層、特に「川神学園」設定の長尺コメディとサブキャラ補完を望むビジュアルノベル愛好層。",
+  "slug": "maji-de-watashi-ni-koi-shinasai-s",
+  "file": "data/games/1964-maji-de-watashi-ni-koi-shinasai-s.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Maji_de_Watashi_ni_Koi_Shinasai!",
+    "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%89%A3%E3%81%A7%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%AA%E3%81%95%E3%81%84!",
+    "http://www.minatosoft.com/majikoi-s/outline.html",
+    "http://www.minatosoft.com/majikoi-s/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

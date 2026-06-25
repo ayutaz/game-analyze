@@ -1,0 +1,29 @@
+{
+  "id": 1915,
+  "title_jp": "沙耶の唄",
+  "title_en": "Saya no Uta",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus / JAST USA",
+  "year": 2003,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サスペンスホラーアドベンチャー/ノベルゲーム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "虚淵玄脚本のラヴクラフト的サイコホラーADVとして発売当時から熱狂的なカルト人気を獲得。『魔法少女まどか☆マギカ』ヒット後に再評価が進み、新作1本分相当の追加売上を記録、Steam/GOGの英語版も話題化した。",
+  "concept": "脳手術の後遺症で世界がグロテスクに見える医学生と、彼の目にだけ少女として映る異形の存在「沙耶」の倒錯した愛と破滅を描くラヴクラフト風サイコホラーノベル。プレイヤーは選択肢でわずかに分岐するルートを通じ、不可逆的に堕ちていく主人公を見届ける。",
+  "target": "成人向けノベルゲーム愛好層、虚淵玄/ニトロプラス作品のファン、ラヴクラフト・伊藤潤二的サイコホラーや禁忌的恋愛物語を志向する20-40代のコアゲーマー。",
+  "slug": "saya-no-uta",
+  "file": "data/games/1915-saya-no-uta.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Saya_no_Uta:_The_Song_of_Saya",
+    "https://ja.wikipedia.org/wiki/%E6%B2%99%E8%80%B6%E3%81%AE%E5%94%84",
+    "https://store.steampowered.com/app/702050/The_Song_of_Saya/",
+    "https://nitroplus.ecq.sc/work/sayanouta.html",
+    "https://www.4gamer.net/games/999/G999905/20220723003/"
+  ]
+}

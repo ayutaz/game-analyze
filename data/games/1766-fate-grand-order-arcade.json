@@ -1,0 +1,31 @@
+{
+  "id": 1766,
+  "title_jp": "Fate/Grand Order Arcade",
+  "title_en": "Fate/Grand Order Arcade",
+  "developer": "SEGA / DELiGHTWORKS",
+  "publisher": "SEGA",
+  "year": 2018,
+  "platform": [
+    "Arcade"
+  ],
+  "genre": "3D対戦アクション/カードアーケード",
+  "sales_jp": "—",
+  "sales_world": "10M+ cards (初月) / 9M USD+ (初月カード売上)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "TYPE-MOON × SEGA のアーケード化として 2018 年 7 月稼働開始、初月で 1000 万枚以上のサーヴァントカードを排出し約 9 億円超のカード売上を記録。男性ジャック・ド・モレーやカーマ（ミステイク）など FGO 本編に存在しないオリジナルサーヴァントを生んだことでも話題に。2026 年 3 月 30 日に約 7 年 8 ヵ月の稼働を終了することが発表され、FGO 関連最長級の対戦アーケードプロジェクトとして惜しまれた。",
+  "slug": "fate-grand-order-arcade",
+  "file": "data/games/1766-fate-grand-order-arcade.json",
+  "concept": "FGO の世界観・サーヴァントを 3D 対戦アクション + カードディスペンス型アーケードに落とし込んだ筐体タイトル。最大 3 対 3 のチームバトルで本編とは異なる操作型バトル体験を提供し、稼動ごとに排出される物理カードでサーヴァントを所有・育成する。",
+  "target": "FGO ファンのうちアーケード／ゲームセンターに通える層、対戦アクションとカード収集の両方を楽しみたいコアプレイヤー。原作キャラクターを自分で動かしたい層と、限定オリジナルサーヴァントを集めたいコレクター層。",
+  "_source_urls": [
+    "https://typemoon.fandom.com/wiki/Fate/Grand_Order_Arcade",
+    "https://www.famitsu.com/article/202601/64549",
+    "https://www.4gamer.net/games/389/G038939/20260129045/",
+    "https://automaton-media.com/articles/newsjp/fgoac-20260129-414214/",
+    "https://info-arcade-fate-go.sega.jp/2026/2026-01-29-1/"
+  ]
+}

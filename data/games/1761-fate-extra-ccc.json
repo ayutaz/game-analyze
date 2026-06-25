@@ -1,0 +1,31 @@
+{
+  "id": 1761,
+  "title_jp": "Fate/EXTRA CCC",
+  "title_en": "Fate/EXTRA CCC",
+  "developer": "TYPE-MOON / Imageepoch",
+  "publisher": "マーベラスエンターテイメント",
+  "year": 2013,
+  "platform": [
+    "PSP"
+  ],
+  "genre": "ダンジョン RPG / ビジュアルノベル",
+  "sales_jp": "110K+",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "奈須きのこ書き下ろしシナリオで『Fate/EXTRA』の「Heaven's Feel」ルート的続編として注目され、発売 1 か月で前作超えの 11 万本を突破しシリーズ最高販売実績を達成。BB / メルトリリス / パッションリップ等の新サーヴァントが Fate コミュニティで強烈な人気を獲得し、後年の FGO 移植へ繋がった。",
+  "concept": "前作『Fate/EXTRA』の「月の聖杯戦争」を舞台に、奈須きのこ書き下ろしの並行ルート（ヒロイン別シナリオ）で物語を再構築したダンジョン RPG。電脳空間 SE.RA.PH を探索しつつヒロインルートを読み解く、物語消費がメインの Fate スピンオフ。",
+  "target": "Fate シリーズおよび TYPE-MOON 作品のファン、ノベル寄りの和製 RPG を好む 20-30 代男性中心の PSP ユーザー。前作『Fate/EXTRA』経験者を主要ターゲットとした続編向け作品。",
+  "slug": "fate-extra-ccc",
+  "file": "data/games/1761-fate-extra-ccc.json",
+  "_source_urls": [
+    "https://typemoon.fandom.com/wiki/Fate/EXTRA_CCC",
+    "https://www.famitsu.com/news/201304/22032274.html",
+    "https://www.4gamer.net/games/140/G014017/20130422016/",
+    "https://en.wikipedia.org/wiki/Fate/Extra",
+    "https://www.marv.jp/titles/cs/667/"
+  ]
+}

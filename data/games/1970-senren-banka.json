@@ -1,0 +1,30 @@
+{
+  "id": 1970,
+  "title_jp": "千恋＊万花",
+  "title_en": "Senren*Banka",
+  "developer": "Yuzusoft",
+  "publisher": "Yuzusoft / NekoNyan",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "和風恋愛アドベンチャー／ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ゆずソフト10周年記念作として2016年に発売、Getchu美少女ゲーム大賞2016総合1位・萌えゲーアワード準大賞を獲得。2020年のSteam全年齢英語版とSwitch移植で海外人気が加速し、2026年に累計100万本超を達成した和風VNの代表格。",
+  "concept": "祓守の村「歩織」を舞台に、神刀「叢雨丸」を折ってしまった主人公が巫女姫・朝武芳乃と婚約させられるところから始まる現代和風怪奇恋愛譚。神社・温泉街・刀・呪い・あやかしといった和風モチーフをゆずソフトの高水準な作画と音楽で描き、シナリオ・ビジュアル・音楽が三位一体となった「読ませる」恋愛ADV。",
+  "target": "和風・神社・巫女・刀剣といった伝奇恋愛モチーフが好きな成人男性プレイヤー。ゆずソフト作品のファン、丁寧に作り込まれた長編ビジュアルノベルを腰を据えて読みたい層、海外では日本式恋愛VNの入門タイトルを探す英語圏ファン。",
+  "slug": "senren-banka",
+  "file": "data/games/1970-senren-banka.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%8D%83%E6%81%8B*%E4%B8%87%E8%8A%B1",
+    "https://www.yuzu-soft.com/products/senren/",
+    "https://store.steampowered.com/app/1144400/SenrenBanka/",
+    "https://automaton-media.com/en/news/10-year-old-adult-visual-novel-senren-banka-celebrates-over-1-million-units-sold-witnessing-a-huge-jump-in-sales-over-the-past-two-years/",
+    "https://www.gematsu.com/2022/04/romance-visual-novel-senren-banka-a-thousand-colors-of-love-coming-to-switch-on-may-26-in-japan"
+  ]
+}

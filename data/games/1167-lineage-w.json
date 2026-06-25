@@ -1,0 +1,33 @@
+{
+  "id": 1167,
+  "title_jp": "リネージュW",
+  "title_en": "Lineage W",
+  "developer": "NCSOFT",
+  "publisher": "NCSOFT",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG（モバイル・クロスプラットフォーム）",
+  "sales_jp": "2022年 約49.7億円 / 2023年 約22億円",
+  "sales_world": "$170M+ (2021年11月-12月) / 韓国 Google Play 1位を1ヶ月以上維持",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "発売後4日で1日約160億ウォンを記録しシリーズ史上最高初日売上を更新、韓国 Google Play で1ヶ月以上首位を維持し NCSOFT 2021Q4 売上を 51% 押し上げた看板タイトル。",
+  "concept": "「リネージュ」IP の世界観を韓国・日本・台湾・北米・欧州を同時運営する“World”規模に拡張したクロスプラットフォーム MMORPG。血盟による攻城戦と PvP、課金武器強化を軸に重課金プレイヤー層を取り込む構造。",
+  "target": "韓国・日本の30-50代男性を中心とした重課金 MMO プレイヤー、リネージュ／リネージュ2／リネージュM 系列の継続層、血盟・攻城戦を遊びたいハードコア層。",
+  "slug": "lineage-w",
+  "file": "data/games/1167-lineage-w.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Lineage_W",
+    "https://mmos.com/news/ncsoft-revenues-are-up-significantly-for-q4-2021-thanks-to-lineage-ws-launch",
+    "https://app.w3g.jp/lineage-w",
+    "https://pickups.jp/top-stories/31401/",
+    "https://m.kr.ncsoft.com/jp/whatWeCreate/lineagew.do"
+  ]
+}

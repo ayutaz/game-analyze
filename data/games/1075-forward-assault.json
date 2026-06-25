@@ -1,0 +1,33 @@
+{
+  "id": 1075,
+  "title_jp": "Forward Assault",
+  "title_en": "Forward Assault",
+  "developer": "Blayze Games",
+  "publisher": "Blayze Games",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "タクティカル FPS / PvP シューター",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Counter-Strike を強く意識したモバイル向けタクティカル FPS として 10M+ DL を獲得。爆弾設置/解除のラウンド制とランクマッチが「スマホで CS が遊べる」と評価され、ブラウザ版 Forward Assault Remix の登場で間口がさらに広がった。",
+  "concept": "5v5 の爆弾設置/解除を中核に据えた、Counter-Strike 系ルールをモバイルとブラウザに移植したタクティカル PvP シューター。武器購入経済とラウンド制を保ったまま、短時間・タッチ操作でも成立するマップ設計に最適化している。",
+  "target": "Counter-Strike や CS:GO の競技性を外でも遊びたいモバイル/ブラウザ FPS 志向の 10-30 代男性。クラン/スクリム機能を通じてフレンドと組んでランクを上げたい対戦コア層が中心。",
+  "slug": "forward-assault",
+  "file": "data/games/1075-forward-assault.json",
+  "_source_urls": [
+    "https://www.gamepressure.com/games/forward-assault/z24af7",
+    "https://play.google.com/store/apps/details?id=com.blayzegames.newfps&hl=en",
+    "https://blayzegames.com/category/forward-assault/",
+    "https://www.crazygames.com/game/forward-assault"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

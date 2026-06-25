@@ -1,0 +1,30 @@
+{
+  "id": 1755,
+  "title_jp": "Fate/hollow ataraxia PS Vita版",
+  "title_en": "Fate/hollow ataraxia (PS Vita)",
+  "developer": "TYPE-MOON / HuneX",
+  "publisher": "角川ゲームス",
+  "year": 2014,
+  "platform": [
+    "PS Vita"
+  ],
+  "genre": "伝奇ヴィジュアルノベル",
+  "sales_jp": "53,979(初週)",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『Fate/stay night』正統続編のファンディスクが PS Vita 全年齢版として登場。発売初週で約 5.4 万本を売り上げ、ufotable 制作の新規オープニングや特典 Nendoroid ぷち、ミニタワーディフェンス『カプセルさーばんと』同梱で話題を呼んだ。",
+  "slug": "fate-hollow-ataraxia-ps-vita",
+  "file": "data/games/1755-fate-hollow-ataraxia-ps-vita.json",
+  "concept": "『Fate/stay night』本編の半年後を舞台に、繰り返される「4日間」を描く伝奇ヴィジュアルノベル。サーヴァント＆ヒロインたちの日常と謎を、PS Vita のタッチ操作とフルボイスで追体験する全年齢版移植。",
+  "target": "原作 PC 版・PSP 版を遊んだ Fate シリーズの既存ファン層、ufotable アニメから入った 20-40 代のノベルゲーマー、TYPE-MOON 世界観のキャラクター・物語を深く味わいたい層。",
+  "_source_urls": [
+    "https://www.typemoon.com/products/hollowvita/",
+    "https://en.wikipedia.org/wiki/Fate/hollow_ataraxia",
+    "https://typemoon.fandom.com/wiki/Fate/hollow_ataraxia",
+    "https://animeanime.jp/article/2014/02/01/17297.html"
+  ]
+}

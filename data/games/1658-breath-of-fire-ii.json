@@ -1,0 +1,34 @@
+{
+  "id": 1658,
+  "title_jp": "ブレス オブ ファイアII 使命の子",
+  "title_en": "Breath of Fire II",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1994,
+  "platform": [
+    "SNES",
+    "GBA",
+    "Wii",
+    "Wii U",
+    "3DS"
+  ],
+  "genre": "RPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ2作目として1994年末にスーパーファミコンで発売、暗く重い物語と教団・差別といったテーマで賛否を呼び、後年GBA・Wii VC・3DS VC で繰り返し移植されカルト的人気を維持。",
+  "slug": "breath-of-fire-ii",
+  "file": "data/games/1658-breath-of-fire-ii.json",
+  "concept": "竜の血を引く主人公リュウと仲間たちが、邪教団「聖竜教」に支配された世界を旅する王道JRPG。前作より遥かに陰鬱な物語と、町づくり・釣り・合体魔法など細やかなシステムで差別化した。",
+  "target": "90年代スーパーファミコンRPG世代、特にFF・ドラクエ以外の中堅JRPGを掘った中級RPGファン。重いストーリーや宗教モチーフに耐性のある大人プレイヤー向け。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Breath_of_Fire_II",
+    "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%B9_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2II_%E4%BD%BF%E5%91%BD%E3%81%AE%E5%AD%90",
+    "https://capcom.fandom.com/wiki/Breath_of_Fire_II",
+    "https://www.mobygames.com/game/6222/breath-of-fire-ii/"
+  ]
+}

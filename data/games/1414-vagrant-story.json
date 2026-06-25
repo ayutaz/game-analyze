@@ -1,0 +1,34 @@
+{
+  "id": 1414,
+  "title_jp": "ベイグラントストーリー",
+  "title_en": "Vagrant Story",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 2000,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションRPG/ダンジョン探索",
+  "sales_jp": "300K",
+  "sales_world": "870K",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ファミ通クロスレビューで PlayStation 唯一の 40 点満点を獲得、松野泰己率いる FFT スタッフ陣による「イヴァリース」世界観と緻密な PS 後期グラフィックで PS1 末期の伝説的名作として語り継がれている。",
+  "concept": "部位狙いのターン制風アクション、武器素材合成、チェインアビリティが噛み合うソロ専用アクション RPG。一本道のレオ・モンド地下都市を踏破しながら、武器を育て敵を解析する「探索 × ビルド構築」の体験を主軸に据える。",
+  "target": "イヴァリースサーガ／松野作品（FFT・FF12）ファン、緻密なシステムと重厚な政治・宗教ドラマを好む 20-40 代コアゲーマー、PS1 後期の名作を遡って遊びたいレトロゲーマー層。",
+  "slug": "vagrant-story",
+  "file": "data/games/1414-vagrant-story.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Vagrant_Story",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+    "https://www.famitsu.com/article/202502/32632",
+    "https://kopenguin.com/post-67560/",
+    "https://www.vgchartz.com/game/2587/vagrant-story/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

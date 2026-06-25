@@ -1,0 +1,28 @@
+{
+  "id": 1631,
+  "title_jp": "ボンバーマン64",
+  "title_en": "Bomberman 64",
+  "developer": "Hudson Soft",
+  "publisher": "Nintendo",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "アクションアドベンチャー/対戦アクション",
+  "sales_jp": "0.17M",
+  "sales_world": "0.70M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "シリーズ初の3D化を実現したN64ローンチ期の話題作。シングルのアドベンチャーモードに加え、最大4人対戦の爆弾サドンデスが定番パーティーゲームとして根付いた。",
+  "concept": "見下ろし型のマス目を捨て、立体的な3Dフィールドで爆弾を投げ・蹴り・落として戦う初の3Dボンバーマン。シングルの謎解きアクションと、ステージギミックを使った4人対戦バトルを両立する。",
+  "target": "N64世代の小中学生〜大学生、友人や家族で集まってワイワイ対戦したいパーティープレイヤー層、3D化したシリーズを追いかける既存ボンバーマンファン。",
+  "slug": "bomberman-64",
+  "file": "data/games/1631-bomberman-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bomberman_64_(1997_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%B3%E3%83%90%E3%83%BC%E3%83%9E%E3%83%B364",
+    "https://kopenguin.com/post-14955/",
+    "https://www.nintendolife.com/games/n64/bomberman_64"
+  ]
+}

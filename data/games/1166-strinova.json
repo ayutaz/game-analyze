@@ -1,0 +1,31 @@
+{
+  "id": 1166,
+  "title_jp": "Strinova (ストリノヴァ)",
+  "title_en": "Strinova",
+  "developer": "iDreamSky",
+  "publisher": "iDreamSky",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アニメ調タクティカルTPS / ヒーローシューター",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "リリース初日にSteam新作・人気無料ランキング1位、同時接続約4万人を記録。アニメ調キャラと「弦化（2D⇔3D切替）」の独自機構でVTuber配信を中心にバズ。",
+  "concept": "5v5タクティカルシューターに「弦化」（キャラを薄い紙のような2D状態に変形して壁に張り付き／滑空して回避する）機構を組み合わせた、アニメ調ヒーローシューター。VALORANT 系の戦術ループに独自のZ軸／2D機動を載せている。",
+  "target": "VALORANT / Apex 等の競技系シューター層に加え、アニメ・美少女キャラに親和性の高い10-30代の男性プレイヤー、および日本のVTuber／配信視聴文化と接点を持つ層。",
+  "slug": "strinova",
+  "file": "data/games/1166-strinova.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Strinova",
+    "https://store.steampowered.com/app/1282270/Strinova/",
+    "https://www.famitsu.com/article/202409/19363",
+    "https://prtimes.jp/main/html/rd/p/000000021.000146309.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

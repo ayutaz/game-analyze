@@ -1,0 +1,31 @@
+{
+  "id": 1034,
+  "title_jp": "MARVEL Super War",
+  "title_en": "MARVEL Super War",
+  "developer": "NetEase",
+  "publisher": "NetEase",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MOBA（モバイル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Marvel IP 初の本格モバイル MOBA として NetEase が手掛け、東南アジア・台湾香港・日韓豪 NZ で展開。アイアンマン／スパイダーマン／ヴェノム等の MCU キャラ 5v5 で話題になったが、2024 年 6 月にサービス終了。",
+  "slug": "marvel-super-war",
+  "file": "data/games/1034-marvel-super-war.json",
+  "concept": "Marvel ヒーロー／ヴィランを操作キャラに据えた 5v5 モバイル MOBA。League of Legends / Mobile Legends 系の 3 レーン構造に Marvel IP の能力演出を被せ、原作ファンが「推しヒーローを動かして勝つ」体験を提供する。",
+  "target": "東南アジア・台湾香港・日韓を中心としたモバイル MOBA プレイヤー層と Marvel／MCU ファン。Mobile Legends や Wild Rift を遊ぶ層のうち、IP に強い愛着を持つアメコミ／映画ファンが主タッチポイント。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Marvel_Super_War",
+    "https://www.marvel.com/articles/games/marvel-super-war-from-netease-and-marvel-games-opens-its-closed-beta-test-today",
+    "https://toucharcade.com/2019/05/30/marvel-super-war-closed-beta-moba-mobile-netease/",
+    "https://apps.apple.com/jp/app/marvel-super-war/id1447796414"
+  ]
+}

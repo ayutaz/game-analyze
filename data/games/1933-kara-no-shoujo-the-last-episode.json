@@ -1,0 +1,28 @@
+{
+  "id": 1933,
+  "title_jp": "天ノ少女",
+  "title_en": "Kara no Shoujo: The Last Episode",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / MangaGamer",
+  "year": 2020,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ミステリーアドベンチャー / ビジュアルノベル (18+)",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2020年Moe Game Award 年間26位入賞、シナリオ賞金賞を受賞。『殻ノ少女』『虚ノ少女』に続くシリーズ完結編として根強い18禁ミステリーADVファンの注目を集めた。",
+  "concept": "昭和33年1月、探偵・時坂玲示がある少女の葬儀に立ち会うところから始まる猟奇ミステリーADV。『殻ノ少女』『虚ノ少女』に続く三部作の完結編で、シリーズ全体の謎を回収する物語消費に特化した一作。",
+  "target": "重厚な大人向けミステリー・猟奇ADVを好む層、Innocent Grey シリーズの既存ファン、昭和ノワール／探偵モノを物語として読みたい 20-40 代の VN プレイヤー。",
+  "slug": "kara-no-shoujo-the-last-episode",
+  "file": "data/games/1933-kara-no-shoujo-the-last-episode.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E3%83%8E%E5%B0%91%E5%A5%B3",
+    "https://en.wikipedia.org/wiki/Kara_no_Sh%C5%8Djo",
+    "https://blog.mangagamer.org/tag/kara-no-shojo/",
+    "http://www.gungnir.co.jp/innocentgrey/products.html"
+  ]
+}

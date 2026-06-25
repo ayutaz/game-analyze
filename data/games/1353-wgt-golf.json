@@ -1,0 +1,31 @@
+{
+  "id": 1353,
+  "title_jp": "WGT Golf",
+  "title_en": "WGT Golf",
+  "developer": "Topgolf Media",
+  "publisher": "Topgolf",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ゴルフシミュレーション/オンライン対戦",
+  "sales_jp": "—",
+  "sales_world": "15M+ players",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "実在のPGAコース（ペブルビーチ、セントアンドリュース等）を3Dスキャンで再現し、リアル志向のオンラインゴルフとして長期運営。Topgolf買収後はブランド統合され、欧米のゴルフ愛好家コミュニティで定番タイトル化。",
+  "concept": "実写ベースの世界各国の名門ゴルフコースをオンラインで対戦できるリアル志向ゴルフゲーム。物理演算と風・芝の再現にこだわり、ストロークプレイ／マッチプレイ／クロージェスト・トゥ・ザ・ピン等のフォーマットで世界中のプレイヤーと競う。",
+  "target": "20-60代のゴルフ愛好家・ライト〜ミドルゴルファー。実コースを手元で疑似体験したい層、PvPでスコアを競いたい層、リアル系ゴルフシムを好む層。",
+  "slug": "wgt-golf",
+  "file": "data/games/1353-wgt-golf.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/World_Golf_Tour",
+    "https://www.topgolf.com/us/wgt/",
+    "https://apps.apple.com/us/app/wgt-golf/id899451826"
+  ]
+}

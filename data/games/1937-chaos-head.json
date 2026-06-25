@@ -1,0 +1,35 @@
+{
+  "id": 1937,
+  "title_jp": "ChäoS;HEAd",
+  "title_en": "Chaos;Head",
+  "developer": "Nitroplus / 5pb.",
+  "publisher": "5pb.",
+  "year": 2008,
+  "platform": [
+    "PC",
+    "Xbox 360",
+    "PSP",
+    "PS3",
+    "PS Vita",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ビジュアルノベル/サイコサスペンス（妄想科学ADV）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「妄想科学ADV」を掲げる科学アドベンチャーシリーズ第1作で、後のSTEINS;GATEへ繋がる礎として周年特集やアニメ化で長く語り継がれている。Xbox 360／PSP／PS3／Vita／Switch／Steamへと移植が続き、2022年には英語版CHAOS;HEAD NOAHがSpike Chunsoftから発売された。",
+  "slug": "chaos-head",
+  "file": "data/games/1937-chaos-head.json",
+  "concept": "渋谷で発生する連続猟奇事件「ニュージェネレーションの狂気」に引きこもりオタク主人公が巻き込まれ、妄想と現実が混濁していく一人称サイコサスペンス・ビジュアルノベル。プレイヤーは妄想トリガーで「ポジ／ネガ妄想」を選択し、主人公の認知歪みそのものを操作する。",
+  "target": "重厚な伝奇・サイコホラー系シナリオと尖った精神世界描写を好む18+ノベルゲーマー層、STEINS;GATEなど科学ADVシリーズのルーツを辿りたい既存ファン層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Chaos;Head",
+    "https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/",
+    "https://www.4gamer.net/games/049/G004938/",
+    "https://dengekionline.com/elem/000/001/719/1719314/"
+  ]
+}

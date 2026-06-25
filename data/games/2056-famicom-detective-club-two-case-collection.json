@@ -1,0 +1,28 @@
+{
+  "id": 2056,
+  "title_jp": "ファミコン探偵倶楽部 消えた後継者・うしろに立つ少女",
+  "title_en": "Famicom Detective Club: The Two-Case Collection",
+  "developer": "MAGES.",
+  "publisher": "Nintendo",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "コマンド選択式アドベンチャー",
+  "sales_jp": "Collector's Edition 初週 12,269本（DL版含むと累計10万本超と推定）",
+  "sales_world": "unknown (国内物理 20K+ debut)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1988/1989年のディスクシステム版2作をフルボイス＋アニメ演出でリメイク。MAGES.志倉千代丸が「5万本の倍以上売れている」と発言し、レトロ層と現行ADVファンの双方で話題に。",
+  "concept": "任天堂の隠れた名作『消えた後継者』『うしろに立つ少女』2本を1パッケージにまとめ、フルボイスとアニメ演出で現代化したコマンド選択式の正統派ミステリーアドベンチャー。原作の昭和的湿度をそのまま残しつつ、視覚・聴覚演出を全面刷新している。",
+  "target": "1980年代後半のオリジナルを遊んだ40-50代のレトロゲーマー、シュタインズ・ゲート系MAGES.作品のテキストADVファン、フルボイスで気軽に名作探偵モノを追体験したい10-30代のNintendo Switchユーザー。",
+  "slug": "famicom-detective-club-two-case-collection",
+  "file": "data/games/2056-famicom-detective-club-two-case-collection.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Famicom_Detective_Club",
+    "https://www.nintendo.com/jp/switch/aw3ca/index.html",
+    "https://www.4gamer.net/games/476/G047663/20210510048/",
+    "https://n-switch.com/chat/famicom-tantei-club-remake-over-100000-shikura-chiyomaru/"
+  ]
+}

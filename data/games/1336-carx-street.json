@@ -1,0 +1,36 @@
+{
+  "id": 1336,
+  "title_jp": "CarX Street",
+  "title_en": "CarX Street",
+  "developer": "CarX Technologies",
+  "publisher": "CarX Technologies",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Xbox Series X/S"
+  ],
+  "genre": "オープンワールド・ストリートレース/ドリフト",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "CarX Drift Racing 2 の血統を引き継ぐオープンワールド版として大ヒット。Sunset City を舞台にした昼夜サイクル・ハイウェイ・峠ドリフトが SNS と YouTube で大量に共有され、シリーズ累計 1 億 DL の柱となった。",
+  "concept": "CarX 物理エンジンによるリアルなドリフト挙動を、クラブ加入・チューニング・峠アタック・ハイウェイバトルが一体化したオープンワールドに落とし込んだストリートレース。「速く走る」より「綺麗にドリフトを決める」ことを主動機にする設計。",
+  "target": "走り屋・湾岸・頭文字 D 文脈に親しんだ車・ドリフト好きの男性層が中心。本格レースシムは重すぎるが Need for Speed よりリアルな挙動を求めるモバイル/PC ユーザー。",
+  "slug": "carx-street",
+  "file": "data/games/1336-carx-street.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/carx-street/id1458863319",
+    "https://play.google.com/store/apps/details?id=com.carxtech.sr&hl=en_US",
+    "https://store.steampowered.com/app/1114150/CarX_Street/",
+    "https://carx-online.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

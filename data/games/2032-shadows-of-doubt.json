@@ -1,0 +1,32 @@
+{
+  "id": 2032,
+  "title_jp": "シャドウズ・オブ・ダウト",
+  "title_en": "Shadows of Doubt",
+  "developer": "ColePowered Games",
+  "publisher": "Fireshine Games",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "オープンワールド探偵イマーシブシム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "自動生成のサイバーパンク都市で殺人事件を捜査する自由度に SNS・配信界隈が反応し、早期アクセス開始直後から実況・記事で話題に。gamescom 2022 で UK Game of the Show を獲得、Steam Awards 2023「最も革新的なゲームプレイ」ノミネート。",
+  "concept": "1980 年代風サイバーパンク・ノワール都市が丸ごとシミュレートされた一人称イマーシブ・シム。住民全員に名前・職業・住所・日課があり、指紋・通話履歴・監視カメラ・郵便物などあらゆる手掛かりを自分で組み合わせて連続殺人犯を割り出す「探偵業の手触り」を核に据えた作品。",
+  "target": "Disco Elysium / Return of the Obra Dinn / Deus Ex 系のイマーシブ・シムや手掛かりベース推理ゲームを好む 20-40 代の PC ゲーマー、刑事ドラマ・ノワール・サイバーパンク世界観を愛好する層。",
+  "slug": "shadows-of-doubt",
+  "file": "data/games/2032-shadows-of-doubt.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadows_of_Doubt",
+    "https://store.steampowered.com/app/986130/Shadows_of_Doubt/",
+    "https://automaton-media.com/articles/newsjp/20230426-245295/",
+    "https://www.savingcontent.com/2024/09/27/detective-immersive-sim-shadows-of-doubt-certainly-hits-1-0-and-is-out-now-for-pc-and-consoles/"
+  ]
+}

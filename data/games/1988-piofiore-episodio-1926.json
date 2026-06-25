@@ -1,0 +1,28 @@
+{
+  "id": 1988,
+  "title_jp": "ピオフィオーレ 1926",
+  "title_en": "Piofiore: Episodio 1926",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2020,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女向け恋愛アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1920年代イタリアのマフィア抗争を舞台にした人気乙女ゲーム『ピオフィオーレの晩鐘』の正統続編。前作キャラの後日談3ルートを収録し、コアな乙女ゲーマー層が SNS で攻略・推し語りを継続的に拡散している。",
+  "concept": "禁酒法時代のブルレオを舞台に、マフィア組織の男たちと主人公リリィの「その後」を描くダークロマンスADV。前作のメインルート完走者向けに、より深い人間関係と組織の闇を読み解かせる物語特化型タイトル。",
+  "target": "前作『ピオフィオーレの晩鐘』をプレイ済みの 20-40 代女性。ダークでシリアスな恋愛ストーリーと年齢層高めの男性キャラに惹かれる乙女ゲーム愛好層。",
+  "slug": "piofiore-episodio-1926",
+  "file": "data/games/1988-piofiore-episodio-1926.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AA%E3%83%95%E3%82%A3%E3%82%AA%E3%83%BC%E3%83%AC%E3%81%AE%E6%99%A9%E9%90%98",
+    "https://www.otomate.jp/piofiore/1926/",
+    "https://www.4gamer.net/games/462/G046273/20201125032/",
+    "https://english-otome-games.fandom.com/wiki/Piofiore:_Episodio_1926"
+  ]
+}

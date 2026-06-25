@@ -1,0 +1,33 @@
+{
+  "id": 1420,
+  "title_jp": "パラサイト・イヴ2",
+  "title_en": "Parasite Eve II",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "サバイバルホラーRPG/アクションRPG",
+  "sales_jp": "0.43M",
+  "sales_world": "1.09M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作の遺伝子ミトコンドリアSFホラー世界観を継承しつつ、ラジコン操作＋三人称シューティングに大胆転換しバイオハザード型サバイバルホラーへ近づけた挑戦作として議論を呼んだ。アヤ・ブレアの続投と荒涼としたモハーベ砂漠の舞台が国内外のホラーRPGファンに記憶されている。",
+  "concept": "前作のターン制ATBバトルを捨て、リアルタイム三人称シューターとサバイバルホラー、RPG成長を融合させた続編。「Neo-Mitochondrion Creature」と呼ばれる怪物が跋扈する閉鎖環境を、アヤが銃と Parasite Energy で踏破していくシネマティック・アクションRPGとして設計されている。",
+  "target": "前作からの継続プレイヤーと、バイオハザード／サイレントヒル系サバイバルホラーを好む20-40代のコアゲーマー。SFホラー＋洋画的演出＋RPG成長を1本で味わいたい層に刺さる。",
+  "slug": "parasite-eve-ii",
+  "file": "data/games/1420-parasite-eve-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Parasite_Eve_II",
+    "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88%E3%83%BB%E3%82%A4%E3%83%B42",
+    "https://www.jp.square-enix.com/game/detail/pe2/",
+    "https://www.vgchartz.com/game/1718/parasite-eve-ii/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

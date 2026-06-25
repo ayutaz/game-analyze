@@ -1,0 +1,31 @@
+{
+  "id": 1154,
+  "title_jp": "Trickcal: Chibi Go (Trickcal Re:VIVE)",
+  "title_en": "Trickcal: Chibi Go",
+  "developer": "EPID Games",
+  "publisher": "Bilibili Game",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オートバトラー/収集型RPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "3M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "韓国発のSD美少女オートバトラー。2021年初期リリース失敗→2023年「Re:VIVE」として再生し2024 Korea Game Awards最優秀賞を受賞、2025年Bilibili配信のグローバル版「Chibi Go」で世界展開した話題作。",
+  "concept": "「もちもちSD美少女×オートチェス×ガチャ収集」を組み合わせた萌え系オートバトラー。キャラのほっぺを引っ張れる独自のもちもちタッチ演出と、低価格課金パック中心の優しい設計で「無課金でも長く楽しめる」癒し系ガチャRPGとして定着した。",
+  "target": "10-30代の萌え系ガチャRPGプレイヤー、SD美少女キャラ・チビイラスト・かわいさ重視のソフト課金層。ブルアカ/プリコネ/Nikke 系を遊ぶ層と高い親和性を持つ。",
+  "slug": "trickcal-chibi-go",
+  "file": "data/games/1154-trickcal-chibi-go.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Trickcal:_Chibi_Go",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%83%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%82%E3%81%A1%E3%82%82%E3%81%A1%E3%81%BB%E3%81%A3%E3%83%9A%E5%A4%A7%E4%BD%9C%E6%88%A6",
+    "https://www.pocketgamer.com/trickcal-re-vive/taipei-games-show-2025/",
+    "https://gamewith.jp/trickcal/"
+  ]
+}

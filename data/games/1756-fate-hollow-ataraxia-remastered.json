@@ -1,0 +1,30 @@
+{
+  "id": 1756,
+  "title_jp": "Fate/hollow ataraxia Remastered",
+  "title_en": "Fate/hollow ataraxia Remastered",
+  "developer": "TYPE-MOON",
+  "publisher": "Aniplex",
+  "year": 2025,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/伝奇アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Fate/stay night 20周年記念タイトルとして発表され、2014 年 PS Vita 版以来初めて英語・簡体字に公式対応した点が国内外で話題に。武内崇描き下ろしメインビジュアルと FGO 連携キャンペーンで SNS が盛り上がった。",
+  "concept": "『Fate/stay night』の正統続編にあたるファンディスク的アフターストーリーを Switch / Steam 向けにフル HD リマスター化し、英語・簡体字翻訳を初めて公式実装。「約束の四日間」を再体験できる伝奇ビジュアルノベル。",
+  "target": "原作『Fate/stay night』ファン、Fate/Grand Order から入って原典に触れたい層、海外の Fate ファンで初めて公式英訳で hollow ataraxia を読みたい人。",
+  "slug": "fate-hollow-ataraxia-remastered",
+  "file": "data/games/1756-fate-hollow-ataraxia-remastered.json",
+  "_source_urls": [
+    "https://www.aniplex.co.jp/lineup/fate-ha/",
+    "https://www.famitsu.com/article/202508/48879",
+    "https://www.4gamer.net/games/825/G082534/20250802009/",
+    "https://store.steampowered.com/app/2396990/Fatehollow_ataraxia_REMASTERED/",
+    "https://www.gematsu.com/2025/05/fate-hollow-ataraxia-remastered-launches-in-2025"
+  ]
+}

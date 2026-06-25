@@ -1,0 +1,33 @@
+{
+  "id": 1430,
+  "title_jp": "真・女神転生 デビルサマナー ソウルハッカーズ",
+  "title_en": "Devil Summoner: Soul Hackers",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 1997,
+  "platform": [
+    "Saturn",
+    "PS1",
+    "3DS"
+  ],
+  "genre": "サイバーパンク3DダンジョンRPG（悪魔召喚・合体）",
+  "sales_jp": "約50万本（SS 26万 + PS 14万 + 3DS 10万）",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "近未来都市『アマミ市』を舞台にしたサイバーパンク世界観と、ハッキングを駆使しながら悪魔と交渉・合体する硬派なシステムでカルト的人気を獲得。2012年の3DS版で初の海外展開と全面ボイス化が実現し、2022年『ソウルハッカーズ2』発売前後で原作の再評価が進んだ。",
+  "slug": "devil-summoner-soul-hackers",
+  "file": "data/games/1430-devil-summoner-soul-hackers.json",
+  "concept": "『真・女神転生』の悪魔会話・合体システムを継承しつつ、舞台を近未来サイバー都市に移し替えた一人称視点ダンジョンRPG。ハッカー集団『スプーキーズ』の主人公が、ネットを介した悪魔召喚で都市の陰謀に挑む、90年代Atlasサイバーパンクの代表作。",
+  "target": "メガテン/ペルソナ系の硬派ダンジョンRPGと、攻殻機動隊的サイバーパンク世界観を好む20-40代男性中心のJRPGコア層。1997年当時のサターンユーザーから2012年3DSリマスター以降の新規層、2022年『2』からの逆引きプレイヤーまで含む。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Devil_Summoner:_Soul_Hackers",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%82%B5%E3%83%9E%E3%83%8A%E3%83%BC_%E3%82%BD%E3%82%A6%E3%83%AB%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%82%BA",
+    "https://note.com/naked_arahabaki/n/n0580cea209c5",
+    "https://dssh.atlusnet.jp/"
+  ]
+}

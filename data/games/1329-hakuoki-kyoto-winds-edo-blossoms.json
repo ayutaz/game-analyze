@@ -1,0 +1,29 @@
+{
+  "id": 1329,
+  "title_jp": "Hakuoki: Edo Blossoms / Kyoto Winds",
+  "title_en": "Hakuoki: Kyoto Winds / Edo Blossoms",
+  "developer": "Otomate / Idea Factory",
+  "publisher": "Idea Factory International",
+  "year": 2017,
+  "platform": [
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "乙女向け恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "新選組×恋愛を題材にした長寿乙女ゲーム『薄桜鬼』の Vita 版『真改 風ノ章/華ノ章』を英語ローカライズした 2 部作。海外乙女ゲームファンに「Otomate 看板タイトルがついに正規英語版で遊べる」と話題になり、Steam 配信開始時には英語圏 VN コミュニティでバズった。",
+  "concept": "幕末・新選組の隊士たちと女主人公・千鶴の恋愛を描く、フルボイス・分岐ルート式のビジュアルノベル。原作 PS2 版を再構成し攻略対象を 12 人に拡張、Part 1『Kyoto Winds』で出会いと共通ルート、Part 2『Edo Blossoms』で各キャラの結末まで描く 2 本立て構成。",
+  "target": "幕末×イケメン×悲恋という王道乙女ゲーム文脈を好む 20-40 代女性プレイヤー、特に海外で英語版 Otomate / Aksys タイトルを追ってきた乙女ゲー・VN ファン層。",
+  "slug": "hakuoki-kyoto-winds-edo-blossoms",
+  "file": "data/games/1329-hakuoki-kyoto-winds-edo-blossoms.json",
+  "_source_urls": [
+    "https://www.animenewsnetwork.com/press-release/2018-03-11/hakuoki-edo-blossoms-arrives-on-steam-this-march-13/.128852",
+    "https://www.rpgsite.net/news/6611-hakuoki-edo-blossoms-heads-to-steam-this-spring",
+    "https://www.otomate.jp/hakuoki/shinkai/hana/",
+    "https://www.4gamer.net/games/336/G033698/"
+  ]
+}

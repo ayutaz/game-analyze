@@ -1,0 +1,30 @@
+{
+  "id": 1814,
+  "title_jp": "ROSE GUNS DAYS Season 3",
+  "title_en": "Rose Guns Days Season 3",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2013,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ひぐらし／うみねこの竜騎士07による戦後日本マフィア群像劇シリーズ最終章。2013年コミケ84で頒布され、シリーズ完結編としてファン層で話題に。",
+  "concept": "敗戦直後の日本を舞台に、外国勢力に占領された街で生きるマフィア組織「Primavera」の戦いと別れを描く同人ビジュアルノベルの最終シーズン。1948-1949年を舞台に7章構成でシリーズの結末を提示する。",
+  "target": "ひぐらし／うみねこなど竜騎士07作品のファン層、ハードボイルド／群像劇／戦後昭和もののドラマを腰を据えて読みたいビジュアルノベル愛好層。",
+  "slug": "rose-guns-days-season-3",
+  "file": "data/games/1814-rose-guns-days-season-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rose_Guns_Days",
+    "https://07th-expansion.fandom.com/wiki/Rose_Guns_Days:_Season_3",
+    "https://07th-expansion.net/rgd_gen"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

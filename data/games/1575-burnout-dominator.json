@@ -1,0 +1,29 @@
+{
+  "id": 1575,
+  "title_jp": "バーンアウト ドミネーター",
+  "title_en": "Burnout Dominator",
+  "developer": "EA UK",
+  "publisher": "Electronic Arts",
+  "year": 2007,
+  "platform": [
+    "PS2",
+    "PSP"
+  ],
+  "genre": "アーケードレース",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Criterion 不在で EA UK が引き継いだナンバリング。Crash Mode を廃しスピード一辺倒の Burnout 3/Revenge 直系として、PSP の代表的アーケードレースの 1 本に数えられた。",
+  "concept": "Burnout シリーズで唯一 Criterion Games 本体が開発を担っていない過渡期作品。Crash Mode を切り捨て「ブースト連鎖（Dominator/Burnout チェーン）」に特化し、高速走行とテイクダウンの爽快感を凝縮したアーケードレース。",
+  "target": "Burnout 3 / Revenge を遊んだ PS2 / PSP ユーザー、特に Crash Mode より純粋なレース・テイクダウン体験を求める層。携帯機で短時間に走り込みたいアーケードレースファン。",
+  "slug": "burnout-dominator",
+  "file": "data/games/1575-burnout-dominator.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Burnout_Dominator",
+    "https://www.mobygames.com/game/32272/burnout-dominator/",
+    "https://www.4gamer.net/games/051/G005115/20080729024/",
+    "https://burnout.fandom.com/wiki/Burnout_Dominator"
+  ]
+}

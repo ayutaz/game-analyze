@@ -1,0 +1,31 @@
+{
+  "id": 1898,
+  "title_jp": "うたわれるもの斬",
+  "title_en": "Utawarerumono: ZAN",
+  "developer": "Tamsoft",
+  "publisher": "AQUAPLUS",
+  "year": 2019,
+  "platform": [
+    "PS4"
+  ],
+  "genre": "3Dアクション/無双系",
+  "sales_jp": "60K+",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『うたわれるもの 二人の白皇』までのストーリーを 3D アクションで追体験できる「うたわれ初の無双系」として話題化。PS4 初週 約4.5万本、累計 約6万本。2025年に Steam 移植も発表され北米では NIS America 経由で英語版が展開された。",
+  "slug": "utawarerumono-zan",
+  "file": "data/games/1898-utawarerumono-zan.json",
+  "concept": "アドベンチャー＋SRPG であった『うたわれるもの』シリーズを初めて 3D アクション（無双系ハック＆スラッシュ）に再構成したスピンオフ。原作 2 作（偽りの仮面 / 二人の白皇）のシナリオを各キャラ操作で追体験する造りで、ストーリー追体験と爽快アクションを両立させる。",
+  "target": "うたわれるもの本編（ADV/SRPG 二部作）をプレイ済みでキャラを動かして戦わせたい既存ファン層が中心。加えて、無双系アクションをコンパクトに遊びたい PS4 ライトアクションユーザー層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9F%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE%E6%96%AC",
+    "https://www.tamsoft.co.jp/787/",
+    "https://utawarerumono.com/zan/",
+    "https://www.gematsu.com/games/utawarerumono-zan",
+    "https://www.frontlinejp.net/2019/09/02/review-utawarerumono-zan/"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1306,
+  "title_jp": "イケメン戦国◆時をかける恋",
+  "title_en": "Ikemen Sengoku: Romances Across Time",
+  "developer": "Cybird",
+  "publisher": "Cybird",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "女性向け恋愛シミュレーション/乙女ゲーム",
+  "sales_jp": "—",
+  "sales_world": "45M+ DL (Ikemen series cumulative)",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "戦国武将×タイムスリップ設定の代表的乙女ゲーム。2015年配信開始から10年継続、PS Vita/Switch移植、舞台化・短編アニメ・声優シチュエーションCD等メディアミックスを多数展開。2025年に「永縁」リブート版を発表。",
+  "slug": "ikemen-sengoku-romances-across-time",
+  "file": "data/games/1306-ikemen-sengoku-romances-across-time.json",
+  "concept": "現代女性が戦国時代にタイムスリップし、織田信長・豊臣秀吉・徳川家康ら実在の武将と恋に落ちる女性向けノベル型恋愛アドベンチャー。攻略キャラごとに本編＋続編＋季節イベントを刻んでいく長期運営型シナリオ商売。",
+  "target": "20-40代女性、特に乙女ゲーム・歴史BL/恋愛もの・声優ファン層。スマホ片手にシナリオ消費したい層と、推し武将に課金してエンディングを集めたい層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E6%88%A6%E5%9B%BD%E2%97%86%E6%99%82%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E6%81%8B",
+    "https://ikemen-series.com/games/sengoku/index.html",
+    "https://www.cybird.co.jp/service/%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E6%88%A6%E5%9B%BD%E2%97%86%E6%99%82%E3%82%92%E3%81%8B%E3%81%91%E3%82%8B%E6%81%8B/",
+    "https://prtimes.jp/main/html/rd/p/000002632.000001661.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1856,
+  "title_jp": "智代アフター 〜It's a Wonderful Life〜",
+  "title_en": "Tomoyo After: It's a Wonderful Life",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP",
+    "Xbox 360",
+    "PS3",
+    "Android",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー／ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『CLANNAD』坂上智代ルートの後日談を描いた外伝。Key 作品としては珍しくヒロインを智代 1 人に固定し、“人生”をテーマにシリアスな展開で支持を獲得。2020 年に Switch 版 CS Edition、Steam 英語版もリリースされ長期的に再評価が続く。",
+  "concept": "『CLANNAD』本編・智代ルートの“その後”を描くスピンオフ・ビジュアルノベル。朝原ともやと坂上智代の同棲生活を起点に、家族・記憶・余命という重いテーマを丁寧に積み上げる一本道に近い物語体験を提供する。",
+  "target": "『CLANNAD』『AIR』など Key 作品のファン層、20-40 代の泣きゲー／純愛ノベル愛好家。シリアスで重い物語と読み物としての完成度を求める層。",
+  "slug": "tomoyo-after-its-a-wonderful-life",
+  "file": "data/games/1856-tomoyo-after-its-a-wonderful-life.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tomoyo_After:_It's_a_Wonderful_Life",
+    "https://ja.wikipedia.org/wiki/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC_%E3%80%9CIt's_a_Wonderful_Life%E3%80%9C",
+    "https://www.famitsu.com/article/202511/58343",
+    "https://store.steampowered.com/app/462990/Tomoyo_After_Its_a_Wonderful_Life_English_Edition/"
+  ]
+}

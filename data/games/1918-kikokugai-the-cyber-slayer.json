@@ -1,0 +1,28 @@
+{
+  "id": 1918,
+  "title_jp": "鬼哭街",
+  "title_en": "Kikokugai: The Cyber Slayer",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus / JAST USA",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サイバーパンク武侠ビジュアルノベル（キネティックノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "虚淵玄の初期代表作として『Fate/Zero』『魔法少女まどか☆マギカ』ブレイク後に再評価され、武侠×サイバーパンクの異色設定と五体に分割された妹を巡る復讐譚が長くカルト的人気を集める。2011年リメイク版と JAST USA 英語版で海外 VN 層にも浸透。",
+  "concept": "上海の暗黒街を舞台に、裏切られた拳法家タオルオが電脳化された旧友たちを 1 体ずつ討ち、五体に分割された妹の魂を回収していくキネティック型サイバーパンク武侠ノベル。選択肢を排し、復讐と贖罪の一本道を虚淵玄節の濃密な文体で読ませる構造。",
+  "target": "虚淵玄作品・サイバーパンク・武侠（金庸／古龍）小説のファン層、選択肢のない硬派な物語消費を好む 18+ ビジュアルノベル読者。",
+  "slug": "kikokugai-the-cyber-slayer",
+  "file": "data/games/1918-kikokugai-the-cyber-slayer.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kikokugai:_The_Cyber_Slayer",
+    "https://ja.wikipedia.org/wiki/%E9%AC%BC%E5%93%AD%E8%A1%97",
+    "https://www.mobygames.com/game/185846/kikokugai-the-cyber-slayer/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/KikokugaiTheCyberSlayer"
+  ]
+}

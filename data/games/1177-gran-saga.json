@@ -1,0 +1,37 @@
+{
+  "id": 1177,
+  "title_jp": "グランサガ",
+  "title_en": "Gran Saga",
+  "developer": "NPIXEL",
+  "publisher": "NPIXEL",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "MMORPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "$100M+ in first month (KR launch)",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "Seven Knights の開発陣が手掛ける韓国産アニメ調 MMORPG。2021年1月の韓国ローンチ初月で売上 1 億ドル超、初日 100 万 DL を記録。日本版は 2021 年 11 月 18 日に小栗旬・金子ノブアキ起用の TVCM で大々的に展開された。",
+  "concept": "ハイクオリティな 3D アニメ調キャラクターと武器ガチャを軸にした韓国系モバイル MMORPG。手描き風カットシーンで重厚な物語を語りつつ、武器（グラン）の収集・強化と PC クロスプレイによる長期運営でリテンションを取りに行く設計。",
+  "target": "韓国系ハイクオリティ MMORPG を求めるアニメ好き層、リネージュや黒い砂漠系の重課金プレイヤー、Seven Knights からのフォロワー。日本では声優陣・CM タレント目当ての軽課金層も取り込もうとした。",
+  "slug": "gran-saga",
+  "file": "data/games/1177-gran-saga.json",
+  "_source_urls": [
+    "https://www.pocketgamer.com/gran-saga/now-available-worldwide-for-mobile-and-pc/",
+    "https://www.famitsu.com/news/202111/17241125.html",
+    "https://www.4gamer.net/games/479/G047976/20210805004/",
+    "https://games.mxdwn.com/news/gran-saga-to-shut-down-in-april-just-four-months-after-launch/",
+    "https://gransaga.jp/index.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

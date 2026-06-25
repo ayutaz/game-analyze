@@ -1,0 +1,28 @@
+{
+  "id": 2022,
+  "title_jp": "Emio -笑顔の男- ファミコン探偵倶楽部",
+  "title_en": "Emio – The Smiling Man: Famicom Detective Club",
+  "developer": "任天堂 / MAGES.",
+  "publisher": "任天堂",
+  "year": 2024,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "アドベンチャー/ミステリービジュアルノベル",
+  "sales_jp": "初週25,028本（パッケージ）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "シリーズ35年ぶりの完全新作。都市伝説「笑み男」をモチーフにした猟奇殺人ミステリーが話題となり、ファミ通電撃ゲームアワード2024で「ベストアドベンチャー賞」を受賞。",
+  "concept": "1989年『うしろに立つ少女』以来35年ぶりとなる『ファミコン探偵倶楽部』完全新作。坂本賀勇プロデュースの下、紙袋を被った謎の男「笑み男」にまつわる連続殺人事件を解き明かす重厚な探偵アドベンチャー。",
+  "target": "往年のファミコン探偵倶楽部ファン、重厚な物語と謎解きを求める20-50代のミステリー/ビジュアルノベル愛好層。猟奇的だが情感のある日本産アドベンチャーを好む層。",
+  "slug": "emio-the-smiling-man-famicom-detective-club",
+  "file": "data/games/2022-emio-the-smiling-man-famicom-detective-club.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Emio_%E2%80%93_The_Smiling_Man:_Famicom_Detective_Club",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E6%8E%A2%E5%81%B5%E5%80%B6%E6%A5%BD%E9%83%A8_%E7%AC%91%E3%81%BF%E7%94%B7",
+    "https://www.nintendo.com/jp/switch/a7lqa/index.html",
+    "https://makaigames.main.jp/famicom-tanteiclab-emio-sales1/"
+  ]
+}

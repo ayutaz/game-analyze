@@ -1,0 +1,31 @@
+{
+  "id": 1959,
+  "title_jp": "Happiness! Re:Lucks",
+  "title_en": "Happiness! Re:Lucks",
+  "developer": "Windmill Oasis",
+  "publisher": "Windmill Oasis",
+  "year": 2006,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2005年『はぴねす!』のファンディスクとして2006年7月28日に発売。式守伊吹・上条沙耶・渡良瀬準がヒロインに昇格し、特に男の娘キャラ「準にゃん♂」ルート実装で原作ファン界隈で大きな反響を呼んだ。",
+  "concept": "本編『はぴねす!』の後日談・ifストーリーを 7 編のオムニバス形式で収録したファンディスク。麻雀ミニゲームを内蔵し、本編で攻略不可だったサブキャラを昇格させて補完する位置付け。",
+  "target": "原作『はぴねす!』をプレイ済みで、サブキャラの後日談やifルートを補完したい成人向けビジュアルノベルファン。特にサブヒロイン推しや男の娘キャラに関心のある層。",
+  "slug": "happiness-re-lucks",
+  "file": "data/games/1959-happiness-re-lucks.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Happiness!_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99!",
+    "https://vgmdb.net/release/5861",
+    "https://www.amazon.co.jp/%E3%81%86%E3%81%84%E3%82%93%E3%81%A9%E3%81%BF%E3%82%8BOasis-%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%81%E3%82%8A%E3%82%89%E3%81%A3%E3%81%8F%E3%81%99-%E9%80%9A%E5%B8%B8%E7%89%88/dp/B000I1G9JC"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1134,
+  "title_jp": "Land of Empires: Immortal",
+  "title_en": "Land of Empires: Immortal",
+  "developer": "Nuverse",
+  "publisher": "Nuverse",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMO ストラテジー / 4X",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ByteDance 傘下 Nuverse が 2023 年にグローバル配信した MMO ストラテジー。タイタンや巨人を育成して同盟戦に投入できる独自要素と高品質グラフィックで欧米中心に話題になった。",
+  "concept": "都市建設・資源管理・リアルタイム同盟戦を組み合わせた 4X 系 MMO ストラテジー。文明選択とユニット編成、タイタン育成によって大規模 PvP に挑む。",
+  "target": "Rise of Kingdoms / Evony 系の MMO ストラテジーを好む海外コア層と、長期同盟運営で勝ち抜きたい重課金プレイヤー層。",
+  "slug": "land-of-empires-immortal",
+  "file": "data/games/1134-land-of-empires-immortal.json",
+  "_source_urls": [
+    "https://www.taptap.io/app/230967",
+    "https://play.google.com/store/apps/details?id=com.oasis.immortal&hl=en&gl=US",
+    "https://www.apkmirror.com/apk/nuverse/land-of-empires-immortal/",
+    "https://land-of-empires.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

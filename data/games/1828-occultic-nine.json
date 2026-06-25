@@ -1,0 +1,30 @@
+{
+  "id": 1828,
+  "title_jp": "OCCULTIC;NINE",
+  "title_en": "Occultic;Nine",
+  "developer": "MAGES.",
+  "publisher": "5pb.",
+  "year": 2017,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "Xbox One"
+  ],
+  "genre": "アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "志倉千代丸原作・成田良悟脚本のオカルト×科学群像劇のゲーム化。当初DL専用予定がファン要望でパッケージ化され話題に。",
+  "concept": "シュタインズ・ゲートと同じ「科学アドベンチャーシリーズ」のオカルト系作品。9人の登場人物の視点が交錯するマルチサイトADVで、超常現象の謎を群像劇として読み解く物語消費型ノベル。",
+  "target": "科学ADVシリーズや志倉千代丸作品のファン、原作小説・アニメ版を追ってきたオカルト群像劇好きの20-30代男女。",
+  "slug": "occultic-nine",
+  "file": "data/games/1828-occultic-nine.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Occultic;Nine",
+    "https://ja.wikipedia.org/wiki/Occultic;Nine_-%E3%82%AA%E3%82%AB%E3%83%AB%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%B3-",
+    "https://www.famitsu.com/games/t/32042/",
+    "https://www.mobygames.com/game/104107/occulticnine/"
+  ]
+}

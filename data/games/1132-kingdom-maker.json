@@ -1,0 +1,32 @@
+{
+  "id": 1132,
+  "title_jp": "Kingdom Maker",
+  "title_en": "Kingdom Maker",
+  "developer": "Global Worldwide",
+  "publisher": "Scopely / Global Worldwide",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMO ストラテジー/RPG/シム",
+  "sales_jp": "—",
+  "sales_world": "unknown (Android 100万+ DL)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中世ファンタジー世界で貴族家系を育てて国を作り、他プレイヤーの王国と政治・婚姻・戦争で渡り合う MMO ストラテジー。Scopely 配信時に大規模グローバルローンチで話題になり、2024年2月にScopelyが配信を撤退して Global Worldwide が単独運営へ移行。",
+  "concept": "RTS×RPG×シミュレーションを掛け合わせた中世王国経営 MMO。城を築き、軍を率い、貴族の血統を婚姻と継承で繋ぎ、ライバル王国と外交・恋愛・戦争を繰り広げる「自分流に統治する」を売りにした基本無料モバイル戦略ゲーム。",
+  "target": "Lords Mobile / Game of Thrones: Conquest / Rise of Kingdoms 系の MMO ストラテジー好きで、ガチャより同盟戦・領土戦・政略を楽しみたい英語圏中心の中重課金プレイヤー層。",
+  "slug": "kingdom-maker",
+  "file": "data/games/1132-kingdom-maker.json",
+  "_source_urls": [
+    "https://www.scopely.com/en/news/the-catapults-outta-the-bag-scopely-debuts-mobile-medieval-fantasy-game-kingdom-maker-to-players-around-the-globe",
+    "https://venturebeat.com/games/scopely-launches-kingdom-maker-a-free-to-play-medieval-mobile-game/",
+    "https://www.pocketgamer.biz/scopelys-kingdom-maker-team-sees-lay-offs/",
+    "https://play.google.com/store/apps/details?id=com.gww.km&hl=en",
+    "https://apps.apple.com/us/app/kingdom-maker/id1477420430"
+  ]
+}

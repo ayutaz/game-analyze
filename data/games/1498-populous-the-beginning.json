@@ -1,0 +1,29 @@
+{
+  "id": 1498,
+  "title_jp": "ポピュラス ザ・ビギニング",
+  "title_en": "Populous: The Beginning",
+  "developer": "Bullfrog Productions",
+  "publisher": "Electronic Arts",
+  "year": 1999,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "リアルタイムストラテジー（神視点RTS）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "ポピュラスシリーズ第3作にして初の完全3D化作品。プレイヤーが「シャーマン」として部族を率い、地形変形と神の力で他部族を殲滅する独自の神視点RTSとして評価され、PC版発売の翌1999年にプレイステーション版がエレクトロニック・アーツ・スクウェアから国内発売された。",
+  "concept": "プレイヤーは神の力を持つシャーマンを操り、地形を盛り上げたり平らにしたりしながら部族を拡大し、惑星上の他部族を駆逐する3D神視点RTS。Peter Molyneux 退社後の Bullfrog が手がけた、シリーズ唯一の完全3D作品。",
+  "target": "90年代のシム/RTSファン、ポピュラス・ダンジョンキーパー世代のPCゲーマー、神視点で世界を作り替えるタイプのストラテジー愛好家。",
+  "slug": "populous-the-beginning",
+  "file": "data/games/1498-populous-the-beginning.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Populous:_The_Beginning",
+    "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%94%E3%83%A5%E3%83%A9%E3%82%B9_%E3%82%B6%E3%83%BB%E3%83%93%E3%82%AE%E3%83%8B%E3%83%B3%E3%82%B0",
+    "https://www.4gamer.net/games/085/G008540/20091015050/",
+    "https://www.metacritic.com/game/populous-the-beginning/"
+  ]
+}

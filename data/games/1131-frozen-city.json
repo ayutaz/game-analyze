@@ -1,0 +1,33 @@
+{
+  "id": 1131,
+  "title_jp": "フローズン・シティ",
+  "title_en": "Frozen City",
+  "developer": "Century Games",
+  "publisher": "Century Games",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "街づくり/サバイバルシミュレーション/アイドル",
+  "sales_jp": "—",
+  "sales_world": "8M+ DL（配信60日時点）/ 累計1300万サバイバー超",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "氷河期アポカリプス世界の最後の町を再建する設定が刺さり、配信60日で800万DL・収益780万ドルを記録。アイドル系シティビルダーのトップグロッシングに躍り出た。",
+  "concept": "氷雪に覆われた終末世界で「最後の町」の長として、生存者を割り当てて資源を集め、生産チェーンを組み立てながら都市を再建するアイドル寄りの街づくりシミュレーション。生存者の食事・暖房・メンタル管理が常時のテーマ。",
+  "target": "20-40代の男女、特にカジュアルに進行する街づくりやサバイバルシミュレーションを好む層。短時間プレイ＋放置回収のループでスマホゲームを長く触りたい人。",
+  "slug": "frozen-city",
+  "file": "data/games/1131-frozen-city.json",
+  "_source_urls": [
+    "https://www.centurygames.com/games/frozen-city/",
+    "https://apps.apple.com/us/app/frozen-city/id1637040599",
+    "https://play.google.com/store/apps/details?id=com.fct.global",
+    "https://naavik.co/deep-dives/frozen-city-deconstruction/",
+    "https://gamefoliage.com/2023/02/08/frozen_city/"
+  ]
+}

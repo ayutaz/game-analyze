@@ -1,0 +1,32 @@
+{
+  "id": 1687,
+  "title_jp": "パロディウスだ! 神話からお笑いへ",
+  "title_en": "Parodius Da! Shinwa kara Owarai e",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1992,
+  "platform": [
+    "Arcade",
+    "SNES",
+    "NES",
+    "PC Engine",
+    "Game Boy"
+  ],
+  "genre": "横スクロールシューティング/パロディSTG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "コナミ自身の「グラディウス」シリーズをセルフパロディ化したシュールな弾幕STG。ペンギンやタコを自機に選べる奇抜さと豪華なクラシック音楽アレンジBGMで、AC稼働後にSFC/PCエンジン/FC/GBへ多機種展開しシリーズ化の礎となった。",
+  "concept": "ビックバイパー・タコ・ツインビー・ペン太郎の4機から選んで「神話の世界」をギャグまみれの背景で進む、グラディウスの自家パロディ・シューティング。難度はシリーズ譲りで本格的だが、ステージとボスは徹底的にお笑い寄せの世界観で塗り潰されている。",
+  "target": "1990年代のグラディウス/コナミSTGを通ってきた中堅以上のSTGファン、レトロアーケード・SFCコレクター、クラシック音楽アレンジ目当てのコナミ矩形波倶楽部リスナー層。",
+  "slug": "parodius-da-shinwa-kara-owarai-e",
+  "file": "data/games/1687-parodius-da-shinwa-kara-owarai-e.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Parodius_(1990_video_game)",
+    "https://konami.fandom.com/wiki/Parodius_Da!_~Shinwa_kara_Owarai_e~",
+    "https://superfamicom.org/info/parodius-da-shinwa-kara-owarai-he",
+    "https://en.wikipedia.org/wiki/Parodius"
+  ]
+}

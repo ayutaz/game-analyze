@@ -1,0 +1,31 @@
+{
+  "id": 1222,
+  "title_jp": "WinZO",
+  "title_en": "WinZO",
+  "developer": "Tic Tac Skill Games",
+  "publisher": "WinZO Games (India)",
+  "year": 2018,
+  "platform": [
+    "Android",
+    "iOS"
+  ],
+  "genre": "スキルゲームプラットフォーム/リアルマネー対戦アプリ",
+  "sales_jp": "—",
+  "sales_world": "175M+ ユーザー",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "12 以上のインド地方言語に対応し、Ludo / Carrom / Fantasy Cricket など 100+ スキルゲームを束ねた「インド最大級のリアルマネー対戦プラットフォーム」。月間 50 億トランザクション規模で、Griffin Gaming Partners / Makers Fund などから累計 1 億ドル調達。",
+  "concept": "スマホで遊べる軽量スキルゲームを 1 つのアプリにまとめ、少額エントリーフィー＋現金賞金の PvP トーナメントとして消費させる「インド版 Skillz」。各ゲームはサードパーティ開発者が WinZO の SDK 上に載せ、WinZO はマッチング・決済・KYC を一括で提供する。",
+  "target": "英語圏外も含むインド全土の 18-35 歳スマホユーザー、Ludo / Carrom など familiar なボード・カジュアルを「小遣い稼ぎ」感覚で遊びたい層、Tier 2/3 都市の Hindi/Bhojpuri/Tamil ネイティブ層。",
+  "slug": "winzo",
+  "file": "data/games/1222-winzo.json",
+  "_source_urls": [
+    "https://winzoapp.net/about-us/",
+    "https://startuptalky.com/winzo-success-story/",
+    "https://www.crunchbase.com/organization/winzo-games",
+    "https://en.everybodywiki.com/WinZO"
+  ]
+}

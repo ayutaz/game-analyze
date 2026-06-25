@@ -1,0 +1,28 @@
+{
+  "id": 1745,
+  "title_jp": "Project Gotham Racing 2",
+  "title_en": "Project Gotham Racing 2",
+  "developer": "Bizarre Creations",
+  "publisher": "Microsoft Game Studios",
+  "year": 2003,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "アーケード系レーシング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Kudos（スタイル走行）システムとロンドン/東京/ニューヨーク等の実在都市コースで高評価。IGN 9.5/10、GameSpot 8.7/10 を獲得し、Xbox Live 対応の初期キラータイトルの一つとして語られる。",
+  "concept": "実車免許 100 台超を使い、パワースライドや 360 ドリフトでスタイル点（Kudos）を稼ぎながら順位を争う「魅せる走り」型レーシング。Xbox Live で最大 8 人オンライン対戦に対応し、ランクは Kudos 累計で決まる独自設計。",
+  "target": "Forza より気軽でリッジレーサーより硬派なバランスを求める Xbox ユーザー。実車のドリフトやコンボを決めて魅せたい中級〜上級レーサー、Xbox Live 黎明期のオンライン対戦に手応えを求める層。",
+  "slug": "project-gotham-racing-2",
+  "file": "data/games/1745-project-gotham-racing-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Project_Gotham_Racing_2",
+    "https://www.gamespot.com/reviews/project-gotham-racing-2-review/1900-6083974/",
+    "https://news.microsoft.com/source/2003/11/18/microsoft-hits-the-streets-with-project-gotham-racing-2/",
+    "https://www.mobygames.com/game/11216/project-gotham-racing-2/"
+  ]
+}

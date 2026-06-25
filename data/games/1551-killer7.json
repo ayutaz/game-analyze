@@ -1,0 +1,32 @@
+{
+  "id": 1551,
+  "title_jp": "killer7",
+  "title_en": "killer7",
+  "developer": "Grasshopper Manufacture",
+  "publisher": "Capcom",
+  "year": 2005,
+  "platform": [
+    "GameCube",
+    "PS2",
+    "PC"
+  ],
+  "genre": "アクションアドベンチャー/オンレールシューター",
+  "sales_jp": "—",
+  "sales_world": "150K+ (推定)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "須田剛一の作家性が国際的に確立したカルト的代表作。Capcom Five の一角として GameCube/PS2 で物議を醸し、2018 年に NIS America から Steam 版が出て再評価された。",
+  "concept": "7 つの人格を切り替える車椅子の暗殺者ハーマン・スミスを操作する、オンレール構造のサイコサスペンス・アクションアドベンチャー。政治・テロ・人格分裂をモチーフにした難解なストーリーと、極端にスタイライズされたセル調ビジュアルで「物語を読み解く」体験そのものを商品化した。",
+  "target": "Suda51・グラスホッパー作品（No More Heroes / シルバー事件 等）のファン、難解な政治サスペンス・カルト映画好き、ビジュアル偏重の作家性ゲームを掘るタイプのコアゲーマー。",
+  "slug": "killer7",
+  "file": "data/games/1551-killer7.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Killer7",
+    "https://store.steampowered.com/app/868520/killer7/",
+    "https://www.vgchartz.com/game/1110/killer7/",
+    "https://suda51.fandom.com/wiki/Killer7"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1282,
+  "title_jp": "インジャスティス2 モバイル",
+  "title_en": "Injustice 2 Mobile",
+  "developer": "NetherRealm Studios",
+  "publisher": "Warner Bros",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "対戦格闘/カードコレクション",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "DC ヒーロー／ヴィラン 3 vs 3 のスワイプ格闘＋ヒーローカード収集で、コンソール版『Injustice 2』のコンパニオンとしてグローバルで継続的にチャート入り。Sensor Tower でも長期に安定した DL／課金実績を維持。",
+  "concept": "コンソール格闘『Injustice 2』のモバイル版として、スワイプ操作の 3 on 3 ヒーローバトルにキャラ収集・装備強化・PvP リーグを組み合わせたフリートゥプレイ対戦格闘。コンソール版とアカウント連携で報酬を共有できる。",
+  "target": "DC コミック／映画ファン、スマホで手軽に格闘＋コレクションを遊びたい層、対戦格闘経験者でもコアな技術より育成と編成で勝ちたいプレイヤー。",
+  "slug": "injustice-2-mobile",
+  "file": "data/games/1282-injustice-2-mobile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Injustice_2",
+    "https://injustice.fandom.com/wiki/Injustice_2_Mobile",
+    "https://www.injusticeonline.com/games/injustice-2-mobile/",
+    "https://app.sensortower.com/overview/1109008423?country=us"
+  ]
+}

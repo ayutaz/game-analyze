@@ -1,0 +1,30 @@
+{
+  "id": 1459,
+  "title_jp": "シレントヒル幻夢",
+  "title_en": "Hellnight (Dark Messiah)",
+  "developer": "Atlus / 電脳映像製作所",
+  "publisher": "Atlus / Konami",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "一人称視点ホラーアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "戦闘不能・倒せない一体のクリーチャーから逃げ続ける異色の一人称ホラー。日本では1998年発売、欧州にも展開されたが北米未発売で、長くマニア向け「知る人ぞ知る PS1 ホラー」として語り継がれている。",
+  "concept": "東京の地下迷宮を舞台に、戦闘システムを完全に排し「追跡される恐怖」のみで構成された一人称ホラーアドベンチャー。プレイヤーはナオミら同行 NPC を守りながら迷路状のマップを逃走する。",
+  "target": "サイレントヒル／クロックタワー系の心理ホラーや、戦闘を持たない探索型ホラーを好む 20–40 代コア層。レトロ PS1 ホラーの隠れた名作を掘りたい層。",
+  "slug": "hellnight-dark-messiah",
+  "file": "data/games/1459-hellnight-dark-messiah.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hellnight",
+    "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%AF%E3%83%A1%E3%82%B5%E3%82%A4%E3%82%A2",
+    "https://www.hardcoregaming101.net/hellnight/",
+    "https://www.mobygames.com/game/15332/hellnight/"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1751,
+  "title_jp": "Fate/stay night",
+  "title_en": "Fate/stay night",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2004,
+  "platform": [
+    "PC",
+    "PS2",
+    "PS Vita",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "platform_note": "2004 PC 初版 → Réalta Nua 版が PS2 (2007) / PC (2011) / PS Vita (2012-2013) / iOS・Android (2015) / Switch・PC REMASTERED (2024) と展開",
+  "genre": "伝奇ビジュアルノベル",
+  "sales_jp": "750K+ (累計 / VN シリーズ合算推定)",
+  "sales_world": "750K+ (PC 初版 ~400K + PS2/Vita/Switch 累計、REMASTERED 100K 含む)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "TYPE-MOON 奈須きのこの伝奇ビジュアルノベル代表作。Fate/Zero、Fate/Grand Order、UBW・HF アニメ等で巨大 IP 化し、2024 年の REMASTERED で 10 万本超を記録。",
+  "concept": "「聖杯戦争」を舞台にセイバー・凛・桜の 3 ヒロインルートを並走させる伝奇ビジュアルノベル。Fate / UBW / HF の 3 ルートで世界観と主人公の倫理観が大きく変質する多層構造が特徴。",
+  "target": "10代後半〜40代の男性中心、伝奇・選択肢式 ADV ファン、TYPE-MOON 世界観（月姫、Fate/Zero、FGO）に親しんだ層。物語消費・キャラクター愛着重視のプレイヤー。",
+  "slug": "fate-stay-night",
+  "file": "data/games/1751-fate-stay-night.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/stay_night",
+    "https://www.gematsu.com/2024/12/fate-stay-night-remastered-sales-top-100000",
+    "https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/",
+    "https://typemoon.fandom.com/wiki/Fate/stay_night"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

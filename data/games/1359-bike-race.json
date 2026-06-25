@@ -1,0 +1,31 @@
+{
+  "id": 1359,
+  "title_jp": "Bike Race",
+  "title_en": "Bike Race",
+  "developer": "Top Free Games",
+  "publisher": "Top Free Games",
+  "year": 2011,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "物理演算バイクレース/アーケード",
+  "sales_jp": "—",
+  "sales_world": "250M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "非同期",
+  "popularity": "シンプルなタップ操作で楽しめる2D物理演算バイクレースとして、Facebook連携のフレンド対戦と毎日更新のチャレンジで世界累計2億DL超を達成。スマホ黎明期のカジュアル定番タイトルとして長期運営されている。",
+  "concept": "傾けて加速・ブレーキするだけのワンタップ操作で、ジャンプとループのコースを駆け抜ける物理演算バイクレース。Facebook経由のフレンド非同期マルチとユーザー作成ステージで遊びを拡張する。",
+  "target": "通勤・通学の隙間時間に短時間で遊びたいスマホカジュアル層、フレンドと記録を競いたいライト対戦勢、操作はシンプルだが詰めると奥深いタイムアタック嗜好のプレイヤー。",
+  "slug": "bike-race",
+  "file": "data/games/1359-bike-race.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/bike-race-free-style-games/id510461758",
+    "https://play.google.com/store/apps/details?id=com.topfreegames.bikeracefreeworld",
+    "https://archive.org/details/com.topfreegames.bikeracefree-v-1.9.2-i-os-4.0-clutch-2.0.4"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

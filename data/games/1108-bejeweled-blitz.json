@@ -1,0 +1,33 @@
+{
+  "id": 1108,
+  "title_jp": "Bejeweled Blitz",
+  "title_en": "Bejeweled Blitz",
+  "developer": "PopCap Games",
+  "publisher": "Electronic Arts",
+  "year": 2009,
+  "platform": [
+    "Browser",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/タイムアタック",
+  "sales_jp": "—",
+  "sales_world": "125M+ players",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "2009年Facebookで公開され「Best Facebook Game of 2009」(IGN) を獲得。1分間でハイスコアを競う中毒性とフレンドリーダーボードでSNS時代の代表的カジュアルゲームとなり、世界1.25億人以上がプレイした。",
+  "concept": "60秒の制限時間内にジュエルを揃え続けてハイスコアを叩き出す高速マッチ3パズル。週次リセットされるフレンドリーダーボードで非同期に競い合う「ソーシャル時短アーケード」として設計されている。",
+  "target": "短時間で遊べるカジュアルゲームを好む全年齢層、特にFacebook/スマホで友人とスコアを競いたいライト層。ガッツリしたゲーマーではなく、隙間時間にやり込める女性層・中高年層にも広く支持された。",
+  "slug": "bejeweled-blitz",
+  "file": "data/games/1108-bejeweled-blitz.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bejeweled_Blitz",
+    "https://bejeweled.fandom.com/wiki/Bejeweled_Blitz",
+    "https://www.ea.com/ja-jp/games/bejeweled/bejeweled-blitz",
+    "https://apps.apple.com/jp/app/bejeweled-blitz/id469960709"
+  ]
+}

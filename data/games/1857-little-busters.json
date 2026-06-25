@@ -1,0 +1,32 @@
+{
+  "id": 1857,
+  "title_jp": "リトルバスターズ！",
+  "title_en": "Little Busters!",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2007,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP",
+    "PS Vita",
+    "PS3",
+    "Switch"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "100K+",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 第6作として10万本超のヒット。野球・ミニゲーム要素を盛り込んだ「青春ノベル」として話題となり、後にアニメ化・コンシューマ多機種展開・Switch版（2020）まで継続的に支持された。",
+  "concept": "Key の鍵泣きゲー系譜にありながら「仲間との青春の追体験」を主軸に据えたビジュアルノベル。ミニゲームと選択肢で日常パートを能動的に遊ばせつつ、最終的に大きな物語の真相へ導く構成。",
+  "target": "Key 作品（Kanon / AIR / CLANNAD）ファンを中心とした PC ノベル系プレイヤー。仲間ものの青春群像劇と、感情を揺さぶる物語を腰を据えて読みたい層。",
+  "slug": "little-busters",
+  "file": "data/games/1857-little-busters.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Little_Busters!",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!",
+    "https://store.steampowered.com/app/635940/Little_Busters_English_Edition/"
+  ]
+}

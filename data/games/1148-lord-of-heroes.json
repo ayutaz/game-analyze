@@ -1,0 +1,36 @@
+{
+  "id": 1148,
+  "title_jp": "ロード・オブ・ヒーローズ",
+  "title_en": "Lord of Heroes",
+  "developer": "Clover Games",
+  "publisher": "Clover Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ヒーローコレクション/ターン制RPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "韓国 Clover Games の第 1 弾モバイル RPG として 2020 年 3 月韓国・9 月グローバル配信、2021 年 4 月日本版配信。事前登録 100 万人突破、Google Play「2020 年のゲーム」受賞、累計 400 万 DL 超を記録したが、運営会社の経営破綻により 2026 年 5 月 9 日にサービス終了。",
+  "concept": "「領地を拡張し世界に革命を起こす」物語を軸にしたヒーロー収集型ターン制 RPG。当初はガチャを排し通貨・キャッシュ購入で英雄を獲得する独自モデルだったが、後にガチャ召喚を導入し、王道のキャラ集め+育成路線へ移行した。",
+  "target": "アニメ調キャラと群像劇シナリオを楽しみたい 10-30 代のモバイル RPG ファン。エピックセブン／サマナーズウォー系の韓国ヒーローコレクター文脈で遊ぶ層。",
+  "slug": "lord-of-heroes",
+  "file": "data/games/1148-lord-of-heroes.json",
+  "_source_urls": [
+    "https://www.clovergames.com/en/games/lord-of-heroes/",
+    "https://lord-of-heroes.fandom.com/wiki/Lord_of_Heroes",
+    "https://mmoculture.com/2020/01/lord-of-heroes-clover-games-reveals-its-first-hero-collection-mobile-rpg/",
+    "https://gamebiz.jp/news/294119",
+    "https://www.gamer.ne.jp/news/202104210037/",
+    "https://www.gamesolusi.com/2026/04/clover-games-bankruptcy-3-games-shutdown.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

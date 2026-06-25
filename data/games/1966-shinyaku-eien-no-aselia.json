@@ -1,0 +1,33 @@
+{
+  "id": 1966,
+  "title_jp": "新約 永遠のアセリア",
+  "title_en": "Shin'yaku Eien no Aselia / New Testament Aselia the Eternal",
+  "developer": "Xuse",
+  "publisher": "Xuse",
+  "year": 2010,
+  "platform": [
+    "PC"
+  ],
+  "genre": "異世界召喚SRPG/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2003年原典『永遠のアセリア』のファン層が長年待望した非18禁リメイク。永遠神剣シリーズの第3章として企画され、企画・高瀬奈緒文＋キャラデザ・ひと丸の原作スタッフ続投が話題に。",
+  "slug": "shinyaku-eien-no-aselia",
+  "file": "data/games/1966-shinyaku-eien-no-aselia.json",
+  "concept": "原典『永遠のアセリア』の世界観とキャラクターを継承しつつ全年齢仕様で再構築した異世界召喚SRPG＋ビジュアルノベル。神剣システム＋精霊使い育成によるターン制戦術と、重厚な異世界転移ドラマを両輪で見せる。",
+  "target": "原典『永遠のアセリア』の旧来ファンと、Xuse 永遠神剣シリーズを追ってきた長文シナリオ嗜好の PC ノベルゲーマー層。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%B0%B8%E9%81%A0%E3%81%AE%E3%82%A2%E3%82%BB%E3%83%AA%E3%82%A2",
+    "https://aselia.everlasting-corp.co.jp/",
+    "https://eternitysword.fandom.com/wiki/Eien_no_Aselia",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/AseliaTheEternalTheSpiritOfEternitySword"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

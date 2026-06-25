@@ -1,0 +1,31 @@
+{
+  "id": 2039,
+  "title_jp": "パンチライン",
+  "title_en": "Punch Line",
+  "developer": "5pb. / MAGES.",
+  "publisher": "5pb. / PQube",
+  "year": 2016,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "幽体イタズラアドベンチャー / ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "打越鋼太郎シナリオ × 小室哲哉音楽 × ノイタミナアニメ『パンチライン』のゲーム化として話題に。「パンツを見たら人類滅亡」というキャッチコピーが SNS でバズり、アニメ未視聴勢にも認知が広がった。",
+  "concept": "アニメ版と地続きの世界で、幽体離脱した主人公ユウタが少女たちにイタズラを仕掛けながら本体への帰還を目指す「幽体イタズラアドベンチャー」。打越鋼太郎ならではの仕掛けと、アニメ用に新作カットを追加した映像体験を売りにする。",
+  "target": "アニメ『パンチライン』のファン、打越鋼太郎作品（極限脱出 / Ever17 / ダンガンロンパ系）を追う AVG / ビジュアルノベル愛好層、ややエッジの効いた萌え寄り題材を許容できる 20-30 代男性。",
+  "slug": "punch-line",
+  "file": "data/games/2039-punch-line.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Punch_Line_(video_game)",
+    "https://punchline-game.jp/",
+    "https://www.famitsu.com/news/201601/28098194.html",
+    "https://www.4gamer.net/games/295/G029578/",
+    "https://www.4gamer.net/games/307/G030790/"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1357,
+  "title_jp": "Traffic Rider",
+  "title_en": "Traffic Rider",
+  "developer": "Soner Kara",
+  "publisher": "Soner Kara",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "一人称視点バイクレース/エンドレスランナー",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "実車サウンド収録の一人称バイク視点と、車を擦り抜けるオーバーテイクの爽快感でモバイル無料レース上位の常連となり、YouTube ゲーム実況や TikTok 短尺動画で再ブームを繰り返している。",
+  "concept": "Traffic Racer のフォーマットを一人称化したバイク版エンドレスランナー。実車から録音したエンジン音と、対向車・併走車スレスレを走る「ニアミス＝高得点」設計で、短時間でも没入感ある走行体験が得られる。",
+  "target": "通勤・休憩時間に短時間で爽快感を味わいたい男性中心のモバイルカジュアル層、バイク好き／レーシングゲーム好きで PC・据置機を持たないユーザー。",
+  "slug": "traffic-rider",
+  "file": "data/games/1357-traffic-rider.json",
+  "_source_urls": [
+    "https://apps.apple.com/jp/app/traffic-rider/id951744068",
+    "https://dotapps.jp/products/com-skgames-motor",
+    "https://otakuindustry.biz/archives/665",
+    "https://archive.org/details/traffic-rider-andro-rel"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

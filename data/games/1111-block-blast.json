@@ -1,0 +1,36 @@
+{
+  "id": 1111,
+  "title_jp": "ブロックブラスト!",
+  "title_en": "Block Blast!",
+  "developer": "Hungry Studio",
+  "publisher": "Hungry Studio",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "ブロックパズル/カジュアル",
+  "sales_jp": "—",
+  "sales_world": "870M+ DL / 2025年DLランキング1位",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "2024年にTikTokでバズり全世界DL1位に急上昇。2025年時点で累計9.7億DL、DAU7,000万・MAU3億、Sensor Tower APAC Awards 2025「Best Puzzle Game」受賞。日本国内MAUも400万人超。",
+  "concept": "8×8グリッドにテトリス型のブロックをドラッグして行・列・正方形を消す、ハイスコア志向のシングルブロックパズル。ルール極限まで単純化＋連鎖時の派手な演出で「数分の隙間時間に何度でもやり直したくなる」中毒性を設計。",
+  "target": "10代〜60代まで幅広い非ゲーマー層、特にスマホで隙間時間に遊ぶ層・SNS（TikTok/YouTube Shorts）でスコア競争動画を見る/真似する層。",
+  "slug": "block-blast",
+  "file": "data/games/1111-block-blast.json",
+  "_source_urls": [
+    "https://apps.apple.com/jp/app/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88-block-blast/id1617391485",
+    "https://www.tv-tokyo.co.jp/plus/external-pr/entry/48649.html",
+    "https://kyodonewsprwire.jp/release/202602264597",
+    "https://maf.ad/en/blog/block-blast/",
+    "https://www.einpresswire.com/article/862545660/400"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

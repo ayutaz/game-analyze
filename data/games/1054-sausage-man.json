@@ -1,0 +1,35 @@
+{
+  "id": 1054,
+  "title_jp": "ソーセージマン",
+  "title_en": "Sausage Man",
+  "developer": "XD Entertainment",
+  "publisher": "XD Entertainment",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "バトルロイヤル/カートゥーン系シューター",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ソーセージ姿のキャラがコミカルに撃ち合うコミカル路線のバトルロイヤルとして東南アジア・中華圏で大ヒットし、Google Play 累計 1 億 DL を突破。スキン・コスプレ系コラボ（仮面ライダー等）で SNS でも継続的にバズった。",
+  "slug": "sausage-man",
+  "file": "data/games/1054-sausage-man.json",
+  "concept": "PUBG 型 100 人バトルロイヤルを、ソーセージ姿のデフォルメキャラとカートゥーン演出で「殺伐としない」方向にずらしたモバイル F2P シューター。物理的にコミカルな挙動とコスメ課金で軽く遊べる対戦体験を提供する。",
+  "target": "10-20 代の若年層を中心に、PUBG/Fortnite のシリアスさを苦手とするカジュアル層、コスメ・キャラ装飾で自己表現したい層、東南アジア・中華圏のフレンド対戦カルチャーに馴染んだ層。",
+  "_source_urls": [
+    "https://www.xd.com/games/single/10098?lang=en",
+    "https://sausageman.xd.com/",
+    "https://play.google.com/store/apps/details?id=com.GlobalSoFunny.Sausage",
+    "https://www.gamerbraves.com/sausage-man-breaks-1-million-downloads-before-officially-launching/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

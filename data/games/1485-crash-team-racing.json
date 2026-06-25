@@ -1,0 +1,28 @@
+{
+  "id": 1485,
+  "title_jp": "クラッシュ・バンディクー レーシング",
+  "title_en": "Crash Team Racing",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "カートレース",
+  "sales_jp": "—",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PS1 末期のカートレース代表作として全米 190 万本超を販売、Greatest Hits 入りでロングセラー化。2019 年の『ブッとびニトロ！』としてリメイクされ累計 1,000 万本突破した源流タイトルとして再評価が進む。",
+  "concept": "Naughty Dog がマリオカートに正面から挑んだ PS1 末期のキャラクターカートレース。アイテム射出・ドリフト・ターボ・分岐コースを盛り込み、ストーリーモード「アドベンチャー」で 1 人でも長く遊べる構成にしたのが特徴。",
+  "target": "PS1 世代の小中学生〜大人のカートレース好き、画面分割マルチで集まって遊ぶ家族・友人グループ、クラッシュ IP のファン層。",
+  "slug": "crash-team-racing",
+  "file": "data/games/1485-crash-team-racing.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crash_Team_Racing",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AF%E3%83%BC_%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "https://www.vgchartz.com/game/413/crash-team-racing/",
+    "https://crashynews.wordpress.com/2020/12/14/list-of-unit-sales-for-crash-bandicoot-games-available-sources-ongoing/"
+  ]
+}

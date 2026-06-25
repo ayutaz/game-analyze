@@ -1,0 +1,28 @@
+{
+  "id": 1698,
+  "title_jp": "ハガネ",
+  "title_en": "Hagane: The Final Conflict",
+  "developer": "CAProduction / Red Entertainment",
+  "publisher": "Hudson Soft",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "サイバー忍者「ハガネ」を主役にした SFC 後期のアクション。海外（特に北米）で激レアプレミアソフト化し、レトロゲームコレクター市場でカルト的に高値取引されている。",
+  "concept": "西暦 5000 年を舞台にしたサイボーグ忍者の高速アクション。刀・手裏剣・爆弾・鎖鎌を切り替え、スライディング・バック宙・壁張り付きなど 20 以上のアクションで 5 ステージを駆け抜けるハードコアな横スクロール。",
+  "target": "SFC 期のアクション/忍者ゲームを好む高難度志向プレイヤー、雨宮慶太デザインのメカ忍者世界観に惹かれるレトロゲーム愛好家・コレクター層。",
+  "slug": "hagane-the-final-conflict",
+  "file": "data/games/1698-hagane-the-final-conflict.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hagane:_The_Final_Conflict",
+    "https://superfamicom.org/info/hagane",
+    "https://www.nintendolife.com/games/snes/hagane_the_final_conflict",
+    "https://eienken.eek.jp/game-tips/hagane-sfc/hagane-sfc.html"
+  ]
+}

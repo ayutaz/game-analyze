@@ -1,0 +1,31 @@
+{
+  "id": 1738,
+  "title_jp": "Halo: Combat Evolved",
+  "title_en": "Halo: Combat Evolved",
+  "developer": "Bungie",
+  "publisher": "Microsoft Game Studios",
+  "year": 2001,
+  "platform": [
+    "Xbox",
+    "PC",
+    "Mac"
+  ],
+  "genre": "SF FPS",
+  "sales_jp": "—",
+  "sales_world": "5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "初代 Xbox のキラータイトルとして家庭用 FPS の概念を確立し、LAN パーティ文化と分割画面 4 人対戦で爆発的に普及した。",
+  "slug": "halo-combat-evolved",
+  "file": "data/games/1738-halo-combat-evolved.json",
+  "concept": "リング状人工天体「ヘイロー」を舞台にしたシネマティック SF FPS。乗り物、武器 2 つ持ち、リジェネシールド、AI コンパニオンといった現代 FPS の文法を一気に確立した記念碑的作品。",
+  "target": "コンソール FPS を求める 10-30 代男性中心の Xbox 初期ユーザー、LAN パーティ／分割画面対戦を楽しむ友人グループ、SF 軍事ものに惹かれる層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Halo:_Combat_Evolved",
+    "https://ja.wikipedia.org/wiki/Halo:_Combat_Evolved",
+    "https://www.halopedia.org/Halo:_Combat_Evolved"
+  ]
+}

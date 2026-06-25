@@ -1,0 +1,35 @@
+{
+  "id": 1953,
+  "title_jp": "DEARDROPS",
+  "title_en": "Deardrops",
+  "developer": "OVERDRIVE",
+  "publisher": "OVERDRIVE",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "PSP",
+    "iOS",
+    "Android"
+  ],
+  "genre": "青春ロックンロールアドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "OVERDRIVE 第3作、『キラ☆キラ』に続く音楽×バンドもの長編 ADV としてエロゲ層に高評価。豪華オリジナル楽曲と熱量あるバンド再起ドラマで「音楽 ADV」ジャンルを代表する一本となり、PSP 移植『DEARDROPS DISTORTION』(2011) や 2017 年クラウドファンディングによる『DEARDROPS OVERDRIVE EDITION』(iOS/Android) で再評価された。",
+  "concept": "海外オケから挫折して帰国した元天才ヴァイオリニストが、ライブハウスで出会った仲間とロックバンド「DEARDROPS」を組み、ギタリストとして再起していく青春ロックンロール・ビジュアルノベル。バンド内の人間関係そのものを物語の中心に据える。",
+  "target": "『キラ☆キラ』など OVERDRIVE 作品が好きな PC 美少女ゲーム/泣きゲー層、音楽・バンドものの長編 ADV を読みたい 20-40 代男性。後年は PSP 全年齢版・スマホ版で一般 ADV ファンにも裾野が広がった。",
+  "slug": "deardrops",
+  "file": "data/games/1953-deardrops.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/DEARDROPS",
+    "https://over-drive.jp/DEARDROPS_10th",
+    "http://www.over-drive.jp/ddd/what.html",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/Deardrops",
+    "https://dotapps.jp/products/jp-co-k-g-f-deardrops"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1027,
+  "title_jp": "伝説対決 -Arena of Valor-",
+  "title_en": "Arena of Valor",
+  "developer": "TiMi Studio Group",
+  "publisher": "Tencent / Level Infinite",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "MOBA（5v5マルチプレイヤーオンラインバトルアリーナ）",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "『王者栄耀（Honor of Kings）』の国際版として 2016 年に台湾でリリース、2018 年に日本で『伝説対決』としてサービス開始。東南アジアを中心に MAU 1,200 万超を維持する代表的モバイル MOBA。",
+  "concept": "『王者栄耀』エンジンをベースに、ヒーロー・UI を西側／日本向けに差し替えた 5v5 モバイル MOBA。短時間 10-15 分でフルマップ戦が完結し、スマホ操作に最適化された MOBA 体験を提供する。",
+  "target": "10-30代のモバイルゲーマー、東南アジア圏の MOBA プレイヤー、LoL/Dota は重すぎるがチームバトルを短時間で楽しみたい層。日本では Switch 版もありコンソール／モバイルを横断する対戦コミュニティ。",
+  "slug": "arena-of-valor",
+  "file": "data/games/1027-arena-of-valor.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arena_of_Valor",
+    "https://en.wikipedia.org/wiki/Honor_of_Kings",
+    "https://www.timistudios.com/games/arena-of-valor",
+    "https://www.levelinfinite.com/game/arena-of-valor/"
+  ]
+}

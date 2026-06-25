@@ -1,0 +1,31 @@
+{
+  "id": 1540,
+  "title_jp": "サイレントヒル4 ザ・ルーム",
+  "title_en": "Silent Hill 4: The Room",
+  "developer": "Konami Computer Entertainment Tokyo (Team Silent)",
+  "publisher": "Konami",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "サバイバルホラー/サイコロジカルホラー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Team Silent 最終作にしてシリーズ異色の閉鎖空間ホラー。「鍵のかかった自室から出られない」一人称パートと幽霊・呪い設定で SNS 黎明期から長年カルト的人気を保つ。",
+  "concept": "シリーズ伝統の霧の街ではなく、呪われたアパートの一室「302号室」を主観視点で観察し、覗き穴の向こうの世界へ侵入していくサイコロジカルホラー。三人称探索と一人称ルームパートを切り替える構成が異色。",
+  "target": "サイレントヒルおよび Team Silent 時代の作品を追うサバイバルホラーファン、PS2 期の閉鎖空間ホラー・心理ホラーを好む 20-40 代プレイヤー層。",
+  "slug": "silent-hill-4-the-room",
+  "file": "data/games/1540-silent-hill-4-the-room.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Silent_Hill_4:_The_Room",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%88%E3%83%92%E3%83%AB4_%E3%82%B6%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%A0",
+    "https://www.famitsu.com/article/202506/44720"
+  ]
+}

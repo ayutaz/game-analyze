@@ -1,0 +1,30 @@
+{
+  "id": 1450,
+  "title_jp": "トニー・ホークス・プロ・スケーター",
+  "title_en": "Tony Hawk's Pro Skater",
+  "developer": "Neversoft",
+  "publisher": "Activision",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "N64",
+    "Dreamcast",
+    "Game Boy"
+  ],
+  "genre": "スケートボード/アクションスポーツ",
+  "sales_jp": "—",
+  "sales_world": "3.5M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "2分間で高スコアを叩き出すアーケード感覚と、Goldfinger『Superman』を筆頭にしたパンク／スカ・サウンドトラックがティーン層に刺さり、スケートボード文化を一気にメインストリーム化した立役者。",
+  "concept": "制限時間内に決められたトリックを連続で繋いでハイスコアを狙う、シミュレーションではなく完全なアーケード型スケートゲーム。レベル＝広大なスケートパークを自由に走り回り、コンボ・グラインド・エアの組み合わせで「自分のラインを描く」体験を提供する。",
+  "target": "10代後半〜20代の男性スケーター／音楽好き層を中心に、スケート未経験のゲーマーまで巻き込んだ。1999年のPS1世代で「カジュアルに上手くなれる感覚」を楽しみたい層に刺さった。",
+  "slug": "tony-hawks-pro-skater",
+  "file": "data/games/1450-tony-hawks-pro-skater.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%BC%E3%82%AF_%E3%83%97%E3%83%AD%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%BF%E3%83%BC",
+    "https://blog.ja.playstation.com/2025/03/05/20250305-thps34/"
+  ]
+}

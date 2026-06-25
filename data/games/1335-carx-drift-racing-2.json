@@ -1,0 +1,34 @@
+{
+  "id": 1335,
+  "title_jp": "CarX Drift Racing 2",
+  "title_en": "CarX Drift Racing 2",
+  "developer": "CarX Technologies",
+  "publisher": "CarX Technologies",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ドリフトレーシング/シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL (CarX series total)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "本格的なドリフト物理エンジンと豊富な車種カスタマイズで、世界のドリフト愛好家コミュニティから支持。CarX シリーズ全体で 1 億 DL を突破した代表作。",
+  "concept": "リアルなドリフト物理シミュレーションをモバイルで実現したアーケード寄りレーサー。ビジュアルチューニング・サスペンション調整・タイヤ管理など車作りの自由度が高く、マルチプレイヤールームで腕を競える。",
+  "target": "ドリフト・走り屋カルチャー好きの 10-30 代男性層、車のカスタマイズや挙動セッティングに没頭したいコア層。",
+  "slug": "carx-drift-racing-2",
+  "file": "data/games/1335-carx-drift-racing-2.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.carxtech.carxdr2",
+    "https://apps.apple.com/us/app/carx-drift-racing-2/id1198510863",
+    "https://carx.fandom.com/wiki/CarX_Drift_Racing_2",
+    "https://app.sensortower.com/overview/1198510863?country=US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1078,
+  "title_jp": "Combat Master Mobile",
+  "title_en": "Combat Master Mobile FPS",
+  "developer": "Alfa Bravo Inc.",
+  "publisher": "Alfa Bravo Inc.",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "モバイル向け高速 PvP FPS / バトロワ",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "「CoD モバイルから悪いところを抜いた」と評されるほどの高速 TTK と滑らかな操作感で、見た目が Modern Warfare に酷似しているとして海外フォーラムや国内 FPS 系メディアで話題化。3vs3・3 分制の短時間マッチと AAA 級グラフィックで、ストア評価と YouTube 実況の伸びが牽引した。",
+  "slug": "combat-master-mobile-fps",
+  "file": "data/games/1078-combat-master-mobile-fps.json",
+  "concept": "ハイエンドスマホで AAA 級ビジュアルと滑らかな撃ち合いを 3 分マッチで提供する、CoD モバイルの対抗馬を狙ったフリー・トゥ・プレイ FPS。スライディング・空中での方向転換など機動アクションと細かな武器カスタマイズを軸に、シーズン制で武器・オペレーター・モードを追加運営している。",
+  "target": "CoD モバイルや Standoff 2 などスマホ競技 FPS を遊ぶ 10〜30 代の男性プレイヤー、特に「重課金よりも撃ち合いの上手さで勝ちたい」層と、PC FPS 同等の操作感をモバイルで欲しいライト〜ミドルコア層。",
+  "_source_urls": [
+    "https://combat-master.fandom.com/wiki/Combat_Master_Mobile_FPS",
+    "https://play.google.com/store/apps/details?id=com.AlfaBravo.CombatMaster&hl=en_US",
+    "https://apps.apple.com/us/app/combat-master-mobile/id1598639131",
+    "https://gameapp-village.com/combat-master-mobile_setting_review/",
+    "https://fpsjp.net/archives/403334"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

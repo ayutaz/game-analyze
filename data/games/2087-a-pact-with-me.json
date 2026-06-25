@@ -1,0 +1,34 @@
+{
+  "id": 2087,
+  "title_jp": "A Pact With Me",
+  "title_en": "A Pact With Me",
+  "developer": "ChaniMK",
+  "publisher": "ChaniMK",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Android"
+  ],
+  "genre": "BL/ヤオイ系ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Steamレビュー100%好評（少数だが熱量高）、itch.io／TapTap でもアジア圏BLファンに口コミ拡散。45,000語超・14エンディングのボリュームと$4.99の手頃さで「短時間で全END回収できるインディーBL」として定着。",
+  "concept": "悪魔ベリアルと20年後に魂を差し出す契約を結んだ3人の人間を、悪魔側視点で導く選択肢分岐型ビジュアルノベル。45,000語超のテキストと14のマルチエンディング、40枚超のCGで「契約者を堕とすか／情を持つか」を描くBLドラマ。",
+  "target": "BL／ヤオイ系ビジュアルノベルを好む10-30代のLGBTQ+読者層、悪魔×人間ファンタジー恋愛物が好きな読み物志向プレイヤー。ライトな価格帯で複数ENDを回収したいインディーVNファン。",
+  "slug": "a-pact-with-me",
+  "file": "data/games/2087-a-pact-with-me.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2012630/A_Pact_With_Me__Boys_Love_BL_Visual_Novel/",
+    "https://chanimk.itch.io/a-pact-with-me",
+    "https://steamspy.com/app/2012630",
+    "https://www.metacritic.com/game/a-pact-with-me-bl-yaoi-visual-novel/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

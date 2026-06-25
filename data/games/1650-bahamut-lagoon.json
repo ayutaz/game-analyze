@@ -1,0 +1,34 @@
+{
+  "id": 1650,
+  "title_jp": "バハムートラグーン",
+  "title_en": "Bahamut Lagoon",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1996,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "シミュレーションRPG/タクティカルRPG",
+  "sales_jp": "~474K",
+  "sales_world": "~500K",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1996年スクウェア国内3番目のヒット作（年間17位、47.4万本）。海外未発売のため2002年に有志による英語化パッチが公開され、後にNearによる高品質訳が世界的ファンコミュニティで再評価された。",
+  "concept": "浮遊大陸オレルスを舞台に、ドラゴンを育成・進化させて戦うスクウェア末期のSFC製シミュレーションRPG。4人小隊×6部隊のグリッド戦闘と、武具・アイテムを食わせて竜を変異させる育成ループが特徴。",
+  "target": "FFタクティクス/タクティクスオウガ系の戦術RPG好き、育成・進化要素が好きなプレイヤー、そしてスクウェアSFC末期作品の物語（有名な失恋・三角関係プロット）を体験したいレトロJRPGファン。",
+  "slug": "bahamut-lagoon",
+  "file": "data/games/1650-bahamut-lagoon.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bahamut_Lagoon",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8F%E3%83%A0%E3%83%BC%E3%83%88%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3",
+    "https://www.mobygames.com/game/7074/bahamut-lagoon/",
+    "https://www.gavas.jp/products/detail.php?product_id=2233"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

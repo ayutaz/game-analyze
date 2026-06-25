@@ -1,0 +1,32 @@
+{
+  "id": 1300,
+  "title_jp": "未定事件簿 / Tears of Themis",
+  "title_en": "Tears of Themis",
+  "developer": "miHoYo",
+  "publisher": "HoYoverse",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "恋愛×推理アドベンチャー（オトメ・ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "Global pre-reg 650K+",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "miHoYo 初の女性向け恋愛×推理ガチャゲーとして注目を集め、グローバル版は事前登録 65 万超を記録。原神ファン層からの流入と SSR キャラ別ガチャイベントで継続バズ。",
+  "slug": "tears-of-themis-miteijikenbo",
+  "file": "data/games/1300-tears-of-themis-miteijikenbo.json",
+  "concept": "弁護士見習いの主人公が 4 人の男性キャラとともに事件を解く「恋愛 × 法廷推理」を融合したガチャ式オトメゲーム。カードガチャでキャラの新衣装・新ストーリーを集めるサ運営型。",
+  "target": "10代後半〜30代の女性プレイヤー、特にオトメゲー / 乙女向けソシャゲ層と miHoYo（原神・崩壊）IP からの流入層。シナリオ重視で推し活したい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tears_of_Themis",
+    "https://play.google.com/store/apps/details?id=com.miHoYo.tot.glb&hl=en_US",
+    "https://gachagames.fandom.com/wiki/Tears_of_Themis",
+    "https://revenue.ennead.cc/games/tears-of-themis"
+  ]
+}

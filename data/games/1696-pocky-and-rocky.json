@@ -1,0 +1,31 @@
+{
+  "id": 1696,
+  "title_jp": "奇々怪界 謎の黒マント",
+  "title_en": "Pocky & Rocky",
+  "developer": "Natsume",
+  "publisher": "Natsume",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "トップビュー・スクロールシューティング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "タイトーの 1986 年アーケード『奇々怪界』のスーパーファミコン続編として 1992 年に発売。巫女のポッキーと狸のロッキーによる 2 人同時プレイ協力シューティングとして、後世のレトロ系コアファンに長く語り継がれる名作になった。",
+  "concept": "和風の妖怪世界を舞台にしたトップビュー・スクロールシューティング。お札・杖・木の葉を撃ち分けて妖怪を退治していく構造で、2P 同時の協力プレイ前提で設計されたステージ難度と弾幕デザインが核。",
+  "target": "90 年代スーパーファミコン世代のシューティング・アクションファン、二人プレイで腰を据えて遊ぶ協力シューター愛好家、和風妖怪 IP やレトロゲームに興味があるコアプレイヤー層。",
+  "slug": "pocky-and-rocky",
+  "file": "data/games/1696-pocky-and-rocky.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pocky_%26_Rocky_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E5%A5%87%E3%80%85%E6%80%AA%E7%95%8C-%E8%AC%8E%E3%81%AE%E9%BB%92%E3%83%9E%E3%83%B3%E3%83%88-",
+    "https://www.mobygames.com/game/26320/pocky-rocky/",
+    "https://superfamicom.org/info/kiki-kaikai-nazo-no-kuro-manto"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 2098,
+  "title_jp": "ランス09 -ヘルマン革命-",
+  "title_en": "Rance IX: The Helmanian Revolution",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2014,
+  "platform": [
+    "PC"
+  ],
+  "genre": "シミュレーションRPG/アダルト",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "アリスソフトの看板シリーズ第12作。ヘルマン帝国を舞台にしたパットンの革命戦をチェス盤型ターン制SRPGで描き、ランスシリーズ古参ファンと国産エロゲ界隈で大きな話題を集めた。",
+  "concept": "ランスシリーズ正史の中盤を担うSRPG。章立てで進行するシナリオ重視の戦術RPGで、ユニット運用と分岐ルートを周回で掘り下げる構成。",
+  "target": "ランスシリーズ既プレイの18禁PCゲーマー層、国産SRPG/シナリオエロゲ愛好層。",
+  "slug": "rance-ix-the-helmanian-revolution",
+  "file": "data/games/2098-rance-ix-the-helmanian-revolution.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Rance_IX:_The_Helmanian_Revolution",
+    "https://www.igdb.com/games/rance-ix-the-helmanian-revolution",
+    "https://moe-gameaward.com/title/detail.html?id=220",
+    "https://mangagamer.org/rance/9/index.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

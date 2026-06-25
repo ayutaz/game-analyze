@@ -1,0 +1,34 @@
+{
+  "id": 1741,
+  "title_jp": "スプリンターセル",
+  "title_en": "Tom Clancy's Splinter Cell",
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "year": 2002,
+  "platform": [
+    "Xbox",
+    "PC",
+    "PS2",
+    "GameCube",
+    "Mac",
+    "GBA"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "—",
+  "sales_world": "6M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Xbox 独占ローンチから始まり、メタルギア対抗の本格ステルスとして欧米で大ヒット。光と影をリアルタイムで使い分ける潜入演出と、サム・フィッシャーの三眼ゴーグルがアイコン化した。",
+  "concept": "NSA の秘密工作員サム・フィッシャーが「光と影」を操って潜入・暗殺・情報奪取を行う、現代軍事ステルスアクション。動的ライティングと AI 視覚モデルを核に「見つからずに任務を遂行する」体験を磨き込んだ作品。",
+  "target": "メタルギアソリッドや 007 に代表されるスパイ／ステルスを好む 20-40 代のコアゲーマー。トム・クランシー作品や軍事リアリズム嗜好の海外 PC/コンソール層に強く刺さる。",
+  "slug": "tom-clancys-splinter-cell",
+  "file": "data/games/1741-tom-clancys-splinter-cell.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%BB%E3%83%AB",
+    "https://game.watch.impress.co.jp/docs/20030402/tcsc.htm"
+  ]
+}

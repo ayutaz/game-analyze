@@ -1,0 +1,32 @@
+{
+  "id": 1216,
+  "title_jp": "ルドー・スター",
+  "title_en": "Ludo Star",
+  "developer": "Gameberry Labs",
+  "publisher": "Gameberry Labs",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ボードゲーム/オンラインマルチプレイヤー",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "南アジア・MENA 圏で爆発的に普及したオンライン版ルド（パチーシ）。Gameberry Labs 全タイトル累計 1.25 億 DL 超、Uptodown 単体だけで 1,780 万 DL を記録し、Facebook ログイン経由のフレンド対戦で家族・親戚同士のスマホ定番ゲームとして定着した。",
+  "concept": "古典ボードゲーム「ルド（パチーシ）」を 2-4 人オンライン対戦化し、クラシック／マスター／クイック等のルール変種とボイスチャット付き「クラブ」機能、コレクタブルなアニメーションダイスでカジュアル層を継続的にフックする対戦ボードゲーム。",
+  "target": "南アジア（パキスタン・インド）・中東・東南アジア圏の 15-40 代カジュアル層、家族や友人と短時間のスマホ対戦を楽しみたい非ゲーマー層が中心。",
+  "slug": "ludo-star",
+  "file": "data/games/1216-ludo-star.json",
+  "_source_urls": [
+    "https://gameberrylabs.com/games/ludostar",
+    "https://apps.apple.com/us/app/ludo-star/id1198143062",
+    "https://ludo-star-2017.en.uptodown.com/android/download",
+    "https://gamefaqs.gamespot.com/android/385851-ludo-star/data"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

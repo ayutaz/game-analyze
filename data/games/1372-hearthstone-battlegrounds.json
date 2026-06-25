@@ -1,0 +1,34 @@
+{
+  "id": 1372,
+  "title_jp": "ハースストーン バトルグラウンド",
+  "title_en": "Hearthstone Battlegrounds",
+  "developer": "Blizzard Entertainment",
+  "publisher": "Blizzard Entertainment",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オートバトラー/カードゲーム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "2019年BlizzCon発表、Auto Chess/TFTと並ぶオートバトラー三大ブームの一角を担い、1試合15-20分の手軽さでハースストーン本体を超える人気モードに成長。配信者経由で日本でも定着。",
+  "concept": "ハースストーンのミニオンを使った8人対戦オートバトラー。雇用フェイズで駒を買い・売り・3枚合成し、戦闘フェイズは自動進行。最後の1人になるまで生き残るバトルロイヤル型の構築勝負。",
+  "target": "TCG/オートバトラー好き、PvPで短時間に駆け引きを楽しみたい層、Hearthstone既存ファンと配信視聴経由で流入したカジュアルPvPユーザー。",
+  "slug": "hearthstone-battlegrounds",
+  "file": "data/games/1372-hearthstone-battlegrounds.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hearthstone",
+    "https://hearthstone.fandom.com/wiki/Battlegrounds",
+    "https://news.blizzard.com/en-gb/article/23156373/introducing-hearthstone-battlegrounds",
+    "https://www.redbull.com/jp-ja/charm-of-the-newmode-heathstone-battleground",
+    "https://www.oneesports.gg/jp/hearthstone/hearthstone-battlegrounds-is-blizzards-take-on-the-auto-battler-genre/"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1844,
+  "title_jp": "DEATH MARK II 流行り神",
+  "title_en": "Spirit Hunter: Death Mark II",
+  "developer": "Experience Inc.",
+  "publisher": "Experience / Aksys",
+  "year": 2022,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PS5",
+    "PC"
+  ],
+  "genre": "ホラーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Spirit Hunter シリーズ第3作。心霊スポット「H中学校」を舞台にした怪異調査と分岐エンディング、Aksys による英語ローカライズで欧米ホラーADVファンにも届いた。",
+  "slug": "spirit-hunter-death-mark-ii",
+  "file": "data/games/1844-spirit-hunter-death-mark-ii.json",
+  "concept": "Experience が手がける和風ホラーADV「Spirit Hunter」シリーズの直接的続編。霊障を解く「死印」の主人公が中学校に再集結し、章ごとに怪異の正体を探って生存ルートを引き当てる選択分岐ノベル。",
+  "target": "和製ホラー・実話怪談・心霊スポット系の物語消費が好きな層。前作『Death Mark』『NG』のファン、Aksys 系ローカライズADVを追う海外プレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spirit_Hunter:_Death_Mark_II",
+    "https://store.steampowered.com/app/2080800/Spirit_Hunter_Death_Mark_II/",
+    "https://experience-inc.fandom.com/wiki/Death_Mark_II"
+  ]
+}

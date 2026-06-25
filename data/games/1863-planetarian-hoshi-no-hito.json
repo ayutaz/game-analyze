@@ -1,0 +1,32 @@
+{
+  "id": 1863,
+  "title_jp": "planetarian 〜星の人〜",
+  "title_en": "Planetarian: Hoshi no Hito",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ビジュアルノベル/サイドストーリー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2016年の劇場アニメ『planetarian 〜星の人〜』公開に合わせ、原作VNのHDエディションとサイドストーリー（屑屋がその後「星の人」となるまでを描く後日譚）に再注目が集まった。Key/麻枝准ファンとKanon・AIR・CLANNAD系の泣きゲー文脈で語り継がれる作品。",
+  "concept": "荒廃した未来都市の廃墟プラネタリウムで、壊れたロボット少女「ゆめみ」と屑屋の出会いを描いた短編VN『planetarian』の延長線。『星の人』編は屑屋がその後「星を語る老人」として旅をする後日譚で、原作の「いつか、きっと──」を時間軸の彼方で回収する物語特化型の読み物。",
+  "target": "Key作品（Kanon/AIR/CLANNAD/Rewrite）や泣きゲー、ポストアポカリプス×少女SFを好む層。短時間で読み切れる物語消費を求めるVN読者、および2016年劇場版アニメから入った新規視聴者。",
+  "slug": "planetarian-hoshi-no-hito",
+  "file": "data/games/1863-planetarian-hoshi-no-hito.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Planetarian:_Storyteller_of_the_Stars",
+    "https://en.wikipedia.org/wiki/Planetarian:_The_Reverie_of_a_Little_Planet",
+    "https://store.steampowered.com/app/623080/planetarian_HD/",
+    "https://itunes.apple.com/us/app/xingno-ren-planetarian-saidosutori/id487106646",
+    "https://play.google.com/store/apps/details?hl=en_US&id=jp.vmotto.novel.planetarian",
+    "https://kazamatsuri.org/series-info/planetarian/"
+  ]
+}

@@ -130,7 +130,10 @@ class PatchesAgainstRealTreeTests(unittest.TestCase):
         # waves use the legacy PATCHES dict (which was tailored to the
         # original 99 games) — they write concept/target/etc. directly
         # into their JSON.
-        allowlist: set[int] = {56} | set(range(101, 1026))
+        # 2026-06-26 の 6 波目で 1026..2100 範囲（slug 衝突で削除した
+        # 50 件分の欠番含む）を一括追加。これらも PATCHES を経由せず
+        # JSON へ直書きしたため allowlist に含める。
+        allowlist: set[int] = {56} | set(range(101, 1026)) | set(range(1026, 2101))
         for rid in self.real_ids:
             if rid in allowlist:
                 continue

@@ -1,0 +1,34 @@
+{
+  "id": 1164,
+  "title_jp": "アズールプロミリア",
+  "title_en": "Azur Promilia",
+  "developer": "Manjuu Games",
+  "publisher": "Manjuu / Bilibili / Yostar（日本）",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android",
+    "PS5"
+  ],
+  "genre": "星霊同伴ファンタジーワールドRPG / オープンワールド",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『アズールレーン』開発元 Manjuu の新作として発表時から注目を集め、2025年4月の新トレイラー公開、中国 CBT、2025年12月の Yostar 共同パブリッシング発表で日本国内でも話題化。原神／鳴潮系オープンワールドガチャの次世代候補として SNS で広く言及されている。",
+  "slug": "azur-promilia",
+  "file": "data/games/1164-azur-promilia.json",
+  "concept": "「星霊（Kibo）」と呼ばれるファンタジー生物を仲間にして共闘・育成しながら、オープンワールドの星原を探索する基本無料ガチャ RPG。アクションバトル・牧場運営・建築・収集を融合させ、原神型探索 ×ポケモン型同伴 ×アズレン系キャラ運営を狙うポジショニング。",
+  "target": "原神・鳴潮・崩壊スターレイル等の中華オープンワールドガチャを遊ぶ層、アズールレーン既存ユーザー、可愛い／美麗キャラ＋クリーチャー収集を求める 10-30代のスマホ＆PC ゲーマー。",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BA%E3%83%BC%E3%83%AB%E3%83%97%E3%83%AD%E3%83%9F%E3%83%AA%E3%82%A2",
+    "https://azurpromilia.com/jp/",
+    "https://www.yostar.co.jp/news/71",
+    "https://automaton-media.com/articles/newsjp/azurpromilia-20251215-371114/",
+    "https://game8.co/articles/games/azur-promilia"
+  ]
+}

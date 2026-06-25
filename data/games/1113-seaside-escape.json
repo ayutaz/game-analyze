@@ -1,0 +1,34 @@
+{
+  "id": 1113,
+  "title_jp": "シーサイド・エスケープ",
+  "title_en": "Seaside Escape",
+  "developer": "Microfun",
+  "publisher": "Microfun",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マージパズル/ストーリー",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "Microfun のヒット作 Gossip Harbor に続く第二弾マージパズルとして 2025 年に売上 70% 増、月商 $10M クラスに成長。ストーリー仕立てとマージ収集のループが TikTok/YouTube ショート広告で大量に流通した。",
+  "concept": "落ちぶれた元セレブの Rowan と共に、寂れた海辺の村 Kryphos をマージパズルで再建していくナラティブ・マージゲーム。アイテムを合成して新しいオブジェクトを作り、章ごとの物語と住民クエストを進める。",
+  "target": "20-40 代の女性カジュアル層が中心。Merge Mansion / Gossip Harbor / June's Journey などのストーリー型マージに親しみ、短時間で進捗を積み上げたいプレイヤー層。",
+  "slug": "seaside-escape",
+  "file": "data/games/1113-seaside-escape.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/seaside-escape-merge-story/id6443755785",
+    "https://play.google.com/store/apps/details?id=com.gamedots.seasideescape&hl=en_US",
+    "https://sensortower.com/blog/2024-q2-ios-top-5-merge%20games-revenue-do-6012c135241bc16eb8902271",
+    "https://seaside-escape.fandom.com/wiki/Seaside_Escape_Wiki"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

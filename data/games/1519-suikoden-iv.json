@@ -1,0 +1,30 @@
+{
+  "id": 1519,
+  "title_jp": "幻想水滸伝IV",
+  "title_en": "Suikoden IV",
+  "developer": "Konami Computer Entertainment Tokyo (KCET)",
+  "publisher": "Konami",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG（海洋冒険ファンタジー）",
+  "sales_jp": "311K+",
+  "sales_world": "400K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ初の海洋世界観と若き主人公「ラズリル島の英雄」を描いた4作目。108星の仲間集めと罪を背負う紋章の物語で根強いファンを持つ一方、戦闘テンポやエンカウント率で賛否が分かれた一作としても語られる。",
+  "concept": "「島と島の間を船で渡り歩き、海を舞台に108星の仲間を集める」海洋ファンタジーRPG。シリーズ伝統の仲間集めと国家間紛争劇を、海軍国家ココロン王国vs海上同盟という構図で描く。",
+  "target": "幻想水滸伝シリーズの既存ファン、PS2世代のJRPG愛好家、108星集めや軍記もの・群像劇を好む層。",
+  "slug": "suikoden-iv",
+  "file": "data/games/1519-suikoden-iv.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Suikoden_IV",
+    "https://suikoden.fandom.com/wiki/Suikoden_IV",
+    "https://vgsales.fandom.com/wiki/Best-selling_Konami_games"
+  ]
+}

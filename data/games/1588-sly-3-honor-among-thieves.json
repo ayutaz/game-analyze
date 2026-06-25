@@ -1,0 +1,31 @@
+{
+  "id": 1588,
+  "title_jp": "怪盗スライ3",
+  "title_en": "Sly 3: Honor Among Thieves",
+  "developer": "Sucker Punch Productions",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ステルスアクション/3Dプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "シリーズ完結編として欧米で高評価。仲間を切り替えて遊ぶマルチキャラ怪盗アクションが、PS2末期の名作プラットフォーマーとして語り継がれている。日本では未発売だったが、2011年のHD版『スライ・クーパー コレクション』で初上陸し話題になった。",
+  "slug": "sly-3-honor-among-thieves",
+  "file": "data/games/1588-sly-3-honor-among-thieves.json",
+  "concept": "アライグマの怪盗スライ、亀のベントレー、カバのマレーの3人組がカイン島の秘宝を狙うシリーズ完結編。ステルス潜入・パルクール・乗り物バトル・空中戦・海賊船戦闘などミニゲーム級の多彩な遊びを束ねた“怪盗活劇”を、ケルシェード調のコミック風演出で見せる。",
+  "target": "PS2世代の3Dプラットフォーマー/ステルスアクション好き。Ratchet & Clank・Jak & Daxter と並ぶSony三大マスコットアクションを追っていたコア層と、軽快でユーモラスな海外カートゥーン作品を楽しめる10-30代。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sly_3:_Honor_Among_Thieves",
+    "https://ja.wikipedia.org/wiki/%E6%80%AA%E7%9B%97%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%91%E3%83%BC",
+    "https://www.4gamer.net/games/126/G012642/20101223004/",
+    "https://www.famitsu.com/cominy/?m=pc&a=page_h_title&title_id=35378&redirect=no",
+    "https://www.vgchartz.com/game/2073/sly-3-honor-among-thieves/"
+  ]
+}

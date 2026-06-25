@@ -1,0 +1,33 @@
+{
+  "id": 1762,
+  "title_jp": "Fate/EXTELLA The Umbral Star",
+  "title_en": "Fate/EXTELLA: The Umbral Star",
+  "developer": "マーベラス",
+  "publisher": "Marvelous",
+  "year": 2016,
+  "platform": [
+    "PS4",
+    "PS Vita",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ハイスピード型月アクション（無双系）",
+  "sales_jp": "200K+",
+  "sales_world": "500K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Fate/EXTRA シリーズ初のアクション化として 2016 年 11 月発売、日本初週 14 万本超・国内出荷 20 万本突破。ネロ／玉藻の前を一騎当千で操作できる「型月×無双」の組み合わせがファンに歓迎され、Switch/PC 移植まで含めて世界 50 万本級のヒットに。",
+  "slug": "fate-extella-the-umbral-star",
+  "file": "data/games/1762-fate-extella-the-umbral-star.json",
+  "concept": "Fate/EXTRA 世界の月の聖杯戦争を、サーヴァントを直接操作するハイスピード一騎当千アクションで描く「型月×無双」スピンオフ。奈須きのこ・桜井光書き下ろしの本編シナリオを各サーヴァント視点で読み進める構成。",
+  "target": "Fate/EXTRA・Fate/Grand Order などの型月ファン、ネロ／玉藻／アルテラ等の人気サーヴァントを動かしたい層、無双系アクションで爽快に殲滅したい 10-30 代男女。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/Extella:_The_Umbral_Star",
+    "https://www.vgchartz.com/article/266571/fateextella-the-umbral-star-tops-200000-units-shipped-in-japan/",
+    "https://www.famitsu.com/news/201606/15108342.html",
+    "https://typemoon.fandom.com/wiki/Fate/EXTELLA"
+  ]
+}

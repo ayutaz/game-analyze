@@ -1,0 +1,30 @@
+{
+  "id": 1555,
+  "title_jp": "忍道 戒",
+  "title_en": "Shinobido: Way of the Ninja",
+  "developer": "Acquire",
+  "publisher": "Spike",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『天誅』を手掛けたアクワイアが版権移籍後に放った精神的続編として注目され、戦国三勢力の依頼を選んで暗殺・諜報・破壊任務をこなすステルスアクションとして評価された。エディットツールでミッションを自作・共有できる仕組みも話題に。",
+  "concept": "記憶を失った飛鳥忍群の忍「悟」が、戦国の三大名から依頼される任務を選んでこなしていくステルスアクション。プレイヤーの選択によって勢力図と物語が変化する『天誅』直系のマルチエンディング忍者活劇。",
+  "target": "『天誅』シリーズのファン、忍者・戦国もの好きの 20–40 代男性、ステルスゲームや分岐シナリオを腰を据えて楽しみたい PS2 世代プレイヤー。",
+  "slug": "shinobido-way-of-the-ninja",
+  "file": "data/games/1555-shinobido-way-of-the-ninja.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shinobido:_Way_of_the_Ninja",
+    "https://ja.wikipedia.org/wiki/%E5%BF%8D%E9%81%93_%E6%88%92",
+    "https://www.acquire.co.jp/product/ninjaimasime/",
+    "https://www.spike-chunsoft.co.jp/pages/shinobido/old/key1.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1609,
+  "title_jp": "ジェットフォース ジェミニ",
+  "title_en": "Jet Force Gemini",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "サードパーソン・シューター/アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "1.16M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Rare 黄金期の N64 後期作として、3D TPS とアクションアドベンチャーを融合させた野心作。Tribal 救出ギミックや 2 スティック擬似エイムが話題となり、後年 Rare Replay 収録で再評価された。",
+  "concept": "三人の銀河警察官（Juno / Vela / Lupus）を切り替えながら、惑星間を旅して昆虫型独裁者 Mizar の軍勢を撃破し、奴隷化された Tribal を救出する 3D サードパーソン・シューター。各キャラ固有の能力と Tribal 全救出条件によるメトロイドヴァニア的探索を組み合わせる。",
+  "target": "Rare 製 N64 タイトル（バンジョー / ゴールデンアイ / パーフェクトダーク）を遊んでいたコア層、3D TPS の黎明期を体験したい 30-40 代レトロゲーマー、Rare Replay で過去作を掘っている Xbox ユーザー。",
+  "slug": "jet-force-gemini",
+  "file": "data/games/1609-jet-force-gemini.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Jet_Force_Gemini",
+    "https://www.vgchartz.com/game/1072/jet-force-gemini/",
+    "https://www.nintendolife.com/games/n64/jet_force_gemini",
+    "https://rare.fandom.com/wiki/Jet_Force_Gemini"
+  ]
+}

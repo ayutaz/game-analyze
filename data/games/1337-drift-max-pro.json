@@ -1,0 +1,34 @@
+{
+  "id": 1337,
+  "title_jp": "Drift Max Pro",
+  "title_en": "Drift Max Pro",
+  "developer": "Tiramisu",
+  "publisher": "Tiramisu",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ドリフト/レーシング",
+  "sales_jp": "—",
+  "sales_world": "120M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "全世界 1.2 億 DL 超のドリフト特化モバイルレーサー。直近 30 日でも約 580 万 DL を記録し、東京・NY・モスクワを舞台にしたコース演出と車両カスタマイズが SNS で拡散され続けている。",
+  "concept": "ハンドブレーキとアクセルでスライドを当て続ける「ドリフト操作」だけに振り切ったアーケード型ドライビング。実車風ライセンス車両のカスタムとキャリア進行を組み合わせ、毎ステージ「いかに長く、いかに高得点で滑るか」を競わせるモバイル特化設計。",
+  "target": "10-30 代の男性カーカルチャー層、特に頭文字 D・湾岸ミッドナイト等のドリフト文化に親しんできた層と、Real Racing / Asphalt より気軽に滑りたいモバイル中心の若年カジュアル層。",
+  "slug": "drift-max-pro",
+  "file": "data/games/1337-drift-max-pro.json",
+  "_source_urls": [
+    "https://tiramisu.game/drift-max-pro",
+    "https://play.google.com/store/apps/details?id=com.tiramisu.driftmax2&hl=en_US",
+    "https://apps.apple.com/us/app/drift-max-pro-drift-racing/id1327721379",
+    "https://driftmaxpro.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

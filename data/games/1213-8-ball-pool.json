@@ -1,0 +1,35 @@
+{
+  "id": 1213,
+  "title_jp": "8 ボール・プール",
+  "title_en": "8 Ball Pool",
+  "developer": "Miniclip",
+  "publisher": "Miniclip",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "スポーツ/ビリヤード（オンライン対戦）",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL / 400M+ USD",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Flash 版（2008）からの長期運営を経て 2013 年にモバイル展開。ギネス世界記録『最もダウンロードされたモバイルビリヤードゲーム』に認定され、累計 5 億 DL 超 / 累計 4 億ドル超の収益を記録。",
+  "concept": "1on1 のリアルタイム 8-ball ビリヤードを軸に、コイン賭けマッチとキュー収集を組み合わせたカジュアル対戦ゲーム。スキル要素（角度・力加減）と報酬ループ（コイン・レアキュー）の両輪で短時間プレイを成立させる。",
+  "target": "通勤・隙間時間に短時間対戦を楽しみたい全年代のカジュアル層。ビリヤード経験者から非ゲーマーまで幅広く、特に欧米・南米・中東で根強い人気を持つ。",
+  "slug": "8-ball-pool",
+  "file": "data/games/1213-8-ball-pool.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/8_Ball_Pool",
+    "https://sensortower.com/blog/8-ball-pool-revenue",
+    "https://www.pocketgamer.biz/miniclip-pockets-over-400m-through-8-ball-pool-revenue/",
+    "https://gameworldobserver.com/2021/12/23/from-flash-game-to-worlds-most-downloaded-pool-title-miniclips-sergio-varanda-on-lasting-success-of-8-ball-pool"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

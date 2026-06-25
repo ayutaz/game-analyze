@@ -1,0 +1,29 @@
+{
+  "id": 1458,
+  "title_jp": "シルバー事件",
+  "title_en": "Echo Night",
+  "developer": "FromSoftware",
+  "publisher": "FromSoftware / Agetec",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "一人称ホラーアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "King's Field の 3D 技術を活かした静謐な一人称ホラーアドベンチャーとして、フロム・ソフトウェアのカルト的代表作の一つに。宮崎英高が後に VR タイトル『Déraciné』の直接的インスピレーションとして公言したことでも知られる。",
+  "concept": "消息不明となった豪華客船オルフェウス号を一人称視点で歩き、漂う幽霊たちの未練を聞き取り解き明かしていくホラーアドベンチャー。戦闘ではなく「光のスイッチを点ける」「彼らの願いを叶える」という非暴力的解決が核。",
+  "target": "King's Field 系の一人称探索を好む層、静かな語り口の幽霊譚・90 年代ホラー ADV ファン、フロム作品の系譜を辿りたい層。",
+  "slug": "echo-night",
+  "file": "data/games/1458-echo-night.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Echo_Night",
+    "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B3%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88",
+    "https://www.mobygames.com/game/40472/echo-night/"
+  ]
+}

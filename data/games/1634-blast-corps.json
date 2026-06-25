@@ -1,0 +1,27 @@
+{
+  "id": 1634,
+  "title_jp": "ブラスト ドーザー",
+  "title_en": "Blast Corps",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "アクション/破壊パズル",
+  "sales_jp": "—",
+  "sales_world": "1.13M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Rare 社初の N64 タイトルで欧米では熱狂的支持。核ミサイル搭載トラックの進路上の建物を重機で破壊するという奇抜な発想と高難度で、後年も Rare Replay 収録などでカルト的人気が続く。",
+  "concept": "暴走する核ミサイル搭載トラックの進路を確保するため、ブルドーザー・ロボット・戦車などの重機を乗り換えながら街中の建造物を破壊して道を作る、破壊アクション×ルート最適化パズル。",
+  "target": "1990 年代後半の N64 ユーザー、特に破壊カタルシスと頭脳プレイを両立したい英米のコアアクション層。日本では比較的マイナーだがレトロ／Rare ファンに刺さる。",
+  "slug": "blast-corps",
+  "file": "data/games/1634-blast-corps.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Blast_Corps",
+    "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88%E3%83%89%E3%83%BC%E3%82%B6%E3%83%BC",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_nbcj/index2.html"
+  ]
+}

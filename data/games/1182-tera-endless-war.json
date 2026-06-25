@@ -1,0 +1,31 @@
+{
+  "id": 1182,
+  "title_jp": "テラ：エンドレスウォー",
+  "title_en": "TERA: Endless War",
+  "developer": "Joycity",
+  "publisher": "Krafton",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMOストラテジー/シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "事前登録 200 万人突破、世界 170 か国で配信開始。Krafton の MMORPG『TERA』IP を活用した六角形タイル制 MMOSLG として注目を集めたが、2021 年 11 月にサービス終了。",
+  "concept": "MMORPG『TERA』の世界観をベースに、六角形タイルマップ上の 50 都市を奪い合う MMO ストラテジー。Unreal Engine 4 採用の美麗 3D グラフィックで領地経営と都市占領戦を融合させた IP×SLG。",
+  "target": "20-40 代の MMOSLG / 王道ストラテジー好きと、原作『TERA』ファン。同盟連携・課金育成・領地拡張に時間を投じられる重課金層を主にターゲットにしていた。",
+  "slug": "tera-endless-war",
+  "file": "data/games/1182-tera-endless-war.json",
+  "_source_urls": [
+    "https://mmos.com/news/tera-endless-war-officially-launches-worldwide-on-ios-and-android",
+    "https://prtimes.jp/main/html/rd/p/000000007.000065253.html",
+    "https://gamebiz.jp/?p=280489",
+    "https://tera.joycity.com/ja"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1715,
+  "title_jp": "シャイニング・フォース 神々の遺産",
+  "title_en": "Shining Force",
+  "developer": "Climax Entertainment / Sonic! Software Planning",
+  "publisher": "Sega",
+  "year": 1992,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "シミュレーションRPG / ターン制タクティクス",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1992年4月のファミ通売上チャートで首位を獲得し、メガドライブを代表するSRPGとして評価。後年、Switch Online やミニ復刻機を含む複数機種で再リリースされ続けている長寿IP。",
+  "concept": "正方形マス目のフィールドでキャラクターを駒のように動かす、ファンタジー世界観のターン制タクティカルRPG。シャイニングシリーズ第2作で、戦闘画面の演出と仲間集め要素を強化し、SRPGの大衆化を担った一本。",
+  "target": "ターン制で腰を据えて遊ぶ戦略RPGファン、メガドライブ世代のレトロゲーマー、ファイアーエムブレム/タクティクスオウガ系の源流を辿りたい層。",
+  "slug": "shining-force",
+  "file": "data/games/1715-shining-force.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shining_Force",
+    "https://www.mobygames.com/game/6819/shining-force/",
+    "https://shining.fandom.com/wiki/Shining_Force:_The_Legacy_of_Great_Intention",
+    "https://shmuplations.com/shiningforce/"
+  ]
+}

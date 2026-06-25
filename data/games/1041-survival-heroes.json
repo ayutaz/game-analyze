@@ -1,0 +1,31 @@
+{
+  "id": 1041,
+  "title_jp": "Survival Heroes",
+  "title_en": "Survival Heroes",
+  "developer": "Snail Games",
+  "publisher": "Snail Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MOBA×バトルロイヤル",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "MOBA の操作感とバトルロイヤルの 100 人サバイバルを融合させた先駆的モバイル作品として、リリース当初に海外メディアで大きく取り上げられた。30 種類以上の武器でロール（タンク/メイジ等）を瞬時に切り替えられる仕組みが話題に。",
+  "concept": "島に降り立った 100 人のヒーローが武器・防具を拾いながら最後の 1 人を目指す、トップダウン視点の MOBA × バトルロイヤルハイブリッド。装備の種類で役割が変わるため、戦況に応じてビルドを組み替える瞬間判断が肝になる。",
+  "target": "MOBA の戦闘テンポと PUBG/荒野行動的なサバイバル緊張感の両方を味わいたいスマホ対戦勢、特にアジア圏のライト〜ミドル層。",
+  "slug": "survival-heroes",
+  "file": "data/games/1041-survival-heroes.json",
+  "_source_urls": [
+    "https://www.androidheadlines.com/2018/10/moba-meets-battle-royale-survival-heroes-launches-on-android.html",
+    "https://snail.com/portfolio/survival-heroes",
+    "https://mmos.com/review/survival-heroes"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

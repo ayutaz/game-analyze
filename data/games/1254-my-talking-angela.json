@@ -1,0 +1,34 @@
+{
+  "id": 1254,
+  "title_jp": "マイ トーキング アンジェラ",
+  "title_en": "My Talking Angela",
+  "developer": "Outfit7",
+  "publisher": "Outfit7",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バーチャルペット/着せ替えカジュアル",
+  "sales_jp": "—",
+  "sales_world": "数億DL規模（Talking Tom & Friends シリーズ累計 37億DL超）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2014年11-12月のローンチ直後に118カ国で App Store / Google Play 1位を獲得し、Talking Tom シリーズの女性層向け看板タイトルとして定着。海外では「アンジェラの目に映る人物」をめぐる都市伝説が SNS で繰り返しバズり、結果的にブランド認知の拡張に貢献した。",
+  "slug": "my-talking-angela",
+  "file": "data/games/1254-my-talking-angela.json",
+  "concept": "Talking Tom シリーズのスピンオフとして、子猫アンジェラの世話・メイク・着せ替え・ダンス・ミニゲームをループする女児/ファミリー向けバーチャルペット。育成と着替えという「集める・揃える」報酬ループが中心で、声マネ機能が体験のアクセントになっている。",
+  "target": "小学生〜10代の女性プレイヤーと、その保護者を中心とする家族層。低年齢層がスマホで手軽に遊べる『たまごっち的な』バーチャルペット体験を求めるカジュアル層。",
+  "_source_urls": [
+    "https://www.prnewswire.com/news-releases/outfit7s-new-app-my-talking-angela-expected-to-cat-apult-talking-tom-and-friends-to-stratospheric-new-levels-of-downloads-300004726.html",
+    "https://outfit7.com/blog/news/10-years-of-my-talking-angela-the-evolution-of-an-iconic-virtual-pet",
+    "https://play.google.com/store/apps/details?id=com.outfit7.mytalkingangelafree",
+    "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4-%E3%83%88%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0-%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%A9/id909351158"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1735,
+  "title_jp": "リスター・ザ・シューティングスター",
+  "title_en": "Ristar",
+  "developer": "Sonic Team",
+  "publisher": "Sega",
+  "year": 1995,
+  "platform": [
+    "Mega Drive",
+    "Game Gear"
+  ],
+  "genre": "横スクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "メガドライブ末期に発売された隠れた名作。8方向に伸びる手で敵やオブジェクトを掴む独自アクションと幻想的なグラフィックで、後年バーチャルコンソールや Mega Drive Mini 等の復刻で再評価された。",
+  "concept": "「掴む」を主軸に据えた横スクロールアクション。流れ星の子リスターが伸縮自在な腕で敵・足場・仕掛けを掴み、引き寄せ・パンチ・スイングで進む独自手触りのプラットフォーマー。",
+  "target": "メガドライブ世代のセガ系アクション好き、ソニック以外の隠れた良作を掘る retro ゲーマー、復刻配信で触れる新規プレイヤー層。",
+  "slug": "ristar",
+  "file": "data/games/1735-ristar.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ristar",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9%E3%82%BF%E3%83%BC",
+    "https://vc.sega.jp/vc_rister/"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1191,
+  "title_jp": "Seven Knights",
+  "title_en": "Seven Knights",
+  "developer": "Netmarble",
+  "publisher": "Netmarble",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターン制ヒーローコレクションRPG",
+  "sales_jp": "150万DL+",
+  "sales_world": "100M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "popularity": "韓国Netmarbleの看板IP。2014年3月韓国配信からシリーズ累計1億DLを突破し、500体超の英雄を集めて編成するターン制RPGの代表格となった。日本では2016年配信開始から10日で100万DL、約1か月で150万DLを突破し2023年にサ終、2025年に正統リメイク『Re:BIRTH』が登場。",
+  "concept": "中世風ファンタジー世界を舞台に、500体超の英雄を召喚・育成・編成して挑むターン制コマンドRPG。ガチャによるキャラ収集と覚醒・転職・装備強化のループに、PvPアリーナや協力レイドを重ねた韓国モバイルRPGのテンプレ的存在。",
+  "target": "10-30代のモバイルRPGコア層、特にヒーローコレクション系・韓国系ガチャRPGに親しんだプレイヤー。ランキング上位を狙う廃課金層と、お気に入りキャラを集めて愛でるライト層の両方をカバーする。",
+  "slug": "seven-knights",
+  "file": "data/games/1191-seven-knights.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Seven_Knights",
+    "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%96%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%84",
+    "https://gamebiz.jp/news/157753",
+    "https://www.netmarble.com/en/tskgb"
+  ]
+}

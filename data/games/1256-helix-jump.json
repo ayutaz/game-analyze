@@ -1,0 +1,30 @@
+{
+  "id": 1256,
+  "title_jp": "ヘリックスジャンプ",
+  "title_en": "Helix Jump",
+  "developer": "H8games",
+  "publisher": "Voodoo",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ハイパーカジュアル/アクション",
+  "sales_jp": "—",
+  "sales_world": "800M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "2018年世界最多ダウンロードゲームの一つ。螺旋を落ちていく単純操作と短セッションが、SNSとリワード広告経由で爆発的に拡散したVoodooの代表作。",
+  "concept": "回転する螺旋塔を1本指のスワイプでくぐり抜け、最下層を目指すハイパーカジュアル・アクション。1プレイ30秒前後の短ループと「あと1回」を誘発するシンプルな失敗フィードバックで成立する。",
+  "target": "スキマ時間に遊ぶライトユーザー層、特に通勤・通学中のスマホユーザー。ゲーム経験を問わず、瞬時に理解できる操作と即時の達成感を求める層。",
+  "slug": "helix-jump",
+  "file": "data/games/1256-helix-jump.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Voodoo_(company)",
+    "https://www.pocketgamer.biz/voodoo-development-magic-how-h8-games-launched-helix-jump/",
+    "https://play.google.com/store/apps/details?id=com.h8games.helixjump",
+    "https://apps.apple.com/us/app/helix-jump/id1345968745",
+    "https://sensortower.com/android/us/voodoo/app/helix-jump/com.h8games.helixjump/"
+  ]
+}

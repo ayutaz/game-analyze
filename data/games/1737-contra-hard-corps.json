@@ -1,0 +1,27 @@
+{
+  "id": 1737,
+  "title_jp": "魂斗羅 ザ・ハードコア",
+  "title_en": "Contra: Hard Corps",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1994,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ラン&ガン/アクションシューティング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "メガドライブ末期にコナミが投入した『魂斗羅』シリーズ初の据置機後期作。4キャラ選択・分岐ストーリー・複数エンディングという当時としては野心的な構成と、シリーズ屈指の高難度ボスラッシュで海外でカルト的人気を博し、後年『魂斗羅 アニバーサリーコレクション』への収録で再評価された。",
+  "concept": "4人の傭兵から1人を選び、武器・操作性・ストーリー分岐が変化するハイスピードなラン&ガン。1～2人協力プレイで弾幕と巨大ボスを切り抜ける、シリーズ最高難度クラスの硬派アクション。",
+  "target": "メガドライブ／ジェネシス世代のレトロゲーマー、高難度2Dアクション愛好者、魂斗羅シリーズのファン、アニバーサリーコレクションで再入門する30-50代男性が中心。",
+  "slug": "contra-hard-corps",
+  "file": "data/games/1737-contra-hard-corps.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Contra:_Hard_Corps",
+    "https://ja.wikipedia.org/wiki/%E9%AD%82%E6%96%97%E7%BE%85%E3%82%B6%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89%E3%82%B3%E3%82%A2",
+    "https://konami.fandom.com/wiki/Contra:_Hard_Corps"
+  ]
+}

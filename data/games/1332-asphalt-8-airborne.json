@@ -1,0 +1,33 @@
+{
+  "id": 1332,
+  "title_jp": "アスファルト8: Airborne",
+  "title_en": "Asphalt 8: Airborne",
+  "developer": "Gameloft Barcelona",
+  "publisher": "Gameloft",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "アーケードレース",
+  "sales_jp": "—",
+  "sales_world": "470M+ players",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "リリースから10年超の長期運営で累計プレイヤー4.7億人を突破。300台以上のライセンスカーと派手なジャンプ・空中アクションでモバイルアーケードレースを定着させた金字塔。",
+  "concept": "重力を無視した大ジャンプとバレルロールを売りにする、ライセンスカーで競うアーケードレース。8車種クラス・75コース・マルチプレイ対戦を備えた「派手で爽快なスマホレース」のリファレンス。",
+  "target": "10-30代のカジュアル～ミッドコアレースファン、スマホ片手にド派手なスタント走行を楽しみたい層、車・バイク好きで気軽にライセンス車に乗りたい層。",
+  "slug": "asphalt-8-airborne",
+  "file": "data/games/1332-asphalt-8-airborne.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Asphalt_8:_Airborne",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%95%E3%82%A1%E3%83%AB%E3%83%888:Airborne",
+    "https://www.pocketgamer.biz/asphalt-8-airborne-speeds-past-300-million-downloads/",
+    "https://apps.apple.com/jp/app/%E3%82%A2%E3%82%B9%E3%83%95%E3%82%A1%E3%83%AB%E3%83%888-airborne/id610391947"
+  ]
+}

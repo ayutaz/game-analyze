@@ -1,0 +1,31 @@
+{
+  "id": 1998,
+  "title_jp": "Steam Prison 〜七つの美徳〜",
+  "title_en": "Steam Prison",
+  "developer": "HuneX",
+  "publisher": "MangaGamer / PQube",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "乙女向けアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "スチームパンク世界観の硬派な乙女ゲーとして海外乙女ファンから高評価。MangaGamer による英語版 Steam リリースと、Vita 移植のクラウドファンディング成功で再注目された。",
+  "concept": "天上の特権階級「七つの美徳」の少女が地上「悪徳」へ落とされる、階級・差別・冤罪を扱うシリアスなスチームパンク乙女ノベル。恋愛より世界観と政治劇に重点を置いた骨太な物語。",
+  "target": "重めの世界観・社会派ストーリーを好む乙女ゲーマー、ビジュアルノベルファン、スチームパンク好き。10-40代女性が中心。",
+  "slug": "steam-prison",
+  "file": "data/games/1998-steam-prison.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/977460/Steam_Prison/",
+    "https://mangagamer.org/steamprison/",
+    "https://en.namu.wiki/w/Steam%20Prison",
+    "https://www.metacritic.com/game/steam-prison/",
+    "https://www.gematsu.com/2020/10/otome-visual-novel-steam-prison-coming-to-switch-on-february-25-2021-in-japan"
+  ]
+}

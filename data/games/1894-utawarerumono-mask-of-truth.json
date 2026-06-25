@@ -1,0 +1,37 @@
+{
+  "id": 1894,
+  "title_jp": "うたわれるもの 二人の白皇",
+  "title_en": "Utawarerumono: Mask of Truth",
+  "developer": "AQUAPLUS",
+  "publisher": "AQUAPLUS",
+  "year": 2016,
+  "platform": [
+    "PS4",
+    "PS3",
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "AVG + シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "うたわれるもの三部作の完結編として『散りゆく者への子守唄』『偽りの仮面』からの伏線を一気に回収。シナリオ評価が極めて高く、SRPGパートを挟むAVG構成でアクアプラスの代表作として定着した。",
+  "concept": "ファンタジー戦記AVGの完結編。前作『偽りの仮面』のクリフハンガーを引き継ぎ、ハクを主人公にヤマト国との戦争を描く長編シナリオを、ヘックス制SRPGの戦闘パートで挟みながら読み進める。",
+  "target": "前作『偽りの仮面』を遊んだプレイヤーが事実上の前提。重厚なファンタジー戦記と多数のヒロイン群像劇を腰を据えて読みたい AVG/Leaf・AQUAPLUS ファン層、SRPG パートも楽しめる 20-40 代男性中心。",
+  "slug": "utawarerumono-mask-of-truth",
+  "file": "data/games/1894-utawarerumono-mask-of-truth.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Utawarerumono:_Mask_of_Truth",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%9F%E3%82%8F%E3%82%8C%E3%82%8B%E3%82%82%E3%81%AE_%E4%BA%8C%E4%BA%BA%E3%81%AE%E7%99%BD%E7%9A%87",
+    "https://aquaplus.jp/uta/oro/",
+    "https://store.steampowered.com/app/1151440/Utawarerumono_Mask_of_Truth/",
+    "https://game.watch.impress.co.jp/docs/review/1231084.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

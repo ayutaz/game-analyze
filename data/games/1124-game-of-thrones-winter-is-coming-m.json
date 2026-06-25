@@ -1,0 +1,33 @@
+{
+  "id": 1124,
+  "title_jp": "Game of Thrones: Winter is Coming M",
+  "title_en": "Game of Thrones: Winter is Coming M",
+  "developer": "Yoozoo Games",
+  "publisher": "GTarcade",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "SLG/4X ストラテジー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "HBO 公式ライセンスの「七王国」SLG。日本では CTW の G123 経由で配信され、ジョン・スノウ／デナーリス／ティリオンら原作キャラを Commander として運用しながら同盟戦・領地戦を行う重課金型サーバ戦争で話題になった。",
+  "concept": "Game of Thrones 世界を舞台にした 4X/SLG。プレイヤーは七王国のロードとして城を発展させ、英雄を編成し、同盟（House）に加わって他プレイヤーと領地・鉄の玉座を奪い合う「Lords Mobile / Rise of Kingdoms」系の対戦型ストラテジー。",
+  "target": "原作 IP ファンと、Lords Mobile / Rise of Kingdoms / 戦国アクション系の重課金 SLG に慣れた 25-45 歳の男性層。同盟チャットでの長期コミュニティ運営を厭わないコアプレイヤーが中心。",
+  "slug": "game-of-thrones-winter-is-coming-m",
+  "file": "data/games/1124-game-of-thrones-winter-is-coming-m.json",
+  "_source_urls": [
+    "https://gotm.gtarcade.com/m",
+    "https://play.google.com/store/apps/details?id=com.gotgl.sea",
+    "https://www.taptap.io/app/195416",
+    "https://prtimes.jp/main/html/rd/p/000001477.000036635.html",
+    "https://g123.jp/game/got?lang=en",
+    "https://www.levelwinner.com/got-winter-is-coming-m-beginners-guide-tips-cheats-strategies-to-dominate-the-seven-kingdoms/"
+  ]
+}

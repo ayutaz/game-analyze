@@ -1,0 +1,35 @@
+{
+  "id": 1053,
+  "title_jp": "Heroes Arena",
+  "title_en": "Heroes Arena",
+  "developer": "uCool",
+  "publisher": "uCool",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル MOBA／5v5 リアルタイム対戦",
+  "sales_jp": "—",
+  "sales_world": "32M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "事前登録 100 万人超でローンチした uCool の本格モバイル MOBA。5v5 / 3v3 / 1v1 の単一グローバルサーバーで世界中のプレイヤーと即マッチングできる手軽さが評価され、累計 3,200 万 DL を記録した。",
+  "concept": "League of Legends / Mobile Legends 系の 5v5 レーン MOBA をスマートフォン向けに最適化し、20 体の固有ヒーロー（Assassin / Mage / Marksman / Support / Tank / Warrior）と短時間マッチで気軽に楽しめる対戦アリーナとして設計されている。",
+  "target": "Mobile Legends / Vainglory / 伝説対決 など海外モバイル MOBA を遊ぶ 10–30 代男性層。短い隙間時間で本格 5v5 PvP を競いたいプレイヤーが中心で、日本国内よりも東南アジア・中東・南米圏での人気が高い。",
+  "slug": "heroes-arena",
+  "file": "data/games/1053-heroes-arena.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.ucool.heroesarena",
+    "https://apps.apple.com/ae/app/heroes-arena/id1140783536",
+    "https://www.keengamer.com/articles/news/new-mobile-moba-heroes-arena-now-available/",
+    "https://doctorsofgaming.com/heroes-arena-a-new-mobile-moba-out-now/",
+    "https://www.similarweb.com/app/google-play/com.ucool.heroesarena/statistics/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

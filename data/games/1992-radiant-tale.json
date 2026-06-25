@@ -1,0 +1,28 @@
+{
+  "id": 1992,
+  "title_jp": "Radiant Tale",
+  "title_en": "Radiant Tale",
+  "developer": "Otomate / Design Factory",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "サーカス団を再建する設定と薄葉カゲロー氏のキャラクターデザインで乙女ゲームファンから注目を集め、2023年に Aksys Games の英訳版が海外乙女コミュニティでも話題化。続編『Radiant Tale -Fanfare!-』も発売された。",
+  "concept": "落ちこぼれサーカス団「CIRCUS」のプロデューサー兼アシスタントとして抜擢された主人公ティファリアが、個性的な団員たちと公演成功を目指す乙女向け恋愛アドベンチャー。劇団もの・ファンタジー世界観・正統派キャラ攻略を組み合わせた王道 Otomate 作品。",
+  "target": "Otomate の王道乙女ゲームを好む 10-30 代女性プレイヤー。劇団・パフォーマンスもの、明るめのファンタジー設定、複数キャラ攻略型ビジュアルノベルを楽しみたい層。",
+  "slug": "radiant-tale",
+  "file": "data/games/1992-radiant-tale.json",
+  "_source_urls": [
+    "https://www.nintendolife.com/news/2023/07/otome-visual-novel-radiant-tale-launches-on-switch-later-this-month",
+    "https://www.gematsu.com/2021/04/otomate-announces-amnesia-world-hakuoki-shinkai-reimeiroku-radiant-tale-and-soukaitenki-for-switch",
+    "https://aksysgames.com/products/switch-radiant-tale/",
+    "https://www.rpgfan.com/game/radiant-tale/"
+  ]
+}

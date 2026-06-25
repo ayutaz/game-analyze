@@ -1,0 +1,35 @@
+{
+  "id": 1197,
+  "title_jp": "Hello Hero: Epic Battle",
+  "title_en": "Hello Hero: Epic Battle",
+  "developer": "Fincon",
+  "publisher": "Fincon",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "3D ヒーロー収集 RPG",
+  "sales_jp": "—",
+  "sales_world": "2M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "全世界 2,000 万 DL 超の原作『Hello Hero』の続編として 3D 化、49 か国でチャート入り。日本では 2019 年 5 月に縦型操作・フルボイス対応でローカライズ配信され、4Gamer などで取り上げられた。",
+  "concept": "5 体パーティで戦う 3D ヒーロー収集 RPG。100 体超のコミカルなヒーローをガチャで集めて育成し、Adventure / Expedition / Conquest / World Boss / Battlefield など多モードで戦う、縦持ち片手操作のオート進行系。",
+  "target": "原作『Hello Hero』ファン層と、片手で気軽にオート周回したいスマホ RPG ユーザー。ヒーロー収集と PvP 両方を楽しみたい 20-30 代のカジュアル〜ミドルコア層。",
+  "slug": "hello-hero-epic-battle",
+  "file": "data/games/1197-hello-hero-epic-battle.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.fincon.hh2&hl=en_US",
+    "https://apps.apple.com/us/app/hello-hero-epic-battle-3d-rpg/id1124269566",
+    "https://gamebiz.jp/?p=227847",
+    "https://www.4gamer.net/games/445/G044570/20190521097/",
+    "https://www.trending.ph/2018/01/fincons-newest-hit-3d-mobile-rpg-hello-hero-epic-battle-unlocks-new-server/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

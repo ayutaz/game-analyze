@@ -1,0 +1,35 @@
+{
+  "id": 1042,
+  "title_jp": "AirMech Strike",
+  "title_en": "AirMech",
+  "developer": "Carbon Games",
+  "publisher": "Carbon Games / Ubisoft",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Xbox 360",
+    "Xbox One",
+    "PS4"
+  ],
+  "genre": "アクション RTS / MOBA",
+  "sales_jp": "—",
+  "sales_world": "5M+ players (Steam)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Herzog Zwei に着想を得た「変形メカで空中と地上を行き来する」アクション RTS で、F2P MOBA として PC で 5,000 万 DL 超を達成。Xbox 360 / One / PS4 にも AirMech Arena として展開し、Steam で 5,000 件超の好評レビューを集めた。",
+  "slug": "airmech",
+  "file": "data/games/1042-airmech.json",
+  "concept": "戦闘機モードで空からユニットをピックアップ＆配置し、メカモードに変形して地上戦に参加する Action-RTS。RTS の指揮官視点とアクションの直接操作を 1 体のメカに統合し、ソロ／協力／PvP のいずれでも遊べる F2P MOBA として成立させた。",
+  "target": "Herzog Zwei 直系の変形メカ＋RTS を現代風に遊びたい 20-40 代のメカ／RTS ファンと、短時間で MOBA 的対戦を楽しみたい F2P プレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/AirMech",
+    "https://store.steampowered.com/app/206500/AirMech_Strike/",
+    "https://www.carbongames.com/airmech-strike",
+    "https://www.mobygames.com/game/77252/airmech/"
+  ]
+}

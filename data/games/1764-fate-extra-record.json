@@ -1,0 +1,35 @@
+{
+  "id": 1764,
+  "title_jp": "Fate/EXTRA Record",
+  "title_en": "Fate/EXTRA Record",
+  "developer": "TYPE-MOON studio BB",
+  "publisher": "TYPE-MOON (未定)",
+  "year": 2026,
+  "platform": [
+    "PS5",
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ロールプレイング (RPG) フルリメイク",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2010年に発売されたFateシリーズ初のRPG『Fate/EXTRA』のフルリメイク。2022年に正式タイトル発表、2025→2026年春→無期延期と度重なるリスケと、2026年3月にバンダイナムコが販売元から離脱したニュースで大きな話題となった。",
+  "concept": "ロックペーパーシザーズだった原作の戦闘をローテーション式コマンドアクションに刷新し、探索パートも一新。月の聖杯戦争で7日間のサバイバルとサーヴァントとの物語を追体験する、シリーズの原点をモダン化したフルリメイク。",
+  "target": "原作『Fate/EXTRA』『EXTRA CCC』をプレイしたシリーズ古参ファン層、Fate/stay nightやFGOから入ったFateフルスタックのファン、PS5/Switch世代のJRPG・キャラクターADV志向層。",
+  "slug": "fate-extra-record",
+  "file": "data/games/1764-fate-extra-record.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/Extra_Record",
+    "https://www.famitsu.com/article/202603/68849",
+    "https://www.4gamer.net/games/520/G052062/20260316022/",
+    "https://fate-ex-record.bn-ent.net/",
+    "https://typemoon-bb.com/record/",
+    "https://www.gematsu.com/2026/03/fate-extra-record-delayed-to-unannounced-date-publisher-changed"
+  ]
+}

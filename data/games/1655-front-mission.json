@@ -1,0 +1,31 @@
+{
+  "id": 1655,
+  "title_jp": "フロントミッション",
+  "title_en": "Front Mission",
+  "developer": "G-Craft",
+  "publisher": "Square",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "~530K",
+  "sales_world": "~530K (SFC)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ヴァンツァー（人型機動兵器）を編成・改造して戦うSRPGとして話題に。SFCで53万本を売り上げ、シリーズ化の起点となった。",
+  "concept": "近未来の局地戦争を舞台に、プレイヤーは傭兵小隊長として人型兵器ヴァンツァーをパーツ単位で改造・編成し、ヘックス制マップで戦術戦闘を行うシミュレーションRPG。重厚な政治劇と硬派なミリタリーSF描写を融合した。",
+  "target": "ヘヴィゲーマー、ロボット・ミリタリー好き、シミュレーションRPGや戦術戦闘を好む層。スパロボやタクティクスオウガと並ぶSFC末期SRPGの愛好者。",
+  "slug": "front-mission",
+  "file": "data/games/1655-front-mission.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Front_Mission_(video_game)",
+    "https://shmuplations.com/frontmission/",
+    "https://superfamicom.org/info/front-mission",
+    "https://www.hardcoregaming101.net/front-mission/"
+  ]
+}

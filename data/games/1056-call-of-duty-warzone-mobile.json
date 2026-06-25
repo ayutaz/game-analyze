@@ -1,0 +1,33 @@
+{
+  "id": 1056,
+  "title_jp": "Call of Duty: Warzone Mobile",
+  "title_en": "Call of Duty: Warzone Mobile",
+  "developer": "Activision (Solid State Studios / Beenox / Digital Legends / Activision Shanghai)",
+  "publisher": "Activision",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/FPS",
+  "sales_jp": "—",
+  "sales_world": "37.5M+ DL / IAP $13.7M（launch 2 週で $2.3M に留まり苦戦、2026-04 にサービス終了）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Warzone のモバイル正式版として 2024-03-21 にグローバル配信、初週 20M DL を記録した一方、収益は CoD: Mobile に遠く及ばず launch 2 週で $2.3M、launch 1 年後の 2025-02 には月商 $0.49M まで急落。2026-02 に Activision がサービス終了を発表し 2026-04-17 にサーバー停止予定。",
+  "slug": "call-of-duty-warzone-mobile",
+  "file": "data/games/1056-call-of-duty-warzone-mobile.json",
+  "concept": "コンソール／PC 版 Warzone とアカウント・進行・武器を共有しつつ、Verdansk / Rebirth Island をスマホで遊べる 120 人規模のバトルロイヤル。Activision Shanghai・Beenox・Digital Legends・Solid State Studios の 4 スタジオ共同開発で、CoD 本流の操作感をモバイルに移植することを最優先した。",
+  "target": "既存の CoD: Warzone / Modern Warfare III プレイヤーで外出先でもランクを進めたい層、ハイエンドスマホで本格 FPS をしたい層。CoD: Mobile のカジュアル層よりコア寄りで、結果的にユーザー層の薄さが収益不振の主因となった。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Call_of_Duty:_Warzone_Mobile",
+    "https://www.videogameschronicle.com/news/a-year-after-release-activision-is-winding-down-call-of-duty-warzone-mobile/",
+    "https://www.gamedeveloper.com/business/activision-is-delisting-call-of-duty-warzone-mobile-after-one-year",
+    "https://gameworldobserver.com/2024/04/05/cod-warzone-mobile-revenue-2-3-million-vs-cod-mobile",
+    "https://www.statista.com/statistics/1536621/call-of-duty-warzone-mobile-downloads/",
+    "https://www.statista.com/statistics/1536626/call-of-duty-warzone-mobile-player-spending/"
+  ]
+}

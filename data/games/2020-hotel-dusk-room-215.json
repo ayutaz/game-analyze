@@ -1,0 +1,28 @@
+{
+  "id": 2020,
+  "title_jp": "ウィッシュルーム 天使の記憶",
+  "title_en": "Hotel Dusk: Room 215",
+  "developer": "Cing",
+  "publisher": "Nintendo",
+  "year": 2007,
+  "platform": [
+    "DS"
+  ],
+  "genre": "アドベンチャー/ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "DSを本のように縦持ちで遊ぶ独特の操作と、鉛筆画タッチのロトスコープ風キャラ表現で熱狂的なファンを獲得。続編『最後の窓辺の記憶』も生まれた名作ADV。",
+  "concept": "1979年のロサンゼルス郊外、いわくつきホテル「ホテルダスク」の215号室を舞台に、元刑事カイル・ハイドが宿泊客たちの過去と失踪した相棒の謎を解いていく、対話と推理を軸にした大人向け文学アドベンチャー。",
+  "target": "20-40代の物語重視ゲーマー、ノワール小説や群像劇ミステリーが好きな層、逆転裁判やかまいたちの夜などのテキストADV愛好家。",
+  "slug": "hotel-dusk-room-215",
+  "file": "data/games/2020-hotel-dusk-room-215.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hotel_Dusk:_Room_215",
+    "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%A0_%E5%A4%A9%E4%BD%BF%E3%81%AE%E8%A8%98%E6%86%B6",
+    "https://www.nintendo.co.jp/ds/awij/index.html",
+    "https://www.metacritic.com/game/hotel-dusk-room-215/"
+  ]
+}

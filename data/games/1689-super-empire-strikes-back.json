@@ -1,0 +1,30 @@
+{
+  "id": 1689,
+  "title_jp": "スーパー・スター・ウォーズ 帝国の逆襲",
+  "title_en": "Super Empire Strikes Back",
+  "developer": "Sculptured Software / LucasArts",
+  "publisher": "JVC Musical Industries",
+  "year": 1993,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロールアクション/3Dシューティング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "映画『帝国の逆襲』を忠実に再現した SFC アクション。横スクロールに加え擬似 3D のスノースピーダー戦／小惑星帯シーンが話題となり、難易度の高さで「スーパー・スター・ウォーズ三部作」中でも歯ごたえのある一本として語られる。",
+  "concept": "映画『スター・ウォーズ エピソード5／帝国の逆襲』のストーリーを章ごとに横スクロールアクションと Mode7 風 3D シューティングで追体験させる、JVC × LucasArts × Sculptured Software の SFC アクションアドベンチャー。",
+  "target": "1990年代当時の SFC ユーザーで、スター・ウォーズ映画ファン＋高難易度アクションを好む 10-30 代男性層。現在はレトロゲーム／映画タイアップアクションのコレクター層。",
+  "slug": "super-empire-strikes-back",
+  "file": "data/games/1689-super-empire-strikes-back.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Star_Wars:_The_Empire_Strikes_Back",
+    "https://www.mobygames.com/game/6696/super-star-wars-the-empire-strikes-back/",
+    "https://super-famicom.jp/data/su/su_0065.html",
+    "https://www.gavas.jp/products/detail.php?product_id=3203"
+  ]
+}

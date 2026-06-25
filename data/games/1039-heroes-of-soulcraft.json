@@ -1,0 +1,30 @@
+{
+  "id": 1039,
+  "title_jp": "Heroes of SoulCraft",
+  "title_en": "Heroes of SoulCraft",
+  "developer": "MAGIC FOX / DeltaEngine",
+  "publisher": "MAGIC FOX",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アーケード MOBA",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Angels vs Demons の二陣営対戦 MOBA を 3v3 で 5 分、5v5 で 15 分の短時間試合に圧縮し、PC・モバイル間のクロスプラットフォーム対戦を実現したことで「気軽な MOBA」枠でカルト的に支持された。",
+  "concept": "SoulCraft IP をベースにした F2P アーケード MOBA。20 体以上のヒーローから選び、PC とスマホが同じ試合に混ざって 5 分/15 分の短時間バトルを楽しめる、ライトユーザー向けに最適化された MOBA。",
+  "target": "LoL/Dota 2 のような長時間 MOBA に手を出しづらいライトゲーマー、通勤・休憩中にモバイルで遊べる対戦ゲームを求める層、クロスプレイで友人と PC/スマホ混在で遊びたい層。",
+  "slug": "heroes-of-soulcraft",
+  "file": "data/games/1039-heroes-of-soulcraft.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/319570/Heroes_of_SoulCraft__Arcade_MOBA/",
+    "https://deltaengine.net/games/showcases",
+    "https://mmos.com/review/heroes-of-soulcraft",
+    "https://www.gamepressure.com/games/heroes-of-soulcraft/z0418c"
+  ]
+}

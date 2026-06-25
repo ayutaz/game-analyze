@@ -1,0 +1,32 @@
+{
+  "id": 1858,
+  "title_jp": "リトルバスターズ！エクスタシー",
+  "title_en": "Little Busters! Ecstasy",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2008,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP",
+    "PS Vita"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル（18禁拡張版）",
+  "sales_jp": "100K+",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key の青春群像泣きゲー『リトルバスターズ！』に 3 ヒロインルートと 18 禁シーンを追加した拡張版。発売直後の Getchu / メディアクリエイト の PC ゲーム売上ランキング 1 位を獲得し、累計 10 万本超を売り上げた Key の代表作の一つ。",
+  "concept": "野球をやろうと誓った幼なじみ「リトルバスターズ！」の青春と、現実の裏に隠された“この世界の秘密”を解き明かす長編ビジュアルノベル。原作『リトルバスターズ！』(2007) に佐々美・葉留佳・クドの 3 ルートと、全ヒロインの 18 禁シーンを追加した完全版。",
+  "target": "Kanon/AIR/CLANNAD の流れを汲む Key の泣きゲーファン、青春群像と SF・伝奇的仕掛けを併せ持つ長編 ADV を腰を据えて読みたい男性 PC ノベル層。",
+  "slug": "little-busters-ecstasy",
+  "file": "data/games/1858-little-busters-ecstasy.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Little_Busters!",
+    "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%AB%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA!",
+    "https://littlebusters.fandom.com/wiki/Little_Busters!/Visual_Novel",
+    "https://www.4gamer.net/games/091/G009162/20090520012/",
+    "https://kazamatsuri.org/series-info/little-busters/"
+  ]
+}

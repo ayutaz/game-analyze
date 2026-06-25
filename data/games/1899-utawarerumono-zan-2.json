@@ -1,0 +1,34 @@
+{
+  "id": 1899,
+  "title_jp": "うたわれるもの斬2",
+  "title_en": "Utawarerumono: ZAN 2",
+  "developer": "Tamsoft",
+  "publisher": "AQUAPLUS",
+  "year": 2021,
+  "platform": [
+    "PS4",
+    "PS5",
+    "PC"
+  ],
+  "genre": "3Dマルチアクション/無双系アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "協力",
+  "popularity": "『うたわれるもの 二人の白皇』を原作にした無双系アクションの続編として2021年に PS4 / PS5 でリリース。最大4人オンライン協力プレイ対応、新スキルボードシステムを導入し、2026年2月には Shiravune / DMM 経由で Steam 版（英語訳付き）が世界配信され話題に。",
+  "concept": "『うたわれるもの 二人の白皇』のシナリオを無双スタイルのハック&スラッシュで追体験するマルチアクションRPG。前作 ZAN を上回るキャラ育成（スキルボード）と拠点（エンナカムイ屋敷）探索を追加し、原作ファン向けのアクション派生作として位置づけられる。",
+  "target": "うたわれるもの シリーズのファン、特に『二人の白皇』『偽りの仮面』をプレイ済みでキャラを動かしてみたい層。無双系の爽快感と仲間との協力プレイを楽しみたい原作ファン。",
+  "slug": "utawarerumono-zan-2",
+  "file": "data/games/1899-utawarerumono-zan-2.json",
+  "_source_urls": [
+    "https://aquaplus.jp/uta/zan2/",
+    "https://www.playstation.com/ja-jp/games/utawarerumono-zan-2/",
+    "https://utawarerumono.fandom.com/wiki/Utawarerumono:_ZAN_2",
+    "https://store.steampowered.com/app/3074850/Utawarerumono_ZAN_2/",
+    "https://www.gematsu.com/games/utawarerumono-zan-2",
+    "https://www.nookgaming.com/utawarerumono-zan-2-review/"
+  ]
+}

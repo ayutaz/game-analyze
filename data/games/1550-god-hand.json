@@ -1,0 +1,28 @@
+{
+  "id": 1550,
+  "title_jp": "ゴッドハンド",
+  "title_en": "God Hand",
+  "developer": "Clover Studio",
+  "publisher": "Capcom",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "PS3"
+  ],
+  "genre": "3Dアクション/ビートエムアップ",
+  "sales_jp": "60K",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Clover Studio最後の作品、三上真司ディレクション。発売当時はIGNの3.0点など賛否両論だったが、独自のステップ操作と100種以上の格闘技を組み合わせる自由度から後年カルト的人気を獲得した。",
+  "concept": "西部劇とコメディが混在する世界で、伝説の右腕「ゴッドハンド」を継いだ主人公が悪党を殴り倒す3Dベルトスクロール格闘アクション。技をボタンに自由に割り振り、回避ステップで敵を翻弄する独自の操作系を持つ。",
+  "target": "高難度アクション愛好家、Clover Studio/三上真司/神谷英樹系の作家性を追うコアゲーマー、B級映画的なユーモアを楽しめる層。",
+  "slug": "god-hand",
+  "file": "data/games/1550-god-hand.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/God_Hand",
+    "https://capcom.fandom.com/wiki/God_Hand",
+    "https://www.vgchartz.com/game/868/god-hand/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1791,
+  "title_jp": "ひぐらしのなく頃に奉+",
+  "title_en": "Higurashi When They Cry Hou+",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2022,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリーADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "原作「ひぐらし」シリーズの最終的な集大成版として、家庭用『奉』に未収録の追加シナリオ群（アウトブレイク／神姦し編／雛見沢バス停／メハガシ編）を含む完全版。2022年1月にPC日本語版が、2023年11月にMangaGamerによる英語版がリリースされ、長年の海外ファンから「ようやく全エピソードが英語で読める」と歓迎された。",
+  "concept": "竜騎士07／07th Expansionが手がけた同人サウンドノベル『ひぐらしのなく頃に』の決定版。本編・解編に加え、後年の追加エピソードまで全て収録し、リマスター音源とアップスケール立ち絵で読み直せる「物語消費の終着点」として設計されている。",
+  "target": "原作・アニメ・家庭用『奉』『澪』を通ってきた既存ファンと、英語圏で初めて全編に触れる海外ノベルゲー愛好家。長尺テキストに耐えられる読書型プレイヤーが中心。",
+  "slug": "higurashi-when-they-cry-hou-plus",
+  "file": "data/games/1791-higurashi-when-they-cry-hou-plus.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Hou%2B",
+    "https://www.animenewsnetwork.com/news/2023-10-20/mangagamer-releases-higurashi-when-they-cry-hou-hou-sound-novel-on-november-9/.203662",
+    "https://noisypixel.net/higurashi-when-they-cry-hou-steam-pc-release-date/"
+  ]
+}

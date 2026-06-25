@@ -1,0 +1,30 @@
+{
+  "id": 1637,
+  "title_jp": "スター・ウォーズ ローグ中隊",
+  "title_en": "Star Wars: Rogue Squadron",
+  "developer": "Factor 5 / LucasArts",
+  "publisher": "LucasArts / Nintendo",
+  "year": 1998,
+  "platform": [
+    "N64",
+    "PC"
+  ],
+  "genre": "アーケード風3Dフライトアクション",
+  "sales_jp": "—",
+  "sales_world": "1.50M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1998年12月発売直後にN64版が時のオカリナに次ぐ全米第2位を記録、PC Data 集計で年内 584,337 本・$29.3M を売り上げ、N64 のスター・ウォーズ系フライトシューティングを代表する1本となった。",
+  "concept": "反乱同盟軍の精鋭飛行隊「ローグ中隊」を主役に、Xウィングやスノースピーダー等を操って惑星上空を低空飛行で攻め込むアーケード調の3Dフライトアクション。映画の名場面ではなく中隊単位のミッションを連作で描く独自シナリオが特徴。",
+  "target": "スター・ウォーズ世代の10代〜30代男性ゲーマー、N64で本格フライト体験を求めるコア層、X-Wing 等PCシムからの流入層。",
+  "slug": "star-wars-rogue-squadron",
+  "file": "data/games/1637-star-wars-rogue-squadron.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Star_Wars:_Rogue_Squadron",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA_%E5%87%BA%E6%92%83!_%E3%83%AD%E3%83%BC%E3%82%B0%E4%B8%AD%E9%9A%8A",
+    "https://www.nintendolife.com/games/n64/star_wars_rogue_squadron"
+  ]
+}

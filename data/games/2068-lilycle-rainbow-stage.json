@@ -1,0 +1,29 @@
+{
+  "id": 2068,
+  "title_jp": "Lilycle Rainbow Stage!!!",
+  "title_en": "Lilycle Rainbow Stage!!!",
+  "developer": "Particle",
+  "publisher": "MangaGamer",
+  "year": 2016,
+  "platform": [
+    "PC"
+  ],
+  "genre": "百合アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "15人の女子高生×7組の百合カップルというオールスター構成と、みわべさくらの絵柄・豪華声優陣（木村珠莉/MAO/内田真礼ら）で英語圏ローカライズ後 Steam 91% Positive を獲得した百合 VN の代表作。",
+  "concept": "カレンダー型のイベント選択式で 7 組の百合カップル＋メイン三角関係を並行して描く、群像劇型の百合アドベンチャー。各キャラの視点でイベントが解放されていく構造で、関係性の積み重ねを「読む」ことに特化している。",
+  "target": "百合ジャンル愛好者、ビジュアルノベル/ギャルゲー文化に馴染みのある 20-40 代男女。キャラ造形と関係性の機微を時間をかけて味わいたい層、声優ファン層。",
+  "slug": "lilycle-rainbow-stage",
+  "file": "data/games/2068-lilycle-rainbow-stage.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/978870/Lilycle_Rainbow_Stage/",
+    "https://mangagamer.org/lilycle/",
+    "https://www.animenewsnetwork.com/news/2018-07-08/mangagamer-to-release-lilycle-rainbow-stage-luckydog1-games/.133984",
+    "https://www.igdb.com/games/lilycle-rainbow-stage",
+    "https://noisypixel.net/lilycle-rainbow-stage-pc-release-date/"
+  ]
+}

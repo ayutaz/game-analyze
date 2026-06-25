@@ -1,0 +1,30 @@
+{
+  "id": 1626,
+  "title_jp": "罪と罰 〜地球の継承者〜",
+  "title_en": "Sin and Punishment",
+  "developer": "Treasure",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "3Dレールアクションシューティング",
+  "sales_jp": "0.04M",
+  "sales_world": "0.10M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "N64末期にトレジャーが手掛けた高難度レールシューターとして国内売上は約4万本にとどまるも、海外輸入勢で熱狂的カルト人気を獲得し、2007年の Wii バーチャルコンソール配信で再評価された。",
+  "concept": "Dパッドで自機を動かしスティックで照準を操作する独自の「レフトポジション」操作系を採用した3Dレール/アクションシューティング。カメラが状況に応じて自動切替する映画的演出と密度の高い弾幕処理が特徴。",
+  "target": "Treasure 作品（斑鳩・ガンスタなど）に親しんだコアシューターファン、N64末期の隠れた名作を掘り起こしたいレトロゲーマー、高難度アクションを好む層。",
+  "slug": "sin-and-punishment",
+  "file": "data/games/1626-sin-and-punishment.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sin_and_Punishment",
+    "https://ja.wikipedia.org/wiki/%E7%BD%AA%E3%81%A8%E7%BD%B0_%E3%80%9C%E5%9C%B0%E7%90%83%E3%81%AE%E7%B6%99%E6%89%BF%E8%80%85%E3%80%9C",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_nguj/index.html",
+    "https://www.timeextension.com/news/2025/11/anniversary-sin-and-punishment-treasures-acclaimed-n64-rail-shooter-is-now-25-years-old"
+  ]
+}

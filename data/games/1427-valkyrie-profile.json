@@ -1,0 +1,30 @@
+{
+  "id": 1427,
+  "title_jp": "ヴァルキリープロファイル",
+  "title_en": "Valkyrie Profile",
+  "developer": "tri-Ace",
+  "publisher": "Enix",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "RPG（北欧神話モチーフのアクション RPG）",
+  "sales_jp": "0.636M",
+  "sales_world": "0.7M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "サイドビュー探索＋コンボ戦闘という独自設計と、北欧神話×エインフェリア（戦死者）一人ひとりの悲劇的サイドストーリーで90年代末 PS RPG の隠れた名作として語り継がれ、後年 PSP 移植で再評価された。",
+  "concept": "戦乙女レナスが死にゆく人間の魂をエインフェリアとして集め、神々の戦争に備える北欧神話アクション RPG。サイドビュー探索＋4ボタン同時押しコンボ戦闘＋章ごとの時間制限という尖った設計と、仲間ごとの「死の物語」短編集が一体化している。",
+  "target": "90 年代後半 PS RPG を遊んだコア RPG ファン、北欧神話・群像悲劇・章立て短編集が好きな層、tri-Ace のスターオーシャン系アクションコンボ戦闘を好む層。",
+  "slug": "valkyrie-profile",
+  "file": "data/games/1427-valkyrie-profile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Valkyrie_Profile_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%AD%E3%83%AA%E3%83%BC%E3%83%97%E3%83%AD%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB",
+    "https://www.tri-ace.co.jp/products/"
+  ]
+}

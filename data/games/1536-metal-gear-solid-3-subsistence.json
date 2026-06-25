@@ -1,0 +1,31 @@
+{
+  "id": 1536,
+  "title_jp": "メタルギアソリッド3 サブシスタンス",
+  "title_en": "Metal Gear Solid 3: Subsistence",
+  "developer": "Konami Computer Entertainment Japan",
+  "publisher": "Konami",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "0.13M",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "MGS3 本編に新カメラ視点（3Dカメラ）と初代『メタルギアオンライン』、さらに初代『メタルギア』『メタルギア2』を同梱した完全版として話題に。",
+  "slug": "metal-gear-solid-3-subsistence",
+  "file": "data/games/1536-metal-gear-solid-3-subsistence.json",
+  "concept": "『MGS3 スネークイーター』に俯瞰だけでなく自由視点の3Dカメラを追加し、オンライン対戦『メタルギアオンライン』とシリーズ原点 2 作の移植までを一本に詰め込んだ「決定版」パッケージ。シリーズ史を一気に通せる総括的位置づけ。",
+  "target": "MGS3 を新カメラで遊び直したいシリーズファン、初代『メタルギア』をプレイしたことのない若いプレイヤー、そしてオンラインで MGS の対戦を試したいコアゲーマー層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Metal_Gear_Solid_3:_Snake_Eater",
+    "https://metalgear.fandom.com/wiki/Metal_Gear_Solid_3:_Subsistence",
+    "https://www.vgchartz.com/game/1329/metal-gear-solid-3-subsistence/",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%AE%E3%82%A2%E3%82%BD%E3%83%AA%E3%83%83%E3%83%893",
+    "https://kopenguin.com/post-66928/"
+  ]
+}

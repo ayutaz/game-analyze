@@ -1,0 +1,38 @@
+{
+  "id": 1354,
+  "title_jp": "Beach Buggy Racing 2",
+  "title_en": "Beach Buggy Racing 2",
+  "developer": "Vector Unit",
+  "publisher": "Vector Unit",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "アーケード/カートレース",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "前作 Beach Buggy Racing が累計 9000 万 DL を突破した F2P カートレースの正統続編。モバイルから家庭用機（Switch / PS4 / Xbox / PC）にも展開し、Mario Kart 系を遊びたいけど機種を持っていない層の受け皿として世界的にロングテール DL を積み上げている。",
+  "concept": "コンソール風のカート挙動・パワーアップ・分割画面マルチを F2P モバイルで再現したアーケードレーサー。最大 6 人のオンライン/ローカル対戦と、ドライバー・車両・パワーアップを集めて強化していくメタ進行を二段構えで載せている。",
+  "target": "Mario Kart や Crash Team Racing 系のカートレースをスマホで気軽に遊びたいライト層、子供から大人まで。家庭用機版は分割画面で家族・友人と遊ぶパーティープレイ需要を取りに行っている。",
+  "slug": "beach-buggy-racing-2",
+  "file": "data/games/1354-beach-buggy-racing-2.json",
+  "_source_urls": [
+    "https://www.vectorunit.com/beach-buggy-racing-2/",
+    "https://beachbuggyracing.fandom.com/wiki/Beach_Buggy_Racing_2",
+    "https://www.pcgamingwiki.com/wiki/Beach_Buggy_Racing_2",
+    "https://apps.apple.com/us/app/beach-buggy-racing-2/id1399253988"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

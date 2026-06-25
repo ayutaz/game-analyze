@@ -1,0 +1,30 @@
+{
+  "id": 1672,
+  "title_jp": "ロックマンX3",
+  "title_en": "Mega Man X3",
+  "developer": "Minakuchi Engineering / Capcom",
+  "publisher": "Capcom",
+  "year": 1995,
+  "platform": [
+    "SNES",
+    "PS1",
+    "Saturn",
+    "PC"
+  ],
+  "genre": "2Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "ロックマンXシリーズSFC三部作の完結編。ゼロが初操作可能になり、後年のロックマンゼロ路線につながる人気要素を確立した。",
+  "concept": "8ボスを倒して武器を奪う王道ロックマンX式アクションを継承しつつ、ゼロの操作・ライドアーマー4種・隠し要素の多層化で「やり込み」を強化した三部作完結編。",
+  "target": "SFC黄金期の2Dアクション/ロックマンXファン、ボス武器ループと探索リプレイを楽しむコア層。レトロ移植（PS/サターン/PC、後年のXレガシーコレクション）で触れる層も含む。",
+  "slug": "mega-man-x3",
+  "file": "data/games/1672-mega-man-x3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mega_Man_X3",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3X",
+    "https://megaman.fandom.com/wiki/Mega_Man_X3"
+  ]
+}

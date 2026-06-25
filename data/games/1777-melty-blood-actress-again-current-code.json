@@ -1,0 +1,32 @@
+{
+  "id": 1777,
+  "title_jp": "MELTY BLOOD Actress Again Current Code",
+  "title_en": "Melty Blood Actress Again Current Code",
+  "developer": "French-Bread / Ecole / TYPE-MOON",
+  "publisher": "Arc System Works",
+  "year": 2010,
+  "platform": [
+    "Arcade",
+    "PC"
+  ],
+  "genre": "2D対戦格闘",
+  "sales_jp": "—",
+  "sales_world": "unknown (Steam ユーザーレビュー 94% 好評)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "TYPE-MOON『月姫』スピンオフの 2D 格闘最終形態。アーケード稼働後、2016 年 Steam 配信で海外プレイヤーにも届き、Mizuumi Wiki を中心にしたオンラインコミュニティで長年大会が続いている。",
+  "concept": "『月姫』キャラを 3 つの「月スタイル（Crescent / Full / Half）」で動かす 2D 高速対戦格闘。31 体 × 3 スタイルの組合せで同キャラでも別ゲーム感を作り、Arc System Works が PC で復刻した French-Bread 系格闘の決定版。",
+  "target": "TYPE-MOON ファンと 2D 格闘・コンボゲー愛好家。アルカナハート／GGXX 系のニッチ格闘シーンに居続けるプレイヤー、ロビーで対戦相手を見つけて長期間磨きたい層。",
+  "slug": "melty-blood-actress-again-current-code",
+  "file": "data/games/1777-melty-blood-actress-again-current-code.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Melty_Blood",
+    "https://store.steampowered.com/app/411370/Melty_Blood_Actress_Again_Current_Code/",
+    "https://www.arcsystemworks.com/melty-blood-actress-again-current-code-available-today-on-steam/",
+    "https://mizuumi.wiki/w/Melty_Blood/MBAACC",
+    "https://www.pcgamingwiki.com/wiki/Melty_Blood_Actress_Again_Current_Code"
+  ]
+}

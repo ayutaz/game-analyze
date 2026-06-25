@@ -1,0 +1,29 @@
+{
+  "id": 1586,
+  "title_jp": "怪盗スライ・クーパー",
+  "title_en": "Sly Cooper and the Thievius Raccoonus",
+  "developer": "Sucker Punch Productions",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ステルスアクション/3Dプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "怪盗一族の末裔・アライグマのスライが屋根や配線を渡って盗みを働くカートゥーン調ステルス3Dアクション。GDC 2003で「Best New Character」を受賞、PS2「隠れた名作」として後年も語り継がれ Sly三部作合計2.2M本を牽引した。",
+  "concept": "「悪党から盗み返す紳士怪盗」をテーマにした立体潜入×プラットフォーマー。屋根伝いや影渡りなど怪盗ならではの移動表現と、コミック的なカットシーン演出を組み合わせ、ステルスアクションを子どもでも遊べる入口に翻訳した一本。",
+  "target": "PS2世代の小中学生〜青年層、ラチェット&クランクやジャック×ダクスターと並ぶSony製マスコットアクションを好む層、カートゥーン演出と軽快なステルスを楽しみたいプレイヤー。",
+  "slug": "sly-cooper-and-the-thievius-raccoonus",
+  "file": "data/games/1586-sly-cooper-and-the-thievius-raccoonus.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sly_Cooper_and_the_Thievius_Raccoonus",
+    "https://ja.wikipedia.org/wiki/%E6%80%AA%E7%9B%97%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%BB%E3%82%AF%E3%83%BC%E3%83%91%E3%83%BC",
+    "https://www.pushsquare.com/games/ps2/sly_cooper_and_the_thievius_raccoonus"
+  ]
+}

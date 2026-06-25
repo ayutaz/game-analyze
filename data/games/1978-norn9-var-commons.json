@@ -1,0 +1,31 @@
+{
+  "id": 1978,
+  "title_jp": "ノルン+ノネット",
+  "title_en": "Norn9: Var Commons",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2013,
+  "platform": [
+    "PSP",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "9人の少年×3人のヒロインという「逆ハー的群像劇」と SF 大正ロマン世界観で乙女ゲーマー層に話題化。アニメ化（2013年）、Vita 移植 Var Commons の英語版（2015）、Switch 版（2018/2023）と長期的に展開され、海外 otome コミュニティでも代表作扱いされている。",
+  "concept": "「ノルン」と呼ばれる謎の球体に集められた特殊能力を持つ 9 人の少年と 3 人のヒロインが、空を旅しながら世界の秘密と恋愛模様を紡ぐ SF 群像劇型乙女ゲーム。3 ヒロイン × 3 攻略対象という構造でルートの組み合わせが多く、読み物としてのボリュームを売りにしている。",
+  "target": "10〜30代女性を中心とする乙女ゲーム／ビジュアルノベルファン。複数キャラの群像劇と SF 設定を好み、長文シナリオをじっくり読むタイプのプレイヤー。",
+  "slug": "norn9-var-commons",
+  "file": "data/games/1978-norn9-var-commons.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Norn9",
+    "https://ja.wikipedia.org/wiki/NORN9_%E3%83%8E%E3%83%AB%E3%83%B3+%E3%83%8E%E3%83%8D%E3%83%83%E3%83%88",
+    "https://www.otomate.jp/norn9/",
+    "https://www.otomate.jp/norn9/vita/",
+    "https://www.otomate-p.jp/game/game-128/"
+  ]
+}

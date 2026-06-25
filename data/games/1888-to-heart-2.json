@@ -1,0 +1,31 @@
+{
+  "id": 1888,
+  "title_jp": "ToHeart2",
+  "title_en": "To Heart 2",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "PC",
+    "PSP",
+    "PS3"
+  ],
+  "genre": "学園恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "PS2初週8.2万本",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "前作『ToHeart』の続編として高い期待を集め、年上幼なじみ「タマ姉」（向坂環）が爆発的人気を獲得。PS2全年齢版→PC XRATED→PSP→PS3 DX PLUS と長期にわたりメディアミックス展開、Dungeon Travelers 等のスピンオフも多数。",
+  "concept": "Leaf 学園恋愛 ADV の金字塔の正統続編。前作の舞台から数年後の学園を舞台に、主人公・河野貴明と多数のヒロインとの日常と恋愛を描く分岐型ビジュアルノベル。",
+  "target": "Leaf／key 系の泣きゲー・萌えゲーを通ってきた 20-40 代男性層、前作『ToHeart』からのファン、学園もの恋愛 ADV を読み物として楽しむ層。",
+  "slug": "to-heart-2",
+  "file": "data/games/1888-to-heart-2.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/ToHeart2",
+    "https://en.wikipedia.org/wiki/To_Heart_2",
+    "https://www.famitsu.com/article/202412/28556",
+    "https://aquaplus.jp/th2/html/products.html"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1104,
+  "title_jp": "ディズニー絵文字ブリッツ",
+  "title_en": "Disney Emoji Blitz",
+  "developer": "Jam City",
+  "publisher": "Disney / Jam City",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/キャラクター収集",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ディズニー/ピクサー/スター・ウォーズの 400+ 体の絵文字キャラを収集できる IP マッチ3として世界 50M+ DL を突破。Jam City が 2019 年に Disney 内製スタジオを買収して以降も継続運営される長寿カジュアル。",
+  "concept": "ディズニー/ピクサー作品 90 年分の絵文字を「揃えて消す」マッチ3パズルで集めるカジュアルゲーム。各キャラに固有スキルがあり、コレクション・アップグレードがリプレイ動機となる。",
+  "target": "ディズニー IP に親しみのある女性層・ファミリー層・カジュアルマッチ3プレイヤー。スキマ時間で気軽に絵文字を集めたいライト課金ユーザー。",
+  "slug": "disney-emoji-blitz",
+  "file": "data/games/1104-disney-emoji-blitz.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Disney_Emoji_Blitz",
+    "https://www.jamcity.com/press-release-global-sensation-disney-emoji-blitz-to-debut-in-japan/",
+    "https://venturebeat.com/business/jam-city-acquires-disneys-emoji-blitz-mobile-game-studio-cuts-multiyear-licensing-deal/",
+    "https://apps.apple.com/us/app/disney-emoji-blitz-game/id1017551780"
+  ]
+}

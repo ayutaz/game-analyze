@@ -1,0 +1,32 @@
+{
+  "id": 1730,
+  "title_jp": "ゲイングランド",
+  "title_en": "Gain Ground",
+  "developer": "Sega",
+  "publisher": "Sega",
+  "year": 1991,
+  "platform": [
+    "Arcade",
+    "Mega Drive",
+    "Switch"
+  ],
+  "genre": "アクション/戦略アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "セガ・システム24基板の縦画面・高精細グラフィックで稼働した独創的アクション。20人の個性派キャラを使い分けて時代別40面を踏破する戦略性と、最大2-3人協力プレイがコア層に長く語り継がれている。",
+  "concept": "「キャラ選択がそのまま戦略」になる俯瞰型アクション。各キャラの武器射程・速度・両手持ち/片手持ちを見極め、敵を全滅させるか脱出点へ辿り着くかを時間制限内に達成する、Berzerk/Gauntlet 系譜の独自進化作。",
+  "target": "80年代末〜90年代初頭のアーケード/メガドライブ世代、セガレトロ愛好家、戦略アクションや高難度ゲームを腰を据えて遊びたい層。SEGA AGES 版で Switch に触れた現役プレイヤーも含む。",
+  "slug": "gain-ground",
+  "file": "data/games/1730-gain-ground.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Gain_Ground",
+    "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89",
+    "https://archives.sega.jp/segaages/gg/",
+    "https://www.sega.jp/history/arcade/product/9266/",
+    "https://www.4gamer.net/games/416/G041692/20190115121/",
+    "https://www.hardcoregaming101.net/gain-ground/"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1051,
+  "title_jp": "ML: Adventure",
+  "title_en": "Mobile Legends: Adventure",
+  "developer": "Moonton",
+  "publisher": "Moonton",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アイドル系RPG/ヒーローコレクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "MLBBの100体超ヒーローIPを引き継いだ放置型RPGスピンオフ。東南アジアを中心にMLBBファン層がそのまま流入し、Google Play / App Store で長期ランクインを維持。",
+  "slug": "mobile-legends-adventure",
+  "file": "data/games/1051-mobile-legends-adventure.json",
+  "concept": "MOBAの『Mobile Legends: Bang Bang』のキャラ・世界観を引き継いだアイドル系RPG。放置で資源と経験値が貯まり、ヒーロー収集・装備強化・パーティ編成で進行する非同期競争型ガチャゲー。",
+  "target": "MLBBの既存ファン、東南アジア・南米・MENAのモバイルゲーマー、放置/Idle系RPG好き、ヒーローコレクション・ガチャ志向の10-30代。",
+  "_source_urls": [
+    "https://mobile-legends.fandom.com/wiki/Mobile_Legends:_Adventure",
+    "https://www.oneesports.gg/mobile-legends/mobile-legends-adventure-is-developer-moontons-new-game/",
+    "https://play.google.com/store/apps/details?id=com.moonton.mobilehero",
+    "https://www.enduins.com/mobile-games/moonton-mobile-legends-adventure-official-launch/"
+  ]
+}

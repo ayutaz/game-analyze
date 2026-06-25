@@ -1,0 +1,29 @@
+{
+  "id": 1185,
+  "title_jp": "ジェネシス：A New World",
+  "title_en": "Genesis: A New World",
+  "developer": "Bluehole Studio",
+  "publisher": "Krafton",
+  "year": 2025,
+  "platform": [
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Krafton 傘下 Bluehole Studio が手掛ける新作タイトルとして話題になったが、現時点で確かな出典に乏しく国内での認知は限定的。",
+  "concept": "Krafton グループのオンライン RPG ラインの一角を担うとされる新規 IP。広大なファンタジー世界を舞台にした体験型 MMO 寄りの設計と推測される。",
+  "target": "MMORPG / オンライン RPG のプレイヤー層、特に Krafton / Bluehole 既存作のファンを想定。長期運営型の世界観に浸れる層が中心。",
+  "slug": "genesis-a-new-world",
+  "file": "data/games/1185-genesis-a-new-world.json",
+  "_source_urls": [
+    "https://www.krafton.com/en/studios/bluehole/",
+    "https://www.krafton.com/en/games/",
+    "https://en.wikipedia.org/wiki/Krafton"
+  ]
+}

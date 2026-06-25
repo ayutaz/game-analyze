@@ -1,0 +1,35 @@
+{
+  "id": 1307,
+  "title_jp": "イケメンヴァンパイア◆偉人達と恋の誘惑",
+  "title_en": "Ikemen Vampire: Temptation in the Dark",
+  "developer": "Cybird",
+  "publisher": "Cybird",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向け恋愛シミュレーション/乙女ゲーム",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "サイバードの累計1,500万DL超の人気「イケメンシリーズ」最新作として配信され、シリーズ累計会員数は4,500万人規模。ナポレオン・モーツァルト・ダ・ヴィンチら歴史上の偉人がヴァンパイアとして登場するユニークな世界観が女性ユーザーの間で話題化し、英語版（Temptation in the Dark）は海外乙女ゲーム市場でも一定のファン層を獲得した。",
+  "concept": "19世紀パリの洋館に迷い込んだ現代女性が、偉人達の姿をしたヴァンパイア達と暮らしながら本命を選んでいく女性向け恋愛アドベンチャー。ルートごとに章単位の物語をチケット消費で読み進め、衣装・スチル等の限定報酬をガチャ/イベントで集める「読む＋集める」のハイブリッド型乙女ゲーム。",
+  "target": "20-40代の女性、特に乙女ゲーム・BL系コンテンツに親しんだ層と、歴史/西洋ロマンス嗜好の読み物系ユーザー。長期運営型ソシャゲの推し活・スチル収集を楽しめる層に強い。",
+  "slug": "ikemen-vampire-temptation-in-the-dark",
+  "file": "data/games/1307-ikemen-vampire-temptation-in-the-dark.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B1%E3%83%A1%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E2%97%86%E5%81%89%E4%BA%BA%E3%81%9F%E3%81%A1%E3%81%A8%E6%81%8B%E3%81%AE%E8%AA%98%E6%83%91",
+    "https://ikemen-series.com/games/vampire/index.html",
+    "https://www.cybird.co.jp/news/2019070101/",
+    "https://prtimes.jp/main/html/rd/p/000002065.000001661.html",
+    "https://apps.apple.com/us/app/ikemen-vampire-otome-gam-e/id1464639407"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

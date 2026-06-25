@@ -1,0 +1,32 @@
+{
+  "id": 1423,
+  "title_jp": "デュープリズム",
+  "title_en": "Threads of Fate",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 2000,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "111K+ (1999年末時点)",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ルウとミントの2主人公制でシナリオを2周楽しめる構成と、ポップなトゥーンレンダーの世界観で根強いカルト人気を獲得。後年もリメイク・再評価の声が絶えない隠れた名作として語られる。",
+  "slug": "threads-of-fate",
+  "file": "data/games/1423-threads-of-fate.json",
+  "concept": "「変身して戦うルウ」と「魔法を操るおてんば姫ミント」、性格もアクションも対照的な2人の物語を交互に体験するダブル主人公制アクションRPG。レリックを巡る冒険を異なる視点で2度味わうことで世界が立ち上がる構造を持つ。",
+  "target": "PS1黄金期の隠れた名作を求めるレトロJRPGファン、軽快な3Dアクションと寓話的な物語を両立させたい10〜30代のプレイヤー、Squareの非FF系オリジナルIPを楽しみたい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Threads_of_Fate",
+    "https://squareenix.fandom.com/wiki/Threads_of_Fate",
+    "https://www.mobygames.com/game/4204/threads-of-fate/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1501,
+  "title_jp": "ファイナルファンタジーX",
+  "title_en": "Final Fantasy X",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 2001,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG",
+  "sales_jp": "2.73M",
+  "sales_world": "8.5M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "FFシリーズ初のフルボイス・PS2世代の美麗演出で「ザナルカンド」「ティーダとユウナの物語」が社会現象化、PS2で初のダブルミリオン達成タイトルとなった。",
+  "concept": "召喚士ユウナの旅路を追体験する一本道リニア型 JRPG。スフィア盤による育成と Conditional Turn-Based Battle (CTB) を備えつつ、物語消費を最優先に据えた FF シリーズの転換点。",
+  "target": "10代後半〜40代の JRPG ファン、特に物語・映像演出・キャラクタードラマを重視する層。FFシリーズの入門作としても支持される。",
+  "slug": "final-fantasy-x",
+  "file": "data/games/1501-final-fantasy-x.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Final_Fantasy_X",
+    "https://www.vgchartz.com/game/759/final-fantasy-x/",
+    "https://game.watch.impress.co.jp/docs/20020130/square.htm",
+    "https://renote.net/articles/39734"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

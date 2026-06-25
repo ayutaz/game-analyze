@@ -1,0 +1,34 @@
+{
+  "id": 1880,
+  "title_jp": "Angel Beats! -Operation Wars-",
+  "title_en": "Angel Beats! Operation Wars",
+  "developer": "ProjectABOW (Key/Visual Arts)",
+  "publisher": "Visual Arts",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションパズル/カード収集ソーシャルゲーム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "サービス開始直後にサーバーダウンするほどの大盛況、配信から短期間でプレイユーザー40万人突破。Angel Beats! ファン待望のスマホゲーム化として話題になり、1st Beat 限定版にレアカードがバンドルされる連動施策で注目を集めた。",
+  "concept": "TVアニメ『Angel Beats!』の世界観をスマホで体験する、6×6グリッドの同色ブロックをつなげて消すアクションパズル×カード収集ソーシャル。キャラクターカードを集めて編成し、ライブシステムでアニメ楽曲とともにステータスを底上げする「Angel Beats!」IPの再現に特化した運営型タイトル。",
+  "target": "TVアニメ・KeyのビジュアルノベルでAngel Beats!に触れた20-30代のファン層、ゆりっぺ・音無・かなで等の推しキャラを集めて育てたいコレクター層、軽量パズルで隙間時間に IP コンテンツを消費したいライト層。",
+  "slug": "angel-beats-operation-wars",
+  "file": "data/games/1880-angel-beats-operation-wars.json",
+  "_source_urls": [
+    "http://abow.jp/",
+    "https://www.itmedia.co.jp/news/articles/1603/10/news141.html",
+    "https://dengekionline.com/elem/000/000/811/811107/",
+    "http://gs.dengeki.com/news/12301/",
+    "https://forum.kazamatsuri.org/t/angel-beats-operation-wars-guide/428",
+    "https://en.wikipedia.org/wiki/Angel_Beats!_1st_Beat"
+  ]
+}

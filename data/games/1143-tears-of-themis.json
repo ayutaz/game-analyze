@@ -1,0 +1,31 @@
+{
+  "id": 1143,
+  "title_jp": "未定事件簿",
+  "title_en": "Tears of Themis",
+  "developer": "miHoYo",
+  "publisher": "HoYoverse",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "推理アドベンチャー/乙女ゲーム（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "unknown（中国主軸）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "miHoYo 初の女性向けタイトルとして注目され、中国本土で 2020 年配信開始後にグローバル展開。日本語フルボイス、4 人の男性主人公との恋愛＋法廷推理という独自路線で乙女ゲーム×ガチャ市場に食い込んだ。",
+  "concept": "「推理 × 恋愛」をテーマにした乙女向けガチャ ADV。証拠カードを使った法廷バトルと、4 人の男性キャラとの恋愛ストーリーを軸に、調査・推理・ロマンスを並行で進行させる。",
+  "target": "10-30 代の女性プレイヤー、特に乙女ゲーム・推理 ADV ファンと、miHoYo（原神／崩壊）系の高品質演出を女性向けで求める層。",
+  "slug": "tears-of-themis",
+  "file": "data/games/1143-tears-of-themis.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tears_of_Themis",
+    "https://toucharcade.com/2021/07/16/tears-of-themis-global-release-date-english-preorder-iphone-preregistration-android-free/",
+    "https://revenue.ennead.cc/games/tears-of-themis"
+  ]
+}

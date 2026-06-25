@@ -1,0 +1,31 @@
+{
+  "id": 1521,
+  "title_jp": "魔界戦記ディスガイア",
+  "title_en": "Disgaea: Hour of Darkness",
+  "developer": "Nippon Ichi Software",
+  "publisher": "Nippon Ichi Software / NIS America",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "やり込みシミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "500K+",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「魔王ラハール」率いる魔界軍団のドタバタ劇と、レベル9999・転生・アイテム界などの過剰なやり込み要素で SRPG ファンの間で熱狂的支持を獲得。シリーズ累計 500 万本超の起点となった名作。",
+  "concept": "マス目戦闘に「持ち上げて投げる」「ジオパネル」を組み合わせたシミュレーション RPG。レベル 9999・転生・アイテム界という「上限を壊して遊ぶ」設計で、エンドコンテンツが本編より長いタイプの極端なやり込みゲーを定義した。",
+  "target": "SRPG 玄人、ファイナルファンタジータクティクスやタクティクスオウガを遊んだ層、数字インフレと最強育成を延々楽しみたいハードコアプレイヤー。コミカルな魔界設定を許容できる層。",
+  "slug": "disgaea-hour-of-darkness",
+  "file": "data/games/1521-disgaea-hour-of-darkness.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Disgaea:_Hour_of_Darkness",
+    "https://ja.wikipedia.org/wiki/%E9%AD%94%E7%95%8C%E6%88%A6%E8%A8%98%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AC%E3%82%A4%E3%82%A2",
+    "https://www.gematsu.com/2021/07/disgaea-series-shipments-and-digital-sales-top-five-million",
+    "https://disgaea.jp/1/"
+  ]
+}

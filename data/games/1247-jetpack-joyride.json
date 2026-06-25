@@ -1,0 +1,40 @@
+{
+  "id": 1247,
+  "title_jp": "ジェットパック ジョイライド",
+  "title_en": "Jetpack Joyride",
+  "developer": "Halfbrick Studios",
+  "publisher": "Halfbrick Studios",
+  "year": 2011,
+  "platform": [
+    "iOS",
+    "Android",
+    "PSP",
+    "PS3",
+    "PS Vita",
+    "PS4",
+    "PC",
+    "Browser"
+  ],
+  "genre": "横スクロール エンドレスランナー",
+  "sales_jp": "—",
+  "sales_world": "750M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "モバイル黎明期を代表するエンドレスランナーで、ワンタップ操作と短サイクルのハイテンポなプレイ感が世界中で受け入れられ、累計 7.5 億 DL 超を記録。Fruit Ninja と並ぶ Halfbrick の看板タイトルとして長年アップデートが続く。",
+  "concept": "秘密研究所から機関銃ジェットパックを奪った主人公バリーを操作し、ワンタップで上昇／落下しながら障害物を回避し続ける横スクロール エンドレスランナー。コイン回収・ガチャ風ガジェット強化・3 ミッション同時進行のループで「あと 1 回」を引き出す設計が秀逸。",
+  "target": "電車待ちや就寝前にサクッと遊びたいモバイル・カジュアル層、ハイスコア更新が好きなスコアアタック志向のプレイヤー、年齢・性別問わず手軽に触れる全方位ライト層。",
+  "slug": "jetpack-joyride",
+  "file": "data/games/1247-jetpack-joyride.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Jetpack_Joyride",
+    "https://www.prnewswire.com/news-releases/with-over-1-8-billion-downloads-storms-and-halfbrick-studios-bring-instantly-playable-fruit-ninja-and-jetpack-joyride-games-to-the-emerging-markets-301243426.html",
+    "https://apps.apple.com/jp/app/jetpack-joyride/id457446957",
+    "https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=en_US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

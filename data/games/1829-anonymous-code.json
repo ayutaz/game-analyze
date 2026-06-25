@@ -1,0 +1,31 @@
+{
+  "id": 1829,
+  "title_jp": "ANONYMOUS;CODE",
+  "title_en": "Anonymous;Code",
+  "developer": "MAGES. / Chiyomaru Studio",
+  "publisher": "Spike Chunsoft",
+  "year": 2022,
+  "platform": [
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "メタ科学アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "STEINS;GATE で知られる科学アドベンチャーシリーズ第 6 作。「99% の科学と 1% のファンタジー」をコンセプトに、セーブ＆ロードならぬ「ハッキングトリガー」で現実を改変する新システムが話題に。志倉千代丸完全プロデュース、構想 10 年越しで発売され、海外でも 2023 年に Steam / PS4 / Switch でローカライズ展開された。",
+  "concept": "STEINS;GATE 等で知られる科学 ADV シリーズ最新作のメタ・ビジュアルノベル。プレイヤーは現実そのものを「セーブ＆ロード」感覚で書き換えるハッキングトリガーで、シミュレーション仮説に挑む電脳少年ポロンを追体験する。",
+  "target": "STEINS;GATE / CHAOS;CHILD など科学 ADV シリーズの既存ファン、SF・サイバーパンク・シミュレーション仮説題材が好きな 20-40 代のビジュアルノベル愛好層。",
+  "slug": "anonymous-code",
+  "file": "data/games/1829-anonymous-code.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Anonymous;Code",
+    "https://anonymouscode.jp/",
+    "https://www.spike-chunsoft.com/games/anonymouscode/",
+    "https://www.4gamer.net/games/694/G069400/20230322015/",
+    "https://www.famitsu.com/news/202303/22296788.html"
+  ]
+}

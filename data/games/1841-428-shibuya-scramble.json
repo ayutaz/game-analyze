@@ -1,0 +1,35 @@
+{
+  "id": 1841,
+  "title_jp": "428 ~封鎖された渋谷で~",
+  "title_en": "428: Shibuya Scramble",
+  "developer": "Chunsoft",
+  "publisher": "Sega / Spike Chunsoft",
+  "year": 2008,
+  "platform": [
+    "Wii",
+    "PS3",
+    "PSP",
+    "iOS",
+    "Android",
+    "PS4",
+    "PC"
+  ],
+  "genre": "サウンドノベル/実写群像ミステリー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ファミ通クロスレビュー満点（40点）獲得作品として伝説化。実写×ザッピングで複数主人公の運命が交錯する群像劇は「サウンドノベルの集大成」と評され、2018 年 PS4/PC 移植で海外にも再評価された。",
+  "concept": "渋谷の 1 日 10 時間に同時並行で起きる誘拐事件を、刑事・元ジャーナリスト・着ぐるみバイト・ウイルス研究者など 5 人の視点をザッピングしながら解きほぐす実写サウンドノベル。一人の選択が別キャラの BAD END を引き起こす「群像ザッピング」が中核。",
+  "target": "ミステリー小説・群像劇ドラマ好き、サウンドノベル/かまいたちの夜系統が好きなアドベンチャーゲーマー。ストーリー消費を主目的とする 20-40 代のプレイヤー層。",
+  "slug": "428-shibuya-scramble",
+  "file": "data/games/1841-428-shibuya-scramble.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/428:_Shibuya_Scramble",
+    "https://ja.wikipedia.org/wiki/428_%E3%80%9C%E5%B0%81%E9%8E%96%E3%81%95%E3%82%8C%E3%81%9F%E6%B8%8B%E8%B0%B7%E3%81%A7%E3%80%9C",
+    "https://www.spike-chunsoft.co.jp/pages/428/",
+    "https://www.famitsu.com/article/202512/59311",
+    "https://store.steampowered.com/app/648580/428_Shibuya_Scramble/"
+  ]
+}

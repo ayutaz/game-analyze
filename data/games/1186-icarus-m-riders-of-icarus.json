@@ -1,0 +1,31 @@
+{
+  "id": 1186,
+  "title_jp": "イカルス M",
+  "title_en": "Icarus M: Riders of Icarus",
+  "developer": "WeMade Service",
+  "publisher": "WeMade",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG（騎乗・空中戦特化）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Unreal Engine 4 製の美麗グラフィックと、300種以上のフィールドモンスターを仲間にして騎乗・共闘できる「フェローシステム」、空中での飛行レイドボスバトルが話題となった。韓国 2018 年、日本 2019 年、グローバル（VFUN/Valofe 配信）2020 年 9 月に展開。",
+  "concept": "PC MMORPG「Riders of Icarus」のスマホ向け派生作。広大なファンタジー世界で 5 クラスから 1 つを選び、モンスターを捕獲・調教して騎乗パートナーとして共闘し、地上と空中の両方で MMORPG 体験を提供する。",
+  "target": "騎乗・収集系 MMORPG が好きな国内外のコア・モバイル MMO プレイヤー層。リネージュM / 黒い砂漠 MOBILE と同様の韓国産重課金 MMO ユーザーが主要層。日本版は 2022 年 1 月にサービス終了済み。",
+  "slug": "icarus-m-riders-of-icarus",
+  "file": "data/games/1186-icarus-m-riders-of-icarus.json",
+  "_source_urls": [
+    "https://www.prnewswire.com/news-releases/icarus-m-riders-of-icarus--valofe-releases-the-global-teaser-for-its-new-mobile-mmorpg-on-vfun-301077523.html",
+    "https://game.watch.impress.co.jp/docs/news/1170971.html",
+    "https://www.4gamer.net/games/427/G042786/20211217063/",
+    "https://mmos.com/news/icarus-m-brings-wemades-mmorpg-mobile-arena"
+  ]
+}

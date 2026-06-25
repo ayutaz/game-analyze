@@ -1,0 +1,34 @@
+{
+  "id": 1434,
+  "title_jp": "サンサーラ・ナーガ2",
+  "title_en": "Saiyuki: Journey West",
+  "developer": "Koei",
+  "publisher": "Koei",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "タクティカルRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『西遊記』をモチーフにした PS1 のシミュレーション RPG。Final Fantasy Tactics 系のアイソメトリック戦術戦闘と、主人公・三蔵法師の性別選択（男女どちらでも可）が話題になり、海外コアファンの間で隠れた名作として語り継がれている。",
+  "concept": "中国古典『西遊記』を原案に、三蔵法師・孫悟空・猪八戒・沙悟浄らのパーティで天竺を目指すアイソメトリック・タクティクス RPG。町や道場での修行、宝物収集、属性相性を活かした戦闘で「旅と修行の物語」を体験させる作品。",
+  "target": "FFT / タクティクスオウガ系のクラシックな SRPG ファン、PS1 黄金期の和製タクティカル RPG を懐古する 30-50 代、『西遊記』モチーフや東洋ファンタジー世界観を好む層。",
+  "slug": "saiyuki-journey-west",
+  "file": "data/games/1434-saiyuki-journey-west.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Saiyuki:_Journey_West",
+    "https://koei.fandom.com/wiki/Saiyuki:_Journey_West",
+    "https://www.mobygames.com/game/32405/saiyuki-journey-west/",
+    "https://www.rpgfan.com/review/saiyuki-journey-west-2/",
+    "https://www.pushsquare.com/games/ps1/saiyuki_journey_west"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

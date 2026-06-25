@@ -1,0 +1,28 @@
+{
+  "id": 1870,
+  "title_jp": "プリマドール 〜冬空華火・雪華紋様〜",
+  "title_en": "Prima Doll: Fuyuzora Hanabi / Sekka Mon'you",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "キネティックノベル/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "30K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "TVアニメ『プリマドール』の正式続編キネティックノベル第1弾として、灰桜と鴉羽の過去エピソードを完全フルボイスで描き、Key×コトブキヤのマルチメディア展開ファンから支持を集めた。",
+  "concept": "アニメ版『プリマドール』のキャラクター（灰桜・鴉羽）の過去を描く前日譚キネティックノベル。選択肢のない一本道で、原作スタッフ・キャストによる短編 2 話を完全朗読する読み物体験に特化している。",
+  "target": "TVアニメ『プリマドール』視聴済みの 20-40 代男性ファン、Key 作品（CLANNAD/Rewrite/智代アフター 等）が好きなキネティックノベル愛好層。",
+  "slug": "prima-doll-fuyuzora-hanabi-sekka-monyou",
+  "file": "data/games/1870-prima-doll-fuyuzora-hanabi-sekka-monyou.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Prima_Doll",
+    "https://primadoll.jp/kineticnovel/01/",
+    "https://va-store.jp/products/kn_primadoll_01",
+    "https://primadoll.fandom.com/wiki/Prima_Doll:_Fuyuzora_Hanabi"
+  ]
+}

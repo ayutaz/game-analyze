@@ -1,0 +1,36 @@
+{
+  "id": 1285,
+  "title_jp": "ウォーキング・デッド：ノーマンズ・ランド",
+  "title_en": "The Walking Dead: No Man's Land",
+  "developer": "Next Games",
+  "publisher": "Next Games",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ターン制ストラテジーRPG",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW",
+    "NAR"
+  ],
+  "social_axis": "非同期",
+  "popularity": "AMC公式ライセンスのゾンビIPで、配信4ヶ月で全世界1,000万DLを突破。2018年に日本語対応、2024年にはEpic/Steamに展開し10年運営のロングテール作品に。",
+  "slug": "the-walking-dead-no-mans-land",
+  "file": "data/games/1285-the-walking-dead-no-mans-land.json",
+  "concept": "AMCドラマ版『ウォーキング・デッド』公式ライセンスのターン制スカミッシュRPG。生存者部隊を編成し、ウォーカーを誘導・殲滅しながらキャンプを拡張する戦術ゲームに、キャラクター収集とギルド(アウトポスト)非同期PvPを組み合わせている。",
+  "target": "ウォーキング・デッド原作・ドラマのファン層、XCOM風タクティクスをスマホで気軽に遊びたい層、ギルド運営型ソーシャル要素を好む海外パブリッシャー製モバイルゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Walking_Dead:_No_Man's_Land",
+    "https://www.nextgames.com/articles/next-games-amc-proudly-launch-walking-dead-no-mans-land-official-mobile-game-amcs-walking-dead-ios-today-2",
+    "https://app.famitsu.com/20180613_1307315/",
+    "https://www.4gamer.net/games/423/G042343/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

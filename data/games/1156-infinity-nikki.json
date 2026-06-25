@@ -1,0 +1,37 @@
+{
+  "id": 1156,
+  "title_jp": "インフィニティニキ",
+  "title_en": "Infinity Nikki",
+  "developer": "Papergames (Infold Games)",
+  "publisher": "Infold Games",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "Mac",
+    "PS5",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド着せ替えアクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "事前登録 30M+ / リリース直後に全世界 DL 数 1000 万突破 / 2024 年 Papergames 全体売上約 $850M",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ニキシリーズ初の本格オープンワールド化＋UE5 グラフィックで全世界事前登録 3000 万を突破。配信開始からわずか数日で 1000 万 DL を達成し、ガチャ衣装の可愛さと『ゼルダ BotW』風探索の組合せが SNS でバズった。",
+  "concept": "「着せ替え × オープンワールド」を掲げる Papergames / Infold Games の F2P 作品。衣装に紐づくスキル（飛行・グライド・釣り・パズル解除など）でフィールドを探索しながら、ガチャと収集で 1000 着以上の衣装を集めるのが主動機。",
+  "target": "ミラクルニキ系着せ替えゲームのファン、原神／崩壊スターレイル等のオープンワールドガチャ層、可愛い衣装と世界観で SNS 映えを楽しみたい 10-30 代女性プレイヤーを中心に、コーデ共有を楽しむライト〜ミドルコア層。",
+  "slug": "infinity-nikki",
+  "file": "data/games/1156-infinity-nikki.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Infinity_Nikki",
+    "https://infinitynikki.infoldgames.com/ja/home",
+    "https://www.4gamer.net/games/671/G067100/20241121050/",
+    "https://gamebiz.jp/news/397278",
+    "https://www.gamebusiness.jp/article/2025/02/21/23886.html",
+    "https://www.pocketgamer.biz/infinity-nikki-is-series-strongest-launch-with-4m-in-four-days-on-mobile/",
+    "https://gamerant.com/infinity-nikki-studio-papergames-2024-earnings/"
+  ]
+}

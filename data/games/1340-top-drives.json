@@ -1,0 +1,34 @@
+{
+  "id": 1340,
+  "title_jp": "Top Drives",
+  "title_en": "Top Drives",
+  "developer": "Hutch Games",
+  "publisher": "Hutch Games",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "カードコレクション/レーシング",
+  "sales_jp": "—",
+  "sales_world": "20M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "リリース初週で 100 万 DL、2 ヶ月で 300 万 DL を突破し iOS レーシングカテゴリで 93 ヶ国 1 位を獲得。実車 6000 台超を収録した自動車カードコレクションとして長期運営されている。",
+  "concept": "実在する自動車 6000 台超をカード化し、デッキを組んでスペック比較・チャレンジ・対人レースで競う「自動車版 CCG」。コレクションとデッキ構築の戦略性が中核。",
+  "target": "クルマ好き・自動車ファンを中心とした 20-40 代男性、カードコレクション/デッキ構築型ゲームを好む層、ライセンス車両のスペックやモデルに興味があるプレイヤー。",
+  "slug": "top-drives",
+  "file": "data/games/1340-top-drives.json",
+  "_source_urls": [
+    "https://www.hutch.io/our-games/top-drives/",
+    "https://www.pocketgamer.biz/top-drives-three-million-downloads/",
+    "https://www.pocketgamer.biz/top-drives-races-past-one-million-downloads/",
+    "https://play.google.com/store/apps/details?id=com.hutchgames.cccg&hl=en_US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

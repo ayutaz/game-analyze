@@ -1,0 +1,34 @@
+{
+  "id": 1248,
+  "title_jp": "フルーツニンジャ",
+  "title_en": "Fruit Ninja",
+  "developer": "Halfbrick Studios",
+  "publisher": "Halfbrick Studios",
+  "year": 2010,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Xbox 360",
+    "Browser"
+  ],
+  "genre": "アクション/カジュアル(スライス)",
+  "sales_jp": "—",
+  "sales_world": "1B+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "指でスワイプして果物を切る触感が革命的で、スマホ黎明期のキラーアプリとして世界中で社会現象化。2015年に累計10億DL突破、2021年時点で18億DL超。",
+  "concept": "画面に飛んでくる果物を指でスライスし、爆弾を避ける極めてシンプルなワンタップ／ワンスワイプ・アクション。タッチデバイスの「触って気持ちいい」を最大限引き出した触感ゲームの原典。",
+  "target": "スマホを買ったばかりのライト層・子ども・非ゲーマー含む全年齢層。ルール説明不要で1分で楽しめる時間つぶしを求めるカジュアルユーザー。",
+  "slug": "fruit-ninja",
+  "file": "data/games/1248-fruit-ninja.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fruit_Ninja",
+    "https://www.prnewswire.com/news-releases/with-over-1-8-billion-downloads-storms-and-halfbrick-studios-bring-instantly-playable-fruit-ninja-and-jetpack-joyride-games-to-the-emerging-markets-301243426.html",
+    "https://www.halfbrick.com/games"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

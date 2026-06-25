@@ -1,0 +1,28 @@
+{
+  "id": 1702,
+  "title_jp": "スカイブレイザー",
+  "title_en": "Skyblazer",
+  "developer": "Ukiyotei",
+  "publisher": "Sony Imagesoft",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "発売当時は商業的に振るわなかったがレトロゲーマー界隈で再評価された SNES の隠れた名作アクション。インド神話モチーフと Mode 7 を活用した演出、ボス戦の作り込みが熱心なファン層を生み、海外では『カルト・クラシック』として度々取り上げられる。",
+  "concept": "ヒンドゥー神話のガルーダをモチーフにした主人公スカイが、変身能力（フェニックス・コメット等）を駆使しながら横スクロールで進むアクション・プラットフォーマー。Mode 7 を使った空中ステージや変身による攻撃／移動のバリエーションが特徴。",
+  "target": "16bit 時代の良質アクションを好む層、海外発のスーパーファミコン期アクションのカルト的名作を発掘したい retro gamer 層。日本では『迦楼羅王』としてリリースされ、コアな SFC コレクターからの支持が中心。",
+  "slug": "skyblazer",
+  "file": "data/games/1702-skyblazer.json",
+  "_source_urls": [
+    "https://gamefaqs.gamespot.com/snes/588665-skyblazer",
+    "https://www.nintendolife.com/news/2021/07/after_almost_3_decades_you_can_finally_read_the_comic_for_snes_classic_skyblazer_online",
+    "https://www.super-famicom.jp/data/ka/ka_0023.html",
+    "https://retrothunderdb.com/games/skyblazer"
+  ]
+}

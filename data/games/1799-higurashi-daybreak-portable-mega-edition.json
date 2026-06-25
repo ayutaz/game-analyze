@@ -1,0 +1,34 @@
+{
+  "id": 1799,
+  "title_jp": "ひぐらしデイブレイク ポータブル MEGA EDITION",
+  "title_en": "Higurashi Daybreak Portable Mega Edition",
+  "developer": "Alchemist",
+  "publisher": "Alchemist",
+  "year": 2009,
+  "platform": [
+    "PSP"
+  ],
+  "genre": "3Dタッグ格闘アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "07th Expansion『ひぐらしのなく頃に』IP の格闘ゲーム化として注目され、MEGA EDITION では新キャラ（北条悟史・田無美代子・小此木）と新ストーリーを追加してファンの間で話題に。",
+  "concept": "同人サークル07th Expansion 原作のホラーミステリ『ひぐらしのなく頃に』のキャラクターを、ガンダム VS シリーズ系の 2 on 2 三人称シューティング／格闘システムで戦わせるキャラゲー。MEGA EDITION は前作 Portable の追加要素全部入りバージョン。",
+  "target": "『ひぐらしのなく頃に』ファン層と、PSP のキャラ対戦アクションを求めるアニメ・同人ゲーム愛好者。原作の悲劇的世界観を知ったうえで「キャラ同士が戦う if」を楽しみたい層が中心。",
+  "slug": "higurashi-daybreak-portable-mega-edition",
+  "file": "data/games/1799-higurashi-daybreak-portable-mega-edition.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Higurashi_Daybreak",
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%83%87%E3%82%A4%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF",
+    "https://game.watch.impress.co.jp/docs/news/308284.html",
+    "https://www.4gamer.net/games/101/G010119/20101104009/",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_Daybreak_Portable"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

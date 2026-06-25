@@ -1,0 +1,35 @@
+{
+  "id": 1441,
+  "title_jp": "トゥームレイダー",
+  "title_en": "Tomb Raider",
+  "developer": "Core Design",
+  "publisher": "Eidos Interactive",
+  "year": 1996,
+  "platform": [
+    "PS1",
+    "Saturn",
+    "PC",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションアドベンチャー/3D探索",
+  "sales_jp": "—",
+  "sales_world": "7.5M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ララ・クロフトという女性主人公アイコンを生み、3D アクションアドベンチャー黎明期の代表作として PlayStation のキラータイトルになった。シリーズ累計 7500 万本超のメガフランチャイズに成長した起点。",
+  "slug": "tomb-raider",
+  "file": "data/games/1441-tomb-raider.json",
+  "concept": "古代遺跡を舞台に、ジャンプ・ よじ登り・スイッチ操作・銃撃を組み合わせた本格 3D 探索アクション。立体迷宮を読み解き、トラップを回避しながら秘宝に到達する達成感を主軸に据えた、コンシューマ向け 3D アドベンチャーの原点。",
+  "target": "PS1/Saturn 期に 3D ゲームの新体験を求めた 10-30 代のコアゲーマー。映画的アクションヒロインと謎解き探索を同時に楽しみたい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC",
+    "https://retro-gamer.jp/?p=12830",
+    "https://www.4gamer.net/games/739/G073943/20240902006/"
+  ]
+}

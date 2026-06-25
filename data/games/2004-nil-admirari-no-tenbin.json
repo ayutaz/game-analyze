@@ -1,0 +1,29 @@
+{
+  "id": 2004,
+  "title_jp": "ニル・アドミラリの天秤",
+  "title_en": "Nil Admirari no Tenbin",
+  "developer": "Otomate",
+  "publisher": "Idea Factory / Aksys Games",
+  "year": 2016,
+  "platform": [
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "初週6,987本（帝都幻惑綺譚 PS Vita）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "大正25年（架空）の帝都を舞台にした退廃的世界観と「焚書官」設定が乙女ファンに刺さり、TVアニメ化と続編『クロユリ炎陽譚』『色ドリ撫子（Switch移植）』へ展開。",
+  "concept": "大正ロマン×禁書をテーマにしたオトメイト製の恋愛アドベンチャー。帝國図書情報資産管理局（通称フクロウ）に配属された主人公が、人を狂わせる『マルキ本』を巡る事件を通じて6人の青年と関係を深める物語型ノベル。",
+  "target": "10-30代の女性、特に大正・昭和初期の和風ロマンや退廃美、文学モチーフを好む乙女ゲーム層。じっくりテキストを読み込みたいビジュアルノベル愛好者向け。",
+  "slug": "nil-admirari-no-tenbin",
+  "file": "data/games/2004-nil-admirari-no-tenbin.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Nil_Admirari_no_Tenbin:_Teito_Genwaku_Kitan",
+    "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%89%E3%83%9F%E3%83%A9%E3%83%AA%E3%81%AE%E5%A4%A9%E7%A7%A4_%E5%B8%9D%E9%83%BD%E5%B9%BB%E6%83%91%E7%B6%BA%E8%AD%9A",
+    "https://www.otomate.jp/nil-admirari/",
+    "https://www.famitsu.com/games/t/32693/"
+  ]
+}

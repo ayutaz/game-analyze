@@ -1,0 +1,35 @@
+{
+  "id": 1097,
+  "title_jp": "ゴシップハーバー：マージ & ストーリー",
+  "title_en": "Gossip Harbor: Merge & Story",
+  "developer": "Microfun",
+  "publisher": "Microfun",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マージパズル/ストーリー",
+  "sales_jp": "—",
+  "sales_world": "累計収益 $677M+（2025年単年 $650M+、月間最大 $70M+、DAU 約540万・MAU 約2800万）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "2024年後半に Merge Mansion / Travel Town を抜きマージジャンル世界首位に。1日 $300万超を叩き出し、2025年は Gardenscapes を抜いて売上 3 位級。離婚・裏切り・毒殺といったドロドロ昼ドラ系のストーリーと、レストラン再建のマージパズルを掛け合わせた構成が SNS でバズ。",
+  "concept": "海辺の港町ブリムウェーブを舞台に、料理素材をマージしてヒロイン Quinn の家業レストランを再建しつつ、住民同士のゴシップと一族の謎を暴いていくマージパズル＋ストーリーアドベンチャー。決済 UI と広告 LTV を徹底的に磨き込んだ Microfun のデータドリブン運営が骨格。",
+  "target": "20-40代の女性カジュアル層、海外プレイヤーは特に米国（売上の約4割）。マージ系・お片付け系・Merge Mansion / Travel Town 経験者、昼ドラ的なストーリーで時間をつぶしたい層。",
+  "slug": "gossip-harbor",
+  "file": "data/games/1097-gossip-harbor.json",
+  "_source_urls": [
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/gossip-harbor",
+    "https://naavik.co/digest/gossip-harbors-meteoric-rise-in-merge/",
+    "https://www.gamigion.com/microfuns-gossip-harbor-just-breached-3-million-a-day/",
+    "https://apps.apple.com/jp/app/%E3%82%B4%E3%82%B7%E3%83%83%E3%83%97%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%9E%E3%83%BC%E3%82%B8-%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/id1623318294",
+    "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

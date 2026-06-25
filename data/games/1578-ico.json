@@ -1,0 +1,31 @@
+{
+  "id": 1578,
+  "title_jp": "ICO",
+  "title_en": "ICO",
+  "developer": "SCE Japan Studio (Team Ico)",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2001,
+  "platform": [
+    "PS2",
+    "PS3"
+  ],
+  "genre": "アクションアドベンチャー/パズル",
+  "sales_jp": "—",
+  "sales_world": "700K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "上田文人デビュー作。少年と少女が手を繋いで古城を脱出するミニマルな演出と詩的な世界観が国内外で熱烈なカルト的支持を獲得し、後のアート系ゲームに多大な影響を与えた。",
+  "slug": "ico",
+  "file": "data/games/1578-ico.json",
+  "concept": "「少年と少女が手を繋いで古城から脱出する」を中核に据えたミニマリスト・アクションアドベンチャー。台詞・UI・音楽を極限まで削ぎ落とし、Yorda を護衛し導くインタラクションそのものを物語として体験させる。",
+  "target": "アート性・雰囲気・余白の物語を好む 20-40 代のコアゲーマー、上田文人作品・『ワンダと巨像』『人喰いの大鷲トリコ』のファン、シネマティックで内省的な体験を求める層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ico",
+    "https://ja.wikipedia.org/wiki/ICO_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.famitsu.com/news/202112/06243009.html",
+    "https://www.mobygames.com/game/5158/ico/"
+  ]
+}

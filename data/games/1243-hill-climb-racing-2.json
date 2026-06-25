@@ -1,0 +1,37 @@
+{
+  "id": 1243,
+  "title_jp": "ヒルクライムレース2",
+  "title_en": "Hill Climb Racing 2",
+  "developer": "Fingersoft",
+  "publisher": "Fingersoft",
+  "year": 2016,
+  "platform": [
+    "Android",
+    "iOS",
+    "PC",
+    "Browser"
+  ],
+  "genre": "2D物理マルチプレイヤーレース",
+  "sales_jp": "—",
+  "sales_world": "365M+ DL (Google Play 単体) / シリーズ累計 2B+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "前作と合わせシリーズ累計20億DLを突破したFingersoft最大ヒット。Google Play単体で3.65億DL超、レーシングジャンルの歴代トップグロッシング常連。",
+  "concept": "前作の1人用「坂を登る2D物理ドライブ」を、ゴーストデータと週次イベントで他プレイヤーとタイムを競う非同期マルチプレイヤーレースへ拡張。カップ戦と車両アップグレードで継続動機を組み込んだ。",
+  "target": "モバイルでスキマ時間に1レース回したいカジュアル層と、タイムアタック/アップグレード沼にハマる中重度プレイヤーの両方。家族層・低スペック端末ユーザーまで広く届く。",
+  "slug": "hill-climb-racing-2",
+  "file": "data/games/1243-hill-climb-racing-2.json",
+  "_source_urls": [
+    "https://fingersoft.com/news/2026/01/15/hill-climb-racing-breaks-a-new-record-2-billion-downloads/",
+    "https://fingersoft.com/games/hill-climb-racing-2/",
+    "https://play.google.com/store/apps/details?id=com.fingersoft.hcr2&hl=en_US",
+    "https://apps.apple.com/jp/app/%E3%83%92%E3%83%AB%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0-2/id1146465836",
+    "https://mb.cision.com/Main/68/3563357/1576900.pdf"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

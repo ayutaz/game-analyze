@@ -1,0 +1,29 @@
+{
+  "id": 1065,
+  "title_jp": "Rules of Survival",
+  "title_en": "Rules of Survival",
+  "developer": "NetEase Games",
+  "publisher": "NetEase Games",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "バトルロイヤルシューター（モバイル）",
+  "sales_jp": "—",
+  "sales_world": "280M+ DL（2019時点、2022年6月にサービス終了）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PUBG Mobileより先行配信されたNetEase製モバイルバトロワで、最大300人同時対戦という独自仕様が話題に。2018年10月時点で2.3億DL、2019年11月に2.8億DL突破、東南アジア・南米で特に大ヒット。",
+  "concept": "PUBG型100人バトロワをスマホで先行実装し、さらに「300人マップ」「車両戦」「現金賞金トーナメント」など独自拡張で差別化したNetEase旗艦モバイルシューター。Battlegrounds正規版到来までの空白を埋めた。",
+  "target": "10-30代男性中心、フィリピン・ベトナム・タイ・ブラジルなど新興国スマホゲーマー層。PUBG Mobile配信前に「とにかくバトロワをスマホで遊びたい」需要を吸収した層。",
+  "slug": "rules-of-survival",
+  "file": "data/games/1065-rules-of-survival.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rules_of_Survival",
+    "https://www.neteasegames.com/m/news/media/20190321/30577_803380.html",
+    "https://sensortower.com/blog/rules-of-survival-revenue-75-million"
+  ]
+}

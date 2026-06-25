@@ -1,0 +1,35 @@
+{
+  "id": 1061,
+  "title_jp": "1v1.LOL",
+  "title_en": "1v1.LOL",
+  "developer": "JustPlay.LOL Ltd",
+  "publisher": "JustPlay.LOL Ltd",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "建築型TPS/バトルロイヤル",
+  "sales_jp": "—",
+  "sales_world": "80M+ players (Android 50M+ DL)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Fortnite風の建築バトルをブラウザ／スマホで無料・低スペックで遊べる手軽さが受け、学校や職場のブラウザ層を中心に世界累計 8,000 万プレイヤー超のヒットに。",
+  "concept": "建築と射撃を組み合わせた Fortnite ライクの 1 対 1 / バトルロイヤル PvP を、Web ブラウザとモバイルで無料・短時間プレイ可能にしたカジュアル競技シューター。",
+  "target": "Fortnite を遊びたいがハイスペック PC や据置機を持たない 10 代を中心とした若年層、ブラウザでサクッと PvP したいライト〜中堅 FPS プレイヤー。",
+  "slug": "1v1-lol",
+  "file": "data/games/1061-1v1-lol.json",
+  "_source_urls": [
+    "https://gamefaqs.gamespot.com/pc/400951-1v1lol/data",
+    "https://gamefaqs.gamespot.com/iphone/294533-1v1lol/data",
+    "https://steamdb.info/app/2305790/charts/",
+    "https://www.crazygames.com/game/1v1-lol",
+    "https://www.appbrain.com/app/1v1-lol-battle-royale-game/lol.onevone"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

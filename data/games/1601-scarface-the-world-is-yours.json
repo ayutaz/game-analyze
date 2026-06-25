@@ -1,0 +1,35 @@
+{
+  "id": 1601,
+  "title_jp": "スカーフェイス ザ・ワールド・イズ・ユアーズ",
+  "title_en": "Scarface: The World Is Yours",
+  "developer": "Radical Entertainment",
+  "publisher": "Vivendi Games",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC",
+    "Wii"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "映画『スカーフェイス』の“もしトニー・モンタナが生き延びていたら”という IF を描く公式続編的位置づけのオープンワールド作品として話題化。北米で 200 万本超を売り上げ、2006 年 10 月の米国月間販売 1 位を獲得した。",
+  "slug": "scarface-the-world-is-yours",
+  "file": "data/games/1601-scarface-the-world-is-yours.json",
+  "concept": "1980 年代マイアミを舞台に、襲撃を生き延びたトニー・モンタナがコカイン帝国を再建していく GTA 系オープンワールドアクション。武装・運転・縄張り戦争に加えて、屋敷の家具や像をカスタムし“富を見せつける”収集要素を組み込んだ点が特徴。",
+  "target": "映画『スカーフェイス』ファンと GTA・True Crime 系オープンワールド犯罪アクションを好む 18 歳以上の男性プレイヤー層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Scarface:_The_World_Is_Yours",
+    "https://www.gamespot.com/articles/scarface-tops-october/1100-6161520/",
+    "https://game.watch.impress.co.jp/docs/20061205/scarface.htm",
+    "https://www.4gamer.net/games/021/G002143/20060513220528/",
+    "https://automaton-media.com/articles/newsjp/20251023-362778/"
+  ]
+}

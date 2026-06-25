@@ -1,0 +1,28 @@
+{
+  "id": 1444,
+  "title_jp": "クラッシュ・バンディクー",
+  "title_en": "Crash Bandicoot",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1996,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3D アクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "6.82M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "PS1 を代表するキャラクターアクションとして世界 600 万本超を売り上げ、北米産タイトルとしては異例の日本でも大ヒット。ローカライズでデフォルメされた「クラッシュ」のキャラ性が国内 CM・販促でも社会現象化した。",
+  "concept": "横スクロールと奥行き視点を切り替える 3D プラットフォーマー。狭い通路を走り抜けながら木箱を壊し、ジャンプとスピン攻撃で敵を倒す「テンポの良い 1 ラインアクション」を確立した。",
+  "target": "PS1 世代のキャラクターアクション好き、ファミリー層から小中学生まで。マリオ/ソニックに続く第三のマスコットを求めた当時のプレイヤー層。",
+  "slug": "crash-bandicoot",
+  "file": "data/games/1444-crash-bandicoot.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)",
+    "https://crashynews.wordpress.com/2020/12/14/list-of-unit-sales-for-crash-bandicoot-games-available-sources-ongoing/",
+    "https://terralocalizations.com/2020/11/20/how-localization-made-crash-bandicoot-a-success-in-japan/",
+    "https://www.vgchartz.com/game/406/crash-bandicoot/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1566,
+  "title_jp": "サムライ ウエスタン 活劇侍道",
+  "title_en": "Samurai Western",
+  "developer": "Acquire",
+  "publisher": "Spike / Atlus USA",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクション（剣 vs 銃のハック＆スラッシュ）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "『侍道』スピンオフとして西部劇×サムライという奇抜な舞台設定が話題に。弾を斬り払う「弾き」や、銃弾を紙一重で避けると発動する「高速移動」など、剣で銃に立ち向かうケレン味の強いアクションがコア層に支持された。",
+  "concept": "19世紀末の西部開拓時代を舞台に、東洋の島国からやってきた侍「桐生 吾郎四郎」を操作し、剣一本で銃を持つ無法者たちを斬り伏せる一風変わったハック＆スラッシュアクション。『侍道』シリーズの外伝として、アドベンチャー要素を削ぎ落としステージ制バトルに特化している。",
+  "target": "『侍道』『天誅』などアクワイア系時代劇アクションのファン層、B級・カルト路線の和製アクションを好む 20-40 代男性、剣戟と西部劇の異色クロスオーバーに惹かれるニッチゲーマー。",
+  "slug": "samurai-western",
+  "file": "data/games/1566-samurai-western.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Samurai_Western",
+    "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%B3_%E6%B4%BB%E5%8A%87%E4%BE%8D%E9%81%93",
+    "https://www.acquire.co.jp/samurai_w/",
+    "https://mobygames.com/game/ps2/samurai-western"
+  ]
+}

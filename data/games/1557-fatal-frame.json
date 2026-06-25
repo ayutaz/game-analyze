@@ -1,0 +1,33 @@
+{
+  "id": 1557,
+  "title_jp": "零 ZERO",
+  "title_en": "Fatal Frame",
+  "developer": "Tecmo",
+  "publisher": "Tecmo",
+  "year": 2001,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サバイバルホラー/アドベンチャー",
+  "sales_jp": "0.04M",
+  "sales_world": "0.3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "実話を基にした和風ホラーとカメラ「射影機」で霊を撮影・封印する独自システムが話題に。Jホラーブームと相まって国内外でカルト的人気を獲得し、シリーズ累計200万本超の礎となった。",
+  "concept": "「カメラ越しでしか霊と戦えない」という逆転発想を核にした和風サバイバルホラー。廃墟の旧家を舞台に、行方不明の兄を探す妹が射影機で怨霊を撮影し封印していく、Jホラー直系の恐怖体験。",
+  "target": "サイレントヒルやバイオハザード等の海外ホラーに飽き、和風・心霊・実話怪談系の恐怖を求める10-30代のホラーゲーマー。Jホラー映画ファンや、戦闘より雰囲気・演出で怖がりたい層に強い。",
+  "slug": "fatal-frame",
+  "file": "data/games/1557-fatal-frame.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fatal_Frame_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E9%9B%B6_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.famitsu.com/article/202512/60075",
+    "http://www.tecmo.co.jp/product/zero/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

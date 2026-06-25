@@ -1,0 +1,29 @@
+{
+  "id": 1861,
+  "title_jp": "Rewrite Harvest festa!",
+  "title_en": "Rewrite Harvest festa!",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2012,
+  "platform": [
+    "PC",
+    "PS Vita"
+  ],
+  "genre": "ビジュアルノベル/ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 第8作『Rewrite』(2011) の公式ファンディスク。6 ヒロインの After / If ストーリーを収録し、本編で未消化だった日常パートを補完する一作として旧来 Key ファンに刺さった。2017 年に Prototype が PS Vita 版を発売、英語版も Sekai Project がアナウンスした。",
+  "concept": "『Rewrite』本編のヒロイン 6 人それぞれに After ルートと If ルート（並行世界版）を 1 本ずつ用意した「収穫祭」モチーフのファンディスク。本編では声がなかった主人公・天王寺瑚太朗にもフルボイスを付け、シリアスな本編に対して祝祭的な日常を描く。",
+  "target": "Key（Kanon / AIR / CLANNAD / Little Busters! / Rewrite）系ビジュアルノベルを追ってきた泣きゲー / 萌えゲー読者層。本編 Rewrite をクリアしてヒロインの後日譚を読みたいコア層向け。",
+  "slug": "rewrite-harvest-festa",
+  "file": "data/games/1861-rewrite-harvest-festa.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rewrite_(video_game)",
+    "https://en.wikipedia.org/wiki/List_of_Key_video_games",
+    "https://store.steampowered.com/app/1856600/Rewrite_Harvest_festa/",
+    "https://www.animenewsnetwork.com/news/2017-05-14/rewrite-harvest-festa-ps-vita-game-opening-movie-streamed/.116085"
+  ]
+}

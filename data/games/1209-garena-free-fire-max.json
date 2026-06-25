@@ -1,0 +1,32 @@
+{
+  "id": 1209,
+  "title_jp": "Garena フリーファイア MAX",
+  "title_en": "Garena Free Fire MAX",
+  "developer": "111 Dots Studio / Garena",
+  "publisher": "Garena (Sea Limited)",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/モバイルシューター",
+  "sales_jp": "—",
+  "sales_world": "1.3B+ DL (Free Fire 含む累計、2025年で 1.86B 突破)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "本家 Free Fire のグラフィック強化版として 2021/9/28 にグローバル公開。低スペック端末向け本家と共存しながら新興国（インド・東南アジア・中南米）で爆発的に拡大し、シリーズ累計 18.6 億 DL（2025年1月時点）を記録。",
+  "concept": "Free Fire 本家と同じアカウント・10分マッチ・50人バトロワをハイエンドのグラフィック・ライティング・サウンドで遊び直せる「上位互換クライアント」。本家との完全クロスプレイで、フレンドを選ばずに高画質側に移行できる設計。",
+  "target": "新興国を中心とした 10-20 代のモバイルバトロワ層。PUBG Mobile / CoD Mobile より軽くテンポが速いシューターを、より良い画質で遊びたいライト〜ミドルコア層。",
+  "slug": "garena-free-fire-max",
+  "file": "data/games/1209-garena-free-fire-max.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Free_Fire_(video_game)",
+    "https://ja.wikipedia.org/wiki/Garena_Free_Fire",
+    "https://sensortower.com/ja/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-january-2025-JP",
+    "https://apps.apple.com/jp/app/free-fire-max/id1480516829",
+    "https://play.google.com/store/apps/details?id=com.dts.freefiremax"
+  ]
+}

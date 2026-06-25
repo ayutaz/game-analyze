@@ -1,0 +1,30 @@
+{
+  "id": 1907,
+  "title_jp": "魂響",
+  "title_en": "Tamayura",
+  "developer": "Akabei Soft2",
+  "publisher": "Akabei Soft2 / Yeti",
+  "year": 2006,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP"
+  ],
+  "genre": "和風伝奇ファンタジー・アダルトビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Akabei Soft2 のデビュー作として 2006 年 6 月発売、和風伝奇×退魔ものの群像劇として PC アダルト VN ファンの間で評価され、後に PS2 / PSP 移植や SS スピンオフへ展開。",
+  "concept": "退魔の名家・秋月家の長男トウマが、霞・那美ら家族や仲間とともに妖を狩る日々を送るうち、町に潜む怪異と自身の出生の秘密に巻き込まれていく和風伝奇ビジュアルノベル。ヒロインごとに分岐する複数ルートで「魂の響き合い」をテーマに描く。",
+  "target": "Akabei Soft2 や和風伝奇ジャンル（『朱-Aka-』『 月陽炎』系統）を好む 20-30 代の成人男性 PC アダルト VN ユーザー、および家庭用移植版を求める伝奇 ADV ファン層。",
+  "slug": "tamayura",
+  "file": "data/games/1907-tamayura.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Akabeisoft2",
+    "https://vndbreview.blogspot.com/2019/10/tamayura-akabei-soft2.html",
+    "https://www.mobygames.com/game/114867/tamayura-mitamaokuri-no-uta/",
+    "https://glitchwave.com/game/tamayura/release/%E9%AD%82%E9%9F%BF-%EF%BD%9E%E5%BE%A1%E9%9C%8A%E9%80%81%E3%82%8A%E3%81%AE%E8%A9%A9%EF%BD%9E-playstation-portable-jp/"
+  ]
+}

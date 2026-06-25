@@ -1,0 +1,29 @@
+{
+  "id": 1476,
+  "title_jp": "MDK2",
+  "title_en": "MDK 2",
+  "developer": "BioWare",
+  "publisher": "Interplay",
+  "year": 2000,
+  "platform": [
+    "Dreamcast",
+    "PC",
+    "PS2"
+  ],
+  "genre": "サードパーソンシューター/アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "BioWare が RPG 路線に行く直前に手掛けた異色のアクションシューター。3 人の主人公をキャラごとに切り替える独特のゲーム性とブラックユーモアでカルト的人気を獲得し、2011 年に HD リマスター版が発売された。",
+  "slug": "mdk-2",
+  "file": "data/games/1476-mdk-2.json",
+  "concept": "Shiny Entertainment 製『MDK』の続編を BioWare が引き継いだサードパーソンシューター。Kurt（狙撃）／Max（4 丁拳銃の犬）／Doctor Hawkins（発明家）の 3 キャラを章ごとに切り替えて、それぞれ異なるプレイスタイルで宇宙侵略者と戦う。",
+  "target": "1990 年代末〜2000 年代初頭の PC・Dreamcast 世代のアクションシューターファン、ブラックユーモア・SF パロディを愛するゲーマー、BioWare 初期作品をたどりたい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/MDK2",
+    "https://store.steampowered.com/app/38460/MDK_2/",
+    "https://bioware.fandom.com/wiki/MDK2"
+  ]
+}

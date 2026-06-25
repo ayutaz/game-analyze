@@ -1,0 +1,29 @@
+{
+  "id": 1573,
+  "title_jp": "バーンアウト3 テイクダウン",
+  "title_en": "Burnout 3: Takedown",
+  "developer": "Criterion Games",
+  "publisher": "Electronic Arts",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Xbox"
+  ],
+  "genre": "アーケードレース/クラッシュアクション",
+  "sales_jp": "—",
+  "sales_world": "4M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "ライバルを派手にクラッシュさせる「テイクダウン」システムと爽快なブースト演出で世界的にヒット。発売週の英国チャート1位、Metacritic 94点でアーケードレースの金字塔と評価された。",
+  "concept": "「相手をクラッシュさせて勝つ」ことを正面から肯定した攻撃的アーケードレース。テイクダウンでブーストを増やし、衝突をスローモーション演出で見せる「壊して走る」体験設計が核。",
+  "target": "PS2/Xbox世代のアーケードレース好き、爽快感と派手な演出を求めるカジュアル～ミッドコアゲーマー、オンライン対戦で他プレイヤーを蹴落とす駆け引きを楽しみたい層。",
+  "slug": "burnout-3-takedown",
+  "file": "data/games/1573-burnout-3-takedown.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Burnout_3:_Takedown",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://game.watch.impress.co.jp/docs/20041014/bo3.htm",
+    "https://www.gamespot.com/games/burnout-3-takedown/"
+  ]
+}

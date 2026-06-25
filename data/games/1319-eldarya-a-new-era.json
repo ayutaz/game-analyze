@@ -1,0 +1,38 @@
+{
+  "id": 1319,
+  "title_jp": "Eldarya",
+  "title_en": "Eldarya: A New Era",
+  "developer": "Beemoov",
+  "publisher": "Beemoov",
+  "year": 2015,
+  "platform": [
+    "Browser",
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ファンタジー乙女ゲーム/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "フランスの Beemoov 製ブラウザ／モバイル乙女ゲーで 9 言語に翻訳。「A New Era」は前作『The White Sacrifice』の 7 年後を描く新章として展開し、欧州・南米の乙女ゲーコミュニティで根強いファンを抱える。",
+  "concept": "ファンタジー世界 Eldarya を舞台に、選択肢で分岐する恋愛と仲間との冒険を描くブラウザ／モバイル発の乙女ビジュアルノベル。コンパニオン収集・アバター着せ替え・課金アイテムによるイラスト解放など、運営型 F2P 要素を組み合わせている。",
+  "target": "ファンタジー世界観の長期運営型乙女ゲームを好む 10〜30 代女性層。My Candy Love など Beemoov 系作品のファンや、欧州・南米のブラウザ乙女ゲーカルチャーに親しむプレイヤー。",
+  "slug": "eldarya-a-new-era",
+  "file": "data/games/1319-eldarya-a-new-era.json",
+  "_source_urls": [
+    "https://www.eldarya.com/",
+    "https://us.beemoov.com/",
+    "https://www.igdb.com/games/eldarya",
+    "https://english-otome-games.fandom.com/wiki/Eldarya",
+    "https://play.google.com/store/apps/details?id=com.beemoov.eldarya&hl=en",
+    "https://apps.apple.com/us/app/eldarya-fantasy-otome-game/id1278314591"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

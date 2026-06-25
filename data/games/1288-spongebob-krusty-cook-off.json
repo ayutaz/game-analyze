@@ -1,0 +1,38 @@
+{
+  "id": 1288,
+  "title_jp": "スポンジ・ボブ：クラスティ・クックオフ",
+  "title_en": "SpongeBob: Krusty Cook-Off",
+  "developer": "Nukebox Studios",
+  "publisher": "Tilting Point",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "Switch",
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One"
+  ],
+  "genre": "タイムマネジメント/クッキングシミュレーション",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "事前登録 1,700 万人を集め、iOS 97 カ国・Google Play 79 カ国でローンチ時 Top10 入り。2021 年 10 月時点で全世界 5,000 万 DL を突破し、2021 Mobile Games Awards で Players' Choice 受賞。",
+  "concept": "ニコロデオン人気キャラを使った時間管理型クッキングゲーム。クラスティ・クラブをはじめとするビキニタウンの店舗を切り盛りし、注文をこなしてレシピ・装飾・キャラを集めながら拡張していく。",
+  "target": "スポンジ・ボブ世代の 20-40 代と、Cooking Fever / Diner Dash 系の時間管理ゲームを遊ぶカジュアル女性層。IP ファンと F2P クッキング系常連の両方を取りに行く構成。",
+  "slug": "spongebob-krusty-cook-off",
+  "file": "data/games/1288-spongebob-krusty-cook-off.json",
+  "_source_urls": [
+    "https://spongebob.fandom.com/wiki/SpongeBob:_Krusty_Cook-Off",
+    "https://www.licensingmagazine.com/2021/10/26/tilting-points-spongebob-krusty-cook-off-surpasses-50-million-downloads/",
+    "https://www.gematsu.com/2025/07/spongebob-krusty-cook-off-now-available-for-ps5-xbox-series-ps4-and-xbox-one",
+    "https://www.gamerefinery.com/spongebob-krusty-cook-off-deconstruction/",
+    "https://apps.apple.com/us/app/spongebob-krusty-cook-off/id1433784188"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1120,
+  "title_jp": "Puzzles & Survival",
+  "title_en": "Puzzles & Survival",
+  "developer": "37Games (37 Mobile Games)",
+  "publisher": "37Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル×ゾンビサバイバル4X SLG",
+  "sales_jp": "—",
+  "sales_world": "$1.5B+ lifetime",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "マッチ3パズルと4Xサバイバルストラテジーを融合させたハイブリッド設計で、2022年は日本だけで年間収益+1億ドルを記録。2023年時点で世界累計6,000万DL超、ライフタイム収益$1.5B級に成長し、37Gamesの日本売上の60%超を占める看板タイトルになった。",
+  "slug": "puzzles-and-survival",
+  "file": "data/games/1120-puzzles-and-survival.json",
+  "concept": "ゾンビアポカリプスの世界でシェルター育成・同盟戦争・資源収集を進める4Xストラテジーに、戦闘部分だけマッチ3パズルRPGを差し込んだハイブリッドゲーム。「カジュアルに始められる手触り」と「重課金 SLG の同盟戦」を一本で両立させた点が独自ポジション。",
+  "target": "Homescapes 系マッチ3カジュアルから流入したライト層と、State of Survival / Rise of Kingdoms 系の4X SLGに慣れた中重課金層の橋渡し。30-50代の女性カジュアル層と、同盟戦をやり込む男性ストラテジー層の両方を抱える。",
+  "_source_urls": [
+    "https://naavik.co/deep-dives/puzzles-and-survival-2/",
+    "https://mobilegamer.biz/puzzles-survival-is-close-to-600m-lifetime-revenue-and-clash-of-clans-monthly-earnings/",
+    "https://sensortower.com/ja/blog/puzzles-and-survival-2022-in-japan",
+    "https://gamebiz.jp/news/363857",
+    "https://app.w3g.jp/puzzles-survival",
+    "https://www.gamer.ne.jp/news/202012150060/"
+  ]
+}

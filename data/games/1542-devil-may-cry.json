@@ -1,0 +1,30 @@
+{
+  "id": 1542,
+  "title_jp": "デビル メイ クライ",
+  "title_en": "Devil May Cry",
+  "developer": "Capcom Production Studio 4",
+  "publisher": "Capcom",
+  "year": 2001,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "3Dスタイリッシュアクション/ハック&スラッシュ",
+  "sales_jp": "0.65M",
+  "sales_world": "2.16M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "神谷英樹監督・三上真司プロデュースで、当初『バイオハザード4』として開発されていた企画から派生。銃と剣のスタイリッシュアクションという新ジャンルを確立し、シリーズ累計2700万本超の礎となった。",
+  "concept": "ダンテを操り、銃と剣・空中コンボ・スタイルランクで「いかにカッコよく敵を倒すか」を競う3Dスタイリッシュアクション。クリア時間・被ダメ・スタイルでランク評価される高難度のソロ攻略型。",
+  "target": "硬派なアクションゲーマー、コンボや高ランク取得を楽しむ20-40代男性層、ゴシック・ダークファンタジー世界観を好む層。",
+  "slug": "devil-may-cry",
+  "file": "data/games/1542-devil-may-cry.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Devil_May_Cry_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AF%E3%83%A9%E3%82%A4",
+    "https://www.famitsu.com/news/202008/23204474.html",
+    "https://www.capcom.co.jp/ir/english/business/salesdata.html"
+  ]
+}

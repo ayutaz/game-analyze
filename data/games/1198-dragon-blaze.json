@@ -1,0 +1,31 @@
+{
+  "id": 1198,
+  "title_jp": "Dragon Blaze",
+  "title_en": "Dragon Blaze",
+  "developer": "FLINT",
+  "publisher": "GAMEVIL",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "2D ソーシャル RPG / ヒーロー収集型ガチャ",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL（韓国+グローバル合算、公式公表ベース）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2014 年 2 月に韓国 KakaoTalk 版でリリースされ App Store 1 位 / Google Play 4 位を獲得、累計 500 万 DL に到達。2015 年 5 月のグローバル版配信時にはヴァニラウェア風の手描き 2D 表現と 100 体超のヒーロー収集で英語圏コアゲーマー層からも注目を集めた。",
+  "concept": "FLINT 開発・GAMEVIL 配信の 2D 横スクロール風ソーシャル RPG。100 体以上のヒーローをガチャで集め、ランク D〜SSS まで同名ヒーロー合成で進化させつつ、オートバトル中心のステージ攻略・アリーナ非同期 PvP・ボスレイドを周回する典型的モバイルガチャ RPG。",
+  "target": "韓国・東南アジア・北米のモバイルガチャ RPG 層、ヴァニラウェア調の手描き 2D ドット絵に魅力を感じる海外コアゲーマー、放置・周回・キャラ収集を長期に楽しみたい層。",
+  "slug": "dragon-blaze",
+  "file": "data/games/1198-dragon-blaze.json",
+  "_source_urls": [
+    "https://mmoculture.com/2015/04/dragon-blaze-gamevil-launching-new-mobile-rpg-worldwide-this-may/",
+    "https://mmos.com/review/dragon-blaze",
+    "https://gachagames.fandom.com/wiki/Dragon_Blaze",
+    "https://dbaddiction.fandom.com/wiki/Gamevil"
+  ]
+}

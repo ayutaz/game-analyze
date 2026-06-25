@@ -1,0 +1,32 @@
+{
+  "id": 1646,
+  "title_jp": "ロマンシング サ・ガ",
+  "title_en": "Romancing SaGa",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "RPG/フリーシナリオ",
+  "sales_jp": "0.97M",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "8人の主人公から選べるマルチシナリオと、任意の順序でイベントを進められるフリーシナリオシステムが当時衝撃を与え、国内 97 万本を売り上げた SFC 期スクウェアの代表的 RPG。",
+  "slug": "romancing-saga",
+  "file": "data/games/1646-romancing-saga.json",
+  "concept": "河津秋敏が手がけた『サガ』シリーズ SFC 第 1 作。架空大陸マルディアスを舞台に、8 人の主人公それぞれの視点から邪神サルーイン復活を巡る物語を、フリーシナリオシステムで自由な順序・自由なルートで体験する非線形 RPG。",
+  "target": "ドラクエ／FF 的な一本道 RPG では物足りない自由度志向のプレイヤー、スクウェア／河津サガ系の歯ごたえある戦闘と分岐シナリオを好む 90 年代 RPG ファン層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Romancing_SaGa",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_%E3%82%B5%E3%83%BB%E3%82%AC",
+    "https://www.famitsu.com/news/202001/28191309.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

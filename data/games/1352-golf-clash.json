@@ -1,0 +1,31 @@
+{
+  "id": 1352,
+  "title_jp": "Golf Clash",
+  "title_en": "Golf Clash",
+  "developer": "Playdemic",
+  "publisher": "Electronic Arts",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム1on1ゴルフ対戦/カジュアルスポーツ",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL / $780M+ lifetime revenue",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "1ホール1分のリアルタイム1on1ゴルフ対戦が世界でヒットし、累計収益$780M超・US モバイルスポーツ課金1位を獲得。2021年にEAがPlaydemicを$14億で買収した代表的タイトル。",
+  "concept": "風と狙いをタイムバー&スワイプで決める「30秒で勝負がつくゴルフ対戦」。クラブ強化のガチャ要素を組み合わせ、短時間プレイのリアルタイムPvPとモバイルF2P収益構造を融合したカジュアルスポーツ。",
+  "target": "通勤・休憩時間に短時間でPvPを楽しみたいモバイルユーザー、ゴルフ好きの大人層、Clash系（クラロワ等）のテンポ感を求めるカジュアル課金層。",
+  "slug": "golf-clash",
+  "file": "data/games/1352-golf-clash.json",
+  "_source_urls": [
+    "https://ir.ea.com/press-releases/press-release-details/2021/Electronic-Arts-Acquires-Playdemic-Makers-of-the-Highly-Successful-Golf-Clash-Mobile-Game-From-Warner-Bros.-Games-and-ATT/default.aspx",
+    "https://www.pocketgamer.biz/golf-clash-has-scored-780-million-in-lifetime-revenue-tops-us-player-spending/",
+    "https://sensortower.com/blog/golf-clash-revenue",
+    "https://play.google.com/store/apps/details?id=com.playdemic.golf.android"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2027,
+  "title_jp": "Aviary Attorney",
+  "title_en": "Aviary Attorney",
+  "developer": "Sketchy Logic",
+  "publisher": "Sketchy Logic",
+  "year": 2015,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch",
+    "iOS",
+    "Android"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル（法廷物）",
+  "sales_jp": "—",
+  "sales_world": "Steam owners 100K-200K (SteamSpy)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "1848年パリを舞台に擬人化動物が法廷で戦う逆転裁判系インディーADV。J.J.グランヴィルの公有版画とサン=サーンスの楽曲を全面採用し、Steamで94% Very Positive評価を獲得した珍作。",
+  "concept": "Kickstarterで£18,917を集めて誕生した「動物版・逆転裁判」。19世紀フランスの法廷を舞台に、ハヤブサ弁護士ジェイジェイ・ファルコンが証拠を集め反対尋問で真相を暴く。公有絵画＋クラシック楽曲でクラシカルな雰囲気を演出する。",
+  "target": "逆転裁判やビジュアルノベル系ADVが好きで、シニカルかつアートスタイルに尖ったインディーを掘りたい層。歴史画や西洋クラシック音楽好きにも刺さる。",
+  "slug": "aviary-attorney",
+  "file": "data/games/2027-aviary-attorney.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Aviary_Attorney",
+    "https://store.steampowered.com/app/384630/Aviary_Attorney/",
+    "https://www.mobygames.com/game/80698/aviary-attorney/",
+    "https://www.steamspy.com/app/384630",
+    "https://steamdb.info/app/384630/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

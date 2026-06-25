@@ -1,0 +1,34 @@
+{
+  "id": 1094,
+  "title_jp": "マナー・マターズ",
+  "title_en": "Manor Matters",
+  "developer": "Playrix (Voki Games)",
+  "publisher": "Playrix",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "アイテム探し/マッチ3パズル/館リノベ",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "Playrix 初のアイテム探しゲームとして 2020 年 4 月にグローバル配信。Gardenscapes / Homescapes の系譜で「謎めいた館を片付けながらストーリーが進む」フォーマットが当たり、Sensor Tower 集計で月間数百万ドル規模の収益を継続。",
+  "concept": "古びた洋館「キャッスルウッド・マナー」を相続した主人公が、隠されたアイテムを見つけ出しながら部屋を改装し、屋敷にまつわるミステリーを解いていくアイテム探し+リノベ＋ストーリー進行型のカジュアルゲーム。Playrix お得意の「進行＝部屋を綺麗にする＝物語が進む」サイクルで報酬ループを組み立てている。",
+  "target": "30-50 代の女性中心、Gardenscapes / Homescapes / June's Journey ファン層。短時間の隙間プレイで「片付け・装飾・謎解き」を楽しみたいライトユーザー、ミステリー要素のあるストーリーが好きな層。",
+  "slug": "manor-matters",
+  "file": "data/games/1094-manor-matters.json",
+  "_source_urls": [
+    "https://www.pocketgamer.biz/playrix-manor-matters-launch/",
+    "https://gameworldobserver.com/2020/04/30/manor-matters",
+    "https://sensortower.com/news-feed/playrix-launches-manor-matters-combining-homescapes-with-hidden-object-puzzles/5ea9352e6f86e611548a5710",
+    "https://playrix.fandom.com/wiki/Manor_Matters",
+    "https://play.google.com/store/apps/details?id=com.playrix.manormatters&hl=en"
+  ]
+}

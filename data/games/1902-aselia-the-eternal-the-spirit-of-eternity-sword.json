@@ -1,0 +1,32 @@
+{
+  "id": 1902,
+  "title_jp": "永遠のアセリア -The Spirit of Eternity Sword-",
+  "title_en": "Aselia the Eternal -The Spirit of Eternity Sword-",
+  "developer": "Xuse",
+  "publisher": "Xuse / JAST USA",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP"
+  ],
+  "genre": "SRPG/ビジュアルノベル（異世界召喚・戦略シミュレーション）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Xuse 屈指の長編ノベル+SRPG。複数ルート踏破に最低 6 周必要な重厚な物語と、難易度の高い戦略パートで国内ノベルゲーマーから熱狂的な支持を獲得し、後に PS2/PSP 移植、JAST USA による英語 Steam 版（2017）と海外にも展開した。",
+  "concept": "異世界に召喚された高校生たちが「永遠神剣」を介して精霊たちと契約し、戦争に巻き込まれていく異世界召喚ノベル。3人小隊によるターン制 SLG と分岐ヒロインルートのテキストを融合し、戦略の手応えと長編シナリオの読み応えを両立させた本格派。",
+  "target": "重厚なファンタジー異世界召喚ものとシミュレーション RPG を両方楽しみたい 20-40 代のノベルゲーマー、Xuse 作品ファン、複数周回・複数ルートを腰を据えて読み込みたい層。",
+  "slug": "aselia-the-eternal-the-spirit-of-eternity-sword",
+  "file": "data/games/1902-aselia-the-eternal-the-spirit-of-eternity-sword.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%B0%B8%E9%81%A0%E3%81%AE%E3%82%A2%E3%82%BB%E3%83%AA%E3%82%A2",
+    "https://store.steampowered.com/app/445420/Aselia_the_Eternal_The_Spirit_of_Eternity_Sword/",
+    "https://www.rpgfan.com/game/aselia-the-eternal-the-spirit-of-eternity-sword/",
+    "https://eternitysword.fandom.com/wiki/Eien_no_Aselia"
+  ]
+}

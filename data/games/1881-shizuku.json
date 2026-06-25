@@ -1,0 +1,30 @@
+{
+  "id": 1881,
+  "title_jp": "雫",
+  "title_en": "Shizuku",
+  "developer": "Leaf",
+  "publisher": "Leaf",
+  "year": 1996,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ホラーADV（成人向け）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「ビジュアルノベル」という呼称を初めて掲げた Leaf Visual Novel Series 第1弾。後の Key／TYPE-MOON 系作品群の源流とされ、2026 年には海外有志による初の英語翻訳パッチが公開され国際的に再注目された。",
+  "concept": "高校を舞台に、悪夢と猟奇事件が交錯する心理ホラーをマルチエンディングのテキスト＋立ち絵＋BGMで読ませる作品。「読み物としてのゲーム」を意識的に打ち出し、ジャンル名「ビジュアルノベル」を生んだ起点。",
+  "target": "90年代美少女ゲーム／ノベル系ADVのルーツを辿りたいレトロPC・サウンドノベル愛好層、Key／Type-Moon 以前のアダルトノベル黎明期に関心のあるコア層。",
+  "slug": "shizuku",
+  "file": "data/games/1881-shizuku.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shizuku_(video_game)",
+    "https://www.pcgamer.com/games/visual-novel/the-game-that-coined-the-term-visual-novel-just-got-its-first-ever-fan-translation-for-its-30th-anniversary/",
+    "https://aquaplus.fandom.com/wiki/Shizuku"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

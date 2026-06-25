@@ -1,0 +1,29 @@
+{
+  "id": 1493,
+  "title_jp": "シープ ドッグ アンド ウルフ",
+  "title_en": "Theme Hospital",
+  "developer": "Bullfrog Productions",
+  "publisher": "Electronic Arts",
+  "year": 1998,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "病院経営シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "4M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Bullfrog 黄金期の代表作で世界累計 400 万本超。PS1 版が 1998 年に日本上陸し、ブラックユーモア満載の架空疾患（バルーン頭・チョコ依存症など）と病院運営シミュとして長く語り継がれている。",
+  "concept": "プレイヤーが院長となり、診察室・治療室・スタッフを配置して奇病患者を捌きながら病院を黒字化するコミカルなマネジメント・シミュレーション。Theme Park の医療版として企画され、Bullfrog 流のシステム × ブラックユーモアが融合している。",
+  "target": "Theme Park / SimCity / シムシリーズなど経営シムを好む 20-40 代 PC ゲーマー、ブラックユーモアと箱庭運営を楽しみたいソロプレイ志向層。",
+  "slug": "theme-hospital",
+  "file": "data/games/1493-theme-hospital.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Theme_Hospital",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%BC%E3%83%9E%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB",
+    "https://www.4gamer.net/games/301/G030139/20150729045/",
+    "https://www.mobygames.com/game/674/theme-hospital/"
+  ]
+}

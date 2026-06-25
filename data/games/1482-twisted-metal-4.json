@@ -1,0 +1,27 @@
+{
+  "id": 1482,
+  "title_jp": "ツイステッドメタル4",
+  "title_en": "Twisted Metal 4",
+  "developer": "989 Studios",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "ビークル・コンバット/カーアクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Sweet Tooth が Calypso を倒して大会主催者となる新展開と、3作目より改善されたレベルデザインで評価が回復。PS1末期のカーコンバット系定番として根強いカルト人気を持つ。",
+  "slug": "twisted-metal-4",
+  "file": "data/games/1482-twisted-metal-4.json",
+  "concept": "武装した車両で破壊し合うビークル・コンバットの第4作。1作1作で完結する単発ストーリーと多彩なステージギミック、最大2人対戦のスプリットスクリーン PvP を売りにしたシリーズ転換点。",
+  "target": "PS1世代のカーコンバット/対戦アクション愛好家、Sweet Tooth など Twisted Metal IP のファン、友人と2人画面分割で殴り合うのが好きな北米中心のコア層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Twisted_Metal_4",
+    "https://www.mobygames.com/game/11863/twisted-metal-4/",
+    "https://www.metacritic.com/game/twisted-metal-4/"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1174,
+  "title_jp": "ブレイド&ソウル レボリューション",
+  "title_en": "Blade & Soul Revolution",
+  "developer": "Netmarble",
+  "publisher": "Netmarble",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル MMORPG",
+  "sales_jp": "—",
+  "sales_world": "累計売上 約 5.5 億ドル（2018-12〜2023-01、うち約 84% が韓国）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "popularity": "韓国本国でリリース当日 App Store / Google Play 売上 1 位を獲得し、ネットマーブル韓国モバイル売上の約 25% を単独で稼ぐ大型タイトル。日本では 2019 年 10 月にサービス開始し、原作 PC MMORPG『ブレイド&ソウル』の「軽功」アクションと格闘ゲーム調コンボをスマホに移植した点で注目された。",
+  "concept": "PC 用オンライン MMORPG『ブレイド&ソウル』をモバイルへ全面移植した共闘アクション MMORPG。空中や水上を駆け巡る「軽功」移動、武功による格闘ゲーム的コンボ、巨大ボス討伐、対人 PvP まで揃え、装備強化とガチャによるキャラクター育成を中核ループに据える。",
+  "target": "アジア圏のハードコア MMORPG ファンと、リネージュ2 レボリューション / 二ノ国: Cross Worlds のような重課金 MMO に馴染んだ 20-40 代男性。原作 PC 版経験者の里帰り需要にも応える。",
+  "slug": "blade-and-soul-revolution",
+  "file": "data/games/1174-blade-and-soul-revolution.json",
+  "_source_urls": [
+    "https://bnsr.netmarble.com/ja",
+    "https://app.famitsu.com/20190620_1469610/",
+    "https://www.4gamer.net/games/401/G040141/20191024068/",
+    "https://pickups.jp/global/54057/",
+    "https://gamebiz.jp/news/226763"
+  ]
+}

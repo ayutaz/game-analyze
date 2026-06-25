@@ -1,0 +1,31 @@
+{
+  "id": 1484,
+  "title_jp": "ヴァンパイア ザ・マスカレード: レデンプション",
+  "title_en": "Vampire: The Masquerade - Redemption",
+  "developer": "Nihilistic Software",
+  "publisher": "Activision",
+  "year": 2000,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "アクション RPG / ダークファンタジー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "White Wolf の TRPG「Vampire: The Masquerade」初のフル 3D RPG 化として注目を集め、12世紀プラハから現代ニューヨークへと跨る吸血鬼クリストフの長い旅と、最大 9 人参加可能なストーリーテラー型マルチプレイで国内外のゴシック RPG ファンに熱狂的に支持された。",
+  "concept": "TRPG「ヴァンパイア: ザ・マスカレード」を一人称／三人称視点のアクション RPG として再構築した作品。クリストフの人間性ゲージが選択によって増減し、3 つのエンディングへ分岐する重厚なダークファンタジー体験を提供する。",
+  "target": "TRPG 由来のゴシック・ホラー世界観を好む PC RPG ファン、World of Darkness 世界の愛好者、Diablo 系のアクション RPG と物語性の両立を求める層。",
+  "slug": "vampire-the-masquerade-redemption",
+  "file": "data/games/1484-vampire-the-masquerade-redemption.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Vampire:_The_Masquerade_%E2%80%93_Redemption",
+    "https://www.mobygames.com/game/1709/vampire-the-masquerade-redemption/",
+    "https://store.steampowered.com/app/559680/Vampire_The_Masquerade__Redemption/",
+    "https://www.4gamer.net/review/live/vamp.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1443,
+  "title_jp": "トゥームレイダーIII",
+  "title_en": "Tomb Raider III",
+  "developer": "Core Design",
+  "publisher": "Eidos Interactive",
+  "year": 1998,
+  "platform": [
+    "PS1",
+    "PC",
+    "Mac"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "6M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1998年クリスマス商戦に投入され英国チャート1位・ドイツ年間2位を獲得。シリーズ3作目で難易度急上昇と分岐ステージ採用が話題となり、ララ・クロフトのアイコン化を決定づけた一作。",
+  "concept": "世界4大陸（インド・南太平洋・ロンドン・ネバダ・南極）を股にかけた遺跡探索アクションアドベンチャー。立体パズルとプラットフォーム・銃撃戦・トラップ回避を組み合わせ、プレイヤーが自由に攻略順を選べる分岐構造を導入した。",
+  "target": "PS1/PC世代の海外3Dアクション好き、シリーズ前2作からのファン、難易度の高い探索パズルを好むコアゲーマー層。ララ・クロフトという当時のポップアイコンに惹かれた一般層も含む。",
+  "slug": "tomb-raider-iii",
+  "file": "data/games/1443-tomb-raider-iii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tomb_Raider_III",
+    "https://kopenguin.com/post-68341/",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC",
+    "https://core-design.com/article63.html"
+  ]
+}

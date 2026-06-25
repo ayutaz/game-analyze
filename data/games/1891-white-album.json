@@ -1,0 +1,30 @@
+{
+  "id": 1891,
+  "title_jp": "WHITE ALBUM",
+  "title_en": "White Album",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 1998,
+  "platform": [
+    "PC",
+    "PS3"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Leaf 第6作、『To Heart』に続く名作 ADV。アイドル彼女と主人公のすれ違いと浮気を真正面から描き、当時としては珍しい三角関係・不貞テーマで話題化。2009年テレビアニメ化、2010年 PS3 リメイク、2023年 Steam で『綴られる冬の想い出』として全年齢英中対応リメイク配信。",
+  "concept": "アイドルとして人気が出始めた恋人・森川由綺と、大学生の主人公・藤井冬弥のすれ違いを「冬」と「雪」のモチーフで描く恋愛 ADV。プレイヤーは選択を通じてヒロインたちとの距離を測りながら、別離・浮気・後悔を含む複雑な感情を読み解く。",
+  "target": "1990年代後半の Leaf／葉鍵系ノベルゲーを通った 20-40代のコアな ADV ファン、白い冬の情景と切ない大人の恋愛模様を物語として味わいたい層。",
+  "slug": "white-album",
+  "file": "data/games/1891-white-album.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/White_Album_(video_game)",
+    "https://ja.m.wikipedia.org/wiki/WHITE_ALBUM",
+    "https://store.steampowered.com/app/2432110/WHITE_ALBUM_Memories_like_Falling_Snow/",
+    "https://automaton-media.com/articles/newsjp/20230721-256564/",
+    "https://aquaplus.fandom.com/wiki/WHITE_ALBUM"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1921,
+  "title_jp": "Hello, world.",
+  "title_en": "Hello, world.",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ハートフル近未来学園アダルトADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ニトロプラス作品中最大級の約4.5MBスクリプト・初回30時間超ボリュームで、長大シナリオ系ノベルゲーとして語り継がれる。主人公がロボットという設定や、虚淵玄が初めて深く関与しなかった作品としても話題になった。",
+  "concept": "近未来の秋葉原を舞台に、人間の感情を学習するため作られたロボット少年・友永和樹がヒロインたちとの交流を通じて「好奇心」が「愛情」へと変わっていく過程を描く、近未来学園×サイバーバトルのアダルトビジュアルノベル。",
+  "target": "20-30代の男性アダルトゲーマー、特にニトロプラスやSF系ノベルゲーを好む長文ノベル愛好層。30時間超の重厚な物語を腰を据えて読み込みたいプレイヤー向け。",
+  "slug": "hello-world",
+  "file": "data/games/1921-hello-world.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%22Hello,_world.%22",
+    "https://dic.nicovideo.jp/a/%22hello,%20world.%22",
+    "https://nitroplus.ecq.sc/work/helloworld.html",
+    "https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/game.php?game=2267",
+    "https://www.uvlist.net/game-165627-Hello+World."
+  ],
+  "tags": [
+    "indie"
+  ]
+}

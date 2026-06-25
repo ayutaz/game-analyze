@@ -1,0 +1,33 @@
+{
+  "id": 1073,
+  "title_jp": "Special Forces Group 2",
+  "title_en": "Special Forces Group 2",
+  "developer": "ForgeGames",
+  "publisher": "ForgeGames",
+  "year": 2016,
+  "platform": [
+    "Android",
+    "iOS",
+    "PC"
+  ],
+  "genre": "FPS／オンラインマルチプレイ",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Counter-Strike 1.6 を強くオマージュしたモバイル FPS として 2016 年配信。Google Play で 1 億 DL 超を記録し、新興国を中心にスマホでの CS 風対戦を体験する入り口として定番化した。",
+  "concept": "タッチ操作に最適化された CS 1.6 オマージュの 3D FPS。チームデスマッチ／爆弾解除／ゾンビ／旗取りなど 9 モードと 30 以上のマップ、武器全解放のオフライン＋オンライン対戦を低スペック端末でも遊べるパッケージにまとめた。",
+  "target": "PC 版 Counter-Strike をスマホで気軽に再現したい 10-20 代のライト FPS 層、ボット相手のオフライン練習でストレス無く撃ち合いたい新興国ユーザー、フレンド／LAN で短時間対戦を楽しみたいプレイヤー。",
+  "slug": "special-forces-group-2",
+  "file": "data/games/1073-special-forces-group-2.json",
+  "_source_urls": [
+    "https://special-forces-group.fandom.com/wiki/Special_Forces_Group_2",
+    "https://www.appbrain.com/app/special-forces-group-2/com.ForgeGames.SpecialForcesGroup2",
+    "https://play.google.com/store/apps/details?id=com.ForgeGames.SpecialForcesGroup2&hl=en",
+    "https://special-forces-group-2.en.uptodown.com/windows"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

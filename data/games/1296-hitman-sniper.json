@@ -1,0 +1,31 @@
+{
+  "id": 1296,
+  "title_jp": "ヒットマン スナイパー",
+  "title_en": "Hitman Sniper",
+  "developer": "Square Enix Montréal",
+  "publisher": "Square Enix",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "スナイパー/パズルシューティング",
+  "sales_jp": "—",
+  "sales_world": "28M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Hitman GO に続く Square Enix Montréal のモバイル Hitman 第二弾。スコープ越しに環境ギミックを使って暗殺ルートを発見するパズル性で 2,800 万 DL を突破し、モバイル単発タイトルとして 10M+ DL の節目を達成。",
+  "concept": "湖畔の要塞に集まったターゲットを一発のスナイパーライフルで仕留める、固定視点のパズル型シューティング。エリアハザード（爆発物・吊り橋・電撃柵など）を撃って連鎖暗殺を作り、ハイスコアと多重目標を競う Hitman の派生ブランド。",
+  "target": "Hitman IP のファンと、片手で短時間遊べるスナイパー/パズル系モバイル体験を求める層。コアな PC/コンソール Hitman ユーザーよりも、通勤プレイ層・ハイスコアアタック層に刺さった。",
+  "slug": "hitman-sniper",
+  "file": "data/games/1296-hitman-sniper.json",
+  "_source_urls": [
+    "https://en.m.wikipedia.org/wiki/Hitman:_Sniper",
+    "https://www.square-enix-montreal.com/hitmansniper/",
+    "https://levvvel.com/hitman-statistics/",
+    "https://play.google.com/store/apps/details?id=com.squareenixmontreal.hitmansniperandroid"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2067,
+  "title_jp": "ノーザナル",
+  "title_en": "Nighty Knights",
+  "developer": "Studio Élan",
+  "publisher": "Studio Élan",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "百合ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Highway Blossoms / Heart of the Woods で英語圏百合 VN シーンを牽引した Studio Élan ブランドの新作として、Steam / itch.io の百合タグ層で話題化。",
+  "concept": "Studio Élan が手がける百合（女性同士の恋愛）をテーマにしたビジュアルノベル。読み進める物語体験そのものが主役で、選択肢よりキャラクター描写と関係性の機微を重視する作風。",
+  "target": "英語圏発の百合 / sapphic VN を能動的に追っている読み手層、Highway Blossoms や Heart of the Woods など Studio Élan 既存作のファン。日本では Steam で海外百合 VN を漁る一部の濃いユーザー層。",
+  "slug": "nighty-knights",
+  "file": "data/games/2067-nighty-knights.json",
+  "_source_urls": [
+    "https://vnstudioelan.com/",
+    "https://store.steampowered.com/developer/studioelan/",
+    "https://en.wikipedia.org/wiki/Studio_%C3%89lan"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

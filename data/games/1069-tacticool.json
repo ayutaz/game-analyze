@@ -1,0 +1,36 @@
+{
+  "id": 1069,
+  "title_jp": "Tacticool",
+  "title_en": "Tacticool",
+  "developer": "PanzerDog",
+  "publisher": "PanzerDog",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "5v5 トップダウン PvP タクティカルシューター",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL / $75M+ 収益（2023年時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "見下ろし型 5v5 タクティカルシューターという珍しいフォーマットを成立させ、車での轢殺・破壊可能オブジェクトを含む物理演算とサクサクなマッチ回転で 2023 年までに累計 3,000 万 DL / 7,500 万ドル収益を達成した。2023 年に Steam 版を投入してモバイルから PC へクロスプレイ展開。",
+  "slug": "tacticool",
+  "file": "data/games/1069-tacticool.json",
+  "concept": "「PC FPS の戦術性をスマホの片手操作に圧縮した 5v5 トップダウン PvP シューター」。オペレーター × 70 種類超の銃 × 車両 × 破壊可能環境を組み合わせ、1 マッチ数分のセッションで撃ち合う。",
+  "target": "スマホで本格 PvP シューターを遊びたい 18-35 歳男性層、Brawl Stars よりハードコアで CoD Mobile より軽い遊び口を求める層。装備育成と PvP ランクの両方にハマれるコアプレイヤー。",
+  "_source_urls": [
+    "https://panzerdog.com/",
+    "https://toucharcade.com/2018/11/30/tacticool-soft-launch/",
+    "https://www.pocketgamer.biz/tacticool-reaches-30-million-downloads-milestone-with-75-million-in-revenue/",
+    "https://store.steampowered.com/app/2409060/Tacticool/",
+    "https://sensortower.com/ios/us/panzerdog/app/tacticool/1240200305/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

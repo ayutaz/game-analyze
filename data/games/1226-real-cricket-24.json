@@ -1,0 +1,31 @@
+{
+  "id": 1226,
+  "title_jp": "リアル・クリケット 24",
+  "title_en": "Real Cricket 24",
+  "developer": "Nautilus Mobile",
+  "publisher": "Nautilus Mobile (India)",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "クリケット・シミュレーション/スポーツ",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Mumbai Indians / Lucknow Super Giants / Rajasthan Royals / Sunrisers Hyderabad / Punjab Kings の IPL 5 球団と公式ライセンス契約、250 人超の実名選手収録でインド市場の定番モバイルクリケットゲームに。Sensor Tower 推計では月間 100 万 DL を継続的に獲得。",
+  "concept": "モーキャプ捕球・700 種超のバッティングショットを売りに、ライセンス球団とオンライン対戦を備えた「最も本格的なモバイルクリケットシム」をうたう Nautilus Mobile のフラッグシップ。",
+  "target": "インドを中心とした南アジア・英連邦圏のクリケットファン層。IPL を追う 15-40 代男性が中心で、実名選手や IPL 球団のジャージで対戦したいライト〜ミドルコアモバイルゲーマー。",
+  "slug": "real-cricket-24",
+  "file": "data/games/1226-real-cricket-24.json",
+  "_source_urls": [
+    "https://gamingonphone.com/news/real-cricket-24-from-nautilus-mobile-is-now-available-on-android-and-ios/",
+    "https://www.nautilusmobile.com/rc24-faq",
+    "https://play.google.com/store/apps/details?id=com.nautilus.realcricket",
+    "https://app.sensortower.com/overview/com.nautilus.realcricket?country=IN"
+  ]
+}

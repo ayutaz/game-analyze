@@ -1,0 +1,30 @@
+{
+  "id": 1787,
+  "title_jp": "ひぐらしのなく頃に解 罪滅し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "サウンドノベル/ミステリーADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「解」編の第2話としてコミケ68で頒布され、レナ視点で雛見沢症候群の真相に迫る展開が話題に。MangaGamer/Steam 版（2018 年）で英語圏でも再評価され、ひぐらし全編完結読破の必須章として位置づけられている。",
+  "concept": "ひぐらしのなく頃に「解答編」第2話。出題編「綿流し編」と表裏をなすレナ視点のシナリオで、家族崩壊・廃棄物処理場・部活メンバーへの相談を軸に、雛見沢の呪いを「人の意思で乗り越える」テーゼを提示するサウンドノベル。",
+  "target": "ひぐらし出題編4編を読了済みのミステリ／ホラーADVファン。レナというキャラクターの内面と、シリーズ全体のテーマである「仲間を信じる」物語を腰を据えて味わいたい読者層。",
+  "slug": "higurashi-when-they-cry-hou-ch-6-tsumihoroboshi",
+  "file": "data/games/1787-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E8%A7%A3_%E7%BD%AA%E6%BB%85%E3%81%97%E7%B7%A8",
+    "https://store.steampowered.com/sub/189998",
+    "https://www.animenewsnetwork.com/press-release/2018-06-15/higurashi-when-they-cry-ch-6-tsumihoroboshi-available-now-on-mangagamer-and-steam/.132896",
+    "https://07th-expansion.fandom.com/wiki/Tsumihoroboshi"
+  ]
+}

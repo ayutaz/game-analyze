@@ -1,0 +1,28 @@
+{
+  "id": 2006,
+  "title_jp": "Dairoku 〜AYAKASHIMORI〜",
+  "title_en": "Dairoku: Agents of Sakuratani",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2020,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女向けビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Otomate ブランドの和風ファンタジー乙女ゲームとして 2020 年 5 月に Switch で発売、2021 年に Aksys Games が英語ローカライズして欧米でも展開。妖怪・あやかしを題材にした 5 攻略対象 + 大団円ルート構成と、洗練されたビジュアル・音楽で乙女ゲーマー層からの評価を獲得した。",
+  "slug": "dairoku-agents-of-sakuratani",
+  "file": "data/games/2006-dairoku-agents-of-sakuratani.json",
+  "concept": "「人ならぬ者＝あやかし」が暮らす別次元の街・桜谷を舞台に、政府極秘機関「第六特異事件予防局」の新人あやかし守となった主人公が、九尾の狐や鬼など個性豊かな男性キャラクターと絆を深めていく和風ファンタジー乙女 ADV。読み物としての物語消費が主動機。",
+  "target": "10-30 代女性を中心とした乙女ゲーマー層。和風・神話/民俗モチーフのキャラクター物語を読み込みたい層、Otomate ブランドの安定した作画・音楽・ボイスを求める層に刺さる。",
+  "_source_urls": [
+    "https://www.nintendolife.com/news/2020/12/three_idea_factory_otome_games_are_getting_western_releases_on_switch_next_year",
+    "https://store.aksysgames.com/products/dairoku-agents-of-sakuratani",
+    "https://otomeorganization.fandom.com/wiki/Dairoku:_Agents_of_Sakuratani",
+    "https://www.nookgaming.com/dairoku-agents-of-sakuratani-review/"
+  ]
+}

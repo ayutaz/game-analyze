@@ -1,0 +1,35 @@
+{
+  "id": 1486,
+  "title_jp": "スパイダーマン",
+  "title_en": "Spider-Man",
+  "developer": "Neversoft",
+  "publisher": "Activision",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "N64",
+    "Dreamcast",
+    "PC",
+    "Mac",
+    "Game Boy"
+  ],
+  "genre": "3Dアクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Tony Hawk's Pro Skaterのエンジン流用で実現したウェブスイング操作と、スタン・リーのナレーション、Venom/Carnage/Doctor Octopus 等の人気ヴィランが集結するファンサービスでメタクリ87の高評価を獲得。当時のスパイダーマンゲームを一新した決定版として記憶される。",
+  "concept": "ニューヨークの摩天楼をウェブスイングで縦横無尽に移動し、シンビオート侵略の濡れ衣を晴らすべく宿敵たちと戦う3Dアクション。漫画コマ風のカットシーンとスタン・リーの語りで原作コミックの空気感を再現した、家庭用初の本格的スパイディ体験。",
+  "target": "アメコミ/スパイダーマンのファン、PS1世代のアクションゲーマー、Tony Hawk譲りの軽快な操作感を好む層。10代後半から30代の男性ヒーロー好きが中心。",
+  "slug": "spider-man",
+  "file": "data/games/1486-spider-man.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spider-Man_(2000_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3_(PlayStation%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.metacritic.com/game/spider-man-2000/",
+    "https://comicbook.com/gaming/news/best-spider-man-video-games-playstation-neversoft-pro-skater/"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1030,
+  "title_jp": "Vainglory",
+  "title_en": "Vainglory",
+  "developer": "Super Evil Megacorp",
+  "publisher": "Super Evil Megacorp",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Mac"
+  ],
+  "genre": "MOBA（マルチプレイヤーオンラインバトルアリーナ）",
+  "sales_jp": "—",
+  "sales_world": "月間アクティブ150万人（ピーク期）",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Apple が iPhone 6 発表会で Metal API のグラフィック性能デモに採用し、「スマホで本格 PC 級 MOBA が遊べる」と話題に。元 Riot / Blizzard / Rockstar の開発陣が立ち上げた Super Evil Megacorp の処女作として注目を集め、e スポーツ大会も多数開催された。",
+  "concept": "スマホ・タブレットのタッチ操作に最適化された 3v3 MOBA。League of Legends や Dota 2 譲りの戦略性とメカニクスを、独自エンジン EVIL Engine による高品質グラフィックで携帯端末に持ち込み、後に PC とのクロスプレイにも対応した「元祖モバイル MOBA」。",
+  "target": "League of Legends / Dota 2 / モバイルレジェンド経験者で、外出先でも本格 MOBA を楽しみたい 10-30 代男性中心。タッチ操作で精密なスキルショットや連携を競いたい競技志向プレイヤー。",
+  "slug": "vainglory",
+  "file": "data/games/1030-vainglory.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Vainglory_(video_game)",
+    "https://www.famitsu.com/news/201902/14171951.html",
+    "https://monsterjournal.com/vainglory-the-rise-and-fall-of-the-mobile-moba-ahead-of-its-time/",
+    "https://apps.apple.com/jp/app/vainglory/id671464704"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

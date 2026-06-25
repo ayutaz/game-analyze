@@ -1,0 +1,27 @@
+{
+  "id": 1924,
+  "title_jp": "素晴らしき日々 〜不連続存在〜",
+  "title_en": "Subarashiki Hibi: Furenzoku Sonzai",
+  "developer": "KeroQ",
+  "publisher": "KeroQ / Frontwing",
+  "year": 2010,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/伝奇ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2010年Moe Game Awardsシナリオ部門金賞・総合部門銅賞を受賞。多重視点で同一事件を描く構造とウィトゲンシュタイン哲学を引用した文学的シナリオで「読むビジュアルノベル」の到達点として長くカルト的支持を集め、2017年にFrontwingがSteam英語版『Wonderful Everyday』を出した後は海外でも評価が広がった。",
+  "concept": "「終わる世界」をめぐる同一事件を6人の視点から往復しながら解体していく多重視点ミステリー型ビジュアルノベル。アダルト要素を含みつつも本作の主動機はあくまでテキストを読み続け、断絶した世界観をプレイヤー自身が再構成することにある。",
+  "target": "20-40代を中心とした重厚な物語・哲学的モチーフ・実験的構成を好むコアなビジュアルノベル読者層。Ever17や月姫など長文型ノベルゲームを通った層と親和性が高い。",
+  "slug": "subarashiki-hibi-furenzoku-sonzai",
+  "file": "data/games/1924-subarashiki-hibi-furenzoku-sonzai.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wonderful_Everyday",
+    "https://ja.wikipedia.org/wiki/%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%8D%E6%97%A5%E3%80%85_%E3%80%9C%E4%B8%8D%E9%80%A3%E7%B6%9A%E5%AD%98%E5%9C%A8%E3%80%9C",
+    "https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/"
+  ]
+}

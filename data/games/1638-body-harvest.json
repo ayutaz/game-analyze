@@ -1,0 +1,29 @@
+{
+  "id": 1638,
+  "title_jp": "ボディ ハーベスト",
+  "title_en": "Body Harvest",
+  "developer": "DMA Design",
+  "publisher": "Midway / Gremlin",
+  "year": 1998,
+  "platform": [
+    "N64"
+  ],
+  "genre": "アクションアドベンチャー/オープンワールドシューティング",
+  "sales_jp": "—",
+  "sales_world": "0.30M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "DMA Design（後の Rockstar North）が手掛けた N64 初期のオープンワールド作品で、後の GTA シリーズに繋がる徒歩/車両シームレス設計の原型として再評価されたカルトクラシック。",
+  "concept": "遺伝子改造された兵士アダム・ドレイクとなり、25 年周期で人類を「収穫」しに来るエイリアン軍団を 1916 年から 1966 年まで時代と地域を跨いで阻止するアクションアドベンチャー。徒歩・徒歩→車両乗り換え・大規模屋外マップを 1998 年に実現した先駆作。",
+  "target": "N64 後期の硬派洋ゲー層、レトロゲーム愛好家、Rockstar / GTA のルーツに興味があるゲーム史好き。",
+  "slug": "body-harvest",
+  "file": "data/games/1638-body-harvest.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Body_Harvest",
+    "https://www.timeextension.com/features/the-making-of-body-harvest-the-n64-cult-classic-that-went-through-development-hell",
+    "https://www.nintendolife.com/games/n64/body_harvest"
+  ]
+}

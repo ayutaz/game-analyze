@@ -1,0 +1,29 @@
+{
+  "id": 1864,
+  "title_jp": "planetarian 〜雪圏球〜",
+  "title_en": "Planetarian: Snow Globe",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "キネティックノベル/SF",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『planetarian 〜ちいさなほしのゆめ〜』の17年ぶりの新作前日譚として2021年9月にWindows版が発売、2024年にSteam/Switch版（英・仏・中翻訳付き）で再注目された。OVA版クラウドファンディングは支援総額7,798万円でサクセス。",
+  "concept": "終末世界の少し前、廃墟になりゆく街のプラネタリウムに勤めるロボット「ほしのゆめみ」の在りし日を描いた、選択肢のないキネティックノベル。本編『ちいさなほしのゆめ』の前日譚として位置づけられる。",
+  "target": "Key 作品（AIR / CLANNAD / Kanon / Rewrite）や原作『planetarian』のファン、ポストアポカリプスもの・静かな別れの物語を読みたい20-40代のビジュアルノベル愛好層。",
+  "slug": "planetarian-snow-globe",
+  "file": "data/games/1864-planetarian-snow-globe.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Planetarian:_The_Reverie_of_a_Little_Planet",
+    "https://store.steampowered.com/app/2983350/planetarian_Snow_Globe/?l=japanese",
+    "https://www.gematsu.com/2024/04/planetarian-the-reverie-of-a-little-planet-snow-globe-announced-for-switch",
+    "https://www.animatetimes.com/news/details.php?id=1580271621"
+  ]
+}

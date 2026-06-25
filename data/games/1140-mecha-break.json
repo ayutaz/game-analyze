@@ -1,0 +1,35 @@
+{
+  "id": 1140,
+  "title_jp": "メカブレイク",
+  "title_en": "Mecha BREAK",
+  "developer": "Amazing Seasun Games",
+  "publisher": "Amazing Seasun Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "Xbox Series X/S"
+  ],
+  "genre": "メカ対戦TPS / ヒーローシューター",
+  "sales_jp": "—",
+  "sales_world": "Steam OBT 同接 31万超 / 正式版同接 13万超",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中国 Seasun 製の高機動メカ対戦TPS。2025年2月のOBTでSteam同接31万人超、7月の正式リリース初日も同接13万人超のロケットスタートで話題化した。一方で課金周りに不満が集中しレビューは賛否両論。",
+  "concept": "ストライカーと呼ばれる多彩なメカ機体を操り、3対3〜最大30人PvPvEまでをカバーするマルチプレイ専用の高機動メカTPS。アーマードコア系の重量感とヒーローシューターのロール制を融合させ、空中・地上を入り乱れて戦う基本無料タイトル。",
+  "target": "メカ／ロボットアクションが好きな10-30代男性中心。ガンダム／アーマードコア／OverwatchやApexのようなロール制マルチを横断したい層、PvPで継続的にランクを上げたいFTPシューター層。",
+  "slug": "mecha-break",
+  "file": "data/games/1140-mecha-break.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mecha_Break",
+    "https://store.steampowered.com/app/2452280/Mecha_BREAK/",
+    "https://automaton-media.com/articles/newsjp/mecha-break-20250702-347178/",
+    "https://news.denfaminicogamer.jp/news/250223m",
+    "https://www.gamespark.jp/article/2025/07/02/154638.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2002,
+  "title_jp": "DIABOLIK LOVERS",
+  "title_en": "Diabolik Lovers",
+  "developer": "Rejet",
+  "publisher": "Idea Factory",
+  "year": 2012,
+  "platform": [
+    "PSP",
+    "PS Vita"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ドM向け吸血鬼ボーイズに「噛まれる」というSな展開で乙女ゲーム界に衝撃を与えたヒット作。シリーズ化・アニメ化・舞台化・CDドラマ展開で長期 IP に発展した。",
+  "concept": "牧師の娘・小森ユイが吸血鬼一族「逆巻家」6兄弟の屋敷に送り込まれ、噛まれ・支配されながら自らの出自の謎を追うドS吸血鬼×ドM主人公の乙女ビジュアルノベル。各キャラのルートが Dark / Maniac / Ecstasy の3層構造で進行する。",
+  "target": "10-30代女性、特にダークで支配的な男性キャラに惹かれる乙女ゲーム/BLCD ファン層。Rejet 系シチュエーション CD のヘビーリスナーと親和性が高い。",
+  "slug": "diabolik-lovers",
+  "file": "data/games/2002-diabolik-lovers.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Diabolik_Lovers",
+    "https://diabolik-lovers.fandom.com/wiki/Diabolik_Lovers_~Haunted_Dark_Bridal~",
+    "https://gamefaqs.gamespot.com/psp/658422-diabolik-lovers/data"
+  ]
+}

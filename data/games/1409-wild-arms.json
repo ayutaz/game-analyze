@@ -1,0 +1,30 @@
+{
+  "id": 1409,
+  "title_jp": "ワイルドアームズ",
+  "title_en": "Wild Arms",
+  "developer": "Media.Vision",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1996,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "ウエスタンRPG",
+  "sales_jp": "410K-710K",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS初期SCE三大RPG（アークザラッド・ポポロクロイスと並ぶ）の一角として国内40万本超を売り上げ、西部劇×ファンタジーの独自世界観となるけたかのフィールド曲が話題に。シリーズ化への礎となった。",
+  "concept": "荒廃した惑星ファルガイアを舞台に、ARM（古代銃器）を持つ三人の渡り鳥が魔族と戦うウエスタン風JRPG。2Dフィールド探索＋3Dバトル＋謎解きダンジョンを軸に、王道JRPGの骨格にウエスタンの叙情をかぶせた。",
+  "target": "1990年代後半のPS世代JRPGファン、ドラクエ／FF以外の中堅RPGを楽しみたい層、西部劇や荒野ロマンに惹かれる10-30代男性プレイヤー。",
+  "slug": "wild-arms",
+  "file": "data/games/1409-wild-arms.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wild_Arms_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%A2%E3%83%BC%E3%83%A0%E3%82%BA",
+    "https://ssl.media-vision.co.jp/works/475",
+    "https://gamesdata.info/soft-1996.html"
+  ]
+}

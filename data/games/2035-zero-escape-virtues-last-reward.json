@@ -1,0 +1,33 @@
+{
+  "id": 2035,
+  "title_jp": "極限脱出ADV 善人シボウデス",
+  "title_en": "Zero Escape: Virtue's Last Reward",
+  "developer": "Chunsoft",
+  "publisher": "Spike Chunsoft / Aksys Games",
+  "year": 2012,
+  "platform": [
+    "3DS",
+    "PS Vita",
+    "PC",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル（脱出パズル）",
+  "sales_jp": "—",
+  "sales_world": "unknown (日本では商業的に振るわず続編が一時凍結、後年 The Nonary Games バンドルで再評価)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「9人が極限状況で裏切り合うサスペンス × タイムリープ多重分岐」という構造で熱狂的カルト人気を獲得。日本では振るわなかったが海外評価が高く、後年 PC/PS4/Xbox One 版 The Nonary Games バンドルで再評価された。",
+  "concept": "シリーズ 2 作目。9 人の参加者が「アンビデックス・ゲーム」で互いを裏切るか協力するかを迫られる SF サスペンス AVN。脱出パズル＋多重分岐＋メタ構造で「全ルート読破して真相に辿り着く」設計。",
+  "target": "999 (極限脱出) のファン、論理パズルと哲学的 SF テーマを楽しめる読み手、Ever17 / Steins;Gate 系のループもの・メタ構造 AVN が好きな層。",
+  "slug": "zero-escape-virtues-last-reward",
+  "file": "data/games/2035-zero-escape-virtues-last-reward.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Zero_Escape:_Virtue's_Last_Reward",
+    "https://en.wikipedia.org/wiki/Zero_Escape",
+    "https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/"
+  ]
+}

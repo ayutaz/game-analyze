@@ -1,0 +1,33 @@
+{
+  "id": 1627,
+  "title_jp": "オウガバトル64",
+  "title_en": "Ogre Battle 64: Person of Lordly Caliber",
+  "developer": "Quest",
+  "publisher": "Atlus / Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64",
+    "Wii",
+    "Wii U"
+  ],
+  "genre": "リアルタイムシミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "0.30M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "オウガバトルサーガ3作目として N64 で展開された幻の戦略 RPG。エレファントカシマシ宮本浩次が出演したCMと、ルート分岐＋編成自由度の高さで現在もカルト的人気を保つ。",
+  "concept": "ユニット編成と進軍ルートで戦況が変わるリアルタイム戦略 RPG。3×3 グリッドの陣形・転職システム・カリスマ値に左右される分岐エンディングを軸に、政争と内戦を体験させる骨太な松野泰己系タクティクス。",
+  "target": "タクティクスオウガ / FFT などの戦略 RPG ファン、政治・群像劇込みの重厚な物語を遊びたい層、自由度の高いクラスチェンジと編成を試行錯誤したい中〜上級プレイヤー。",
+  "slug": "ogre-battle-64-person-of-lordly-caliber",
+  "file": "data/games/1627-ogre-battle-64-person-of-lordly-caliber.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ogre_Battle_64",
+    "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AC%E3%83%90%E3%83%88%E3%83%AB64",
+    "https://www.famitsu.com/article/202407/10404",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_nobj/index.html",
+    "https://www.vgchartz.com/game/3949/ogre-battle-64-person-of-lordly-caliber/"
+  ]
+}

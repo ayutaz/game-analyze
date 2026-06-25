@@ -1,0 +1,32 @@
+{
+  "id": 1095,
+  "title_jp": "エンパイア＆パズル",
+  "title_en": "Empires & Puzzles",
+  "developer": "Small Giant Games",
+  "publisher": "Zynga",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル RPG / 城建設",
+  "sales_jp": "—",
+  "sales_world": "95M+ DL / 累計$2.4B+",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "マッチ3にヒーロー収集とギルド戦を融合させたパズルRPGの代名詞。2017年リリースから累計95M DL超・累計収益$2.4Bを突破し、Small Giantの922Mドル Zynga買収を実現させた長期サービス型ヒット。",
+  "concept": "マッチ3パズルを戦闘システムに置き換え、英雄ガチャ・育成・城建設・アライアンス対戦を一体化したミドルコアRPG。「カジュアルな操作×重課金ガチャ×ギルド非同期PvP」の鉄板構造でロングランしている。",
+  "target": "20-40代のパズル/RPG愛好層、特に英雄コレクションとギルド運営を継続的に楽しみたいミッドコアモバイル課金層。スキマ時間に遊びつつ長期育成を求めるプレイヤー。",
+  "slug": "empires-and-puzzles",
+  "file": "data/games/1095-empires-and-puzzles.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Small_Giant_Games",
+    "https://sensortower.com/blog/empires-and-puzzles-revenue-500-million",
+    "https://www.gamedeveloper.com/business/zynga-owned-i-empires-puzzles-i-has-surpassed-34-million-downloads",
+    "https://gameworldobserver.com/2021/05/28/small-giant-games-made-over-e400-million-in-2020",
+    "https://www.4gamer.net/games/683/G068374/"
+  ]
+}

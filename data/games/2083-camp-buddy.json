@@ -1,0 +1,32 @@
+{
+  "id": 2083,
+  "title_jp": "Camp Buddy",
+  "title_en": "Camp Buddy",
+  "developer": "BLits Games",
+  "publisher": "BLits Games",
+  "year": 2018,
+  "platform": [
+    "PC",
+    "Mac"
+  ],
+  "genre": "BL（ボーイズラブ）ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "クラウドファンディングで開発資金を集め、英語圏 BL/Yaoi VN の代表作として独自コミュニティを形成。発売から 7 年経った現在も周年セールや派生展開（Scoutmaster Season、各種 DLC、フィジカルグッズ）が継続している。",
+  "concept": "夏のスカウト風サマーキャンプ「Camp Buddy」に参加した主人公 Keitaro Nagame が、幼馴染や個性的なキャンパー仲間たちと関係を深めていく BL ビジュアルノベル。5 名の攻略キャラクター × 75 時間超のプレイ時間を持つ大ボリューム作。",
+  "target": "英語圏を中心とした BL/Yaoi VN ファン、男性キャラクター同士のロマンスをじっくり読みたい層、インディー成人向けアドベンチャーの長尺シナリオを求める層。",
+  "slug": "camp-buddy",
+  "file": "data/games/2083-camp-buddy.json",
+  "_source_urls": [
+    "https://www.blitsgames.com/product/camp-buddy-digital-download/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CampBuddy",
+    "https://blitsgames.itch.io/camp-buddy",
+    "https://www.blitsgames.com/camp-buddy-seventh-anniversary/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1723,
+  "title_jp": "トージャム&アール",
+  "title_en": "ToeJam & Earl",
+  "developer": "Johnson Voorsanger Productions",
+  "publisher": "Sega",
+  "year": 1991,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ローグライク/アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "メガドライブ初期の異色作。当初の売上は低調ながら口コミとファンクなBGM・ユーモラスな世界観で「スリーパーヒット」となり、セガのマスコット的存在に。2画面協力プレイも当時革新的で長く語り継がれている。",
+  "concept": "宇宙からのファンクなエイリアン2人が地球に不時着し、ランダム生成される地球の各レイヤーを探索して破損したロケットの10個のパーツを回収して帰還を目指す、ローグライク風アクションアドベンチャー。Diablo以前にランダム生成を採用した先駆的な作品。",
+  "target": "メガドライブ世代のレトロゲームファン、ローグライクの歴史を辿りたい層、ヒップホップ/ファンク文化やB級ユーモアを愛するプレイヤー、2人協力でゆるく遊びたい層。",
+  "slug": "toejam-and-earl",
+  "file": "data/games/1723-toejam-and-earl.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/ToeJam_%26_Earl",
+    "https://vc.sega.jp/vc_toejam/",
+    "https://www.famitsu.com/news/201211/19024610.html",
+    "https://game.watch.impress.co.jp/docs/review/1230321.html"
+  ]
+}

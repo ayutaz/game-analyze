@@ -1,0 +1,30 @@
+{
+  "id": 1412,
+  "title_jp": "ルナ2 エターナルブルー",
+  "title_en": "Lunar 2: Eternal Blue Complete",
+  "developer": "Game Arts/Japan Art Media",
+  "publisher": "Working Designs / ESP",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "JRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Sega CD 版 Lunar: Eternal Blue の PS1 リメイク。アニメ ムービー追加・脚本拡張・Working Designs の凝った北米コレクターズ版で 90 年代後半 JRPG ファンの間でカルト的な人気を獲得。",
+  "concept": "ルナ世界の千年後を舞台にした王道 JRPG の決定版リメイク。少年ヒイロと謎の少女ルーシアの旅を、フルアニメ オープニング・声優ボイス・追加シナリオで魅せる「読ませる/見せる」物語体験を志向。",
+  "target": "Lunar シルバースターストーリーをプレイした 90 年代 JRPG ファン、王道ボーイ ミーツ ガール ファンタジーを腰を据えて読み込みたい層、Game Arts 製アニメ調 RPG のテイストを好む層。",
+  "slug": "lunar-2-eternal-blue-complete",
+  "file": "data/games/1412-lunar-2-eternal-blue-complete.json",
+  "_source_urls": [
+    "https://lunar.fandom.com/wiki/Lunar_2:_Eternal_Blue_Complete",
+    "https://en.wikipedia.org/wiki/Lunar:_Eternal_Blue",
+    "https://www.mobygames.com/game/playstation/lunar-2-eternal-blue-complete",
+    "https://store.playstation.com/ja-jp/product/JP0184-NPJJ00717_00-0000000000000001"
+  ]
+}

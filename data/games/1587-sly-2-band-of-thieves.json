@@ -1,0 +1,30 @@
+{
+  "id": 1587,
+  "title_jp": "怪盗スライ2",
+  "title_en": "Sly 2: Band of Thieves",
+  "developer": "Sucker Punch Productions",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2004,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ステルスアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作からステルス要素を大幅強化し、スライ・ベントレー・マレーの3キャラ切替えによるケイパー（強盗計画）構成で「PS2ベストアクション」常連入り。Sly Trilogy として PS3 HD コレクション化以降、海外コア層の根強いカルト人気を維持。",
+  "concept": "義賊一族の末裔スライ・クーパーが盗賊団を率い、世界各地のヴィラから盗まれた『Clockwerk』のパーツを取り返すケイパー型ステルスアクション。スライ（潜入）／ベントレー（ハッキング）／マレー（怪力）の3キャラを場面ごとに切替え、ミッション単位ではなく『広いハブステージで複数の準備タスクをこなしてから本番強奪に挑む』設計が特徴。",
+  "target": "PS2世代に育った海外コア層、ステルス×3Dプラットフォーマーが好きな層、Jak/Ratchet/Sly のソニー三大マスコットアクションを比較しながら遊ぶゲーマー、ケイパー（強盗計画）モノが好きな大人層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sly_2:_Band_of_Thieves",
+    "https://www.vgchartz.com/game/2072/sly-2-band-of-thieves/",
+    "https://www.yuablog.jp/entry/SlyCooper2",
+    "https://www.gavas.jp/products/detail.php?product_id=11335"
+  ],
+  "slug": "sly-2-band-of-thieves",
+  "file": "data/games/1587-sly-2-band-of-thieves.json"
+}

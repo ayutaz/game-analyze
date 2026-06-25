@@ -1,0 +1,30 @@
+{
+  "id": 1760,
+  "title_jp": "Fate/EXTRA",
+  "title_en": "Fate/EXTRA",
+  "developer": "TYPE-MOON / Imageepoch",
+  "publisher": "マーベラスエンターテイメント",
+  "year": 2010,
+  "platform": [
+    "PSP"
+  ],
+  "genre": "ダンジョンRPG/ノベル",
+  "sales_jp": "100K+",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "TYPE-MOON 初の本格コンシューマー RPG として注目され、発売週は週間 2 位・初週 7.2 万本。電脳世界の聖杯戦争という独自設定と、ネロ／無銘／キャスター（玉藻の前）など後の Fate シリーズに広がる人気サーヴァントの初登場作として語り継がれる。",
+  "slug": "fate-extra",
+  "file": "data/games/1760-fate-extra.json",
+  "concept": "Fate/stay night の並行世界として「電脳空間で行われる聖杯戦争」を描くダンジョン RPG。週ごとにダンジョンを攻略し週末に一対一でサーヴァントを操作するターン制バトルへ挑む、ノベル＋ローグ的構造のシングルプレイ専用作品。",
+  "target": "Fate シリーズの世界観を深掘りしたい TYPE-MOON ファン、ジャンプ系よりオタク文学寄りのキャラクター物語を好む 20-30 代の男性 PSP ユーザー。後年の Fate/Grand Order や Fate/EXTELLA からシリーズに入ったファンの「ルーツ探訪」需要も大きい。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/Extra",
+    "https://www.marv.jp/titles/cs/650/",
+    "https://www.inside-games.jp/article/2010/07/29/43429.html",
+    "https://www.4gamer.net/games/099/G009987/"
+  ]
+}

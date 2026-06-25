@@ -1,0 +1,36 @@
+{
+  "id": 1261,
+  "title_jp": "マジックタイル3",
+  "title_en": "Magic Tiles 3",
+  "developer": "Amanotes",
+  "publisher": "Amanotes",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "音楽/リズムアクション",
+  "sales_jp": "—",
+  "sales_world": "1B+ DL (Amanotes累計、Magic Tiles 3単体で10億DL超と公表)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "ベトナム発Amanotesの代表作で、累計10億DLを超える世界的なヒット音ゲー。45,000曲以上の楽曲ライブラリと「黒いタイルだけタップする」極めて簡単なルールが、新興国・カジュアル層まで広く浸透した。",
+  "concept": "落ちてくる黒タイルをリズムに合わせてタップするだけのシンプルなピアノ型音ゲー。膨大な楽曲ライブラリと週次大会・ランキングで、操作習熟ではなく「気軽に音楽と遊ぶ」体験を世界規模に拡げた。",
+  "target": "10-40代の男女、特に通勤・休憩中の隙間時間にカジュアルに遊びたい層と、新興国を含むスマホファースト層。音ゲー初心者でも即遊べる軽さが刺さる。",
+  "slug": "magic-tiles-3",
+  "file": "data/games/1261-magic-tiles-3.json",
+  "_source_urls": [
+    "https://www.amanotes.com/post/3billiondownloads",
+    "https://apps.apple.com/us/app/magic-tiles-3-piano-game/id1443446174",
+    "https://play.google.com/store/apps/details?id=com.youmusic.magictiles",
+    "https://southeast-asia-game.fandom.com/wiki/Magic_Tiles_3",
+    "https://sensortower.com/android/us/amanotes/app/magic-tiles-3/com.youmusic.magictiles"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

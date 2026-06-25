@@ -1,0 +1,27 @@
+{
+  "id": 1750,
+  "title_jp": "DEAD OR ALIVE 3",
+  "title_en": "Dead or Alive 3",
+  "developer": "Team Ninja",
+  "publisher": "Tecmo",
+  "year": 2001,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "3D対戦格闘",
+  "sales_jp": "—",
+  "sales_world": "2M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "初代 Xbox の北米ローンチタイトルとして登場し、立体的なステージギミックとホールド主体の三すくみシステム、当時最高峰の女性キャラのビジュアルで話題に。世界累計 200 万本超を売り上げ、シリーズ最大のヒット作となった。",
+  "concept": "立体的に高低差や破壊可能オブジェクトを持つステージで戦う 3D 対戦格闘。打撃・投げ・ホールドの三すくみと、Xbox の描画力を活かした滑らかなキャラクターモデルで、シリーズの方向性を決定付けた一作。",
+  "target": "Xbox ローンチで本格格闘を求めたコアゲーマー層、DOA / バーチャファイター / 鉄拳系の 3D 格闘ファン、女性キャラ含むビジュアル重視の格ゲーユーザー。",
+  "slug": "dead-or-alive-3",
+  "file": "data/games/1750-dead-or-alive-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dead_or_Alive_3",
+    "https://deadoralive.fandom.com/wiki/Dead_or_Alive_3",
+    "https://www.xbox.com/en-US/games/store/dead-or-alive-3/9pmvzjs9zbv0"
+  ]
+}

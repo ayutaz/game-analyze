@@ -1,0 +1,28 @@
+{
+  "id": 1786,
+  "title_jp": "ひぐらしのなく頃に解 目明し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.5 Meakashi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2004,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「ひぐらしのなく頃に解」シリーズの第1話（通算第5話）にして初の解答編。コミケ67で頒布され、雛見沢連続怪死事件の真相に踏み込む園崎詩音視点の悲恋ミステリーとして読者に衝撃を与えた。MangaGamer による Steam 版 (2017) は Overwhelmingly Positive 評価。",
+  "concept": "出題編で提示された雛見沢連続怪死事件の謎に、初めて「解答」の輪郭を与える解編の起点。園崎詩音と北条悟史の悲恋を縦軸に、ヤマイヌ・御三家・オヤシロさまの祟りといった伏線を一気に開示するサウンドノベル。",
+  "target": "出題編「鬼隠し編」から「罪滅し編」までを通しでプレイ済みのミステリー/ホラー好き読者層。長編テキストとループ構造のミステリーを腰を据えて読み解きたい同人ノベル愛好家。",
+  "slug": "higurashi-when-they-cry-hou-ch5-meakashi",
+  "file": "data/games/1786-higurashi-when-they-cry-hou-ch5-meakashi.json",
+  "_source_urls": [
+    "https://07th-expansion.fandom.com/wiki/Meakashi",
+    "https://store.steampowered.com/app/577480/Higurashi_When_They_Cry_Hou__Ch_5_Meakashi/",
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E8%A7%A3_%E7%9B%AE%E6%98%8E%E3%81%97%E7%B7%A8",
+    "https://steamdb.info/app/577480/"
+  ]
+}

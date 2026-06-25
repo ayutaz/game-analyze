@@ -1,0 +1,32 @@
+{
+  "id": 1268,
+  "title_jp": "マーベル フューチャーファイト",
+  "title_en": "Marvel Future Fight",
+  "developer": "Netmarble Monster",
+  "publisher": "Netmarble",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "アクションRPG/ヒーロー収集",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "MCU連動の大型コラボとPeter David脚本のシナリオで全世界148カ国配信、サービス開始2年で50M DL、長期運営で11周年を迎えるマーベル公式モバイルRPGの代表格。",
+  "concept": "270体超のマーベルヒーロー・ヴィランを集めて編成し、3人パーティでアクションバトルを行う収集型アクションRPG。MCU/コミック双方の衣装（ユニフォーム）とTierアップグレードによる育成深度が中核。",
+  "target": "マーベルIPファンの男性中心、20-40代のモバイルゲーマー。長期運営の収集・育成・最強キャラ追求が好きなコレクター層と、MCU新作公開に合わせて触りに戻るライト層の両方をカバー。",
+  "slug": "marvel-future-fight",
+  "file": "data/games/1268-marvel-future-fight.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Marvel:_Future_Fight",
+    "https://www.marvel.com/games/marvel-future-fight",
+    "https://www.marvelfuturefight.com/ja",
+    "https://prtimes.jp/main/html/rd/p/000002478.000007736.html",
+    "https://apps.apple.com/us/app/marvel-future-fight/id955705796"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1771,
+  "title_jp": "歌月十夜",
+  "title_en": "Kagetsu Tohya",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2001,
+  "platform": [
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/同人ファンディスク",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『月姫』本編1年後を描く同人ファンディスクとしてコミックマーケット60で頒布。奈須きのこの追加シナリオと『十夜』連作で熱狂的なファン層を獲得し、後の TYPE-MOON ブランド成立の礎となった。",
+  "concept": "『月姫』事件の1年後、事故で奇妙な夢に閉じ込められた志貴が同じ一日を繰り返す。本編シナリオ「黄昏ガラス硝子の月、御伽噺の姫君」と短編集『十夜』で構成された、月姫世界のサイドストーリー・ファンディスク。",
+  "target": "『月姫』をクリアしたコアファン、TYPE-MOON 黎明期作品を追体験したい同人/ビジュアルノベル愛好層。",
+  "slug": "kagetsu-tohya",
+  "file": "data/games/1771-kagetsu-tohya.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E6%AD%8C%E6%9C%88%E5%8D%81%E5%A4%9C",
+    "https://typemoon.fandom.com/wiki/Kagetsu_Tohya",
+    "https://tsukihime.fandom.com/wiki/Kagetsu_Tohya"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

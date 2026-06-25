@@ -1,0 +1,30 @@
+{
+  "id": 1993,
+  "title_jp": "ジャックジャンヌ",
+  "title_en": "Jack Jeanne",
+  "developer": "Broccoli",
+  "publisher": "Broccoli / Aksys Games",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル+リズム",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『東京喰種』石田スイがキャラ原案・原作を手掛けた異色の演劇テーマ乙女ゲームとして話題化。男装ヒロインが名門演劇学校で頂点を目指すストーリーと、リズムゲーム/レッスン要素を融合させた構成が支持され、2023年にAksys Gamesから英語版も発売された。",
+  "concept": "歌劇の名門ユニヴェール歌劇学校を舞台に、男装した主人公が「ジャック（男役）」「ジャンヌ（女役）」の主演をめぐり学園生活を送る、演劇×乙女×リズムのハイブリッド。物語追体験を主軸にしつつ、レッスン・公演パートで自分の選択がステータスと配役に直結する。",
+  "target": "石田スイのビジュアルや宝塚的な男装/歌劇モチーフに惹かれる女性層、シナリオの分岐量と読み応えを求める乙女ゲーマー、リズム/育成要素のある重厚ノベルを好む層。",
+  "slug": "jack-jeanne",
+  "file": "data/games/1993-jack-jeanne.json",
+  "_source_urls": [
+    "https://www.nintendo.com/us/store/products/jack-jeanne-switch/",
+    "https://www.animenewsnetwork.com/news/2022-03-31/aksys-games-to-release-jack-jeanne-switch-game-in-english-in-2023/.184230",
+    "https://store.aksysgames.com/products/jack-jeanne-nintendo-switch",
+    "https://www.metacritic.com/game/jack-jeanne/"
+  ]
+}

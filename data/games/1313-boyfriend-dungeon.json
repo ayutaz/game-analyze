@@ -1,0 +1,37 @@
+{
+  "id": 1313,
+  "title_jp": "Boyfriend Dungeon",
+  "title_en": "Boyfriend Dungeon",
+  "developer": "Kitfox Games",
+  "publisher": "Kitfox Games",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "Mac",
+    "Switch",
+    "Xbox One",
+    "PS5"
+  ],
+  "genre": "ダンジョンクローラー/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "70K+ Steam owners",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「武器が擬人化されたイケメン／美女と恋愛する」という大胆なコンセプトと、男女・ノンバイナリーすべて選択可能な全方位ロマンスでSNS・配信を中心に話題化。BitSummit 出展時から国内インディー界隈でも注目された。",
+  "concept": "ハクスラ系ダンジョン探索と恋愛アドベンチャーを融合させたインディー作品。武器となって戦ってくれるパートナーとデートを重ねることで親密度が上がり、戦闘力も強化されるという二重ループが核。",
+  "target": "クィア／LGBTQ+フレンドリーな恋愛 ADV を求めるプレイヤー、軽めのハクスラとビジュアルノベルの両方を楽しみたい層、夏休みの短編ストーリーを気軽に味わいたいインディー好き。",
+  "slug": "boyfriend-dungeon",
+  "file": "data/games/1313-boyfriend-dungeon.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Boyfriend_Dungeon",
+    "https://store.steampowered.com/app/674930/Boyfriend_Dungeon/",
+    "https://doope.jp/2021/08118864.html",
+    "https://www.famitsu.com/news/201805/11157090.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

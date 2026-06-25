@@ -1,0 +1,28 @@
+{
+  "id": 1693,
+  "title_jp": "プロック",
+  "title_en": "Plok",
+  "developer": "Software Creations",
+  "publisher": "Tradewest",
+  "year": 1993,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロールアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Pickford 兄弟が手掛けた SFC/SNES のカルト横スクロールアクション。手足を投げて攻撃するユニークな仕様と高難度、Tim Follin による評価の高いサウンドトラックで、リリース当時より後年のレトロゲーマーから熱烈に支持されている。",
+  "concept": "Acrylic 島の王プロックが、盗まれた旗とノミの軍団を取り返すため、自分の手足を投げて戦う異色の横スクロールアクション。各ステージのプレゼント箱を開けると衣装が変化し、攻撃や能力がパワーアップする独特のリソース管理を組み込んだ。",
+  "target": "SFC/SNES 黄金期のマスコットプラットフォーマーを遊んだ 30-50 代のレトロゲーマー層と、難易度の高い 2D アクションや個性派キャラデザインを好むコアプレイヤー。",
+  "slug": "plok",
+  "file": "data/games/1693-plok.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Plok!",
+    "https://www.nintendolife.com/games/snes/plok",
+    "https://dic.pixiv.net/a/PLOK!",
+    "https://www.super-famicom.jp/data/hu/hu_0061.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1448,
+  "title_jp": "スパイロ2 リプトの大陰謀！",
+  "title_en": "Spyro 2: Ripto's Rage!",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3Dアクション・プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "3.39M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1黄金期を代表する3Dプラットフォーマーで、北米では発売2ヶ月で100万本を突破。シリーズ累計でも初代に次ぐヒットとなり、後年の『Reignited Trilogy』収録で世代を超えて再評価された。",
+  "concept": "ドラゴンの主人公スパイロが新天地アヴァラーを舞台に宿敵リプトを倒す3Dアクション。グライド移動・ブレス攻撃・ホバーといった操作の気持ちよさと、ステージ収集要素（タリスマン／オーブ／宝石）を組み合わせた周回型レベルデザインが核。",
+  "target": "PS1世代の30〜40代ノスタルジー層と、リマスター経由で触れた現代の3Dアクション好き。難易度は穏やかで、子どもから大人まで遊べるファミリー向けプラットフォーマーを求める層。",
+  "slug": "spyro-2-riptos-rage",
+  "file": "data/games/1448-spyro-2-riptos-rage.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spyro_2:_Ripto's_Rage!",
+    "https://www.mobygames.com/game/4153/spyro-2-riptos-rage/",
+    "https://gameworldobserver.com/2023/09/04/spyro-reignited-trilogy-sales-10-million-copies-toys-for-bob",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%AD%C3%97%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%82%B9_%E3%83%88%E3%83%B3%E3%81%A7%E3%82%82%E3%83%84%E3%82%A2%E3%83%BC%E3%82%BA"
+  ]
+}

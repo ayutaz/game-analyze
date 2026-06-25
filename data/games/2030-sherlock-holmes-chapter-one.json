@@ -1,0 +1,36 @@
+{
+  "id": 2030,
+  "title_jp": "シャーロック・ホームズ チャプター・ワン",
+  "title_en": "Sherlock Holmes Chapter One",
+  "developer": "Frogwares",
+  "publisher": "Frogwares",
+  "year": 2021,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S"
+  ],
+  "genre": "オープンワールド推理アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "発売 3 週間で Frogwares 史上最速ペースの売上を記録し、シリーズ歴代最速ヒットとなった。地中海の架空島コルドナを舞台にした若きホームズの前日譚オープンワールド構造と、母の死を巡る個人的な物語が国内外メディアで取り上げられた。",
+  "concept": "ワトソンと出会う前の若き日のシャーロックが、母の記憶を辿るために地中海の島コルドナへ戻り、自分の力で事件を解いていく前日譚オープンワールド推理 ADV。プレイヤーは観察・推理ボード・尋問・変装を駆使し、犯人を「断定する」決断まで自分で下す。",
+  "target": "シャーロック・ホームズの原作・映像作品ファン、Frogwares 旧作（Crimes & Punishments / The Devil's Daughter）プレイヤー、Disco Elysium や L.A. Noire のような推理重視 ADV を好むコア層。",
+  "slug": "sherlock-holmes-chapter-one",
+  "file": "data/games/2030-sherlock-holmes-chapter-one.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sherlock_Holmes_Chapter_One",
+    "https://worthplaying.com/article/2021/12/6/news/129748-sherlock-holmes-chapter-one-becomes-frogwares-fastest-selling-game-ever-trailer/",
+    "https://www.famitsu.com/news/202112/30246761.html",
+    "https://store.steampowered.com/app/1137300/Sherlock_Holmes_Chapter_One/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

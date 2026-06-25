@@ -1,0 +1,27 @@
+{
+  "id": 1706,
+  "title_jp": "ソニック・ザ・ヘッジホッグ3",
+  "title_en": "Sonic the Hedgehog 3",
+  "developer": "Sega Technical Institute / Sonic Team",
+  "publisher": "Sega",
+  "year": 1994,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "2Dハイスピード・アクション",
+  "sales_jp": "—",
+  "sales_world": "1.02M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "ソニック生誕シリーズ第3作。テイルスに加え新キャラ「ナックルズ」が初登場し、Sonic & Knuckles とのロックオン合体でフルストーリーが完成する仕掛けが話題に。Michael Jackson 関与説の楽曲問題で長らく再販が困難だったが、Sonic Origins (2022) でようやく現代機に復刻された。",
+  "concept": "メガドライブ全盛期のハイスピード2Dアクション。シリーズで初めてセーブ機能とストーリーを本格導入し、Sonic & Knuckles と連結することで真の全 14 ゾーンを一本のキャンペーンとして遊べる「分割販売型の大作」を実現した。",
+  "target": "90 年代メガドライブ世代のレトロゲーマー、Sonic Origins から入った新規層、2D 高速アクションと精密な操作を好むコアプラットフォーマー愛好者。",
+  "slug": "sonic-the-hedgehog-3",
+  "file": "data/games/1706-sonic-the-hedgehog-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%98%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B03",
+    "https://sonic.sega.jp/SonicOrigins/"
+  ]
+}

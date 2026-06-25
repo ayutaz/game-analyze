@@ -1,0 +1,33 @@
+{
+  "id": 1859,
+  "title_jp": "リトルバスターズ！EX / Converted Edition",
+  "title_en": "Little Busters! Converted Edition / EX",
+  "developer": "Key",
+  "publisher": "Prototype",
+  "year": 2010,
+  "platform": [
+    "PSP",
+    "PS Vita",
+    "PS3",
+    "Switch"
+  ],
+  "genre": "ビジュアルノベル/恋愛アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 第三作のコンシューマ移植。Ecstasy で追加された笹瀬川佐々美・二木佳奈多・鈴 沙耶ルートを含む完全版として PSP→PS Vita→PS3→Switch と長期間移植され続け、シリーズ累計 10 万本超を支えるロングセラー。",
+  "concept": "Key（麻枝准・樫田レオン・都乃河勇人）が手掛けた青春群像ビジュアルノベルのコンシューマ完全版。野球と「世界の秘密」を縦糸に、Ecstasy 追加 3 ヒロインを含む全ルートを収録し全年齢化した移植版で、PSP/PS Vita/PS3/Switch まで展開された。",
+  "target": "Key 作品ファン、泣きゲー・青春群像劇を求める 20-40 代男性中心のノベルゲーマー層。アニメ版視聴後にフルストーリーを追体験したい層にもリーチ。",
+  "slug": "little-busters-converted-edition-ex",
+  "file": "data/games/1859-little-busters-converted-edition-ex.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Little_Busters!",
+    "https://www.4gamer.net/games/111/G011102/20100531028/",
+    "https://www.famitsu.com/news/201403/28050668.html",
+    "https://www.prot.co.jp/psv/lbc/",
+    "https://www.siliconera.com/little-busters-converted-edition-will-seek-the-truth-of-the-world-on-nintendo-switch-with-english-subs/",
+    "https://www.animenewsnetwork.com/news/2012-09-20/little-busters-converted-edition-also-heading-to-ps3"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1742,
+  "title_jp": "ニンジャガイデン",
+  "title_en": "Ninja Gaiden",
+  "developer": "Team Ninja",
+  "publisher": "Tecmo",
+  "year": 2004,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "3Dアクション/忍者アクション",
+  "sales_jp": "—",
+  "sales_world": "1.5M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「死にゲー」の代名詞として極悪難度が海外メディアで絶賛され、Team Ninja のリブートとして Xbox 初期の看板タイトルになった。後の Black / Sigma 系派生で繰り返し再販された。",
+  "concept": "高速かつ高難度の 3D 忍者アクション。連続剣戟・首切り・忍法・カウンターを軸に、息継ぎを許さない敵 AI と即死級ダメージが同居するハードコア体験を提示した。",
+  "target": "アクションゲーマー、特に高難度・反応速度・パターン解析を楽しむコア層。後の SEKIRO / DMC / ベヨネッタに繋がる系譜を求めるプレイヤー。",
+  "slug": "ninja-gaiden",
+  "file": "data/games/1742-ninja-gaiden.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)",
+    "https://ja.wikipedia.org/wiki/NINJA_GAIDEN"
+  ]
+}

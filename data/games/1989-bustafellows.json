@@ -1,0 +1,31 @@
+{
+  "id": 1989,
+  "title_jp": "BUSTAFELLOWS",
+  "title_en": "Bustafellows",
+  "developer": "Extend",
+  "publisher": "PQube / Extend",
+  "year": 2019,
+  "platform": [
+    "Switch",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オトメ向けノワール・ミステリーADV/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "100K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "文化放送エクステンドが手掛けた「あざやかな悪に染まる」キャッチコピーのノワール×ラブミステリー。Switch/スマホ同時展開と海外PQube版（80時間級ボリューム）が評価され、2024年までに英語版だけで10万本以上を売上。",
+  "concept": "ニューヨーク風の架空都市「New Sieg」を舞台に、他人の身体に時間遡行で乗り移れる女性ジャーナリストが裏社会の男5人と関わるノワール×オトメADV。シリアスな犯罪劇とロマンスを両立させた「大人向けオトメ」のポジション。",
+  "target": "20-30代女性中心のオトメゲームファン層。クライム/サスペンス系の海外ドラマ的テイストを好む読者層と、海外ローカライズ経由で英語圏のビジュアルノベル愛好家にも広がっている。",
+  "slug": "bustafellows",
+  "file": "data/games/1989-bustafellows.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bustafellows",
+    "https://joqrextend.co.jp/extend/bustafellows/",
+    "https://pqube.co.uk/games/bustafellows/",
+    "https://www.famitsu.com/news/201907/04179094.html"
+  ]
+}

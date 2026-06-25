@@ -1,0 +1,35 @@
+{
+  "id": 1245,
+  "title_jp": "アングリーバード2",
+  "title_en": "Angry Birds 2",
+  "developer": "Rovio Entertainment",
+  "publisher": "Rovio Entertainment",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "スリングショット物理パズル/F2Pカジュアル",
+  "sales_jp": "—",
+  "sales_world": "累計3.6億DL／生涯売上5億ドル超（2023時点）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "初代アングリーバードの正統続編として2015年配信、初年で5,000万DL。アリーナ・クラン対戦と鳥のレベル/孵化要素を加え2018年以降年商3億ドル級の長寿F2Pに成長し、シリーズ累計50億DLの中核となった。",
+  "concept": "スリングショットで鳥を撃ち出し豚の砦を崩す看板物理パズルを、レベル制ステージ＋鳥カード式の手札選択にリメイクしたF2P続編。日替わりアリーナ／クラン対豚戦／フェザー成長で長期運営型に再設計されている。",
+  "target": "スマホで短時間プレイしたい全年齢のライトユーザー、初代アングリーバードのファン、ステージクリア＋週次ランキングを淡々と続けたいカジュアル層。",
+  "slug": "angry-birds-2",
+  "file": "data/games/1245-angry-birds-2.json",
+  "_source_urls": [
+    "https://gameworldobserver.com/2023/02/28/angry-birds-2-revenue-500-million-rovio",
+    "https://sensortower.com/blog/rovio-revenue-2018",
+    "https://www.4gamer.net/games/311/G031182/20251027021/",
+    "https://www.sega.co.jp/release/251027_2.html",
+    "https://en.wikipedia.org/wiki/Rovio_Entertainment"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

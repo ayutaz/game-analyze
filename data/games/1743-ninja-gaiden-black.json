@@ -1,0 +1,28 @@
+{
+  "id": 1743,
+  "title_jp": "ニンジャガイデン ブラック",
+  "title_en": "Ninja Gaiden Black",
+  "developer": "Team Ninja",
+  "publisher": "Tecmo",
+  "year": 2005,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "3Dアクション/ハック&スラッシュ",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "高難度・高速剣戟アクションの金字塔として国内外で熱狂的支持。2004年版『NINJA GAIDEN』に2弾のDLCとミッションモード等を統合したアップグレード版で、Xbox世代のアクションゲームの頂点と評された。",
+  "concept": "隼龍を操り、超高速の剣戟と回避・忍法を組み合わせて敵集団を捌き切る、徹底的に手応えと操作精度に振った高難度3Dアクション。1作目をベースに難易度調整・ミッションモード・追加要素を盛り込んだ完全版。",
+  "target": "歯ごたえのあるアクションを求めるコアゲーマー、デビル メイ クライ／ベヨネッタ／SEKIRO 等の高難度アクション系を好む層。Xbox世代のアクション史を辿りたいプレイヤー。",
+  "slug": "ninja-gaiden-black",
+  "file": "data/games/1743-ninja-gaiden-black.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)",
+    "https://ninjagaiden.fandom.com/wiki/Ninja_Gaiden_Black",
+    "https://www.mobygames.com/game/22361/ninja-gaiden-black/",
+    "https://www.xbox.com/ja-JP/games/store/ninja-gaiden-black/c17kks83s9gs"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1146,
+  "title_jp": "ディスライト 〜神世代ネオンシティ〜",
+  "title_en": "Dislyte",
+  "developer": "Farlight Games",
+  "publisher": "Lilith Games",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ターン制ガチャRPG/都市神話×音楽",
+  "sales_jp": "日本版サービス開始1か月で約5.38億円（$4M）",
+  "sales_world": "グローバル配信初日App Store無料1位、約1か月で初の$10M超",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "グローバル配信初日にApp Store無料ランキング1位を獲得。日本版は川口春奈起用のTV CMを展開し、近未来×ギリシャ・エジプト等の神話モチーフのスタイリッシュなビジュアルとEDM/HIPHOP寄りBGMでSNSバズを生んだ。",
+  "concept": "神の音に目覚めた「エスパー」たちが集うネオン都市を舞台に、ギリシャ・エジプト・北欧などの神話キャラを召喚するターン制カードRPG。シティポップ／EDM寄りのMVのようなビジュアル演出で、ガチャ×音楽×神話のクロスオーバーをポジショニングにする。",
+  "target": "16-35歳のスマホガチャRPGユーザー、特にビジュアル・音楽演出を重視する層と、Summoners War系のターン制ガチャに慣れたコアプレイヤー層。",
+  "slug": "dislyte",
+  "file": "data/games/1146-dislyte.json",
+  "_source_urls": [
+    "https://www.gamespress.com/Dislyte-the-Stylish-Urban-Mythological-RPG-from-Lilith-Games-Prepares-",
+    "https://www.4gamer.net/games/598/G059866/20230329048/",
+    "https://www.gamer.ne.jp/news/202205130051/",
+    "https://gamebiz.jp/news/354980",
+    "https://app.sensortower.com/news-feed/dislyte-from-lilith-games-scores-its-first-10-million-for-the-chinese-publisher/62a9d9d3878ec141f06fba93"
+  ]
+}

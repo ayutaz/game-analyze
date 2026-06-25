@@ -1,0 +1,27 @@
+{
+  "id": 1479,
+  "title_jp": "ツイステッドメタル",
+  "title_en": "Twisted Metal",
+  "developer": "SingleTrac",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1995,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "カーコンバット/ビークルアクション",
+  "sales_jp": "—",
+  "sales_world": "1.12M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PS1初期を代表する武装車両バトル。クリスマスシーズンに突如登場した「武装した車で殴り合う」という奇想と、分割画面の対戦プレイで北米を中心に100万本超のヒット、Greatest Hits 入りした。",
+  "concept": "改造武装車両で都市や闘技場を破壊しながら相手車両を撃破していくビークル戦闘ゲーム。シングルプレイのトーナメントと、画面分割の1v1対戦が二本柱で、勝者は主催者カラベラに願いを叶えてもらえる、というダークな世界観を持つ。",
+  "target": "PS1黎明期のティーン～若年男性層、アクション/対戦ゲーマー、Bムービー的なバイオレンス演出を楽しめるプレイヤー。友達とソファに集まって殴り合うパーティ対戦需要にも応える。",
+  "slug": "twisted-metal",
+  "file": "data/games/1479-twisted-metal.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Twisted_Metal_(1995_video_game)",
+    "https://en.wikipedia.org/wiki/SingleTrac",
+    "https://videogameages.com/ps-twisted-metal/"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1419,
+  "title_jp": "パラサイト・イヴ",
+  "title_en": "Parasite Eve",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "シネマティックRPG/サバイバルホラー",
+  "sales_jp": "1.05M",
+  "sales_world": "1.94M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "瀬名秀明の同名小説を原作にした「シネマティックRPG」として、ハリウッド級のプリレンダムービーとオペラ的演出、ミトコンドリアをめぐる生物学SFホラーで国内100万本級ヒット。スクウェアが FF 以外で見せた新ジャンル挑戦として語り継がれる。",
+  "concept": "ニューヨークのオペラハウスで突如人々が自然発火する、というショッキングな導入から始まる「シネマティックRPG」。ATBベースのアクティブ戦闘とRPG成長要素を備えつつ、本質は瀬名秀明原作のミトコンドリア生物学ホラー小説を映像化した一本道の物語体験。",
+  "target": "FFシリーズや映画的JRPGに親しんだ20-40代男女、特にバイオハザード等のサバイバルホラーと骨太SF小説の両方を好む層。クリスマスシーズンに「映画のように遊べるRPG」を求めたコア寄りユーザーに刺さった。",
+  "slug": "parasite-eve",
+  "file": "data/games/1419-parasite-eve.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Parasite_Eve_(video_game)",
+    "https://www.vgchartz.com/game/1717/parasite-eve/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

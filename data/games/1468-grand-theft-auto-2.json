@@ -1,0 +1,30 @@
+{
+  "id": 1468,
+  "title_jp": "グランド・セフト・オート 2",
+  "title_en": "Grand Theft Auto 2",
+  "developer": "DMA Design",
+  "publisher": "Rockstar Games",
+  "year": 1999,
+  "platform": [
+    "PC",
+    "PS1",
+    "Dreamcast",
+    "Game Boy"
+  ],
+  "genre": "クライム・アクション/トップダウン・オープンワールド",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Take-Two 初のミリオンセラータイトルとして話題になり、近未来都市を舞台に複数ギャングの抗争を渡り歩く自由度と過激な暴力描写で議論を呼んだ。シリーズ最後の見下ろし型作品としてカルト的な人気を保つ。",
+  "concept": "未来都市「Anywhere City」を舞台に、敵対する 7 つのギャングからの依頼を受けてはどの陣営に忠誠を尽くすかを選びながら街中で暴れ回るトップダウン視点のクライム・サンドボックス。複数ギャングの評判（Respect）システムが GTA III 以降の犯罪オープンワールドの設計原型となった。",
+  "target": "90 年代末の PC / PS1 / Dreamcast 世代の洋ゲー好き、トップダウン型クライム・サンドボックスを当時体験した 30-50 代のレトロゲーマー、GTA シリーズのルーツを辿りたいファン。",
+  "slug": "grand-theft-auto-2",
+  "file": "data/games/1468-grand-theft-auto-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grand_Theft_Auto_2",
+    "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%BB%E3%83%95%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%882",
+    "https://gta.fandom.com/wiki/Grand_Theft_Auto_2"
+  ]
+}

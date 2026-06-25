@@ -1,0 +1,31 @@
+{
+  "id": 1278,
+  "title_jp": "ディズニー ソーサラーズアリーナ",
+  "title_en": "Disney Sorcerer's Arena",
+  "developer": "Glu Mobile",
+  "publisher": "EA (Glu Mobile)",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターン制バトルRPG/PvP",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL（2024-07-31 サ終）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "60以上のディズニー/ピクサーキャラを集めて編成するクロスオーバーRPGとして2020年3月にグローバル配信。リアルタイムPvPアリーナとギルド戦で長期運営されたが、2024年7月31日にサービス終了した。",
+  "concept": "ディズニー/ピクサー作品の人気キャラを「ソーサラー」として召喚し、ターン制のチームバトルとリアルタイムPvPで競うガチャ式コレクションRPG。スター・ウォーズ銀河の英雄たちのDisney版とも言える位置付け。",
+  "target": "ディズニー/ピクサーIPに愛着のあるカジュアル〜ミドル層、およびキャラ収集型モバイルRPGに慣れたガチャゲーマー。家族層やライト層よりも、キャラ厳選とPvPランキングを楽しむコア寄りユーザーが中心。",
+  "slug": "disney-sorcerers-arena",
+  "file": "data/games/1278-disney-sorcerers-arena.json",
+  "_source_urls": [
+    "https://glumobile.helpshift.com/hc/en/107-disney-sorcerer-s-arena/faq/12111-important-update/",
+    "https://disney.fandom.com/wiki/Disney_Sorcerer's_Arena",
+    "https://apptrigger.com/2020/03/29/disney-sorcerers-arena-ios-android/",
+    "https://www.disney.co.jp/games/dsa.html"
+  ]
+}

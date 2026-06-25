@@ -1,0 +1,32 @@
+{
+  "id": 1291,
+  "title_jp": "ルーニー・テューンズ：ワールド・オブ・メイヘム",
+  "title_en": "Looney Tunes: World of Mayhem",
+  "developer": "Aquiris Game Studio",
+  "publisher": "Scopely",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "コマンドバトルRPG/キャラ収集",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL (launch day)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ワーナーの『ルーニー・テューンズ』IPを使い、バッグス・バニーやダフィー・ダックなど70+の人気キャラを収集・編成して戦うコマンドRPG。配信初日に100万DLを突破し、Scopely×Aquirisのカートゥーン×ガチャ路線として話題になった。",
+  "concept": "ルーニー・テューンズの古典キャラを「Toon Squad」として集め、ドタバタ演出のターン制バトルで戦わせる収集型 F2P RPG。プレイヤーは自分の「Toon Town」を建設・カスタマイズでき、IPノスタルジー×ガチャ収集×ライト戦闘の三位一体で構成されている。",
+  "target": "ルーニー・テューンズ世代の30-50代の海外カートゥーン好きと、キャラ収集型モバイルRPGを遊ぶ20-40代のライトゲーマー層。アニメIPのファンサービスを楽しみたいカジュアル層が中心。",
+  "slug": "looney-tunes-world-of-mayhem",
+  "file": "data/games/1291-looney-tunes-world-of-mayhem.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Scopely",
+    "https://www.scopely.com/en/news/scopely-drops-the-anvil-with-looney-tunes-world-of-mayhem",
+    "https://press.aquiris.com.br/games/looney-tunes-world-of-mayhem",
+    "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%86%E3%83%A5%E3%83%BC%E3%83%B3%E3%82%BA:%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%98%E3%83%A0",
+    "https://www.mobygames.com/game/119285/looney-tunes-world-of-mayhem/"
+  ]
+}

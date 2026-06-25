@@ -1,0 +1,35 @@
+{
+  "id": 1643,
+  "title_jp": "ドラゴンクエストV 天空の花嫁",
+  "title_en": "Dragon Quest V: Hand of the Heavenly Bride",
+  "developer": "Chunsoft",
+  "publisher": "Enix",
+  "year": 1992,
+  "platform": [
+    "SNES",
+    "PS2",
+    "DS",
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG（世代をまたぐ物語駆動型JRPG・モンスター仲間システム）",
+  "sales_jp": "2.8M (SFC初版)",
+  "sales_world": "5.3M+ (全プラットフォーム累計)",
+  "primary": "NAR",
+  "secondary": [
+    "REW",
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "親→子へと世代をまたぐ壮大な物語と『花嫁選択』（ビアンカ／フローラ／のちにデボラ）がプレイヤーの人生観を揺さぶり、日本RPG史に残る金字塔として今も語られる。SFC初日130万本、シリーズ屈指の人気作。",
+  "concept": "主人公の幼少期→青年期→父親期と3世代を生き抜く長編RPG。仲間モンスターシステムで好きなモンスターを連れ歩け、選んだ花嫁によって子供の容姿やストーリー演出が分岐する『人生体験型』ファンタジー。",
+  "target": "JRPGファン、特に物語重視・キャラクター愛着型のプレイヤー。30-50代の往年のDQファンから、リメイク・スマホ版経由の新規層まで幅広い。家族や恋愛・運命を主題にしたドラマを味わいたい層。",
+  "slug": "dragon-quest-v-hand-of-the-heavenly-bride",
+  "file": "data/games/1643-dragon-quest-v-hand-of-the-heavenly-bride.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dragon_Quest_V",
+    "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88V_%E5%A4%A9%E7%A9%BA%E3%81%AE%E8%8A%B1%E5%AB%81",
+    "https://www.famitsu.com/news/202403/25337593.html",
+    "https://www.jp.square-enix.com/game/detail/dq5/"
+  ]
+}

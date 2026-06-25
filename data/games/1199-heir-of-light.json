@@ -1,0 +1,31 @@
+{
+  "id": 1199,
+  "title_jp": "Heir of Light",
+  "title_en": "Heir of Light",
+  "developer": "Audrey",
+  "publisher": "GAMEVIL",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ダークファンタジー収集型RPG（ガチャ）",
+  "sales_jp": "—",
+  "sales_world": "3M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ゴシックなビジュアルと300以上のヒーロー収集、Fire Emblem Heroes 系の縦持ちガチャRPGとして2018年グローバル配信時に注目を集めた。",
+  "concept": "「光の継承者」となり闇に堕ちた大陸アッシャーを救う、ゴシック・ダークファンタジー世界観の収集型RPG。5人のマスターと100体超のサーヴァントを組み合わせてオート戦闘＋特殊技手動発動のコンボを構築する。",
+  "target": "Summoners War / Epic Seven 系の韓国産ガチャRPGを好むコアモバイル層、ダーク／ゴシックなアートが好きなプレイヤー、PvPランキングとキャラ収集をやり込みたい層。",
+  "slug": "heir-of-light",
+  "file": "data/games/1199-heir-of-light.json",
+  "_source_urls": [
+    "https://heiroflight.gamevil.com/",
+    "https://play.google.com/store/apps/details?id=com.gamevil.heiroflight.android.google.global.normal&hl=en",
+    "https://toucharcade.com/2018/03/08/heir-of-light-review/",
+    "https://www.androidheadlines.com/2018/03/gothic-fantasy-rpg-heir-of-light-now-available-on-android.html"
+  ]
+}

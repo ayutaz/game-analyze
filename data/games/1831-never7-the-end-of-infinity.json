@@ -1,0 +1,32 @@
+{
+  "id": 1831,
+  "title_jp": "Never7 -the end of infinity-",
+  "title_en": "Never7: The End of Infinity",
+  "developer": "KID",
+  "publisher": "MAGES.",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "Dreamcast",
+    "PC",
+    "PS2",
+    "Switch",
+    "PS4"
+  ],
+  "genre": "恋愛アドベンチャー/ループ系ノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "打越鋼太郎・中澤工が手掛けた Infinity シリーズ第1作。Ever 17 へ続く「ループもの ADV」の起点として ADV ファンの間で再評価が進み、2025年に Spike Chunsoft が海外含む Switch/PS4/Steam 向けリマスターを発売した。",
+  "concept": "南の島の合宿で過ごす1週間を繰り返し、6日目に起きる「死」を回避するためにループする恋愛・SFループ系ビジュアルノベル。Infinity シリーズの起点として「世界の謎」と「個別ヒロイン恋愛」を両立させる構造を提示した。",
+  "target": "Ever 17 や Remember 11 を入口に Infinity シリーズを掘りたい ADV ファン、打越鋼太郎作品を追う層、2000 年前後の KID ノベルの空気感を味わいたい 30-40 代男性プレイヤー。",
+  "slug": "never7-the-end-of-infinity",
+  "file": "data/games/1831-never7-the-end-of-infinity.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Never_7:_The_End_of_Infinity",
+    "https://www.spike-chunsoft.com/news/infinity-series-remastered-editions-of-ever-17-the-out-of-infinity-and-never-7-the-end-of-infinity-for-nintendo-switch-playstation4-and-steam-coming-to-north-america-and-eur/",
+    "https://en.wikipedia.org/wiki/Infinity_(video_game_series)"
+  ]
+}

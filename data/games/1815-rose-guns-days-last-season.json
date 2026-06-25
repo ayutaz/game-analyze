@@ -1,0 +1,30 @@
+{
+  "id": 1815,
+  "title_jp": "ROSE GUNS DAYS Last Season",
+  "title_en": "Rose Guns Days Last Season",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2013,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "竜騎士07が手がける『ひぐらし』『うみねこ』に続く同人ビジュアルノベルの完結編。コミックマーケット85（2013年12月31日）で頒布され、戦後日本を舞台にしたハードボイルド群像劇の最終章としてファンから高い注目を集めた。",
+  "concept": "竜騎士07が描く戦後日本のオルタナティブ・ヒストリーを舞台にしたハードボイルド群像劇の完結編。プレイヤーは物語を読み進めながら、要所で格闘ゲーム風QTEの拳闘パートに挑むビジュアルノベル。",
+  "target": "竜騎士07作品『ひぐらし』『うみねこ』を追ってきたコアなビジュアルノベル読者、戦後昭和や仁義モノのハードボイルド物語が好きな層。",
+  "slug": "rose-guns-days-last-season",
+  "file": "data/games/1815-rose-guns-days-last-season.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rose_Guns_Days",
+    "https://07th-expansion.fandom.com/wiki/Rose_Guns_Days:_Last_Season",
+    "https://07th-expansion.net/rgd_gen"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

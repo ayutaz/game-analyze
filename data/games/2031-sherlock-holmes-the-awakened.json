@@ -1,0 +1,38 @@
+{
+  "id": 2031,
+  "title_jp": "シャーロック・ホームズ ジ・アウェイクンド",
+  "title_en": "Sherlock Holmes: The Awakened",
+  "developer": "Frogwares",
+  "publisher": "Frogwares",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "推理アドベンチャー/ミステリーホラー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "クトゥルフ神話×シャーロック・ホームズという異色組み合わせと、ウクライナの Frogwares が戦時下で完成させたリメイクという背景が話題に。2007年原作の全面リメイクで、三人称視点・新シナリオ・新ボイスキャストで再構築された点が国内外メディアで高評価。",
+  "concept": "若き日のホームズとワトソンが、ヨーロッパとアメリカを跨ぐ連続失踪事件を追ううちに、ラヴクラフト的な狂気と対峙していく推理アドベンチャー。原作の合理主義とクトゥルフ神話の不条理を衝突させる「冒涜的ミステリー」を、現代的なオープン捜査システムで描き直した一本。",
+  "target": "推理 ADV / ポイント＆クリックアドベンチャー好き、クトゥルフ神話・コズミックホラー好き、Frogwares 旧作（Crimes & Punishments / Chapter One）ファン、海外ナラティブゲーム愛好層。",
+  "slug": "sherlock-holmes-the-awakened",
+  "file": "data/games/2031-sherlock-holmes-the-awakened.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sherlock_Holmes:_The_Awakened_(2023_video_game)",
+    "https://www.famitsu.com/news/202207/29270247.html",
+    "https://www.gamespark.jp/article/2023/04/12/128916.html",
+    "https://news.denfaminicogamer.jp/news/230307f"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

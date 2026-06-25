@@ -1,0 +1,31 @@
+{
+  "id": 2063,
+  "title_jp": "SeaBed",
+  "title_en": "SeaBed",
+  "developer": "Paleontology",
+  "publisher": "Fruitbat Factory",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux",
+    "Switch"
+  ],
+  "genre": "百合ミステリービジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "DLsite 発の同人ビジュアルノベルが Fruitbat Factory による英語ローカライズで海外百合 VN コミュニティに広く知られ、Steam ユーザーレビュー 96% 好評、Nintendo Life で「マスターピース」と評された静謐な傑作。",
+  "concept": "失踪した恋人の幻覚に苦しむデザイナー・水野幸子と、彼女を診る精神科医・楢崎ひびき、そして記憶を急速に失っていく恋人・タカコの 3 視点で進む、記憶と喪失をテーマにした百合ミステリービジュアルノベル。",
+  "target": "百合 / GL ジャンルが好きで、静かに長文を読み進めることに耐性のある 20-40 代のビジュアルノベル愛好家。劇的な展開より、雰囲気と心理描写を重視する読者層。",
+  "slug": "seabed",
+  "file": "data/games/2063-seabed.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/SeaBed",
+    "https://store.steampowered.com/app/583090/SeaBed/",
+    "https://fruitbatfactory.com/seabed/",
+    "https://www.nintendolife.com/reviews/switch-eshop/seabed1"
+  ]
+}

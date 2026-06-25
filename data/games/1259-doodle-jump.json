@@ -1,0 +1,33 @@
+{
+  "id": 1259,
+  "title_jp": "ダブルジャンプ",
+  "title_en": "Doodle Jump",
+  "developer": "Lima Sky",
+  "publisher": "Lima Sky",
+  "year": 2009,
+  "platform": [
+    "iOS",
+    "Android",
+    "Xbox 360"
+  ],
+  "genre": "縦スクロール・ジャンプアクション",
+  "sales_jp": "—",
+  "sales_world": "15M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "非同期",
+  "popularity": "スマートフォン黎明期の代表的ヒット作で、App Store で 4 ヶ月連続 25,000 DL/日を記録。フレンドとのハイスコア競争と独特の手描き風グラフィックが SNS で拡散し、Angry Birds 登場以前のモバイルゲーム象徴となった。",
+  "concept": "傾きセンサーで Doodler を左右に操作し、足場を跳ね上がってひたすら上を目指す。シンプルな 1 アクションだけで構成されながら、ハイスコア更新の中毒性と短時間プレイの相性で「スマホで遊ぶゲーム」の原型を提示した作品。",
+  "target": "10-30 代の幅広いカジュアルプレイヤー。通勤・通学などの隙間時間に短いセッションで遊びたい層、フレンドとハイスコアを競いたい層。",
+  "slug": "doodle-jump",
+  "file": "data/games/1259-doodle-jump.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Doodle_Jump",
+    "https://techcrunch.com/2009/12/18/indie-iphone-game-doodle-jump-passes-1-million-downloads/",
+    "https://techcrunch.com/2010/03/08/never-ending-goldrush-doodle-jump-for-iphone-smashes-through-3-million-sales/",
+    "https://kotaku.com/doodle-jump-passes-four-million-sold-5525562"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

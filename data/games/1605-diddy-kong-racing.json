@@ -1,0 +1,28 @@
+{
+  "id": 1605,
+  "title_jp": "ディディーコングレーシング",
+  "title_en": "Diddy Kong Racing",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "レース/アドベンチャー",
+  "sales_jp": "0.65M",
+  "sales_world": "4.88M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "1997年クリスマス商戦で任天堂の年間広告予算の大半を投入され、当時のギネス記録となる最速売上（発売前80万本）を達成。N64ソフト歴代世界売上8位。",
+  "concept": "マリオカートに対抗するレア社製レーシング。車・ホバー・飛行機の3種乗物を切替えながら走る独自システムと、ボス戦・収集要素を含むアドベンチャーモードでカートレースに RPG的進行を融合した一作。",
+  "target": "N64を所有するファミリー層と小中学生、マリオカートに加えてもう一本レースが欲しいキッズ・兄弟プレイ層、シングル進行型レースを好む層。",
+  "slug": "diddy-kong-racing",
+  "file": "data/games/1605-diddy-kong-racing.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Diddy_Kong_Racing",
+    "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B3%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_ndyj/index.html",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_n64/"
+  ]
+}

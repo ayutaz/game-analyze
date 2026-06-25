@@ -1,0 +1,29 @@
+{
+  "id": 1883,
+  "title_jp": "To Heart",
+  "title_en": "To Heart",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 1997,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Leaf ビジュアルノベルシリーズ第3作（1997 PC→1999 PS 移植）。マルチ・あかり・芹香などのキャラ人気でアニメ化・続編・2025年フル3Dリメイクへと展開した美少女ゲーム黄金期の象徴的タイトル。",
+  "concept": "高校生・藤田浩之の日常を起点に、幼馴染・あかりや HMX-12 マルチら 8 人のヒロインとの関わりを選択肢で分岐させていく学園恋愛 AVG。「日常そのものを愛おしむ」雰囲気重視の作風で泣きゲーよりひと足早くキャラ消費型 ADV の文法を確立した。",
+  "target": "90年代後半-2000年代のPC美少女ゲーム/ギャルゲーファン、Leaf/Key 系ビジュアルノベル愛好層、リメイクで再訪する旧来ファンと新規プレイヤー。",
+  "slug": "to-heart",
+  "file": "data/games/1883-to-heart.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/To_Heart",
+    "https://aquaplus.jp/toheart/",
+    "https://www.4gamer.net/games/824/G082403/20250626029/",
+    "https://www.famitsu.com/article/202411/23773"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1478,
+  "title_jp": "ドライバー2",
+  "title_en": "Driver 2",
+  "developer": "Reflections Interactive",
+  "publisher": "Infogrames",
+  "year": 2000,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "オープンワールド・カーチェイス/アクションドライビング",
+  "sales_jp": "—",
+  "sales_world": "2.85M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1 時代に「街を自由に走り回って逃走劇を演じる」体験を提示し、発売前に予約 100 万本超を集めて世界 285 万本を売り上げた。GTA 以前のオープンシティ運転ゲームとして語り継がれている。",
+  "slug": "driver-2",
+  "file": "data/games/1478-driver-2.json",
+  "concept": "シカゴ・ハバナ・ラスベガス・リオの 4 都市を丸ごとフィールドにした逃走屋カーアクション。前作の車内視点ミッション制を踏襲しつつ降車・乗り換えを追加し、覆面警官として組織犯罪に潜入するストーリーを縦軸に据えた。",
+  "target": "映画的なカーチェイスやアメリカン・クライムドラマを好む層、PS1 後期のオープンワールド志向ドライビングを体験したいコアゲーマー。GTA シリーズ以前のジャンル原典に触れたいレトロゲームファン。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Driver_2",
+    "https://www.vgchartz.com/game/591/driver-2/?region=All",
+    "https://www.gamespot.com/articles/driver-2-pre-orders-reach-1-million/1100-2634419/",
+    "https://kopenguin.com/post-18237/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1674,
+  "title_jp": "魂斗羅スピリッツ",
+  "title_en": "Contra III: The Alien Wars",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "ラン&ガン/アクションシューティング",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "SNES 期を代表する高難度ラン&ガンの金字塔。2人協力プレイ、トップビュー面、巨大ボス戦などの演出で評価が高く、後年「歴代魂斗羅でベスト」と回顧されることが多い。",
+  "concept": "「銃と爆弾で異星人軍団をなぎ倒す」を 16bit ハードで極限まで磨いた横スクロール+俯瞰視点のラン&ガン。武器2種同時持ち・ボム・ぶら下がり等の操作系で密度の高い瞬間判断を要求する。",
+  "target": "アーケード/FC『魂斗羅』『スーパー魂斗羅』からの 10-30代男性アクションファン、難易度の高い 16bit 名作を 1990 年代に体験した世代。協力プレイで盛り上がりたい兄弟・友人プレイ層。",
+  "slug": "contra-iii-the-alien-wars",
+  "file": "data/games/1674-contra-iii-the-alien-wars.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Contra_III:_The_Alien_Wars",
+    "https://ja.wikipedia.org/wiki/%E9%AD%82%E6%96%97%E7%BE%85%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84",
+    "https://www.konami.com/games/jp/ja/products/dl_contraspirits_sfc_c/",
+    "https://www.nintendo.co.jp/clvs/soft/contora.html"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1733,
+  "title_jp": "ランドストーカー 〜皇帝の財宝〜",
+  "title_en": "Landstalker: The Treasures of King Nole",
+  "developer": "Climax Entertainment",
+  "publisher": "Sega",
+  "year": 1992,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "アクションRPG/クォータービュー探索アドベンチャー",
+  "sales_jp": "160,000",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "クォータービューによる擬似3D探索という当時としては斬新な表現で話題に。ファミ通ゴールド殿堂入り、メガドライブの代表的アクションRPGとして長年語り継がれる。初週34,385本、累計約16万本（日本国内）",
+  "slug": "landstalker-the-treasures-of-king-nole",
+  "file": "data/games/1733-landstalker-the-treasures-of-king-nole.json",
+  "concept": "宝物ハンターのナイジェル（日本版ではエルフのライル）と妖精フライデーを操作し、クォータービューの擬似3Dマップを探索しながらノール王の財宝を追う、ジャンプアクション主体のアクションRPG。立体的な高低差のあるダンジョン構造そのものが謎解きになっている独自路線。",
+  "target": "メガドライブ世代の海外/国内RPGファン、特に立体パズル＋アクション＋探索を一体化させた体験を求めるプレイヤー。ゼルダ系の探索アクションを好むユーザー層と親和性が高い。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Landstalker",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AB%E3%83%BC_%E3%80%9C%E7%9A%87%E5%B8%9D%E3%81%AE%E8%B2%A1%E5%AE%9D%E3%80%9C",
+    "https://www.sega.jp/mdmini/soft/landstalker.html",
+    "https://vc.sega.jp/vc_landstalker/"
+  ]
+}

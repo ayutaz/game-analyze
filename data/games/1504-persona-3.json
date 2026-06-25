@@ -1,0 +1,31 @@
+{
+  "id": 1504,
+  "title_jp": "ペルソナ3",
+  "title_en": "Persona 3",
+  "developer": "Atlus",
+  "publisher": "Atlus",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ジュブナイルRPG/ダンジョン探索",
+  "sales_jp": "210K",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "「学園×死の影」というジュブナイル路線でペルソナシリーズを再定義し、コミュ（S.Link）と影時間ダンジョン「タルタロス」を両立させた歴史的転換作。後の FES / Portable / Reload へと続くフランチャイズの礎となり、シリーズ累計2700万本超への足がかりとなった。",
+  "slug": "persona-3",
+  "file": "data/games/1504-persona-3.json",
+  "concept": "高校生活シミュレーションと階層ダンジョンRPGを「昼=学園コミュ／夜=影時間タルタロス探索」のサイクルで融合させ、青春群像劇と死生観のドラマをロールプレイで体験させる作品。",
+  "target": "10-30代のJRPG・物語重視プレイヤー、特にキャラクター/コミュニティ要素を楽しみつつ重厚なシナリオを追いたい層。後年のリロードで新規層にも広がった。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Persona_3",
+    "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%BD%E3%83%8A3",
+    "https://www.vgchartz.com/game/4001/shin-megami-tensei-persona-3/game",
+    "https://personacentral.com/persona-seroes-sales-graphic-2020/"
+  ]
+}

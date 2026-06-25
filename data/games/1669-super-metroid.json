@@ -1,0 +1,29 @@
+{
+  "id": 1669,
+  "title_jp": "スーパーメトロイド",
+  "title_en": "Super Metroid",
+  "developer": "任天堂開発第一部 / インテリジェントシステムズ",
+  "publisher": "任天堂",
+  "year": 1994,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "探索型2Dアクション（メトロイドヴァニア原型）",
+  "sales_jp": "—",
+  "sales_world": "1.42M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「メトロイドヴァニア」というジャンル名の語源となった金字塔。シーケンスブレイクと高速クリアを競うスピードラン文化の聖典として、発売から30年以上経た現在も世界中の RTA 走者・配信者に愛され続けている。",
+  "concept": "孤独な惑星ゼーベスを舞台に、地図を持たず能力解放で行ける範囲を広げていく探索アクション。説明文を最小化し環境ストーリーテリングと音楽で物語る演出設計が、後年の探索型2Dアクション全体のテンプレートとなった。",
+  "target": "歯ごたえのある探索アクションを求めるコアゲーマー、メトロイドヴァニア／RTA 文化のルーツを辿りたい層、レトロゲーマー。Switch Online 加入者は現役で遊べる。",
+  "slug": "super-metroid",
+  "file": "data/games/1669-super-metroid.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Metroid",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A1%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89",
+    "https://www.nintendo.co.jp/clvs/software/?sm"
+  ]
+}

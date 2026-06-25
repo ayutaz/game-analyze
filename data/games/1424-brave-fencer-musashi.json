@@ -1,0 +1,33 @@
+{
+  "id": 1424,
+  "title_jp": "ブレイヴフェンサー武蔵伝",
+  "title_en": "Brave Fencer Musashi",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3Dアクションロールプレイング",
+  "sales_jp": "0.65M",
+  "sales_world": "0.7M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "野村哲也キャラデザの3DアクションRPGで、FF8体験版同梱が日本国内の販売を強烈に押し上げ累計約65万本。「でっかいシリーズ」第一弾としてスクウェアの非FF系アクション路線を象徴した。",
+  "concept": "剣戟と「吸魂（インカネート）」で敵能力を奪うアクションと、町・ダンジョン探索＋住人クエストを組み合わせた3Dアクション/RPG。コミカルな世界観と中ボス級ギミックでテンポよく進む。",
+  "target": "ファイナルファンタジー系のスクウェアIPに親しみつつ、より気軽な3Dアクションを楽しみたい90年代後半の10-20代プレイヤー層。",
+  "slug": "brave-fencer-musashi",
+  "file": "data/games/1424-brave-fencer-musashi.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Brave_Fencer_Musashi",
+    "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%95%E3%82%A7%E3%83%B3%E3%82%B5%E3%83%BC_%E6%AD%A6%E8%94%B5%E4%BC%9D",
+    "https://www.jp.square-enix.com/game/detail/musashi/",
+    "https://www.vgchartz.com/game/2950/brave-fencer-musashi/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

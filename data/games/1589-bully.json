@@ -1,0 +1,35 @@
+{
+  "id": 1589,
+  "title_jp": "ブリー (Canis Canem Edit)",
+  "title_en": "Bully",
+  "developer": "Rockstar Vancouver",
+  "publisher": "Rockstar Games",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "Xbox 360",
+    "Wii",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "1.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Rockstar が GTA で築いたオープンワールド手法を「学園もの」に持ち込んだ異色作。PAL では『Canis Canem Edit』に改題、リリース前のいじめ題材論争で大きな話題になった。",
+  "concept": "全寮制 Bullworth Academy に放り込まれたいじめっ子 Jimmy が、クリーク（不良・ナード・ジョック・プレッピー）間を渡り歩きながら学校の頂点を目指すオープンワールド学園アクション。授業ミニゲーム＋自由行動＋ストーリーミッションを GTA 構造で融合させた。",
+  "target": "GTA ライクなオープンワールド体験を年齢制限の薄い学園舞台で楽しみたい層、Rockstar 作品ファン、皮肉なアメリカ高校文化の表現に惹かれる層。",
+  "slug": "bully",
+  "file": "data/games/1589-bully.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Bully_(video_game)",
+    "https://en.wikipedia.org/wiki/Rockstar_Vancouver",
+    "https://bully.fandom.com/wiki/Bully:_Scholarship_Edition",
+    "https://www.vgchartz.com/game/13625/bully/"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1442,
+  "title_jp": "トゥームレイダーII",
+  "title_en": "Tomb Raider II",
+  "developer": "Core Design",
+  "publisher": "Eidos Interactive",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "PC",
+    "Mac"
+  ],
+  "genre": "アクションアドベンチャー/3D探索",
+  "sales_jp": "—",
+  "sales_world": "8M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ララ・クロフトを世界的アイコンに押し上げた続編で、ヴェネツィア・チベット・難破船など多彩なロケーションと拳銃二丁・グラップリングジャンプの爽快感が話題に。発売から数年で全世界 800 万本超を売り上げ、PS1 時代の3Dアクションアドベンチャーを象徴する一本となった。",
+  "slug": "tomb-raider-ii",
+  "file": "data/games/1442-tomb-raider-ii.json",
+  "concept": "古代遺跡から海底・雪山・都市まで世界各地を股にかける3D探索アクションアドベンチャー。ジャンプ・登攀・水中遊泳・銃撃を組み合わせ、トラップだらけのダンジョンを攻略しながら「龍の短剣」を巡る冒険を描く。",
+  "target": "PS1/PC 黎明期の3Dアクションアドベンチャーに惹かれた当時の中高生〜大人層、インディ・ジョーンズ的なトレジャーハント物語と謎解きジャンプアクションを同時に楽しみたい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tomb_Raider_II",
+    "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A0%E3%83%AC%E3%82%A4%E3%83%80%E3%83%BC2",
+    "https://retro-gamer.jp/?p=12830",
+    "https://kopenguin.com/post-68341/"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1331,
+  "title_jp": "アスファルト9: Legends (Asphalt Legends Unite)",
+  "title_en": "Asphalt 9: Legends",
+  "developer": "Gameloft Barcelona",
+  "publisher": "Gameloft",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Switch",
+    "Xbox One",
+    "Xbox Series X/S",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "アーケードレース",
+  "sales_jp": "—",
+  "sales_world": "Android のみで 1 億 DL 超、アスファルトシリーズ全体で累計 10 億 DL 突破",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ハイパーカー 150 台超を集めて TouchDrive で爽快ドリフトを決める「映える」アーケードレーサー。2024 年の Asphalt Legends Unite リブランドで PS5/Xbox Series まで対応プラットフォームを拡張し、シリーズ累計 10 億 DL を達成して話題化。",
+  "concept": "実車ライセンスのハイパーカーを集めて TouchDrive 操作で派手なジャンプ・ドリフト・ニトロを連発するアーケードレースの決定版。シングルキャリアに加えて 8 人同時のリアルタイム PvP「マルチプレイヤー」とクラブ協力イベントを軸に、課金とプレイで車両を強化していく F2P モデル。",
+  "target": "10〜30 代のモバイル中心のカジュアル〜ミドルコアレースゲーマー、車・ハイパーカー好き、リアル系（GT/フォルツァ）よりも派手で操作が軽いアーケードレースを好む層。"
+,
+  "slug": "asphalt-9-legends",
+  "file": "data/games/1331-asphalt-9-legends.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Asphalt_Legends",
+    "https://www.gameloft.com/newsroom/asphalt-9-legends-launches-on-new-platforms-now-4590",
+    "https://www.gematsu.com/2024/03/asphalt-legends-unite-announced-for-ps5-xbox-series-ps4-xbox-one-switch-pc-ios-and-android",
+    "https://gamebiz.jp/news/293848",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%95%E3%82%A1%E3%83%AB%E3%83%889:Legends"
+  ]
+}

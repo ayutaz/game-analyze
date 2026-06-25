@@ -1,0 +1,30 @@
+{
+  "id": 1581,
+  "title_jp": "ジャックII",
+  "title_en": "Jak II",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/サンドボックス",
+  "sales_jp": "—",
+  "sales_world": "1.7M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作のファンタジー路線から一転してダークでシリアスなディストピア都市「ヘブンシティ」を舞台にした続編。発売当時 Naughty Dog 史上最速のセールスを記録し、米国発売初月は NBA Live 2004 に次ぐ家庭用ゲーム 2 位を獲得した。",
+  "concept": "オープン都市「ヘブンシティ」を歩き回り、ガンプレイ・乗り物・ジェットボード・徒手格闘・プラットフォーム要素を組み合わせたミッション制 3D アクション。ダークエコによって暴走するもうひとりの自分「ダークジャック」をリソースとして駆使する戦闘体験が中核。",
+  "target": "前作『ジャック×ダクスター』のファンに加え、GTA 風オープン都市と Ratchet & Clank 的なガンアクションを 1 本で味わいたい PS2 世代のアクションゲーマー。10–30 代男性中心。",
+  "slug": "jak-ii",
+  "file": "data/games/1581-jak-ii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Jak_II",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%C3%97%E3%83%80%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC2",
+    "https://www.vgchartz.com/game/1045/jak-ii/",
+    "https://www.playstation.com/en-us/games/jak-ii-renegade/"
+  ]
+}

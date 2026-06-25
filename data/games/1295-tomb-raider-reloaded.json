@@ -1,0 +1,31 @@
+{
+  "id": 1295,
+  "title_jp": "トゥームレイダー：リローデッド",
+  "title_en": "Tomb Raider Reloaded",
+  "developer": "Emerald City Games",
+  "publisher": "CDE Entertainment / Square Enix",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ローグライク・トップダウンシューター",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "クラシック・ララ・クロフト造形回帰と Archero 系トップダウンシューター × ローグライクの組合せで話題化。Netflix Games 同時配信（広告/IAP なし版）と 2023/2/14 グローバル正式配信で注目を集めた。",
+  "concept": "シリーズ初のローグライク採用作。トレジャールームを縦移動で踏破しながら武器・能力・パーマネントアップグレードを蓄積する、クラシック造形ララ・クロフトによるカジュアル向けトップダウンアクション。",
+  "target": "Archero 等のモバイル・ローグライク好きと、サバイバー三部作以前のクラシック・ララのファン層。短時間で 1 ラン回せるソロ・アクションを求めるカジュアル～ミドル層。",
+  "slug": "tomb-raider-reloaded",
+  "file": "data/games/1295-tomb-raider-reloaded.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tomb_Raider_Reloaded",
+    "https://www.4gamer.net/games/539/G053997/20230215052/",
+    "https://gameinformer.com/2023/02/01/tomb-raider-reloaded-is-a-mobile-roguelike-starring-lara-croft-and-its-out-this-month",
+    "https://apps.apple.com/jp/app/tomb-raider-reloaded/id1501855577"
+  ]
+}

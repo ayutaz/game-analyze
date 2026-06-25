@@ -1,0 +1,35 @@
+{
+  "id": 1320,
+  "title_jp": "Moonlight Lovers",
+  "title_en": "Moonlight Lovers",
+  "developer": "Beemoov",
+  "publisher": "Beemoov",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "乙女ゲーム/ヴァンパイア恋愛ADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "フランス発の Beemoov（Eldarya / Amour Sucré で知られる）が手がける英語版乙女ゲームとして欧米の乙女ファン層で話題化。6 人のヴァンパイアそれぞれに独立アプリが配信され、Google Play 各キャラ版で数十万 DL を獲得した。",
+  "concept": "18 歳の誕生日に両親の屋敷を相続したヒロインが、そこに住みついた 6 人のヴァンパイアと出会うダーク・ロマンス。エピソード毎の選択肢で 3 種のエンディングへ分岐するビジュアルノベル形式で、キャラごとに別アプリ／別ルートを購入する章課金モデルを採る。",
+  "target": "10-30 代の女性、特に欧米圏の乙女ゲーム／ダークロマンス／ヴァンパイア恋愛 IP を好む層。Beemoov の Eldarya・Amour Sucré 既存ユーザーとブラウザ乙女ゲームに馴染んだ層が中核。",
+  "slug": "moonlight-lovers",
+  "file": "data/games/1320-moonlight-lovers.json",
+  "_source_urls": [
+    "https://moonlightlovers.fandom.com/wiki/Moonlight_Lovers",
+    "https://www.us.mlstaging.beemoov.com/",
+    "https://play.google.com/store/apps/details?id=com.beemoov.moonlight.vladimir",
+    "https://mobygames.com/game/moonlight-lovers-aaron"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

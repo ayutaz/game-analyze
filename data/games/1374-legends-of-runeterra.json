@@ -1,0 +1,33 @@
+{
+  "id": 1374,
+  "title_jp": "Legends of Runeterra",
+  "title_en": "Legends of Runeterra",
+  "developer": "Riot Games",
+  "publisher": "Riot Games",
+  "year": 2020,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "デジタル収集型カードゲーム (CCG)",
+  "sales_jp": "—",
+  "sales_world": "13M+ DL / 約$24M 収益（2021-2022 Sensor Tower 推定）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "League of Legends 世界観の正統派デジタルカードゲームとして 2020 年に PC/モバイル同時ローンチ。ガチャではなく確定入手・進行報酬を重視した「課金抑制型 CCG」として CCG コミュニティの注目を集めた。",
+  "concept": "LoL の IP・チャンピオン・地域を用いたクロスプラットフォーム CCG。ガチャに頼らずクエスト報酬とワイルドカード制でデッキを組める設計と、相手ターンに介入できるラリー方式の対話的バトルが特徴。",
+  "target": "LoL IP のファン、ハースストーン／シャドウバース等の CCG 経験者で、ガチャ確率より構築の自由度・対話的なターン設計を重視する 20-40 代のミッドコア PvP プレイヤー。",
+  "slug": "legends-of-runeterra",
+  "file": "data/games/1374-legends-of-runeterra.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Legends_of_Runeterra",
+    "https://sensortower.com/blog/riot-games-100-million-revenue",
+    "https://dotesports.com/mobile/news/riots-mobile-titles-wild-rift-legends-of-runeterra-and-tft-have-surpassed-100-million-in-player-spending-worldwide",
+    "https://playruneterra.com/ja-jp/news/launch-announcement-faq/",
+    "https://www.4gamer.net/games/482/G048215/20191015030/"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1802,
+  "title_jp": "うみねこのなく頃に散 Answer Arcs",
+  "title_en": "Umineko When They Cry - Answer Arcs",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "コミケ76（2009年8月）で頒布開始されたうみねこ後半 Episode 5-8。前半 Question Arcs で提示された「魔女のゲーム盤」に対する解答編として、ミステリ界隈・同人界隈で長期間議論を呼び、2017年に MangaGamer から英語公式版が出て海外でもカルト的人気を獲得。",
+  "concept": "竜騎士07によるサウンドノベル「うみねこのなく頃に」後半 4 話。前半で提示された連続殺人と「魔女のゲーム」に対する解答編として、推理と反証のメタゲーム構造を物語そのものに織り込み、読者＝戦人として真実を選び取る体験を提供する。",
+  "target": "ひぐらしのなく頃に／うみねこ前半の読者、本格ミステリ・新本格・メタフィクション好きの 20-40 代。長文サウンドノベルを腰を据えて読める層と、同人作品としての文脈を楽しむ層。",
+  "slug": "umineko-when-they-cry-answer-arcs",
+  "file": "data/games/1802-umineko-when-they-cry-answer-arcs.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Umineko_When_They_Cry",
+    "https://07th-expansion.fandom.com/wiki/Umineko_no_Naku_Koro_ni_Chiru",
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%BF%E3%81%AD%E3%81%93%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E6%95%A3",
+    "https://07th-expansion.fandom.com/wiki/End_of_the_Golden_Witch"
+  ]
+}

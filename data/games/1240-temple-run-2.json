@@ -1,0 +1,34 @@
+{
+  "id": 1240,
+  "title_jp": "テンプルラン2",
+  "title_en": "Temple Run 2",
+  "developer": "Imangi Studios",
+  "publisher": "Imangi Studios",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "エンドレスランナー/アクション",
+  "sales_jp": "—",
+  "sales_world": "1B+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "前作 Temple Run の正統続編として配信 4 日で 2,000 万 DL、2018 年に Google Play だけで 5 億 DL を突破。前作と合算で 15 億 DL 超のエンドレスランナー黎明期の代表格。",
+  "concept": "鉱山トロッコや滝などのギミックを足した洞窟脱出型エンドレスランナー。傾けて避け、スワイプでジャンプ/スライドし、コイン回収とスコア更新を非同期にランキングで競う。",
+  "target": "スマホ片手の数分プレイで気軽にハイスコアを狙いたいライトゲーマー、子どもから大人まで。Temple Run 1 やサブウェイサーファーズに親しんだ世代の定番カジュアル層。",
+  "slug": "temple-run-2",
+  "file": "data/games/1240-temple-run-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Temple_Run_2",
+    "https://app.famitsu.com/20130424_156711/",
+    "https://play.google.com/store/apps/details?id=com.imangi.templerun2"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

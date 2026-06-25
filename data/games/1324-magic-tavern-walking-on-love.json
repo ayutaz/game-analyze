@@ -1,0 +1,30 @@
+{
+  "id": 1324,
+  "title_jp": "MR. LOVE: DREAM DATE",
+  "title_en": "Magic Tavern (Walking on Love)",
+  "developer": "Papergames",
+  "publisher": "Magic Tavern",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "恋愛アドベンチャー/乙女ゲーム（カードバトル+ボイスチャット）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "中国本土版『恋与制作人』が2018年1月に1か月で約32M USDを売り上げ、女性向けスマホ恋愛ゲームのスタンダードを確立。海外版Mr Love: Dream Dateとして英語圏・東南アジアで継続運営、MAPPA制作のアニメ化（2020年）でファン層が拡大した。",
+  "concept": "プレイヤーは新米プロデューサーとして、超能力を持つ4人のイケメンと出会い、テキスト・通話・ボイスメッセージといったスマホネイティブなUIで恋愛を疑似体験する。カードガチャでイベントを解放し物語を進める、ライブサービス型乙女ゲーム。",
+  "target": "10代後半〜30代女性層、特にスマホで完結する手軽な恋愛シミュレーション・ボイスドラマを好む層。アニメやCV人気声優目当ての二次元コンテンツファンも中心顧客。",
+  "slug": "magic-tavern-walking-on-love",
+  "file": "data/games/1324-magic-tavern-walking-on-love.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mr_Love:_Queen%27s_Choice",
+    "https://otome.com/2025/11/16/mr-love-queens-choice-market-and-revenue/",
+    "https://app.sensortower.com/overview/1405514164?country=US"
+  ]
+}

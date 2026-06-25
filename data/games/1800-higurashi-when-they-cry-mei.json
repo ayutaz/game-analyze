@@ -1,0 +1,32 @@
+{
+  "id": 1800,
+  "title_jp": "ひぐらしのなく頃に命",
+  "title_en": "Higurashi When They Cry Mei",
+  "developer": "Smileaxe",
+  "publisher": "D-Techno / Mynet Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "サスペンスホラーRPG（ガチャ／オートバトル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "竜騎士07書き下ろし新規シナリオを擁する『ひぐらし』初の本格スマホゲーム化として2020年9月配信開始。キャラ衣装ガチャと完全新作ストーリーで原作ファンを取り込み、2022年末にディ・テクノからマイネットゲームスへ運営移管、約4年半運営の末2025年2月27日にサービス終了。",
+  "concept": "1983年の雛見沢大災害から10年後の1993年を舞台に、原作者・竜騎士07書き下ろしの完全新規シナリオを読み進めながらキャラクター衣装をガチャで集め、オートバトルでパーティを編成するサスペンスホラーRPG。読み物としての『ひぐらし』IPと、長期運営型ガチャRPGの収集・育成ループを接続した位置づけ。",
+  "target": "『ひぐらしのなく頃に』原作・アニメ・実写ドラマで興味を持った10代後半〜40代のIPファン層と、原作シナリオを完走済みで「公式の後日譚」を求める既存ファン。萌え＋猟奇のキャラ収集に抵抗のないモバイルガチャRPGユーザー。",
+  "slug": "higurashi-when-they-cry-mei",
+  "file": "data/games/1800-higurashi-when-they-cry-mei.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB_%E5%91%BD",
+    "https://www.mynet.co.jp/titles/higurashimei",
+    "https://gamebiz.jp/news/401500",
+    "https://07th-expansion.fandom.com/wiki/Higurashi_no_Naku_Koro_ni_Mei",
+    "https://game.watch.impress.co.jp/docs/news/1268696.html"
+  ]
+}

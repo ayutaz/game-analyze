@@ -1,0 +1,32 @@
+{
+  "id": 1538,
+  "title_jp": "サイレントヒル2",
+  "title_en": "Silent Hill 2",
+  "developer": "Team Silent / Konami",
+  "publisher": "Konami",
+  "year": 2001,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC"
+  ],
+  "genre": "サバイバルホラー/心理ホラー",
+  "sales_jp": "—",
+  "sales_world": "1.3M+ (オリジナル) / 5M+ (2024 リメイク)",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「妻からの手紙」で始まる心理ホラーの金字塔。多重エンディング・象徴的なボス（赤い三角頭ピラミッドヘッド）・ジェイムスの罪と贖罪をめぐる物語が今なおホラーゲーム史の最高峰として語られ、2024 年の Bloober Team リメイクで再評価が爆発した。",
+  "slug": "silent-hill-2",
+  "file": "data/games/1538-silent-hill-2.json",
+  "concept": "亡き妻からの手紙に導かれて霧の街サイレントヒルに辿り着いた主人公ジェイムスが、自分自身の罪と向き合う心理サバイバルホラー。モンスター＝主人公の心の投影という構造が日本産ホラーゲームに新時代を開いた。",
+  "target": "20-50 代のホラー／物語重視のゲーマー。フロイト的心理解釈や象徴主義を読み解きたい層、リメイクから入って 2001 年のオリジナルに遡る新規層にも刺さる。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Silent_Hill_2",
+    "https://en.wikipedia.org/wiki/Silent_Hill_2_(2024_video_game)",
+    "https://www.videogameschronicle.com/news/silent-hill-2-remake-has-sold-2-million-copies/",
+    "https://www.vgchartz.com/article/466035/silent-hill-2-remake-ships-25-million-units/"
+  ]
+}

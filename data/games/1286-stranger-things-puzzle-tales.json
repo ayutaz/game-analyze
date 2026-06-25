@@ -1,0 +1,31 @@
+{
+  "id": 1286,
+  "title_jp": "ストレンジャー・シングス：パズルテイルズ",
+  "title_en": "Stranger Things: Puzzle Tales",
+  "developer": "Next Games",
+  "publisher": "Netflix / Next Games",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズルRPG",
+  "sales_jp": "—",
+  "sales_world": "—（2021グローバル配信→2022 Netflix Games 専用化→2024-12-13サ終）",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "Netflix人気ドラマ『ストレンジャー・シングス』の公式マッチ3 RPG。2021年12月にiOS/Androidで世界配信、2022年11月にNetflix Games専用タイトル化（Netflixは2022年に約7,200万ドルでNext Gamesと本作権利を取得）。2024年12月13日に正式サービス終了し、Netflix Gamesで初めて完全クローズされた看板タイトルとなった。",
+  "concept": "ドラマ本編のキャラクター（イレブン、マイク、ホッパー、Vecna、Eddie Munson 等）を集めて編成し、マッチ3パズルでデモゴルゴンや裏側の世界の敵と戦う物語駆動のパズルRPG。原作の世界観・台詞・80sビジュアルをそのまま遊べる「公式 IP × カジュアル収集」設計。",
+  "target": "Netflix『ストレンジャー・シングス』ファンと、キャンディークラッシュ系マッチ3に物語性を求める英語圏中心の30-40代カジュアル層。シーズン配信に合わせて短時間遊ぶ層を想定。",
+  "slug": "stranger-things-puzzle-tales",
+  "file": "data/games/1286-stranger-things-puzzle-tales.json",
+  "_source_urls": [
+    "https://strangerthings.fandom.com/wiki/Stranger_Things:_Puzzle_Tales",
+    "https://www.nextgames.com/articles/next-games-launches-stranger-things-puzzle-tales-a-mobile-game-based-on-the-hit-series-2",
+    "https://www.whats-on-netflix.com/leaving-soon/stranger-things-puzzle-tales-shutting-down-and-leaving-netflix-games-in-december-2024/",
+    "https://www.pocketgamer.biz/news/77420/next-games-netflix-launch-stranger-things-puzzle-tales/"
+  ]
+}

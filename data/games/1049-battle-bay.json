@@ -1,0 +1,31 @@
+{
+  "id": 1049,
+  "title_jp": "Battle Bay",
+  "title_en": "Battle Bay",
+  "developer": "Rovio Entertainment",
+  "publisher": "Rovio",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアルタイム5v5海上PvPバトル",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Angry Birds の Rovio が初めて挑んだリアルタイム対戦モバイル。5 隻の艦種と武器・装甲・スキルを組み合わせる 5v5 海戦が MOBA ファンと艦船好きの両方に刺さり、10M+ DL を記録。",
+  "concept": "船を操って 5v5 でぶつかり合う、海上版 MOBA を志向したリアルタイム PvP。艦種ごとの役割（火力／盾／支援／速攻／狙撃）と装備カスタマイズで、短時間のセッションでも戦略性が立ち上がる。",
+  "target": "MOBA / シューター系のリアルタイム対戦を片手で遊びたい 10-30 代男性中心層。Angry Birds のカジュアル層を引き継ぎつつ、World of Warships 等の重量級海戦のライト代替を求めるユーザーにも届いた。",
+  "slug": "battle-bay",
+  "file": "data/games/1049-battle-bay.json",
+  "_source_urls": [
+    "https://www.rovio.com/games/battle-bay/",
+    "https://play.google.com/store/apps/details?id=com.rovio.battlebay&hl=en",
+    "https://pocketgamer.com/articles/073858/rovio-brings-the-real-time-pvp-combat-game-battle-bay-to-ios-and-android",
+    "https://gamesbeat.com/rovio-ships-battle-bay-wave-combat-mobile-game/"
+  ]
+}

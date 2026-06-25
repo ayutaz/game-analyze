@@ -1,0 +1,29 @@
+{
+  "id": 1563,
+  "title_jp": "Rise of the Kasai",
+  "title_en": "Rise of the Kasai",
+  "developer": "BottleRocket Entertainment / SCE San Diego Studio",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/ステルス",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『The Mark of Kri』の続編として、二人主人公の切替操作と水墨画風カットシーンが評価された PS2 後期のカルト的アクション。Metacritic 68 / GameRankings 70 点台で批評は賛否両論ながらコアファンに長く支持された。",
+  "concept": "ポリネシア×アジア神話を融合した独自世界で、戦士 Rau と少年 Tati を切替えながら剣劇・弓・潜入を使い分けるシネマティック・アクションアドベンチャー。流麗な近接コンボとステルス暗殺の両立がシリーズ最大の個性。",
+  "target": "PS2 世代の硬派アクション/ステルス愛好家、『The Mark of Kri』の続編を待っていたファン、ナラティブ重視のカルト作を掘りたい層。",
+  "slug": "rise-of-the-kasai",
+  "file": "data/games/1563-rise-of-the-kasai.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rise_of_the_Kasai",
+    "https://www.metacritic.com/game/rise-of-the-kasai/",
+    "https://www.vgchartz.com/game/1907/rise-of-the-kasai/"
+  ]
+}

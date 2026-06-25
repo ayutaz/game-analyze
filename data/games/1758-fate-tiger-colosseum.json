@@ -1,0 +1,29 @@
+{
+  "id": 1758,
+  "title_jp": "Fate/tiger colosseum",
+  "title_en": "Fate/tiger colosseum",
+  "developer": "Cavia",
+  "publisher": "Capcom",
+  "year": 2007,
+  "platform": [
+    "PSP"
+  ],
+  "genre": "3D対戦格闘",
+  "sales_jp": "68,677",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Fate/stay nightキャラがちびキャラ化して対戦するスピンオフ格闘ゲーム。発売初週54,880本で国内4位、最終的に国内68,677本を記録した。",
+  "concept": "TYPE-MOON監修の下、Fate/stay nightの登場人物をちびキャラ化して3D対戦格闘に落とし込んだファンサービス作品。藤村大河（タイガ）を冠した遊び心あふれるスピンオフ。",
+  "target": "Fate/stay nightシリーズおよびTYPE-MOON作品のファン層。原作キャラを軽い対戦アクションで楽しみたいPSPユーザー、特に20代前後のオタク・ライトノベル読者層。",
+  "slug": "fate-tiger-colosseum",
+  "file": "data/games/1758-fate-tiger-colosseum.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/tiger_colosseum",
+    "https://typemoon.fandom.com/wiki/Fate/tiger_colosseum",
+    "https://gamefaqs.gamespot.com/psp/938978-fate-tiger-colosseum"
+  ]
+}

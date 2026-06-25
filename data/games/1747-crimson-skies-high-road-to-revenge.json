@@ -1,0 +1,28 @@
+{
+  "id": 1747,
+  "title_jp": "クリムゾン・スカイ",
+  "title_en": "Crimson Skies: High Road to Revenge",
+  "developer": "FASA Studio",
+  "publisher": "Microsoft Game Studios",
+  "year": 2003,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "アーケード飛行アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Xbox Live 黎明期を代表する 16 人オンライン空中戦タイトルとして評価が高く、メタクリティック 89 の高評価で「Xbox の隠れた名作」として語り継がれている。",
+  "concept": "1930 年代の架空のアメリカ分裂世界を舞台に、空賊として複葉機・飛行船を乗り換えながらアーケード感覚の空中戦と任務遂行を楽しむ飛行アクション。シングルキャンペーンとオンライン対戦の両輪で構成される。",
+  "target": "ロケットラウンチャー級の爽快な空中アクションとパルプ的世界観を好む層、Xbox Live 初期の対戦コミュニティに参加していた洋ゲーファン層。",
+  "slug": "crimson-skies-high-road-to-revenge",
+  "file": "data/games/1747-crimson-skies-high-road-to-revenge.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crimson_Skies:_High_Road_to_Revenge",
+    "https://www.metacritic.com/game/crimson-skies-high-road-to-revenge/"
+  ]
+}

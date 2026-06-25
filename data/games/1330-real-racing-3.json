@@ -1,0 +1,30 @@
+{
+  "id": 1330,
+  "title_jp": "リアルレーシング3",
+  "title_en": "Real Racing 3",
+  "developer": "Firemonkeys Studios",
+  "publisher": "Electronic Arts",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "リアル系レーシング/シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "実車ライセンス（Ferrari/Porsche/Lamborghini 等）とフォトリアルなグラフィックを基本無料モバイルで実現し、初代から続く長期運営で累計 5 億 DL 超。Time Shifted Multiplayer（TSM）による非同期マルチが業界標準を作った。",
+  "concept": "実在サーキットと実車を再現したフォトリアル・レーシングを、TSM 方式の非同期マルチプレイで「他プレイヤーのゴーストと競う」体験に落とし込んだスマホ向けシム寄りレース。F1 / NASCAR / Le Mans の公式コラボイベントを長期運営で更新し続ける。",
+  "target": "ハードコアな据置レースシム（GT/Forza）には届かないが、通勤の合間に実車を運転したい 20–40 代の自動車・モータースポーツ好き。F1 や耐久レース好きの大人層に強い。",
+  "slug": "real-racing-3",
+  "file": "data/games/1330-real-racing-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Real_Racing_3",
+    "https://www.ea.com/games/real-racing/real-racing-3",
+    "https://ja.wikipedia.org/wiki/Real_Racing"
+  ]
+}

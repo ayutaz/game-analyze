@@ -1,0 +1,29 @@
+{
+  "id": 1971,
+  "title_jp": "リドル ジョーカー",
+  "title_en": "Riddle Joker",
+  "developer": "Yuzusoft",
+  "publisher": "Yuzusoft / NekoNyan",
+  "year": 2018,
+  "platform": [
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ゆずソフト10作目として2018年3月発売、可愛いヒロインと能力者×潜入諜報設定で美少女ゲームファンに高評価。2020年12月にNekoNyanから英訳版がSteamリリースされ海外でも話題に。",
+  "concept": "アストラル能力という超常能力が存在する近未来を舞台に、秘密組織のエージェントである主人公が学園に潜入し、ヒロインとの恋愛を進めながら陰謀に巻き込まれていく恋愛アドベンチャー。",
+  "target": "ゆずソフト作品を継続的に追う美少女ゲーム/恋愛アドベンチャーファン層、能力バトル要素混じりの学園恋愛ものを好むPC18禁ゲームユーザー。",
+  "slug": "riddle-joker",
+  "file": "data/games/1971-riddle-joker.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/RIDDLE_JOKER",
+    "https://www.yuzu-soft.com/products/riddle/",
+    "https://store.steampowered.com/app/1277930/Riddle_Joker/",
+    "https://riddle.nekonyansoft.com/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/RiddleJoker"
+  ]
+}

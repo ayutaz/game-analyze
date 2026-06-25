@@ -1,0 +1,35 @@
+{
+  "id": 1746,
+  "title_jp": "ジェイド・エンパイア",
+  "title_en": "Jade Empire",
+  "developer": "BioWare",
+  "publisher": "Microsoft Game Studios",
+  "year": 2005,
+  "platform": [
+    "Xbox",
+    "PC",
+    "Mac",
+    "iOS",
+    "Android",
+    "Xbox One"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "500K+ (2005年7月時点)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "BioWareがKOTORの直後に手掛けた武侠ファンタジーRPGとしてXbox独占で話題に。後の Mass Effect / Dragon Age に繋がる「会話選択肢×善悪二元論×アクション戦闘」の原型として再評価されている。",
+  "concept": "古代中国風の架空王朝「翡翠帝国」を舞台に、武術師範の弟子として師の仇を討つアクションRPG。リアルタイムの徒手・武器・呪術コンボとモラル選択肢による会話を組み合わせ、BioWare 流の物語型 RPG を東洋武侠の意匠で再構成した実験作。",
+  "target": "BioWare の KOTOR / Mass Effect 系会話選択 RPG が好きな層、武侠・カンフー映画的世界観を好む海外 RPG ファン、Xbox 後期の名作レトロを掘り返したい層。",
+  "slug": "jade-empire",
+  "file": "data/games/1746-jade-empire.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Jade_Empire",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%89_%E3%82%A8%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2_%E3%80%9C%E7%BF%A1%E7%BF%A0%E3%81%AE%E5%B8%9D%E5%9B%BD%E3%80%9C",
+    "https://www.4gamer.net/games/030/G003074/20151202038/",
+    "https://www.xbox.com/ja-JP/games/store/44k444kn44kk44ojioocqoodsodkeocpoocoidvvz7nv6hnv6djga7luj3lm70/c40fnr9xdvk5"
+  ]
+}

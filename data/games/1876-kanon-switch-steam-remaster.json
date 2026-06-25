@@ -1,0 +1,30 @@
+{
+  "id": 1876,
+  "title_jp": "Kanon (Switch / Steam リマスター)",
+  "title_en": "Kanon (Switch / Steam Remaster)",
+  "developer": "Key / Prototype",
+  "publisher": "Prototype / Visual Arts",
+  "year": 2023,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル（泣きゲー）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "1999年PC原典の“泣きゲー”の原点が、21年ぶりのフルボイス移植としてSwitch/Steamに復活。HD化と堀江由衣・川澄綾子ら声優陣でSNSで「うぐぅ」が再燃し、Steam版は英語・簡体字対応で海外VNファンにも届いた。",
+  "concept": "Keyの原点であり“泣きゲー”ジャンルを確立した1999年のビジュアルノベルを、HD解像度・フルボイス・16:9対応・タッチ操作（Steam Deck含む）でモダン環境向けに再構築したリマスター。物語と演出を当時の感触のまま現行機で読み返すための決定版。",
+  "target": "原典をPC/PS2でプレイした30-40代の往年のKeyファンに加え、CLANNAD/AIR/Summer Pocketsから入った若い世代のビジュアルノベル読者、海外の英語/中国語VN愛好家。",
+  "slug": "kanon-switch-steam-remaster",
+  "file": "data/games/1876-kanon-switch-steam-remaster.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Kanon_(video_game)",
+    "https://www.famitsu.com/news/202304/20300185.html",
+    "https://www.4gamer.net/games/676/G067678/20230131039/",
+    "https://www.animenewsnetwork.com/news/2024-05-18/kanon-visual-novel-listed-on-steam-as-coming-soon/.210945",
+    "https://finalweapon.net/2024/10/29/kanon-update-english-simplified-chinese-text-patch-notes/"
+  ]
+}

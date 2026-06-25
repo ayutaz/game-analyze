@@ -1,0 +1,32 @@
+{
+  "id": 1403,
+  "title_jp": "クロノ・クロス",
+  "title_en": "Chrono Cross",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1999,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "RPG",
+  "sales_jp": "0.85M",
+  "sales_world": "1.5M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『クロノ・トリガー』の続編として 1999 年に発売され、平行世界 45 人のパーティ加入と「運命と並行世界」をテーマにした重厚なシナリオ・光田康典の音楽が高く評価。GameSpot で満点 10.0 を獲得し、2022 年にはリマスター『Radical Dreamers Edition』も発売された。",
+  "slug": "chrono-cross",
+  "file": "data/games/1403-chrono-cross.json",
+  "concept": "平行世界の自分と入れ替わってしまった少年セルジュを巡る、運命と並行世界をテーマにした重層的なシナリオ RPG。45 人もの仲間が加入し、エレメント方式の戦闘と光田康典の民族色豊かな楽曲で「文学的な JRPG」の到達点とされる。",
+  "target": "20-40 代の JRPG ファン、特に『クロノ・トリガー』世代と、重厚な物語・哲学的テーマ・名作サウンドトラックを求める層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Chrono_Cross",
+    "https://chrono.fandom.com/wiki/Chrono_Cross",
+    "https://www.vgchartz.com/game/360/chrono-cross/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

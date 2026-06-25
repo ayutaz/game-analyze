@@ -1,0 +1,29 @@
+{
+  "id": 2080,
+  "title_jp": "パラダイムパラドックス",
+  "title_en": "Paradigm Paradox",
+  "developer": "Otomate",
+  "publisher": "Aksys Games",
+  "year": 2021,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "乙女ゲーム/恋愛アドベンチャー(ビジュアルノベル)",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "オトメイト×声優ユニット「8P(Eight Pieces)」コラボによる女性向けSF恋愛ADV。攻略対象キャラクターが戦闘時に女性へと変身するジェンダースワップ設定と、「正義」「悪」二面構成の8ルートで話題を呼んだ。",
+  "concept": "西暦25XX年、害獣の襲来で外界が住めなくなりドーム型コロニーへ追いやられた人類の世界を舞台に、変身能力を得た主人公が魔法少女チームに加入する乙女ADV。攻略キャラ全員が戦闘時に女性化する独自設定と、ヒーロー側／ヴィラン側どちらにも分岐するルート構造が特徴。",
+  "target": "20-30代の女性、オトメイト系コア層に加え、魔法少女・戦隊もの・ジェンダーベンディング題材を好む層。シリアスなSF世界観のビジュアルノベルを腰を据えて読みたいプレイヤー向け。",
+  "slug": "paradigm-paradox-aksys",
+  "file": "data/games/2080-paradigm-paradox-aksys.json",
+  "_source_urls": [
+    "https://www.otomate.jp/paradigm_paradox/",
+    "https://english-otome-games.fandom.com/wiki/Paradigm_Paradox",
+    "https://www.siliconera.com/review-paradigm-paradox-is-a-switch-otome-where-loves-not-a-priority/",
+    "https://blerdyotome.com/2022/10/23/paradigm-paradox-nintendo-switch-otome-review/",
+    "https://store.shopping.yahoo.co.jp/1932/73936.html"
+  ]
+}

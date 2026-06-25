@@ -1,0 +1,30 @@
+{
+  "id": 1469,
+  "title_jp": "グランド・セフト・オート: ロンドン 1969",
+  "title_en": "Grand Theft Auto: London 1969",
+  "developer": "Rockstar Canada / DMA Design",
+  "publisher": "Rockstar Games",
+  "year": 1999,
+  "platform": [
+    "PC",
+    "PS1"
+  ],
+  "genre": "クライム/トップダウン・アクション（拡張パック）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "初代 GTA のミッションパック #1 として 1969 年のロンドンを舞台に車・通貨・スラングまで英国仕様に置き換え、シリーズ初の正式拡張として話題に。",
+  "concept": "1997 年の初代 GTA エンジンを流用し、舞台を 60 年代末ロンドンへ移植したミッション拡張。左側通行・ミニクーパー・ポンド硬貨など英国コージー文化をクライム俯瞰アクションに織り込む。",
+  "target": "初代 GTA 経験者で追加コンテンツを求める PC/PS1 ユーザー、英国 60 年代カルチャー（ギャング映画・スウィンギング・ロンドン）に親しみのある層。",
+  "slug": "grand-theft-auto-london-1969",
+  "file": "data/games/1469-grand-theft-auto-london-1969.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_London_1969",
+    "https://www.rockstargames.com/games/gtalondon",
+    "https://gta.fandom.com/wiki/Grand_Theft_Auto:_London_1969"
+  ]
+}

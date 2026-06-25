@@ -1,0 +1,34 @@
+{
+  "id": 1264,
+  "title_jp": "Stick War: Legacy",
+  "title_en": "Stick War: Legacy",
+  "developer": "Max Games Studios",
+  "publisher": "Max Games Studios",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "リアルタイムストラテジー/タワーディフェンス",
+  "sales_jp": "—",
+  "sales_world": "330M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "棒人間グラフィックの分かりやすさと、ユニット生産から進軍まで全てを自分で操作する RTS の手応えで世界累計 3 億 DL を突破。Flash 時代の Stick War シリーズを継承し、モバイル RTS の代表格として長期間チャートに残り続けている。",
+  "slug": "stick-war-legacy",
+  "file": "data/games/1264-stick-war-legacy.json",
+  "concept": "棒人間が槍兵・弓兵・剣士・魔法使いなど多種ユニットを生産し、相手の像を破壊する 2D リアルタイムストラテジー。ユニットを個別に操作する「コントロール」モードで一体ずつ手動戦闘もできるのが特徴。",
+  "target": "10-30 代の RTS / タワーディフェンス好き、Flash 時代の Stick War を遊んでいた層、短時間で戦略ゲームを完結させたいモバイル層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Stick_War",
+    "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy",
+    "https://apps.apple.com/us/app/stick-war-legacy/id1141609182"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1754,
+  "title_jp": "Fate/hollow ataraxia",
+  "title_en": "Fate/hollow ataraxia",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON",
+  "year": 2005,
+  "platform": [
+    "PC",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "ビジュアルノベル/伝奇ファンタジー",
+  "sales_jp": "200K+ (PC) / 100K+ (PS Vita)",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Fate/stay night の正統続編として登場し、PC 版だけで 20 万本超を売り上げた伝説的ファンディスク。2014 年の PS Vita 移植は初週 5.4 万本で週間 4 位、2025 年には Switch/PC 向けリマスター版が発売され再度話題に。",
+  "concept": "聖杯戦争終結後の冬木市を舞台に、士郎とヒロインたちの「終わらない 4 日間」を描く Fate/stay night のアフターストーリー。本編キャラ全員が登場し、シリアスからギャグまで多彩なルートで Fate ワールドを総ざらいする。",
+  "target": "Fate/stay night 本編をクリア済みのファン、TYPE-MOON 作品で世界観の余韻に浸りたい層、長編ビジュアルノベルを腰を据えて読み込みたい 20-40 代のオタク層。",
+  "slug": "fate-hollow-ataraxia",
+  "file": "data/games/1754-fate-hollow-ataraxia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fate/Hollow_Ataraxia",
+    "https://typemoon.fandom.com/wiki/Fate/hollow_ataraxia",
+    "https://store.steampowered.com/app/2396990/Fatehollow_ataraxia_REMASTERED/",
+    "https://www.famitsu.com/article/202508/48879",
+    "https://www.4gamer.net/games/825/G082534/20250802009/",
+    "https://temple-knights.com/archives/2005/11/fate-hollow-ataraxia-14.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

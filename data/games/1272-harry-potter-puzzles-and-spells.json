@@ -1,0 +1,36 @@
+{
+  "id": 1272,
+  "title_jp": "ハリー・ポッター：呪文と魔法のパズル",
+  "title_en": "Harry Potter: Puzzles & Spells",
+  "developer": "Zynga",
+  "publisher": "Zynga",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "マッチ3パズル/IPコラボ",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "原作映画のサウンドトラックとボイスをそのまま使い、Zaynマリクとのコラボ発表で話題化。リリース1周年時点で2,000以上のステージを擁するハリー・ポッター公式マッチ3として中堅ヒット。",
+  "concept": "Candy Crush 系の王道マッチ3に「杖選び・組分け・呪文・カード収集」のハリポタIP要素を被せたカジュアル収集ゲーム。プリベット通りからホグワーツへ続くストーリー進行を、パズルクリア×カード収集の繰り返しで追体験させる構造。",
+  "target": "ハリー・ポッター映画ファンの30-50代、特に女性層と非ゲーマー層。普段はCandy Crush / Royal Match 系を遊んでいるカジュアルパズル層で、IP愛着から課金・継続率が伸びるタイプ。",
+  "slug": "harry-potter-puzzles-and-spells",
+  "file": "data/games/1272-harry-potter-puzzles-and-spells.json",
+  "_source_urls": [
+    "https://www.zynga.com/blog/zynga-launches-harry-potter-puzzles-spells-worldwide/",
+    "https://harrypotter.fandom.com/wiki/Harry_Potter:_Puzzles_%26_Spells",
+    "https://gamebiz.jp/?p=277133",
+    "https://www.4gamer.net/games/530/G053079/",
+    "https://game-i.daa.jp/?APP/1434505322&Ym=2024/04"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

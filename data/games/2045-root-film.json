@@ -1,0 +1,31 @@
+{
+  "id": 2045,
+  "title_jp": "√Film ルートフィルム",
+  "title_en": "Root Film",
+  "developer": "Kadokawa Games",
+  "publisher": "Kadokawa Games / PQube",
+  "year": 2020,
+  "platform": [
+    "Switch",
+    "PS4",
+    "PC"
+  ],
+  "genre": "ミステリーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『√Letter ルートレター』の精神的続編として 2020 年 7 月に発売。島根県を舞台にした実写背景＋ノベル形式の連続殺人ミステリーで、ファミ通クロスレビュー 8.0、Steam「やや好評」と前作の問題作扱いから一転して堅実な評価を獲得。",
+  "concept": "島根県を実写背景で再現し、新人映画監督と若手女優のダブル主人公で「島根ミステリードラマプロジェクト」を巡る連続殺人を解き明かす実写背景ミステリーアドベンチャー。証言から矛盾を突く「マックスモード」尋問システムが操作の中心。",
+  "target": "ノベル系ミステリーが好きな 20-40 代男女、逆転裁判やダンガンロンパなど推理ノベルファン、前作『√Letter』経験者、島根県や聖地巡礼を楽しみたい層。",
+  "slug": "root-film",
+  "file": "data/games/2045-root-film.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Root_Film",
+    "https://www.famitsu.com/games/t/39233/reviews/",
+    "https://www.4gamer.net/games/323/G032368/20220419082/",
+    "https://dengekionline.com/articles/44223/",
+    "https://www.root-film.com/special/recommend.html"
+  ]
+}

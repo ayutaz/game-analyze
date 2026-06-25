@@ -1,0 +1,33 @@
+{
+  "id": 1235,
+  "title_jp": "ジャングリー・ラミー",
+  "title_en": "Junglee Rummy",
+  "developer": "Junglee Games",
+  "publisher": "Junglee Games (Flutter)",
+  "year": 2012,
+  "platform": [
+    "Android",
+    "iOS",
+    "Browser"
+  ],
+  "genre": "オンラインラミー/リアルマネーカードゲーム",
+  "sales_jp": "—",
+  "sales_world": "100M+ 登録ユーザー（Howzat 合算で 150M+）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "インド最大級のラミー専門プラットフォームで登録ユーザー 1 億人超。2021 年に Flutter Entertainment が買収、2025 年のインド政府によるリアルマネーゲーム禁止法を受けて事業停止が話題に。",
+  "concept": "インド古典のカードゲーム「ラミー」をオンライン対戦化したリアルマネー型プラットフォーム。ポイントラミー/プールラミー/ディールラミーなど複数フォーマットを 24 時間マッチングで提供する。",
+  "target": "インド在住の成人カードゲーム愛好者層。テンパティやポーカーと並ぶ「賭けて楽しむ」カードカルチャー層を中心に、地方都市まで広く浸透。",
+  "slug": "junglee-rummy",
+  "file": "data/games/1235-junglee-rummy.json",
+  "_source_urls": [
+    "https://www.jungleerummy.com/",
+    "https://www.pocketgamer.biz/junglee-games-parent-flutter-records-556m-impairment-over-real-money-gaming-law-in-india/",
+    "https://inc42.com/buzz/pokerstars-owner-flutter-grabs-majority-stake-in-junglee-rummy/",
+    "https://play.google.com/store/apps/details?id=com.jungleerummy.playcashgameonline&hl=en_IN&gl=IN",
+    "https://apps.apple.com/in/app/junglee-rummy-play-rummy-game/id1386059227"
+  ]
+}

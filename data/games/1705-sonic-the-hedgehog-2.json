@@ -1,0 +1,26 @@
+{
+  "id": 1705,
+  "title_jp": "ソニック・ザ・ヘッジホッグ2",
+  "title_en": "Sonic the Hedgehog 2",
+  "developer": "Sega Technical Institute / Sonic Team",
+  "publisher": "Sega",
+  "year": 1992,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "2D 高速横スクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "6M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "Mega Drive 期 Sega の代表作で、テイルス導入とスピン・ダッシュ追加、2P 同時/対戦モードによりシリーズ最大級のヒット（メガドライブ単体で約 600 万本）となった。",
+  "concept": "前作の高速横スクロールを洗練し、相棒テイルスとのバディプレイ、スピン・ダッシュによる加速、ゾーン構成の多彩化で「走る快感」を最大化した 2D アクションの金字塔。",
+  "target": "1990 年代 Mega Drive/Genesis 世代のアクションゲーマー、ソニック IP を入り口にレトロ名作を遊びたい層、2P 協力・対戦で当時の体験を共有したい層。",
+  "slug": "sonic-the-hedgehog-2",
+  "file": "data/games/1705-sonic-the-hedgehog-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2",
+    "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%98%E3%83%83%E3%82%B8%E3%83%9B%E3%83%83%E3%82%B02"
+  ]
+}

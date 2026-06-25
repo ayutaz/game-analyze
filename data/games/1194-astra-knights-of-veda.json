@@ -1,0 +1,34 @@
+{
+  "id": 1194,
+  "title_jp": "ASTRA: Knights of Veda",
+  "title_en": "ASTRA: Knights of Veda",
+  "developer": "FLINT",
+  "publisher": "HYBE IM",
+  "year": 2024,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "2Dベルトスクロール アクションRPG / ガチャ",
+  "sales_jp": "—",
+  "sales_world": "事前登録100万超（2024年3月、約1週間で達成）",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "HYBE IM（BTS所属レーベル傘下のゲーム部門）初の本格RPGとして注目。事前登録1週間で100万人を突破し、ダークファンタジー世界×2D美麗グラフィック×ベルトスクロール戦闘×ガチャの組み合わせで配信開始時に韓国・日本のモバイル/Steamで話題化。",
+  "concept": "FLINTが6年以上開発したダークメディーバル・ファンタジー『プラニス』を舞台にした2Dベルトスクロール型アクションRPG。豪華フルボイスのストーリー、回避とスキル連携が要求される手触り重視の戦闘、そしてキャラを集めて強化するガチャシステムを軸に、PC/iOS/Androidクロスプレイで提供される。",
+  "target": "原神/崩壊シリーズ系の縦軸ガチャARPGに飽きた層、2DアニメティックなアートワークとダークファンタジーIPを好む20-40代、ベルトスクロール/横スクロールアクションを好む層、HYBE/K-IPに関心がある層。",
+  "slug": "astra-knights-of-veda",
+  "file": "data/games/1194-astra-knights-of-veda.json",
+  "_source_urls": [
+    "https://www.gematsu.com/2024/03/astra-knights-of-veda-launches-april-2",
+    "https://store.steampowered.com/app/2484250/ASTRA_Knights_of_Veda/?l=japanese",
+    "https://www.gamespark.jp/article/2023/08/15/132998.html",
+    "https://play.google.com/store/apps/details?id=com.hybeim.astra&hl=en",
+    "https://www.metacritic.com/game/astra-knights-of-veda/"
+  ]
+}

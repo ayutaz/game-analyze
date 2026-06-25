@@ -1,0 +1,32 @@
+{
+  "id": 1327,
+  "title_jp": "Cinderella Phenomenon",
+  "title_en": "Cinderella Phenomenon",
+  "developer": "Dicesuki",
+  "publisher": "Dicesuki",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "Steam 3,259件レビュー 96%好評（無料配布）",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "完全無料の英語製乙女ゲーとして英語圏で話題化、Steam 96%好評で「無料とは思えないクオリティ」と評価された。おとぎ話モチーフの呪い設定と複数攻略ルートで海外乙女コミュニティに浸透。",
+  "concept": "童話「シンデレラ」をモチーフに、傲慢な王女ルセットが呪いをかけられ身分を失った状態で運命の相手と関係を築いていく英語製の無料乙女ビジュアルノベル。Dicesuki が個人開発・自主配信した作品。",
+  "target": "海外向け英語乙女ゲームに親しむ女性プレイヤー層、童話リテリングやダーク・ファンタジー恋愛が好きな層、無料インディービジュアルノベルを探すビジュアルノベルファン。",
+  "slug": "cinderella-phenomenon",
+  "file": "data/games/1327-cinderella-phenomenon.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/568770/Cinderella_Phenomenon__OtomeVisual_Novel/",
+    "https://dicesuki.itch.io/cinderella-phenomenon",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CinderellaPhenomenon"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1471,
+  "title_jp": "メディーバル2",
+  "title_en": "MediEvil 2",
+  "developer": "SCE Studio Cambridge",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2000,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作『メディーバル 甦ったガロメアの勇者』の続編として、ヴィクトリア朝ロンドンを舞台にした骸骨騎士サー・ダニエル・フォーテスクの新たな冒険を描き、海外で根強いファンを持つカルト的人気作。日本未発売。",
+  "concept": "500年後のヴィクトリア朝ロンドンで蘇った骸骨騎士が、魔術師ロード・ペイルソーンと切り裂きジャックの陰謀を阻止する三人称視点のアクションアドベンチャー。コミカルでホラー風味のあるブリティッシュ・ユーモアと多彩な武器・ステージ構成が特徴。",
+  "target": "前作のファン、ティム・バートン的なゴシック・コミカル世界観を好む層、PS1時代の海外アクションアドベンチャーに親しんだプレイヤー。",
+  "slug": "medievil-2",
+  "file": "data/games/1471-medievil-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/MediEvil_2",
+    "https://gamefaqs.gamespot.com/ps/197893-medievil-ii/data",
+    "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%83%BC%E3%83%90%E3%83%AB_%E7%94%A6%E3%81%A3%E3%81%9F%E3%82%AC%E3%83%AD%E3%83%A1%E3%82%A2%E3%81%AE%E5%8B%87%E8%80%85"
+  ]
+}

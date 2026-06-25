@@ -1,0 +1,28 @@
+{
+  "id": 1749,
+  "title_jp": "メックアサルト2 ローンウルフ",
+  "title_en": "MechAssault 2: Lone Wolf",
+  "developer": "Day 1 Studios / FASA Studio",
+  "publisher": "Microsoft Game Studios",
+  "year": 2004,
+  "platform": [
+    "Xbox"
+  ],
+  "genre": "メック・アクションシューター",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Xbox Live を活用した最大12人マルチプレイと、メックから降りて歩兵/車輌に乗り換えられる新システムで Halo 2 後の年末商戦に投入された BattleTech 系メックアクションの代表作。",
+  "concept": "BattleTech 世界の二足歩行メック「バトルメック」を操り、降車・乗り換え・破壊可能地形を組み合わせた爽快ACT。シングルキャンペーンに加え Xbox Live 対応マルチを主軸に据え、前作の対戦体験を大幅拡張した。",
+  "target": "Xbox/Xbox Live 黎明期のオンライン対戦プレイヤー、ロボット/メック物のSF設定（BattleTech・MechWarrior）を好む層、ゲーム性で『Halo』とは違うシューターを求める北米のコア層。",
+  "slug": "mechassault-2-lone-wolf",
+  "file": "data/games/1749-mechassault-2-lone-wolf.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/MechAssault_2:_Lone_Wolf",
+    "https://www.metacritic.com/game/mechassault-2-lone-wolf/",
+    "https://game.watch.impress.co.jp/docs/20050208/mech2.htm",
+    "https://www.gamer.ne.jp/game/1000015554/"
+  ]
+}

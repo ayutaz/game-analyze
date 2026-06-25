@@ -1,0 +1,30 @@
+{
+  "id": 1474,
+  "title_jp": "オッドワールド エイブ '99",
+  "title_en": "Oddworld: Abe's Exoddus",
+  "developer": "Oddworld Inhabitants",
+  "publisher": "GT Interactive",
+  "year": 1998,
+  "platform": [
+    "PS1",
+    "PC"
+  ],
+  "genre": "シネマティック・パズルプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作『エイブ・ア・ゴーゴー』の1年後に投入された続編で、独自のチャント能力と仲間救出システムが拡張され、欧米ではPS版が独・オーストリア・スイス3国で「ゴールド賞（10万本超）」を獲得するなどコアファン層に支持された。",
+  "concept": "悪の企業に奴隷化された同胞ムドコンを「チャント（憑依）」と仲間救出ループで解放していくシネマティック横スクロールパズルアクション。死と再挑戦を繰り返しながら隠された全員を救うほど真エンディングに近づく、倫理ゲージ型のプラットフォーマー。",
+  "target": "1990年代後半のPS1黄金期に独自世界観のアドベンチャー／パズルを好んだコアゲーマー、シネマティックプラットフォーマー（Another World/Flashback系）愛好者、ダークユーモアとディストピア風刺を楽しめる10代後半～30代の層。",
+  "slug": "oddworld-abes-exoddus",
+  "file": "data/games/1474-oddworld-abes-exoddus.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Oddworld:_Abe's_Exoddus",
+    "https://store.steampowered.com/app/15710/Oddworld_Abes_Exoddus/",
+    "https://oddworld.fandom.com/wiki/Oddworld:_Abe's_Exoddus"
+  ]
+}

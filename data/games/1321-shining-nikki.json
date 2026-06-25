@@ -1,0 +1,36 @@
+{
+  "id": 1321,
+  "title_jp": "シャイニングニキ（閃耀暖暖）",
+  "title_en": "Shining Nikki",
+  "developer": "Papergames",
+  "publisher": "Papergames",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "3D着せ替えコーデRPG",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL (series)",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "ニキシリーズ初の3Dフル着せ替えとして話題化。中国版は配信初月46Mドル、日本版は事前登録50万人突破でApp Store無料ランキング1位を獲得。",
+  "concept": "ニキシリーズの3D進化形として「光り輝く美しさは運命を変える」をテーマに掲げた次世代着せ替えコーデRPG。衣装の質感・髪・小物まで3Dで作り込まれ、ストーリーと衣装収集の両輪で世界観を体験させる。",
+  "target": "10-30代の女性層、特に着せ替え・ファッション・キャラ造形にこだわるプレイヤー。ミラクルニキ等の旧作シリーズファンや、3D衣装の写真撮影をSNSで共有したい層。",
+  "slug": "shining-nikki",
+  "file": "data/games/1321-shining-nikki.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shining_Nikki",
+    "https://thinkingdata.io/customer-stories/paper-games-shining-nikki/",
+    "https://shiningnikki.jp/home",
+    "https://prtimes.jp/main/html/rd/p/000000010.000046454.html",
+    "https://www.4gamer.net/games/547/G054741/20210318003/",
+    "https://gamebiz.jp/news/291484"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

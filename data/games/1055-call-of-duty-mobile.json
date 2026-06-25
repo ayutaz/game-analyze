@@ -1,0 +1,31 @@
+{
+  "id": 1055,
+  "title_jp": "Call of Duty: Mobile",
+  "title_en": "Call of Duty: Mobile",
+  "developer": "TiMi Studio Group",
+  "publisher": "Activision (Garena / Tencent / VNG 各地域別)",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "モバイル FPS / バトルロイヤル",
+  "sales_jp": "—",
+  "sales_world": "650M+ DL / $1.9B+ revenue",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "リリース初月で1.48億DL・初年度4.8億ドルを叩き出し「史上最大のモバイルゲームローンチ」と報じられた。日本は米国に次ぐ第2位の課金市場として継続的にランクインし、累計売上は15億ドル超に到達。",
+  "concept": "据置 CoD のマルチプレイ（TDM / ドミネーション）とバトルロイヤル（100人 BR）をスマホ最適化操作で再現した F2P モバイル FPS。シーズン制パスとガチャ風武器スキンで収益を最大化する。",
+  "target": "10-30代の FPS/BR プレイヤー、特にコンソール版 CoD や PUBG Mobile/荒野行動の経験者で、出先でも本格的な撃ち合いを求める層。武器スキン課金にコミットするコアモバイルゲーマー。",
+  "slug": "call-of-duty-mobile",
+  "file": "data/games/1055-call-of-duty-mobile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Call_of_Duty:_Mobile",
+    "https://gamebiz.jp/news/278043",
+    "https://gamebiz.jp/news/344679",
+    "https://investor.activision.com/news-releases/news-release-details/call-duty-mobile-opens-massive-launch"
+  ]
+}

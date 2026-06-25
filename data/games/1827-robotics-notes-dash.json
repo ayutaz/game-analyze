@@ -1,0 +1,30 @@
+{
+  "id": 1827,
+  "title_jp": "ROBOTICS;NOTES DaSH",
+  "title_en": "Robotics;Notes DaSH",
+  "developer": "Mages / 5pb.",
+  "publisher": "5pb. / Spike Chunsoft",
+  "year": 2019,
+  "platform": [
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル/科学アドベンチャー",
+  "sales_jp": "10K+（初週 PS4 約4,360 / Switch 約2,834、Famitsu）",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『ROBOTICS;NOTES』の正統続編かつ科学アドベンチャーシリーズ最新作として、Steins;Gateのダルが登場するクロスオーバー要素でファンの間で話題に。2020年Spike Chunsoftによる英語版PC/PS4/Switchリリースで海外VNコミュニティにも展開した。",
+  "concept": "種子島の元ロボ部メンバーの後日談を描く、選択肢分岐型のサウンドノベル。本編『Elite』からの地続きとSteins;Gate世界とのクロスオーバーで科学アドベンチャーシリーズの結節点として機能する。",
+  "target": "Steins;Gate / Chaos;Head などMages科学アドベンチャー系列のファン、20-40代のVN/ADV愛好層。ロボティクス・ノーツ本編を遊んだ続編希望層。",
+  "slug": "robotics-notes-dash",
+  "file": "data/games/1827-robotics-notes-dash.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Robotics;Notes_DaSH",
+    "https://www.gematsu.com/tag/robotics-notes-dash",
+    "https://www.spike-chunsoft.com/games/roboticsnotes-double-pack/",
+    "https://www.pcgamingwiki.com/wiki/Robotics;Notes_DaSH"
+  ]
+}

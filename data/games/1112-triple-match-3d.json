@@ -1,0 +1,32 @@
+{
+  "id": 1112,
+  "title_jp": "Triple Match 3D",
+  "title_en": "Triple Match 3D",
+  "developer": "Boombox Games Ltd",
+  "publisher": "Miniclip",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "カジュアル/3Dマッチパズル",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "App Store/Google Play で累計1000万DL超、月90KDLで月商400万ドル規模の高収益カジュアルパズル。3Dの立体タイルから同じ3個を探して消す「トリプルマッチ」ジャンルの代表作で、累計IAP収益は1.3億ドルに達し、レビュー数33万超・平均4.9と高評価を維持している。",
+  "concept": "山積みになった3Dオブジェクトから同じものを3つ見つけてマッチさせ、制限時間内に盤面を空にする3Dマッチパズル。フルーツ・玩具・旅行小物などテーマ別のステージとブースター課金で長時間遊ばせる、Match3 / Triple Tile 系の派生フォーマット。",
+  "target": "20-50代の女性層中心のカジュアル / ハイパーカジュアル層。スキマ時間に短時間プレイしたい層、オフラインで遊べる脳トレ・整理整頓系パズルを好むプレイヤー。",
+  "slug": "triple-match-3d",
+  "file": "data/games/1112-triple-match-3d.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Triple_Match_3D",
+    "https://apps.apple.com/us/app/triple-match-3d/id1607122287",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/triple-match-3d",
+    "https://trendapps.dev/app/ios/1607122287/",
+    "https://appadvice.com/app/triple-match-3d/1607122287"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1440,
+  "title_jp": "ディノクライシス2",
+  "title_en": "Dino Crisis 2",
+  "developer": "Capcom Production Studio 4",
+  "publisher": "Capcom",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "PC"
+  ],
+  "genre": "サバイバルアクション/シューティング",
+  "sales_jp": "—",
+  "sales_world": "1.19M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作のサバイバルホラー路線から一転、コンボスコア制のアクションシューティングへ大胆に方向転換し、恐竜を撃ち倒す爽快感で支持を獲得。2025年にGOG/Steamで国際版PC配信が始まり日本語ローカライズ復活が話題に。",
+  "slug": "dino-crisis-2",
+  "file": "data/games/1440-dino-crisis-2.json",
+  "concept": "前作の謎解き重視サバイバルホラーを捨て、恐竜の群れをコンボで連続撃破するスコアアタック型アクションシューターに振り切ったシリーズ最大の意欲作。ジル/レジーナのバイオ的キャラ運用とTPS的銃撃戦を融合させた。",
+  "target": "PS1世代のバイオハザード/サバイバルホラー経験者で、より手応えのあるアクションとアーケード的スコア体験を求める層。恐竜映画/B級アクション好き、コンボ系シューティングを快く感じる中級ゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dino_Crisis_2",
+    "https://www.capcom-games.com/product/ja-jp/dinocrisis2/",
+    "https://www.4gamer.net/games/877/G087735/20250129060/",
+    "https://www.vgchartz.com/game/3096/dino-crisis-2/"
+  ]
+}

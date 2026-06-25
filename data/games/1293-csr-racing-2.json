@@ -1,0 +1,32 @@
+{
+  "id": 1293,
+  "title_jp": "CSRレーシング2",
+  "title_en": "CSR Racing 2",
+  "developer": "NaturalMotion / Boss Alien",
+  "publisher": "Zynga",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ドラッグレース/カーコレクション",
+  "sales_jp": "—",
+  "sales_world": "$500M+ 累計（CSR シリーズ全体で $1B+、累計 1.4 億 DL）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "実在ライセンスのスーパーカー／日本車が家庭用機並みのグラフィックで楽しめる 1/4 マイル特化のドラッグレース。クルー（チーム）対抗戦やオンライン PvP でグローバルに 1.4 億 DL を突破した。",
+  "concept": "アクセル・シフトのタイミングだけに絞った極シンプル操作で、フォトリアルなライセンス実車を 1/4 マイルで走らせるドラッグレース特化型レーサー。実車のチューニング・コレクションと PvP ランキング戦が並走する。",
+  "target": "車・スーパーカー好きの 20-40 代男性層が中核。レースゲームの複雑な操作は苦手だが、車そのものを所有・チューニング・自慢したい層、短時間セッションで対戦できるカジュアルレーサーを求める層。",
+  "slug": "csr-racing-2",
+  "file": "data/games/1293-csr-racing-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/CSR_Racing",
+    "https://www.zynga.com/blog/naturalmotions-csr-racing-2-now-available-worldwide/",
+    "https://mobilegamer.biz/after-seven-years-and-over-500m-naturalmotions-csr-2-is-still-shifting-gears/",
+    "https://gamesbeat.com/a-billion-dollar-ride-csr-racing-game-franchise-hits-a-big-milestone-exclusive/",
+    "https://ja.wikipedia.org/wiki/CSR_Racing_2"
+  ]
+}

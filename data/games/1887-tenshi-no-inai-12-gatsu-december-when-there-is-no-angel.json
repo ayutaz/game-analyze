@@ -1,0 +1,31 @@
+{
+  "id": 1887,
+  "title_jp": "天使のいない12月",
+  "title_en": "Tenshi no Inai 12-gatsu (December When There Is No Angel)",
+  "developer": "Leaf",
+  "publisher": "Leaf",
+  "year": 2003,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトビジュアルノベル/ADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Leaf の異色作として鬱ゲー文脈で長く語り継がれ、ErogameScape で 79/100 の高評価。発売当時の PUSH! 誌などでも特集され、「軽く・薄く・小さく」人間関係を貫こうとした主人公が崩壊していく筆致が国内エロゲーコミュニティで話題化。",
+  "concept": "「人間関係は軽く・薄く・小さく」を信条とする高校生が、ふとした性的関係をきっかけに友人関係と自我が静かに壊れていく冬の群像劇。会話シーンは ADV ウィンドウ、独白はビジュアルノベル形式というハイブリッド演出で、軽さの裏にある残酷さを読ませる。",
+  "target": "Leaf / Key 系のシリアスなアダルト ADV を読み込みたい 20-30 代の物語消費層。明るい泣きゲーよりも、依存・嫉妬・倦怠を直視する重い人間ドラマを好む読者向け。",
+  "slug": "tenshi-no-inai-12-gatsu-december-when-there-is-no-angel",
+  "file": "data/games/1887-tenshi-no-inai-12-gatsu-december-when-there-is-no-angel.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/December_When_There_Is_No_Angel",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%81%84%E3%81%AA%E3%81%8412%E6%9C%88",
+    "https://leaf.aquaplus.jp/product/ten/",
+    "https://backloggd.com/games/tenshi-no-inai-12-gatsu/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

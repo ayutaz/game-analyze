@@ -1,0 +1,31 @@
+{
+  "id": 1936,
+  "title_jp": "FLOWERS -Le volume sur hiver-",
+  "title_en": "Flowers: Le Volume sur Hiver",
+  "developer": "Innocent Grey",
+  "publisher": "Innocent Grey / JAST USA",
+  "year": 2017,
+  "platform": [
+    "PC",
+    "PS Vita",
+    "Switch"
+  ],
+  "genre": "百合ミステリ・ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "百合ノベル「FLOWERS」四季シリーズの完結章。Switch『FLOWERS 四季』パッケージや JAST USA の英語版（Steam / JAST Store）展開により、国内外の百合ビジュアルノベルファンから完結を待ち望まれていた一作として注目を集めた。",
+  "concept": "サン・アングレカム女学院を舞台にした全 4 季構成の百合ミステリ・ノベルの完結編。ニケア評議会会長となった主人公・白羽蘇芳が、行方不明となったアミティエ匂坂マユリを巡る謎と自身の心の傷に向き合う、冬のフィナーレを描く。",
+  "target": "耽美的アートと情感的な文章を好む 20-40 代のノベルゲーマー、Innocent Grey 作品や百合ジャンルの読み手、春・夏・秋を遊び終えてシリーズ完結を見届けたい既存ファン層。",
+  "slug": "flowers-le-volume-sur-hiver",
+  "file": "data/games/1936-flowers-le-volume-sur-hiver.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Flowers_(video_game_series)",
+    "https://store.steampowered.com/app/1921560/Flowers_Le_volume_sur_hiver/",
+    "http://www.gungnir.co.jp/lily/flowers4/",
+    "https://www.prot.co.jp/ps4/flowersq/introduction.html",
+    "https://noisypixel.net/flowers-le-volume-sur-hiver-now-available/"
+  ]
+}

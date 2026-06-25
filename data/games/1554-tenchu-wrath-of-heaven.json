@@ -1,0 +1,30 @@
+{
+  "id": 1554,
+  "title_jp": "天誅 紅",
+  "title_en": "Tenchu: Wrath of Heaven",
+  "developer": "K2 LLC",
+  "publisher": "Activision / FromSoftware",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "Xbox"
+  ],
+  "genre": "ステルスアクション",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS2 期を代表する忍者ステルス。物陰からの一撃必殺『絶』演出と和風ステージ造形で海外でもカルト的人気を獲得した。",
+  "concept": "戦国期の忍を主人公に、屋根裏・梁・草むらを駆使して敵を背後から一撃で仕留めるステルスアクション。プレイヤーは『見つかったら負け』の緊張感と、完璧な暗殺ルートを組み立てる快感を味わう。",
+  "target": "ステルスゲーム / 忍者ものが好きな10-40代男性中心。MGS や Thief 系のシステマティック潜入を好む層、和風ダークアクションファン。",
+  "slug": "tenchu-wrath-of-heaven",
+  "file": "data/games/1554-tenchu-wrath-of-heaven.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tenchu:_Wrath_of_Heaven",
+    "https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%AA%85_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.mobygames.com/game/9230/tenchu-wrath-of-heaven/"
+  ]
+}

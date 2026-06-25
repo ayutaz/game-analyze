@@ -1,0 +1,32 @@
+{
+  "id": 1362,
+  "title_jp": "和平精英 (Game for Peace)",
+  "title_en": "Game for Peace",
+  "developer": "LightSpeed & Quantum Studios",
+  "publisher": "Tencent Games",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/シューター",
+  "sales_jp": "—",
+  "sales_world": "$10B+ lifetime revenue",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "PUBG Mobile の中国版リブランド。2019年5月のローンチ直後から App Store China で爆発的にヒットし、72時間で1,400万ドルを売り上げ、配信半年で世界モバイルバトロワ最高売上に到達。中国国内のモバイル eSports / 配信文化を牽引し続けている。",
+  "concept": "PUBG Mobile を中国当局規制（流血なし・対テロ訓練演出）に適合させて再パッケージした、Tencent LightSpeed & Quantum Studios 製の 100 人バトロワ。マップ・武器・操作感は PUBG Mobile と同等で、スキン・パス・コラボ課金で稼ぐ Free-to-Play。",
+  "target": "中国本土のモバイルシューター層、特に 10-30 代男性。短時間で勝敗が決まる FPS / TPS を遊びたい層と、スキン課金・eSports 視聴を含む長期コミュニティ参加層。",
+  "slug": "game-for-peace",
+  "file": "data/games/1362-game-for-peace.json",
+  "_source_urls": [
+    "https://baike.baidu.com/en/item/Game%20for%20Peace/13228",
+    "https://liquipedia.net/esports/Game_for_Peace",
+    "https://technode.com/2019/12/13/revenue-from-tencents-pubg-mobile-peacekeeper-elite-surpasses-1-5-billion/",
+    "https://sensortower.com/blog/pubg-mobile-revenue-july-2019",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/tencent"
+  ]
+}

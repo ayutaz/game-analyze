@@ -1,0 +1,28 @@
+{
+  "id": 1619,
+  "title_jp": "マリオパーティ",
+  "title_en": "Mario Party",
+  "developer": "Hudson Soft",
+  "publisher": "Nintendo",
+  "year": 1998,
+  "platform": [
+    "N64"
+  ],
+  "genre": "パーティゲーム/ボードゲーム",
+  "sales_jp": "0.71M",
+  "sales_world": "2.70M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "マリオシリーズ初のパーティゲームとして1998年末に発売、N64の家族・友人向けキラータイトルとなり、ハドソンとの共同開発で長期シリーズ化のきっかけを作った。",
+  "concept": "マリオキャラクターでプレイする4人対戦のすごろく+ミニゲーム集。マスを進む→ターンごとにミニゲーム勝負→スターとコインを集めて競うというシリーズの基本フォーマットをここで確立した。",
+  "target": "家族・友人と集まって遊ぶカジュアル層、子どもから大人まで世代を超えて遊べるマリオファン全般。",
+  "slug": "mario-party",
+  "file": "data/games/1619-mario-party.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mario_Party_(video_game)",
+    "https://vgsales.fandom.com/wiki/Mario_Party",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://achikochi-data.com/game_sales_by_hard_japan_ranking_n64/"
+  ]
+}

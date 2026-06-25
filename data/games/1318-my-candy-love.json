@@ -1,0 +1,35 @@
+{
+  "id": 1318,
+  "title_jp": "My Candy Love（Amour Sucré）",
+  "title_en": "My Candy Love",
+  "developer": "Beemoov",
+  "publisher": "Beemoov",
+  "year": 2011,
+  "platform": [
+    "Browser",
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女ゲーム/恋愛シミュレーション（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "9M+ players",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "フランス発・西欧圏向け乙女ゲームの先駆けとして 2011 年からブラウザで運営、シーズン制の長期更新で 900 万人超のコミュニティを形成。スマホ移植版・NewGen リブートもリリースされ西欧ティーン女子層に定着している。",
+  "concept": "高校生 Candy として登校・友人関係・恋愛イベントを進めるブラウザ／モバイル乙女ゲーム。攻略対象との会話分岐とエピソード課金、衣装着せ替えを軸に、High School / University / Love Life / Alternate Life の 4 シーズンで世界観を更新し続ける長期運営型ビジュアルノベル。",
+  "target": "10 代後半〜20 代女性、特にフランス語圏・スペイン語圏・英語圏で「日本式乙女ゲームを母語で気軽にプレイしたい」層。アニメ／少女漫画的なロマンスを継続的に消費したいライト〜ミドルユーザー。",
+  "slug": "my-candy-love",
+  "file": "data/games/1318-my-candy-love.json",
+  "_source_urls": [
+    "https://mycandylove.fandom.com/wiki/My_Candy_Love",
+    "https://play.google.com/store/apps/details?id=beemoov.amoursucre.android",
+    "https://www.mycandylove-newgen.com/",
+    "https://www.beemoov.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

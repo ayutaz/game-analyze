@@ -1,0 +1,35 @@
+{
+  "id": 1252,
+  "title_jp": "トーキングトム ゴールドラン",
+  "title_en": "Talking Tom Gold Run",
+  "developer": "Outfit7",
+  "publisher": "Outfit7",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "エンドレスランナー/アクション",
+  "sales_jp": "—",
+  "sales_world": "500M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Talking Tom & Friends IP の世界的人気を背景に Subway Surfers 系エンドレスランナーとしてキッズ・ファミリー層から長期支持。世界 DL は数億規模で、Poki などブラウザ版でも遊べる定番。",
+  "concept": "金塊を奪った泥棒ラクーン Roy を追ってトムたちが街を疾走する 3D エンドレスランナー。集めた金で家を建て直し、新キャラやコース、衣装をアンロックする「走る × 収集 × カスタマイズ」のループが核。",
+  "target": "Talking Tom シリーズで育ったキッズ・低年齢層と、その親世代。スワイプ操作だけで遊べる短時間カジュアル層、IP キャラ目当てのライト層に強い。",
+  "slug": "talking-tom-gold-run",
+  "file": "data/games/1252-talking-tom-gold-run.json",
+  "_source_urls": [
+    "https://talkingfriends.fandom.com/wiki/Talking_Tom_Gold_Run",
+    "https://play.google.com/store/apps/details?id=com.outfit7.talkingtomgoldrun",
+    "https://apps.apple.com/jp/app/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0-%E3%83%88%E3%83%A0%E3%81%AE%E3%82%B4%E3%83%BC%E3%83%89-%E3%83%A9%E3%83%B3/id1089336971",
+    "https://poki.com/en/g/talking-tom-gold-run"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

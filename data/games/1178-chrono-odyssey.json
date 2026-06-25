@@ -1,0 +1,33 @@
+{
+  "id": 1178,
+  "title_jp": "クロノオデッセイ",
+  "title_en": "Chrono Odyssey",
+  "developer": "NPIXEL",
+  "publisher": "Kakao Games",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "MMORPG / アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "Unreal Engine 5 製の韓国産次世代 MMORPG。時間操作アーティファクト「クロノテクター」を中核に据えたシームレスオープンワールドで、2025 年 6 月のクローズドβ・Summer Game Fest トレーラー公開で MMO ファンの注目を集めた。",
+  "concept": "「時間を操る MMORPG」を掲げ、惑星 Setera を舞台にプレイヤーがクロノテクターで局所的に時間を巻き戻し・停止させながらアクション戦闘とレイドを行う、Kakao Games × NPIXEL の AAA 級グローバル MMO。",
+  "target": "Black Desert / ArcheAge / Throne and Liberty 系の韓国産ハイエンド MMORPG ファン、Unreal Engine 5 のビジュアルと時間操作ギミックを求めるアクション RPG 層、PC とコンソールでクロスプレイ MMO を遊びたい中〜重課金プレイヤー。",
+  "slug": "chrono-odyssey",
+  "file": "data/games/1178-chrono-odyssey.json",
+  "_source_urls": [
+    "https://chronoodyssey.kakaogames.com/",
+    "https://store.steampowered.com/app/2873440/Chrono_Odyssey/",
+    "https://www.mmorpg.com/chrono-odyssey",
+    "https://www.pcgamesn.com/chrono-odyssey/guide",
+    "https://www.rpgsite.net/news/17661-kakao-games-shares-summer-game-fest-trailer-for-mmorpg-chrono-odyssey"
+  ]
+}

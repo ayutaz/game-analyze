@@ -1,0 +1,32 @@
+{
+  "id": 1356,
+  "title_jp": "レーシングマスター",
+  "title_en": "Racing Master",
+  "developer": "NetEase Games / Codemasters",
+  "publisher": "NetEase",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "本格リアルタイムレーシング/車収集",
+  "sales_jp": "—",
+  "sales_world": "50M+ players",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "NetEase × Codemasters タッグでレーザースキャンした 120 台超の実車を 1:1 再現、中国でリリース時 App Store 無料 1 位・売上 2 位、全世界 5,000 万 DL 突破。日本でも事前登録 100 万人超、Perfume コラボで話題化。",
+  "concept": "コンソール水準のグラフィックと挙動を 5G 時代のスマホに持ち込んだ「本格 PvP レーシング」。実車ライセンス・実在サーキット・実車サウンドを揃えつつ、車をガチャ/収集して育てるモバイル収益モデルを乗せた、Codemasters の F1/DiRT ノウハウを継承するシリアスシムの中核。",
+  "target": "10-40 代の男性中心のレースゲーマー、Forza/グランツーリスモ/アスファルト経験者でモバイルで腰を据えてタイムアタック/PvP に取り組みたい層。BMW・ポルシェ・フェラーリ等の実車ファンとリアル系シム志向のライト〜ミドルコア層。",
+  "slug": "racing-master",
+  "file": "data/games/1356-racing-master.json",
+  "_source_urls": [
+    "https://www.neteasegames.com/news/game/20210312/30576_936359.html",
+    "https://www.4gamer.net/games/558/G055888/20240822029/",
+    "https://www.racingmaster.game/jp/",
+    "https://prtimes.jp/main/html/rd/p/000000441.000071247.html",
+    "https://www.neteasegames.com/news/20260507/37000_1299439.html"
+  ]
+}

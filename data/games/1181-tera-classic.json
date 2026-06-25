@@ -1,0 +1,32 @@
+{
+  "id": 1181,
+  "title_jp": "テラクラシック",
+  "title_en": "TERA Classic",
+  "developer": "Lantu Games (LONGTU KOREA / LINE Games JV)",
+  "publisher": "Gravity Game Arise",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "PC版『TERA』(全世界2500万PL)のIPをモバイルに移植したMMORPG。韓国2019年8月、日本2021年1月配信。日本版は2023年3月にサービス終了。",
+  "concept": "PC版『TERA』の20年前を舞台に、Unreal Engine 4 で原作のオープンフィールドと爽快アクションを忠実再現したスマホMMORPG。膨大なギルドコンテンツとガチャによるキャラ・装備育成を軸に据える。",
+  "target": "PC版『TERA』経験者と、ハードコアな韓国系MMORPGをスマホで遊びたい20-40代の重課金層。ギルド単位の長時間プレイと装備収集を許容するプレイヤー向け。",
+  "slug": "tera-classic",
+  "file": "data/games/1181-tera-classic.json",
+  "_source_urls": [
+    "https://game.watch.impress.co.jp/docs/kikaku/1301383.html",
+    "https://app.famitsu.com/20201014_1710870/",
+    "https://gamebiz.jp/news/361360",
+    "https://dengekionline.com/articles/165611/",
+    "https://massivelyop.com/2019/07/09/upcoming-mobile-title-tera-classic-opens-up-pre-registration-in-south-korea/"
+  ]
+}

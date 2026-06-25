@@ -1,0 +1,27 @@
+{
+  "id": 1180,
+  "title_jp": "アクスル：ファイナル",
+  "title_en": "Axel: Final",
+  "developer": "Nexon",
+  "publisher": "Nexon",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "WebSearch（英語・日本語）では同名タイトルの一次情報を確認できず、ネクソン関連の公開ゲーム一覧にも該当が見つからない。出典が未確定のため掲載は暫定扱い。",
+  "concept": "Nexon が手掛けたとされるアクション系タイトル。詳細な positioning は公開情報からは未確認で、信頼できる出典が見つかり次第差し替える必要がある。",
+  "target": "ネクソン作品のアクション系プレイヤー層が想定されるが、対象年齢・想定ユーザーを示す公開情報は確認できていない。",
+  "slug": "axel-final",
+  "file": "data/games/1180-axel-final.json",
+  "_source_urls": [
+    "https://www.nexon.co.jp/products/",
+    "https://www.4gamer.net/publisher/000/P00097/",
+    "https://en.wikipedia.org/wiki/Nexon"
+  ]
+}

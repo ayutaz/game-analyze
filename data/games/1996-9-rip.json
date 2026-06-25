@@ -1,0 +1,29 @@
+{
+  "id": 1996,
+  "title_jp": "9 R.I.P.",
+  "title_en": "9 R.I.P.",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2022,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "恋愛ADV/オムニバスラブADV（怪談・都市伝説モチーフのオトメゲーム）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "オトメイトが都市伝説・妖・怪談話を題材に据えた異色作として2022年のオトメイトパーティーで発表、ホラー寄りのオムニバス構成と「正気度選択肢」など独自システムで話題に。2025年に続編『9 R.I.P. sequel』も発表され、シリーズ化した。",
+  "concept": "様々な“あの世”を舞台にした少し奇妙なオムニバスラブADV。神隠しの噂が絶えない町を舞台に、幽霊や妖と結ばれていく9人の異界恋愛を描き、好感度に加えて主人公の精神異常度を上げる「正気度選択肢」で物語が分岐する。",
+  "target": "ホラー・怪談・都市伝説好きの女性プレイヤー、オトメイトの王道恋愛ADVに飽き足らず人外・異界モノを求める層。年齢層は10代後半から30代の乙女ゲーマー。",
+  "slug": "9-rip",
+  "file": "data/games/1996-9-rip.json",
+  "_source_urls": [
+    "https://www.gematsu.com/2022/09/otomate-new-title-party-2022-announcements-roundup-shuuen-no-virche-epiclycoris-9-rip-my9swallows-topstars-league-more",
+    "https://www.4gamer.net/games/650/G065066/20230220028/",
+    "https://www.4gamer.net/games/650/G065066/20230407045/",
+    "https://news.qoo-app.com/en/post/151406/9-r-i-p",
+    "https://www.gamer.ne.jp/news/202306290014/"
+  ]
+}

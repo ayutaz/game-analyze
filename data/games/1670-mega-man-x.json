@@ -1,0 +1,27 @@
+{
+  "id": 1670,
+  "title_jp": "ロックマンX",
+  "title_en": "Mega Man X",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 1993,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクション/2Dプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "1.16M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "ロックマン本編の高難度2Dアクションを16bit機で再構築したシリーズ起点作。壁蹴り・ダッシュ・X-Buster溜め撃ち・8ボス順序による攻略順最適化など、後続のメトロイドヴァニア/2Dアクション作品に影響を与えた古典として今も語り継がれる。",
+  "slug": "mega-man-x",
+  "file": "data/games/1670-mega-man-x.json",
+  "concept": "初代『ロックマン』の8ボス選択型アクションを16bitへ再設計した「ロックマンX」シリーズ第1作。壁蹴り・ダッシュ・パーツ強化など探索/成長要素を導入し、スピード感と歯ごたえを両立させた2Dアクションの古典。",
+  "target": "SFC期に2Dアクションを通過した30-50代のクラシックゲーマー、および高難度プラットフォーマー（メトロイドヴァニア/インディー）を好む層。シリーズファンとレトロアクション愛好家が中心。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3X",
+    "https://www.capcom.co.jp/ir/english/business/million.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1371,
+  "title_jp": "Hopeless Land: Fight for Survival",
+  "title_en": "Hopeless Land: Fight for Survival",
+  "developer": "HK Hero Entertainment",
+  "publisher": "HK Hero Entertainment",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バトルロイヤル/TPS",
+  "sales_jp": "—",
+  "sales_world": "70M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PUBG/荒野行動が席巻する中、121人同時参戦・ヘリ搭乗・54MBの軽量設計でアジア圏（特に東南アジア）の低スペック端末ユーザーを掴み、累計7,000万DL超を記録した非中華系BRの代表格。",
+  "concept": "1試合最大121人がパラシュート降下し、アジア風の島で武器・物資をルートしながら最後の1人を目指す軽量モバイルバトルロイヤル。本作独自の操作可能ヘリコプターと細かいボタンレイアウトカスタマイズが差別化軸。",
+  "target": "PUBG MobileやFortniteは重くて動かない低スペック端末ユーザー、特に東南アジア/中東/インド圏のモバイルFPSプレイヤー。短時間サクッと撃ち合いたいライト〜ミドル層。",
+  "slug": "hopeless-land-fight-for-survival",
+  "file": "data/games/1371-hopeless-land-fight-for-survival.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?hl=ja&id=com.herogame.gplay.hopelessland",
+    "https://hopeless-land-fight-for-survival.en.uptodown.com/android",
+    "https://apkpure.com/hopeless-land-fight-for-survival/com.herogame.gplay.hopelessland",
+    "http://hopelessland.herogame.com/English/index.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

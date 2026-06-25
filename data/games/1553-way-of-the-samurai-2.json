@@ -1,0 +1,30 @@
+{
+  "id": 1553,
+  "title_jp": "侍道2",
+  "title_en": "Way of the Samurai 2",
+  "developer": "Acquire",
+  "publisher": "Spike",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サムライアクションアドベンチャー/分岐シナリオ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "幕末風オープン街と60種以上の刀＋100以上の技で分岐するマルチエンディングが話題。前作のカルトな評価を継いで「自分だけの浪人物語を作る」自由度が口コミで広がった。",
+  "concept": "幕末・天羽藩を舞台に3日間の昼夜サイクルで佐幕派と倒幕派の間を渡り歩く一匹狼サムライ・アクション。プレイヤーの判断と剣戟スタイルで十数通りのエンディングへ分岐する「自分の物語を作る」型ロールプレイ。",
+  "target": "時代劇・武士道ものが好きな20-40代男性、ルートを総当りで遊びたい周回プレイヤー、リプレイ性とアトモスフィア重視のオールドスクール和ゲーファン。",
+  "slug": "way-of-the-samurai-2",
+  "file": "data/games/1553-way-of-the-samurai-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Way_of_the_Samurai_2",
+    "https://ja.wikipedia.org/wiki/%E4%BE%8D%E9%81%932",
+    "https://www.mobygames.com/game/18966/way-of-the-samurai-2/",
+    "https://www.acquire.co.jp/samurai2/j_index.html"
+  ]
+}

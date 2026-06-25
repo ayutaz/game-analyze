@@ -1,0 +1,41 @@
+{
+  "id": 1640,
+  "title_jp": "ファイナルファンタジーVI",
+  "title_en": "Final Fantasy VI",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1994,
+  "platform": [
+    "SNES",
+    "PS1",
+    "GBA",
+    "PC",
+    "iOS",
+    "Android",
+    "Switch",
+    "PS4",
+    "Xbox One"
+  ],
+  "genre": "RPG（ターン制ジョブ／群像劇）",
+  "sales_jp": "2.55M",
+  "sales_world": "4.3M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "14人の主人公が織り成す群像劇とオペラシーンで「ゲームが芸術になった瞬間」と語り継がれる名作。Pixel Remaster 化以降も世代を超えて再評価が続く。",
+  "slug": "final-fantasy-vi",
+  "file": "data/games/1640-final-fantasy-vi.json",
+  "concept": "魔導と機械が交錯する世界で、帝国に立ち向かう14人の群像を描くドラマ重視のJRPG。中盤での世界崩壊と仲間集めの再編という大胆な構成で物語消費型RPGの一つの到達点を示した。",
+  "target": "ストーリードリブンなJRPGを求める層、SFC黄金期を原体験に持つ30-50代、Pixel Remaster で初プレイする若年層やインディーRPG好き。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Final_Fantasy_VI",
+    "https://finalfantasyunion.com/final-fantasy-vi-has-now-sold-over-4-3-million-copies/",
+    "https://vgsales.fandom.com/wiki/Best-selling_Square_Enix_games"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

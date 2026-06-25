@@ -1,0 +1,32 @@
+{
+  "id": 1635,
+  "title_jp": "シャドウマン",
+  "title_en": "Shadow Man",
+  "developer": "Acclaim Studios Teesside",
+  "publisher": "Acclaim",
+  "year": 1999,
+  "platform": [
+    "N64",
+    "PS1",
+    "PC",
+    "Dreamcast"
+  ],
+  "genre": "アクションアドベンチャー（3Dメトロイドヴァニア／ホラー）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Valiant Comics 原作の異色ホラーアクションとして N64/Dreamcast 期にカルト的人気を獲得、2021 年の Remastered 版で再評価された。",
+  "slug": "shadow-man",
+  "file": "data/games/1635-shadow-man.json",
+  "concept": "ブードゥー教の力を継いだ「シャドウマン」マイケル・ルクレールが死者の世界 Deadside と現世を行き来し、連続殺人鬼たちを倒していく 3D アクションアドベンチャー。広大なマップを探索しながら能力を獲得していくメトロイドヴァニア型の構造を持つ。",
+  "target": "90 年代後半の N64/Dreamcast ユーザー、ダークファンタジー／オカルトホラー世界観を好む層、3D 探索アクションのカルト名作を掘り返したいレトロゲーマー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Shadow_Man_(video_game)",
+    "https://www.mobygames.com/game/385/shadow-man/",
+    "https://shadowman.fandom.com/wiki/Shadow_Man"
+  ]
+}

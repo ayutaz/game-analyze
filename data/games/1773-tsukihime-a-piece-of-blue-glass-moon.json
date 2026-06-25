@@ -1,0 +1,31 @@
+{
+  "id": 1773,
+  "title_jp": "月姫 -A piece of blue glass moon-",
+  "title_en": "Tsukihime -A piece of blue glass moon-",
+  "developer": "TYPE-MOON",
+  "publisher": "TYPE-MOON / Aniplex",
+  "year": 2021,
+  "platform": [
+    "PS4",
+    "Switch"
+  ],
+  "genre": "伝奇ビジュアルノベル",
+  "sales_jp": "143K (初週パッケージ、PS4+Switch合算、2021/8)",
+  "sales_world": "300K+ (出荷+DL、2023/1)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2000年同人原作のフルリメイクとして21年ぶりに新生。CERO Z でありながら初週14万本超で PS4/Switch ランキング上位を独占し、累計24万→30万本と Fate シリーズに匹敵する勢いを示した。",
+  "concept": "奈須きのこの伝奇ビジュアルノベル「月姫」（2000）をアルクェイド・シエル編に再構築した完全リメイク。シナリオ・グラフィック・演出を全面刷新し、TYPE-MOON 神話世界の起点を現代の表現で語り直す物語特化作。",
+  "target": "原作月姫世代の30-40代男性と、Fate/stay night・FGO 経由で TYPE-MOON 神話に触れた20-30代のファン。重厚な伝奇・吸血鬼・死徒系シナリオを腰を据えて読みたい層。",
+  "slug": "tsukihime-a-piece-of-blue-glass-moon",
+  "file": "data/games/1773-tsukihime-a-piece-of-blue-glass-moon.json",
+  "_source_urls": [
+    "https://automaton-media.com/articles/newsjp/20210924-176891/",
+    "https://www.4gamer.net/games/546/G054680/20230117008/",
+    "https://www.famitsu.com/news/202301/17289724.html",
+    "https://www.gematsu.com/2021/09/tsukihime-a-piece-of-blue-glass-moon-shipments-and-digital-sales-top-240000",
+    "http://typemoon.com/products/tsukihime/",
+    "https://typemoon.fandom.com/wiki/Tsukihime_-A_piece_of_blue_glass_moon-"
+  ]
+}

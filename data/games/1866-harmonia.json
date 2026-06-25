@@ -1,0 +1,30 @@
+{
+  "id": 1866,
+  "title_jp": "Harmonia",
+  "title_en": "Harmonia",
+  "developer": "Key",
+  "publisher": "Visual Arts / Sekai Project",
+  "year": 2016,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "キネティックノベル/SFビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "100K+",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 15周年記念作品として制作された、選択肢のないキネティックノベル。2022年Switch版・2024年Full HD版でフルボイス対応し再評価された。",
+  "concept": "荒廃した未来世界を舞台に、感情を持つアンドロイド「フィロイド」の少年レイと町の少女との出会いを描く短編キネティックノベル。プレイヤーは分岐や選択をせず、物語をひたすら読み進めることで「感情を学ぶ」というテーマを追体験する。",
+  "target": "Key（CLANNAD/AIR/Kanon）の感情系シナリオに親しんできた20-40代のビジュアルノベル愛好層。短時間（4-6時間程度）で完結する SF 短編を求めるノベルゲーマー。",
+  "slug": "harmonia",
+  "file": "data/games/1866-harmonia.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Harmonia_(visual_novel)",
+    "https://ja.wikipedia.org/wiki/Harmonia_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.famitsu.com/news/202207/15268651.html",
+    "https://www.4gamer.net/games/780/G078073/20240304058/",
+    "https://store.steampowered.com/app/421660/Harmonia/"
+  ]
+}

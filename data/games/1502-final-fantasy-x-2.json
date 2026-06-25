@@ -1,0 +1,30 @@
+{
+  "id": 1502,
+  "title_jp": "ファイナルファンタジーX-2",
+  "title_en": "Final Fantasy X-2",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "RPG（ジョブチェンジ式アクティブタイムバトル）",
+  "sales_jp": "2.41M",
+  "sales_world": "5.4M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "ナンバリング初の直接続編、ユウナ・リュック・パインのガールズ3人組とドレスフィアによるポップな世界観で賛否を呼びつつ国内241万本を売り上げた話題作。",
+  "concept": "前作『FFX』のスピラを舞台に、明るく軽快なロードムービー調で「ユウナの後日譚」を描く女性主人公RPG。ジョブを瞬時に切り替えるドレスフィアと自由度の高い章選択で、物語と戦闘の両面で実験的な作りになっている。",
+  "target": "FFX をプレイしたファン層、ユウナ／リュックの後日譚を見届けたい層、ポップで軽い雰囲気のJRPGを好む 10-30 代男女。",
+  "slug": "final-fantasy-x-2",
+  "file": "data/games/1502-final-fantasy-x-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Final_Fantasy_X-2",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCX-2",
+    "https://www.vgchartz.com/game/760/final-fantasy-x-2/"
+  ]
+}

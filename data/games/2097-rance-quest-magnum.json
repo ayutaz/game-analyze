@@ -1,0 +1,34 @@
+{
+  "id": 2097,
+  "title_jp": "ランス・クエスト マグナム",
+  "title_en": "Rance Quest Magnum",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2012,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトRPG/ダンジョン探索",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP",
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "AliceSoft 看板シリーズ「ランス」第 9 作『ランス・クエスト』(2011) の大型拡張版として 2012/02/24 発売。新規クエスト・新キャラ・新エンディングを大量追加し、原作プレイヤーの再周回を強く促した。",
+  "concept": "シナリオ進行型 RPG の本編に対し、自由選択式のクエスト周回ループを大幅に肥大化させた「ランス・クエスト」の完全版。物語+H シーン+ダンジョン攻略の三層構造で、原作の不満点（ボリューム不足）を解消する位置付け。",
+  "target": "AliceSoft / ランスシリーズの既存ファン、長期ダンジョン RPG を遊び込みたい成人 PC ゲーマー、原作『ランス・クエスト』クリア済みで追加コンテンツを求める層。",
+  "slug": "rance-quest-magnum",
+  "file": "data/games/2097-rance-quest-magnum.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Rance_Quest:Rance_Quest_Magnum",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://www.amazon.co.jp/%E3%82%A2%E3%83%AA%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88-%E3%83%9E%E3%82%B0%E3%83%8A%E3%83%A0/dp/B006O4VM5I",
+    "https://mangagamer.org/rance/8/index.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

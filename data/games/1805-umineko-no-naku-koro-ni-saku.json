@@ -1,0 +1,34 @@
+{
+  "id": 1805,
+  "title_jp": "うみねこのなく頃に咲",
+  "title_en": "Umineko no Naku Koro ni Saku",
+  "developer": "07th Expansion",
+  "publisher": "07th Expansion",
+  "year": 2019,
+  "platform": [
+    "PC",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "サウンドノベル/ミステリ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "竜騎士07の代表作『うみねこのなく頃に』本編＋散に加え、新規シナリオ「翼」「羽」「咲」を収録した決定版。2019年PC版、2021年にEntergramからPS4/Switch版『～猫箱と夢想の交響曲～』が発売され、長年ファンが待望した家庭用初移植としてSNS・ノベルゲー界隈で大きな話題に。",
+  "concept": "選択肢のないサウンドノベルとして、館に閉じ込められた一族の連続殺人と「魔女が存在するか否か」を読者に推理させる二重構造のミステリ。新規シナリオ「咲」で物語全体に決着をつける完結編集成。",
+  "target": "原作PC版『うみねこのなく頃に』『〜散〜』をプレイ済みの30-40代ノベルゲーファン層、ひぐらしのなく頃にを経由してきた竜騎士07ファン、本格ミステリ・反ミステリ論争に興味のある層。",
+  "slug": "umineko-no-naku-koro-ni-saku",
+  "file": "data/games/1805-umineko-no-naku-koro-ni-saku.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%86%E3%81%BF%E3%81%AD%E3%81%93%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E5%92%B2",
+    "https://07th-expansion.net/umi_saku/",
+    "https://en.wikipedia.org/wiki/Umineko_When_They_Cry",
+    "https://www.animenewsnetwork.com/news/2019-11-18/07th-expansion-reveals-new-umineko-when-they-cry-game-for-ps4-switch/.153407",
+    "https://game.watch.impress.co.jp/docs/news/1302655.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

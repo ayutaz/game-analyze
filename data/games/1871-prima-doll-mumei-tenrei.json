@@ -1,0 +1,29 @@
+{
+  "id": 1871,
+  "title_jp": "プリマドール 〜無銘天嶺〜",
+  "title_en": "Prima Doll: Mumei Tenrei",
+  "developer": "Key",
+  "publisher": "Visual Arts",
+  "year": 2024,
+  "platform": [
+    "PC"
+  ],
+  "genre": "キネティックノベル（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 原作メディアミックス『プリマドール』のキネティックノベル第2弾として 2024 年 5 月 31 日に発売。アニメ本編では描かれなかった箒星の過去を補完し、アニメ視聴済みファン層を中心に話題化。",
+  "concept": "選択肢のないキネティックノベル形式で、Key／ビジュアルアーツのメディアミックス『プリマドール』の外伝エピソードを描く読み物特化型 VN。アニメキャストのフルボイスと書き下ろし楽曲で本編世界を補強する構成。",
+  "target": "アニメ／キネティックノベル第1作で『プリマドール』に触れた既存ファン、Key 作品の物語消費を好む 20–40 代の VN ユーザー層。",
+  "slug": "prima-doll-mumei-tenrei",
+  "file": "data/games/1871-prima-doll-mumei-tenrei.json",
+  "_source_urls": [
+    "https://game.watch.impress.co.jp/docs/news/1594731.html",
+    "https://primadoll.jp/kineticnovel/02/",
+    "https://en.wikipedia.org/wiki/Prima_Doll",
+    "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AA%E3%83%9E%E3%83%89%E3%83%BC%E3%83%AB",
+    "https://va-store.jp/products/kn_primadoll_02"
+  ]
+}

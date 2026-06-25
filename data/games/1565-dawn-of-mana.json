@@ -1,0 +1,29 @@
+{
+  "id": 1565,
+  "title_jp": "デモニックソウル ／ ダウン オブ マナ",
+  "title_en": "Dawn of Mana",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "year": 2006,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションアドベンチャー/3DアクションRPG",
+  "sales_jp": "229K (初週10日)",
+  "sales_world": "0.41M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "聖剣伝説シリーズ初の本格3D化、Havok物理エンジン採用で「掴んで投げる」アクションが話題に。ただし操作性と難易度バランスへの批判も大きく賛否両論。",
+  "concept": "聖剣伝説シリーズ（World of Mana サブシリーズ）の3Dアクションアドベンチャー化。物理エンジンでオブジェクトや敵を掴んで投げ、ひるませてから剣と魔法で攻撃するアクション体験が中核。",
+  "target": "聖剣伝説シリーズのファン層と、PS2 後期の3Dアクション好きな男性プレイヤー。マナの樹の世界観を新規視点で味わいたい層。",
+  "slug": "dawn-of-mana",
+  "file": "data/games/1565-dawn-of-mana.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Dawn_of_Mana",
+    "https://mana.fandom.com/wiki/Dawn_of_Mana",
+    "https://www.metacritic.com/game/dawn-of-mana/"
+  ]
+}

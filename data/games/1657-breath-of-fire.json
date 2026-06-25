@@ -1,0 +1,31 @@
+{
+  "id": 1657,
+  "title_jp": "ブレス オブ ファイア",
+  "title_en": "Breath of Fire",
+  "developer": "Capcom",
+  "publisher": "Capcom / Square (US)",
+  "year": 1993,
+  "platform": [
+    "SNES",
+    "GBA"
+  ],
+  "genre": "王道ファンタジーRPG",
+  "sales_jp": "~63K",
+  "sales_world": "~400K",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "カプコン初の本格 JRPG として 1993 年 SNES 市場で「考慮すべき成功」を収め、北米では Square Soft 配給という異例の座組で発売されたことでも話題に。続編発売後に再販ブーストが入り、長期的にシリーズ累計 320 万本のフランチャイズへ成長した。",
+  "concept": "竜に変身する主人公リュウが、暗黒竜族との因縁を辿りながら世界を旅する王道ターン制 JRPG。仲間ごとの固有フィールドアクション（飛ぶ・釣る・狩るなど）で探索ギミックを解く設計が特徴。",
+  "target": "FF / DQ に並ぶ「もう一つの正統派 JRPG」を求めた 10-30 代のレトロ JRPG ファン。竜の戦士の系譜に惹かれるシリーズファンと、90 年代 SNES 黄金期の王道ファンタジーを追体験したい層。",
+  "slug": "breath-of-fire",
+  "file": "data/games/1657-breath-of-fire.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Breath_of_Fire_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%B9_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2_%E7%AB%9C%E3%81%AE%E6%88%A6%E5%A3%AB",
+    "https://captown.capcom.com/ja/retro_games/7/ja",
+    "https://capcom.fandom.com/wiki/Breath_of_Fire_(series)"
+  ]
+}

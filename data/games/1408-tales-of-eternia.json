@@ -1,0 +1,31 @@
+{
+  "id": 1408,
+  "title_jp": "テイルズ オブ エターニア",
+  "title_en": "Tales of Eternia",
+  "developer": "Wolf Team / Namco Tales Studio",
+  "publisher": "Namco",
+  "year": 2000,
+  "platform": [
+    "PS1",
+    "PSP"
+  ],
+  "genre": "RPG（リニアモーションバトルシステム）",
+  "sales_jp": "873K (PS1) / 約1.27M (PS1+PSP累計, 2008時点)",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1テイルズ第二作として初週8万本超を売り上げ、シリーズの基礎を完成させた傑作と評価される。2005年のPSP移植に加え、2026年10月にはSwitch/PS5/Xbox/PC向けリマスター版が発売予定で再注目を集めている。",
+  "slug": "tales-of-eternia",
+  "file": "data/games/1408-tales-of-eternia.json",
+  "concept": "リアスとセレスティアという2つの世界の衝突を背景に、漁師の少年リッドたちが世界の崩壊を防ぐ旅に出る王道JRPG。シリーズ特有のアクション性の高いリニアモーションバトル（LMBS）を完成形に近づけた一作。",
+  "target": "20-40代を中心としたJRPG好き、シリーズファン層。物語とキャラクター性を重視しつつ、コマンド式より能動的なアクション戦闘を楽しみたいプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tales_of_Eternia",
+    "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8B%E3%82%A2",
+    "https://www.4gamer.net/games/068/G006887/20181220027/",
+    "https://www.playstationtrophies.org/news/tales-of-eternia-remastered-beloved-2000-ps1-rpg-ps5-ps4-october/"
+  ]
+}

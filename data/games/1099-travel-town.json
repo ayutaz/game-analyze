@@ -1,0 +1,31 @@
+{
+  "id": 1099,
+  "title_jp": "トラベル・タウン",
+  "title_en": "Travel Town",
+  "developer": "Magmatic Games",
+  "publisher": "Moon Active",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マージパズル/タウン再建",
+  "sales_jp": "—",
+  "sales_world": "25M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "元 Wooga 出身者の Magmatic Games が 2021 年にリリース、2022 年に Coin Master の Moon Active が買収。マージ 2 系モバイルの王座を奪い、2024 年は年間 1.17 億ドル超を稼ぐ世界トップクラスのマージゲームに成長。",
+  "concept": "アイテムを 2 つドラッグして合体させ、より高位のアイテムへ進化させていく「マージ 2」を中核に、得たアイテムで海辺の街と 55 人の住人のクエストを順番に解決していくタウン再建型カジュアル。エネルギー制ループと美麗な等角ビジュアルで「次のマージ」を引っ張る。",
+  "target": "20-50 代の女性層を中心としたカジュアルプレイヤー。短時間で達成感が欲しい層、Gardenscapes / Royal Match 等の街再建系に親しんだ層、操作が単純なパズルを長期間少しずつ進めたい層。",
+  "slug": "travel-town",
+  "file": "data/games/1099-travel-town.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/travel-town-merge-adventure/id1521236603",
+    "https://play.google.com/store/apps/details?id=io.randomco.travel&hl=en_US",
+    "https://naavik.co/digest/why-travel-town-is-dominating-mobile-merge/",
+    "https://games.appmatch.jp/1521236603-3/"
+  ]
+}

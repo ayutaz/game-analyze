@@ -1,0 +1,32 @@
+{
+  "id": 1477,
+  "title_jp": "ドライバー 潜入! カーチェイス大作戦",
+  "title_en": "Driver",
+  "developer": "Reflections Interactive",
+  "publisher": "GT Interactive",
+  "year": 1999,
+  "platform": [
+    "PS1",
+    "PC",
+    "Mac"
+  ],
+  "genre": "オープンワールド/カーアクション",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1970年代アメリカを舞台にした映画的カーチェイス再現で、Grand Theft Auto III 以前のオープンワールド・ドライブゲームの先駆として大ヒット。シリーズ累計2000万本超の起点となり、初代単体で全世界300万本超を売り上げた。",
+  "slug": "driver",
+  "file": "data/games/1477-driver.json",
+  "concept": "ニューヨーク市警の覆面捜査官ターナーが運び屋として犯罪組織に潜入し、マイアミ・サンフランシスコ・LA・NYの4都市をリアルな挙動の車で逃走・追跡するシネマティック・ドライビング・アクション。70年代カーチェイス映画のオマージュを核に据えた。",
+  "target": "1970年代アメリカン・カーチェイス映画（ブリット、フレンチ・コネクション等）が好きな10代後半〜30代男性、初代PSのドライビングゲーム愛好者、オープンワールド黎明期の体験を求めるプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Driver_(video_game)",
+    "https://en.wikipedia.org/wiki/Driver_(series)",
+    "https://ja.wikipedia.org/wiki/Driver_%E6%BD%9C%E5%85%A5!%E3%82%AB%E3%83%BC%E3%83%81%E3%82%A7%E3%82%A4%E3%82%B9%E5%A4%A7%E4%BD%9C%E6%88%A6",
+    "https://www.mobygames.com/game/309/driver/"
+  ]
+}

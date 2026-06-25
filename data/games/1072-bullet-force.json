@@ -1,0 +1,35 @@
+{
+  "id": 1072,
+  "title_jp": "Bullet Force",
+  "title_en": "Bullet Force",
+  "developer": "Blayze Games",
+  "publisher": "Blayze Games",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser",
+    "PC"
+  ],
+  "genre": "オンラインマルチプレイヤー FPS",
+  "sales_jp": "—",
+  "sales_world": "25M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "ブラウザでもモバイルでも無料で遊べる軽量 FPS として 2,500 万 DL 超を記録。Call of Duty 風の 20 人対戦をスマホ／Web で手軽に味わえる点が学校・職場のブラウザゲーム文化と相性が良くバイラル化した。",
+  "concept": "Unity 製の軽量 FPS をモバイルとブラウザ（WebGL）にクロス展開し、20 人 PvP・チームデスマッチ・Gun Game・コンクエストなど CoD 系の体験をワンタップで提供する作品。20 種以上の武器とカスタマイズで「ミニ CoD」を成立させている。",
+  "target": "10-20 代の FPS ライト層、CoD やモダンミリタリー FPS をスマホ／ブラウザで手早く遊びたいプレイヤー、低スペック PC やゲーミング機を持たないユーザー層。",
+  "slug": "bullet-force",
+  "file": "data/games/1072-bullet-force.json",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/bullet-force/id1009134067",
+    "https://play.google.com/store/apps/details?id=com.blayzegames.iosfps&hl=en_US",
+    "https://www.crazygames.com/game/bullet-force-multiplayer",
+    "https://bullet-force.com/",
+    "https://www.moddb.com/games/bullet-force"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

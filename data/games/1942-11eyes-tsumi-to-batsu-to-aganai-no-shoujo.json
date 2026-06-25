@@ -1,0 +1,34 @@
+{
+  "id": 1942,
+  "title_jp": "11eyes -罪と罰と贖いの少女-",
+  "title_en": "11eyes: Tsumi to Batsu to Aganai no Shoujo",
+  "developer": "Lass",
+  "publisher": "Lass",
+  "year": 2008,
+  "platform": [
+    "PC",
+    "Xbox 360",
+    "PSP"
+  ],
+  "genre": "アダルトビジュアルノベル/伝奇ファンタジー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Lass の代表作として 2008 年に発売、赤い夜と黒い月の伝奇設定とクロスビジョン演出が話題に。2009 年に Doga Kobo によるアニメ化、5pb. による Xbox 360／PSP 移植版『11eyes CrossOver』へと展開しメディアミックスでファン層が広がった。",
+  "concept": "妹を失った主人公 皀 命と幼馴染 美奈瀬 ゆかが、空が赤く月が黒くなる「赤い夜」に巻き込まれ怪物と戦う伝奇アダルトビジュアルノベル。視点切替「クロスビジョン」で他キャラの同時刻の物語を読み解く構造を採用する。",
+  "target": "成人男性のビジュアルノベル／伝奇バトル物語ファン。Fate 系列のような能力バトル＋仲間が脱落していく重い物語と、ヒロインルートを読み比べたい層に刺さる。",
+  "slug": "11eyes-tsumi-to-batsu-to-aganai-no-shoujo",
+  "file": "data/games/1942-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/11eyes:_Tsumi_to_Batsu_to_Aganai_no_Sh%C5%8Djo",
+    "https://www.igdb.com/games/11eyes-tsumi-to-batsu-to-aganai-no-shoujo",
+    "https://myfigurecollection.net/item/482901",
+    "https://myfigurecollection.net/item/482898",
+    "https://visual-novel-vault.fandom.com/wiki/11eyes"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

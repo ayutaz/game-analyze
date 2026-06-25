@@ -1,0 +1,38 @@
+{
+  "id": 1275,
+  "title_jp": "ディズニー スピードストーム",
+  "title_en": "Disney Speedstorm",
+  "developer": "Gameloft Barcelona",
+  "publisher": "Gameloft",
+  "year": 2023,
+  "platform": [
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox Series X/S",
+    "Xbox One",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "基本無料カート/アクションレース",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ミッキー・ドナルド・モアナ・ジャック=スパロウ等のディズニー＆ピクサー IP がカートレースで競演する基本無料 F2P として 2023 年 9 月にフル正式リリース、2024 年 7 月にモバイルも世界配信。PS5 レビュー約 32,000 件で平均 3.87/5、Steam は「賛否両論」評価でシーズンパス課金とキャラ解放テンポへの賛否が話題化。",
+  "concept": "マリオカートに近い操作性の 3D カートレースに、ディズニー＆ピクサーキャラクターのスキル・コース・コスチュームをシーズン制で投入する基本無料クロスプラットフォーム対戦タイトル。PvP マルチプレイとキャラ育成・解放のループを両輪に据える。",
+  "target": "マリオカートやアスファルト系を遊ぶカジュアル〜中堅レーサー、およびディズニー／ピクサー IP のファミリー層。スマホでも家庭用機でも同じプログレスを進めたいクロスプレイ志向ユーザー。",
+  "slug": "disney-speedstorm",
+  "file": "data/games/1275-disney-speedstorm.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Disney_Speedstorm",
+    "https://disneyspeedstorm.com/news/full-experience-launching-on-september-28th-2023",
+    "https://www.gameloft.com/newsroom/disney-speedstorm-free-to-play-launch",
+    "https://store.steampowered.com/app/1537830/Disney_Speedstorm/",
+    "https://store.playstation.com/ja-jp/concept/10002651"
+  ]
+}

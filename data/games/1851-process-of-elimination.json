@@ -1,0 +1,31 @@
+{
+  "id": 1851,
+  "title_jp": "探偵撲滅",
+  "title_en": "Process of Elimination",
+  "developer": "Nippon Ichi Software",
+  "publisher": "NIS America",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PS4"
+  ],
+  "genre": "探偵シミュレーションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「14人の探偵の中に連続殺人鬼がいる」というデスゲーム風推理ものとして注目。クセの強い探偵キャラ造形と立ち絵のインパクトで SNS でじわり話題になった。",
+  "concept": "連続殺人鬼「八ツ裂き公」を追って孤島モルグ島に集った14人の名探偵たちが、自分たちの中に潜む犯人を消去法で炙り出していくクローズドサークル型ミステリー。捜査シミュ・アドベンチャー・真相解明の3パートで進む。",
+  "target": "ダンガンロンパや逆転裁判系のデスゲーム×推理 ADV を好む層、日本一ソフトウェアのキャラゲー／ノベル系ファン、コージーミステリー好き。",
+  "slug": "process-of-elimination",
+  "file": "data/games/1851-process-of-elimination.json",
+  "_source_urls": [
+    "https://nippon1.jp/consumer/bokumetsu/",
+    "https://game.watch.impress.co.jp/docs/news/1326643.html",
+    "https://store.nisamerica.com/products/process-of-elimination",
+    "https://www.gematsu.com/games/process-of-elimination"
+  ]
+}

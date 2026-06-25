@@ -1,0 +1,31 @@
+{
+  "id": 1535,
+  "title_jp": "ラジアータ ストーリーズ",
+  "title_en": "Radiata Stories",
+  "developer": "tri-Ace",
+  "publisher": "Square Enix",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "294K",
+  "sales_world": "413K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "tri-Ace 開発・Square Enix 発売のアクション RPG。150 人超を仲間にできる時間スケジュール制と、人間軍／妖精軍で結末が分岐する 2 ルート構成がカルト的人気を呼んだ。",
+  "slug": "radiata-stories",
+  "file": "data/games/1535-radiata-stories.json",
+  "concept": "街の住人 150 人以上を時間帯ごとの行動スケジュールに基づいて仲間にし、人間と妖精の対立を「どちらの陣営に付くか」で分岐させる群像劇 ARPG。リンクバトルでパーティを組み替えながら街と物語を遊ぶ。",
+  "target": "tri-Ace の戦闘システムとキャラ収集の両方を楽しみたい PS2 世代の JRPG ファン。スターオーシャン／ヴァルキリープロファイル系のファン層と、群像劇・分岐シナリオ好きな層に刺さる。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Radiata_Stories",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%A2%E3%83%BC%E3%82%BF_%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://www.vgchartz.com/game/1827/radiata-stories/",
+    "https://www.tri-ace.co.jp/products/"
+  ]
+}

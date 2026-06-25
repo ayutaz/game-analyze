@@ -1,0 +1,31 @@
+{
+  "id": 1283,
+  "title_jp": "DCヒーロー＆ヴィラン",
+  "title_en": "DC Heroes & Villains",
+  "developer": "Ludia",
+  "publisher": "Jam City / Ludia",
+  "year": 2021,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズルRPG",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "DC FanDome 2021 で発表され、Ludia 初の DC IP マッチ3 RPG として世界配信。バットマン／スーパーマン／ジョーカー／ハーレイ・クインらヒーローとヴィランを混成チーム編成できる点が話題となった。",
+  "concept": "マッチ3パズルでスキルゲージを溜め、ヒーローとヴィランを同じチームに編成して敵を倒すパズル RPG。キャラ収集・育成・ギルドボス戦の長期運営型ガチャ構造を、DC IP のキャラ愛で支える設計。",
+  "target": "DC コミック／映画ファン、Empires & Puzzles / Marvel Strike Force / マーベル・ツムツム のようなマッチ3 × ヒーロー収集型モバイルが好きな 20-40 代。隙間時間で IP キャラを集めて育てたい層。",
+  "slug": "dc-heroes-and-villains",
+  "file": "data/games/1283-dc-heroes-and-villains.json",
+  "_source_urls": [
+    "https://www.bluestacks.com/blog/news/dc-heroes-and-villains-pre-registration-en.html",
+    "https://www.newswire.ca/news-releases/the-dc-universe-unites-in-dc-heroes-amp-villains-mobile-game-868405011.html",
+    "https://gamingonphone.com/news/dc-heroes-villains-match-3-gets-an-official-launch-for-android-and-ios/",
+    "https://app.sensortower.com/overview/1498981975?country=us"
+  ]
+}

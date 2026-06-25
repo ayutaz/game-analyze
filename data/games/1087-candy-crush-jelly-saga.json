@@ -1,0 +1,37 @@
+{
+  "id": 1087,
+  "title_jp": "キャンディークラッシュ ゼリー",
+  "title_en": "Candy Crush Jelly Saga",
+  "developer": "King",
+  "publisher": "King",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Browser"
+  ],
+  "genre": "マッチ3パズル",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "非同期",
+  "popularity": "「キャンディークラッシュ」シリーズの姉妹作として 2016 年に世界展開。シリーズ累計 30 億 DL を支える 1 本で、ゼリーを広げるボス戦モードという新機軸が話題となり長期運営を続けている。",
+  "concept": "盤面全体をゼリーで埋めるという新ルールを加えた match-3 パズル。ジェリークイーンとカップケーキカールを相手取るボス対戦モードを核に据え、本家「キャンディークラッシュ」とは別の戦略性を提供する。",
+  "target": "通勤・家事の合間に遊ぶ 20-50 代の女性ライト層が中心。シリーズに親しんだ既存プレイヤーや、競争よりリラックス志向のスマホパズル愛好家が主なターゲット。",
+  "slug": "candy-crush-jelly-saga",
+  "file": "data/games/1087-candy-crush-jelly-saga.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Candy_Crush_Saga",
+    "https://www.king.com/game/candycrushjelly/",
+    "https://apps.apple.com/jp/app/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BC%E3%83%AA%E3%83%BC/id1047246341",
+    "https://play.google.com/store/apps/details?id=com.king.candycrushjellysaga",
+    "https://prtimes.jp/main/html/rd/p/000000058.000009503.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

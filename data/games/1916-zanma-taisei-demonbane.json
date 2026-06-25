@@ -1,0 +1,31 @@
+{
+  "id": 1916,
+  "title_jp": "斬魔大聖デモンベイン",
+  "title_en": "Zanma Taisei Demonbane",
+  "developer": "Nitroplus",
+  "publisher": "Nitroplus",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "PS2"
+  ],
+  "genre": "ビジュアルノベル/伝奇ロボットADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "クトゥルフ神話×スーパーロボットという異色の融合と鋼屋ジン節の熱血脚本が大きな話題となり、PS2 全年齢移植・アニメ化・格闘ゲーム化など多方面へ展開した Nitroplus の代表作。",
+  "concept": "ラヴクラフトのクトゥルフ神話と巨大ロボの王道熱血を真正面から接続した伝奇ビジュアルノベル。魔導書を擬人化したヒロインと共闘し、邪神の眷属と魔導機械デモンベインで戦う物語を読み進める。",
+  "target": "クトゥルフ神話やスーパーロボット系熱血展開を好む 20-40 代の男性ゲーマー、Nitroplus の伝奇シナリオを追ってきたビジュアルノベル愛好層。",
+  "slug": "zanma-taisei-demonbane",
+  "file": "data/games/1916-zanma-taisei-demonbane.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Demonbane",
+    "https://lovecraft.fandom.com/wiki/Deus_Machina_Demonbane",
+    "https://nitroplus.ecq.sc/work/demonbaine.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

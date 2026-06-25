@@ -1,0 +1,29 @@
+{
+  "id": 1986,
+  "title_jp": "キューピットパラサイト Sweet & Spicy Darling",
+  "title_en": "Cupid Parasite: Sweet and Spicy Darling",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2023,
+  "platform": [
+    "Switch"
+  ],
+  "genre": "女性向け恋愛ADV（乙女ゲーム／ファンディスク）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "前作『キューピット・パラサイト』のファンディスクとして 2023 年 11 月 30 日に Switch で発売。婚活コンサル会社「キューピット社」を舞台に、恋の女神＝主人公が一癖ある「寄生体（パラサイト）」たちと本物の恋に落ちる人気乙女シリーズの後日譚として、オトメイトファンと海外乙女コミュニティ双方で話題になった。",
+  "concept": "前作の 6 ルートの「その後」を描く After Drama に加え、メレニス視点の新ルートとボーナスエピソードを追加したファンディスク。婚活×女神×ラブコメというシリーズの世界観を維持したまま、各キャラの結婚観・恋人観を深掘りする物語消費特化型の乙女 ADV。",
+  "target": "前作『キューピット・パラサイト』をクリアした 20-30 代の女性プレイヤー、オトメイト系恋愛 ADV のコアファン層。明るくコミカルなトーンと甘めの恋愛描写を好む層に強い。",
+  "slug": "cupid-parasite-sweet-and-spicy-darling",
+  "file": "data/games/1986-cupid-parasite-sweet-and-spicy-darling.json",
+  "_source_urls": [
+    "https://www.otomate.jp/cp/fd/",
+    "https://www.famitsu.com/news/202304/28301264.html",
+    "https://www.4gamer.net/games/618/G061875/20230606016/",
+    "https://prtimes.jp/main/html/rd/p/000000336.000080401.html",
+    "https://www.siliconera.com/cupid-parasite-sweet-and-spicy-darling-otome-game-arrives-in-may/"
+  ]
+}

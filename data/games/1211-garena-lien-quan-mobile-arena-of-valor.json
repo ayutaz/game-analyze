@@ -1,0 +1,32 @@
+{
+  "id": 1211,
+  "title_jp": "リーエンクアン・モバイル / Arena of Valor",
+  "title_en": "Garena Liên Quân Mobile / Arena of Valor",
+  "developer": "TiMi Studio Group (Tencent)",
+  "publisher": "Garena (SEA)",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "MOBA / 5v5 マルチプレイヤーオンラインバトルアリーナ",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中国本土向け『王者栄耀（Honor of Kings）』の海外版として Garena が東南アジア（特にベトナム・タイ・台湾）で配信、ベトナムでは国民的 e スポーツタイトル化。2018 年には海外売上 1.4 億ドル超を記録し、Nintendo Switch 版もリリースされた数少ない MOBA。",
+  "concept": "PC MOBA を 5v5・10〜15 分・スマホ片手操作に凝縮した正統派モバイル MOBA。100 を超えるヒーローからピック・バン制で構成し、レーン戦・ガンク・集団戦・タワー攻略という MOBA の文法をそのまま再現する。",
+  "target": "東南アジア・台湾・日本のモバイル MOBA プレイヤー、LoL や Dota 2 を遊べないがマウス操作なしの対人戦を求めるカジュアル〜ミッド層、ランクとヒーロー収集を両輪で楽しみたい競技志向ユーザー。",
+  "slug": "garena-lien-quan-mobile-arena-of-valor",
+  "file": "data/games/1211-garena-lien-quan-mobile-arena-of-valor.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Arena_of_Valor",
+    "https://ja.wikipedia.org/wiki/%E4%BC%9D%E8%AA%AC%E5%AF%BE%E6%B1%BA_-Arena_of_Valor-",
+    "https://prtimes.jp/main/html/rd/p/000000076.000047942.html",
+    "https://store-jp.nintendo.com/list/software/70010000002023.html"
+  ]
+}

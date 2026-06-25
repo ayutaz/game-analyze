@@ -1,0 +1,28 @@
+{
+  "id": 1676,
+  "title_jp": "スーパーマリオ ヨッシーアイランド",
+  "title_en": "Yoshi's Island",
+  "developer": "Nintendo EAD",
+  "publisher": "Nintendo",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "2Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "4.12M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "手描きクレヨン風グラフィックとタマゴ投げ・ふんばりジャンプの新機軸で SFC 末期を代表する一本に。SFC 累計 9 位の 412 万本を売り、後の Yoshi シリーズの原典として今も語り継がれる。",
+  "concept": "マリオ本編の操作感を離れ、赤ん坊マリオを背負ったヨッシーが「タマゴを溜めて投げる」「ふんばりジャンプ」という独自アクションで進む横スクロール・プラットフォーマー。手描きクレヨン調のアートが世界観を支える。",
+  "target": "SFC 世代のマリオファン全般と、難度より探索・収集（花・赤コイン・スター）を楽しみたい層。子どもから大人までを想定した任天堂直系のファミリー向けアクション。",
+  "slug": "yoshis-island",
+  "file": "data/games/1676-yoshis-island.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Yoshi's_Island",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA_%E3%83%A8%E3%83%83%E3%82%B7%E3%83%BC%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89",
+    "https://www.famitsu.com/article/202508/48758",
+    "https://www.nintendo.co.jp/clvs/soft/mario_yossy.html"
+  ]
+}

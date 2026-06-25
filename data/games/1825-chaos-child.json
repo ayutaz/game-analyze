@@ -1,0 +1,35 @@
+{
+  "id": 1825,
+  "title_jp": "CHAOS;CHILD",
+  "title_en": "Chaos;Child",
+  "developer": "5pb. / MAGES.",
+  "publisher": "5pb. / PQube",
+  "year": 2014,
+  "platform": [
+    "Xbox One",
+    "PS3",
+    "PS4",
+    "PS Vita",
+    "PC",
+    "iOS",
+    "Android",
+    "Switch"
+  ],
+  "genre": "想定科学アドベンチャー (ビジュアルノベル)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「科学アドベンチャーシリーズ」第4作で、STEINS;GATE の系譜を継ぐ妄想科学 ADV。渋谷を舞台にしたグロテスクな連続殺人事件と「妄想トリガー」によるルート分岐が話題となり、アニメ化・PS4/Steam 移植で海外ファンも獲得した。",
+  "concept": "渋谷の連続殺人「ニュージェネレーションの狂気」を新聞部の高校生たちが追う、妄想トリガーによる分岐型サイコサスペンス ADV。STEINS;GATE と同じ「想定科学」シリーズの一作として、現実と妄想の境界を揺さぶる物語体験を提供する。",
+  "target": "10-30代のビジュアルノベル / 科学 ADV ファン、STEINS;GATE 経由のシリーズファン、サイコサスペンス / ミステリ志向の読み物プレイヤー層。",
+  "slug": "chaos-child",
+  "file": "data/games/1825-chaos-child.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Chaos;Child",
+    "https://store.steampowered.com/app/970570/CHAOSCHILD/",
+    "https://www.4gamer.net/games/447/G044777/20190123015/",
+    "https://game.mages.co.jp/smapho/app_chaoschild.html"
+  ]
+}

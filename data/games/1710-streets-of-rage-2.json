@@ -1,0 +1,28 @@
+{
+  "id": 1710,
+  "title_jp": "ベア・ナックルII 死闘への鎮魂歌",
+  "title_en": "Streets of Rage 2",
+  "developer": "Sega / Ancient",
+  "publisher": "Sega",
+  "year": 1992,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ベルトスクロールアクション",
+  "sales_jp": "~90K",
+  "sales_world": "3.64M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "16bit ベルトスクロールの金字塔。古代祐三のクラブミュージック調 BGM と 2P 協力プレイが世界的に評価され、シリーズ中最高傑作と語り継がれる。",
+  "concept": "アダム救出のため Axel・Blaze・Max・Sammy の 4 キャラから選んで街を進むベルトスクロール格闘。1 作目から操作・必殺技・テンポを全面的に刷新し、ジャンルの完成形と呼ばれる手触りを確立した。",
+  "target": "Mega Drive / Genesis 黄金期を遊んだ 16bit 世代、ベルトスクロール / アーケード格闘ファン、古代祐三サウンドトラックの愛好家。2P 協力でワイワイ遊びたい層。",
+  "slug": "streets-of-rage-2",
+  "file": "data/games/1710-streets-of-rage-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Streets_of_Rage_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A2%E3%83%BB%E3%83%8A%E3%83%83%E3%82%AF%E3%83%ABII_%E6%AD%BB%E9%97%98%E3%81%B8%E3%81%AE%E9%8E%AE%E9%AD%82%E6%AD%8C",
+    "https://www.sega.jp/mdmini/soft/streets-of-rage2.html",
+    "https://shmuplations.com/streetsofrage2/"
+  ]
+}

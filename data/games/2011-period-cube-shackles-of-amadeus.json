@@ -1,0 +1,28 @@
+{
+  "id": 2011,
+  "title_jp": "Period Cube 〜鳥籠のアマデウス〜",
+  "title_en": "Period Cube: Shackles of Amadeus",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International",
+  "year": 2016,
+  "platform": [
+    "PS Vita"
+  ],
+  "genre": "オトメ／ファンタジー・アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「異世界 MMO に閉じ込められた」SAO 系設定 × オトメイトの王道ファンタジー恋愛 ADV として注目され、Aksys Games による北米／欧州ローカライズ（2017）でも海外オトメファンの間で話題に。",
+  "concept": "オンラインカードゲーム「Arcadia」の世界に閉じ込められた主人公が、行方不明の双子の兄を捜しながら美形プレイヤー達と関係を結ぶオトメ系ファンタジー ADV。「ゲーム内に囚われる」モチーフでルートごとに異なる世界の真相が明かされる。",
+  "target": "20–40 代女性のオトメゲームファン層、特にファンタジー／異世界・閉鎖空間モノを好む層と、海外ローカライズ版 (Aksys) 経由の英語圏オトメファン。",
+  "slug": "period-cube-shackles-of-amadeus",
+  "file": "data/games/2011-period-cube-shackles-of-amadeus.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96_%E3%80%9C%E9%B3%A5%E7%B1%A0%E3%81%AE%E3%82%A2%E3%83%9E%E3%83%87%E3%82%A6%E3%82%B9%E3%80%9C",
+    "https://www.otomate.jp/period-cube/",
+    "https://aksysgames.com/products/psvita-period-cube/",
+    "https://otomeorganization.fandom.com/wiki/Period:_Cube_~Shackles_of_Amadeus~"
+  ]
+}

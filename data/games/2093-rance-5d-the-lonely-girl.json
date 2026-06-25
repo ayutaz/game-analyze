@@ -1,0 +1,33 @@
+{
+  "id": 2093,
+  "title_jp": "ランス5D -ひとりぼっちの女の子-",
+  "title_en": "Rance 5D: The Lonely Girl",
+  "developer": "AliceSoft",
+  "publisher": "AliceSoft",
+  "year": 2002,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アダルトRPG / ルーレットRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "鬼畜王ランスから約6年ぶりのナンバリングとして発売され、ダンジョン探索・戦闘・アイテム獲得まで全てルーレットとサイコロで決まる異色のシステムが話題に。2016年に MangaGamer から Rance VI と同梱で英語版がリリースされ海外でもカルト的人気を得た。",
+  "concept": "玄武城という時間が存在しない妖怪世界に閉じ込められたランスとシィルが脱出を目指す、移動・戦闘・イベントすべてをルーレットと 6 面ダイスで処理する実験的「ルーレット RPG」。シリーズ本筋から外れた外伝的小品ながら、運ゲー＋アリスソフトのキャラ性で独自の中毒性を生む。",
+  "target": "アリスソフト／ランスシリーズの古参ファン、ボードゲーム的な運否天賦の RPG を許容できる成人 PC ゲーマー層。",
+  "slug": "rance-5d-the-lonely-girl",
+  "file": "data/games/2093-rance-5d-the-lonely-girl.json",
+  "_source_urls": [
+    "https://alicesoft.miraheze.org/wiki/Rance_5D:_The_Lonely_Girl",
+    "https://en.wikipedia.org/wiki/Rance_(series)",
+    "https://www.amazon.co.jp/%E3%82%A2%E3%83%AA%E3%82%B9%E3%82%BD%E3%83%95%E3%83%88-Rance5D-%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%BC%E3%81%A3%E3%81%A1%E3%81%AE%E5%A5%B3%E3%81%AE%E5%AD%90/dp/B00006JUEP",
+    "https://www.igdb.com/games/rance-5d-the-lonely-girl"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

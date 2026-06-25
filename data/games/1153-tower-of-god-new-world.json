@@ -1,0 +1,33 @@
+{
+  "id": 1153,
+  "title_jp": "Tower of God: New World",
+  "title_en": "Tower of God: New World",
+  "developer": "Netmarble Neo",
+  "publisher": "Netmarble",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ガチャ収集型アイドルRPG（IPベース）",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "全世界6,000億ビュー超のWebtoon『Tower of God（神の塔）』IPを冠した3Dガチャ収集RPGとして2023年7月26日にグローバル同時配信。配信後すぐ韓国App Store / Google Playの売上トップ5入りし、Netmarble Q3 2023決算で全タイトル中5%売上を構成する主力に成長。",
+  "slug": "tower-of-god-new-world",
+  "file": "data/games/1153-tower-of-god-new-world.json",
+  "concept": "原作Webtoon『神の塔』の主要キャラ69体超を3Dアニメーションでガチャ収集するアイドル風RPG。塔を登るシナリオを章ごとに追体験しながら、推しキャラを集めて凸・育成・編成する報酬ループに特化している。",
+  "target": "原作Webtoon／アニメ『神の塔』ファンと、韓国系3D美麗キャラのガチャ収集RPGを好む20-30代スマホゲーマー。物語追体験よりも『推しキャラを引いて完凸する』動機が強い層。",
+  "_source_urls": [
+    "https://ch.netmarble.com/Eng/Newsroom/Detail?post_seq=4036&bbs_code=1020",
+    "https://www.animenewsnetwork.com/press-release/2023-07-26/netmarble-tower-of-god-new-world-launches-on-pc-ios-and-android-today/.200685",
+    "https://towerofgod.netmarble.com/en",
+    "https://www.pockettactics.com/netmarble/2023-financials",
+    "https://revenue.ennead.cc/games/tower-of-god"
+  ]
+}

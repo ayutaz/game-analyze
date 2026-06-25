@@ -1,0 +1,39 @@
+{
+  "id": 1639,
+  "title_jp": "クロノ・トリガー",
+  "title_en": "Chrono Trigger",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1995,
+  "platform": [
+    "SNES",
+    "PS1",
+    "DS",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG（時空冒険）",
+  "sales_jp": "2.03M",
+  "sales_world": "5M+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "鳥山明キャラデザ・坂口博信＋堀井雄二＋光田康典という「ドリームプロジェクト」体制で発売前から話題沸騰。Famitsu「平成のゲーム 最高の1本」1位に選ばれ、30年経っても累計500万本を超える歴代屈指の名作RPGとして語り継がれる。",
+  "concept": "時空を旅して歴史改変を行うアクティブタイムバトル制 JRPG。13 のマルチエンディング、新ゲーム+、ボス戦やイベントの分岐構造により「物語を何周も追体験する」設計を確立し、後の JRPG 全体に影響を与えた。",
+  "target": "30-50代の SNES/PS 世代 JRPG ファン、鳥山明＋すぎやまこういち系列の王道ファンタジー RPG が好きな層、Steam/DS/モバイル移植から入る若年新規層。",
+  "slug": "chrono-trigger",
+  "file": "data/games/1639-chrono-trigger.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Chrono_Trigger",
+    "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%BB%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC",
+    "https://www.nintendolife.com/news/2025/03/chrono-triggers-lifetime-sales-have-now-surpassed-the-five-million-mark",
+    "https://www.famitsu.com/news/201904/23175298.html",
+    "https://www.jp.square-enix.com/game/detail/chronotrigger/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

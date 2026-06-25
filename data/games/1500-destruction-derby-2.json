@@ -1,0 +1,29 @@
+{
+  "id": 1500,
+  "title_jp": "デストラクション・ダービー2",
+  "title_en": "Destruction Derby 2",
+  "developer": "Reflections Interactive",
+  "publisher": "Psygnosis",
+  "year": 1996,
+  "platform": [
+    "PS1",
+    "PC"
+  ],
+  "genre": "車両戦闘/デストラクションレース",
+  "sales_jp": "—",
+  "sales_world": "1M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "前作の英国バンガーレース路線から NASCAR 風アメリカナイズへ大胆に転換、障害物トラックとアリーナの破壊合戦が話題に。PlayStation の Platinum Range 入りを果たした 90 年代の代表的破壊系レースゲーム。",
+  "concept": "対戦相手の車をクラッシュさせてポイントを稼ぐ「破壊系レース」の続編。通常レースに加え、最後まで走り続けた者が勝つアリーナ・サバイバル戦を搭載し、リアル志向の挙動と障害物満載のコースで「ぶつけて壊す」体験を強化した。",
+  "target": "90 年代後半に PS1 / PC で対戦型カオスレースを楽しんだ 10-30 代男性層。クラッシュやスタントを爽快感の中心に据えた「破壊カタルシス」志向のプレイヤー。",
+  "slug": "destruction-derby-2",
+  "file": "data/games/1500-destruction-derby-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Destruction_Derby_2",
+    "https://www.mobygames.com/game/2546/destruction-derby-2/",
+    "https://destructionderby.fandom.com/wiki/Destruction_Derby_2",
+    "https://en.wikipedia.org/wiki/Destruction_Derby_(series)"
+  ]
+}

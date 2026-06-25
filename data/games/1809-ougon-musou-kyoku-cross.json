@@ -1,0 +1,34 @@
+{
+  "id": 1809,
+  "title_jp": "黄金夢想曲 CROSS",
+  "title_en": "Ougon Musou Kyoku CROSS",
+  "developer": "07th Expansion / French-Bread",
+  "publisher": "MangaGamer",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "Xbox 360",
+    "PS4",
+    "Switch"
+  ],
+  "genre": "2D対戦格闘（タッグ）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "対戦",
+  "popularity": "『うみねこのなく頃に』ファンを中心とする同人格闘で、コミケ発の本編に CROSS でドラノール／縁寿／黒バトラ等を追加。Steam・PS4・Switch 移植でネット対戦に対応し、シリーズファンの再集結地となった。",
+  "concept": "『うみねこのなく頃に』のキャラクターが「触れる（Touch）」タッグシステムで戦う 2D 同人格闘。French-Bread 協力のもとアークシステムワークス系格闘の操作感に寄せ、原作の論理戦・赤青字バトルを格闘ゲームの読み合いに翻案している。",
+  "target": "『うみねこ』を読了した竜騎士07ファンと、同人格闘・ASW 系タッグ格闘を遊ぶプレイヤー層。原作の決着を別の形で「観たい」読者と、ニッチ格闘ゲーマーの重なる層。",
+  "slug": "ougon-musou-kyoku-cross",
+  "file": "data/games/1809-ougon-musou-kyoku-cross.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Umineko:_Golden_Fantasia",
+    "https://ja.wikipedia.org/wiki/%E9%BB%84%E9%87%91%E5%A4%A2%E6%83%B3%E6%9B%B2",
+    "https://07th-expansion.net/cross/Main.htm",
+    "https://www.4gamer.net/games/486/G048639/20200903098/",
+    "https://www.gamespark.jp/article/2017/11/18/76902.html"
+  ]
+}

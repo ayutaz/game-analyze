@@ -1,0 +1,31 @@
+{
+  "id": 1685,
+  "title_jp": "スーパーR-TYPE",
+  "title_en": "Super R-Type",
+  "developer": "Irem",
+  "publisher": "Irem",
+  "year": 1991,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロールシューティング",
+  "sales_jp": "190,374本",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "アーケード『R-TYPE II』のSFC移植＋オリジナルステージ追加で1991年スーパーファミコン初期の代表的シューティングとして話題に。発売週で約10.9万本、累計19万本超を国内販売。",
+  "concept": "アーケードの名作横スクロールシューティング『R-TYPE II』をベースに新規ステージを加え再構成したSFC専用シューター。フォース装着による独自の攻撃・防御システムを家庭用で本格的に楽しめる作品。",
+  "target": "1990年代初頭のSFCユーザー、特にアーケードR-TYPEシリーズのファンと高難度シューティングを腕試ししたい中〜上級プレイヤー層。",
+  "slug": "super-r-type",
+  "file": "data/games/1685-super-r-type.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_R-Type",
+    "https://superfamicom.org/info/super-r-type",
+    "https://gamedrive.jp/news/1688893063",
+    "https://www.gavas.jp/products/detail.php?product_id=2446"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

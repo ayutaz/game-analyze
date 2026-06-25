@@ -1,0 +1,32 @@
+{
+  "id": 1832,
+  "title_jp": "Remember11 -the age of infinity-",
+  "title_en": "Remember11: The Age of Infinity",
+  "developer": "KID",
+  "publisher": "CyberFront / MAGES.",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "PC",
+    "PSP",
+    "iOS",
+    "Android"
+  ],
+  "genre": "サスペンスアドベンチャー／ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "infinityシリーズ第3作。雪山と精神病院を交互に行き来する人格入れ替わり SF サスペンスとして、未解明の謎を残す「未完の大作」として国内外のADVファンの間で長く語り継がれている。",
+  "concept": "「Never7」「Ever17」に続く infinity シリーズ完結作。冬樹と心としの二人の主人公が時空を越えて人格交換する極限状況を描く、シリアスかつ難解なサスペンス・ビジュアルノベル。",
+  "target": "infinity シリーズおよび打越鋼太郎・中澤工系 SF ADV を追ってきた 20-40 代のノベルゲーム愛好家。ハッピーエンドより思考実験と謎解きを求める読者層。",
+  "slug": "remember11-the-age-of-infinity",
+  "file": "data/games/1832-remember11-the-age-of-infinity.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Remember_11:_The_Age_of_Infinity",
+    "https://ja.wikipedia.org/wiki/Remember11_-the_age_of_infinity-",
+    "https://www.4gamer.net/games/081/G008150/",
+    "https://note.com/galg_chuo/n/naf3a833c0c6f"
+  ]
+}

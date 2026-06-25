@@ -1,0 +1,30 @@
+{
+  "id": 1583,
+  "title_jp": "ラチェット&クランク",
+  "title_en": "Ratchet & Clank",
+  "developer": "Insomniac Games",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2002,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "3Dアクション/プラットフォーマー",
+  "sales_jp": "26万",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "西洋開発タイトルとして初めて日本のPS2本体に同梱された特別パック「アクションパック」が話題に。発売後1週間で世界100万本近くを出荷した大ヒットシリーズの第1作。",
+  "concept": "個性豊かな武器・ガジェットで惑星を渡り歩く3Dアクション・プラットフォーマー。コミカルな相棒クランクと共に銀河を冒険し、撃つ・跳ぶ・解く体験を一本に凝縮した、Insomniac の代表シリーズの原点。",
+  "target": "10代〜30代のアクション好き、SF・カートゥーン調世界観を好むPS2ユーザー、ジャック&ダクスターやスライ・クーパー等のソニー系3Dプラットフォーマーファン層。",
+  "slug": "ratchet-and-clank",
+  "file": "data/games/1583-ratchet-and-clank.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Ratchet_%26_Clank_(2002_video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%81%E3%82%A7%E3%83%83%E3%83%88&%E3%82%AF%E3%83%A9%E3%83%B3%E3%82%AF_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.vgchartz.com/game/6404/ratchet-amp-clank/",
+    "https://dengekionline.com/data/news/2002/11/18/9814565db999d143bc718195a6427dba.html"
+  ]
+}

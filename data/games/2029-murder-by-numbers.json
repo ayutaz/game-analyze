@@ -1,0 +1,30 @@
+{
+  "id": 2029,
+  "title_jp": "マーダー・バイ・ナンバーズ",
+  "title_en": "Murder by Numbers",
+  "developer": "Mediatonic",
+  "publisher": "The Irregular Corporation",
+  "year": 2020,
+  "platform": [
+    "Switch",
+    "PC"
+  ],
+  "genre": "ピクロス×ビジュアルノベル推理アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「逆転裁判」作曲家・杉森雅和の音楽と『はーとふる彼氏』Hato Moa のキャラデザ、1996年LAを舞台にした女優探偵×ロボット相棒という設定で「ピクロス×逆転裁判」と評され、海外メディアから高評価を獲得した。",
+  "concept": "ノノグラム（ピクロス）パズルで証拠を解き明かしながら殺人事件を捜査するアドベンチャー。パズルを解く行為が「現場検証」と直結し、ビジュアルノベルの物語進行とロジックパズルの達成感を両立させる構造。",
+  "target": "推理アドベンチャー好き（特に逆転裁判ファン）と、ピクロス・ノノグラムなど数理パズル愛好家。ストーリー重視のカジュアルゲーマー、レトロな90年代LAの空気感が好きな層にも刺さる。",
+  "slug": "murder-by-numbers",
+  "file": "data/games/2029-murder-by-numbers.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Murder_by_Numbers_(video_game)",
+    "https://www.nintendolife.com/reviews/switch-eshop/murder_by_numbers",
+    "https://www.pcgamer.com/murder-by-numbers-review/"
+  ]
+}

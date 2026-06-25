@@ -1,0 +1,31 @@
+{
+  "id": 1343,
+  "title_jp": "EA SPORTS FC Mobile (旧 FIFA Mobile)",
+  "title_en": "EA SPORTS FC Mobile",
+  "developer": "EA Mobile / EA Vancouver",
+  "publisher": "Electronic Arts",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "サッカー/スポーツ",
+  "sales_jp": "2023年売上 約12.7億円 (Game-i)",
+  "sales_world": "500M+ DL (FIFA Mobile時代含む)",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2022年12月にW杯追い風で月間2270万DLを記録し全世界モバイルDL1位を獲得 (Sensor Tower)。2023年9月にFIFAブランドからEA SPORTS FCへリブランド。",
+  "concept": "実在クラブ・選手を起用したサッカーシム×UT (Ultimate Team) 型のスマホ向けカード収集ゲーム。試合操作はワンタップ寄りに簡素化しつつ、選手カードの強化・コンプリート・週次イベントを軸に運営する。",
+  "target": "海外サッカーファンと『FIFA / EA FC』本編プレイヤーの空き時間プレイ層。日本ではコア層は薄いが、欧州・中南米・東南アジアを中心にDL牽引。",
+  "slug": "ea-sports-fc-mobile",
+  "file": "data/games/1343-ea-sports-fc-mobile.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/EA_Sports_FC_Mobile",
+    "https://gamebiz.jp/news/363312",
+    "https://game-i.daa.jp/index.php/login/login/?cmd=app_record&apid=1094930513",
+    "https://www.ea.com/en/games/ea-sports-fc/fc-mobile"
+  ]
+}

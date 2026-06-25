@@ -1,0 +1,33 @@
+{
+  "id": 1928,
+  "title_jp": "CROSS†CHANNEL",
+  "title_en": "Cross Channel",
+  "developer": "Flying Shine",
+  "publisher": "Flying Shine / MoeNovel",
+  "year": 2003,
+  "platform": [
+    "PC",
+    "PS2",
+    "PSP",
+    "Xbox 360",
+    "PS3",
+    "PS Vita"
+  ],
+  "genre": "ループ系ビジュアルノベル/伝奇学園 ADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "田中ロミオの代表作にして「適応係数」設定と七日間ループの構成美が語り継がれる伝説のノベル。VNDB 7.86/4,500 票超で 2000 年代和製 VN のオールタイムベスト常連。",
+  "concept": "「群青学院」放送部の七人が夏合宿から戻ると街中の人類が消失していた——という終末ループ世界で、放送機材を直しながら一人ずつ仲間と向き合う独白ベースの ADV。語り手・黒須太一の自意識を通じて孤独・コミュニケーション不全・自己受容を描く。",
+  "target": "2000 年代エロゲー黄金期の文学的ノベルを通った 20-40 代男性層、田中ロミオ／鍵作品（Key 系）／Nitroplus 系の鬱・哲学系シナリオを愛好する読み手。",
+  "slug": "cross-channel",
+  "file": "data/games/1928-cross-channel.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Cross_Channel_(video_game)",
+    "https://www.4gamer.net/games/448/G044868/20230920057/",
+    "https://dengekionline.com/elem/000/000/871/871319/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VisualNovel/CrossChannel"
+  ]
+}

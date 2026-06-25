@@ -1,0 +1,36 @@
+{
+  "id": 1150,
+  "title_jp": "Lost Sword",
+  "title_en": "Lost Sword",
+  "developer": "WemadeConnect",
+  "publisher": "WemadeConnect",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "美少女アニメスタイル 2D サイドスクロール アクション/放置 RPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "韓国 2025年1月先行リリース後、グローバル版（日本語対応／日本サービスは対象外）が 2025年7月10日にローンチ。事前登録は 100 万人超を突破し、5星ヒーラー「Guinevere」配布などで話題化。",
+  "concept": "聖剣エクスカリバーが失われた異世界を舞台に、ファンタジーオタクの主人公 Ethan が王女エリザベスやモルガナら美少女キャラと共に旅をする 2D サイドスクロールの放置×リアルタイム RPG。ストーリーダンジョン／レイド／迷宮／タワー／ギルドコンテンツを行き来しながらキャラを集め育てる、典型的サブカル系ガチャ RPG。",
+  "target": "美少女アニメ調キャラに惹かれる 20-30 代男性サブカル層と、放置/オート進行で手軽に長期運用したい中華・韓国系モバイル RPG プレイヤー。原神／崩壊系より低負荷でガチャ収集を楽しみたい層。",
+  "slug": "lost-sword",
+  "file": "data/games/1150-lost-sword.json",
+  "_source_urls": [
+    "https://lostsword.wemadeconnect.com/",
+    "https://www.4gamer.net/games/927/G092739/20250708032/",
+    "https://www.businesswire.com/news/home/20250710582893/en/Wemade-Max-Announces-Global-Grand-Launch-of-Subculture-RPG-Lost-Sword",
+    "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.lostdgl",
+    "https://apps.apple.com/us/app/lost-sword/id6482099823"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

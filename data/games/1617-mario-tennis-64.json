@@ -1,0 +1,28 @@
+{
+  "id": 1617,
+  "title_jp": "マリオテニス64",
+  "title_en": "Mario Tennis",
+  "developer": "Camelot",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "テニス/スポーツ",
+  "sales_jp": "—",
+  "sales_world": "2.48M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "マリオシリーズ初のキャメロット制作テニスで、ワルイージ初登場作品として話題に。4人ダブルス対戦やトリックショット、ボム兵コートなどパーティ性が評価され、N64末期のヒット作となった。",
+  "concept": "本格的なテニスゲームの操作性に、マリオキャラ16人と特殊コート・ギミックを組み合わせたスポーツアクション。シングルからダブルスまで対人戦に特化し、誰でもラリーが続く爽快感を狙った設計。",
+  "target": "マリオファンと友人・家族で集まってワイワイ対戦したい層、N64のパーティゲーム文化を楽しむ小学生〜大人まで幅広いカジュアル対戦ゲーマー。",
+  "slug": "mario-tennis-64",
+  "file": "data/games/1617-mario-tennis-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mario_Tennis",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%86%E3%83%8B%E3%82%B964",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_nm8j/index.html",
+    "https://vgsales.fandom.com/wiki/Mario_Sports"
+  ]
+}

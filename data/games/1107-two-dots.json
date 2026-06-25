@@ -1,0 +1,30 @@
+{
+  "id": 1107,
+  "title_jp": "トゥードッツ",
+  "title_en": "Two Dots",
+  "developer": "Playdots",
+  "publisher": "Playdots (Take-Two/Zynga)",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "カジュアル/ライン繋ぎパズル",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL (Dots フランチャイズ累計)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "同色ドットを線で繋ぐシンプルなルールに、ミニマルなアートと癒し系 BGM を組み合わせて世界 100 カ国超で App Store 無料ランキング 1 位を獲得。2014 年のキャズム期モバイル女性層を巻き込み、Dots フランチャイズ累計で 1 億 DL を突破した。",
+  "slug": "two-dots",
+  "file": "data/games/1107-two-dots.json",
+  "concept": "前作 Dots のタイム制を撤廃し、ステージ攻略型のキャンペーン構造とパワーアップを導入したカジュアルパズル。ミニマルなビジュアルとアンビエントな音楽で「上品な暇つぶし」というポジションを確立した。",
+  "target": "通勤通学の隙間時間にスマホで遊びたい 20–40 代、特に非ゲーマー層・女性層。難しすぎず洗練されたデザインのパズルを求める層に刺さる。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Two_Dots_(video_game)",
+    "https://venturebeat.com/2015/05/29/mobile-puzzle-game-two-dots-reaches-30-million-downloads/",
+    "https://www.businesswire.com/news/home/20160721005360/en/Play-Beautifully-With-Dots-Co-the-New-Puzzle-Game-From-Dots",
+    "https://gamebiz.jp/news/130968",
+    "https://www.gamespot.com/articles/two-years-after-192m-acquisition-take-two-shuts-down-two-dots-studio-playdots/1100-6508293/"
+  ]
+}

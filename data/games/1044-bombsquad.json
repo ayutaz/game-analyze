@@ -1,0 +1,35 @@
+{
+  "id": 1044,
+  "title_jp": "BombSquad",
+  "title_en": "BombSquad",
+  "developer": "Eric Froemling",
+  "publisher": "Eric Froemling",
+  "year": 2014,
+  "platform": [
+    "Android",
+    "iOS",
+    "PC",
+    "Mac",
+    "Linux"
+  ],
+  "genre": "アーケード/パーティ対戦アクション",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL (Android)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "8人ローカル/ネットワーク対戦と派手な爆発・ラグドール物理で「ソファ集合型パーティゲーム」の代表格に。Android では累計5000万DLを超え、無料配信＋MOD文化で長期にわたって遊ばれている。",
+  "concept": "爆弾・拳・物理演算で殴り合うアーケード調パーティアクション。Capture the Flag、King of the Hill、Hockey、Epic Slow-Motion Elimination 等のミニゲームを協力／チーム／フリーフォーオールの3モードで遊べる、最大8人同時対戦のカジュアル格闘パーティ。",
+  "target": "友人と物理的または同一画面で集まって遊びたいカジュアル層、Android端末しか持たないライト層、無料で気軽に8人対戦をやりたい学生・家族層。",
+  "slug": "bombsquad",
+  "file": "data/games/1044-bombsquad.json",
+  "_source_urls": [
+    "https://www.froemling.net/apps/bombsquad",
+    "https://bombsquad.fandom.com/wiki/BombSquad",
+    "https://rawg.io/games/bombsquad-eric-froemling",
+    "https://www.appbrain.com/app/bombsquad/net.froemling.bombsquad"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

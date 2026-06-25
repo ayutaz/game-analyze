@@ -1,0 +1,30 @@
+{
+  "id": 1280,
+  "title_jp": "ロード・オブ・ザ・リング：ヒーローズ・オブ・ミドル＝アース",
+  "title_en": "The Lord of the Rings: Heroes of Middle-earth",
+  "developer": "Capital Games",
+  "publisher": "EA",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ターン制コレクションRPG",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL（2024サ終）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『Star Wars: Galaxy of Heroes』の系譜を継ぐ EA Capital Games 製の指輪物語 IP ガチャ RPG として 2023 年 5 月にグローバル配信されたが、品質維持が困難として 2024 年 5 月 24 日に約 1 年でサービス終了したことが話題に。",
+  "concept": "映画三部作と原作小説のキャラクターをガチャで集め、ターン制パーティ戦闘でフェロウシップを編成する IP × ヒーローコレクト RPG。ホビット、エルフ、ドワーフ、人間など陣営シナジーを軸にしたチームビルディングが核。",
+  "target": "指輪物語ファンと『SW: Galaxy of Heroes』など EA 系コレクション RPG プレイヤー、洋画 IP のキャラ収集に魅力を感じる海外モバイルゲーマー層。",
+  "slug": "lotr-heroes-of-middle-earth",
+  "file": "data/games/1280-lotr-heroes-of-middle-earth.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_Heroes_of_Middle-earth",
+    "https://www.ea.com/games/lord-of-the-rings/the-lord-of-the-rings-heroes-of-middle-earth/news/an-important-update",
+    "https://gamerant.com/ea-games-shutting-down-may-2024-mlb-lotr-heroes-of-middle-earth/"
+  ]
+}

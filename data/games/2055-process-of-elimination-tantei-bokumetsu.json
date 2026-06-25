@@ -1,0 +1,33 @@
+{
+  "id": 2055,
+  "title_jp": "Process of Elimination 探偵撲滅",
+  "title_en": "Process of Elimination (Tantei Bokumetsu)",
+  "developer": "Nippon Ichi Software",
+  "publisher": "Nippon Ichi Software / NIS America",
+  "year": 2021,
+  "platform": [
+    "Switch",
+    "PS4"
+  ],
+  "genre": "推理アドベンチャー / ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "「14人の探偵の中に連続殺人鬼“八つ裂き公”が紛れ込む」というダンガンロンパ系の閉鎖空間ミステリーとして注目を集め、日本一ソフトウェアの推理ADVとして 2023 年に NIS America から英語ローカライズ展開された。",
+  "concept": "孤島「モルグ島」に集められた個性派 14 名の探偵が連続殺人鬼を追う推理アドベンチャー。アドベンチャーパート／盤面で探偵を動かす捜査シミュレーションパート／証拠を組み合わせる真相究明パートの 3 段構成で読み物と推理ゲームを両立させている。",
+  "target": "ダンガンロンパ・逆転裁判・極限脱出シリーズなど閉鎖空間ミステリー ADV を好む層、キャラ立ちした群像劇と謎解きを同時に楽しみたい日本一ソフトウェア作品のファン層。",
+  "slug": "process-of-elimination-tantei-bokumetsu",
+  "file": "data/games/2055-process-of-elimination-tantei-bokumetsu.json",
+  "_source_urls": [
+    "https://www.gematsu.com/games/process-of-elimination",
+    "https://nippon1.jp/consumer/bokumetsu/",
+    "https://game.watch.impress.co.jp/docs/news/1326643.html",
+    "https://www.4gamer.net/games/551/G055102/",
+    "https://dengekionline.com/articles/79979/",
+    "https://www.metacritic.com/game/process-of-elimination/"
+  ]
+}

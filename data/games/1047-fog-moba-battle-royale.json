@@ -1,0 +1,34 @@
+{
+  "id": 1047,
+  "title_jp": "FOG: Battle Royale",
+  "title_en": "FOG - MOBA Battle Royale",
+  "developer": "PLAYNETA LIMITED",
+  "publisher": "PLAYNETA LIMITED",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MOBA × バトルロイヤル/アクション",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中世ダークファンタジー世界観で剣・弓・槍を選び 20-30 人で 10 分以内の短時間バトルロイヤルを行う、MOBA とバトロワを掛け合わせたモバイル PvP として海外を中心にロングテールで遊ばれている。",
+  "concept": "100 人バトロワを 20-30 人に圧縮し MOBA 風の近接・遠隔武器とスキルアップグレードを乗せた、1 試合 10 分以内のモバイル向け対戦アクション。迫りくる毒霧と落ちている武器・モンスターの中で最後の 1 人を目指す。",
+  "target": "PUBG Mobile や荒野行動の長尺バトロワを敬遠する層、Brawl Stars 的な短時間 PvP を好むモバイルゲーマー。ファンタジー剣戟が好きで MOBA や Survivor.io 系の操作感に馴染んだプレイヤー。",
+  "slug": "fog-moba-battle-royale",
+  "file": "data/games/1047-fog-moba-battle-royale.json",
+  "_source_urls": [
+    "https://www.taptap.io/app/199755",
+    "https://fog-battle-royale.en.uptodown.com/android",
+    "https://fog-moba-battle-royale-game.en.softonic.com/android",
+    "https://kotaku.com/games/fog-battle-royale"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -89,14 +89,14 @@ describe('facet.html — initial render', () => {
     assert.equal(link.textContent.trim(), '日本／世界のゲーム 3カテゴリ分析カタログ');
   });
 
-  it('renders_1025_cards_initially', () => {
-    assert.equal(cards(win).length, 1025);
+  it('renders_2025_cards_initially', () => {
+    assert.equal(cards(win).length, 2025);
   });
 
-  it('result_count_text_matches_1025_over_1025', () => {
+  it('result_count_text_matches_2025_over_2025', () => {
     assert.equal(
       win.document.getElementById('result-count').textContent,
-      '1025 / 1025 件',
+      '2025 / 2025 件',
     );
   });
 
@@ -105,12 +105,12 @@ describe('facet.html — initial render', () => {
     assert.equal(rows.length, 3);
   });
 
-  it('primary_filter_counts_show_705_125_195', () => {
+  it('primary_filter_counts_show_1215_491_319', () => {
     // Render order is EXP / NAR / REW per facet.html
     const counts = Array.from(
       win.document.querySelectorAll('#filter-primary .count'),
     ).map((n) => Number(n.textContent));
-    assert.deepEqual(counts, [705, 125, 195]);
+    assert.deepEqual(counts, [1215, 491, 319]);
   });
 
   it('axis_filter_section_has_six_rows', () => {
@@ -186,7 +186,7 @@ describe('facet.html — initial render', () => {
 
   it('every_card_has_link_to_detail', () => {
     const links = win.document.querySelectorAll('#grid .card-link');
-    assert.equal(links.length, 1025);
+    assert.equal(links.length, 2025);
     for (const a of links) {
       const href = a.getAttribute('href');
       assert.match(href, /detail\.html\?id=\d+/);
@@ -211,7 +211,7 @@ describe('facet.html — initial render', () => {
 describe('facet.html — filter interactions', () => {
   // Each test boots a fresh page so state is isolated.
 
-  it('exp_label_click_filters_to_705_cards_REGRESSION', async () => {
+  it('exp_label_click_filters_to_1215_cards_REGRESSION', async () => {
     // REGRESSION for the label-click double-toggle bug. Clicking on the
     // .filter-row (which IS the <label>) must flip the checkbox exactly once,
     // dispatching a single change event, leaving EXP checked and #grid
@@ -229,14 +229,14 @@ describe('facet.html — filter interactions', () => {
       await tick(win, 30);
 
       assert.equal(cb.checked, true, 'after label click, checkbox must be checked');
-      assert.equal(cards(win).length, 705, 'EXP filter should reveal 705 cards');
+      assert.equal(cards(win).length, 1215, 'EXP filter should reveal 705 cards');
       assert.ok(row.classList.contains('active'), 'filter-row should be .active');
     } finally {
       dom.window.close();
     }
   });
 
-  it('exp_label_click_unchecks_and_restores_1025', async () => {
+  it('exp_label_click_unchecks_and_restores_2025', async () => {
     // Second half of the regression: a second label click must un-check the
     // checkbox and restore all 1025 cards.
     const dom = await bootFacet();
@@ -247,19 +247,19 @@ describe('facet.html — filter interactions', () => {
 
       row.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 705);
+      assert.equal(cards(win).length, 1215);
 
       row.click();
       await tick(win, 20);
       assert.equal(cb.checked, false);
-      assert.equal(cards(win).length, 1025);
+      assert.equal(cards(win).length, 2025);
       assert.ok(!row.classList.contains('active'));
     } finally {
       dom.window.close();
     }
   });
 
-  it('exp_checkbox_via_input_change_filters_to_705', async () => {
+  it('exp_checkbox_via_input_change_filters_to_1215', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
@@ -268,49 +268,49 @@ describe('facet.html — filter interactions', () => {
       cb.checked = true;
       cb.dispatchEvent(new win.Event('change', { bubbles: true }));
       await tick(win, 20);
-      assert.equal(cards(win).length, 705);
+      assert.equal(cards(win).length, 1215);
     } finally {
       dom.window.close();
     }
   });
 
-  it('nar_checkbox_filters_to_125_cards', async () => {
+  it('nar_checkbox_filters_to_491_cards', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
       const cb = filterRow(win, 'primary', 'NAR').querySelector('input');
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 125);
+      assert.equal(cards(win).length, 491);
     } finally {
       dom.window.close();
     }
   });
 
-  it('rew_checkbox_filters_to_195_cards', async () => {
+  it('rew_checkbox_filters_to_319_cards', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
       const cb = filterRow(win, 'primary', 'REW').querySelector('input');
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 195);
+      assert.equal(cards(win).length, 319);
     } finally {
       dom.window.close();
     }
   });
 
-  it('unchecking_restores_1025', async () => {
+  it('unchecking_restores_2025', async () => {
     const dom = await bootFacet();
     const win = dom.window;
     try {
       const cb = filterRow(win, 'primary', 'EXP').querySelector('input');
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 705);
+      assert.equal(cards(win).length, 1215);
       cb.click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 1025);
+      assert.equal(cards(win).length, 2025);
     } finally {
       dom.window.close();
     }
@@ -323,8 +323,8 @@ describe('facet.html — filter interactions', () => {
       filterRow(win, 'primary', 'EXP').querySelector('input').click();
       filterRow(win, 'primary', 'REW').querySelector('input').click();
       await tick(win, 20);
-      // Set.has across primary acts as OR within the facet -> 705 + 195 = 900
-      assert.equal(cards(win).length, 900);
+      // Set.has across primary acts as OR within the facet -> EXP + REW
+      assert.equal(cards(win).length, 1215 + 319);
     } finally {
       dom.window.close();
     }
@@ -445,7 +445,7 @@ describe('facet.html — filter interactions', () => {
       assert.equal(cards(win).length, 0);
       assert.equal(
         win.document.getElementById('result-count').textContent,
-        '0 / 1025 件',
+        '0 / 2025 件',
       );
     } finally {
       dom.window.close();
@@ -486,7 +486,7 @@ describe('facet.html — filter interactions', () => {
       await tick(win, 20);
       assert.equal(
         win.document.getElementById('result-count').textContent,
-        '125 / 1025 件',
+        '491 / 2025 件',
       );
       const s = win.document.getElementById('search');
       s.value = 'zzzznevermatching';
@@ -494,7 +494,7 @@ describe('facet.html — filter interactions', () => {
       await tick(win, 20);
       assert.equal(
         win.document.getElementById('result-count').textContent,
-        '0 / 1025 件',
+        '0 / 2025 件',
       );
     } finally {
       dom.window.close();
@@ -554,7 +554,7 @@ describe('facet.html — filter interactions', () => {
       assert.equal(checked.length, 0);
       const active = win.document.querySelectorAll('.filter-row.active');
       assert.equal(active.length, 0);
-      assert.equal(cards(win).length, 1025);
+      assert.equal(cards(win).length, 2025);
     } finally {
       dom.window.close();
     }
@@ -569,13 +569,13 @@ describe('facet.html — filter interactions', () => {
       filterRow(win, 'primary', 'EXP').querySelector('input').click();
       filterRow(win, 'primary', 'REW').querySelector('input').click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 900);
+      assert.equal(cards(win).length, 1215 + 319);
       win.document.getElementById('reset').click();
       await tick(win, 20);
-      // Now check only NAR — must show exactly 125, not 125 + leftover.
+      // Now check only NAR — must show exactly NAR count, not NAR + leftover.
       filterRow(win, 'primary', 'NAR').querySelector('input').click();
       await tick(win, 20);
-      assert.equal(cards(win).length, 125);
+      assert.equal(cards(win).length, 491);
     } finally {
       dom.window.close();
     }
@@ -697,8 +697,8 @@ describe('facet.html — bug-hunt regression', () => {
     const expectedIndie = index.games.filter(
       (g) => (g.tags || []).includes('indie'),
     ).length;
-    assert.ok(expectedIndie >= 250 && expectedIndie <= 400,
-      `indie 件数想定 250-400 を外れている: ${expectedIndie}`);
+    assert.ok(expectedIndie >= 500 && expectedIndie <= 700,
+      `indie 件数想定 500-700 を外れている: ${expectedIndie}`);
 
     const dom = await bootFacet();
     const win = dom.window;

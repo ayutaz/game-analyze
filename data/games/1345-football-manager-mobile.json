@@ -1,0 +1,31 @@
+{
+  "id": 1345,
+  "title_jp": "Football Manager Mobile",
+  "title_en": "Football Manager Mobile",
+  "developer": "Sports Interactive",
+  "publisher": "SEGA",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "サッカークラブ経営シミュレーション (モバイル)",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PC 版『Football Manager』シリーズ累計 3000 万本超の派生で、モバイルでも毎年新作が出る定番。FM24 は世界 700 万プレイヤーをシリーズ最速で突破し、モバイル版も買い切り型サッカー監督シムの代表格として継続課金なしで遊べる点が支持される。",
+  "concept": "PC 版『Football Manager』の中核である選手スカウト・戦術指示・試合シミュレーションを、片手で進められるサイズに圧縮したモバイル専用版。シーズン進行を高速化し、移動中でも 1 試合を短時間で消化できるよう設計されている。",
+  "target": "PC 版 FM を遊ぶコア層に加え、欧州サッカーのクラブ経営や戦術いじりが好きな 20-40 代の男性層。実況視聴より自分で采配したい層と、通勤・通学の隙間時間でリーグを進めたい層。",
+  "slug": "football-manager-mobile",
+  "file": "data/games/1345-football-manager-mobile.json",
+  "_source_urls": [
+    "https://footballmanager.fandom.com/wiki/Football_Manager_Handheld",
+    "https://en.wikipedia.org/wiki/Football_Manager",
+    "https://www.famitsu.com/news/202402/15334594.html",
+    "https://www.sega.co.jp/release/240215_1.html"
+  ]
+}

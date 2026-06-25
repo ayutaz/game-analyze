@@ -1,0 +1,29 @@
+{
+  "id": 1999,
+  "title_jp": "ロンドン迷宮譚",
+  "title_en": "London Detective Mysteria",
+  "developer": "Karin Entertainment",
+  "publisher": "XSEED Games",
+  "year": 2012,
+  "platform": [
+    "PSP",
+    "PS Vita",
+    "PC"
+  ],
+  "genre": "乙女ゲーム/ビジュアルノベル（ヴィクトリア朝ロンドン×推理恋愛）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "ヴィクトリア朝ロンドンを舞台に、シャーロック・ホームズやアルセーヌ・ルパンら名探偵・怪盗の二世が登場する推理乙女ゲーとして人気。XSEED Games による英訳版（2019）は同社初のオトメゲーム洋ローカライズとして海外でも話題になった。",
+  "concept": "ヴィクトリア朝ロンドンを舞台に、名探偵・怪盗の子孫たちと事件を解きながら恋愛を進める「推理×恋愛」乙女ビジュアルノベル。原作は PSP 版『英国探偵ミステリア』、PS Vita 拡張版『The Crown』を経て海外移植された。",
+  "target": "10-30 代女性、シャーロック・ホームズや怪盗ルパンなどクラシック推理 IP に親しんだ乙女ゲー層。重厚な世界観のミステリ恋愛 ADV を腰を据えて読みたいプレイヤー。",
+  "slug": "london-detective-mysteria",
+  "file": "data/games/1999-london-detective-mysteria.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/London_Detective_Mysteria",
+    "https://xseedgames.com/games/london-detective-mysteria/",
+    "https://www.gematsu.com/2018/06/otome-visual-novel-london-detective-mysteria-coming-west-for-ps-vita-pc-this-fall"
+  ]
+}

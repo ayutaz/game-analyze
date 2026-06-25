@@ -1,0 +1,30 @@
+{
+  "id": 1559,
+  "title_jp": "SIREN",
+  "title_en": "Forbidden Siren",
+  "developer": "Project Siren / SCE Japan Studio",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2003,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サバイバルホラー/ステルスアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『サイレントヒル』元監督・外山圭一郎が手掛けた和製サバイバルホラー。敵の視界を覗き見る『視界ジャック』と、羽生蛇村の土着的な世界観・難解な群像劇で熱狂的カルト人気を獲得した。",
+  "concept": "2003年の日本の寒村・羽生蛇村を舞台に、屍人と化した村人から逃れる和風サバイバルホラー。「視界ジャック」で敵の視点を盗み見ながら隠れて進む独自のステルス体験と、複数主人公の時系列をジグソーパズル状に解き明かす群像劇が核。",
+  "target": "20-40代のホラー・Jホラー好き、難解な群像劇や考察を楽しむ層、サイレントヒルや零などの和製ホラーファン。明確な勝利条件より雰囲気と恐怖体験を味わいたいコアプレイヤー向け。",
+  "slug": "forbidden-siren",
+  "file": "data/games/1559-forbidden-siren.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Siren_(video_game)",
+    "https://ja.wikipedia.org/wiki/SIREN_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%BD%E3%83%95%E3%83%88)",
+    "https://www.famitsu.com/news/202111/06239560.html",
+    "https://news.denfaminicogamer.jp/interview/230802a"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1344,
+  "title_jp": "Top Eleven Be a Manager",
+  "title_en": "Top Eleven Be a Manager",
+  "developer": "Nordeus",
+  "publisher": "Nordeus / Take-Two",
+  "year": 2010,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "サッカー監督シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "240M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "ジョゼ・モウリーニョを長年広告塔に起用し、世界 240 以上の国・地域で 2 億 4,000 万人超の登録監督を集めた老舗サッカーマネージャー。2022 年に Take-Two/Zynga 傘下入りし、Web/モバイルのクロスプレイで非同期リーグ戦が継続している。",
+  "concept": "自分のクラブを所有・運営し、戦術・育成・移籍・スタジアム拡張で他プレイヤーのチームとリーグ戦・カップ戦・チャンピオンズリーグを戦う非同期 PvP マネージャー。試合は 3D ハイライトで自動進行し、フォーメーション・選手交代・士気管理で勝敗が決まる。",
+  "target": "サッカー観戦が好きで Football Manager ほど重くないモバイル運営を求める 20-50 代男性、海外サッカーファン、長期運営型ライブゲームを好む社会人プレイヤー。",
+  "slug": "top-eleven-be-a-manager",
+  "file": "data/games/1344-top-eleven-be-a-manager.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Top_Eleven",
+    "https://www.nordeus.com/games/top-eleven/",
+    "https://www.take2games.com/news/2022/3/take-two-completes-acquisition-of-zynga"
+  ]
+}

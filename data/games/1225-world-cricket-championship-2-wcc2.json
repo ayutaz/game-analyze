@@ -1,0 +1,28 @@
+{
+  "id": 1225,
+  "title_jp": "ワールド・クリケット・チャンピオンシップ 2",
+  "title_en": "World Cricket Championship 2 (WCC2)",
+  "developer": "Nextwave Multimedia",
+  "publisher": "Nextwave Multimedia (India)",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "クリケットスポーツシミュレーション",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Google Play で累計 1 億ダウンロード超え、インド No.1 のモバイルクリケットゲームとして AAA 級のバッティング/ボウリング操作と 18 か国の代表チーム実名収録で長期支持。",
+  "concept": "28 種類のボウリングモーションと 140 以上のバッティング技を持つ本格 3D クリケットシム。ワールドカップ・T20・IPL を模した 11 種のトーナメントを 1 アプリで横断遊技できる positioning。",
+  "target": "クリケットが国民的スポーツのインド・南アジア・英連邦圏の 10-40 代男性層が中核。実選手と本格的なフィジックスを求めるコアクリケットファン向け。",
+  "slug": "world-cricket-championship-2-wcc2",
+  "file": "data/games/1225-world-cricket-championship-2-wcc2.json",
+  "_source_urls": [
+    "https://www.nextwavemultimedia.com/games/wcc2",
+    "https://play.google.com/store/apps/details?id=com.nextwave.wcc2&hl=en_US",
+    "https://apps.apple.com/in/app/world-cricket-championship-2/id1025281689"
+  ]
+}

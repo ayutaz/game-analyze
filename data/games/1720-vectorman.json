@@ -1,0 +1,28 @@
+{
+  "id": 1720,
+  "title_jp": "ベクターマン",
+  "title_en": "Vectorman",
+  "developer": "BlueSky Software",
+  "publisher": "Sega",
+  "year": 1995,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "2Dアクション/プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "プリレンダ3DCGによる関節アニメで『ドンキーコング カントリー』に対抗したメガドライブ末期の意欲作。60fpsで滑らかに動く23パーツ構成のベクターマンが話題を呼び、欧米で批評・商業ともに成功した。",
+  "concept": "退役した清掃用ロボットがオービタル・ボットの陰謀から地球を救う2Dアクション・プラットフォーマー。BlueSky独自の「Vector Piece Animation」で23パーツの体を滑らかに動かし、ジェット・球体・砲弾など多彩な変形アクションで進む。",
+  "target": "メガドライブ末期の欧米ハードコア層、技術デモ的なグラフィックと爽快な高速アクションを好む2Dアクション・プラットフォーマー愛好者。日本では国内未発売のため、後年バーチャルコンソール／Steam Genesis Collection 経由のレトロゲーマー層が中心。",
+  "slug": "vectorman",
+  "file": "data/games/1720-vectorman.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Vectorman",
+    "https://vc.sega.jp/vc_vector/",
+    "https://sonic.sega.jp/gems/games_vm.html",
+    "https://www.mobygames.com/game/7143/vectorman/"
+  ]
+}

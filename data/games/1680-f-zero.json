@@ -1,0 +1,27 @@
+{
+  "id": 1680,
+  "title_jp": "エフゼロ",
+  "title_en": "F-Zero",
+  "developer": "Nintendo EAD",
+  "publisher": "Nintendo",
+  "year": 1990,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "未来型高速レース",
+  "sales_jp": "—",
+  "sales_world": "2.85M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "スーパーファミコン本体ローンチタイトルとして登場し、Mode 7 による疑似 3D の高速感が「次世代機の表現力」を象徴。キャプテン・ファルコン誕生作としてその後の任天堂 IP に大きな影響を与えた。",
+  "concept": "Mode 7 の回転拡縮を活かした未来型ホバーマシンレース。15 コース 4 マシンというシンプルな構成ながら、当時としては圧倒的なスピード感と硬派なタイム短縮の駆け引きを軸にした 1 人用レース体験を確立した。",
+  "target": "スーパーファミコン世代のレトロゲーマーと、シリーズのルーツに触れたい F-ZERO ファン。タイムアタックや高難度コーナリングを突き詰めるソロ志向のプレイヤー向け。",
+  "slug": "f-zero",
+  "file": "data/games/1680-f-zero.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/F-Zero_(video_game)",
+    "https://www.nintendo.co.jp/clvs/soft/f_zero.html",
+    "https://ja.wikipedia.org/wiki/F-ZERO%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA"
+  ]
+}

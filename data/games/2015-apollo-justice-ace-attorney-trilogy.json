@@ -1,0 +1,34 @@
+{
+  "id": 2015,
+  "title_jp": "逆転裁判456 王泥喜セレクション",
+  "title_en": "Apollo Justice: Ace Attorney Trilogy",
+  "developer": "Capcom",
+  "publisher": "Capcom",
+  "year": 2024,
+  "platform": [
+    "Switch",
+    "PS4",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "法廷バトルアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "シリーズ4〜6（『逆転裁判4』『逆転裁判5』『逆転裁判6』）をHDリマスター収録。新米弁護士・王泥喜法介を主人公とする三部作が現行機で初めて遊べる決定版として、長年のファンと新規層の双方から注目された。",
+  "concept": "シリーズ後期三部作をフルHD化して一本にまとめた集大成パッケージ。「ココロスコープ」「カンガエルート」「霊媒ビジョン」など作品ごとに異なる法廷ギミックを横断的に体験でき、王泥喜法介の成長と「法の暗黒時代」を巡る長編ストーリーを一気に追体験できる。",
+  "target": "原作DS/3DS版を遊んだシリーズファンの再プレイ層と、『大逆転裁判』『逆転裁判123』から入った新規ファンが王泥喜サイドの物語を補完する層。推理ADV・法廷劇好きの30-40代を中心に幅広い年代に届く設計。",
+  "slug": "apollo-justice-ace-attorney-trilogy",
+  "file": "data/games/2015-apollo-justice-ace-attorney-trilogy.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Apollo_Justice:_Ace_Attorney_Trilogy",
+    "https://www.gematsu.com/2023/09/apollo-justice-ace-attorney-trilogy-launches-january-25-2024",
+    "https://www.famitsu.com/news/202306/13305950.html",
+    "https://blog.ja.playstation.com/2024/01/25/20240125-saiban/",
+    "https://store.steampowered.com/app/2187220/Apollo_Justice_Ace_Attorney_Trilogy/"
+  ]
+}

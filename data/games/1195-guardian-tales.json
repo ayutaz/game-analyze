@@ -1,0 +1,34 @@
+{
+  "id": 1195,
+  "title_jp": "Guardian Tales",
+  "title_en": "Guardian Tales",
+  "developer": "Kong Studios",
+  "publisher": "Kakao Games",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android",
+    "Switch",
+    "PC"
+  ],
+  "genre": "アクションRPG/ガチャ",
+  "sales_jp": "3M+ DL",
+  "sales_world": "10M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "ピクセルアートとパロディ満載のシナリオで「ゼルダ風アクション×ガチャ」というハイブリッドが受け、グローバルで早期に1000万DL/100億円規模を達成。日本でも2021年配信開始から数か月で300万DLを突破した。",
+  "concept": "ピクセルアート見下ろし型のアクションアドベンチャーに、英雄ガチャ・武器ガチャ・拠点育成を載せたハイブリッドRPG。パズルを解きながらダンジョンを攻略するゼルダ風の手触りと、収集・育成のループを両立させた。",
+  "target": "20-30代男性中心のスマホRPGユーザーで、ガチャ収集と歯ごたえのあるアクションの両方を求める層。レトロゲーム/パロディ好きとアニメ調キャラ収集好きの両方に刺さる。",
+  "slug": "guardian-tales",
+  "file": "data/games/1195-guardian-tales.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Guardian_Tales",
+    "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA",
+    "https://www.4gamer.net/games/571/G057106/20210518093/",
+    "https://app.w3g.jp/%E3%82%AC%E3%83%87%E3%83%86%E3%83%AB"
+  ]
+}

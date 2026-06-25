@@ -1,0 +1,33 @@
+{
+  "id": 1088,
+  "title_jp": "トゥーンブラスト",
+  "title_en": "Toon Blast",
+  "developer": "Peak Games",
+  "publisher": "Peak (Zynga / Take-Two)",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "カジュアル/ブロックパズル",
+  "sales_jp": "—",
+  "sales_world": "150M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ピクサー風カートゥーン演出と短時間プレイのレベル攻略で世界的にヒット。2020年にZyngaがPeakを18億ドルで買収する原動力となり、週間推定売上2億8000万円規模を維持する代表的タップマッチ系カジュアル。",
+  "slug": "toon-blast",
+  "file": "data/games/1088-toon-blast.json",
+  "concept": "同色ブロックをタップして消すシンプルなタップ・マッチパズルに、コミカルなネコ・クマ・オオカミの3キャラ演出とチームプレイ要素を組み合わせたカジュアルパズル。ライフ制と数千ステージで「ちょい遊び→詰まり→課金」の王道カジュアルループを構築している。",
+  "target": "20-50代のライト層、特に女性比率が高い非ゲーマー寄りユーザー。通勤・家事の合間に短時間で達成感を得たい層、Candy Crush 系の代替を探しているプレイヤー。",
+  "_source_urls": [
+    "https://apps.apple.com/us/app/toon-blast/id1176027022",
+    "https://play.google.com/store/apps/details?id=net.peakgames.toonblast&hl=en_US",
+    "https://gamebiz.jp/?p=245932",
+    "https://app.w3g.jp/toon-blast",
+    "https://japanese-photographer.com/information_technology/toonblast-company/"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1233,
+  "title_jp": "VIP バルート",
+  "title_en": "VIP Baloot",
+  "developer": "Tamatem Games",
+  "publisher": "Tamatem Games",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "オンライン対戦カードゲーム（バルート/ベロート系）",
+  "sales_jp": "—",
+  "sales_world": "5M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "サウジアラビアを中心とする湾岸諸国（GCC）で最も人気のオンライン対戦カードゲームとなり、現地インフルエンサーとのトーナメント開催や VIP 限定ボーダー・ギャラリー機能で SNS バズを獲得。アラビア語圏モバイルゲーム市場の象徴的タイトルとして 5M+ DL を達成した。",
+  "concept": "中東地域で広く親しまれる伝統的なトリックテイキングカードゲーム「バルート（ベロート）」を 4 人対戦で遊ぶオンライン版。AI／フレンド／世界中のプレイヤーと対戦でき、VIP 課金で大会参加・チップ獲得・カスタムボーダー等の社交要素が拡張される。",
+  "target": "サウジアラビア・UAE をはじめとする中東 GCC 諸国のアラビア語話者全般。家族や友人と伝統的なバルートを楽しむ中年層から、ランキング・大会で競う若年層まで幅広い。",
+  "slug": "vip-baloot",
+  "file": "data/games/1233-vip-baloot.json",
+  "_source_urls": [
+    "https://tamatem.co/games/vip-baloot/",
+    "https://vipbaloot.com/",
+    "https://play.google.com/store/apps/details?id=co.tamatem.vipbaloot",
+    "https://tamatem.co/news/tamatem-games-partners-up-with-top-influencers-in-saudi-arabia-for-a-vip-baloot-tournament/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

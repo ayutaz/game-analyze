@@ -1,0 +1,31 @@
+{
+  "id": 1623,
+  "title_jp": "ポケモンスタジアム2",
+  "title_en": "Pokémon Stadium 2",
+  "developer": "Nintendo EAD / HAL Laboratory",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "3Dポケモンバトル",
+  "sales_jp": "1.14M",
+  "sales_world": "2.54M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "64GBパックでゲームボーイ版『金・銀・クリスタル』のポケモンを N64 の 3D 大画面で対戦できる体験が話題化。ジムリーダーの城やミニゲーム集「チビッコクラブ」でファミリー対戦の定番となった。",
+  "concept": "ゲームボーイで育てた第 1/第 2 世代ポケモン 251 種を 64GB パック経由で吸い上げ、テレビで 3D 化して対戦・観戦できる「テレビ版ポケモン」。歴代ジムリーダーの城を制覇すると Lv.100 ポケモンが解禁され、本編のコレクション動機を物理的に拡張する。",
+  "target": "ゲームボーイ版『ポケットモンスター 金・銀・クリスタル』をやり込んだ小中学生〜ファミリー層。育てたポケモンを家族や友達と大画面で見せ合いたい層。",
+  "slug": "pokemon-stadium-2",
+  "file": "data/games/1623-pokemon-stadium-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium_2",
+    "https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games",
+    "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%A2%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "https://www.nintendo.co.jp/n01/n64/software/nus_p_np3j/index.html",
+    "https://www.vgchartz.com/game/1768/pokemon-stadium-2/"
+  ]
+}

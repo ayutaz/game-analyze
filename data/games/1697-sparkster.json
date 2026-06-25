@@ -1,0 +1,27 @@
+{
+  "id": 1697,
+  "title_jp": "スパークスター ロケットナイトアドベンチャーズ2",
+  "title_en": "Sparkster",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1994,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "横スクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "メガドライブ末期に登場したコナミの名作続編。ロケットパックが自動チャージ式になり、隠し剣7本を集めると真エンディング・ゴールドスパークスター化する点が話題に。",
+  "concept": "オポッサム剣士スパークスターを操作し、ロケットパックで空中を縦横無尽に飛び回りながら王国を救う 6 ステージ構成の横スクロールアクション。隠し剣を集めることで真ボス戦が解禁される。",
+  "target": "メガドライブ後期の高難度アクション好き、コナミ製ハイテンションアクション（魂斗羅・悪魔城）ファン層、隠し要素・やりこみ要素を楽しみたい層。",
+  "slug": "sparkster",
+  "file": "data/games/1697-sparkster.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Sparkster:_Rocket_Knight_Adventures_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA",
+    "https://konami.fandom.com/wiki/Sparkster:_Rocket_Knight_Adventures_2"
+  ]
+}

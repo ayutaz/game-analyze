@@ -1,0 +1,32 @@
+{
+  "id": 1201,
+  "title_jp": "Dragonheir: Silent Gods",
+  "title_en": "Dragonheir: Silent Gods",
+  "developer": "SGRA Studio",
+  "publisher": "Nuverse",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド戦略RPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "1M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "D&D風のダイスロール戦闘とオープンワールド探索をスマホ／PCで実現したガチャRPGとして話題化。2023年9月のグローバルローンチ時に「ダイスが運命を決める」コンセプトが4Gamer等で取り上げられバズ。",
+  "concept": "D&Dを源流とする西洋ハイファンタジー世界で、ダイスロール判定とターン制戦略バトル、300体超の英雄ガチャを組み合わせたオープンワールド戦略RPG。サンドボックス的な広大なマップ探索とTRPG的なランダムイベントが特徴。",
+  "target": "D&D/TRPGや西洋ファンタジーが好きな20-40代男性。ガチャRPGで英雄収集・育成を楽しみつつ、Raid Shadow Legends系の硬派なバトルとオープンワールド探索を両立したい層。",
+  "slug": "dragonheir-silent-gods",
+  "file": "data/games/1201-dragonheir-silent-gods.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2203070/Dragonheir_Silent_Gods/",
+    "https://www.4gamer.net/games/731/G073117/20230817026/",
+    "https://www.pocketgamer.com/dragonheir-silent-gods/mobile-and-pc-release-second-half-2023/",
+    "https://dragonheir.fandom.com/wiki/Dragonheir:_Silent_Gods"
+  ]
+}

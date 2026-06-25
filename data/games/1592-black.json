@@ -1,0 +1,28 @@
+{
+  "id": 1592,
+  "title_jp": "BLACK ブラック",
+  "title_en": "Black",
+  "developer": "Criterion Games",
+  "publisher": "Electronic Arts",
+  "year": 2006,
+  "platform": [
+    "PS2",
+    "Xbox"
+  ],
+  "genre": "FPS（一人称視点シューティング）",
+  "sales_jp": "—",
+  "sales_world": "200K+ (UK ELSPA Gold)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "「Gun Porn」と呼ばれるほど銃と破壊表現に特化したシネマティックFPS。建物が崩れ、瓦礫が飛び散る派手な演出で当時のPS2/Xbox世代に強烈な印象を残し、BAFTAサウンド部門ノミネートなど音響面でも高評価。",
+  "concept": "Burnout シリーズの Criterion Games が放つ、ハリウッド映画的演出と破壊可能オブジェクトに振り切ったシングルプレイ専用FPS。「銃を撃つこと自体の快感」と派手な爆発・銃声を主役に据えた体験設計。",
+  "target": "PS2/Xbox世代の硬派FPSファン、銃器の挙動や音響を重視するシネマティックアクション好き、Call of Duty 以前のミリタリーFPS黎明期を体感したい層。",
+  "slug": "black",
+  "file": "data/games/1592-black.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Black_(video_game)",
+    "https://ja.wikipedia.org/wiki/BLACK_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://www.mobygames.com/game/21453/black/"
+  ]
+}

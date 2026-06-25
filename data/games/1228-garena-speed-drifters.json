@@ -1,0 +1,31 @@
+{
+  "id": 1228,
+  "title_jp": "Garena スピードドリフターズ",
+  "title_en": "Garena Speed Drifters",
+  "developer": "TiMi Studio Group",
+  "publisher": "Garena (SEA)",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "カジュアル/カートレース",
+  "sales_jp": "—",
+  "sales_world": "200M+ MAU (mobile registered users, 2019)",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "中国本土向け『QQ飛車手游』(2017) の国際版として 2018-12 に Garena が SEA 配信し、QQ Speed シリーズ全体で 2019-07 時点で 7 億登録ユーザー（うちモバイル 2 億）に到達。SEA 各国で人気のカジュアル PvP カートレーサーになった。",
+  "concept": "本格カートゲームの『QQ飛車』を Garena が SEA 向けにローカライズした基本無料モバイルカートレース。ドリフトとブースト管理を軸にした 4 種類のレースモード（ソロ／チーム）と、キャラ・車両・パーツの収集／カスタマイズで構成される、マリオカートに対する中華系の代表選手。",
+  "target": "東南アジア（タイ・フィリピン・ベトナム・インドネシア・台湾・シンガポール等）の 10-20 代モバイルゲーマー、特にカートレース／対戦カジュアルを軽く遊びたい層と、車体・コスチューム収集を楽しむ層。",
+  "slug": "garena-speed-drifters",
+  "file": "data/games/1228-garena-speed-drifters.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/GKART",
+    "https://speed.garena.com/",
+    "https://pokde.net/news/speed-drifters-officially-released-and-its-free-garenas-first-mobile-racer",
+    "https://play.google.com/store/apps/details?id=com.garena.game.fctw&hl=en"
+  ]
+}

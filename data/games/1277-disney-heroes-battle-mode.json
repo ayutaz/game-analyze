@@ -1,0 +1,32 @@
+{
+  "id": 1277,
+  "title_jp": "ディズニー ヒーローズ：バトルモード",
+  "title_en": "Disney Heroes: Battle Mode",
+  "developer": "PerBlue Entertainment",
+  "publisher": "PerBlue",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オートバトル/RPG/クロスオーバー",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "ディズニー/ピクサー/スター・ウォーズ等の人気キャラ150体超を集めて編成する大型クロスオーバーが話題に。2026年5月31日のサービス終了発表でも惜しむ声が広がった。",
+  "concept": "ディズニー・ピクサー・スター・ウォーズの英雄たちが「デジタル世界」に迷い込み共闘する設定の縦持ちオートバトラー。キャラ収集とスター/装備によるパワーアップを軸に、ギルド戦やリーグなどPvP要素も備える長期運営型ガチャRPG。",
+  "target": "ディズニー/ピクサー/マーベル/スター・ウォーズのIPファン、Hero Wars 系オートバトラーを好む中〜重課金層、長期運営のキャラ収集ゲームを腰を据えて遊びたい大人プレイヤー。",
+  "slug": "disney-heroes-battle-mode",
+  "file": "data/games/1277-disney-heroes-battle-mode.json",
+  "_source_urls": [
+    "https://disney.fandom.com/wiki/Disney_Heroes:_Battle_Mode",
+    "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DisneyHeroesBattleMode",
+    "https://comicbook.com/gaming/news/disney-game-shutting-down-will-soon-be-delisted-on-all-platforms/",
+    "https://play.google.com/store/apps/details?id=com.perblue.disneyheroescjk",
+    "https://game-i.daa.jp/?%E3%82%A2%E3%83%97%E3%83%AA/Disney+Heroes%EF%BC%9A+Battle+Mode"
+  ]
+}

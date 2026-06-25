@@ -1,0 +1,27 @@
+{
+  "id": 1701,
+  "title_jp": "ラン・セイバー",
+  "title_en": "Run Saber",
+  "developer": "Horisoft",
+  "publisher": "Atlus",
+  "year": 1993,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "横スクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "ストライダー飛竜系の高速2D横スクロールアクションとして海外SNES市場で一定のカルト人気を獲得。2人同時プレイ対応で兄妹的バディもの構造が当時の評価点だった。日本未発売ゆえに国内では希少タイトル扱い。",
+  "concept": "未来のサイボーグ戦士『ランセイバー』2人（雷属性のアレンと氷属性のシーナ）が壁張り付き・天井移動を駆使してサイドスクロール6ステージを駆け抜けるストライダー系ハイスピードアクション。最大2人協力プレイ可能。",
+  "target": "ストライダー飛竜やヴァリス系の高速2Dアクションを好む海外SNESプレイヤー層、および当時の日本未発売北米SNESソフトを掘るレトロゲームコレクター層。",
+  "slug": "run-saber",
+  "file": "data/games/1701-run-saber.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Run_Saber",
+    "https://www.hardcoregaming101.net/run-saber/",
+    "https://strider.fandom.com/wiki/Run_Saber"
+  ]
+}

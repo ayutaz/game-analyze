@@ -1,0 +1,35 @@
+{
+  "id": 1561,
+  "title_jp": "マンハント",
+  "title_en": "Manhunt",
+  "developer": "Rockstar North",
+  "publisher": "Rockstar Games",
+  "year": 2003,
+  "platform": [
+    "PS2",
+    "PC",
+    "Xbox",
+    "PS3",
+    "PS4",
+    "PS5"
+  ],
+  "genre": "ステルスアクション/サイコホラー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "残虐なステルスキル演出とスナッフフィルム題材で各国発売禁止・規制を受け、論争を巻き起こしたカルト的話題作。日本では未発売だが、北米輸入版や配信プレイで現在もカルト人気が続く。",
+  "concept": "死刑囚キャッシュが謎の演出家スタークウェザーの指示でスナッフ映像のために連続殺戮を行う、暗闇ステルス特化のサイコホラー。「物陰に潜み、背後から処刑する」緊張感と残虐演出そのものが体験の核になる。",
+  "target": "Rockstar 系の硬派なステルス／バイオレンスゲームを好む 18 歳以上の海外コア層、ホラー・グラインドハウス映画ファン、PS2 期のカルト名作を遡って体験したいレトロゲーマー層。",
+  "slug": "manhunt",
+  "file": "data/games/1561-manhunt.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Manhunt_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%8F%E3%83%B3%E3%83%88",
+    "https://www.rockstargames.com/games/manhunt",
+    "https://news.denfaminicogamer.jp/horror2016/hr-review006"
+  ]
+}

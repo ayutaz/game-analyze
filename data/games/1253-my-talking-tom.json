@@ -1,0 +1,33 @@
+{
+  "id": 1253,
+  "title_jp": "マイ トーキング トム",
+  "title_en": "My Talking Tom",
+  "developer": "Outfit7",
+  "publisher": "Outfit7",
+  "year": 2013,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "バーチャルペット/育成",
+  "sales_jp": "—",
+  "sales_world": "1.3B+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "2013年11月リリースから10日で135カ国のトップアプリ入り、Android単独で10億DL超を達成。Talking Tomフランチャイズ全体ではシリーズ累計100億DLを記録した世界的バーチャルペット現象。",
+  "concept": "声を真似して返す喋る子猫トムを餌・風呂・着替え・遊びで世話する非同期型バーチャルペット。ミニゲームでコインを稼ぎ、家具・服・髪型をアンロックして自分だけのトムを育てる育成ループが主軸。",
+  "target": "未就学児〜小学生を中心とした子ども層、およびカジュアルに動物育成を楽しみたい全年齢のスマホユーザー。短時間プレイで毎日の世話を続けられるライト層に強い。",
+  "slug": "my-talking-tom",
+  "file": "data/games/1253-my-talking-tom.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/My_Talking_Tom",
+    "https://www.mobygames.com/game/69501/my-talking-tom/",
+    "https://www.gaming-city.com/games/924"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

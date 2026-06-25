@@ -1,0 +1,35 @@
+{
+  "id": 1255,
+  "title_jp": "ポウ",
+  "title_en": "Pou",
+  "developer": "Zakeh",
+  "publisher": "Zakeh",
+  "year": 2012,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "バーチャルペット育成シミュレーション",
+  "sales_jp": "—",
+  "sales_world": "1B+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "三角形のエイリアン「ポウ」を餌やり・入浴・着替えで育てるたまごっち系育成アプリ。2012年配信開始で2014年に世界で最もダウンロードされたゲームの一つとなり、2024年10月時点でGoogle Playだけで累計10億DLを突破した。",
+  "concept": "エサ・洗浄・睡眠で世話しながらレベルアップと着せ替えを楽しむタマゴッチ系バーチャルペット。コイン稼ぎのミニゲーム、ポーション実験室、壁紙・衣装カスタマイズが詰め込まれた軽量無料アプリの古典。",
+  "target": "スマホ世代の子ども・ティーン中心のカジュアル層。短時間でかわいいキャラを愛でたいユーザー、たまごっち的な世話遊びをモバイルで再体験したい層に強い。",
+  "slug": "pou",
+  "file": "data/games/1255-pou.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pou_(video_game)",
+    "https://play.google.com/store/apps/details?id=me.pou.app&hl=en_US",
+    "https://www.4gamer.net/games/499/G049952/20200313060/",
+    "https://poupedia.com/Pou_(game)/en"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

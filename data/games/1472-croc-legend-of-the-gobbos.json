@@ -1,0 +1,32 @@
+{
+  "id": 1472,
+  "title_jp": "クロック! レジェンド・オブ・ガボー",
+  "title_en": "Croc: Legend of the Gobbos",
+  "developer": "Argonaut Software",
+  "publisher": "Fox Interactive",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "Saturn",
+    "PC",
+    "Game Boy"
+  ],
+  "genre": "3D アクションプラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "3.56M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Argonaut の最大ヒット作で PS1 単独で 356 万本超を売り、初期 3D プラットフォーマーの代表作として再評価。2024 年に Argonaut Games 復活とともにリマスター版が発表され話題に。",
+  "concept": "可愛らしいワニのクロックが、毛むくじゃらの友人ガボーを救うために 4 つのアイランドを駆け回る初期 3D プラットフォーマー。スーパーマリオ 64 と並ぶ草創期の 3D ジャンプ・アクションの一本で、固定カメラと足場ジャンプを中心に据えたステージクリア型の作り。",
+  "target": "PS1/Saturn 世代で 3D プラットフォーマーをリアルタイムで遊んだ 30-50 代、Argonaut Games の歴史やレトロ 3D 表現に関心がある層、リマスター経由で初プレイするレトロアクション愛好家。",
+  "slug": "croc-legend-of-the-gobbos",
+  "file": "data/games/1472-croc-legend-of-the-gobbos.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Croc:_Legend_of_the_Gobbos",
+    "https://en.wikipedia.org/wiki/Croc_(series)",
+    "https://www.gematsu.com/2024/08/croc-legend-of-the-gobbos-remaster-announced-for-consoles-pc-alongside-argonaut-games-revival",
+    "https://www.hardcoregaming101.net/croc-legend-of-the-gobbos/",
+    "https://www.mobygames.com/game/2884/croc-legend-of-the-gobbos/"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1163,
+  "title_jp": "Code: To Jin Yong (代号:射雕)",
+  "title_en": "Code: To Jin Yong",
+  "developer": "LightSpeed Studios",
+  "publisher": "Tencent / Level Infinite",
+  "year": 2025,
+  "platform": [
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "オープンワールド武侠アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Tencent / LightSpeed Studios が金庸の武侠小説『射鵰英雄伝』を Unreal Engine 5 で映像化する AAA オープンワールドとして 2022 年に発表され、華山などの実在地形をフォトグラメトリで再現したトレーラーが中華圏で大きな話題を呼んでいる。",
+  "concept": "金庸の代表作『射鵰英雄伝』の世界を Unreal Engine 5 で構築したオープンワールド武侠アクション RPG。武術考証を入れた拳法・剣術モーションと、ディテールまで作り込まれた中国大陸の景観の中で「江湖を旅する」体験を主軸に据える。",
+  "target": "金庸武侠小説のファン層、Genshin Impact / 鳴潮 系のハイエンドオープンワールド志向プレイヤー、中国・東アジア圏の武侠 IP を好む 20-40 代を主要ターゲットにする AAA タイトル。",
+  "slug": "code-to-jin-yong",
+  "file": "data/games/1163-code-to-jin-yong.json",
+  "_source_urls": [
+    "https://www.lightspeed-studios.com/news/code-to-jin-yong.html",
+    "https://www.gematsu.com/2022/06/lightspeed-studios-announces-wuxia-style-open-world-action-game-code-to-jin-yong",
+    "https://geekculture.co/code-to-jin-yong-tencent-level-infinite-lightspeed-studios/",
+    "https://gamingbolt.com/code-to-jin-yong-is-a-new-open-world-martial-arts-game-by-tencent",
+    "https://en.namu.wiki/w/Code%20To%20Jin%20Yong"
+  ]
+}

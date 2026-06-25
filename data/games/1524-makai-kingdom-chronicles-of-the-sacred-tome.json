@@ -1,0 +1,34 @@
+{
+  "id": 1524,
+  "title_jp": "ファントム・キングダム",
+  "title_en": "Makai Kingdom: Chronicles of the Sacred Tome",
+  "developer": "Nippon Ichi Software",
+  "publisher": "NIS America",
+  "year": 2005,
+  "platform": [
+    "PS2",
+    "PSP",
+    "PC",
+    "Switch"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "—",
+  "sales_world": "200K+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『ディスガイア』『ファントム・ブレイブ』に連なる日本一ソフトウェアの魔界系SRPG。「乗り物（ヴィークル）」「フリー移動」「魔本に封じられた魔王ゼッタ」というユニーク設定でコアSRPGファンに熱心な支持を得て、PSP版『ファントム・キングダム ポータブル』(2011) や Switch『Prinny Presents NIS Classics Volume 2』(2022) で長く再販されている。",
+  "slug": "makai-kingdom-chronicles-of-the-sacred-tome",
+  "file": "data/games/1524-makai-kingdom-chronicles-of-the-sacred-tome.json",
+  "concept": "魔界の崩壊を防ごうとして魂を『神聖な魔本』に封じられた最強の魔王ゼッタが、本の力で世界を作り変えながら復活を目指すSRPG。乗り物を建造して移動・戦闘に使えるフリー移動システムと、日本一おなじみのレベル9999級のやり込みを掛け合わせている。",
+  "target": "『ディスガイア』『ファントム・ブレイブ』など日本一ソフトウェア系SRPGのファン、キャラクター育成と裏ダンジョン周回が好きなコアな数値系SRPGプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Makai_Kingdom:_Chronicles_of_the_Sacred_Tome",
+    "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%BB%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%80%E3%83%A0",
+    "https://www.mobygames.com/game/22018/makai-kingdom-chronicles-of-the-sacred-tome/",
+    "https://www.gamer.ne.jp/game/1000018076/"
+  ]
+}

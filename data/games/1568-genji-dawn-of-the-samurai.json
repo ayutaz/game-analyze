@@ -1,0 +1,29 @@
+{
+  "id": 1568,
+  "title_jp": "斬 〜歌舞伎〜",
+  "title_en": "Genji: Dawn of the Samurai",
+  "developer": "Game Republic",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ハック&スラッシュ/アクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "『平家物語』を下敷きにした和風アクションで、源義経と武蔵坊弁慶を切り替えて戦う独自演出「神撃（カミガミ）」がPS2世代の和風ハクスラとして話題に。",
+  "slug": "genji-dawn-of-the-samurai",
+  "file": "data/games/1568-genji-dawn-of-the-samurai.json",
+  "concept": "Game Republic 設立直後の和風ダークアクションで、ジャストガード「神撃」によるスローモーション斬撃を核に据えた一騎当千型ハック&スラッシュ。源義経と弁慶の使い分けで攻略リズムが変わる。",
+  "target": "PS2 世代の和風アクション・三国無双系を好む 20-30 代男性層、平家物語や歴史 IP に親しみのあるプレイヤー層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Genji:_Dawn_of_the_Samurai",
+    "https://www.vgchartz.com/game/847/genji-dawn-of-the-samurai/",
+    "https://www.mobygames.com/game/20657/genji-dawn-of-the-samurai/"
+  ]
+}

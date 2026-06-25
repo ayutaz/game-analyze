@@ -1,0 +1,30 @@
+{
+  "id": 1580,
+  "title_jp": "ジャックXダクスター 旧世界の遺産",
+  "title_en": "Jak and Daxter: The Precursor Legacy",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 2001,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "3Dアクション・プラットフォーマー",
+  "sales_jp": "—",
+  "sales_world": "2.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Naughty Dog が『クラッシュ・バンディクー』後に放った PS2 初期の代表作。広大なオープンワールドをロードなしでシームレスに繋いだ技術力で評価され、北米で 200 万本超を売り上げて以降のシリーズ化と『アンチャーテッド』『ラスアス』への布石となった。",
+  "concept": "ロード画面ゼロでシームレスに繋がる広大な 3D 世界を、相棒ダクスター（オッタセル）と共に駆け巡るアクション・プラットフォーマー。Precursor の遺物「Power Cell」と「Precursor Orb」を集めながら、ジャンプ・格闘・乗り物アクションでステージを攻略していく。",
+  "target": "PS2 世代の 3D アクション・プラットフォーマー好き、クラッシュ・バンディクーや Ratchet & Clank、スーパーマリオ 64 系の操作感を好む層。ストーリー＋探索＋収集をバランスよく楽しみたいファミリー〜コア層。",
+  "slug": "jak-and-daxter-the-precursor-legacy",
+  "file": "data/games/1580-jak-and-daxter-the-precursor-legacy.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Jak_and_Daxter:_The_Precursor_Legacy",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%C3%97%E3%83%80%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC_%E6%97%A7%E4%B8%96%E7%95%8C%E3%81%AE%E9%81%BA%E7%94%A3",
+    "https://www.gamesradar.com/jak-and-daxter-the-precursor-legacy-anniversary-making-of/",
+    "https://www.mobygames.com/game/6792/jak-and-daxter-the-precursor-legacy/"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1100,
+  "title_jp": "マッチマスターズ",
+  "title_en": "Match Masters",
+  "developer": "Candivore",
+  "publisher": "Candivore",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android",
+    "Browser"
+  ],
+  "genre": "対戦型マッチ3パズル",
+  "sales_jp": "—",
+  "sales_world": "60M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "同一盤面で交互にマッチを取り合うリアルタイム PvP マッチ3 として世界累計 6,000 万 DL 超を記録。2022 年に Candivore が $100M の投資を受けるなど、カジュアル対戦パズルの代表格として注目を集めた。",
+  "slug": "match-masters",
+  "file": "data/games/1100-match-masters.json",
+  "concept": "「マッチ3 × PvP」をテーマに、同じ盤面で相手と交互に手を打ち合う対戦カジュアルパズル。自分のスコアだけでなく、相手に渡す盤面の良し悪しも読みながらブースターで駆け引きする。",
+  "target": "短時間で 1 戦終わるカジュアル対戦を求める 20-50 代の幅広い層、特にマッチ3 を遊び慣れた女性層やライトゲーマーで、対戦・トロフィー収集の刺激を求める層。",
+  "_source_urls": [
+    "https://www.candivore.io/games/match-masters/",
+    "https://apps.apple.com/us/app/match-masters-pvp-match-3/id1138264921",
+    "https://play.google.com/store/apps/details?id=com.funtomic.matchmasters&hl=en_US",
+    "https://naavik.co/deep-dives/match-masters-deconstruction/",
+    "https://mobilegamer.biz/match-masters-maker-candivore-lands-100m-investment/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

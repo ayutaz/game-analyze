@@ -1,0 +1,35 @@
+{
+  "id": 1900,
+  "title_jp": "うたわれるもの ロストフラグ",
+  "title_en": "Utawarerumono: Lost Flag",
+  "developer": "AQUAPLUS",
+  "publisher": "AQUAPLUS",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ファンタジーRPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "うたわれるものシリーズ初のスマホ専用ガチャRPGとして2019年11月配信開始、シリーズファンとアクアプラス IPファン層を取り込み6年以上運営、2026年4月にサービス終了予定でオフライン版保存も発表され話題となった。",
+  "concept": "「うたわれるもの」シリーズ完全新作の物語をスマホ向けガチャRPGとして展開。ハクオロ／ハク／クオン等の歴代キャラを編成し、章立てのシナリオを進めながらキャラ収集・育成を行う長期運営型タイトル。",
+  "target": "うたわれるものシリーズおよびアクアプラス作品の既存ファン層、和風ファンタジー×美少女キャラのIPに親和性の高い20-40代男性ユーザー、シナリオ重視のスマホガチャRPGを長期で遊びたい層。",
+  "slug": "utawarerumono-lost-flag",
+  "file": "data/games/1900-utawarerumono-lost-flag.json",
+  "_source_urls": [
+    "https://utaware-lf.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000012.000046382.html",
+    "https://www.animenewsnetwork.com/news/2019-07-02/aquaplus-announces-utawarerumono-lost-flag-smartphone-rpg-for-2019/.148562",
+    "https://finalweapon.net/2026/02/24/utawarerumono-lost-flag-mobile-game-shutting-down-end-of-service/",
+    "https://automaton-media.com/en/news/utawarerumonos-soon-to-end-mobile-game-spin-off-will-be-preserved-through-an-offline-version/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

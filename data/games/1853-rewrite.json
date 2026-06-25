@@ -1,0 +1,33 @@
+{
+  "id": 1853,
+  "title_jp": "Rewrite",
+  "title_en": "Rewrite",
+  "developer": "Key",
+  "publisher": "Visual Arts / Sekai Project",
+  "year": 2011,
+  "platform": [
+    "PC",
+    "PS3",
+    "PS Vita",
+    "PS4",
+    "PSP"
+  ],
+  "genre": "ロマンス／伝奇ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Key 9 作目として 2011 年に PC で発売、Kanon／AIR／CLANNAD／Little Busters! の系譜に「伝奇・SF」を持ち込んだ意欲作として話題化。2014 年に PS Vita でフルボイス化、2016 年にアニメ化、2021 年には Sekai Project から Steam で英語版 Rewrite+ が配信され海外 VN ファン層にも浸透した。",
+  "concept": "「人類と地球（ガイア）の生存をかけたサバイバル」をテーマに、超能力（リライト能力）を持つ主人公が 5 ヒロインルートを巡る伝奇 SF ビジュアルノベル。日常パートの学園コメディから一転、終盤で人類存続レベルの選択を迫られる構造が特徴。",
+  "target": "Key 作品（Kanon／AIR／CLANNAD／Little Busters!）のファン層を中核に、泣きゲー／伝奇 SF／重厚ストーリー型 VN を好む 20-40 代男性。アニメ／Steam 経由で入った海外 VN 読者層も含む。",
+  "slug": "rewrite",
+  "file": "data/games/1853-rewrite.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Rewrite_(video_game)",
+    "https://ja.wikipedia.org/wiki/Rewrite_(%E3%82%B2%E3%83%BC%E3%83%A0)",
+    "https://store.steampowered.com/app/1680000/Rewrite/",
+    "https://www.famitsu.com/news/201408/26059900.html",
+    "https://www.4gamer.net/games/123/G012392/index_userreview.html"
+  ]
+}

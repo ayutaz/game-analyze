@@ -1,0 +1,31 @@
+{
+  "id": 1946,
+  "title_jp": "いろとりどりのセカイ",
+  "title_en": "Irotoridori no Sekai",
+  "developer": "FAVORITE",
+  "publisher": "FAVORITE",
+  "year": 2011,
+  "platform": [
+    "PC"
+  ],
+  "genre": "アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "FAVORITE 三部作の集大成として「泣きゲー」評価が高く、平均45時間級の長編シナリオと忍の楽曲で語り継がれる名作。2022年HD Re:GENERATION 化、NekoNyan による英語版リリースで再注目された。",
+  "concept": "傷を癒す代わりに記憶を失う力を持つ少年・叶上夕真と、奇妙な少女たちの出会いを描くドラマティック・ロマンス AVG。共通ルートから個別・True へ収束する長編構成で、設定の伏線回収と音楽演出で「セカイ系」末期の代表作とされる。",
+  "target": "Key 系・FAVORITE 系（はぴねす！/ましろ色シンフォニー系譜）を好む 18 禁ノベルゲーマー。長時間の伏線回収と泣きゲー的カタルシスを求める 20-40 代男性層。",
+  "slug": "irotoridori-no-sekai",
+  "file": "data/games/1946-irotoridori-no-sekai.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8D%E3%81%A8%E3%82%8A%E3%81%A9%E3%82%8A%E3%81%AE%E3%82%BB%E3%82%AB%E3%82%A4",
+    "https://store.steampowered.com/app/2591380/Irotoridori_No_Sekai_HD__The_Colorful_World/",
+    "https://www.nookgaming.com/irotoridori-no-sekai-the-colorful-world-review/",
+    "https://noisypixel.net/irotoridori-no-sekai-english-release-nekonyan/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

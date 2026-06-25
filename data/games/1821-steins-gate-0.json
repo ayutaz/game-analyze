@@ -1,0 +1,37 @@
+{
+  "id": 1821,
+  "title_jp": "STEINS;GATE 0",
+  "title_en": "Steins;Gate 0",
+  "developer": "5pb.",
+  "publisher": "5pb.",
+  "year": 2015,
+  "platform": [
+    "PS3",
+    "PS4",
+    "PS Vita",
+    "PC",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "想定科学アドベンチャー（ビジュアルノベル）",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『STEINS;GATE』β世界線のもうひとつの結末を描く正統続編として2015年12月にPS3/PS4/PS Vita向けに発売、その後Steam・Xbox One・Switchへ順次展開しシリーズ累計を押し上げた話題作。発売10周年を記念したファミ通特集など長期的にファンダムを牽引している。",
+  "slug": "steins-gate-0",
+  "file": "data/games/1821-steins-gate-0.json",
+  "concept": "牧瀬紅莉栖を救えなかった世界線で執念のオカリンが歩む「もう一つのシュタインズ・ゲート」を描く想定科学ADV。AI『アマデウス』と新キャラ比屋定真帆を軸に、フォーンレスシステムで分岐する重厚な群像劇。",
+  "target": "本編『STEINS;GATE』をクリア済みのシリーズファン、科学ADV／ビジュアルノベル愛好層、アニメ・小説などメディアミックスを横断して世界観を消費したい20-40代を中心とした層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Steins;Gate_0",
+    "https://store.steampowered.com/app/825630/STEINSGATE_0/",
+    "https://steinsgate0.jp/",
+    "https://www.famitsu.com/article/202512/59958",
+    "https://dengekionline.com/elem/000/001/076/1076560/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

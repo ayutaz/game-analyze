@@ -1,0 +1,27 @@
+{
+  "id": 1632,
+  "title_jp": "ミシーフ メーカーズ",
+  "title_en": "Mischief Makers",
+  "developer": "Treasure",
+  "publisher": "Enix / Nintendo",
+  "year": 1997,
+  "platform": [
+    "N64"
+  ],
+  "genre": "2D サイドスクロール アクション / パズル",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "N64 初の単一プレイヤー 2D サイドスクロール作品としてトレジャーが手掛けた異色作。主人公マリナの「シェイク、シェイク！」のボイスと、あらゆるオブジェクトを「掴んで振る」独自操作で熱狂的なカルト人気を獲得した。",
+  "concept": "ロボットメイド「マリナ」が誘拐された創造主を救うため、敵もアイテムも背景の仕掛けもすべて「掴んで振る」ことで戦い・解き明かす 2.5D アクション。プリレンダ 3D 背景に 2D キャラを乗せた当時最先端のビジュアルで、トレジャー流の高密度ボス戦とギミックを詰め込んだ。",
+  "target": "トレジャー系（罪と罰、ガンスターヒーローズ）ファンや、独特な操作感とハイテンションな演出を求めるコアな 2D アクション愛好者。レトロ N64 コレクター層にも人気。",
+  "slug": "mischief-makers",
+  "file": "data/games/1632-mischief-makers.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mischief_Makers",
+    "https://www.nintendolife.com/games/n64/mischief_makers",
+    "https://www.mobygames.com/game/8090/mischief-makers/"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1048,
+  "title_jp": "World of Warriors",
+  "title_en": "World of Warriors",
+  "developer": "Mind Candy",
+  "publisher": "Mind Candy",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PS4"
+  ],
+  "genre": "アクションRPG/戦士収集ストラテジー",
+  "sales_jp": "—",
+  "sales_world": "13M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "Moshi Monstersで知られるMind Candyが歴史上の戦士（ローマ兵・ヴァイキング・侍・騎士など100体以上）を集めて戦わせるという題材で打ち出し、iOS/Android合計でおよそ1,300万DLを獲得。2018年にサービス終了したが、PS4移植版がSIEから発売された珍しい事例として語られる。",
+  "slug": "world-of-warriors",
+  "file": "data/games/1048-world-of-warriors.json",
+  "concept": "歴史上の戦士たちを集めて自軍を編成し、ワイルドランドを舞台にPvE/PvPバトルを繰り広げるF2Pモバイルアクションストラテジー。「収集×育成×タップ戦闘」を軸に、歴史考証された100体超の戦士キャラを揃える楽しさを前面に出した。",
+  "target": "Clash of Clans系の収集+戦闘モバイルゲーマー、歴史上の兵士・武具モチーフが好きな層、Moshi Monstersから流れた家族・若年層。手軽に遊べるストラテジー入門として欧米のスマホユーザーに広く訴求した。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/World_of_Warriors",
+    "https://www.businessmodelzoo.com/exemplars/mind-candy-world-of-warriors/",
+    "https://www.businesswire.com/news/home/20141106005387/en/Mind-Candy-Launches-New-Mobile-Game-World-of-Warriors%E2%84%A2"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1446,
+  "title_jp": "クラッシュ・バンディクー3 ブッとび！世界一周",
+  "title_en": "Crash Bandicoot: Warped",
+  "developer": "Naughty Dog",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "3Dアクション/プラットフォーマー",
+  "sales_jp": "1M+",
+  "sales_world": "7.13M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS1 後期を代表する3Dアクションの大ヒット作で、世界累計 713 万本超。日本では非日本産 PS1 タイトルとして初の『PlayStation the Best/プラチナ』殿堂入り（100万本超）を達成し、社会現象級の人気となった。",
+  "slug": "crash-bandicoot-warped",
+  "file": "data/games/1446-crash-bandicoot-warped.json",
+  "concept": "時空を超えて古代エジプト・中世・恐竜時代・未来都市など多彩なステージを旅する 3D アクションプラットフォーマー。バイク・ジェット機・ジェットスキーなどの乗り物ステージや、コルテックス博士との対決を軸にシリーズ完成形と評される。",
+  "target": "PS1 世代の小中学生〜若年層を中心に、家族で遊ぶライト層〜アクション好きのコア層まで広い。日本ではキャラクター人気と難易度バランスの良さでファミリー層にも強く浸透した。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Crash_Bandicoot:_Warped",
+    "https://www.vgchartz.com/game/408/crash-bandicoot-3-warped/",
+    "https://crashynews.wordpress.com/2020/12/14/list-of-unit-sales-for-crash-bandicoot-games-available-sources-ongoing/"
+  ]
+}

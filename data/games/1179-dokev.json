@@ -1,0 +1,33 @@
+{
+  "id": 1179,
+  "title_jp": "ドケビ",
+  "title_en": "DokeV",
+  "developer": "Pearl Abyss",
+  "publisher": "Pearl Abyss",
+  "year": 2026,
+  "platform": [
+    "PC",
+    "PS5",
+    "Xbox Series X/S"
+  ],
+  "genre": "オープンワールド・コレクションアクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Gamescom 2021 トレーラーでアニメ調の世界とポップなアクションが世界中で爆発的に話題化、ポケモン系コレクションの新有力競合として注目を集め続けている。",
+  "concept": "人間と「ドケビ」が共存する現代ファンタジー世界を舞台にした収集型オープンワールド・アクションアドベンチャー。ドケビを集め・育て・共闘しながら島を自由に探索する、Pearl Abyss が PC とコンソール向けに開発中の超大型新規 IP。",
+  "target": "ポケモンやモンハンに近い「集めて育てて戦う」ループを家族層やライト層を含む幅広い世代で楽しみたいプレイヤー、アニメ調の高品質ビジュアルとアクション体験を求める層。",
+  "slug": "dokev",
+  "file": "data/games/1179-dokev.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/DokeV",
+    "https://prtimes.jp/main/html/rd/p/000000249.000040769.html",
+    "https://www.4gamer.net/games/452/G045222/20210826016/",
+    "https://www.famitsu.com/news/202109/04232511.html",
+    "https://game.watch.impress.co.jp/docs/news/1346298.html"
+  ]
+}

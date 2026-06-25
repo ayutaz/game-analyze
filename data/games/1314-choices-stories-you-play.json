@@ -1,0 +1,34 @@
+{
+  "id": 1314,
+  "title_jp": "Choices: Stories You Play",
+  "title_en": "Choices: Stories You Play",
+  "developer": "Pixelberry Studios",
+  "publisher": "Pixelberry Studios",
+  "year": 2016,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "インタラクティブ・フィクション/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "100M+ DL / 累計 $544M 収益",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "選択分岐式の章配信型ノベルアプリとして欧米女性プレイヤー中心に大ヒット。ロマンス・ミステリー・ファンタジー等の多ジャンルを並行運営し、累計100M+ DL・5.4億ドル超の収益を記録。",
+  "concept": "毎週新章が配信される選択肢式ビジュアルノベルのプラットフォーム。プレイヤーは複数のストーリーから好みを選び、選択肢でロマンス相手や結末を変える。重要選択肢にはダイヤモンド（有償通貨）が紐付き、課金で「最良の選択肢」が解放される構造。",
+  "target": "10-30代の海外女性プレイヤーが中心（運営談で約2/3が女性）。ロマンス・ドラマ・推理物を「次の章まで待ちながら読む」習慣型読者層、英語学習目的の非英語圏ユーザーも一定数。",
+  "slug": "choices-stories-you-play",
+  "file": "data/games/1314-choices-stories-you-play.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Pixelberry_Studios",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/choices-stories-you-play-monetization",
+    "https://www.4gamer.net/games/417/G041770/20180426061/",
+    "https://app.sensortower.com/overview/com.pixelberrystudios.choices?country=US"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

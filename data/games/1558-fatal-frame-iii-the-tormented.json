@@ -1,0 +1,33 @@
+{
+  "id": 1558,
+  "title_jp": "零 刺青ノ聲",
+  "title_en": "Fatal Frame III: The Tormented",
+  "developer": "Tecmo",
+  "publisher": "Tecmo",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "サバイバルホラー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "「零」三部作の完結編。射影機で霊を撮影して祓う恐怖体験と、3 人の視点で交錯する「刺青」「眠り」のモチーフが和製ホラー愛好家の間で語り継がれている。",
+  "concept": "現実と夢が交差する「眠りの家」を 3 人の主人公（黒澤怜・雛咲深紅・天倉螢）の視点で巡る和風サバイバルホラー。射影機で霊を撮影して祓うシリーズ核ループに、現実パートと夢パートが入れ替わる構造を導入した完結編。",
+  "target": "和製ホラー・心霊モチーフ好きの 20-40 代、零シリーズ既プレイ層、サイレントヒルやサイレン等の雰囲気重視ホラーを好むコアプレイヤー。",
+  "slug": "fatal-frame-iii-the-tormented",
+  "file": "data/games/1558-fatal-frame-iii-the-tormented.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fatal_Frame_III:_The_Tormented",
+    "https://game.watch.impress.co.jp/docs/20050812/zero.htm",
+    "http://www.tecmo.co.jp/product/zero3/",
+    "https://www.vgchartz.com/game/718/fatal-frame-iii-the-tormented/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

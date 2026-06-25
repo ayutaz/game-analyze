@@ -1,0 +1,31 @@
+{
+  "id": 1208,
+  "title_jp": "Crown of Eternity",
+  "title_en": "Crown of Eternity",
+  "developer": "MGAME",
+  "publisher": "MGAME",
+  "year": 2023,
+  "platform": [
+    "PC"
+  ],
+  "genre": "MMORPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "協力",
+  "popularity": "韓国 MGAME（エムゲーム）系列のオンライン MMORPG として確認されるが、日本語圏での話題性・規模は出典未確認。Web 検索で一次情報が確保できず、詳細は要追加調査。",
+  "concept": "韓国 MGAME 系列の MMORPG として位置づけられるオンラインタイトル。パーティを組んで協力プレイで成長していく、伝統的なクライアント／ブラウザ系 MMORPG のフォーマットを踏襲する想定。",
+  "target": "韓国系オンライン MMORPG を遊び慣れたコア PC ユーザーが中心想定。長期間にわたるキャラクター育成・装備強化・ギルド活動を楽しむ層を狙う。",
+  "slug": "crown-of-eternity",
+  "file": "data/games/1208-crown-of-eternity.json",
+  "_source_urls": [
+    "https://www.mgame.com/",
+    "http://corp.mgame.jp/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

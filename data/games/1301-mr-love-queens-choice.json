@@ -1,0 +1,31 @@
+{
+  "id": 1301,
+  "title_jp": "恋とプロデューサー（Mr Love: Queen's Choice）",
+  "title_en": "Mr Love: Queen's Choice",
+  "developer": "Paper Games",
+  "publisher": "Elex / Yoozoo",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "女性向け恋愛アドベンチャー/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "中国版リリース1か月で約700万DL/月収約32M USD、Google Play(EN)で1M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "2017年末中国リリース直後にDAU400万・月収32M USDの爆発的ヒット、女性向けガチャ恋愛ADVブームの火付け役。日本版『恋とプロデューサー〜EVOL×LOVE〜』として2019年配信、アニメ化・ボイスドラマ展開でファン拡大。",
+  "concept": "プレイヤー=新人TVプロデューサーとして4人のイケメン男性とテキスト・通話・SNS風メッセージで関係を深める、女性向け恋愛シミュレーション+カードガチャ。物語消費とキャラ育成・収集を両輪に据えた中国発オトメゲームの先駆者。",
+  "target": "20-30代女性中心の恋愛ADV/オトメユーザー、推し活と物語消費を同時に楽しみたい層。中華系イケメンキャラとフルボイス・SNS連動演出に惹かれるプレイヤー。",
+  "slug": "mr-love-queens-choice",
+  "file": "data/games/1301-mr-love-queens-choice.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mr_Love:_Queen%27s_Choice",
+    "https://sensortower.com/ios/us/elex-wireless/app/mr-love-queen-s-choice/1405514164/",
+    "https://otome.com/2025/11/16/mr-love-queens-choice-market-and-revenue/",
+    "https://play.google.com/store/apps/details?id=com.elex.paper.lovegp"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1968,
+  "title_jp": "蒼い世界の中心で",
+  "title_en": "Aoi Shiro",
+  "developer": "Success",
+  "publisher": "Success",
+  "year": 2008,
+  "platform": [
+    "PS2",
+    "PC",
+    "Switch"
+  ],
+  "genre": "ビジュアルノベル/百合アドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "PS2発売当時に日本国内PCゲーム週間ランキング2位を記録した百合ビジュアルノベルの代表作の一つ。2023年Switch/Steam HDリマスター版でコア層を中心に再評価。",
+  "slug": "aoi-shiro",
+  "file": "data/games/1968-aoi-shiro.json",
+  "concept": "サクセス『アカイイト』と世界観を共有する和風伝奇×百合アドベンチャー。聖女学院剣道部の合宿先・浦島で記憶を失った少女と出会い、古い祓魔伝承と血の絆を巡る56エンディングを読み解く長編ビジュアルノベル。",
+  "target": "百合/GL作品を好むビジュアルノベル愛好層、和風伝奇ホラーや吸血鬼テーマを好む読み物プレイヤー、『アカイイト』ファンや長編マルチエンドを腰を据えて読破したい層。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Aoi_Shiro",
+    "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AA%E3%82%A4%E3%82%B7%E3%83%AD",
+    "https://akaao.success-corp.co.jp/",
+    "https://www.4gamer.net/games/085/G008590/",
+    "https://store.steampowered.com/app/2097750/AOISHIRO_HD_REMASTER/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

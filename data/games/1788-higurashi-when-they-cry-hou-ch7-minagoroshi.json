@@ -1,0 +1,28 @@
+{
+  "id": 1788,
+  "title_jp": "ひぐらしのなく頃に解 皆殺し編",
+  "title_en": "Higurashi When They Cry Hou - Ch.7 Minagoroshi",
+  "developer": "07th Expansion",
+  "publisher": "MangaGamer",
+  "year": 2005,
+  "platform": [
+    "PC"
+  ],
+  "genre": "サウンドノベル/ミステリーアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "同人サウンドノベル「ひぐらしのなく頃に解」の第3話（通算第7話）。コミケ69で頒布されシリーズ全体の謎が一気に収束する転換点として高く評価され、後の Steam 版（MangaGamer 2019）リリースでも英語圏ファンの支持を集めた。",
+  "concept": "雛見沢連続怪死事件の「正解」に最も近づく解答編の山場。プレイヤーは選択肢を持たず、圭一たちが運命に抗おうとする群像劇を読み進めることで物語の構造そのものを体験する。",
+  "target": "ミステリ・サスペンス系ノベルゲームファン、シリーズ既プレイで真相到達を望む層、同人サウンドノベル黎明期からの 07th Expansion ファン。",
+  "slug": "higurashi-when-they-cry-hou-ch7-minagoroshi",
+  "file": "data/games/1788-higurashi-when-they-cry-hou-ch7-minagoroshi.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A0%83%E3%81%AB%E8%A7%A3_%E7%9A%86%E6%AE%BA%E3%81%97%E7%B7%A8",
+    "https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/",
+    "https://en.wikipedia.org/wiki/Higurashi_When_They_Cry",
+    "https://07th-expansion.net/hig_gensaku"
+  ]
+}

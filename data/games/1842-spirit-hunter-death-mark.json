@@ -1,0 +1,34 @@
+{
+  "id": 1842,
+  "title_jp": "流行り神 -警視庁怪異事件ファイル-",
+  "title_en": "Spirit Hunter: Death Mark",
+  "developer": "Experience Inc.",
+  "publisher": "Experience / Aksys",
+  "year": 2017,
+  "platform": [
+    "PS Vita",
+    "PS4",
+    "Switch",
+    "Xbox One",
+    "PC"
+  ],
+  "genre": "ホラーアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "300K+",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "実況配信で口コミ拡散した本格和風ホラーADV。初週 PS Vita 版が国内 8 位入り、Switch / PS4 / PC へ展開して海外でも『最良のホラーノベル』と評価された。",
+  "concept": "東京・H市に現れる死印(デスマーク)を巡る怪異事件を、生存者をパートナーに選びながら『救う/見捨てる』分岐で追う章立て式ホラーADV。各章ボスとなる怪異との対峙では正しいアイテムと判断を要求し、選択ミスは即死エンドにつながる。",
+  "target": "20-40 代の和風ホラー/怪談/都市伝説好き、零シリーズや SIREN を遊んだ層、テキスト主体のホラーノベルを腰を据えて読みたい層。",
+  "slug": "spirit-hunter-death-mark",
+  "file": "data/games/1842-spirit-hunter-death-mark.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Spirit_Hunter:_Death_Mark",
+    "https://ja.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C%E3%82%8A%E7%A5%9E_%E8%AD%A6%E8%A6%96%E5%BA%81%E6%80%AA%E7%95%B0%E4%BA%8B%E4%BB%B6%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB",
+    "https://store.steampowered.com/app/980830/Spirit_Hunter_Death_Mark/",
+    "https://store.aksysgames.com/collections/spirit-hunter-series"
+  ]
+}

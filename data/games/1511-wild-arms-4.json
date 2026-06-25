@@ -1,0 +1,30 @@
+{
+  "id": 1511,
+  "title_jp": "ワイルドアームズ ザ フォースデトネイター",
+  "title_en": "Wild Arms 4",
+  "developer": "Media.Vision",
+  "publisher": "XSEED Games",
+  "year": 2005,
+  "platform": [
+    "PS2"
+  ],
+  "genre": "ウエスタンRPG/ヘックスバトルJRPG",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "ワイルドアームズシリーズ初の若年層主人公（13歳のジュード）と六角形ヘックスフィールド戦闘で従来作からのドラスティックな転換を図り、2026年4月にPS Plus Premiumクラシックスとして突如復活配信されネット上で話題化。",
+  "concept": "西部劇とSFが混じる「ファルガイア」を舞台に、空中浮遊する故郷を追われた少年ジュードが「ヒーローでありたい」という願いを軸に旅をするJRPG。シリーズ伝統の銃ARMをエッセンスとして残しつつ、ヘックスマップ上で位置取りと属性を駆使するアクセラレイテッド・ヘックス・バトルが特徴。",
+  "target": "PS2世代のJRPGファン、特にワイルドアームズシリーズ既存ファンと、少年主人公の成長物語＋戦術系コマンドRPGを好む10-30代男性層。2026年のPS Plus復刻でレトロJRPGを掘り返したいユーザー層にも再到達。",
+  "slug": "wild-arms-4",
+  "file": "data/games/1511-wild-arms-4.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wild_Arms_4",
+    "https://www.vgchartz.com/game/2671/wild-arms-4/game",
+    "https://www.pushsquare.com/news/2026/04/20-year-old-sony-jrpg-makes-surprise-return-to-ps5-ps4-this-week-free-on-ps-plus-premium",
+    "https://wildarms.fandom.com/wiki/Wild_Arms_4"
+  ]
+}

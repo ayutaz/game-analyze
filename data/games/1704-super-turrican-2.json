@@ -1,0 +1,27 @@
+{
+  "id": 1704,
+  "title_jp": "スーパーチュリカン2",
+  "title_en": "Super Turrican 2",
+  "developer": "Factor 5",
+  "publisher": "Ocean",
+  "year": 1995,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "ラン&ガン / 横スクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "Factor 5 の SNES 後期表現力を象徴する一本。Dolby Pro-Logic サラウンドと Mode 7 演出、グラップリングアーム、ダンバギーや水中ジェット等の乗り物面が話題を呼び、IGN の Top 100 SNES Games で 93 位にランクイン。2022 年にはアフターマーケットカートリッジで再販された。",
+  "concept": "Turrican シリーズの広大な探索性をいったん削ぎ、コナミ『魂斗羅』寄りのテンポの良い横スクロール射撃に振り切った続編。バイオニックコマンドー風のグラップリングアームと多彩なビークルステージで、SNES 末期のハード性能を引き出すショーケースとして設計された。",
+  "target": "16bit 期のラン&ガン／プラットフォーマー愛好家、Turrican / Contra / Metal Slug 系の硬派 2D シューターを好む層、Factor 5 の技術志向タイトルを追うレトロゲーマー。",
+  "slug": "super-turrican-2",
+  "file": "data/games/1704-super-turrican-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Turrican_2",
+    "https://www.mobygames.com/game/15705/super-turrican-2/",
+    "https://tcrf.net/Super_Turrican_2"
+  ]
+}

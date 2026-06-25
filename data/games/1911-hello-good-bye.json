@@ -1,0 +1,29 @@
+{
+  "id": 1911,
+  "title_jp": "Hello, good-bye",
+  "title_en": "Hello, Good-bye",
+  "developer": "Lump of Sugar",
+  "publisher": "Lump of Sugar / NekoNyan (EN)",
+  "year": 2010,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "アダルト恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2010年12月発売の Lump of Sugar 第 6 作で、Getchu の 2010 年ビジュアルノベル年間売上 6 位、12 月単月 1 位を獲得。2019 年に NekoNyan が英訳版を Steam / Switch で配信し海外でも認知が広がった。",
+  "concept": "架空の日本「森野非武装地帯」に潜入した諜報員カイトが、4 人のヒロインと交流しながら街の秘密に迫る恋愛 ADV。日常パートとシリアスな世界観のコントラスト、CG とムービー演出の完成度の高さが評価された。",
+  "target": "美少女ゲーム・抜きゲー文脈を踏まえた上で恋愛ストーリーを読みたい 20-40 代男性層。NekoNyan 経由で英語圏 VN ファン層にも届いた。",
+  "slug": "hello-good-bye",
+  "file": "data/games/1911-hello-good-bye.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Hello,_Good-bye",
+    "https://hgb.nekonyansoft.com/",
+    "https://noisypixel.net/hello-good-bye-review-pc/",
+    "https://www.otakulair.com/games/hellogood-bye/"
+  ]
+}

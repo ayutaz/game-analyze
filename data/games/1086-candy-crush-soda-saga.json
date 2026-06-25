@@ -1,0 +1,36 @@
+{
+  "id": 1086,
+  "title_jp": "キャンディークラッシュソーダ",
+  "title_en": "Candy Crush Soda Saga",
+  "developer": "King",
+  "publisher": "King",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC",
+    "Browser"
+  ],
+  "genre": "マッチ3パズル",
+  "sales_jp": "—",
+  "sales_world": "620M+ DL / 累計収益 20 億ドル超",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "『キャンディークラッシュ』の姉妹作として 2014 年に世界配信され、累計 6.2 億 DL・収益 20 億ドル超を記録。ソーダ・ハニー・ジャムなど新ギミックを追加した「ソーダ版」として長期運営が続く定番カジュアルパズル。",
+  "concept": "ソーダボトルを割ってジュースで盤面を満たす、ベアーを救出するなど目標バリエーションを増やしたマッチ3パズル。ステージ攻略 → ライフ消費 → 課金/待機の運営ループで、隙間時間に 1 ステージずつ進めるソロ消化型ゲームプレイ。",
+  "target": "20-50 代の女性層を中心とした非ゲーマー・カジュアル層。本家キャンディークラッシュ経験者で「次の挑戦」を求めるリピーター、通勤・休憩中に短時間プレイしたいスマホユーザー層。",
+  "slug": "candy-crush-soda-saga",
+  "file": "data/games/1086-candy-crush-soda-saga.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Candy_Crush_Saga",
+    "https://sensortower.com/blog/candy-crush-soda-saga-two-billion-revenue",
+    "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5",
+    "https://www.king.com/ja/game/candycrushsoda/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

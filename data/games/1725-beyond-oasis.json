@@ -1,0 +1,30 @@
+{
+  "id": 1725,
+  "title_jp": "ストーリー オブ トア 〜光を継ぐ者〜",
+  "title_en": "Beyond Oasis",
+  "developer": "Ancient",
+  "publisher": "Sega",
+  "year": 1994,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "アクションRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "古代祐三が音楽と開発を手がけた Ancient 製アクションRPGとして高評価。メガドラミニ収録や Wii バーチャルコンソール配信で再評価され、レトロゲームファンの間で根強い人気を持つ名作。",
+  "concept": "黄金の腕輪に宿る四精霊（水・炎・影・植物）を召喚しながら王子ルオがダンジョンを攻略するアクションRPG。多彩な剣戟アクションと精霊召喚の組み合わせで爽快な戦闘体験を提供する。",
+  "target": "メガドライブ世代のアクションRPGファン、古代祐三のサウンドを愛するレトロゲーマー、ゼルダ系見下ろし型アクションを好む層。",
+  "slug": "beyond-oasis",
+  "file": "data/games/1725-beyond-oasis.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Beyond_Oasis",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_%E3%82%AA%E3%83%96_%E3%83%88%E3%82%A2_%E3%80%9C%E5%85%89%E3%82%92%E7%B6%99%E3%81%90%E8%80%85%E3%80%9C",
+    "https://www.sega.jp/mdmini/soft/the-story-of-thor.html",
+    "https://game.watch.impress.co.jp/docs/feature/1207660.html"
+  ]
+}

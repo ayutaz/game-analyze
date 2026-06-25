@@ -1,0 +1,29 @@
+{
+  "id": 1962,
+  "title_jp": "Happiness! 2 Sakura Celebration",
+  "title_en": "Happiness! Sakura Celebration!",
+  "developer": "Windmill Oasis",
+  "publisher": "Windmill Oasis / NekoNyan",
+  "year": 2023,
+  "platform": [
+    "PC",
+    "Switch"
+  ],
+  "genre": "美少女ビジュアルノベル/アダルトADV",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Windmill Oasis 初の英語公式ローカライズ作品として NekoNyan が旧 Sol Press ライセンスを引き継ぎ、桜咲く港町を舞台にした続編として海外ビジュアルノベルファンの間で話題化。",
+  "concept": "10 年に一度の「桜の年」に港町ミサキへ戻ってきた幼馴染たちとの再会と恋愛、魔法と家族愛を描く Windmill 製ビジュアルノベル続編。前作と世界観を共有しつつスタンドアロンで遊べる構成で、4 人のメインヒロイン＋2 人のサブヒロイン攻略ルートを持つ。",
+  "target": "Windmill / 美少女ゲームファン、桜・学園・魔法モチーフの正統派ロマンス VN を好む層、英訳前作 Happiness! をプレイ済みの海外 VN 愛好家。",
+  "slug": "happiness-sakura-celebration",
+  "file": "data/games/1962-happiness-sakura-celebration.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/2599880/Happiness_Sakura_Celebration/",
+    "https://www.nookgaming.com/happiness-sakura-celebration-review/",
+    "https://noisypixel.net/visual-novel-happiness-sakura-celebration-september/",
+    "https://www.otakulair.com/games/happiness-2-sakura-celebration/"
+  ]
+}

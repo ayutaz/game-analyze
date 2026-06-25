@@ -1,0 +1,32 @@
+{
+  "id": 1038,
+  "title_jp": "Lokapala: Saga of the Six Realms",
+  "title_en": "Lokapala",
+  "developer": "Anantarupa Studios",
+  "publisher": "Anantarupa Studios",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MOBA（5v5 マルチプレイヤーオンラインバトルアリーナ）",
+  "sales_jp": "—",
+  "sales_world": "2M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "インドネシア初の国産 MOBA／eスポーツタイトルとして 2020 年 5 月にリリース、東南アジア神話・歴史を題材にしたヒーロー設計が話題に。PON XX Papua 2021 でエキシビション競技に採用され、累計 200 万 DL を突破。",
+  "concept": "東南アジア（特にインドネシア）の神話・伝説・歴史上の英雄を「Ksatriya」と呼ばれるプレイアブルヒーローとして再構築した 5v5 MOBA。Lokapala（サンスクリット語で「領域の守護者」）を冠し、ローカル文化を世界の MOBA フォーマットに乗せる立ち位置を狙う。",
+  "target": "東南アジア圏のモバイル MOBA プレイヤー、特にインドネシア／フィリピンの 10-30 代男性中心。Mobile Legends / AOV から派生する文化的アイデンティティを求めるローカルプレイヤー層。",
+  "slug": "lokapala",
+  "file": "data/games/1038-lokapala.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Lokapala_(video_game)",
+    "https://www.thejakartapost.com/life/2020/05/21/indonesias-first-homegrown-moba-game-lokapala-draws-from-the-archipelagos-legends.html",
+    "https://play.google.com/store/apps/details?id=com.AnantarupaStudios.Lokapala",
+    "https://lokapala.anantarupa.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

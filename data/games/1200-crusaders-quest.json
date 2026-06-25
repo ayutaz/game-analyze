@@ -1,0 +1,32 @@
+{
+  "id": 1200,
+  "title_jp": "Crusaders Quest",
+  "title_en": "Crusaders Quest",
+  "developer": "Toast Studios",
+  "publisher": "NHN Entertainment",
+  "year": 2014,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "パズルアクションRPG/ヒーローコレクション",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "16bitドット絵×マッチ3式コンボアクションが評価され、配信9ヶ月で全世界10M DL を突破。2023年10月「Epilogue」アップデートで9年間のサービスに幕を閉じた。",
+  "slug": "crusaders-quest",
+  "file": "data/games/1200-crusaders-quest.json",
+  "concept": "16bitドット絵ヒーロー200体超を集め、3つのスキルブロックをパズル的に組み合わせて連撃を叩き込むパズル×アクション RPG。短時間プレイ前提のチャプター制と豊富なミニゲーム（リズム・釣り・ベーカリー等）で「育てる×操る」のハイブリッド型ガチャ RPG として独自ポジションを築いた。",
+  "target": "ドット絵・レトロ表現が好きな 20-40 代のコアモバイルゲーマー、キャラ収集と短時間アクションを両立したい層、韓国系ヒーローコレクション RPG のファン。",
+  "_source_urls": [
+    "https://en.namu.wiki/w/%ED%81%AC%EB%A3%A8%EC%84%B8%EC%9D%B4%EB%8D%94%20%ED%80%98%EC%8A%A4%ED%8A%B8",
+    "https://mmos.com/review/crusaders-quest",
+    "https://mmoculture.com/2014/12/crusaders-quest-begin-your-8-bit-adventure-on-ios-and-android/",
+    "https://play.google.com/store/apps/details?id=com.nhnent.SKQUEST&hl=en_US",
+    "https://apps.apple.com/jp/app/%E3%82%AF%E3%83%AB%E3%82%BB%E3%82%A4%E3%83%80%E3%83%BC%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88/id901858272"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1780,
+  "title_jp": "WITCH ON THE HOLY NIGHT (リマスター)",
+  "title_en": "Witch on the Holy Night (Remaster)",
+  "developer": "TYPE-MOON",
+  "publisher": "Aniplex",
+  "year": 2022,
+  "platform": [
+    "PS4",
+    "Switch",
+    "PC"
+  ],
+  "genre": "ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "200K+ (2024/04 全世界累計出荷)",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "TYPE-MOON 久々の家庭用ビジュアルノベル新作として注目され、発売 5 日で 11 万本、2024 年 4 月時点で全世界出荷 20 万本を突破。フルボイス化と HD リマスターでファン待望の家庭用移植が実現した。",
+  "concept": "2012 年に PC で発売された TYPE-MOON のビジュアルノベル『魔法使いの夜』を、フル HD・フルボイス化してコンソール／Steam に移植したリマスター版。1980 年代の日本を舞台に、魔術師・蒼崎青子と久遠寺有珠、そして田舎から街に出てきた少年・静希草十郎の物語を描く。",
+  "target": "TYPE-MOON ファン（Fate / 月姫系列のプレイヤー）、奈須きのこ作品の文章とキャラクター描写を好む読み物志向のプレイヤー、フルボイス化されたビジュアルノベルを腰を据えて読みたい層。",
+  "slug": "witch-on-the-holy-night-remaster",
+  "file": "data/games/1780-witch-on-the-holy-night-remaster.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Witch_on_the_Holy_Night",
+    "https://automaton-media.com/articles/newsjp/20221212-230466/",
+    "https://newscast.jp/news/5343896",
+    "https://www.gamer.ne.jp/news/202307050052/",
+    "https://www.4gamer.net/games/115/G011514/20231214056/",
+    "https://typemoon.com/products/mahoyo/product/"
+  ]
+}

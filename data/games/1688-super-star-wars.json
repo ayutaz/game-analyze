@@ -1,0 +1,29 @@
+{
+  "id": 1688,
+  "title_jp": "スーパースター・ウォーズ",
+  "title_en": "Super Star Wars",
+  "developer": "Sculptured Software / LucasArts",
+  "publisher": "JVC Musical Industries",
+  "year": 1992,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "ラン&ガン/アクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1977年の映画『スター・ウォーズ』エピソード4を原作にしたSNES向けラン&ガン。発売当時の北米市場で爆発的ヒットとなり、SNES屈指の高難度横スクロールアクションとして語り継がれる。",
+  "concept": "映画の主要シーン（タトゥイーン、サンドクローラー、デス・スター突入のXウィング戦など）をルークやハン・ソロ、チューバッカで駆け抜けるラン&ガン。Mode 7を活用した3D風ステージを織り交ぜ、SNESの表現力を映画体験に振り向けた一本。",
+  "target": "1990年代前半のスター・ウォーズ世代と高難度アクションを好むSNESプレイヤー。原作映画ファンに対し「自分で映画のシーンを戦い抜く」体験を提供する層に強く刺さった。",
+  "slug": "super-star-wars",
+  "file": "data/games/1688-super-star-wars.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Super_Star_Wars",
+    "https://www.super-famicom.jp/data/su/su_0063.html",
+    "https://lucasarts.fandom.com/wiki/Super_Star_Wars"
+  ]
+}

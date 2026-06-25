@@ -1,0 +1,32 @@
+{
+  "id": 1139,
+  "title_jp": "ソロレベリング：ARISE",
+  "title_en": "Solo Leveling: Arise",
+  "developer": "Netmarble Neo",
+  "publisher": "Netmarble",
+  "year": 2024,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "アクションRPG/ガチャ",
+  "sales_jp": "—",
+  "sales_world": "15M+ DL / $100M+ in 3 months (Sensor Tower)",
+  "primary": "REW",
+  "secondary": [
+    "EXP",
+    "NAR"
+  ],
+  "popularity": "韓国ウェブトゥーン/アニメ「俺だけレベルアップな件」原作の話題作。2024年5月のグローバル配信から3ヶ月で売上1億ドル超、Google Play無料ゲーム1位、15M DL を突破しハック&スラッシュ系で近年最大級のヒットに。",
+  "concept": "原作ウェブトゥーンの「最弱E級ハンター・水篠旬が影の君主に至る」物語をプレイヤー自身が追体験するアクションRPG。ガチャで集めたハンター仲間と影兵団を編成し、爽快な回避・コンボ・必殺技で敵を薙ぎ払うソロ用ハック&スラッシュ。",
+  "target": "原作の「俺だけレベルアップな件」ウェブトゥーン/アニメファンと、原神/ゼンレスゾーンゼロのような美麗3Dアクションガチャを求める10-30代男性層。シナリオ追体験とキャラ収集を両立したい層に強い。",
+  "slug": "solo-leveling-arise",
+  "file": "data/games/1139-solo-leveling-arise.json",
+  "_source_urls": [
+    "https://sololeveling.netmarble.com/ja",
+    "https://sensortower.com/blog/solo-leveling-arise-revenue-surpasses-usd100-million-in-3-months",
+    "https://www.prnewswire.com/news-releases/netmarble-launches-solo-leveling-arise-worldwide-on-mobile-and-pc-302137930.html",
+    "https://solo-leveling-arise.fandom.com/wiki/Solo_Leveling:ARISE"
+  ]
+}

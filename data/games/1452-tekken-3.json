@@ -1,0 +1,32 @@
+{
+  "id": 1452,
+  "title_jp": "鉄拳3",
+  "title_en": "Tekken 3",
+  "developer": "Namco",
+  "publisher": "Namco",
+  "year": 1998,
+  "platform": [
+    "Arcade",
+    "PS1"
+  ],
+  "genre": "3D対戦格闘",
+  "sales_jp": "1.4M",
+  "sales_world": "8.36M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "PS1史上歴代5位の8.36M本を売り上げ、ストリートファイターIIを抜いて当時世界一売れた格闘ゲームとなった。ゲームセンターでも社会現象化し、3D格闘の決定版として語り継がれる。",
+  "slug": "tekken-3",
+  "file": "data/games/1452-tekken-3.json",
+  "concept": "ナムコシステム12基板で実現した高速・滑らかな3D対戦格闘の到達点。横移動を本格導入し、ジン・平八・ヘイハチ世代から新キャラへの世代交代を描いたシリーズ最大ヒット作。",
+  "target": "10〜30代の格闘ゲーム愛好者および当時のPS1ユーザー層。アーケード勢とコンシューマ勢の双方を取り込み、初心者から対戦勢まで幅広く支持された。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Tekken_3",
+    "https://ja.wikipedia.org/wiki/%E9%89%84%E6%8B%B33",
+    "https://www.bandainamcoent.co.jp/corporate/press/namco/1999/1999-february/press-01.html",
+    "https://en.wikipedia.org/wiki/List_of_best-selling_PlayStation_video_games"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

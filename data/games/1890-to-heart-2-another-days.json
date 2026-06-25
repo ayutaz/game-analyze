@@ -1,0 +1,30 @@
+{
+  "id": 1890,
+  "title_jp": "ToHeart2 AnotherDays",
+  "title_en": "To Heart 2: Another Days",
+  "developer": "Leaf",
+  "publisher": "AQUAPLUS",
+  "year": 2008,
+  "platform": [
+    "PC",
+    "PS3"
+  ],
+  "genre": "アドベンチャー/恋愛ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "『ToHeart2 XRATED』の後日談として 2008 年に PC で発売され、長期シリーズ ToHeart2 の派生作品として根強い人気。2011 年には PS3 版『ToHeart2 DX PLUS』に本編とともに収録され初コンシューマ化された。",
+  "concept": "Leaf/AQUAPLUS の代表作『ToHeart2』のヒロインたちと付き合った「その後の日常」を描く後日談ビジュアルノベル。本編で結ばれたヒロインごとの“もしも”ルートを追加シナリオ・新規 CG で補完する。",
+  "target": "ToHeart2 本編プレイヤーで、ヒロインとの恋人関係後の日常をじっくり読みたい 20-40 代男性層。Leaf/AQUAPLUS の長期ファンと美少女ゲーム愛好家を中心とする。",
+  "slug": "to-heart-2-another-days",
+  "file": "data/games/1890-to-heart-2-another-days.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/ToHeart2",
+    "https://dic.nicovideo.jp/a/toheart2%20anotherdays",
+    "https://en.wikipedia.org/wiki/To_Heart_2",
+    "https://aquaplus.fandom.com/wiki/To_Heart_2",
+    "https://dengekionline.com/elem/000/000/409/409503/"
+  ]
+}

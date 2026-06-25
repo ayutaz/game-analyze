@@ -1,0 +1,33 @@
+{
+  "id": 1281,
+  "title_jp": "DC：ダーク・リージョン",
+  "title_en": "DC: Dark Legion",
+  "developer": "FunPlus (Kingsgroup)",
+  "publisher": "FunPlus / WB Games",
+  "year": 2025,
+  "platform": [
+    "iOS",
+    "Android",
+    "PC"
+  ],
+  "genre": "ストラテジー/RPG（IPライセンス・収集育成）",
+  "sales_jp": "—",
+  "sales_world": "$45.4M（2025年）",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "DC公式ライセンスのスマホストラテジーRPGとしてグローバル展開し、配信3か月でAndroidだけで累計10M$突破。2025年「最も売れたIPライセンスモバイル」のひとつに数えられ、日本・韓国・香港・マカオ・台湾でも順次事前登録を展開した。",
+  "concept": "バットマン／ジョーカーを筆頭とする200体超のDCキャラクターを収集・強化してゴッサムや多元宇宙を守る、4Xライク基盤＋ヒーロー編成のIPストラテジー。FunPlusのState of Survival系基盤にDCコミックの世界観を被せ、ガチャ＋同盟戦＋ストーリーをワンパッケージ化した。",
+  "target": "DCコミックス／映画・アニメのファン、スマホでのライセンスIP収集ストラテジーを好むコア課金層（30-40代男性中心）、SoS／ロードモバイル系プレイヤーで新規IPを試したい層。",
+  "slug": "dc-dark-legion",
+  "file": "data/games/1281-dc-dark-legion.json",
+  "_source_urls": [
+    "https://funplus.com/games/dc-dark-legion/",
+    "https://www.dc.com/games/dc-dark-legion-2025",
+    "https://gamingonphone.com/news/dc-dark-legion-funplus-officially-licensed-dc-strategy-title-is-launching-on-mobile-and-pc-on-march-14-2025/",
+    "https://app.sensortower.com/news-feed/dc-dark-legion-hits-10m-all-time-android-revenue-in-three-months/684ce781ef71a78db1a0563d",
+    "https://play.google.com/store/apps/details?id=com.kingsgroup.dcdly"
+  ]
+}

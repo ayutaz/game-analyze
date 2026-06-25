@@ -1,0 +1,26 @@
+{
+  "id": 1665,
+  "title_jp": "がんばれゴエモン ゆき姫救出絵巻",
+  "title_en": "The Legend of the Mystical Ninja",
+  "developer": "Konami",
+  "publisher": "Konami",
+  "year": 1991,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "スーパーファミコン初期の名作で、和風世界観とコミカルな2人協力プレイが話題に。海外でも『The Legend of the Mystical Ninja』として高評価を獲得し、シリーズ世界進出の起点となった。",
+  "concept": "ゴエモンとエビス丸を操作し、江戸時代風の街と城を駆け巡って攫われた姫を救出する和風アクションアドベンチャー。横スクロールアクションとトップビュー街探索を融合し、2人同時プレイで協力できる構成が特徴。",
+  "target": "スーパーファミコン世代のレトロゲーマー、和風ファンタジーや江戸情緒を楽しみたい層、兄弟・友人と協力プレイを楽しみたい層。",
+  "slug": "the-legend-of-the-mystical-ninja",
+  "file": "data/games/1665-the-legend-of-the-mystical-ninja.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/The_Legend_of_the_Mystical_Ninja",
+    "https://ja.wikipedia.org/wiki/%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8C%E3%82%B4%E3%82%A8%E3%83%A2%E3%83%B3_%E3%82%86%E3%81%8D%E5%A7%AB%E6%95%91%E5%87%BA%E7%B5%B5%E5%B7%BB"
+  ]
+}

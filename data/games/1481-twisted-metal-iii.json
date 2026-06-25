@@ -1,0 +1,28 @@
+{
+  "id": 1481,
+  "title_jp": "ツイステッドメタル3",
+  "title_en": "Twisted Metal III",
+  "developer": "989 Studios",
+  "publisher": "Sony Computer Entertainment",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "車両戦闘アクション",
+  "sales_jp": "—",
+  "sales_world": "1.1M+",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "シリーズ生みの親 SingleTrac の離脱後、989 Studios 単独開発で投入された3作目。北米のみの発売ながら110万本超を売り上げ Greatest Hits 入りし、批評家評価は割れたものの商業的にはシリーズを延命した一作として知られる。",
+  "concept": "武装した自動車で互いを破壊し合う対戦型車両戦闘ゲームのシリーズ3作目。アリーナ型のマップで武器を拾い、最後の1台になるまで戦うアーケード性の高い体験を提供する。",
+  "target": "PS1 黄金期の北米コンソールゲーマー、特に派手なアクションと分割画面対戦を好む10-20代男性層。シリーズファンと、トワイズドメタル世界観のブラックユーモアを楽しめるプレイヤー。",
+  "slug": "twisted-metal-iii",
+  "file": "data/games/1481-twisted-metal-iii.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Twisted_Metal_III",
+    "https://en.wikipedia.org/wiki/989_Studios",
+    "https://www.mobygames.com/game/10158/twisted-metal-iii/",
+    "https://playstation-studios.fandom.com/wiki/Twisted_Metal_III"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1647,
+  "title_jp": "ロマンシング サガ2",
+  "title_en": "Romancing SaGa 2",
+  "developer": "Square",
+  "publisher": "Square",
+  "year": 1993,
+  "platform": [
+    "SNES",
+    "Switch",
+    "PS5",
+    "PS4",
+    "Xbox One",
+    "PS Vita",
+    "Wii",
+    "Wii U",
+    "3DS",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "RPG（皇位継承システム・フリーシナリオ）",
+  "sales_jp": "1.5M+ (オリジナル SFC、2003年時点)",
+  "sales_world": "2M+ (リメイク含む)",
+  "primary": "EXP",
+  "secondary": [
+    "NAR",
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "1993年12月の SFC 発売時にミリオンセラー＆ファミ通売上 1 位。皇位継承で世代を跨いで国を発展させる独自システムと七英雄ストーリーで根強いファンを獲得し、2024年にはフルリメイク『リベンジオブザセブン』が発売され Switch/PS5/PS4/Steam でリバイバルヒット。",
+  "concept": "「皇帝が倒れると次の世代へ皇位継承される」という時代を跨ぐシステムと、フリーシナリオで七英雄を追い詰める SaGa 流の戦闘・閃き・陣形が核。プレイヤーの選択で国土と職業が拡張されていく EXP 重視 RPG。",
+  "target": "30-50代の旧来 SaGa／SFC 世代と、リメイク版で初めて触れた現代 JRPG ファン。手応えのある戦闘と非線形な進行を楽しみたい層に強い。",
+  "slug": "romancing-saga-2",
+  "file": "data/games/1647-romancing-saga-2.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Romancing_SaGa_2",
+    "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0_%E3%82%B5%E3%83%BB%E3%82%AC2",
+    "https://www.4gamer.net/games/810/G081094/20240618074/",
+    "https://gamebiz.jp/news/394635"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

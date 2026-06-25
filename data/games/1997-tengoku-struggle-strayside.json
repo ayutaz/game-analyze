@@ -1,0 +1,29 @@
+{
+  "id": 1997,
+  "title_jp": "天獄ストラグル -strayside-",
+  "title_en": "Tengoku Struggle: Strayside",
+  "developer": "Otomate (Idea Factory)",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2022,
+  "platform": [
+    "Switch",
+    "Android"
+  ],
+  "genre": "女性向け恋愛アドベンチャー（乙女ゲーム）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "Otomate の和風ファンタジー乙女ゲーとして 2022 年に Switch で発売、2024 年に Aksys Games が北米ローカライズし英語圏の乙女ファンの間で話題に。2024 年には Android 版も配信された。",
+  "concept": "浅草を舞台に、天獄から脱獄した囚人たちを連れ戻すため奔走する主人公の和風ファンタジー恋愛 ADV。コミカルな掛け合いとシリアスな運命が交錯し、攻略対象との関係性を追体験する物語消費型タイトル。",
+  "target": "Otomate / Aksys Games 系の乙女ゲームを定期的に遊ぶ女性プレイヤー、和風ファンタジー × 群像劇 × イケメンキャラとの恋愛模様を楽しみたい層。",
+  "slug": "tengoku-struggle-strayside",
+  "file": "data/games/1997-tengoku-struggle-strayside.json",
+  "_source_urls": [
+    "https://www.otomate.jp/tengoku/",
+    "https://www.gematsu.com/2022/10/tengoku-struggle-strayside-coming-west-in-2024",
+    "https://news.qoo-app.com/en/post/108206/tengoku-struggle-strayside",
+    "https://www.4gamer.net/games/848/G084850/"
+  ]
+}

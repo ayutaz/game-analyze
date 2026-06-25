@@ -1,0 +1,29 @@
+{
+  "id": 1662,
+  "title_jp": "ファイアーエムブレム 聖戦の系譜",
+  "title_en": "Fire Emblem: Genealogy of the Holy War",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "year": 1996,
+  "platform": [
+    "SNES"
+  ],
+  "genre": "シミュレーションRPG",
+  "sales_jp": "0.49M",
+  "sales_world": "0.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "二部構成・親子二世代システム・恋愛による子世代継承という野心的な設計で、シリーズ屈指の重厚な戦記叙事詩として今なお高い評価を受ける。日本国内では約 49.8 万本を売り上げ、シリーズ屈指の名作として語り継がれている。",
+  "concept": "聖戦士の血を引く貴族たちの戦記を、巨大マップ上での大隊戦闘と二世代に渡る家系図継承で描くシミュレーション RPG。プレイヤーの結婚選択が次世代キャラの能力・スキル・物語を左右する。",
+  "target": "硬派な戦略 SLG と重厚な物語の両方を求めるコアゲーマー、シリーズファン、レトロゲーム愛好家。",
+  "slug": "fire-emblem-genealogy-of-the-holy-war",
+  "file": "data/games/1662-fire-emblem-genealogy-of-the-holy-war.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Fire_Emblem:_Genealogy_of_the_Holy_War",
+    "https://fireemblemwiki.org/wiki/Fire_Emblem:_Genealogy_of_the_Holy_War",
+    "https://www.nintendolife.com/news/2021/05/fire_emblem_genealogy_of_the_holy_war_is_joining_japans_nso_super_famicom_library"
+  ]
+}

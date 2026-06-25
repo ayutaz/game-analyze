@@ -1,0 +1,29 @@
+{
+  "id": 1411,
+  "title_jp": "ルナ シルバースターストーリー",
+  "title_en": "Lunar: Silver Star Story Complete",
+  "developer": "Game Arts/Japan Art Media (PS版移植: Alfa System)",
+  "publisher": "Working Designs / ESP",
+  "year": 1998,
+  "platform": [
+    "PS1"
+  ],
+  "genre": "JRPG（コマンドバトル）",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "1992年メガCD版の正統リメイク。スタジオGONZO制作の約50分に及ぶフルアニメーションムービーと岩垂徳行の楽曲、英語版Working Designsの熱量あるローカライズで「CD-ROM時代を象徴するJRPG」として欧米でカルト的人気を獲得。",
+  "slug": "lunar-silver-star-story-complete",
+  "file": "data/games/1411-lunar-silver-star-story-complete.json",
+  "concept": "魔法と竜が息づくルナ世界で、英雄に憧れる少年アレスがドラゴンマスターとなり、女神アリスと旅する王道ファンタジーJRPG。アニメムービーと声優演技でキャラクターと物語を「観る」体験に振り切ったCD-ROM時代の代表作。",
+  "target": "1990年代JRPG／アニメ表現を懐かしむ30-50代のレトロゲーマー、王道ファンタジー物語を腰を据えて読みたい層、Working Designsローカライズに思い入れのある海外ファン。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Lunar:_Silver_Star_Story_Complete",
+    "https://ja.wikipedia.org/wiki/LUNAR_%E3%82%B6%E3%83%BB%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC",
+    "https://www.gamearts.co.jp/ja/products/ps-lunar-silver-star-story.html"
+  ]
+}

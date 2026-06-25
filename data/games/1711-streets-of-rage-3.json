@@ -1,0 +1,27 @@
+{
+  "id": 1711,
+  "title_jp": "ベア・ナックルIII",
+  "title_en": "Streets of Rage 3",
+  "developer": "Sega / Ancient",
+  "publisher": "Sega",
+  "year": 1994,
+  "platform": [
+    "Mega Drive"
+  ],
+  "genre": "ベルトスクロールアクション",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "協力",
+  "popularity": "シリーズ完結作として知られ、難易度上昇とストーリー分岐・複数エンディング、ダッシュや武器活用などシステム拡張で評価。日本版『ベア・ナックルIII』はキャラ・設定変更と難易度差で海外版とのギャップが議論を呼び、レトロ再評価の対象となった。",
+  "concept": "シリーズ完結編として『II』の爽快ストリート格闘に走り・タッグ攻撃・分岐シナリオを加えた、密度の高い 90 年代ベルトスクロールアクションの到達点。2P 協力プレイで街を駆け抜けながらシンジケートの陰謀を打ち砕く。",
+  "target": "90年代メガドライブ世代のアクションゲーマー、ファイナルファイト系ベルトスクロールが好きな層、シリーズファンとレトロゲーム愛好家。Yuzo Koshiro サウンドや高難度を楽しみたい硬派志向のプレイヤー。",
+  "slug": "streets-of-rage-3",
+  "file": "data/games/1711-streets-of-rage-3.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Streets_of_Rage_3",
+    "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A2%E3%83%BB%E3%83%8A%E3%83%83%E3%82%AF%E3%83%ABIII",
+    "https://vc.sega.jp/vc_bknuckle3/"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1607,
+  "title_jp": "バンジョーとカズーイの大冒険2",
+  "title_en": "Banjo-Tooie",
+  "developer": "Rare",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "genre": "3D アクション・アドベンチャー（コレクトアソン）",
+  "sales_jp": "—",
+  "sales_world": "3M+",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "前作『バンジョーとカズーイの大冒険』の続編として 2000 年に N64 後期を彩った大作 3D コレクトアソン。広大に繋がるワールドと膨大な収集要素で世界 300 万本超を売り上げ、2009 年 XBLA・2015 年 Rare Replay 収録で再評価が進んだ。",
+  "concept": "前作よりも遥かに広大化したワールド同士がワープで相互接続し、ジグソーピース・音符・カズーイ単独/分離アクションなど膨大なギミックを詰め込んだ「Rare 黄金期コレクトアソン」の集大成。",
+  "target": "N64 世代のシングルプレイ向け 3D アクション・アドベンチャー愛好家、ジグソーピースや隠し要素を漏れなく集めたい収集型プレイヤー、Rare Replay で旧作 Rare 系を遊び直したい層。",
+  "slug": "banjo-tooie",
+  "file": "data/games/1607-banjo-tooie.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Banjo-Tooie",
+    "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%BC%E3%81%A8%E3%82%AB%E3%82%BA%E3%83%BC%E3%82%A4%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA2",
+    "https://www.vgchartz.com/game/156/banjo-tooie/sales"
+  ]
+}

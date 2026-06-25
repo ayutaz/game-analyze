@@ -1,0 +1,32 @@
+{
+  "id": 2086,
+  "title_jp": "Mixed Feelings: While You Were Away",
+  "title_en": "Mixed Feelings: While You Were Away",
+  "developer": "ChaniMK",
+  "publisher": "Y Press Games",
+  "year": 2022,
+  "platform": [
+    "PC",
+    "Mac",
+    "iOS",
+    "Android"
+  ],
+  "genre": "ビジュアルノベル/BLデートシム",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "BL（ボーイズラブ）専門 publisher Y Press Games 配下のインディー VN として 2022 年 3 月にリリース。Steam ユーザーレビュー 100% 好評（少数ながら）と itch.io／TapTap でも配信され、遠距離恋愛と職場での新たな出会いという王道テーマで BL VN ファンから安定支持を獲得。",
+  "concept": "高校時代から付き合っているゲイルと、進学のため遠くへ離れたアーサーの遠距離恋愛を軸に、カフェでバイトを始めたゲイルが同僚ブライセンに惹かれていく揺らぎを描く SFW の BL ビジュアルノベル。約 35,000 ワード／15 CG／4 エンディング（グッド 2＋バッド 2）構成で、選択肢によって「彼氏への忠誠」と「新しい感情」を行き来する。",
+  "target": "BL／ボーイズラブ VN を読み慣れた英語圏中心の腐女子・腐男子層、特に遠距離恋愛もの・三角関係もののドラマを短時間で味わいたい読者。日本では Steam / itch.io 経由でアクセスする洋ゲー BL ファンに刺さるニッチ作品。",
+  "slug": "mixed-feelings-while-you-were-away",
+  "file": "data/games/2086-mixed-feelings-while-you-were-away.json",
+  "_source_urls": [
+    "https://store.steampowered.com/app/1900400/Mixed_Feelings_While_You_Were_Away_Yaoi_BL_Visual_Novel/",
+    "https://www.mobygames.com/game/208965/mixed-feelings-while-you-were-away/",
+    "https://chanimk.itch.io/mixed-feelings",
+    "https://www.taptap.io/app/282489",
+    "https://gg.deals/games/developed-by-y-press-games/"
+  ]
+}

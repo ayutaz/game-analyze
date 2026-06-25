@@ -1,0 +1,40 @@
+{
+  "id": 1572,
+  "title_jp": "グランド・セフト・オート サンアンドレアス",
+  "title_en": "Grand Theft Auto: San Andreas",
+  "developer": "Rockstar North",
+  "publisher": "Rockstar Games",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "Xbox",
+    "PC",
+    "Mac",
+    "PS3",
+    "Xbox 360",
+    "iOS",
+    "Android",
+    "PS4",
+    "Xbox One",
+    "Switch"
+  ],
+  "genre": "オープンワールド・アクションアドベンチャー",
+  "sales_jp": "—",
+  "sales_world": "27.5M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "PS2 史上最も売れたゲームとして 1,733 万本、累計 2,750 万本超を記録。1990 年代西海岸ギャングカルチャーを大胆に再現した広大な架空州マップと、自由度の高い犯罪サンドボックスが「箱庭ゲーの金字塔」として語り継がれている。",
+  "concept": "ロサンゼルス／サンフランシスコ／ラスベガスをモデルにした架空の州「サンアンドレアス」を舞台に、カージャック・銃撃戦・ギャング抗争・ストリート文化を主人公 CJ の視点で追体験するオープンワールド犯罪アクション。物語を進めるか街で好き勝手するかをプレイヤー側が選べる「自由のテンプレ」を確立した作品。",
+  "target": "10 代後半〜30 代の男性ゲーマーを中心に、洋画的なギャング／クライム作品が好きな層、開かれた地形と多彩なアクティビティで「自分なりの遊び方」を見つけたいオープンワールド派、PS2 世代の名作を遡って体験したい層。",
+  "slug": "grand-theft-auto-san-andreas",
+  "file": "data/games/1572-grand-theft-auto-san-andreas.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas",
+    "https://vgsales.fandom.com/wiki/Grand_Theft_Auto",
+    "https://www.statista.com/statistics/511784/global-all-time-unit-sales-grand-theft-auto/",
+    "https://gta.fandom.com/ja/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%BB%E3%83%95%E3%83%88%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A2%E3%82%B9"
+  ]
+}

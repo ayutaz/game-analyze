@@ -1,0 +1,34 @@
+{
+  "id": 1070,
+  "title_jp": "Bullet Echo",
+  "title_en": "Bullet Echo",
+  "developer": "ZeptoLab",
+  "publisher": "ZeptoLab",
+  "year": 2020,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "トップダウン・タクティカル PvP シューター",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "視界が懐中電灯のビームに限定され、足音と銃声で位置を察知する独特の緊張感がモバイル PvP として話題に。Cut the Rope の ZeptoLab がカジュアルから一転して硬派なタクティカル路線を打ち出し、3 人小隊バトルロワイヤルとして 3,000 万 DL 超を獲得した。",
+  "slug": "bullet-echo",
+  "file": "data/games/1070-bullet-echo.json",
+  "concept": "視界が懐中電灯の光と音響に制限されるトップダウン・タクティカル PvP シューター。3 人小隊でステルスと連携を駆使し、最大 5 チーム参加のバトルロワイヤルや TvT で生き残りを競う、モバイル特化の短時間 PvP マッチ設計。",
+  "target": "Brawl Stars や CoD Mobile のようなセッション型モバイル PvP を好む 10-30 代男性層。腰を据えた FPS よりも 3-5 分で 1 試合終わるカジュアル競技性と、ヒーロー固有スキルでのビルド構築を楽しみたい層。",
+  "_source_urls": [
+    "https://www.zeptolab.com/games/bullet-echo",
+    "https://bullet-echo.fandom.com/wiki/About_Game",
+    "https://gamingonphone.com/news/bullet-echo-is-now-available/",
+    "https://www.pocketgamer.com/bullet-echo/bullet-echo-is-a-stealthy-battle-royale-game-from-zeptolab-thats-available-now-f/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

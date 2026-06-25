@@ -1,0 +1,32 @@
+{
+  "id": 1130,
+  "title_jp": "Age of Z Origins",
+  "title_en": "Age of Z Origins",
+  "developer": "Camel Games",
+  "publisher": "Camel Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "ゾンビ・サバイバル/ストラテジーMMO（SLG）",
+  "sales_jp": "—",
+  "sales_world": "200M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "全世界 200 か国以上で 2 億 DL 超を達成したゾンビ末日 SLG。同盟戦争・主宰対決などサーバー横断トーナメントが活発で、4Gamer・Game*Spark 等で継続的に取り上げられている。",
+  "concept": "ゾンビ・アポカリプス下の世界で「司令官」として街を再建し、研究・タワーディフェンス・領地拡張・同盟戦を回す王道の中華系ストラテジー MMO。3D マップ上での進軍と PvP/PvE 両立が特徴。",
+  "target": "Lords Mobile / State of Survival / Last Shelter 系の長期運営ストラテジー MMO を好む 20–40 代男性中心の重課金/重時間プレイヤー層。ゾンビ・終末世界観に惹かれる層と、同盟運営でコミュニケーションを取りたい層。",
+  "slug": "age-of-z-origins",
+  "file": "data/games/1130-age-of-z-origins.json",
+  "_source_urls": [
+    "https://www.camelgames.com/game/ageoforigins",
+    "https://ja.wikipedia.org/wiki/Age_of_Z",
+    "https://www.4gamer.net/games/500/G050074/20210414109/",
+    "https://apps.apple.com/jp/app/age-of-origins-%E3%82%BE%E3%83%B3%E3%83%93-%E6%9C%AB%E6%97%A5%E6%88%A6%E8%A8%98/id1376515087",
+    "https://sensortower.com/android/us/camel-games-limited/app/age-of-z-origins/com.camelgames.aoz"
+  ]
+}

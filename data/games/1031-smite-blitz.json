@@ -1,0 +1,34 @@
+{
+  "id": 1031,
+  "title_jp": "SMITE Blitz",
+  "title_en": "SMITE Blitz",
+  "developer": "Hi-Rez Studios",
+  "publisher": "Hi-Rez Studios",
+  "year": 2019,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "オートバトラー/ガチャRPG",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "REW",
+  "secondary": [
+    "EXP"
+  ],
+  "social_axis": null,
+  "popularity": "PC/コンソールMOBA「SMITE」のスピンオフとして2019年にiOS/Androidでソフトローンチ。世界60柱以上の神々を編成して戦うオートバトラー設計で、ストーリー/チャレンジ/PvPモードを備えMOBAファンのスマホ向け受け皿として注目された。",
+  "slug": "smite-blitz",
+  "file": "data/games/1031-smite-blitz.json",
+  "concept": "MOBA「SMITE」の世界観を引き継いだモバイル向けオートバトラー型ガチャRPG。神々を集めて編成し、フォーメーションとスキル発動でPvE/PvPを進めるという「収集×自動戦闘」設計で、原作の神話キャラIPをモバイル収益化レイヤーへ展開した。",
+  "target": "SMITE本編プレイヤーおよび神話モチーフのキャラ収集型モバイルRPG（サマナーズウォー、ヒーローウォーズ系オートバトラー）を好む北米/欧州中心のスマホユーザー層。",
+  "_source_urls": [
+    "https://toucharcade.com/2019/04/17/smite-blitz-public-test/",
+    "https://toucharcade.com/2019/08/07/smite-blitz-pre-registration/",
+    "https://www.gamereactor.eu/hirez-studios-softlaunched-smite-blitz-on-ios-and-android/",
+    "https://wccftech.com/hi-rez-studioss-mythology-themed-action-rpg-smite-blitz-coming-to-android-and-ios/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

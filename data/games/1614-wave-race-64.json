@@ -1,0 +1,28 @@
+{
+  "id": 1614,
+  "title_jp": "ウェーブレース64",
+  "title_en": "Wave Race 64",
+  "developer": "Nintendo EAD",
+  "publisher": "Nintendo",
+  "year": 1996,
+  "platform": [
+    "N64"
+  ],
+  "genre": "水上バイクレース",
+  "sales_jp": "0.15M+",
+  "sales_world": "1.94M",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "ソロ",
+  "popularity": "N64 ローンチ期の代表作として、波の物理表現と水しぶき描写で 3D 時代の到来を印象付けた一本。宮本茂プロデュースで欧米レビューも高評価。",
+  "concept": "リアルタイムに変化する波と水面物理を主役にした水上バイクレース。ブイを左右どちらに回るかでコース取りが変わり、ジャンプ・スピン・タイムアタックを楽しむ操作主導の体験型レース。",
+  "target": "N64 世代のレースゲームファン、3D 表現の革新性に惹かれた層、タイムアタックや操作練習を好むコアプレイヤー。",
+  "slug": "wave-race-64",
+  "file": "data/games/1614-wave-race-64.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Wave_Race_64",
+    "https://www.nintendolife.com/features/soapbox-wave-race-64-is-now-25-years-old-and-it-still-rules",
+    "https://dic.nicovideo.jp/a/%E3%82%A6%E3%82%A8%E3%83%BC%E3%83%96%E3%83%AC%E3%83%BC%E3%82%B964",
+    "https://www.nintendo.co.jp/n01/n64/software/s_camp/wr/index.html"
+  ]
+}

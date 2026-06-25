@@ -1,0 +1,32 @@
+{
+  "id": 1059,
+  "title_jp": "Critical Ops",
+  "title_en": "Critical Ops",
+  "developer": "Critical Force",
+  "publisher": "Critical Force",
+  "year": 2015,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "タクティカル FPS / モバイル e スポーツ",
+  "sales_jp": "—",
+  "sales_world": "50M+ DL (2018 公式発表)",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "Counter-Strike ライクの 5v5 爆弾解除をスマホで再現したフィンランド産タクティカル FPS。2018 年に v1.0 リリース時点で累計 5,000 万 DL を突破し、モバイル e スポーツシーンの定番タイトルとして大会・配信文化を牽引した。",
+  "concept": "課金強化やオート照準を排し、エイムと立ち回り・連携だけで決まる純競技型の 5v5 爆弾解除戦をスマホ／タブレットで成立させた、CS:GO のモバイル翻案。短時間で 1 試合が終わるため通勤・休憩中でも competitive な対戦が回せる。",
+  "target": "Counter-Strike / VALORANT 系の硬派なタクティカル FPS をスマホでも遊びたい 10-30 代男性中心のコア層。モバイル e スポーツ志向のプレイヤーと、課金ゲーに飽きたガチ対戦勢。",
+  "slug": "critical-ops",
+  "file": "data/games/1059-critical-ops.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Critical_Ops",
+    "https://criticalforce.fi/news/12/",
+    "https://www.pocketgamer.biz/critical-ops-surpasses-13-million-downloads/",
+    "https://criticalopsgame.com/"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

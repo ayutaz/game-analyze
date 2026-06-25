@@ -1,0 +1,30 @@
+{
+  "id": 1618,
+  "title_jp": "マリオゴルフ64",
+  "title_en": "Mario Golf",
+  "developer": "Camelot",
+  "publisher": "Nintendo",
+  "year": 1999,
+  "platform": [
+    "N64"
+  ],
+  "genre": "ゴルフ/スポーツ",
+  "sales_jp": "0.47M",
+  "sales_world": "1.51M",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "キャメロット製マリオゴルフ第1作として、初心者でも遊べるショット操作と RPG 的なキャラ育成・コース解放で口コミ拡大。N64 ベストセラー上位、全世界 約151万本。",
+  "concept": "マリオキャラと現実準拠のゴルフ操作を融合させたパーティ志向のゴルフゲーム。シンプルな3クリック式ショットで初心者が入りやすく、コース・キャラ解放やマッチプレイ／スキンズ等の多彩なモードで反復遊びを誘発する。",
+  "target": "ゴルフ未経験のライト層から、対戦・育成要素を求めるマリオファン・N64 ユーザーまで幅広い層。家族や友人と分割画面で気軽に競いたいプレイヤー。",
+  "slug": "mario-golf",
+  "file": "data/games/1618-mario-golf.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Mario_Golf_(video_game)",
+    "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%82%B4%E3%83%AB%E3%83%9564",
+    "https://www.vgchartz.com/game/3713/mario-golf/",
+    "https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_64_video_games"
+  ]
+}

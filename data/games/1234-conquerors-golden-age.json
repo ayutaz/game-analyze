@@ -1,0 +1,31 @@
+{
+  "id": 1234,
+  "title_jp": "コンカラーズ: ゴールデンエイジ",
+  "title_en": "Conquerors: Golden Age",
+  "developer": "IGG",
+  "publisher": "IGG (MENA 配信)",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "MMO ストラテジー / 4X SLG（中東アラブ帝国テーマ）",
+  "sales_jp": "—",
+  "sales_world": "20M+ DL",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "対戦",
+  "popularity": "Lords Mobile 系の SLG テンプレートをアラブ／中東 (MENA) 市場向けにローカライズし、Google Play で 1,000 万 DL 超を達成。ギルド戦・王宮戦・クロスサーバー戦など同盟対戦が中核で、リアルタイム多言語翻訳チャットが MENA リージョンで強く支持された。",
+  "concept": "アラブ帝国を題材にした MMO ストラテジー。プレイヤーは「スルタン」として街を建設し、同盟（ギルド）を組んでクロスサーバーで領土を奪い合う。Lords Mobile 系のテンプレートを MENA 文化資源（カリフ・砂嵐・モニュメント）で再構成した、地域特化型 4X SLG。",
+  "target": "中東・北アフリカを中心とした SLG 重課金層と、Lords Mobile / Rise of Kingdoms 系のクロスサーバー同盟戦が好きな 20-40 代の男性プレイヤー。",
+  "slug": "conquerors-golden-age",
+  "file": "data/games/1234-conquerors-golden-age.json",
+  "_source_urls": [
+    "https://play.google.com/store/apps/details?id=com.igg.android.conquerors",
+    "https://apps.apple.com/us/app/conquerors-golden-age/id1149631667",
+    "https://cq.igg.com/project/another_download/",
+    "https://www.taptap.io/app/175026"
+  ]
+}

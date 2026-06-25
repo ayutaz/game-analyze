@@ -1,0 +1,29 @@
+{
+  "id": 1981,
+  "title_jp": "Collar×Malice",
+  "title_en": "Collar x Malice",
+  "developer": "Otomate",
+  "publisher": "Idea Factory International / Aksys Games",
+  "year": 2016,
+  "platform": [
+    "PS Vita",
+    "Switch",
+    "PC"
+  ],
+  "genre": "乙女ゲーム/サスペンスADV",
+  "sales_jp": "—",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "発売週に Media Create で 7,271 本、ファミ通で 9,406 本を売り上げニッチジャンルとしては好調。新宿封鎖と毒入りチョーカーという重厚な設定で乙女ゲーマー以外からも注目され、Switch 移植・ファンディスク Unlimited・劇場アニメ Deep Cover 公開と長期 IP 化した。",
+  "concept": "新宿が「X-Day」と呼ばれる連続殺人事件の舞台と化し、自身も毒入り首輪を装着された女性刑事として、5 人の私設組織メンバーと協力しながら 24 時間以内の事件解決と恋愛を両立させるサスペンス乙女ゲーム。シリアスな犯罪劇とロマンスを高密度で同居させた。",
+  "target": "20-40 代女性の乙女ゲームファン、特に逆転裁判やダンガンロンパ的なサスペンス×ミステリーをロマンス文脈で楽しみたい層。重い社会派ドラマと男性キャラへの感情移入の両方を求めるプレイヤー。",
+  "slug": "collar-x-malice",
+  "file": "data/games/1981-collar-x-malice.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Collar_%C3%97_Malice",
+    "https://www.aksysgames.com/products/psvita-malice/",
+    "https://www.rpgsite.net/news/5530-otome-visual-novel-collar-x-malice-set-to-release-this-summer-for-playstation-vita"
+  ]
+}

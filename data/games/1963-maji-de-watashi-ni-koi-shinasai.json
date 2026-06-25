@@ -1,0 +1,30 @@
+{
+  "id": 1963,
+  "title_jp": "まじこい！",
+  "title_en": "Maji de Watashi ni Koi Shinasai!",
+  "developer": "Minato Soft",
+  "publisher": "Minato Soft",
+  "year": 2009,
+  "platform": [
+    "PC"
+  ],
+  "genre": "武士娘恋愛アドベンチャー（アダルトビジュアルノベル）",
+  "sales_jp": "80,000+",
+  "sales_world": "—",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "2009年のGetchu PCゲーム年間売上ランキング1位。タカヒロ脚本の武芸ヒロイン×学園ADVとして「まじこい」の愛称で社会的ヒットし、アニメ化・続編『S』・ファンディスク『A』シリーズ・JAST USAによる英語版（2020）まで展開。",
+  "slug": "maji-de-watashi-ni-koi-shinasai",
+  "file": "data/games/1963-maji-de-watashi-ni-koi-shinasai.json",
+  "concept": "武家のしきたりを今に残す架空の「川神市」を舞台に、主人公・直江大和と幼馴染グループ「風間ファミリー」が、武芸に長けたヒロインたちと織りなす学園恋愛アドベンチャー。公式ジャンルは「武士娘恋愛アドベンチャー」で、燃えバトルと萌えの両立が売り。",
+  "target": "美少女ゲーム・武闘派ヒロインを好む成人男性層。みなとそふと前作およびタカヒロ作品（君が望む永遠系譜）のファンや、伝奇学園×ハーレム×コメディ路線のフルボイスADVを求めるユーザー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Maji_de_Watashi_ni_Koi_Shinasai!",
+    "https://ja.wikipedia.org/wiki/%E7%9C%9F%E5%89%A3%E3%81%A7%E7%A7%81%E3%81%AB%E6%81%8B%E3%81%97%E3%81%AA%E3%81%95%E3%81%84!",
+    "http://www.minatosoft.com/majikoi/top.html"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

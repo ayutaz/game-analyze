@@ -1,0 +1,28 @@
+{
+  "id": 1625,
+  "title_jp": "ペーパーマリオ",
+  "title_en": "Paper Mario",
+  "developer": "Intelligent Systems",
+  "publisher": "Nintendo",
+  "year": 2000,
+  "platform": [
+    "N64"
+  ],
+  "genre": "RPG（ターン制バトル＋アクションコマンド）",
+  "sales_jp": "—",
+  "sales_world": "1.37M",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "紙工作風のビジュアルとアクションコマンド式バトルでマリオRPGの新潮流を確立。N64末期の名作として高い評価を受け、後年のシリーズ展開の原点となった。",
+  "concept": "「紙のように平たいマリオたち」が立体世界を冒険するペーパー世界観のRPG。タイミング入力で攻防が変化するアクションコマンドと、仲間キャラの能力を切り替えるパズル要素を融合したターン制バトルが核。",
+  "target": "マリオRPG（スーパーマリオRPG）の流れを汲む、コマンドバトル系JRPGを好む小学生〜大人まで。マリオ世界の軽妙な会話劇とキャラクター掛け合いを楽しみたい層。",
+  "slug": "paper-mario",
+  "file": "data/games/1625-paper-mario.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Paper_Mario_(video_game)",
+    "https://vgsales.fandom.com/wiki/Paper_Mario"
+  ]
+}

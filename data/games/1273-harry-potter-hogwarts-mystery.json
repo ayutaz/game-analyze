@@ -1,0 +1,31 @@
+{
+  "id": 1273,
+  "title_jp": "ハリー・ポッター：ホグワーツの謎",
+  "title_en": "Harry Potter: Hogwarts Mystery",
+  "developer": "Jam City",
+  "publisher": "Portkey Games",
+  "year": 2018,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "選択肢式アドベンチャーRPG",
+  "sales_jp": "—",
+  "sales_world": "累計収益 $500M+ / 初週 1,300 万 DL",
+  "primary": "NAR",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": null,
+  "popularity": "ハリポタ IP 初の本格モバイル RPG として 2018 年配信初週に 1,300 万 DL を突破。Sensor Tower 集計でシリーズ最高売上、累計 5 億ドル超を記録し Portkey Games レーベルの旗艦タイトル化した。",
+  "concept": "原作より前の 1980 年代ホグワーツを舞台にプレイヤー自身が「自分のキャラクター」で入学し、選択肢と授業ミニゲーム、エネルギー制スタミナ消費で 7 学年分の物語を進める章立て式アドベンチャーRPG。",
+  "target": "原作小説・映画ファンの 10-40 代男女、特に女性層と非ゲーマー層。短時間でストーリーを少しずつ消費したい層、自作キャラでホグワーツ生活を疑似体験したい層。",
+  "slug": "harry-potter-hogwarts-mystery",
+  "file": "data/games/1273-harry-potter-hogwarts-mystery.json",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Harry_Potter:_Hogwarts_Mystery",
+    "https://sensortower.com/blog/harry-potter-hogwarts-mystery-surpasses-500-million",
+    "https://sensortower.com/blog/harry-potter-hogwarts-mystery-300-million-revenue",
+    "https://www.jamcity.com/jam-city-launches-harry-potter-hogwarts-mystery-on-the-app-store-and-google-play/"
+  ]
+}

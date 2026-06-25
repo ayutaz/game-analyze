@@ -1,0 +1,31 @@
+{
+  "id": 1464,
+  "title_jp": "ナイトメア・クリーチャーズ",
+  "title_en": "Nightmare Creatures",
+  "developer": "Kalisto Entertainment",
+  "publisher": "Activision",
+  "year": 1997,
+  "platform": [
+    "PS1",
+    "PC",
+    "N64"
+  ],
+  "genre": "ホラーアクション/3Dアクション",
+  "sales_jp": "—",
+  "sales_world": "0.7M+",
+  "primary": "EXP",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "19世紀末ロンドンを舞台にしたゴシックホラー3Dアクションで、コンボ攻撃と敵の切断・斬首描写が話題に。CERO D相当のグロ表現とダークな世界観で初代PS洋ゲーホラーの代表格として記憶される。",
+  "slug": "nightmare-creatures",
+  "file": "data/games/1464-nightmare-creatures.json",
+  "concept": "1666年〜19世紀末ロンドンを舞台に、邪教団「ヘカテの兄弟団」が生み出した怪物を斬り伏せる3Dホラーアクション。ステージクリア型でコンボ戦闘とアドレナリンゲージ管理を組み合わせ、ゴシックホラーの空気感を体験させる。",
+  "target": "初代PS〜N64世代の洋ゲー・ホラー好き、Resident EvilやTomb Raiderと並ぶダーク3Dアクションを求める層。グロ表現と硬派なアクションを許容できる17歳以上のコアプレイヤー。",
+  "_source_urls": [
+    "https://en.wikipedia.org/wiki/Nightmare_Creatures",
+    "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%88%E3%83%A1%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA",
+    "https://www.gamespark.jp/article/2017/09/05/75588.html"
+  ]
+}

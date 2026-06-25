@@ -1,0 +1,33 @@
+{
+  "id": 1080,
+  "title_jp": "T3 アリーナ",
+  "title_en": "T3 Arena",
+  "developer": "XD Entertainment",
+  "publisher": "XD Entertainment",
+  "year": 2022,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "3v3 ヒーローシューター/モバイル対戦",
+  "sales_jp": "—",
+  "sales_world": "10M+ DL",
+  "primary": "EXP",
+  "secondary": [],
+  "social_axis": "対戦",
+  "popularity": "iOS 配信初週で米・加・日・新の App Store 無料/アクション/ストラテジー 1 位を獲得、配信 1 ヶ月で 100 万 DL を突破。「Overwatch ライク」を 1 戦 3 分の縦持ち&自動射撃で再構成した手軽さで、モバイルヒーローシューター枠の代表格に。",
+  "slug": "t3-arena",
+  "file": "data/games/1080-t3-arena.json",
+  "concept": "3v3 のヒーローシューターを 1 戦 3〜5 分のショートマッチに圧縮し、自動射撃などのアシストで「コンソール級の競技性をスマホ片手で」遊べるよう設計された対戦アクション。TDM・コントロール・ペイロード・5v5 など複数モードを揃え、30 体超のヒーローでロール構築の妙を楽しませる。",
+  "target": "Overwatch / Valorant / Apex 系のヒーローシューターをスマホで気軽に遊びたい 10-30 代男性が中心。短時間で対戦欲を満たしたいライト〜ミドル層、PvP モバイルゲーマー。",
+  "_source_urls": [
+    "https://www.gamespress.com/Hero-Shooter-T3-Arena-Exceeds-Over-One-Million-Downloads-Since-iOS-Lau",
+    "https://gamingonphone.com/news/t3-arena-the-overwatch-like-shooter-game-exceeds-1-million-downloads-since-ios-launch/",
+    "https://www.4gamer.net/games/633/G063384/20220526049/",
+    "https://apps.apple.com/jp/app/t3-%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A/id1602814337",
+    "https://play.google.com/store/apps/details?id=com.xd.t3.global"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

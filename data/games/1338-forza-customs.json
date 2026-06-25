@@ -1,0 +1,31 @@
+{
+  "id": 1338,
+  "title_jp": "Forza Customs",
+  "title_en": "Forza Customs",
+  "developer": "Hutch Games",
+  "publisher": "Xbox Game Studios",
+  "year": 2023,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/カスタムカー",
+  "sales_jp": "—",
+  "sales_world": "—（2025-03-10 サービス終了）",
+  "primary": "EXP",
+  "secondary": [
+    "REW"
+  ],
+  "social_axis": "ソロ",
+  "popularity": "Forza シリーズ初の非レースゲームとして 2023-11 にローンチ。マッチ3パズルでクラシックカーを修復・カスタムする異色のスピンオフとして話題になったが、収益が伸びず 2025-03-10 にサービス終了が発表された。",
+  "concept": "Turn 10 Studios のライセンス下で Hutch Games が手がけた Forza ブランドのモバイル専用マッチ3パズル。パズルを解いて評判を上げ、廃車同然のクルマを自分好みの「ドリームマシン」へ修復・改造していく非レース型スピンオフ。",
+  "target": "ライトに遊べるマッチ3パズル好きと、Forza Horizon シリーズで車のカスタムを楽しんできた層の交差点。レース操作は苦手だが車そのものは好きという 20–40 代のカジュアル層が中心。",
+  "slug": "forza-customs",
+  "file": "data/games/1338-forza-customs.json",
+  "_source_urls": [
+    "https://forza.fandom.com/wiki/Forza_Customs",
+    "https://www.purexbox.com/news/2023/11/forza-customs-is-a-new-car-themed-puzzle-game-out-now-on-android-and-ios",
+    "https://www.hutch.io/blog/games/forza-customs-worldwide-launch/",
+    "https://hutch.helpshift.com/hc/en/15-forza-customs/faq/1755-will-i-still-be-able-to-play-until-the-closing-date/"
+  ]
+}

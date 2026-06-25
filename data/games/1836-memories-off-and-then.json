@@ -1,0 +1,32 @@
+{
+  "id": 1836,
+  "title_jp": "メモリーズオフ それから",
+  "title_en": "Memories Off: And Then",
+  "developer": "KID",
+  "publisher": "KID",
+  "year": 2004,
+  "platform": [
+    "PS2",
+    "PC",
+    "PSP"
+  ],
+  "genre": "恋愛アドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "「想い」をテーマにした切ない恋物語を綴るメモリーズオフシリーズ第4弾。ヒロインとの関係がうまくいかなくなっていく心理描写でファンの間で語り継がれる。",
+  "concept": "高校3年生の主人公が、すれ違う彼女との関係と新たな出会いの間で揺れ動く、シリーズ通底の「切なさ」を前面に出した恋愛アドベンチャー。プレイヤーは選択肢を通じて関係の岐路に立ち会う。",
+  "target": "10-30代男性層、特に泣きゲー/切ない恋愛 ADV を好む層。KID 系ノベルファンとシリーズ既存ユーザー。",
+  "slug": "memories-off-and-then",
+  "file": "data/games/1836-memories-off-and-then.json",
+  "_source_urls": [
+    "https://ja.wikipedia.org/wiki/Memories_Off_%E3%80%9C%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%E3%80%9C",
+    "https://memories-off.fandom.com/wiki/Memories_Off:_And_Then",
+    "https://en.wikipedia.org/wiki/Memories_Off"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

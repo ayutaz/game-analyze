@@ -1,0 +1,31 @@
+{
+  "id": 1990,
+  "title_jp": "BUSTAFELLOWS Season 2",
+  "title_en": "Bustafellows Season 2",
+  "developer": "Extend",
+  "publisher": "PQube",
+  "year": 2023,
+  "platform": [
+    "Switch",
+    "PC",
+    "iOS",
+    "Android"
+  ],
+  "genre": "乙女向けシネマティックアドベンチャー/ビジュアルノベル",
+  "sales_jp": "—",
+  "sales_world": "unknown",
+  "primary": "NAR",
+  "secondary": [],
+  "social_axis": null,
+  "popularity": "前作『BUSTAFELLOWS』のヒットを受けた待望の続編。NYを舞台にした犯罪解決系シネマティック乙女ADVとして女性層から高評価を獲得し、2025年に PQube より英語版が PC/Switch で世界展開された。",
+  "concept": "前作と同じ主人公テウタと5人のアンチヒーロー（Limbo / Shuu / Helvetica / Moz / Scarecrow）が再集結し、「変わるか、終わるか」を共通テーマに据えた犯罪解決系シネマティック・ビジュアルノベル。約4時間遊べる大ボリュームの無料体験版も配信された。",
+  "target": "20-40代の女性乙女ゲーマー層、特に前作ファンと洋画ドラマ的なクライムサスペンス＋恋愛ADVを好む層。日本国内に加え、PQubeローカライズで欧米の英語圏オトメファンも対象とする。",
+  "slug": "bustafellows-season-2",
+  "file": "data/games/1990-bustafellows-season-2.json",
+  "_source_urls": [
+    "https://joqrextend.co.jp/extend/bustafellows2/",
+    "https://www.famitsu.com/news/202305/28304056.html",
+    "https://pqube.co.uk/news/crime-solving-otome-bustafellows-season-2-is-releasing-in-2025/",
+    "https://www.gematsu.com/2025/05/bustafellows-season-2-launches-july-17-in-the-west"
+  ]
+}

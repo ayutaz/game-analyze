@@ -1,0 +1,35 @@
+{
+  "id": 1115,
+  "title_jp": "クロックメーカー",
+  "title_en": "Clockmaker",
+  "developer": "Belka Games",
+  "publisher": "Belka Games",
+  "year": 2017,
+  "platform": [
+    "iOS",
+    "Android"
+  ],
+  "genre": "マッチ3パズル/ストーリー",
+  "sales_jp": "—",
+  "sales_world": "30M+ DL / 累計 IAP 約 2.9 億ドル",
+  "primary": "REW",
+  "secondary": [
+    "NAR"
+  ],
+  "social_axis": null,
+  "popularity": "ヴィクトリアン世界観のマッチ3に街・部屋の建設要素とストーリーを織り込み、2019 年以降にライブオプス強化で大ヒット化。DAU 100 万超、累計 30M DL・IAP 約 2.9 億ドルを稼ぐ Belka Games の主力タイトル。",
+  "concept": "呪われた街をマッチ3パズルで解放しながら、館の修復・コレクション・キャラクター達の物語を進める「ストーリー駆動型マッチ3」。Royal Match や Homescapes と並ぶ「パズル＋メタ進行」系の代表格。",
+  "target": "30-50 代を中心とした女性カジュアル層と、ストーリー付きパズルを長期で遊びたいヘビーパズラー層。1 日数分のセッションで進行する非同期プレイに向き、課金は装飾・スタミナ・ブースター中心。",
+  "slug": "clockmaker",
+  "file": "data/games/1115-clockmaker.json",
+  "_source_urls": [
+    "https://belka-games.com/games/clockmaker",
+    "https://apps.apple.com/us/app/clockmaker-match-3-puzzles/id929195587",
+    "https://play.google.com/store/apps/details?id=com.belkatechnologies.clockmaker&hl=en_US",
+    "https://www.blog.udonis.co/mobile-marketing/mobile-games/clockmaker-analysis",
+    "https://gameworldobserver.com/2024/04/27/belka-games-layoffs-20-percent-of-employees"
+  ],
+  "tags": [
+    "indie"
+  ]
+}

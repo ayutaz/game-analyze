@@ -20,5 +20,8 @@
   "concept": "前作Wizard of Legendの世界観を3Dに刷新し、最大4人協力（早期アクセス時は2人）で連続呪文コンボを叩き込むアクションローグライト続編。",
   "target": "前作経験者と、Hades系のスタイリッシュアクションローグライトをフレンドと協力で遊びたい層。",
   "slug": "wizard-of-legend-2",
-  "file": "data/games/841-wizard-of-legend-2.json"
+  "file": "data/games/841-wizard-of-legend-2.json",
+  "tags": [
+    "indie"
+  ]
 }

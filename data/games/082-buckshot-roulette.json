@@ -15,5 +15,8 @@
   "slug": "buckshot-roulette",
   "file": "data/games/082-buckshot-roulette.json",
   "concept": "装填されたショットガンを相手と自分で交互に撃ち合うロシアン・ルーレット型対戦、緊張と判断の心理戦に絞ったミニマル作品。",
-  "target": "10-30代、配信視聴文化、短時間で緊張を味わいたい層。"
+  "target": "10-30代、配信視聴文化、短時間で緊張を味わいたい層。",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "協力",
   "popularity": "L4D-style co-op with deep melee; built the playbook Fatshark scaled into Darktide.",
   "slug": "warhammer-vermintide-2",
-  "file": "data/games/784-warhammer-vermintide-2.json"
+  "file": "data/games/784-warhammer-vermintide-2.json",
+  "tags": [
+    "indie"
+  ]
 }

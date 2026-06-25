@@ -22,5 +22,8 @@
   "concept": "ロンドンが地底に「堕ちた」直後の混沌期を舞台に、容疑者となった同居人を救いつつ恋愛や陰謀を選び取るヴィクトリアン・ゴシック・ノベル＋ロマンス ADV。",
   "target": "Fallen London / Sunless Sea 等の Failbetter 文学的世界観の読者、文章主体の VN・乙女／恋愛 ADV を好む英語圏インディー層。",
   "slug": "mask-of-the-rose",
-  "file": "data/games/869-mask-of-the-rose.json"
+  "file": "data/games/869-mask-of-the-rose.json",
+  "tags": [
+    "indie"
+  ]
 }

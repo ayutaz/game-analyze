@@ -25,5 +25,8 @@
   "social_axis": "ソロ",
   "popularity": "Russian-made Fallout homage set in a Soviet wasteland; gave its niche genre a global hit.",
   "slug": "atom-rpg-post-apocalyptic-indie-game",
-  "file": "data/games/449-atom-rpg-post-apocalyptic-indie-game.json"
+  "file": "data/games/449-atom-rpg-post-apocalyptic-indie-game.json",
+  "tags": [
+    "indie"
+  ]
 }

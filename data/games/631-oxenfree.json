@@ -21,5 +21,8 @@
   "social_axis": "",
   "popularity": "Overlapping-dialogue supernatural teen thriller; Netflix bought Night School in 2021 on its strength.",
   "slug": "oxenfree",
-  "file": "data/games/631-oxenfree.json"
+  "file": "data/games/631-oxenfree.json",
+  "tags": [
+    "indie"
+  ]
 }

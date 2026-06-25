@@ -17,5 +17,8 @@
   "social_axis": "対戦",
   "popularity": "HD bundle that kept the original Homeworld 1/2 alive and seeded the eventual Homeworld 3.",
   "slug": "homeworld-remastered-collection",
-  "file": "data/games/570-homeworld-remastered-collection.json"
+  "file": "data/games/570-homeworld-remastered-collection.json",
+  "tags": [
+    "indie"
+  ]
 }

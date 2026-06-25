@@ -20,5 +20,8 @@
   "concept": "前作Lost Castleで築いた手描きダーク2Dアクションの基盤を拡張し、ビルド多様性とアイテム合成、最大4人協力でのリプレイ性を強化した中国産ベルスクローグライトの代表作。",
   "target": "Dead Cells / Hadesでローグライトに親しみ、さらに友人と気軽に協力プレイできるダーク寄りのベルスクを求めるアジア圏・英語圏のインディーアクション愛好者層。",
   "slug": "lost-castle-2",
-  "file": "data/games/821-lost-castle-2.json"
+  "file": "data/games/821-lost-castle-2.json",
+  "tags": [
+    "indie"
+  ]
 }

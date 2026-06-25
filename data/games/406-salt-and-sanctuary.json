@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Original 2D souls template that spawned an entire indie subgenre.",
   "slug": "salt-and-sanctuary",
-  "file": "data/games/406-salt-and-sanctuary.json"
+  "file": "data/games/406-salt-and-sanctuary.json",
+  "tags": [
+    "indie"
+  ]
 }

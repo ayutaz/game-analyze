@@ -18,5 +18,8 @@
   "slug": "devour",
   "file": "data/games/266-devour.json",
   "concept": "悪魔崇拝者となり信者をパージする1-4人協力ホラー。低価格・短時間ループ・ランダム化で配信映え抜群、Phasmophobiaと並ぶ「叫び系協力ホラー」の定番。",
-  "target": "友達と叫びながら遊ぶカジュアル協力ホラー好き、配信視聴者層。Phasmophobiaを遊び尽くした層の次の選択肢。"
+  "target": "友達と叫びながら遊ぶカジュアル協力ホラー好き、配信視聴者層。Phasmophobiaを遊び尽くした層の次の選択肢。",
+  "tags": [
+    "indie"
+  ]
 }

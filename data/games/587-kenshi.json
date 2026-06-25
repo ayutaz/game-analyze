@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "12-year solo-dev passion project whose harsh emergent sandbox cemented a 'no-story, all-systems' RPG identity; Kenshi 2 in development.",
   "slug": "kenshi",
-  "file": "data/games/587-kenshi.json"
+  "file": "data/games/587-kenshi.json",
+  "tags": [
+    "indie"
+  ]
 }

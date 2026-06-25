@@ -25,5 +25,8 @@
   "concept": "死後の世界で清掃員として働く小さな猫を主人公にした、温かみのあるメトロイドヴァニア。死後の住民たちと交流しながら、追放された霊界の周辺を掃き清めていく。",
   "target": "Hollow Knight / Islets / Tunic 系のソロ探索型メトロイドヴァニアを好み、難易度より雰囲気・キャラ・密度の濃い探索を楽しみたい層。",
   "slug": "crypt-custodian",
-  "file": "data/games/851-crypt-custodian.json"
+  "file": "data/games/851-crypt-custodian.json",
+  "tags": [
+    "indie"
+  ]
 }

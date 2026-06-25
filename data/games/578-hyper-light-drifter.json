@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Kickstarter cult hit that defined pixel-art Zelda-likes; established Heart Machine.",
   "slug": "hyper-light-drifter",
-  "file": "data/games/578-hyper-light-drifter.json"
+  "file": "data/games/578-hyper-light-drifter.json",
+  "tags": [
+    "indie"
+  ]
 }

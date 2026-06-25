@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "A foundational PC sim — TruckersMP turned it into a de facto MMO, and it remains a top-50 Steam fixture over a decade later.",
   "slug": "euro-truck-simulator-2",
-  "file": "data/games/367-euro-truck-simulator-2.json"
+  "file": "data/games/367-euro-truck-simulator-2.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "The defining VR launch title; effectively the killer app that introduced millions to consumer VR.",
   "slug": "job-simulator",
-  "file": "data/games/583-job-simulator.json"
+  "file": "data/games/583-job-simulator.json",
+  "tags": [
+    "indie"
+  ]
 }

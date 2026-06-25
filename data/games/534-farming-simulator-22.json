@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Industry-leading farming sim with licensed equipment; massive worldwide audience.",
   "slug": "farming-simulator-22",
-  "file": "data/games/534-farming-simulator-22.json"
+  "file": "data/games/534-farming-simulator-22.json",
+  "tags": [
+    "indie"
+  ]
 }

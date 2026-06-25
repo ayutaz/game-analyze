@@ -23,5 +23,8 @@
   "social_axis": "ソロ",
   "popularity": "Dinosaurs-and-tribes survival blueprint whose taming/tribe mechanics inspired Palworld and many followers.",
   "slug": "ark-survival-evolved",
-  "file": "data/games/336-ark-survival-evolved.json"
+  "file": "data/games/336-ark-survival-evolved.json",
+  "tags": [
+    "indie"
+  ]
 }

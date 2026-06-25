@@ -23,5 +23,8 @@
   "slug": "stacklands",
   "file": "data/games/259-stacklands.json",
   "concept": "カードを物理的に重ねる操作で資源採取・建築・戦闘を行う、ミニマルな村作りサバイバル。ボードゲーム的な手触りとローグライト的な周回を融合した実験的インディー。",
-  "target": "Slay the Spire や Loop Hero など「カードで何かを構築する」系の小品が好きなプレイヤー、短時間で完結する管理ゲーが好きな層、Sokpop の実験的インディーを追いかけるファン。"
+  "target": "Slay the Spire や Loop Hero など「カードで何かを構築する」系の小品が好きなプレイヤー、短時間で完結する管理ゲーが好きな層、Sokpop の実験的インディーを追いかけるファン。",
+  "tags": [
+    "indie"
+  ]
 }

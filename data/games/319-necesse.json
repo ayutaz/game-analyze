@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-dev Terraria-meets-RimWorld hybrid that exploded after 1.0 release in Oct 2025, partly buoyed by Palworld bundle promotion.",
   "slug": "necesse",
-  "file": "data/games/319-necesse.json"
+  "file": "data/games/319-necesse.json",
+  "tags": [
+    "indie"
+  ]
 }

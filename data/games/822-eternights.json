@@ -22,5 +22,8 @@
   "concept": "終末世界を舞台に、デートシムと剣戟アクションRPGを統合した「Apocalypse Persona」型ハイブリッド。",
   "target": "ペルソナ系のキャラ絆システムとアニメ調のシネマティック演出を好み、短尺で濃いインディーRPG体験を求めるプレイヤー。",
   "slug": "eternights",
-  "file": "data/games/822-eternights.json"
+  "file": "data/games/822-eternights.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -15,5 +15,8 @@
   "slug": "overcooked-all-you-can-eat",
   "file": "data/games/044-overcooked-all-you-can-eat.json",
   "concept": "キッチンを舞台に「混乱の中でも協力して料理を出す」ことを強いる、人間関係を試す協力料理ゲーム。",
-  "target": "カップル・友達・家族の2-4人協力プレイ、「うまくいかない時間」を笑い合える層。"
+  "target": "カップル・友達・家族の2-4人協力プレイ、「うまくいかない時間」を笑い合える層。",
+  "tags": [
+    "indie"
+  ]
 }

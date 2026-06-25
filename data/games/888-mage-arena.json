@@ -20,5 +20,8 @@
   "concept": "マイクに呪文を叫ぶ「声入力」の魔法戦闘を$3で実装した、配信映え特化のオンラインPvPパーティーゲーム。",
   "target": "友人ボイチャでバカ騒ぎしたいSteamプレイヤーと、リアクション動画を求めるTwitch/TikTok視聴者層。",
   "slug": "mage-arena",
-  "file": "data/games/888-mage-arena.json"
+  "file": "data/games/888-mage-arena.json",
+  "tags": [
+    "indie"
+  ]
 }

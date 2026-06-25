@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Every pixel is simulated — a singular physics-driven roguelite that became a Twitch favorite.",
   "slug": "noita",
-  "file": "data/games/622-noita.json"
+  "file": "data/games/622-noita.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-dev gothic horde survivor with overwhelmingly positive reviews.",
   "slug": "boneraiser-minions",
-  "file": "data/games/347-boneraiser-minions.json"
+  "file": "data/games/347-boneraiser-minions.json",
+  "tags": [
+    "indie"
+  ]
 }

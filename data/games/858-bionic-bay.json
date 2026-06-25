@@ -19,5 +19,8 @@
   "concept": "古代バイオメカニカル世界を脱出する科学者を操る、Swap/ChronoLag/重力反転の物理ギミックを駆使する2Dパズルプラットフォーマー。",
   "target": "Limbo/Inside系の重厚な雰囲気ピクセル・プラットフォーマーやN++のような精密操作ゲームのファン、スピードラン愛好家。",
   "slug": "bionic-bay",
-  "file": "data/games/858-bionic-bay.json"
+  "file": "data/games/858-bionic-bay.json",
+  "tags": [
+    "indie"
+  ]
 }

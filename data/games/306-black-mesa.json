@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Fan-mod-turned-commercial Half-Life 1 remake; the rare community remake Valve officially blessed for sale.",
   "slug": "black-mesa",
-  "file": "data/games/306-black-mesa.json"
+  "file": "data/games/306-black-mesa.json",
+  "tags": [
+    "indie"
+  ]
 }

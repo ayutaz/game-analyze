@@ -22,5 +22,8 @@
   "slug": "reverse-1999",
   "file": "data/games/185-reverse-1999.json",
   "concept": "中国Bluepochによる「20世紀各年代を旅する神秘主義RPG」。アール・デコ調ビジュアルと英語ボイスを軸に、HoYoverse以外の中国ガチャに地歩を築いた雰囲気特化型。",
-  "target": "20-30代、特に女性層とアート・洋画・オカルト趣味を好むサブカル層。HoYoverse以外のガチャを探す層。"
+  "target": "20-30代、特に女性層とアート・洋画・オカルト趣味を好むサブカル層。HoYoverse以外のガチャを探す層。",
+  "tags": [
+    "indie"
+  ]
 }

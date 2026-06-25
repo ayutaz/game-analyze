@@ -23,5 +23,8 @@
   "concept": "主人公ジョットが絵本のページ内を2Dで冒険し、本の外の現実世界では3Dの立体キャラクターとして動き回る、紙と現実を横断するアクションアドベンチャー。",
   "target": "ゼルダ的アクションアドベンチャーや絵本的アートに惹かれるプレイヤー、Tearawayやアンチャーテッド的演出体験を好む層。",
   "slug": "the-plucky-squire",
-  "file": "data/games/860-the-plucky-squire.json"
+  "file": "data/games/860-the-plucky-squire.json",
+  "tags": [
+    "indie"
+  ]
 }

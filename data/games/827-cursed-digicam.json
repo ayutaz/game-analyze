@@ -20,5 +20,8 @@
   "concept": "夜の公園を歩きながらデジカメで恋人の霊を捉えていく、Fatal Frame系の写真撮影ホラー。Chilla's ArtのUE5移行第一弾として、これまでのPS1風ローファイ路線から一転、現代的なリアル質感の日本ホラーへと進化した。",
   "target": "Chilla's Art作品のファン、零（Fatal Frame）系フォトホラーの愛好者、Japanese mundane horror / 都市伝説実況を好む配信視聴者層。",
   "slug": "cursed-digicam",
-  "file": "data/games/827-cursed-digicam.json"
+  "file": "data/games/827-cursed-digicam.json",
+  "tags": [
+    "indie"
+  ]
 }

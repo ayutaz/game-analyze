@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Commercial follow-up to The Eight Pages; the canonical Slender Man video-game story and survival-horror benchmark.",
   "slug": "slender-the-arrival",
-  "file": "data/games/688-slender-the-arrival.json"
+  "file": "data/games/688-slender-the-arrival.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -23,5 +23,8 @@
   "social_axis": "ソロ",
   "popularity": "Two-developer indie hit blending XCOM-like combat with Mount & Blade economy; long-tail RPG classic.",
   "slug": "battle-brothers",
-  "file": "data/games/311-battle-brothers.json"
+  "file": "data/games/311-battle-brothers.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -25,5 +25,8 @@
   "concept": "天から落ちた「天上の子（ソーリアン）」が、日本の妖怪伝承の世界を旅する手描き2.5Dメトロイドヴァニア。傘や扇を使った空中ダッシュ／壁反射などのロコモーションを軸に、和風フォークロアの世界を流麗に駆け抜ける。",
   "target": "Hollow Knight / Ori シリーズを愛好するメトロイドヴァニア・コアプレイヤー、和風アートや浮世絵調ビジュアルを好む層、アクションの操作感重視のプラットフォーマー愛好家。",
   "slug": "bo-path-of-the-teal-lotus",
-  "file": "data/games/850-bo-path-of-the-teal-lotus.json"
+  "file": "data/games/850-bo-path-of-the-teal-lotus.json",
+  "tags": [
+    "indie"
+  ]
 }

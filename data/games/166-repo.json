@@ -18,5 +18,8 @@
   "slug": "repo",
   "file": "data/games/166-repo.json",
   "concept": "最大6人で遺跡からオブジェクトを物理演算で慎重に回収する協力ホラー。Lethal Companyの系譜にある「笑える系Co-opホラー」を、繊細な物理運搬という独自軸で再構築した低価格インディー。",
-  "target": "配信・VC前提でワイワイ遊ぶPCゲーマー、Lethal Companyやファズン等の協力ホラー経験者。20-30代の配信視聴層と重なる。"
+  "target": "配信・VC前提でワイワイ遊ぶPCゲーマー、Lethal Companyやファズン等の協力ホラー経験者。20-30代の配信視聴層と重なる。",
+  "tags": [
+    "indie"
+  ]
 }

@@ -20,5 +20,8 @@
   "concept": "3人のスクワッドを同時操作し、クラス相性とスキル組合せで波状の敵を捌くVampire Survivors系オートシューター。",
   "target": "Vampire Survivorsをやり込んだ後に、より戦略的・編成的な深みを求めるロガライト/オートシュータープレイヤー。",
   "slug": "yet-another-zombie-survivors",
-  "file": "data/games/845-yet-another-zombie-survivors.json"
+  "file": "data/games/845-yet-another-zombie-survivors.json",
+  "tags": [
+    "indie"
+  ]
 }

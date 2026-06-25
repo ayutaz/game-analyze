@@ -691,6 +691,33 @@ describe('facet.html — bug-hunt regression', () => {
     }
   });
 
+  it('tags_indie_filter_shows_indie_only', async () => {
+    // tags=indie 絞り込みで indie タグ付きの件数になり、メジャーが混入しないこと。
+    const index = await readIndex();
+    const expectedIndie = index.games.filter(
+      (g) => (g.tags || []).includes('indie'),
+    ).length;
+    assert.ok(expectedIndie >= 250 && expectedIndie <= 400,
+      `indie 件数想定 250-400 を外れている: ${expectedIndie}`);
+
+    const dom = await bootFacet();
+    const win = dom.window;
+    try {
+      const row = filterRow(win, 'tags', 'indie');
+      assert.ok(row, 'filter-row[data-val="indie"] が存在すること');
+      row.querySelector('input').click();
+      await tick(win, 20);
+      assert.equal(cards(win).length, expectedIndie,
+        `tags=indie 単独で indie 件数 ${expectedIndie} になること`);
+
+      // ラベルに「インディーズ」（日本語表示）が出ていること
+      assert.ok(/インディーズ/.test(row.textContent),
+        'インディーズの日本語ラベルが描画されていること');
+    } finally {
+      dom.window.close();
+    }
+  });
+
   it('axis_filter_ignores_non_EXP_games', async () => {
     // Per CLAUDE.md social_axis is meaningful only for EXP. The fix gates
     // axis filtering on primary==='EXP' so that selecting 'ソロ' doesn't

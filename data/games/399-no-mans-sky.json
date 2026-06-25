@@ -23,5 +23,8 @@
   "social_axis": "ソロ",
   "popularity": "The textbook redemption arc — disastrous 2016 launch turned into a decade-long roadmap of free updates; standard reference for live-service-style indie revival.",
   "slug": "no-mans-sky",
-  "file": "data/games/399-no-mans-sky.json"
+  "file": "data/games/399-no-mans-sky.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -24,5 +24,8 @@
   "concept": "銃と斧と魔法をリズミカルに繋ぐ「ガンソウル」型コンバットを核にした、コンパクトでテンポの良いオープンワールドソウルライク。",
   "target": "死にゲーの達成感は欲しいがフロムソフトウェア系の重さは敬遠したい層、Ashenのアートスタイルを評価したプレイヤー、Game Pass経由でAA級アクションを試したいユーザー。",
   "slug": "flintlock-the-siege-of-dawn",
-  "file": "data/games/881-flintlock-the-siege-of-dawn.json"
+  "file": "data/games/881-flintlock-the-siege-of-dawn.json",
+  "tags": [
+    "indie"
+  ]
 }

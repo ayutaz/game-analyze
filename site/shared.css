@@ -80,6 +80,12 @@ a { color: inherit; }
   border-radius: 4px;
   color: var(--text-dim);
 }
+.axis-tag.tag-indie {
+  background: #ecfeff;
+  border-color: #67e8f9;
+  color: #0e7490;
+  font-weight: 600;
+}
 
 .card {
   background: var(--surface);

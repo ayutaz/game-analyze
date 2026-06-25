@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Defining modern 50v50 WW2 PC milsim with strict realism and command/squad structure.",
   "slug": "hell-let-loose",
-  "file": "data/games/562-hell-let-loose.json"
+  "file": "data/games/562-hell-let-loose.json",
+  "tags": [
+    "indie"
+  ]
 }

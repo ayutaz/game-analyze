@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Grid-less organic medieval town-builder; left a five-year Early Access to strong critical reception (MC 84).",
   "slug": "foundation",
-  "file": "data/games/539-foundation.json"
+  "file": "data/games/539-foundation.json",
+  "tags": [
+    "indie"
+  ]
 }

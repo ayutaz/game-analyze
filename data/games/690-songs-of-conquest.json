@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Modern Heroes of Might & Magic-style revival; left EA May 2024 to acclaim. (Note: not platformer/metroidvania but explicitly requested.)",
   "slug": "songs-of-conquest",
-  "file": "data/games/690-songs-of-conquest.json"
+  "file": "data/games/690-songs-of-conquest.json",
+  "tags": [
+    "indie"
+  ]
 }

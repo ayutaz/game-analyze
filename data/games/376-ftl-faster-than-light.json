@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Indie milestone that mainstreamed roguelike strategy on PC and influenced a decade of imitators.",
   "slug": "ftl-faster-than-light",
-  "file": "data/games/376-ftl-faster-than-light.json"
+  "file": "data/games/376-ftl-faster-than-light.json",
+  "tags": [
+    "indie"
+  ]
 }

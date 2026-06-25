@@ -19,5 +19,8 @@
   "social_axis": "",
   "popularity": "Stylized 'Return 2 Games' love-letter to Diablo 1; adjustable session length innovation.",
   "slug": "book-of-demons",
-  "file": "data/games/470-book-of-demons.json"
+  "file": "data/games/470-book-of-demons.json",
+  "tags": [
+    "indie"
+  ]
 }

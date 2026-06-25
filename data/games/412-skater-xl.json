@@ -19,5 +19,8 @@
   "social_axis": "対戦",
   "popularity": "Indie skate-sim with huge mod scene; the original 'realistic skate' contender that filled the Skate void.",
   "slug": "skater-xl",
-  "file": "data/games/412-skater-xl.json"
+  "file": "data/games/412-skater-xl.json",
+  "tags": [
+    "indie"
+  ]
 }

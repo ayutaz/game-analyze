@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Quantic Dream's defining branching crime drama, ported to PC in 2019 via Epic, Steam 2020 — a foundational interactive film.",
   "slug": "heavy-rain",
-  "file": "data/games/561-heavy-rain.json"
+  "file": "data/games/561-heavy-rain.json",
+  "tags": [
+    "indie"
+  ]
 }

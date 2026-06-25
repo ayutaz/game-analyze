@@ -25,5 +25,8 @@
   "concept": "FF/SaGa の文法を 16bit ピクセルで愚直に再現したクラシック JRPG。4 主人公の独立した物語を任意順で進め、20-30 時間かけて 8 人パーティへ合流する独特の構成。戦闘は 4 名展開＋4 名リザーブの即時スワップ制。",
   "target": "90 年代 SNES JRPG（FF V/VI、クロノ・トリガー、ロマサガ）に親しんだ 30-40 代コアファン、および Chained Echoes / Sea of Stars に続くレトロ JRPG 復興の流れを追うインディー RPG ファン層。",
   "slug": "quartet",
-  "file": "data/games/915-quartet.json"
+  "file": "data/games/915-quartet.json",
+  "tags": [
+    "indie"
+  ]
 }

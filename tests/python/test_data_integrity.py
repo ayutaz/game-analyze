@@ -180,17 +180,9 @@ SOCIAL_AXIS_NON_EXP_ALLOWLIST: set = {
     (1025, "eversoul"),
 }
 
-# Current set of authored deep-analysis Markdown files. Most games do not
-# have one yet; CLAUDE.md notes "未作成なら『未分析』表示". This allowlist
-# documents the current state so the test still catches the *inverse* drift
-# (an analyses/*.md whose (id, slug) does not correspond to a real game).
-EXPECTED_ANALYSIS_STEMS: set = {
-    "001-animal-crossing-new-horizons",
-    "006-splatoon-3",
-    "020-monster-strike",
-    "066-persona-5-royal",
-    "076-elden-ring",
-}
+# 2026-06 以降、全 1025 件の分析 Markdown が揃っている。それ以前は手書きで
+# allowlist を保守していたが、現在は「全 games に対応する md がある」状態を
+# 担保するテストへ移行した（test_analysis_md_exists_or_documented_missing）。
 
 
 def _load_game_files() -> List[Tuple[Path, Dict[str, Any]]]:
@@ -425,6 +417,61 @@ class PerFileGameTests(unittest.TestCase):
                 self.assertNotEqual(g["target"].strip(), "",
                                     f"{path.name}: target is empty")
 
+    # --- tags / indie -----------------------------------------------------
+    ALLOWED_TAGS = {"indie"}
+
+    def test_tags_is_list_when_present(self):
+        for path, g in self.entries:
+            if "tags" in g:
+                self.assertIsInstance(g["tags"], list,
+                                      f"{path.name}: tags not list")
+                for t in g["tags"]:
+                    self.assertIsInstance(t, str,
+                                          f"{path.name}: tag not str ({t!r})")
+
+    def test_tags_only_known_values(self):
+        for path, g in self.entries:
+            for t in g.get("tags", []):
+                self.assertIn(t, self.ALLOWED_TAGS,
+                              f"{path.name}: unknown tag {t!r} "
+                              f"(allowed: {sorted(self.ALLOWED_TAGS)})")
+
+    def test_indie_count_within_expected_range(self):
+        """インディーズ判定件数が想定レンジ内であることを担保。
+        scripts/tag_indie.py の denylist/allowlist が壊れたとき検知する。
+        """
+        indie_n = sum(1 for _, g in self.entries
+                      if "indie" in (g.get("tags") or []))
+        self.assertGreaterEqual(indie_n, 250,
+                                f"indie 認定が少なすぎる: {indie_n}本（想定 280-360）")
+        self.assertLessEqual(indie_n, 400,
+                             f"indie 認定が多すぎる: {indie_n}本（想定 280-360）")
+
+    def test_indie_excludes_known_majors(self):
+        """大手 publisher 配下のタイトルが誤って indie タグ付けされていないか。"""
+        forbidden_publishers = {
+            "任天堂", "Nintendo",
+            "Square Enix", "スクエニ", "スクウェア・エニックス",
+            "Capcom", "カプコン",
+            "Sega", "SEGA",
+            "Atlus", "アトラス",
+            "Bandai Namco", "バンダイナムコエンターテインメント", "バンナム",
+            "Konami", "KONAMI",
+            "Ubisoft", "EA", "Electronic Arts",
+            "Activision", "Blizzard Entertainment", "Rockstar Games", "2K Games",
+            "Bethesda Softworks", "Xbox Game Studios", "SIE",
+            "Cygames", "Supercell", "Riot Games", "Epic Games",
+            "Pearl Abyss", "Devsisters", "Lilith Games", "Moonton",
+            "NetEase Games", "HoYoverse",
+        }
+        violations = []
+        for path, g in self.entries:
+            if "indie" in (g.get("tags") or []):
+                if g.get("publisher") in forbidden_publishers:
+                    violations.append(f"{path.name} (pub={g['publisher']})")
+        self.assertEqual(violations, [],
+                         f"大手 publisher なのに indie タグ付き: {violations}")
+
 
 class AnalysesTests(unittest.TestCase):
     """Cross-checks between data/games/ and data/analyses/."""
@@ -434,21 +481,17 @@ class AnalysesTests(unittest.TestCase):
         cls.entries = _load_game_files()
 
     def test_analysis_md_exists_or_documented_missing(self):
-        """For each game, either the analysis MD exists OR its absence is
-        explicitly allowed (CLAUDE.md notes most games are intentionally
-        unanalysed). The allowlist is the *inverse*: every game whose
-        analysis exists must be in EXPECTED_ANALYSIS_STEMS.
+        """全 games に対応する分析 Markdown が存在することを担保。
+        2026-06 の一括生成で 1025/1025 揃ったので、欠落 = 退行とみなす。
         """
-        present_actual = set()
+        missing = []
         for path, g in self.entries:
             stem = f"{g['id']:03d}-{g['slug']}"
             md_path = ANALYSES_DIR / f"{stem}.md"
-            if md_path.exists():
-                present_actual.add(stem)
-        self.assertEqual(present_actual, EXPECTED_ANALYSIS_STEMS,
-                         "Authored analyses set drifted. "
-                         f"Found: {sorted(present_actual)}; "
-                         f"expected: {sorted(EXPECTED_ANALYSIS_STEMS)}")
+            if not md_path.exists():
+                missing.append(stem)
+        self.assertEqual(missing, [],
+                         f"分析 Markdown が欠けている: {missing}")
 
     def test_analyses_filename_matches_a_game(self):
         valid_stems = {f"{g['id']:03d}-{g['slug']}" for _, g in self.entries}
@@ -543,6 +586,17 @@ class IndexTests(unittest.TestCase):
         self.assertEqual(self.index["total"],
                          self.aggregate["meta"]["total_titles"],
                          "index.json.total != games.json.meta.total_titles")
+
+    def test_index_rows_carry_tags(self):
+        """site/facet.html のタグ絞り込みが動くよう、各行に tags が出ていること。"""
+        pf_by_id = {g["id"]: g for _, g in self.entries}
+        for row in self.index["games"]:
+            self.assertIn("tags", row,
+                          f"index.json row id={row['id']} missing 'tags' field")
+            self.assertIsInstance(row["tags"], list,
+                                  f"index.json id={row['id']} tags is not list")
+            self.assertEqual(row["tags"], pf_by_id[row["id"]].get("tags", []),
+                             f"index.json id={row['id']} tags drift vs per-file")
 
 
 class MetaTests(unittest.TestCase):

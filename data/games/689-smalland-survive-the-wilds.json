@@ -20,5 +20,8 @@
   "social_axis": "協力",
   "popularity": "Grounded-style 'tiny-people in giant nature' co-op survival that hit 1.0 in 2024; growing console+PC hybrid hit.",
   "slug": "smalland-survive-the-wilds",
-  "file": "data/games/689-smalland-survive-the-wilds.json"
+  "file": "data/games/689-smalland-survive-the-wilds.json",
+  "tags": [
+    "indie"
+  ]
 }

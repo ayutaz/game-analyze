@@ -22,5 +22,8 @@
   "social_axis": "対戦",
   "popularity": "2D side-scrolling MOBA that proved the genre could escape the standard top-down lane format.",
   "slug": "awesomenauts",
-  "file": "data/games/452-awesomenauts.json"
+  "file": "data/games/452-awesomenauts.json",
+  "tags": [
+    "indie"
+  ]
 }

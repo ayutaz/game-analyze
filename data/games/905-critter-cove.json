@@ -22,5 +22,8 @@
   "concept": "大洪水後の南海諸島を舞台に、漂流する動物たちを集めて町を再建するボート航行つきコージー・タウンビルディング・ライフシム。Stardew Valley的な日常運営とWind Waker的な海洋探索を融合。",
   "target": "Stardew Valley・あつ森・Spiritfarer・Wind Wakerなどに親しんだコージーゲーム／ライフシム愛好層。ポストアポカリプス設定でも穏やかな雰囲気を求めるプレイヤー。",
   "slug": "critter-cove",
-  "file": "data/games/905-critter-cove.json"
+  "file": "data/games/905-critter-cove.json",
+  "tags": [
+    "indie"
+  ]
 }

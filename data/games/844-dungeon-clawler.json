@@ -23,5 +23,8 @@
   "concept": "クレーンゲームでアイテムを掴んでデッキを組むローグライト・デッキビルダー。Slay the Spire 的な構築ループに「物理ドラフト」の偶然性と手触りを足した一作。",
   "target": "Slay the Spire / Balatro 系のローグライト・デッキビルダー愛好家、配信映えするインディー奇ゲーを好む層、ガチャ／クレーン的なランダム獲得快感を楽しむカジュアル層。",
   "slug": "dungeon-clawler",
-  "file": "data/games/844-dungeon-clawler.json"
+  "file": "data/games/844-dungeon-clawler.json",
+  "tags": [
+    "indie"
+  ]
 }

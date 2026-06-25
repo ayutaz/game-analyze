@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Sequel modernizes engine and design; remains a flagship of the satisfying-chore sim category.",
   "slug": "house-flipper-2",
-  "file": "data/games/575-house-flipper-2.json"
+  "file": "data/games/575-house-flipper-2.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Spanish-Catholic horror aesthetic gave the metroidvania scene a distinctive cultural angle.",
   "slug": "blasphemous",
-  "file": "data/games/466-blasphemous.json"
+  "file": "data/games/466-blasphemous.json",
+  "tags": [
+    "indie"
+  ]
 }

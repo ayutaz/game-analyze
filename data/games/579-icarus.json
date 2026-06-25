@@ -16,5 +16,8 @@
   "social_axis": "協力",
   "popularity": "Dean Hall's session-based survival experiment with timed extraction; a controversial but distinctive entry by the DayZ creator.",
   "slug": "icarus",
-  "file": "data/games/579-icarus.json"
+  "file": "data/games/579-icarus.json",
+  "tags": [
+    "indie"
+  ]
 }

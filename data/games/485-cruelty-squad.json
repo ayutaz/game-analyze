@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Cult anti-aesthetic immersive sim; reframed the genre for the post-2020 indie scene.",
   "slug": "cruelty-squad",
-  "file": "data/games/485-cruelty-squad.json"
+  "file": "data/games/485-cruelty-squad.json",
+  "tags": [
+    "indie"
+  ]
 }

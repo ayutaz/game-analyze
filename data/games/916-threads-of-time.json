@@ -21,5 +21,8 @@
   "concept": "原始時代から遠未来まで時を渡るパーティが、Chrono Trigger 直系のチェーンコンボとタイムラインギミックを駆使して戦う、Unreal Engine 5 製の 2.5D ピクセルアート ターン制 JRPG。",
   "target": "Chrono Trigger / FF6 / Octopath Traveler を原体験に持ち、Chained Echoes・Sea of Stars 系の「16/32bit JRPG ノスタルジア＋現代 QoL」インディーを追う 30-40 代 JRPG ファン。",
   "slug": "threads-of-time",
-  "file": "data/games/916-threads-of-time.json"
+  "file": "data/games/916-threads-of-time.json",
+  "tags": [
+    "indie"
+  ]
 }

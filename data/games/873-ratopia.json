@@ -20,5 +20,8 @@
   "concept": "プレイヤーは女王ネズミとして地下に都市を掘り広げ、市民の労働・税制・通貨流通・公共政策まで設計しながら持続可能な経済社会を構築する2D横スクロール型コロニーシム。",
   "target": "Rimworld / Dwarf Fortress / Oxygen Not Included を遊び込み、戦闘より「制度設計と経済バランス」に没頭したい管理系シム愛好家。",
   "slug": "ratopia",
-  "file": "data/games/873-ratopia.json"
+  "file": "data/games/873-ratopia.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -17,5 +17,8 @@
   "social_axis": "ソロ",
   "popularity": "Unique multiplayer where players must build civilization while preventing ecological collapse and an incoming meteor — taught in classrooms.",
   "slug": "eco",
-  "file": "data/games/520-eco.json"
+  "file": "data/games/520-eco.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "協力",
   "popularity": "Procedural cave PVE that became the gold-standard hangout-co-op shooter of the decade.",
   "slug": "deep-rock-galactic",
-  "file": "data/games/501-deep-rock-galactic.json"
+  "file": "data/games/501-deep-rock-galactic.json",
+  "tags": [
+    "indie"
+  ]
 }

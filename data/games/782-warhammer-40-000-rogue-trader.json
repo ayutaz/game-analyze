@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "First true 40K CRPG; Owlcat's fastest-selling title and a breakthrough for the studio.",
   "slug": "warhammer-40-000-rogue-trader",
-  "file": "data/games/782-warhammer-40-000-rogue-trader.json"
+  "file": "data/games/782-warhammer-40-000-rogue-trader.json",
+  "tags": [
+    "indie"
+  ]
 }

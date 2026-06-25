@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Pixel-art indie ARPG that 1.0-launched in 2025 with stupendous depth (200+ skills/class), a fresh PoE-style theorycrafting cult.",
   "slug": "the-slormancer",
-  "file": "data/games/738-the-slormancer.json"
+  "file": "data/games/738-the-slormancer.json",
+  "tags": [
+    "indie"
+  ]
 }

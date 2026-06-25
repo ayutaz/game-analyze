@@ -184,6 +184,7 @@ class BuildAggregateRealDataTests(unittest.TestCase):
             "popularity",
             "concept",
             "target",
+            "tags",
             "file",
         }
         for row in self.index["games"]:

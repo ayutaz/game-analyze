@@ -25,5 +25,8 @@
   "concept": "ギリシャ神話の島で記憶喪失の神々と友達になり、トリンケット集めと対話で島の謎を解いていく戦闘なしの探索アドベンチャー。",
   "target": "『RÖKI』『A Short Hike』『Spiritfarer』『Tchia』を好む cozy / 探索系プレイヤー、ギリシャ神話・記憶喪失モチーフが好きな層、10時間前後で気持ちよく終わる物語体験を求める層。",
   "slug": "mythwrecked-ambrosia-island",
-  "file": "data/games/904-mythwrecked-ambrosia-island.json"
+  "file": "data/games/904-mythwrecked-ambrosia-island.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Sequel to the breakout 2016 bridge-builder; one of the most popular physics sandbox puzzlers on Steam.",
   "slug": "poly-bridge-2",
-  "file": "data/games/400-poly-bridge-2.json"
+  "file": "data/games/400-poly-bridge-2.json",
+  "tags": [
+    "indie"
+  ]
 }

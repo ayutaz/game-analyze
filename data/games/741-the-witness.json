@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Jonathan Blow's eight-year line-puzzle island became a defining first-person logic puzzle game of the 2010s.",
   "slug": "the-witness",
-  "file": "data/games/741-the-witness.json"
+  "file": "data/games/741-the-witness.json",
+  "tags": [
+    "indie"
+  ]
 }

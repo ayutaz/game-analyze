@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-developed mining sandbox that turned into a sleeper hit; defined the chill 'YouTuber sandbox tycoon' lane.",
   "slug": "hydroneer",
-  "file": "data/games/577-hydroneer.json"
+  "file": "data/games/577-hydroneer.json",
+  "tags": [
+    "indie"
+  ]
 }

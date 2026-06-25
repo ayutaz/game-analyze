@@ -24,5 +24,8 @@
   "slug": "norco",
   "file": "data/games/277-norco.json",
   "concept": "ルイジアナ州ノルコを舞台に、消えた弟を探す姉キャットが石油精製所と教団と廃墟を彷徨うサザンゴシックなポイント＆クリック・アドベンチャー。気候崩壊と産業の腐敗を背景に、土着の神秘と近未来サイバーパンクが混ざる文学的ビジュアルノベル。",
-  "target": "Disco Elysium／Citizen Sleeper／Kentucky Route Zero に惹かれる、文学的なテキスト密度と地域固有の空気感を味わいたい大人プレイヤー層。賞・批評で「読むゲーム」を見つけたい層に刺さる。"
+  "target": "Disco Elysium／Citizen Sleeper／Kentucky Route Zero に惹かれる、文学的なテキスト密度と地域固有の空気感を味わいたい大人プレイヤー層。賞・批評で「読むゲーム」を見つけたい層に刺さる。",
+  "tags": [
+    "indie"
+  ]
 }

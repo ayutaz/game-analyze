@@ -22,5 +22,8 @@
   "concept": "信仰・罪・疎外をテーマに、悪魔を道連れにする若き修道女インディカの内省的な旅を、章ごとに異なる視覚スタイルとレトロ風ミニゲームで描くシュール・ナラティブ。",
   "target": "物語重視のアートゲーム好き、Pathologic / Mundaun / Disco Elysium 系の重い文学的ゲームを好む層。",
   "slug": "indika",
-  "file": "data/games/868-indika.json"
+  "file": "data/games/868-indika.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -15,5 +15,8 @@
   "slug": "phasmophobia",
   "file": "data/games/084-phasmophobia.json",
   "concept": "4人協力で幽霊の正体を調査する一人称ホラー、ボイスチャットでの会話自体がゲーム機構に組み込まれている。",
-  "target": "20-30代、友達同士でホラーを共有したい配信視聴層。"
+  "target": "20-30代、友達同士でホラーを共有したい配信視聴層。",
+  "tags": [
+    "indie"
+  ]
 }

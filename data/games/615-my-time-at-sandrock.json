@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Sequel deepens the workshop/town sim formula; one of the most successful Chinese indies on Steam.",
   "slug": "my-time-at-sandrock",
-  "file": "data/games/615-my-time-at-sandrock.json"
+  "file": "data/games/615-my-time-at-sandrock.json",
+  "tags": [
+    "indie"
+  ]
 }

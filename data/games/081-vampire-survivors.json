@@ -16,5 +16,8 @@
   "slug": "vampire-survivors",
   "file": "data/games/081-vampire-survivors.json",
   "concept": "「攻撃ボタンを押さない」自動戦闘ローグライクで、シンプル極まる中毒性を生んだ2022年のSteamインディー大ヒット。",
-  "target": "10-30代、Steam低価格インディー文化、隙間時間で「ボーナス報酬」を浴びたい層。"
+  "target": "10-30代、Steam低価格インディー文化、隙間時間で「ボーナス報酬」を浴びたい層。",
+  "tags": [
+    "indie"
+  ]
 }

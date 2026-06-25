@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Steampunk zombie RTS that demonstrated single-player RTS was still commercially viable in the late 2010s.",
   "slug": "they-are-billions",
-  "file": "data/games/743-they-are-billions.json"
+  "file": "data/games/743-they-are-billions.json",
+  "tags": [
+    "indie"
+  ]
 }

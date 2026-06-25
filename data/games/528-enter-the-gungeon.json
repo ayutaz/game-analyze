@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Defined the 'gun-themed bullet hell roguelite' and one of Devolver's biggest hits.",
   "slug": "enter-the-gungeon",
-  "file": "data/games/528-enter-the-gungeon.json"
+  "file": "data/games/528-enter-the-gungeon.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-dev abstract Factorio; minimalist visuals made the conveyor-belt genre accessible to a broader audience.",
   "slug": "shapez",
-  "file": "data/games/321-shapez.json"
+  "file": "data/games/321-shapez.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "Open-source factory/TD hybrid; one of the most positively reviewed games on Steam and a model for FOSS-meets-Steam coexistence.",
   "slug": "mindustry",
-  "file": "data/games/318-mindustry.json"
+  "file": "data/games/318-mindustry.json",
+  "tags": [
+    "indie"
+  ]
 }

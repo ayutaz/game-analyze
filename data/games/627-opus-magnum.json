@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Zachtronics' most accessible and visually elegant programming puzzle, widely held as their masterpiece.",
   "slug": "opus-magnum",
-  "file": "data/games/627-opus-magnum.json"
+  "file": "data/games/627-opus-magnum.json",
+  "tags": [
+    "indie"
+  ]
 }

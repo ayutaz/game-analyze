@@ -20,5 +20,8 @@
   "social_axis": "",
   "popularity": "First open-world 40K ARPG; persistent campaign with seasonal Tarot system, by Van Helsing devs.",
   "slug": "warhammer-40-000-inquisitor-martyr",
-  "file": "data/games/780-warhammer-40-000-inquisitor-martyr.json"
+  "file": "data/games/780-warhammer-40-000-inquisitor-martyr.json",
+  "tags": [
+    "indie"
+  ]
 }

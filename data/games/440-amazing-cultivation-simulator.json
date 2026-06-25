@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Cult Chinese Rimworld-meets-xianxia hybrid that built a steady Western niche.",
   "slug": "amazing-cultivation-simulator",
-  "file": "data/games/440-amazing-cultivation-simulator.json"
+  "file": "data/games/440-amazing-cultivation-simulator.json",
+  "tags": [
+    "indie"
+  ]
 }

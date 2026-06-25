@@ -24,5 +24,8 @@
   "social_axis": "ソロ",
   "popularity": "Re-release of Eric Chahi's 1991 art-game; still cited as a foundational cinematic platformer.",
   "slug": "another-world-20th-anniversary-edition",
-  "file": "data/games/445-another-world-20th-anniversary-edition.json"
+  "file": "data/games/445-another-world-20th-anniversary-edition.json",
+  "tags": [
+    "indie"
+  ]
 }

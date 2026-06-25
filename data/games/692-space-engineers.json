@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "Voxel + rigid-body physics sandbox where ship/base engineering is the entire point; long-running Early-Access success.",
   "slug": "space-engineers",
-  "file": "data/games/692-space-engineers.json"
+  "file": "data/games/692-space-engineers.json",
+  "tags": [
+    "indie"
+  ]
 }

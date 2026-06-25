@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Klei's deep simulation of pressurised gas/liquid/thermal systems redefined the colony-sim subgenre.",
   "slug": "oxygen-not-included",
-  "file": "data/games/632-oxygen-not-included.json"
+  "file": "data/games/632-oxygen-not-included.json",
+  "tags": [
+    "indie"
+  ]
 }

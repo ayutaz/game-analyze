@@ -18,5 +18,8 @@
   "slug": "tiny-glade",
   "file": "data/games/258-tiny-glade.json",
   "concept": "城や小屋をブラシで撫でるように築き、石壁・蔦・屋根が自動で破綻なく馴染んでいく非ゲーム的サンドボックス。クリア条件もスコアもなく、ジオラマを愛でる行為そのものが目的。",
-  "target": "Townscaper や Dorfromantik を好む建築・ジオラマ好き、競争や進行管理に疲れたプレイヤー、SNS用に美しい風景を作りたい層。"
+  "target": "Townscaper や Dorfromantik を好む建築・ジオラマ好き、競争や進行管理に疲れたプレイヤー、SNS用に美しい風景を作りたい層。",
+  "tags": [
+    "indie"
+  ]
 }

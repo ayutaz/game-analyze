@@ -24,5 +24,8 @@
   "slug": "needy-streamer-overload",
   "file": "data/games/123-needy-streamer-overload.json",
   "concept": "配信者「あめちゃん」をプロデュースし、メンタルを管理しながらフォロワー100万人を目指すADV。SNS依存・承認欲求・病み文化を題材にした分岐型ノベルで、マルチエンディングと過激な演出で話題化した。",
-  "target": "SNS・配信文化に親和性の高い10〜20代、地下系／メンヘラ表現を好む層、Vtuber・実況視聴者に重なる若年層。"
+  "target": "SNS・配信文化に親和性の高い10〜20代、地下系／メンヘラ表現を好む層、Vtuber・実況視聴者に重なる若年層。",
+  "tags": [
+    "indie"
+  ]
 }

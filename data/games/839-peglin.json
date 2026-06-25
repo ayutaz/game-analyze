@@ -23,5 +23,8 @@
   "concept": "Peggleの物理パチンコ落下とSlay the Spire式デッキ構築を融合したローグライト。オーブ＝カードを集め、ペグを破壊してダメージを与える独自設計。",
   "target": "Slay the Spire系デッキビルダー愛好者と、Peggleのような物理アクションを好むカジュアル層の双方に刺さるクロスオーバー層。",
   "slug": "peglin",
-  "file": "data/games/839-peglin.json"
+  "file": "data/games/839-peglin.json",
+  "tags": [
+    "indie"
+  ]
 }

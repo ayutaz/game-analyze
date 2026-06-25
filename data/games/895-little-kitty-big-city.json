@@ -25,5 +25,8 @@
   "concept": "小さな子猫の視点で都市を彷徨い、住人を手助けしたり悪戯したりしながら家路を目指す、低ストレスの3Dオープンワールド・サンドボックス。",
   "target": "Stray・あつ森系のコージーゲーム愛好者、猫好き、短時間で完走できる癒し系インディーを探すライト層、ストリーミング配信視聴者。",
   "slug": "little-kitty-big-city",
-  "file": "data/games/895-little-kitty-big-city.json"
+  "file": "data/games/895-little-kitty-big-city.json",
+  "tags": [
+    "indie"
+  ]
 }

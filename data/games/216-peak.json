@@ -18,5 +18,8 @@
   "slug": "peak",
   "file": "data/games/216-peak.json",
   "concept": "最大4人で奇怪な島の山頂を目指して登攀する協力サバイバル。スタミナ管理・落下・装備共有・即死リスクが生むドタバタ劇が、配信・実況映えする「失敗が一番面白い」体験を作り出す。",
-  "target": "『Lethal Company』『Content Warning』など低価格×Discord通話前提のワイワイ協力ゲームを好む層。配信で見て真似したくなる「滑落ネタ」中心のプレイヤー。"
+  "target": "『Lethal Company』『Content Warning』など低価格×Discord通話前提のワイワイ協力ゲームを好む層。配信で見て真似したくなる「滑落ネタ」中心のプレイヤー。",
+  "tags": [
+    "indie"
+  ]
 }

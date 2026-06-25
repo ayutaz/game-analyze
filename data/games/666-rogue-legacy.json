@@ -23,5 +23,8 @@
   "social_axis": "ソロ",
   "popularity": "Codified 'hereditary meta-progression' for an entire generation of roguelites.",
   "slug": "rogue-legacy",
-  "file": "data/games/666-rogue-legacy.json"
+  "file": "data/games/666-rogue-legacy.json",
+  "tags": [
+    "indie"
+  ]
 }

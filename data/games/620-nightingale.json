@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Aaryn Flynn (ex-BioWare GM) studio's Victorian-fae survival; high-profile EA launch testing whether AA survival can compete in 2024+.",
   "slug": "nightingale",
-  "file": "data/games/620-nightingale.json"
+  "file": "data/games/620-nightingale.json",
+  "tags": [
+    "indie"
+  ]
 }

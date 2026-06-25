@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "Genre-fusion classic — rhythm meets roguelike, spawning the Cadence of Hyrule crossover.",
   "slug": "crypt-of-the-necrodancer",
-  "file": "data/games/488-crypt-of-the-necrodancer.json"
+  "file": "data/games/488-crypt-of-the-necrodancer.json",
+  "tags": [
+    "indie"
+  ]
 }

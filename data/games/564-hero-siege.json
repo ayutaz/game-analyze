@@ -21,5 +21,8 @@
   "social_axis": "",
   "popularity": "Long-running pixel ARPG with seasons and a player-driven economy; cult go-to budget Diablo-like.",
   "slug": "hero-siege",
-  "file": "data/games/564-hero-siege.json"
+  "file": "data/games/564-hero-siege.json",
+  "tags": [
+    "indie"
+  ]
 }

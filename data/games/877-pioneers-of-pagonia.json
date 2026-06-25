@@ -20,5 +20,8 @@
   "concept": "中世ファンタジー世界で経済チェーンを自動化しながら島々を開拓する、Settlers系譜のチル系シティビルダー。",
   "target": "旧Settlersファン、Anno / Banished など経済シミュ・コロニービルダー愛好家。",
   "slug": "pioneers-of-pagonia",
-  "file": "data/games/877-pioneers-of-pagonia.json"
+  "file": "data/games/877-pioneers-of-pagonia.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -26,5 +26,8 @@
   "concept": "カセットテープに怪物を録音して使役する、レトロJRPG感覚のモダン・モンスターコレクトRPG。タイプ融合と二人乗り戦闘で戦術に新味を加えた。",
   "target": "ポケモン／真・女神転生／ドラクエモンスターズなど旧世代モンスター捕獲RPGを愛するゲーマー、レトロピクセル＋現代QoLを求めるインディーRPGファン。",
   "slug": "cassette-beasts",
-  "file": "data/games/912-cassette-beasts.json"
+  "file": "data/games/912-cassette-beasts.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -19,5 +19,8 @@
   "social_axis": "",
   "popularity": "Acclaimed mental-illness representation through binaural audio; redefined 'independent AAA' narrative-action.",
   "slug": "hellblade-senuas-sacrifice",
-  "file": "data/games/563-hellblade-senuas-sacrifice.json"
+  "file": "data/games/563-hellblade-senuas-sacrifice.json",
+  "tags": [
+    "indie"
+  ]
 }

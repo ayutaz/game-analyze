@@ -22,5 +22,8 @@
   "concept": "イタリア発、コメディア・デッラルテのマスク文化を戦闘システムに組み込んだ「明るい色彩のソウルライク」。",
   "target": "SEKIRO/Lies of P/Lords of the Fallen 等のソウルライクを愛好し、新興スタジオの野心作や非北欧的なアートディレクションを求めるアクションRPGファン。",
   "slug": "enotria-the-last-song",
-  "file": "data/games/880-enotria-the-last-song.json"
+  "file": "data/games/880-enotria-the-last-song.json",
+  "tags": [
+    "indie"
+  ]
 }

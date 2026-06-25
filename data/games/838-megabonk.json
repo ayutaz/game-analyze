@@ -20,5 +20,8 @@
   "concept": "2D見下ろしが主流だったVS系を3D空間に再構築し、敵の波を縦横に駆け回りながら殲滅する高速ローグライト。短時間ランとミーム性で「次のVampire Survivors」と評される。",
   "target": "Vampire Survivors / Brotato / Halls of Torment 系のオートシューター好き、ストリーマー文化に乗りやすいPCゲーマー、短時間で強くなる快感を求めるプレイヤー。",
   "slug": "megabonk",
-  "file": "data/games/838-megabonk.json"
+  "file": "data/games/838-megabonk.json",
+  "tags": [
+    "indie"
+  ]
 }

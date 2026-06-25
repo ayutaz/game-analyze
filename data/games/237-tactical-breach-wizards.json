@@ -20,5 +20,8 @@
   "slug": "tactical-breach-wizards",
   "file": "data/games/237-tactical-breach-wizards.json",
   "concept": "SWAT風の突入戦術と魔法を融合した、巻き戻し可能なターン制タクティクス。短く小気味よい1ミッションで「ウィザード突撃部隊」を組み立て、敵を窓から蹴り出す爽快な手筋構築を楽しむ。",
-  "target": "XCOMやInto the Breachのような詰将棋的戦術ゲームを好み、軽妙なバディものの会話劇込みで遊びたい層。短時間プレイ向きで戦術ゲーム入門にも適する。"
+  "target": "XCOMやInto the Breachのような詰将棋的戦術ゲームを好み、軽妙なバディものの会話劇込みで遊びたい層。短時間プレイ向きで戦術ゲーム入門にも適する。",
+  "tags": [
+    "indie"
+  ]
 }

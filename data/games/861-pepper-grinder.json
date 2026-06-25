@@ -19,5 +19,8 @@
   "concept": "ドリルで地面に潜り、慣性を活かして地中を泳ぎ、勢いそのまま空中へ飛び出す——掘削＝移動という新感覚2Dアクション。",
   "target": "短時間で濃密な手触りのインディーアクションを求める2D platformer愛好家、Devolver系小品ファン。",
   "slug": "pepper-grinder",
-  "file": "data/games/861-pepper-grinder.json"
+  "file": "data/games/861-pepper-grinder.json",
+  "tags": [
+    "indie"
+  ]
 }

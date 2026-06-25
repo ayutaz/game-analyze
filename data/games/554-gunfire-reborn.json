@@ -23,5 +23,8 @@
   "social_axis": "協力",
   "popularity": "Best-selling 4-player co-op FPS roguelite; massive in Asia and Steam.",
   "slug": "gunfire-reborn",
-  "file": "data/games/554-gunfire-reborn.json"
+  "file": "data/games/554-gunfire-reborn.json",
+  "tags": [
+    "indie"
+  ]
 }

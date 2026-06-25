@@ -27,5 +27,8 @@
   "concept": "Sigur Rósの音楽とともにムーミン谷を旅し、自然の調和を取り戻すコージーな音楽アドベンチャー。スナフキンが主人公となり、フィールドの音色と対話で「公園化」を企む新興企業に静かに抵抗していく。",
   "target": "ムーミンIPファン、Sigur Rós／北欧音楽好き、A Short Hike や Cozy Grove のようなゆるやかな探索ゲームを好む層。短時間でリラックスしたい大人向けインディー。",
   "slug": "snufkin-melody-of-moominvalley",
-  "file": "data/games/896-snufkin-melody-of-moominvalley.json"
+  "file": "data/games/896-snufkin-melody-of-moominvalley.json",
+  "tags": [
+    "indie"
+  ]
 }

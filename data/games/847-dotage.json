@@ -20,5 +20,8 @@
   "concept": "ボードゲーム由来のワーカー配置と災害ローグライトを融合し、村長として終末預言に抗うターン制ピクセル村建設シム。",
   "target": "Against the Storm / Banished / Frostpunk 系の高難度コロニーシムや、ターン制ローグライト戦略を好む PC ストラテジーゲーマー。",
   "slug": "dotage",
-  "file": "data/games/847-dotage.json"
+  "file": "data/games/847-dotage.json",
+  "tags": [
+    "indie"
+  ]
 }

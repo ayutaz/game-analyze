@@ -16,5 +16,8 @@
   "social_axis": "協力",
   "popularity": "The original 6-player co-op zombie/Specimens shooter that grew out of a UT2004 mod and birthed the entire franchise.",
   "slug": "killing-floor-classic",
-  "file": "data/games/588-killing-floor-classic.json"
+  "file": "data/games/588-killing-floor-classic.json",
+  "tags": [
+    "indie"
+  ]
 }

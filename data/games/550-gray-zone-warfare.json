@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Largest Tarkov-style PvPvE breakout of 2024; open-world tactical extraction with 32-player servers.",
   "slug": "gray-zone-warfare",
-  "file": "data/games/550-gray-zone-warfare.json"
+  "file": "data/games/550-gray-zone-warfare.json",
+  "tags": [
+    "indie"
+  ]
 }

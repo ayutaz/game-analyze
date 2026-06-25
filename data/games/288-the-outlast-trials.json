@@ -24,5 +24,8 @@
   "slug": "the-outlast-trials",
   "file": "data/games/288-the-outlast-trials.json",
   "concept": "冷戦期の人体実験を舞台に、1〜4人で謎の施設の「治験」を生き延びる協力サバイバルホラー。前作までのソロ恐怖体験を、仲間と叫び合うパーティ型恐怖へ転換した。",
-  "target": "フレンドと絶叫しながらビビり合いたい協力ホラー層、Phasmophobiaやレザニーカンパニーで配信を楽しむ層、Outlast前作のサバイバルホラーファン。"
+  "target": "フレンドと絶叫しながらビビり合いたい協力ホラー層、Phasmophobiaやレザニーカンパニーで配信を楽しむ層、Outlast前作のサバイバルホラーファン。",
+  "tags": [
+    "indie"
+  ]
 }

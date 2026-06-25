@@ -19,5 +19,8 @@
   "social_axis": "",
   "popularity": "Definitive expanded re-release of the metafictional landmark, beloved as a benchmark for narrative game design comedy.",
   "slug": "the-stanley-parable-ultra-deluxe",
-  "file": "data/games/739-the-stanley-parable-ultra-deluxe.json"
+  "file": "data/games/739-the-stanley-parable-ultra-deluxe.json",
+  "tags": [
+    "indie"
+  ]
 }

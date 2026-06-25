@@ -21,5 +21,8 @@
   "concept": "1次元グリッド上で刀剣チャンバラを繰り広げる、Into the Breach風先読み×デッキビルドのターン制ローグライト。",
   "target": "Into the Breachや Slay the Spire 系のターン制ローグライト愛好家、和風ピクセルアートと先読みパズル戦闘を好むコアゲーマー。",
   "slug": "shogun-showdown",
-  "file": "data/games/840-shogun-showdown.json"
+  "file": "data/games/840-shogun-showdown.json",
+  "tags": [
+    "indie"
+  ]
 }

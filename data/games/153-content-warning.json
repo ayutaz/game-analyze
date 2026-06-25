@@ -18,5 +18,8 @@
   "slug": "content-warning",
   "file": "data/games/153-content-warning.json",
   "concept": "最大4人で地下世界の怪物を撮影し動画投稿サイトでバズらせる協力ホラー。ボイチャ必須・撮影映像を見返して笑う構造で、プレイ自体が配信コンテンツとして成立する設計。",
-  "target": "PCゲーマー、ホラー配信視聴層、Lethal Company系の協力ホラーを楽しむ20-30代フレンドグループ。"
+  "target": "PCゲーマー、ホラー配信視聴層、Lethal Company系の協力ホラーを楽しむ20-30代フレンドグループ。",
+  "tags": [
+    "indie"
+  ]
 }

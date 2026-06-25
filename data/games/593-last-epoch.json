@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Indie ARPG that surprised the market in 2024 with deep skill specialization and offline mode; major Diablo IV/PoE alternative.",
   "slug": "last-epoch",
-  "file": "data/games/593-last-epoch.json"
+  "file": "data/games/593-last-epoch.json",
+  "tags": [
+    "indie"
+  ]
 }

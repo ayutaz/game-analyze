@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "Genre-defining 2D stealth game; still considered the format's gold standard.",
   "slug": "mark-of-the-ninja-remastered",
-  "file": "data/games/316-mark-of-the-ninja-remastered.json"
+  "file": "data/games/316-mark-of-the-ninja-remastered.json",
+  "tags": [
+    "indie"
+  ]
 }

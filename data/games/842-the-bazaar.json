@@ -20,5 +20,8 @@
   "concept": "ショップフェーズでアイテムを買い揃え、対戦相手のビルドのスナップショットと非同期で自動戦闘させる、PvE探索とPvPランクが融合したオートバトラー・ローグライト・デッキビルダー。",
   "target": "Hearthstone Battlegrounds / TFT / Slay the Spire / Super Auto Pets を遊んできた配信視聴層およびオートバトラー競技プレイヤー。",
   "slug": "the-bazaar",
-  "file": "data/games/842-the-bazaar.json"
+  "file": "data/games/842-the-bazaar.json",
+  "tags": [
+    "indie"
+  ]
 }

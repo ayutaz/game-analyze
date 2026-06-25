@@ -22,5 +22,8 @@
   "slug": "soulstone-survivors",
   "file": "data/games/247-soulstone-survivors.json",
   "concept": "2Dで爆発的に流行した「Survivor-like」を3D ARPG視点に再構築し、無数の敵を薙ぎ払うパワーファンタジーに、深いスキル合成とビルド構築の戦略性を組み合わせたローグライト。",
-  "target": "Vampire Survivors系の脳汁出る殲滅快感を求めつつ、Diablo系のスキルツリー／ビルド組みも楽しみたい層。短時間でランを回しながら何百時間でもビルドを試行錯誤するハクスラ気質のプレイヤーに最適。"
+  "target": "Vampire Survivors系の脳汁出る殲滅快感を求めつつ、Diablo系のスキルツリー／ビルド組みも楽しみたい層。短時間でランを回しながら何百時間でもビルドを試行錯誤するハクスラ気質のプレイヤーに最適。",
+  "tags": [
+    "indie"
+  ]
 }

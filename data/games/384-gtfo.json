@@ -16,5 +16,8 @@
   "social_axis": "協力",
   "popularity": "Hyper-difficult 4-player co-op stealth-horror shooter; cult hit that pushed the genre toward 'extraction-horror' territory.",
   "slug": "gtfo",
-  "file": "data/games/384-gtfo.json"
+  "file": "data/games/384-gtfo.json",
+  "tags": [
+    "indie"
+  ]
 }

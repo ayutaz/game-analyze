@@ -23,5 +23,8 @@
   "concept": "ヤドカリの少年クラブが故郷を取り戻すため、ゴミだらけの海底世界を貝殻装備で戦い抜く海中ソウルライク。",
   "target": "ソウルライクを遊びたいが超高難易度に怯んでいた層、可愛い見た目とブラックユーモアを両立した作品を求めるインディーファン。",
   "slug": "another-crabs-treasure",
-  "file": "data/games/879-another-crabs-treasure.json"
+  "file": "data/games/879-another-crabs-treasure.json",
+  "tags": [
+    "indie"
+  ]
 }

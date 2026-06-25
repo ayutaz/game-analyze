@@ -21,5 +21,8 @@
   "social_axis": "",
   "popularity": "Bosnian-war-inspired civilian survival sim — adopted as Polish school reading material; a watershed for serious-game narrative.",
   "slug": "this-war-of-mine",
-  "file": "data/games/421-this-war-of-mine.json"
+  "file": "data/games/421-this-war-of-mine.json",
+  "tags": [
+    "indie"
+  ]
 }

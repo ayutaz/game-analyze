@@ -25,5 +25,8 @@
   "social_axis": "対戦",
   "popularity": "Procedural downhill MTB roguelite — defining 'extreme sports indie' of the late 2010s.",
   "slug": "descenders",
-  "file": "data/games/355-descenders.json"
+  "file": "data/games/355-descenders.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Spiritual successor to Project Reality; the go-to 50v50 modern milsim on PC for nearly a decade.",
   "slug": "squad",
-  "file": "data/games/696-squad.json"
+  "file": "data/games/696-squad.json",
+  "tags": [
+    "indie"
+  ]
 }

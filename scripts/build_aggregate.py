@@ -77,6 +77,7 @@ def main(repo_root: Optional[Union[str, Path]] = None) -> None:
             "popularity": g.get("popularity"),
             "concept": g.get("concept"),
             "target": g.get("target"),
+            "tags": g.get("tags", []),
             "file": g.get("file") or f"data/games/{path.name}",
         }
         for path, g in games

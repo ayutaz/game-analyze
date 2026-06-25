@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-developed FF5-job-system open-world JRPG with platforming exploration; overwhelmingly positive reviews.",
   "slug": "crystal-project",
-  "file": "data/games/492-crystal-project.json"
+  "file": "data/games/492-crystal-project.json",
+  "tags": [
+    "indie"
+  ]
 }

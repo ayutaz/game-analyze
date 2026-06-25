@@ -22,5 +22,8 @@
   "slug": "enshrouded",
   "file": "data/games/218-enshrouded.json",
   "concept": "霧（Shroud）に覆われた終末世界を最大16人で冒険する、協力型ボクセルサバイバルアクションRPG。Valheimの自由建築・MinecraftのボクセルにSouls系アクションを融合させた。",
-  "target": "ValheimやMinecraft、ARK風の協力サバイバル建築に物足りなさを感じ、より本格的なアクションRPG戦闘と縦に広がる地形探索を求めるPC/コンソールプレイヤー。フレンドと長期間ワールドを育てたい層。"
+  "target": "ValheimやMinecraft、ARK風の協力サバイバル建築に物足りなさを感じ、より本格的なアクションRPG戦闘と縦に広がる地形探索を求めるPC/コンソールプレイヤー。フレンドと長期間ワールドを育てたい層。",
+  "tags": [
+    "indie"
+  ]
 }

@@ -21,5 +21,8 @@
   "social_axis": "協力",
   "popularity": "Spell-combo focused fast-paced roguelite with co-op; sequel Wizard of Legend 2 is in development.",
   "slug": "wizard-of-legend",
-  "file": "data/games/789-wizard-of-legend.json"
+  "file": "data/games/789-wizard-of-legend.json",
+  "tags": [
+    "indie"
+  ]
 }

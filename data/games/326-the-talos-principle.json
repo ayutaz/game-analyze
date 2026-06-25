@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "Portal-like laser/box puzzles wrapped in a serious meditation on AI and consciousness — Croteam's pivot from Serious Sam that defined the genre.",
   "slug": "the-talos-principle",
-  "file": "data/games/326-the-talos-principle.json"
+  "file": "data/games/326-the-talos-principle.json",
+  "tags": [
+    "indie"
+  ]
 }

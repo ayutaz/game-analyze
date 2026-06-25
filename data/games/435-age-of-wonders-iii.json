@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Revived the AoW brand and led directly to Paradox's acquisition of Triumph in 2017.",
   "slug": "age-of-wonders-iii",
-  "file": "data/games/435-age-of-wonders-iii.json"
+  "file": "data/games/435-age-of-wonders-iii.json",
+  "tags": [
+    "indie"
+  ]
 }

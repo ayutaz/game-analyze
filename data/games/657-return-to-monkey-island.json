@@ -24,5 +24,8 @@
   "social_axis": "ソロ",
   "popularity": "Ron Gilbert's direct sequel after 30 years; brought the series back to the front of adventure gaming.",
   "slug": "return-to-monkey-island",
-  "file": "data/games/657-return-to-monkey-island.json"
+  "file": "data/games/657-return-to-monkey-island.json",
+  "tags": [
+    "indie"
+  ]
 }

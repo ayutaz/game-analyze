@@ -20,5 +20,8 @@
   "concept": "毎回構造が変わる和風の屋敷・参道・坑道を、御札（カルタ）で危険と引き換えに能力を得ながら徘徊する一人称ステルスホラー。",
   "target": "『影廊』『零』『SIREN』など和製ホラーの徘徊・隠れる緊張感を好むプレイヤー、配信向けの怖がり実況コンテンツを求める視聴者層。",
   "slug": "shadow-corridor-2-mourning",
-  "file": "data/games/808-shadow-corridor-2-mourning.json"
+  "file": "data/games/808-shadow-corridor-2-mourning.json",
+  "tags": [
+    "indie"
+  ]
 }

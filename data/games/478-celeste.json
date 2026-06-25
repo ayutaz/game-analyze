@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Genre-defining precision platformer with celebrated mental-health narrative; speedrun staple.",
   "slug": "celeste",
-  "file": "data/games/478-celeste.json"
+  "file": "data/games/478-celeste.json",
+  "tags": [
+    "indie"
+  ]
 }

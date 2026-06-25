@@ -27,5 +27,8 @@
   "slug": "strange-horticulture",
   "file": "data/games/235-strange-horticulture.json",
   "concept": "オカルティックな植物店主となり、来店客の依頼に応じて図鑑と特徴から植物を同定して手渡すパズルアドベンチャー。観察・推理と暗い物語が静かに絡み合う「不穏な癒し」ジャンルを切り拓いた1本。",
-  "target": "手触りの良い同定パズルと、薄暗い英国オカルト雰囲気を腰を据えて味わいたいソロプレイヤー。Return of the ObraDinnやCase of the Golden Idol系の観察推理を好む層に強く刺さる。"
+  "target": "手触りの良い同定パズルと、薄暗い英国オカルト雰囲気を腰を据えて味わいたいソロプレイヤー。Return of the ObraDinnやCase of the Golden Idol系の観察推理を好む層に強く刺さる。",
+  "tags": [
+    "indie"
+  ]
 }

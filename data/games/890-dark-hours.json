@@ -22,5 +22,8 @@
   "concept": "強盗中に超常現象が発動し、敵対するエンティティから脱出しながらheistを完遂する1-4人co-op horror。5つのマップ、8体のモンスター、50種以上のガジェットで毎回展開が変わる設計。",
   "target": "Phasmophobia / Lethal Company / Payday 3 を遊んだco-op horror愛好層、配信向けにワイワイ騒げるパーティ系horrorを求めるプレイヤー。",
   "slug": "dark-hours",
-  "file": "data/games/890-dark-hours.json"
+  "file": "data/games/890-dark-hours.json",
+  "tags": [
+    "indie"
+  ]
 }

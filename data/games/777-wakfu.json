@@ -20,5 +20,8 @@
   "social_axis": "",
   "popularity": "DOFUS's sci-fantasy sister title; tied into Ankama's hit Wakfu animated series and Krosmoz transmedia universe.",
   "slug": "wakfu",
-  "file": "data/games/777-wakfu.json"
+  "file": "data/games/777-wakfu.json",
+  "tags": [
+    "indie"
+  ]
 }

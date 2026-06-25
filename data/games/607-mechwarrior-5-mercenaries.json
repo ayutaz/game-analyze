@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Real-time mech combat sim with tactical squad commands; long EGS exclusivity before Steam.",
   "slug": "mechwarrior-5-mercenaries",
-  "file": "data/games/607-mechwarrior-5-mercenaries.json"
+  "file": "data/games/607-mechwarrior-5-mercenaries.json",
+  "tags": [
+    "indie"
+  ]
 }

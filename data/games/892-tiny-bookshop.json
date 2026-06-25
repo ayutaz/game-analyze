@@ -20,5 +20,8 @@
   "concept": "移動式キャラバンで海辺の町を巡りながら古本屋を営む、ナラティブ重視のコージー経営シム。本の仕入れ・陳列・接客を通じて町の住人たちの物語に触れていく。",
   "target": "Stardew Valley や Unpacking のようなコージーゲームを好む層、本好き・スローライフ志向のプレイヤー、短時間でも癒される体験を求める大人層。",
   "slug": "tiny-bookshop",
-  "file": "data/games/892-tiny-bookshop.json"
+  "file": "data/games/892-tiny-bookshop.json",
+  "tags": [
+    "indie"
+  ]
 }

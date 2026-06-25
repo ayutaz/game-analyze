@@ -24,5 +24,8 @@
   "concept": "広漠とした崩壊世界をシームレスに探索する、インディー製オープンワールド・ソウルライク。少人数開発ゆえの粗を、息詰まる空気感と建築的スケールで覆い隠す異形作。",
   "target": "ソウルライクの硬派戦闘とSF/ダークファンタジー融合の終末美術に惹かれるコアプレイヤー層。荒削りでも野心的なインディーを発掘したい層。",
   "slug": "bleak-faith-forsaken",
-  "file": "data/games/885-bleak-faith-forsaken.json"
+  "file": "data/games/885-bleak-faith-forsaken.json",
+  "tags": [
+    "indie"
+  ]
 }

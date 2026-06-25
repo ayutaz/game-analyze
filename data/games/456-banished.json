@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-dev medieval village survival that birthed the modern 'hard-mode city-builder' subgenre (Banished -> Frostpunk lineage).",
   "slug": "banished",
-  "file": "data/games/456-banished.json"
+  "file": "data/games/456-banished.json",
+  "tags": [
+    "indie"
+  ]
 }

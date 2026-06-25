@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Whimsical beaver-society city-builder with deep water/dam mechanics; surprise EA hit and frequent 'best builder of the year' nominee.",
   "slug": "timberborn",
-  "file": "data/games/748-timberborn.json"
+  "file": "data/games/748-timberborn.json",
+  "tags": [
+    "indie"
+  ]
 }

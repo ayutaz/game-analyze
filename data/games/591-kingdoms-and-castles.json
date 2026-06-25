@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Approachable medieval city builder; gateway to the genre for newer players and consistent long-tail seller.",
   "slug": "kingdoms-and-castles",
-  "file": "data/games/591-kingdoms-and-castles.json"
+  "file": "data/games/591-kingdoms-and-castles.json",
+  "tags": [
+    "indie"
+  ]
 }

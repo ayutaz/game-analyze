@@ -22,5 +22,8 @@
   "slug": "slime-rancher-2",
   "file": "data/games/228-slime-rancher-2.json",
   "concept": "虹色の浮遊島「Rainbow Island」を一人称視点で探検し、可愛らしいスライムを吸引銃で捕獲・繁殖・経営するコージーサンドボックス続編。",
-  "target": "『あつ森』『Stardew Valley』系のゆるい収集・経営ループを好み、配信や実況で映える非暴力カラフル世界を求めるカジュアル層と前作ファン。"
+  "target": "『あつ森』『Stardew Valley』系のゆるい収集・経営ループを好み、配信や実況で映える非暴力カラフル世界を求めるカジュアル層と前作ファン。",
+  "tags": [
+    "indie"
+  ]
 }

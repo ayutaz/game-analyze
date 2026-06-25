@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Cult soft-body physics sandbox famous on YouTube/TikTok for crash physics; one of the most-watched driving games on streaming.",
   "slug": "beamng-drive",
-  "file": "data/games/346-beamng-drive.json"
+  "file": "data/games/346-beamng-drive.json",
+  "tags": [
+    "indie"
+  ]
 }

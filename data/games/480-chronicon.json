@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "One-person-dev 2D ARPG widely cited as the best Diablo-style pixel game; extremely deep endgame.",
   "slug": "chronicon",
-  "file": "data/games/480-chronicon.json"
+  "file": "data/games/480-chronicon.json",
+  "tags": [
+    "indie"
+  ]
 }

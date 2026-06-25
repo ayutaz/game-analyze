@@ -18,5 +18,8 @@
   "social_axis": "対戦",
   "popularity": "The Arma 2 mod-turned-standalone that birthed the modern survival genre; still a top-selling Steam survival title.",
   "slug": "dayz",
-  "file": "data/games/353-dayz.json"
+  "file": "data/games/353-dayz.json",
+  "tags": [
+    "indie"
+  ]
 }

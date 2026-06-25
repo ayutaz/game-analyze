@@ -22,5 +22,8 @@
   "concept": "白黒モノクロームのシュルレアリスム美術館を舞台に、150以上の記号・言語パズルを解き明かしながら失踪と惨劇の真相に迫る一人称ミステリー・パズルアドベンチャー。",
   "target": "『Return of the Obra Dinn』『The Witness』『Outer Wilds』のような知識ベースのパズル＆ミステリーを好み、David LynchやJorge Luis Borgesなど不条理芸術文脈にも親しむゲーマー。",
   "slug": "lorelei-and-the-laser-eyes",
-  "file": "data/games/866-lorelei-and-the-laser-eyes.json"
+  "file": "data/games/866-lorelei-and-the-laser-eyes.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -25,5 +25,8 @@
   "slug": "nine-sols",
   "file": "data/games/285-nine-sols.json",
   "concept": "道教神話とサイバーパンクを融合した「Taopunk」世界観の2Dメトロイドヴァニア。Sekiro由来のパリィ／弾き返しを中核に据えた高難度ボスアクションを、手描きアニメーションで描く。",
-  "target": "Hollow Knight・Sekiro・Katana Zeroなどの高難度2Dアクションを愛好し、骨太なパリィ戦闘と濃密な世界観・キャラクター物語を同時に味わいたいコアアクション層。"
+  "target": "Hollow Knight・Sekiro・Katana Zeroなどの高難度2Dアクションを愛好し、骨太なパリィ戦闘と濃密な世界観・キャラクター物語を同時に味わいたいコアアクション層。",
+  "tags": [
+    "indie"
+  ]
 }

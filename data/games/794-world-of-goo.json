@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Landmark indie physics puzzle, IGF 2008 winner, that helped launch the WiiWare/Steam indie era.",
   "slug": "world-of-goo",
-  "file": "data/games/794-world-of-goo.json"
+  "file": "data/games/794-world-of-goo.json",
+  "tags": [
+    "indie"
+  ]
 }

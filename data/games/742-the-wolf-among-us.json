@@ -21,5 +21,8 @@
   "social_axis": "",
   "popularity": "Fables-based noir, often cited alongside Walking Dead S1 as Telltale's creative peak; remaster + sequel announced for 2026-27.",
   "slug": "the-wolf-among-us",
-  "file": "data/games/742-the-wolf-among-us.json"
+  "file": "data/games/742-the-wolf-among-us.json",
+  "tags": [
+    "indie"
+  ]
 }

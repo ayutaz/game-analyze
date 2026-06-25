@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Defining fast-movement jetpack/skiing team shooter; cult favorite that influenced movement shooters for a decade.",
   "slug": "tribes-ascend",
-  "file": "data/games/765-tribes-ascend.json"
+  "file": "data/games/765-tribes-ascend.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -27,5 +27,8 @@
   "concept": "カードの代わりに「ダイス」を構築するローグライト・デッキビルダー。Purification（浄化）と Corruption（汚染）の二軸ダメージを使い分け、星の Oracle たちを操って宇宙を救う。",
   "target": "Slay the Spire / Inscryption / Dicey Dungeons など PC ローグライト・デッキビルダーを遊び尽くしたコアプレイヤー、ダイス／確率マネジメントの戦術的な手触りを好む層。",
   "slug": "astrea-six-sided-oracles",
-  "file": "data/games/835-astrea-six-sided-oracles.json"
+  "file": "data/games/835-astrea-six-sided-oracles.json",
+  "tags": [
+    "indie"
+  ]
 }

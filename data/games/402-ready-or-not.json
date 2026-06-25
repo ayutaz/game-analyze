@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Spiritual SWAT 4 successor that became a multi-million-seller indie tactical FPS and revived close-quarters team play.",
   "slug": "ready-or-not",
-  "file": "data/games/402-ready-or-not.json"
+  "file": "data/games/402-ready-or-not.json",
+  "tags": [
+    "indie"
+  ]
 }

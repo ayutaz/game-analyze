@@ -18,5 +18,8 @@
   "social_axis": "協力",
   "popularity": "First major 40K PVE FPS; visceral melee/gunplay loop the genre lacked.",
   "slug": "warhammer-40-000-darktide",
-  "file": "data/games/778-warhammer-40-000-darktide.json"
+  "file": "data/games/778-warhammer-40-000-darktide.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -21,5 +21,8 @@
   "concept": "魔法の酒場「Wood & Web」の店主となり、ドリンクを調合し冒険者たちの相談に乗ることで彼らのクエストの結末を左右する、選択肢主導のコージーファンタジーVN。",
   "target": "D&D・クリティカルロール等のTRPG文化に親しむ20-30代と、Coffee Talk系のコージー会話シムを愛好する欧米プレイヤー層。",
   "slug": "tavern-talk",
-  "file": "data/games/899-tavern-talk.json"
+  "file": "data/games/899-tavern-talk.json",
+  "tags": [
+    "indie"
+  ]
 }

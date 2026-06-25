@@ -24,5 +24,8 @@
   "concept": "手紙・絵画・標本ノートから手掛かりを集め、屋敷の各部屋で枯れかけた植物を発芽させる、暴力なしの植物学ミステリーパズル。",
   "target": "Unpacking や A Short Hike のような穏やかな短編体験を好む層、ガーデニング・自然観察・絵本的アートに惹かれるプレイヤー。",
   "slug": "botany-manor",
-  "file": "data/games/898-botany-manor.json"
+  "file": "data/games/898-botany-manor.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -22,5 +22,8 @@
   "concept": "時間ループする宇宙子宮「Sarcophagus」を舞台に、園芸で果実を育て自らの能力をビルドし直すサイケデリック・メトロイドヴァニア。",
   "target": "独特なアートスタイルと実験的なゲーム構造を好む海外インディー嗜好層、Hollow Knight や Hyper Light Drifter 系の探索アクションを求めるプレイヤー。",
   "slug": "ultros",
-  "file": "data/games/849-ultros.json"
+  "file": "data/games/849-ultros.json",
+  "tags": [
+    "indie"
+  ]
 }

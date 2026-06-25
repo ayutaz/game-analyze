@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Iconic fast-twitch action roguelike; remains a touchstone influence for the entire 'bullet roguelike' subgenre.",
   "slug": "nuclear-throne",
-  "file": "data/games/624-nuclear-throne.json"
+  "file": "data/games/624-nuclear-throne.json",
+  "tags": [
+    "indie"
+  ]
 }

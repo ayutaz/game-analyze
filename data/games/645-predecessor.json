@@ -20,5 +20,8 @@
   "social_axis": "対戦",
   "popularity": "Crowdfunded community-driven revival of Epic's Paragon assets; the surviving Paragon successor of the 2020s.",
   "slug": "predecessor",
-  "file": "data/games/645-predecessor.json"
+  "file": "data/games/645-predecessor.json",
+  "tags": [
+    "indie"
+  ]
 }

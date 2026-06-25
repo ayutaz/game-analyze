@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Long-running voxel space survival blending Space Engineers building with planetary combat; Dark Faction expansion 2024.",
   "slug": "empyrion-galactic-survival",
-  "file": "data/games/525-empyrion-galactic-survival.json"
+  "file": "data/games/525-empyrion-galactic-survival.json",
+  "tags": [
+    "indie"
+  ]
 }

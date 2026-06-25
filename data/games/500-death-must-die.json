@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "ARPG-flavored bullet-heaven that became one of 2023's surprise indie hits.",
   "slug": "death-must-die",
-  "file": "data/games/500-death-must-die.json"
+  "file": "data/games/500-death-must-die.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Long-tail Egosoft hit that kept the X series alive in the 2010s; included free with Terran War Pack today.",
   "slug": "x3-albion-prelude",
-  "file": "data/games/799-x3-albion-prelude.json"
+  "file": "data/games/799-x3-albion-prelude.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -16,7 +16,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 | ファイル / 場所 | 役割 | 編集時の注意 |
 |---|---|---|
-| **`data/games/{id:03d}-{slug}.json`** | **一次データソース（一ゲーム一ファイル）**。各ファイルは `id, title_jp, title_en, developer, publisher, year, platform[], genre, sales_jp, sales_world, primary, secondary[], social_axis, popularity, concept?, target?, slug, file` を持つ。`concept`（ゲームの positioning 1-2文）と `target`（想定プレイヤー層 1-2文）は任意フィールド、書かれていれば詳細ページに表示される | ここを編集／追加／削除したら **必ず** `python3 scripts/build_aggregate.py` を実行して `data/games.json` と `data/index.json` を再生成 |
+| **`data/games/{id:03d}-{slug}.json`** | **一次データソース（一ゲーム一ファイル）**。各ファイルは `id, title_jp, title_en, developer, publisher, year, platform[], genre, sales_jp, sales_world, primary, secondary[], social_axis, popularity, concept?, target?, tags[], slug, file` を持つ。`concept`（ゲームの positioning 1-2文）と `target`（想定プレイヤー層 1-2文）は任意フィールド、書かれていれば詳細ページに表示される。`tags[]` は現状 `"indie"` のみ（`scripts/tag_indie.py` で自動付与） | ここを編集／追加／削除したら **必ず** `python3 scripts/build_aggregate.py` を実行して `data/games.json` と `data/index.json` を再生成 |
 | `data/analyses/{id:03d}-{slug}.md` | 深い分析（マークダウン）。詳細ページの本文として表示される。任意（未作成なら「未分析」表示） | 自由に書ける。サンプル: 001/006/020/066/076 |
 | `data/meta.json` | カテゴリ定義・出典 URL・社会軸の定義（不変メタ） | カテゴリ定義や出典を増やしたときだけ編集 |
 | `data/index.json` | **派生物**: 軽量インデックス（id/タイトル/年/分類/ファイルパス） | 手で編集しない。`build_aggregate.py` が生成 |
@@ -29,6 +29,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 | `scripts/split_games.py` | 一度きり用: 集約 `games.json` を `data/games/` に分解 | 通常は使わない（履歴的に保持） |
 | `scripts/build_aggregate.py` | `data/games/*.json` から `games.json` と `index.json` を再生成 | データ変更後に必ず実行 |
 | `scripts/patch_games.py` | 複数ゲームに同じフィールド（concept/target等）を一括で書き込むユーティリティ。中の `PATCHES` 辞書を編集して実行 | 一括追記後は `build_aggregate.py` を必ず実行 |
+| `scripts/tag_indie.py` | publisher/developer の denylist（メジャー大手 70+）と allowlist（インディー専門 publisher 60+）に基づいて `tags: ["indie"]` を全 JSON に書き込む。判定は **(a) developer == publisher の self-published か (b) indie 専門 publisher 配下** を indie とみなし、メジャー denylist にヒットしたら強制的に非 indie。alias 辞書で表記ゆれ（任天堂/Nintendo、スクエニ/Square Enix、Atlus/アトラス 等）を吸収する | `python3 scripts/tag_indie.py --dry-run` で件数確認 → 本実行後に `build_aggregate.py` |
 | `site/facet.html`, `site/detail.html` | 公開サイトのUI実装（ファセット検索 + カード + 詳細）。`site/shared.css`, `site/shared.js` も共通アセット | `python3 -m http.server` でローカル配信、push で GitHub Pages 自動再デプロイ |
 | `index.html` (root) | `site/facet.html` への meta-refresh リダイレクト。Pages トップの入口 | — |
 | `.github/workflows/deploy-pages.yml` | GitHub Pages デプロイの Actions ワークフロー | push 時に自動実行、Actions タブから手動 Run も可 |
@@ -59,8 +60,9 @@ print('slug collisions:', len(games) - len({g['slug'] for g in games}))
 "
 ```
 
-期待値（2026-06-24 時点）: total=1025 / EXP 705, NAR 125, REW 195 / ids missing=[] / collisions=0
+期待値（2026-06-25 時点）: total=1025 / EXP 705, NAR 125, REW 195 / ids missing=[] / collisions=0
 社会軸 (EXP のみ): ソロ 501 / 対戦 111 / 協力 70 / 非同期 6 / 非対称 5 / 観戦 3 / 未設定 9
+タグ: indie 320 / non-indie 705（標準定義: 大手 publisher 配下を除外、self-published or indie 専門 publisher 配下を indie とする）
 
 ## 分類ルール（複数該当タイトルの主分類判定）
 

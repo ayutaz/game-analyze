@@ -24,5 +24,8 @@
   "concept": "Streets of Rage 4のGuard Crush Gamesが手がけるファンタジー版ベルトスクロールアクション×ローグライト。Hadesライクなメタ進行と精密なコンボシステムを融合した協力アクション。",
   "target": "Streets of Rage 4やHadesを愛好するベルトスクロール/ローグライトファン、精密なコンボアクションを好むコアゲーマー、協力プレイで腕を競いたい2人組プレイヤー。",
   "slug": "absolum",
-  "file": "data/games/883-absolum.json"
+  "file": "data/games/883-absolum.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Industrial-era Amnesia interlude with a heavier narrative/literary bent; controversial pivot from the original but influential in walking-sim-horror crossover.",
   "slug": "amnesia-a-machine-for-pigs",
-  "file": "data/games/441-amnesia-a-machine-for-pigs.json"
+  "file": "data/games/441-amnesia-a-machine-for-pigs.json",
+  "tags": [
+    "indie"
+  ]
 }

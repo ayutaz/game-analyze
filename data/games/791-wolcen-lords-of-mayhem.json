@@ -20,5 +20,8 @@
   "social_axis": "",
   "popularity": "Cryengine-powered visually striking ARPG; massive launch then steep drop-off, a defining cautionary tale for indie ARPGs.",
   "slug": "wolcen-lords-of-mayhem",
-  "file": "data/games/791-wolcen-lords-of-mayhem.json"
+  "file": "data/games/791-wolcen-lords-of-mayhem.json",
+  "tags": [
+    "indie"
+  ]
 }

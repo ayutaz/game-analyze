@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Refined sequel doubling down on weapon-swap combat; well received critically.",
   "slug": "blasphemous-2",
-  "file": "data/games/467-blasphemous-2.json"
+  "file": "data/games/467-blasphemous-2.json",
+  "tags": [
+    "indie"
+  ]
 }

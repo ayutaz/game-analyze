@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Dean Hall (DayZ) studio's punishing atmospheric/electrical/agricultural simulator — the connoisseur's 'true' systems-survival game.",
   "slug": "stationeers",
-  "file": "data/games/706-stationeers.json"
+  "file": "data/games/706-stationeers.json",
+  "tags": [
+    "indie"
+  ]
 }

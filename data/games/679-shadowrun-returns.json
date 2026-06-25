@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "Revived the Shadowrun license as a beloved indie CRPG trilogy.",
   "slug": "shadowrun-returns",
-  "file": "data/games/679-shadowrun-returns.json"
+  "file": "data/games/679-shadowrun-returns.json",
+  "tags": [
+    "indie"
+  ]
 }

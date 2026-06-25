@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Atmospheric bayou bounty-hunter extraction shooter; the longest-running successful extraction FPS besides Tarkov.",
   "slug": "hunt-showdown-1896",
-  "file": "data/games/386-hunt-showdown-1896.json"
+  "file": "data/games/386-hunt-showdown-1896.json",
+  "tags": [
+    "indie"
+  ]
 }

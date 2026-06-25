@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "SCS's U.S. companion to ETS2 with constant state-map DLC expansions — a slow-living sim icon.",
   "slug": "american-truck-simulator",
-  "file": "data/games/304-american-truck-simulator.json"
+  "file": "data/games/304-american-truck-simulator.json",
+  "tags": [
+    "indie"
+  ]
 }

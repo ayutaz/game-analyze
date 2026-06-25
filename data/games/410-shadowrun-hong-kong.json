@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "Closes the Harebrained Shadowrun trilogy with mature noir writing in a Hong Kong setting.",
   "slug": "shadowrun-hong-kong",
-  "file": "data/games/410-shadowrun-hong-kong.json"
+  "file": "data/games/410-shadowrun-hong-kong.json",
+  "tags": [
+    "indie"
+  ]
 }

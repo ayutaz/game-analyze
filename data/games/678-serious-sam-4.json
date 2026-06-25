@@ -18,5 +18,8 @@
   "social_axis": "協力",
   "popularity": "Brought the 'screaming Headless Kamikaze' horde formula into the modern era with thousand-enemy battles.",
   "slug": "serious-sam-4",
-  "file": "data/games/678-serious-sam-4.json"
+  "file": "data/games/678-serious-sam-4.json",
+  "tags": [
+    "indie"
+  ]
 }

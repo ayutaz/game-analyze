@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "3D first-person take on Factorio; 1.0 launch was a top-selling Steam release of 2024.",
   "slug": "satisfactory",
-  "file": "data/games/676-satisfactory.json"
+  "file": "data/games/676-satisfactory.json",
+  "tags": [
+    "indie"
+  ]
 }

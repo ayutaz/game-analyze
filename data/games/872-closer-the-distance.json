@@ -23,5 +23,8 @@
   "concept": "事故で亡くなった姉の意思が残された家族・恋人・友人の心に寄り添い、感情と願いを誘導することで小さな村のコミュニティが喪失からどう立ち直るかを描く群像ライフシム。",
   "target": "Spiritfarer や Disco Elysium のような感情駆動型ナラティブを好む大人のプレイヤー、グリーフや家族をテーマにした文芸的作品に関心のある層。",
   "slug": "closer-the-distance",
-  "file": "data/games/872-closer-the-distance.json"
+  "file": "data/games/872-closer-the-distance.json",
+  "tags": [
+    "indie"
+  ]
 }

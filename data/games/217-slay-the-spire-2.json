@@ -20,5 +20,8 @@
   "slug": "slay-the-spire-2",
   "file": "data/games/217-slay-the-spire-2.json",
   "concept": "2019年に「ローグライト・デッキ構築」というジャンルそのものを確立した名作の続編。新キャラクター、4人協力プレイ、Godot移行による刷新されたビジュアルと、初代を凌駕する手触りで「やめどき」を奪うシングルプレイ体験を提供する。",
-  "target": "初代を遊び尽くしたデッキ構築ファン、Roguebook・Monster Train・Balatro等で同ジャンルに触れた新規層、配信で観るだけでも楽しい戦術ゲーマー全般。Steam Deckでスキマ時間に詰将棋的に遊びたい人にも刺さる。"
+  "target": "初代を遊び尽くしたデッキ構築ファン、Roguebook・Monster Train・Balatro等で同ジャンルに触れた新規層、配信で観るだけでも楽しい戦術ゲーマー全般。Steam Deckでスキマ時間に詰将棋的に遊びたい人にも刺さる。",
+  "tags": [
+    "indie"
+  ]
 }

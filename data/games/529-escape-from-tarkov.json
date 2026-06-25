@@ -16,5 +16,8 @@
   "social_axis": "対戦",
   "popularity": "Defined the extraction shooter genre; finally launched 1.0 on Steam in Nov 2025 after 8 years of beta.",
   "slug": "escape-from-tarkov",
-  "file": "data/games/529-escape-from-tarkov.json"
+  "file": "data/games/529-escape-from-tarkov.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Czech-history docu-game on Heydrich assassination — Czech Game of the Year, used as classroom material.",
   "slug": "attentat-1942",
-  "file": "data/games/450-attentat-1942.json"
+  "file": "data/games/450-attentat-1942.json",
+  "tags": [
+    "indie"
+  ]
 }

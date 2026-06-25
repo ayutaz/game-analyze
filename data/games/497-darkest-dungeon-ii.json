@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "3D-rendered runs replace the dungeon crawl; doubled down on stress/affinity systems.",
   "slug": "darkest-dungeon-ii",
-  "file": "data/games/497-darkest-dungeon-ii.json"
+  "file": "data/games/497-darkest-dungeon-ii.json",
+  "tags": [
+    "indie"
+  ]
 }

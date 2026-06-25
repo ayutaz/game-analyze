@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "Berlin-set heist story considered the high point of the Shadowrun CRPG revival.",
   "slug": "shadowrun-dragonfall-directors-cut",
-  "file": "data/games/409-shadowrun-dragonfall-directors-cut.json"
+  "file": "data/games/409-shadowrun-dragonfall-directors-cut.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -19,5 +19,8 @@
   "social_axis": "協力",
   "popularity": "Major Ashlands biome update marked Valheim's late-EA renaissance; relevant because it is treated separately from base Valheim already in catalog.",
   "slug": "valheim-ashlands",
-  "file": "data/games/424-valheim-ashlands.json"
+  "file": "data/games/424-valheim-ashlands.json",
+  "tags": [
+    "indie"
+  ]
 }

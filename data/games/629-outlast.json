@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "The found-footage asylum horror that defined the modern unarmed-protagonist hide-and-flee subgenre and launched Red Barrels' franchise.",
   "slug": "outlast",
-  "file": "data/games/629-outlast.json"
+  "file": "data/games/629-outlast.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -26,5 +26,8 @@
   "concept": "クーデターに巻き込まれた3つの部隊の視点で描かれる重厚な政治劇SRPG。Wanzer(人型機動兵器)のパーツ単位ダメージとカスタマイズを核に、行動ポイント制とリンクシステムによるリアルタイム介入が緊張感を生む。",
   "target": "PS1期スクウェアSRPGに思い入れのある往年のファン、フロントミッション・シリーズ愛好家、メカ・カスタマイズ系SRPG(スパロボ・ダマスカスギア等)を好む層。",
   "slug": "front-mission-2-remake",
-  "file": "data/games/909-front-mission-2-remake.json"
+  "file": "data/games/909-front-mission-2-remake.json",
+  "tags": [
+    "indie"
+  ]
 }

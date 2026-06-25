@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Underwater sci-fi horror that questions consciousness and identity; benchmark for narrative-driven first-person horror.",
   "slug": "soma",
-  "file": "data/games/322-soma.json"
+  "file": "data/games/322-soma.json",
+  "tags": [
+    "indie"
+  ]
 }

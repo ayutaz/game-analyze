@@ -23,5 +23,8 @@
   "social_axis": "ソロ",
   "popularity": "Sandbox medieval-RPG sequel that spent 8 years in Early Access and emerged a juggernaut.",
   "slug": "mount-blade-ii-bannerlord",
-  "file": "data/games/611-mount-blade-ii-bannerlord.json"
+  "file": "data/games/611-mount-blade-ii-bannerlord.json",
+  "tags": [
+    "indie"
+  ]
 }

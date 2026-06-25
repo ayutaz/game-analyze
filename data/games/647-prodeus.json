@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Modern combat feel with 2.5D sprite-fy aesthetic; in-game level editor with a vibrant community catalog.",
   "slug": "prodeus",
-  "file": "data/games/647-prodeus.json"
+  "file": "data/games/647-prodeus.json",
+  "tags": [
+    "indie"
+  ]
 }

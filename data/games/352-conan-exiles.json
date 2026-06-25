@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Funcom's flagship survival sandbox; massive base-building and slavery/thrall systems set a new mature-survival benchmark.",
   "slug": "conan-exiles",
-  "file": "data/games/352-conan-exiles.json"
+  "file": "data/games/352-conan-exiles.json",
+  "tags": [
+    "indie"
+  ]
 }

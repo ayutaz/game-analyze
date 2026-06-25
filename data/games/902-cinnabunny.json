@@ -20,5 +20,8 @@
   "concept": "うさぎ達の村でベーカリーを営みつつ、鳥観察・キノコ採集・住人との関係構築を楽しむ、スプリットスクリーン対応のコージーライフシム。Animal Crossing と Stardew Valley に着想を得た優しい世界観。",
   "target": "カップル／家族／友人とソファで並んで遊びたいコージーゲーマー。激しい競争のない、ゆるやかな進行と装飾・収集を好む層。",
   "slug": "cinnabunny",
-  "file": "data/games/902-cinnabunny.json"
+  "file": "data/games/902-cinnabunny.json",
+  "tags": [
+    "indie"
+  ]
 }

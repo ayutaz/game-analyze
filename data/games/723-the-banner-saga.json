@@ -24,5 +24,8 @@
   "social_axis": "ソロ",
   "popularity": "Hand-painted Viking tactical RPG; Kickstarter success that defined the cinematic-SRPG style.",
   "slug": "the-banner-saga",
-  "file": "data/games/723-the-banner-saga.json"
+  "file": "data/games/723-the-banner-saga.json",
+  "tags": [
+    "indie"
+  ]
 }

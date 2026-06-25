@@ -20,5 +20,8 @@
   "slug": "miside",
   "file": "data/games/264-miside.json",
   "concept": "スマホ恋愛ゲームに引きずり込まれ、AI彼女「ミタ」と暮らすうち、ゲーム世界の歪みと複数のミタの存在に気づくサイコロジカルホラーADV。萌え2Dアバターとメタ的恐怖を融合させた問題作。",
-  "target": "『Doki Doki Literature Club』『NEEDY GIRL OVERDOSE』など、可愛さと狂気のギャップを楽しむメタホラー好き層、およびVTuber実況経由で参入したJP視聴者層。"
+  "target": "『Doki Doki Literature Club』『NEEDY GIRL OVERDOSE』など、可愛さと狂気のギャップを楽しむメタホラー好き層、およびVTuber実況経由で参入したJP視聴者層。",
+  "tags": [
+    "indie"
+  ]
 }

@@ -17,5 +17,8 @@
   "social_axis": "ソロ",
   "popularity": "Indie tycoon hit that anchored the modern 'make your own [industry]' sim wave.",
   "slug": "game-dev-tycoon",
-  "file": "data/games/543-game-dev-tycoon.json"
+  "file": "data/games/543-game-dev-tycoon.json",
+  "tags": [
+    "indie"
+  ]
 }

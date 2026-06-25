@@ -20,5 +20,8 @@
   "concept": "Chilla's Artによる8番出口系の異変探しホラー。新幹線車両を1号車から8号車まで進む構造で、異変があれば引き返し、なければ次の車両へ進む二択ループを採用。",
   "target": "8番出口系の異変探しループが好きなプレイヤー、Chilla's Artの和製ジャパニーズ・ミニマル・ホラーのファン層、ホラー配信を視聴・実況する層。",
   "slug": "shinkansen-0",
-  "file": "data/games/826-shinkansen-0.json"
+  "file": "data/games/826-shinkansen-0.json",
+  "tags": [
+    "indie"
+  ]
 }

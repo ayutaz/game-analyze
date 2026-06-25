@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "Trilogy-in-one gothic ARPG; bridge between Diablo 2 nostalgia and the post-PoE era.",
   "slug": "the-incredible-adventures-of-van-helsing-final-cut",
-  "file": "data/games/730-the-incredible-adventures-of-van-helsing-final-cut.json"
+  "file": "data/games/730-the-incredible-adventures-of-van-helsing-final-cut.json",
+  "tags": [
+    "indie"
+  ]
 }

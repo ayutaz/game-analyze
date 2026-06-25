@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "The defining first-person hide-and-cower horror; established the 'no weapons, only flight' formula and ignited the 2010s Let's Play horror boom.",
   "slug": "amnesia-the-dark-descent",
-  "file": "data/games/442-amnesia-the-dark-descent.json"
+  "file": "data/games/442-amnesia-the-dark-descent.json",
+  "tags": [
+    "indie"
+  ]
 }

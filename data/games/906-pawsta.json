@@ -20,5 +20,8 @@
   "concept": "クレイアニメ風の世界でネズミのシェフ Rigatoni となり、世界各地の料理を学びながら自分のレストランを切り盛りするコージーな料理シミュレーション。",
   "target": "Cozy Grove や Spiritfarer のような温かみのある体験を好み、手作り感のあるアートスタイルや料理・文化探索に惹かれるプレイヤー層。",
   "slug": "pawsta",
-  "file": "data/games/906-pawsta.json"
+  "file": "data/games/906-pawsta.json",
+  "tags": [
+    "indie"
+  ]
 }

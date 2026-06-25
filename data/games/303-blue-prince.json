@@ -22,5 +22,8 @@
   "slug": "blue-prince",
   "file": "data/games/303-blue-prince.json",
   "concept": "叔父から相続した45部屋の屋敷で「隠された46番目の部屋」を探す、ローグライト式間取り構築パズル。プレイごとに部屋の配置が変わり、ドラフトと推理を重ねて謎の全体像を組み上げていく。",
-  "target": "『The Witness』『Outer Wilds』『Return of the Obra Dinn』のような自分の頭脳だけが頼りの謎解きゲーマー。ノートを取りながら数十時間かけて屋敷の全貌を解読する没入体験を求める層。"
+  "target": "『The Witness』『Outer Wilds』『Return of the Obra Dinn』のような自分の頭脳だけが頼りの謎解きゲーマー。ノートを取りながら数十時間かけて屋敷の全貌を解読する没入体験を求める層。",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "",
   "popularity": "The most-funded crowdfunded project in history; despite never releasing, runs a persistent universe with hundreds of thousands of paying players.",
   "slug": "star-citizen",
-  "file": "data/games/697-star-citizen.json"
+  "file": "data/games/697-star-citizen.json",
+  "tags": [
+    "indie"
+  ]
 }

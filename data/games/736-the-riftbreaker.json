@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "Hybrid base-building + isometric-ARPG that pioneered the 'horde-defence factory' formula now common in 2025-era hits.",
   "slug": "the-riftbreaker",
-  "file": "data/games/736-the-riftbreaker.json"
+  "file": "data/games/736-the-riftbreaker.json",
+  "tags": [
+    "indie"
+  ]
 }

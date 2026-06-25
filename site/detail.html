@@ -219,12 +219,14 @@
       const subs = (full.secondary || []).map(s => `<span class="axis-tag">副: ${s}</span>`).join('');
       const axis = full.social_axis ? `<span class="axis-tag">他者軸: ${full.social_axis}</span>` : '';
       const platforms = (full.platform || []).map(p => `<span class="axis-tag">${p}</span>`).join('');
+      const tags = (full.tags || []).map(t => `<span class="axis-tag tag-${t}">${TAG_LABEL[t] || t}</span>`).join('');
       document.getElementById('head').innerHTML = `
         <h1 class="title-jp">${escapeHtml(full.title_jp)}</h1>
         <p class="title-en">${escapeHtml(full.title_en || '')}</p>
         <div class="meta-row">
           <span class="badge ${full.primary.toLowerCase()}">${PRIMARY_LABEL[full.primary]}</span>
           ${axis}
+          ${tags}
           ${subs}
           ${platforms}
           <span class="axis-tag">${full.year || ''}</span>

@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "IGF 2018 grand prize finalist that reinvented sokoban by letting players rewrite the rules; the most influential indie puzzle game since Portal.",
   "slug": "baba-is-you",
-  "file": "data/games/310-baba-is-you.json"
+  "file": "data/games/310-baba-is-you.json",
+  "tags": [
+    "indie"
+  ]
 }

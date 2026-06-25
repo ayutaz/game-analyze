@@ -23,5 +23,8 @@
   "slug": "loop-hero",
   "file": "data/games/203-loop-hero.json",
   "concept": "勇者は円形のループを自動で周回し、プレイヤーは手札のタイル（森・墓地・村など）をマップに配置して敵と地形を生成する逆転発想のローグライト。配置の組み合わせでビルドを練る思考型のオートバトル。",
-  "target": "ローグライト・デッキ構築・放置系の交差点が好きな層。FTL／Slay the Spire／Vampire Survivors系の「短時間ループで戦略を最適化する」体験を求めるPC・モバイルゲーマー。"
+  "target": "ローグライト・デッキ構築・放置系の交差点が好きな層。FTL／Slay the Spire／Vampire Survivors系の「短時間ループで戦略を最適化する」体験を求めるPC・モバイルゲーマー。",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Hardcore tactical-FPS-feel top-down shooter with deep gun-modding system.",
   "slug": "synthetik-legion-rising",
-  "file": "data/games/716-synthetik-legion-rising.json"
+  "file": "data/games/716-synthetik-legion-rising.json",
+  "tags": [
+    "indie"
+  ]
 }

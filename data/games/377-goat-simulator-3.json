@@ -18,5 +18,8 @@
   "social_axis": "対戦",
   "popularity": "Sequel to the meme-defining Goat Simulator — kept the absurdist physics sim subgenre alive.",
   "slug": "goat-simulator-3",
-  "file": "data/games/377-goat-simulator-3.json"
+  "file": "data/games/377-goat-simulator-3.json",
+  "tags": [
+    "indie"
+  ]
 }

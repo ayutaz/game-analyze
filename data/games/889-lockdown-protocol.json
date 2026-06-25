@@ -20,5 +20,8 @@
   "concept": "Among Usを一人称FPSで再構築した16人マルチプレイヤー・ソーシャル・ディダクション。タスク制ステーションを舞台にインポスターと乗組員が嘘と銃で対峙する。",
   "target": "Among Us / Liar's Bar / R.E.P.O.系のボイスチャット推理パーティーを好む配信者・友人グループ層。FPS操作に抵抗のないPCゲーマー向け。",
   "slug": "lockdown-protocol",
-  "file": "data/games/889-lockdown-protocol.json"
+  "file": "data/games/889-lockdown-protocol.json",
+  "tags": [
+    "indie"
+  ]
 }

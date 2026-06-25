@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Crate (Grim Dawn) studio's pivot into Banished-likes; brisk launch made it a leading post-Banished town-builder.",
   "slug": "farthest-frontier",
-  "file": "data/games/536-farthest-frontier.json"
+  "file": "data/games/536-farthest-frontier.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -20,5 +20,8 @@
   "concept": "外を覗くと怪物化する「外の何か」が起きた4階建てアパートで、主人公サムが住人と関わりながら脱出を試みるピクセルアート×ターン制サバイバルホラーRPG。",
   "target": "『スウィートホーム』『OMORI』『LISA』系のレトロRPG×サイコホラーを好むインディーホラーRPG/JRPGファン、Chilla's Art系の日常侵食型ホラー愛好者。",
   "slug": "look-outside",
-  "file": "data/games/831-look-outside.json"
+  "file": "data/games/831-look-outside.json",
+  "tags": [
+    "indie"
+  ]
 }

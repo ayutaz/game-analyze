@@ -20,5 +20,8 @@
   "concept": "Supermarket Simulatorの世界観を16人協力プレイ＋基本無料で振り切ったco-op管理シム。レジ打ち・品出し・万引き対応・値付けをチームで分担しながら騒がしい店を回す。",
   "target": "Lethal CompanyやPartyAnimals的な大人数co-opで馬鹿騒ぎしたい配信者・フレンドグループ。経営シムをガチで詰めるより、役割分担と事故をネタにできるカジュアル層。",
   "slug": "supermarket-together",
-  "file": "data/games/887-supermarket-together.json"
+  "file": "data/games/887-supermarket-together.json",
+  "tags": [
+    "indie"
+  ]
 }

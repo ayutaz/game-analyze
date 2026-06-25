@@ -22,5 +22,8 @@
   "concept": "Lobotomy Corp 世界観を継ぐダークファンタジー基本無料ガチャ。ダンテ『神曲』をモチーフにした12人の「罪人（Sinner）」を率いて異形の都市を旅するターン制RPG。",
   "target": "Project Moon 過去作（Lobotomy Corp / Library of Ruina）の世界観に惹かれた濃いファン層、および重厚な文学的ナラティブを求めるガチャ／キャラ収集層。",
   "slug": "limbus-company",
-  "file": "data/games/816-limbus-company.json"
+  "file": "data/games/816-limbus-company.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Made under wartime conditions in Ukraine; biggest launch in series history despite famously rough release.",
   "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
-  "file": "data/games/669-s-t-a-l-k-e-r-2-heart-of-chornobyl.json"
+  "file": "data/games/669-s-t-a-l-k-e-r-2-heart-of-chornobyl.json",
+  "tags": [
+    "indie"
+  ]
 }

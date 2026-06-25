@@ -16,5 +16,8 @@
   "social_axis": "ソロ",
   "popularity": "Microcontroller/circuit-design puzzle with a famous physical manual; the apex of Zachtronics' engineering-puzzle pedigree.",
   "slug": "shenzhen-i-o",
-  "file": "data/games/680-shenzhen-i-o.json"
+  "file": "data/games/680-shenzhen-i-o.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -18,5 +18,8 @@
   "social_axis": "ソロ",
   "popularity": "Steampunk apocalypse city builder; defined the 'moral-choice survival city' subgenre and is one of the best-selling Polish PC games ever.",
   "slug": "frostpunk",
-  "file": "data/games/540-frostpunk.json"
+  "file": "data/games/540-frostpunk.json",
+  "tags": [
+    "indie"
+  ]
 }

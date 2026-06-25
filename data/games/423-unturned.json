@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "Solo-dev free-to-play survival sandbox; one of Steam's most-downloaded F2P titles, a teen-gaming gateway.",
   "slug": "unturned",
-  "file": "data/games/423-unturned.json"
+  "file": "data/games/423-unturned.json",
+  "tags": [
+    "indie"
+  ]
 }

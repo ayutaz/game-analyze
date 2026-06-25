@@ -20,5 +20,8 @@
   "social_axis": "",
   "popularity": "The definitive narrative-driven colony sim and most-modded base-builder on Steam, with five paid DLCs (latest: Odyssey 2025).",
   "slug": "rimworld",
-  "file": "data/games/404-rimworld.json"
+  "file": "data/games/404-rimworld.json",
+  "tags": [
+    "indie"
+  ]
 }

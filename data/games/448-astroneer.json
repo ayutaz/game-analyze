@@ -21,5 +21,8 @@
   "social_axis": "協力",
   "popularity": "Stylised, family-friendly co-op planet-deforming sandbox; popular Xbox Play Anywhere title and gateway survival sandbox.",
   "slug": "astroneer",
-  "file": "data/games/448-astroneer.json"
+  "file": "data/games/448-astroneer.json",
+  "tags": [
+    "indie"
+  ]
 }

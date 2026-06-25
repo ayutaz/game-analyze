@@ -19,5 +19,8 @@
   "social_axis": "",
   "popularity": "Spiritual successor to Titan Quest; cult-favorite dual-class ARPG with a decade of expansions and the new Fangs of Asterkarn (2025).",
   "slug": "grim-dawn",
-  "file": "data/games/382-grim-dawn.json"
+  "file": "data/games/382-grim-dawn.json",
+  "tags": [
+    "indie"
+  ]
 }

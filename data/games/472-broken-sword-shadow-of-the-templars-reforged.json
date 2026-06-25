@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "30th-anniversary remaster of the 1996 classic; recommitted Revolution to its flagship IP.",
   "slug": "broken-sword-shadow-of-the-templars-reforged",
-  "file": "data/games/472-broken-sword-shadow-of-the-templars-reforged.json"
+  "file": "data/games/472-broken-sword-shadow-of-the-templars-reforged.json",
+  "tags": [
+    "indie"
+  ]
 }

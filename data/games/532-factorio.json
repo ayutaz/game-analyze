@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "The genre-defining automation game; its conveyor-belt + research loop spawned an entire 'factorylike' category.",
   "slug": "factorio",
-  "file": "data/games/532-factorio.json"
+  "file": "data/games/532-factorio.json",
+  "tags": [
+    "indie"
+  ]
 }

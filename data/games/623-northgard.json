@@ -22,5 +22,8 @@
   "social_axis": "ソロ",
   "popularity": "Long-running approachable RTS with 4X structure; massive longevity through clan DLC and esports support.",
   "slug": "northgard",
-  "file": "data/games/623-northgard.json"
+  "file": "data/games/623-northgard.json",
+  "tags": [
+    "indie"
+  ]
 }

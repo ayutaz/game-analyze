@@ -20,5 +20,8 @@
   "concept": "小さな浮遊島でリソースを集め、自動化で工場を拡張し、新たな島をアンロックしていくクラフト＋クリッカー＋自動化の融合型サンドボックス。",
   "target": "Forager・Satisfactory・Dyson Sphere Programなどの自動化／クラフト系を好み、短いセッションでも進捗感を得られるクリッカー要素も歓迎するインディーサンドボックス愛好者。",
   "slug": "outpath",
-  "file": "data/games/874-outpath.json"
+  "file": "data/games/874-outpath.json",
+  "tags": [
+    "indie"
+  ]
 }

@@ -21,5 +21,8 @@
   "social_axis": "ソロ",
   "popularity": "Critically acclaimed sequel that refined the heir/class system into a top-tier 2D action roguelite.",
   "slug": "rogue-legacy-2",
-  "file": "data/games/667-rogue-legacy-2.json"
+  "file": "data/games/667-rogue-legacy-2.json",
+  "tags": [
+    "indie"
+  ]
 }

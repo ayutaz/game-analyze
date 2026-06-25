@@ -23,5 +23,8 @@
   "social_axis": "対戦",
   "popularity": "Minimalist roguelite Viking-island defense — a critic darling that made tiny-scale RTS accessible.",
   "slug": "bad-north-jotunn-edition",
-  "file": "data/games/454-bad-north-jotunn-edition.json"
+  "file": "data/games/454-bad-north-jotunn-edition.json",
+  "tags": [
+    "indie"
+  ]
 }

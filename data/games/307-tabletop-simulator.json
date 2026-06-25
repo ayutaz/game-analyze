@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "The de facto digital board-gaming platform on PC; the COVID-era hub for online play with workshop mods of nearly every published game.",
   "slug": "tabletop-simulator",
-  "file": "data/games/307-tabletop-simulator.json"
+  "file": "data/games/307-tabletop-simulator.json",
+  "tags": [
+    "indie"
+  ]
 }

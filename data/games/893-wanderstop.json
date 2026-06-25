@@ -22,5 +22,8 @@
   "concept": "燃え尽きた元戦士が森の奥にあるお茶屋を手伝いながら自分自身と向き合うコージー・ナラティブシム。お茶を淹れて客を見送るループを通じて「変わらないこと」と「自己受容」を描く。",
   "target": "The Stanley Parableファン、ナラティブゲーム愛好家、燃え尽き症候群やメンタルヘルスのテーマに共感する大人のプレイヤー、コージーゲームに深い物語を求める層。",
   "slug": "wanderstop",
-  "file": "data/games/893-wanderstop.json"
+  "file": "data/games/893-wanderstop.json",
+  "tags": [
+    "indie"
+  ]
 }

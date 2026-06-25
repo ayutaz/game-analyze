@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Cannibal-island survival horror that combined base-building with narrative dread; direct ancestor of Sons of the Forest.",
   "slug": "the-forest",
-  "file": "data/games/729-the-forest.json"
+  "file": "data/games/729-the-forest.json",
+  "tags": [
+    "indie"
+  ]
 }

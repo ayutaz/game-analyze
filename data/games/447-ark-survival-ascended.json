@@ -20,5 +20,8 @@
   "social_axis": "ソロ",
   "popularity": "UE5 remaster bundling all expansions; controversial 'paid remake' that nonetheless reactivated the ARK community ahead of ARK 2.",
   "slug": "ark-survival-ascended",
-  "file": "data/games/447-ark-survival-ascended.json"
+  "file": "data/games/447-ark-survival-ascended.json",
+  "tags": [
+    "indie"
+  ]
 }

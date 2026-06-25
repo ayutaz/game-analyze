@@ -25,5 +25,8 @@
   "slug": "inscryption",
   "file": "data/games/202-inscryption.json",
   "concept": "薄暗い小屋で謎の男とカードゲームを始めたはずが、ゲームそのものの「正体」が剥がれていく多層メタ構造のデッキ構築ローグライト。ホラー、脱出、ARGが入れ子になり、プレイヤーは物語の「外側」を掘り続ける。",
-  "target": "Slay the Spire等のデッキ構築を遊んだうえで、Pony IslandやThe Stanley Parableのような「ゲームを疑う」メタ作品が好きな層。ネタバレ前に駆け抜けたいシングル派プレイヤー。"
+  "target": "Slay the Spire等のデッキ構築を遊んだうえで、Pony IslandやThe Stanley Parableのような「ゲームを疑う」メタ作品が好きな層。ネタバレ前に駆け抜けたいシングル派プレイヤー。",
+  "tags": [
+    "indie"
+  ]
 }

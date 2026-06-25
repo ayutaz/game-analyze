@@ -25,5 +25,8 @@
   "concept": "SNES『フロントミッション』(1995)を3DモデルとUI/QoL刷新でフル再構築した戦術ターン制メカRPG。OCU/USNの二陣営シナリオを1本に統合し、ヴァンツァー部位破壊と装備カスタムの硬派な戦術性をそのまま現代機で遊べる形に移植している。",
   "target": "SNES/PS版フロントミッションの旧来ファンと、Triangle Strategy・Tactics Ogre Reborn等の現代戦術RPGリバイバルに乗ったSRPG愛好家。部位破壊・装備改造の硬派な戦術ループを好む層。",
   "slug": "front-mission-1st-remake",
-  "file": "data/games/908-front-mission-1st-remake.json"
+  "file": "data/games/908-front-mission-1st-remake.json",
+  "tags": [
+    "indie"
+  ]
 }

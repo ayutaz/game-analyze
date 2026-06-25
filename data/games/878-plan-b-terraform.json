@@ -20,5 +20,8 @@
   "concept": "ヘックス分割された惑星表面上に輸送網と工場チェーンを敷設し、大気組成・気温・海洋を制御してテラフォーミングを進めるサプライチェーン系シミュレーション。",
   "target": "Factorio／Mindustry／Terra Invicta／Per Aspera のような自動化＋テラフォーミング系を好む、最適化と長期プランニングが好きなPCシム層。",
   "slug": "plan-b-terraform",
-  "file": "data/games/878-plan-b-terraform.json"
+  "file": "data/games/878-plan-b-terraform.json",
+  "tags": [
+    "indie"
+  ]
 }

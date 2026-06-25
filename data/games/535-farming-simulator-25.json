@@ -19,5 +19,8 @@
   "social_axis": "ソロ",
   "popularity": "Most successful Farming Sim launch ever; GIANTS franchise has surpassed 40M lifetime units.",
   "slug": "farming-simulator-25",
-  "file": "data/games/535-farming-simulator-25.json"
+  "file": "data/games/535-farming-simulator-25.json",
+  "tags": [
+    "indie"
+  ]
 }

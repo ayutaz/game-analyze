@@ -19,5 +19,8 @@
   "social_axis": "",
   "popularity": "HBO-licensed Telltale adventure following House Forrester — peak of the licensed-IP Telltale model.",
   "slug": "game-of-thrones-a-telltale-games-series",
-  "file": "data/games/544-game-of-thrones-a-telltale-games-series.json"
+  "file": "data/games/544-game-of-thrones-a-telltale-games-series.json",
+  "tags": [
+    "indie"
+  ]
 }

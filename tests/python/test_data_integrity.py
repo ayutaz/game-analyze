@@ -495,22 +495,19 @@ class AnalysesTests(unittest.TestCase):
     def setUpClass(cls) -> None:
         cls.entries = _load_game_files()
 
-    def test_analysis_md_exists_for_id_le_1025(self):
-        """ID <= 1025 の games に対応する分析 Markdown が存在することを担保。
-        2026-06-25 の一括生成で 1025/1025 揃ったので欠落 = 退行とみなす。
-        2026-06-26 以降に追加した 1026..2100 範囲はまだ分析 md 未生成のため
-        ここでは対象外（別フェーズで一括生成予定）。
+    def test_analysis_md_exists_or_documented_missing(self):
+        """全 games に対応する分析 Markdown が存在することを担保。
+        2026-06-25 の 1025 件一括生成と 2026-06-26 の 1000 件追加生成で
+        2025/2025 揃った。欠落 = 退行とみなす。
         """
         missing = []
         for path, g in self.entries:
-            if g['id'] > 1025:
-                continue
             stem = f"{g['id']:03d}-{g['slug']}"
             md_path = ANALYSES_DIR / f"{stem}.md"
             if not md_path.exists():
                 missing.append(stem)
         self.assertEqual(missing, [],
-                         f"分析 Markdown が欠けている (ID<=1025): {missing}")
+                         f"分析 Markdown が欠けている: {missing}")
 
     def test_analyses_filename_matches_a_game(self):
         valid_stems = {f"{g['id']:03d}-{g['slug']}" for _, g in self.entries}

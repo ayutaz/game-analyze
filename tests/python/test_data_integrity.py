@@ -667,10 +667,9 @@ class MarkdownConsistencyTests(unittest.TestCase):
         cls.entries = _load_game_files()
 
     def test_games_catalog_md_count_consistent(self):
-        """Catalog は ID <= 1025 範囲を全て持ち、orphan / 重複が無いこと。
-        2026-06-26 以降に追加した 1026..2100 は別フェーズで catalog 行を追記する
-        予定のため、ここでは「ID<=1025 範囲はカバーされている」と「catalog 上の
-        ID は全て data に存在する」の 2 点だけを担保する。
+        """Catalog は全 games (data/games/) の ID を 1 件ずつカバーすること。
+        2026-06-26 の 1000 件拡張で 1026..2100 も catalog に追記したので、
+        現在は data/games/ と catalog 上の ID が完全一致するはず。
         """
         ids: list[int] = []
         for line in self.catalog_md.splitlines():
@@ -678,16 +677,15 @@ class MarkdownConsistencyTests(unittest.TestCase):
             if m:
                 ids.append(int(m.group(1)))
         distinct_ids = set(ids)
-        # ID <= 1025 のレガシー範囲は完全カバー
-        legacy_range = set(range(1, 1026))
-        missing_legacy = legacy_range - distinct_ids
-        self.assertEqual(missing_legacy, set(),
-                         f"games-catalog.md に ID<=1025 で欠落: {sorted(missing_legacy)}")
-        # catalog 上の ID は全て data/games/ に存在する
         valid_ids = {g['id'] for _, g in self.entries}
+        # catalog 上の ID は全て data/games/ に存在する
         orphan = distinct_ids - valid_ids
         self.assertEqual(orphan, set(),
                          f"games-catalog.md に orphan ID: {sorted(orphan)}")
+        # data/games/ の全 ID が catalog にある
+        missing = valid_ids - distinct_ids
+        self.assertEqual(missing, set(),
+                         f"games-catalog.md に欠落 ID: {sorted(missing)[:20]} (計 {len(missing)})")
         # 重複行なし
         dups = [i for i, n in Counter(ids).items() if n > 1]
         self.assertEqual(dups, [],

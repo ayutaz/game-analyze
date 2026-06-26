@@ -1,7 +1,7 @@
 # 日本／世界市場の有名ゲーム — 3カテゴリ分類カタログ
 
-本リポジトリは、国内（日本）および世界市場で発売・配信され、一定規模の販売・DL本数を記録した、または SNS でバズった有名ゲーム計 **1025本** を、以下3つの分類軸で整理した分析カタログです。
-1985–2026年を網羅し、2026年6月に **2020年以降の人気作 101本を一括追加** して 200本へ、続いて **2020年以降に国内外で 20万本超を売り上げたインディー作品 103本を一括追加** して 303本へ、さらに **PC ゲーム 500本（西洋 CRPG、グランドストラテジー、RTS、MMO、FPS、ARPG、シム、サンドボックス、VN・同人、クラシック PC ほか）を一括追加** して 803本へ、続いて **2023–2026年の最新インディーゲーム 114本（『都市伝説解体センター』『SANABI』『Magical Girl Witch Trials』『Nine Sols』『Animal Well 派生』『Lethal Company 系』『Vampire Survivors 系』など）を ultracode + deep-research ワークフローで一括追加** して 917本へ、さらに **2015年以降に一定規模に達した国内モバイルゲーム 108本（『ドッカンバトル』『FEH』『マリオカートツアー』『遊戯王マスターデュエル』『ポケポケ』『ポケモンマスターズEX』『SINoALICE』『シャドウバース』『ロマサガ RS』『FFBE 幻影戦争』『ドラクエタクト』『どうぶつの森ポケキャン』『荒野行動』『PUBG Mobile』など）を ultracode ワークフローで一括追加** して 1025本に拡張しました。
+本リポジトリは、国内（日本）および世界市場で発売・配信され、一定規模の販売・DL本数を記録した、または SNS でバズった有名ゲーム計 **2025本** を、以下3つの分類軸で整理した分析カタログです。
+1985–2026年を網羅し、2026年6月に **2020年以降の人気作 101本を一括追加** して 200本へ、続いて **2020年以降に国内外で 20万本超を売り上げたインディー作品 103本を一括追加** して 303本へ、さらに **PC ゲーム 500本（西洋 CRPG、グランドストラテジー、RTS、MMO、FPS、ARPG、シム、サンドボックス、VN・同人、クラシック PC ほか）を一括追加** して 803本へ、続いて **2023–2026年の最新インディーゲーム 114本（『都市伝説解体センター』『SANABI』『Magical Girl Witch Trials』『Nine Sols』『Animal Well 派生』『Lethal Company 系』『Vampire Survivors 系』など）を ultracode + deep-research ワークフローで一括追加** して 917本へ、さらに **2015年以降に一定規模に達した国内モバイルゲーム 108本（『ドッカンバトル』『FEH』『マリオカートツアー』『遊戯王マスターデュエル』『ポケポケ』『ポケモンマスターズEX』『SINoALICE』『シャドウバース』『ロマサガ RS』『FFBE 幻影戦争』『ドラクエタクト』『どうぶつの森ポケキャン』『荒野行動』『PUBG Mobile』など）を ultracode ワークフローで一括追加** して 1025本へ、最後に **3 領域同時並列ワークフローでグローバル/中華/韓国/SEA モバイル 350本（Honor of Kings、Mobile Legends、Call of Duty: Mobile、Royal Match、Whiteout Survival、Last War: Survival、Wuthering Waves、Solo Leveling: Arise、NIKKE グローバル、Marvel Snap、Love and Deepspace 等）／クラシック PS1/PS2/N64/SNES/MD/GC/Saturn/DC/Xbox/Wii コンソール 350本（FF VII–X、Chrono Trigger、MGS、Silent Hill、Resident Evil、GTA III/VC/SA、God of War 1–2、ICO、Wanda、Halo CE/2、KotOR、Banjo-Kazooie、Goldeneye、Romancing SaGa、聖剣伝説3、Suikoden、Tales of Phantasia/Eternia、Yakuza 0–2 等）／VN・ノベル・アダルト・同人・乙女 350本（Fate/stay night、Tsukihime、ひぐらし／うみねこ全章、Steins;Gate 全作、Air/Kanon/Clannad/Little Busters!、月姫リメイク、素晴らしき日々、サクラノ詩、Dies irae、薄桜鬼、Code:Realize、逆転裁判 4–6、999/VLR/ZTD、Doki Doki Literature Club、Rance シリーズ 等）を 20 並列 discover + JS 側 dedup + 個別 enrich で一括追加** して 2025本に拡張しました（slug 衝突 50 件を後発側削除で解消、ID 範囲 1..2100、75 個欠番）。
 
 ---
 
@@ -30,14 +30,15 @@
 
 ## 2. 集計サマリ
 
-- **総タイトル数**: **1025本**（`data/games.json` 基準、ID 1–1025 が連続稼働）
+- **総タイトル数**: **2025本**（`data/games.json` 基準、ID 範囲 1..2100、slug 衝突解消で 75 個欠番）
 - **主分類の内訳**（`data/games.json` 集計）:
-  - 体験型 (EXP): **705本**
-  - 物語型 (NAR): **125本**
-  - 報酬型 (REW): **195本**
-- **体験型の「他者軸」内訳**: ソロ 501 / 対戦 111 / 協力 70 / 非同期 6 / 非対称 5 / 観戦 3 / 未設定 9（既存99本のうち未設定が残る）
-- **プラットフォーム分布**: PC (Steam/GOG/Epic) を主軸に、Switch / Switch 2 / PS4 / PS5 / Xbox One / Xbox Series / 3DS / Wii / iOS / Android / Arcade / Multi
-- **時代分布**: 1985–2019 = 高比率（PC 古典含む） / 2020–2026 = 多数（2020+ メジャー101本＋2020+ インディー103本、2026年6月時点のスナップショット）
+  - 体験型 (EXP): **1215本**
+  - 物語型 (NAR): **491本**
+  - 報酬型 (REW): **319本**
+- **体験型の「他者軸」内訳**: ソロ 779 / 対戦 294 / 協力 102 / 非同期 23 / 非対称 5 / 観戦 3 / 未設定 9（既存99本のうち未設定が残る）
+- **インディー比率**: indie タグ付き **580本** / 非インディー **1445本**（`scripts/tag_indie.py` で自動分類）
+- **プラットフォーム分布**: PC (Steam/GOG/Epic) を主軸に、Switch / Switch 2 / PS4 / PS5 / Xbox One / Xbox Series / 3DS / Wii / PS1 / PS2 / N64 / SNES / MD / GC / Saturn / DC / iOS / Android / Arcade / Multi
+- **時代分布**: 1985–2019 = 高比率（PC 古典 / クラシックコンソール 350本含む） / 2020–2026 = 多数（2020+ メジャー101本＋2020+ インディー103本＋2023+ 最新インディー114本＋国内モバイル108本＋グローバル/中華/韓国/SEA モバイル 350本、2026年6月時点のスナップショット）
 
 ### 売上・収益で見た日本市場 Top クラス（verified）
 
@@ -90,7 +91,7 @@
 ## 4. ファイル構成
 
 - `README.md` — 本書（全体サマリ・カテゴリ定義・集計）
-- `games-catalog.md` — 全1025本のマスターテーブル（既存99本＋2020年以降追加101本＋2020年以降インディー103本＋PC 拡張500本＋最新インディー追補114本＋国内モバイル拡張108本の6部構成）
+- `games-catalog.md` — 全2025本のマスターテーブル（既存99本＋2020年以降追加101本＋2020年以降インディー103本＋PC 拡張500本＋最新インディー追補114本＋国内モバイル拡張108本＋3 領域同時拡張1000本〔グローバル/中華/韓国/SEA モバイル350本／クラシックコンソール350本／VN・ノベル・アダルト・同人350本〕の7部構成）
 - `category-experience.md` — 体験型ゲーム一覧と「他者軸」分析
 - `category-narrative.md` — 物語型ゲーム一覧
 - `category-reward.md` — 報酬型ゲーム一覧

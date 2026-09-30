@@ -9,6 +9,7 @@
     "test": "npm run test:py && npm run test:js"
   },
   "devDependencies": {
-    "jsdom": "^25.0.0"
+    "jsdom": "^25.0.0",
+    "marked": "18.0.14"
   }
 }

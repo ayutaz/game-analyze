@@ -37,12 +37,16 @@ async function readIndex() {
 async function bootDetail(query, opts = {}) {
   const dom = await loadPage('detail.html', query, opts);
   const win = dom.window;
-  // The page either renders the head (game found) or rewrites <main> with the
-  // not-found message. Wait until one of those two terminal states arrives.
+  // The page either renders the game or rewrites <main> with the not-found
+  // message. Wait until one of those two terminal states arrives. For a found
+  // game the async IIFE ends by filling #rel-year, after awaiting the analysis
+  // markdown; waiting only for the head let a test close the window while that
+  // fetch was in flight, and the IIFE then hit a torn-down document after the
+  // test ended, which node:test reports as a failure of the whole file.
   await waitFor(() => {
-    const head = win.document.querySelector('#head h1');
+    const relYear = win.document.getElementById('rel-year');
     const mainText = win.document.querySelector('main')?.textContent || '';
-    return head || mainText.includes('ゲームが見つかりません');
+    return relYear?.innerHTML.trim() || mainText.includes('ゲームが見つかりません');
   }, 6000);
   return dom;
 }

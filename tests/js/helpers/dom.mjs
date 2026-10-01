@@ -2,8 +2,9 @@
 //
 // `loadPage(relativePath, query)` returns a Promise<JSDOM> whose window has:
 //   * the requested HTML page loaded from site/<relativePath>
-//   * runScripts: 'dangerously' + resources: 'usable' so <script src="shared.js">
-//     and the inline IIFE in facet.html / detail.html actually execute
+//   * runScripts: 'dangerously' + a resource loader (OfflineResourceLoader) so
+//     <script src="shared.js"> and the inline IIFE in facet.html / detail.html
+//     actually execute
 //   * a `fetch` polyfill installed on the window that resolves relative URLs
 //     (e.g. '../data/index.json', `../data/games/${file}`) against the page's
 //     file:// URL and reads from the local filesystem with Node's fs.promises
@@ -11,18 +12,69 @@
 // `waitFor(predicate, timeoutMs)` polls until `predicate()` returns truthy or
 // times out. Useful for waiting on the page's async IIFE to render cards.
 //
+// External <script src> are never fetched from the network. The version-pinned
+// jsDelivr URL for `marked` (site/detail.html) is served from node_modules
+// instead, and loading fails loudly if detail.html pins a different version
+// than package.json installs. Pass `{ cdnAvailable: false }` to loadPage to
+// simulate a CDN outage.
+//
 // Both helpers are intentionally framework-agnostic so individual test files
 // can opt into whichever shape (node:test, mocha, etc.) they prefer.
 
 import { fileURLToPath, pathToFileURL, URL as NodeURL } from 'node:url';
 import { readFile } from 'node:fs/promises';
 import path from 'node:path';
-import { JSDOM } from 'jsdom';
+import { JSDOM, ResourceLoader, VirtualConsole } from 'jsdom';
 
 const HELPERS_DIR = path.dirname(fileURLToPath(import.meta.url));
 // tests/js/helpers -> repo root
 export const REPO_ROOT = path.resolve(HELPERS_DIR, '..', '..', '..');
 export const SITE_DIR = path.join(REPO_ROOT, 'site');
+
+// https://cdn.jsdelivr.net/npm/marked@<version>/<file>
+const MARKED_CDN_RE = /^https:\/\/cdn\.jsdelivr\.net\/npm\/marked@([^/]+)\/(.+)$/;
+const MARKED_DIR = path.join(REPO_ROOT, 'node_modules', 'marked');
+
+async function readMarkedFromNodeModules(version, file) {
+  const pkg = JSON.parse(await readFile(path.join(MARKED_DIR, 'package.json'), 'utf8'));
+  if (pkg.version !== version) {
+    throw new Error(
+      `site pins marked@${version} but node_modules has marked@${pkg.version}; ` +
+        'keep package.json devDependencies in sync with the <script> URL',
+    );
+  }
+  const abs = path.resolve(MARKED_DIR, file);
+  if (!abs.startsWith(MARKED_DIR + path.sep)) {
+    throw new Error(`refusing to serve path outside marked package: ${file}`);
+  }
+  return readFile(abs);
+}
+
+/**
+ * jsdom resource loader that keeps UI tests off the network.
+ * Local (file:) resources load normally; the pinned marked CDN URL is served
+ * from node_modules; any other http(s) resource is rejected.
+ */
+class OfflineResourceLoader extends ResourceLoader {
+  constructor({ cdnAvailable = true } = {}) {
+    super();
+    this.cdnAvailable = cdnAvailable;
+  }
+
+  fetch(url, options) {
+    const m = MARKED_CDN_RE.exec(url);
+    if (m) {
+      if (!this.cdnAvailable) {
+        return Promise.reject(new Error(`CDN unavailable (simulated): ${url}`));
+      }
+      return readMarkedFromNodeModules(m[1], m[2]);
+    }
+    if (/^https?:/i.test(url)) {
+      return Promise.reject(new Error(`network access blocked in tests: ${url}`));
+    }
+    return super.fetch(url, options);
+  }
+}
 
 /**
  * Sleep for `ms` milliseconds. Promise-based.
@@ -153,10 +205,11 @@ function installFetchPolyfill(win) {
  * @param {string} [query='']    query string, with or without leading '?'
  * @param {object} [opts]
  * @param {boolean} [opts.waitForReady=true]  if true, await DOMContentLoaded
+ * @param {boolean} [opts.cdnAvailable=true]  false simulates a CDN outage
  * @returns {Promise<JSDOM>}
  */
 export async function loadPage(relativePath, query = '', opts = {}) {
-  const { waitForReady = true } = opts;
+  const { waitForReady = true, cdnAvailable = true } = opts;
 
   const absHtml = path.join(SITE_DIR, relativePath);
   const html = await readFile(absHtml, 'utf8');
@@ -166,10 +219,20 @@ export async function loadPage(relativePath, query = '', opts = {}) {
     baseUrl.search = query.startsWith('?') ? query.slice(1) : query;
   }
 
+  // Forward page console output as usual, but keep the expected load error of a
+  // simulated CDN outage out of the test log.
+  const virtualConsole = new VirtualConsole();
+  virtualConsole.sendTo(console, { omitJSDOMErrors: true });
+  virtualConsole.on('jsdomError', (err) => {
+    if (!cdnAvailable && /CDN unavailable \(simulated\)/.test(String(err.detail))) return;
+    console.error(err.stack, err.detail);
+  });
+
   const dom = new JSDOM(html, {
     url: baseUrl.toString(),
     runScripts: 'dangerously',
-    resources: 'usable',
+    resources: new OfflineResourceLoader({ cdnAvailable }),
+    virtualConsole,
     pretendToBeVisual: true,
   });
 

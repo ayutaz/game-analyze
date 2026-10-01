@@ -118,4 +118,8 @@ npm install   # 初回のみ（jsdom などをインストール）
 npm test      # Python + JS のテストを全部実行
 ```
 
-push と main への PR では GitHub Actions (`.github/workflows/tests.yml`) が `npm test` を自動実行します。
+push と main への PR では GitHub Actions (`.github/workflows/tests.yml`) が `npm test` を自動実行します。UI テストはネットワークに出ず、`site/detail.html` が CDN から読む `marked` は `package.json` で同じ版に固定したものを `node_modules` から読み込みます（版を上げるときは両方を揃える）。
+
+## 公開サイト
+
+`main` への push で `.github/workflows/deploy-pages.yml` がリポジトリ全体を GitHub Pages（<https://ayutaz.github.io/game-analyze/>）へ配信します。トップの `index.html` は `site/facet.html`（ファセット検索）へリダイレクトし、各タイトルの詳細は `site/detail.html?id=<ID>` です。ローカルではリポジトリ直下で `python3 -m http.server` を起動して `http://localhost:8000/` を開きます。

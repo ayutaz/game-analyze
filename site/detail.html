@@ -4,7 +4,9 @@
   <meta charset="utf-8">
   <title>詳細 — 日本／世界のゲーム 3カテゴリ分析カタログ</title>
   <link rel="stylesheet" href="shared.css">
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- marked は版を固定する。版なしの /npm/marked/marked.min.js は v16 以降のパッケージに存在しない。
+       版を上げるときは package.json の devDependencies（テストが同じ版を使う）も揃える。 -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@18.0.14/lib/marked.umd.js"></script>
   <style>
     .back {
       display: inline-flex;
@@ -268,7 +270,13 @@
       const mdRes = await fetch(mdPath);
       if (mdRes.ok) {
         const md = await mdRes.text();
-        document.getElementById('analysis').innerHTML = marked.parse(md);
+        if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
+          document.getElementById('analysis').innerHTML = marked.parse(md);
+        } else {
+          // CDN の marked が読めなくても、本文（素の Markdown）と関連パネルは表示する
+          document.getElementById('analysis').innerHTML =
+            `<pre class="md-fallback" style="white-space:pre-wrap">${escapeHtml(md)}</pre>`;
+        }
       } else {
         document.getElementById('analysis').innerHTML = `
           <div class="empty-analysis">

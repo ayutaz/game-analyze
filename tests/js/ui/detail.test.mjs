@@ -34,8 +34,8 @@ async function readIndex() {
   return JSON.parse(buf);
 }
 
-async function bootDetail(query) {
-  const dom = await loadPage('detail.html', query);
+async function bootDetail(query, opts = {}) {
+  const dom = await loadPage('detail.html', query, opts);
   const win = dom.window;
   // The page either renders the head (game found) or rewrites <main> with the
   // not-found message. Wait until one of those two terminal states arrives.
@@ -209,6 +209,41 @@ describe('detail.html — id=1 (Animal Crossing: New Horizons)', () => {
   it('related_same_year_capped_at_8', () => {
     const minis = win.document.querySelectorAll('#rel-year a.mini');
     assert.ok(minis.length <= 8, `rel-year must have <=8 links, got ${minis.length}`);
+  });
+});
+
+// --- marked (CDN) が読めないとき --------------------------------------
+//
+// detail.html は marked を CDN から読む。以前は読めないと marked.parse が
+// ReferenceError を投げ、分析本文も関連パネルも描画されなかった。
+
+describe('detail.html — marked (CDN) unavailable', () => {
+  let dom;
+  let win;
+
+  before(async () => {
+    dom = await bootDetail('?id=1', { cdnAvailable: false });
+    win = dom.window;
+    await waitFor(
+      () => win.document.querySelectorAll('#rel-year a.mini').length > 0,
+      6000,
+    );
+  });
+
+  after(() => {
+    dom.window.close();
+  });
+
+  it('analysis_falls_back_to_plain_markdown', () => {
+    const pre = win.document.querySelector('#analysis pre.md-fallback');
+    assert.ok(pre, 'raw markdown should be shown in <pre class="md-fallback">');
+    assert.ok(pre.textContent.trim().length > 0);
+    assert.ok(!/<h[12]/.test(win.document.getElementById('analysis').innerHTML));
+  });
+
+  it('related_panels_still_render', () => {
+    assert.ok(win.document.querySelectorAll('#rel-axis a.mini').length >= 1);
+    assert.ok(win.document.querySelectorAll('#rel-year a.mini').length >= 1);
   });
 });
 
